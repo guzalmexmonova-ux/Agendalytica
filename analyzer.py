@@ -28,8 +28,8 @@ OR_MODELS   = [
 #  ПРОМПТ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-PROMPT = """Ты — главный редактор Telegram-канала AGENDALYTICA (геополитика, экономика).
-Аудитория: думающие люди 25-45 лет.
+PROMPT = """IMPORTANT: Respond ONLY with valid JSON. No markdown, no explanation, no Chinese characters, no extra text. Start your response with {{ and end with }}.
+You are the editor of AGENDALYTICA Telegram channel (geopolitics, economics).
 
 НОВОСТЬ:
 Заголовок: {title}
