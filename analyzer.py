@@ -18,9 +18,8 @@ GEMINI_KEYS  = [k.strip() for k in os.environ.get("GEMINI_API_KEY", "").split(",
 TZ           = timezone(timedelta(hours=5))
 
 GEMINI_MODELS = [
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-001:generateContent",
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-002:generateContent",
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-8b:generateContent",
+    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
+    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent",
 ]
 
 _key_idx = 0
