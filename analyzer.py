@@ -119,9 +119,9 @@ def analyze_article(article):
             data = json.loads(m.group(0))
             if data.get("title_ru"):
                 return data
-   except Exception as e:
+    except Exception as e:
         print(f"  ⚠ JSON error: {e}")
-        print(f"  Raw: {result[:300]}")
+        print(f"  Raw: {result[:300] if result else 'None'}")
     return None
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
