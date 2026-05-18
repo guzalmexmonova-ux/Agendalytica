@@ -19,9 +19,9 @@ TZ          = timezone(timedelta(hours=5))
 
 OR_URL      = "https://openrouter.ai/api/v1/chat/completions"
 OR_MODELS   = [
+    "openai/gpt-4o-mini:free",
+    "anthropic/claude-3-haiku:free", 
     "deepseek/deepseek-v4-flash:free",
-    "google/gemma-3-27b-it:free",
-    "meta-llama/llama-3.1-8b-instruct:free",
 ]
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
