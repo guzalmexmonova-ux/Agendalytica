@@ -1,0 +1,19 @@
+name: Analyzer (every 6 min)
+on:
+  schedule:
+    - cron: '*/6 * * * *'
+  workflow_dispatch:
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install requests
+      - run: python analyzer.py
+        env:
+          GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
+          GIST_ID: ${{ secrets.GIST_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
