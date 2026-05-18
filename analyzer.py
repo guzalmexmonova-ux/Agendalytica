@@ -70,6 +70,8 @@ viral_score 1-10 (10=10млн+ просмотров).
 ТРЕБОВАНИЕ: реальный анализ, никаких шаблонов."""
 
 def gemini_call(prompt):
+    import time
+    time.sleep(10)
     if not GEMINI_KEYS: return None
     key = get_key()
     for model_url in GEMINI_MODELS:
