@@ -72,7 +72,7 @@ viral_score 1-10 (10=10млн+ просмотров).
 def gemini_call(prompt):
     if not GEMINI_KEYS: return None
     key = get_key()
-    for model in ["google/gemini-2.0-flash-exp:free","meta-llama/llama-3.3-70b-instruct:free","mistralai/mistral-7b-instruct:free"]:
+    for model in ["google/gemini-flash-1.5-8b","qwen/qwen-2.5-7b-instruct:free","google/gemma-3-4b-it:free"]:
         try:
             r = requests.post(
                 "https://openrouter.ai/api/v1/chat/completions",
