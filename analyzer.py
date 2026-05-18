@@ -19,7 +19,7 @@ TZ           = timezone(timedelta(hours=5))
 
 GEMINI_MODELS = [
     "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
-    "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash-lite:generateContent",
+    "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent",
 ]
 
 _key_idx = 0
@@ -70,35 +70,28 @@ viral_score 1-10 (10=10млн+ просмотров).
 ТРЕБОВАНИЕ: реальный анализ, никаких шаблонов."""
 
 def gemini_call(prompt):
-    import time
-    time.sleep(10)
     if not GEMINI_KEYS: return None
     key = get_key()
-    for model_url in GEMINI_MODELS:
+    for model in ["google/gemini-2.0-flash-exp:free","meta-llama/llama-3.3-70b-instruct:free","mistralai/mistral-7b-instruct:free"]:
         try:
             r = requests.post(
-                f"{model_url}?key={key}",
-                json={"contents": [{"parts": [{"text": prompt}]}],
-                      "generationConfig": {"temperature": 0.4, "maxOutputTokens": 1500}},
+                "https://openrouter.ai/api/v1/chat/completions",
+                headers={"Authorization":f"Bearer {key}","Content-Type":"application/json","HTTP-Referer":"https://agendalytica.com","X-Title":"Agendalytica"},
+                json={"model":model,"messages":[{"role":"user","content":prompt}],"temperature":0.4,"max_tokens":1500},
                 timeout=30
             )
             if r.status_code == 429:
-                print(f"  ⏳ Rate limit ключ #{_key_idx+1} — переключаем")
-                rotate_key()
-                key = get_key()
-                continue
-            if r.status_code == 503:
-                print(f"  ⚠ 503 перегружена — пробуем другую модель")
+                print(f"  ⏳ Rate limit {model} — следующая модель")
                 continue
             if r.status_code != 200:
-                print(f"  ⚠ Gemini {r.status_code}")
+                print(f"  ⚠ OpenRouter {r.status_code}: {r.text[:80]}")
                 continue
-            d = r.json()
-            if not d.get("candidates"): continue
-            text = d["candidates"][0]["content"]["parts"][0].get("text","").strip()
-            if text: return text
+            text = r.json()["choices"][0]["message"]["content"].strip()
+            if text:
+                print(f"  ✅ OpenRouter: {model.split('/')[1]}")
+                return text
         except Exception as e:
-            print(f"  ⚠ Gemini error: {e}")
+            print(f"  ⚠ OpenRouter error: {e}")
             continue
     return None
 
