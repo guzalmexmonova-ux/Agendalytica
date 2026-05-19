@@ -31,7 +31,7 @@ from datetime import datetime, timezone, timedelta
 GIST_TOKEN    = os.environ.get("GIST_TOKEN", "")
 GIST_ID       = os.environ.get("GIST_ID", "")
 
-HOURS_WINDOW  = 2        # окно свежести в часах
+HOURS_WINDOW  = 4        # окно свежести в часах (4ч = нет слепых зон между 3 сессиями)
 MIN_SCORE     = 6        # минимальный балл (из 10)
 TOP_N         = 50       # топ статей в очереди
 
@@ -661,9 +661,15 @@ def main():
             queue_items.append(a)
             added += 1
 
-    # Сортируем и обрезаем
-    queue_items.sort(key=lambda x: x["score"] * x["weight"], reverse=True)
-    queue_items = queue_items[:100]
+    # Фильтруем: оставляем только статьи за последние 4 часа (нет слепых зон)
+    cutoff_queue = datetime.now(TZ) - timedelta(hours=4)
+    queue_items = [
+        a for a in queue_items
+        if datetime.fromisoformat(a["ts"]) >= cutoff_queue
+    ]
+    # Сортируем по свежести + баллу
+    queue_items.sort(key=lambda x: (x["score"] * x["weight"], x["ts"]), reverse=True)
+    queue_items = queue_items[:50]
 
     # Записываем в Gist
     ok = gist_write(gist_id, "queue.json", {
@@ -684,10 +690,34 @@ def main():
     else:
         print("❌ Ошибка записи в Gist")
 
-
+    # ── Сохраняем свежую очередь (4ч) ──────────────────────
     with open("news_queue.json", "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(TZ).isoformat(), "items": queue_items}, f, ensure_ascii=False, indent=2)
     print(f"✅ news_queue.json сохранён ({len(queue_items)} статей)")
+
+    # ── Обновляем лучшие за день (не удаляем старые) ────────
+    today = datetime.now(TZ).strftime("%Y-%m-%d")
+    from pathlib import Path
+    daily_file = Path("daily_best.json")
+    daily = json.loads(daily_file.read_text(encoding="utf-8")) if daily_file.exists() else {"date": today, "items": []}
+
+    # Сбрасываем если новый день
+    if daily.get("date") != today:
+        daily = {"date": today, "items": []}
+
+    # Добавляем только новые статьи
+    daily_hashes = {a["hash"] for a in daily["items"]}
+    for a in queue_items:
+        if a["hash"] not in daily_hashes:
+            daily["items"].append(a)
+
+    # Топ-20 за день по баллу
+    daily["items"].sort(key=lambda x: x["score"] * x["weight"], reverse=True)
+    daily["items"] = daily["items"][:20]
+    daily["updated"] = datetime.now(TZ).isoformat()
+
+    daily_file.write_text(json.dumps(daily, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(f"✅ daily_best.json обновлён ({len(daily['items'])} лучших за {today})")
 
 
 if __name__ == "__main__":
