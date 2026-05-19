@@ -719,6 +719,88 @@ def main():
     daily_file.write_text(json.dumps(daily, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ daily_best.json обновлён ({len(daily['items'])} лучших за {today})")
 
+    # ── Отправка в Telegram ──────────────────────────────────
+    send_to_telegram(queue_items, daily["items"], today)
+
+
+def send_to_telegram(queue_items: list, daily_items: list, today: str):
+    """Отправляет news_queue (все свежие) и daily_best в Telegram."""
+    token   = os.environ.get("TELEGRAM_TOKEN", "")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
+    if not token or not chat_id:
+        print("⚠ TELEGRAM_TOKEN или TELEGRAM_CHAT_ID не заданы — пропуск")
+        return
+
+    url = f"https://api.telegram.org/bot{token}/sendMessage"
+    now_str = datetime.now(TZ).strftime("%d.%m.%Y %H:%M")
+
+    def tg_send(text: str):
+        try:
+            r = requests.post(url, json={
+                "chat_id": chat_id,
+                "text": text,
+                "parse_mode": "HTML",
+                "disable_web_page_preview": True,
+            }, timeout=15)
+            return r.status_code == 200
+        except Exception as e:
+            print(f"  ⚠ TG error: {e}")
+            return False
+
+    def chunks(lst, n):
+        for i in range(0, len(lst), n):
+            yield lst[i:i + n]
+
+    # ── Сообщение 1: news_queue (все свежие статьи) ──────────
+    header = (
+        f"🔄 <b>NEWS QUEUE — {now_str} TSH</b>\n"
+        f"📦 Свежих статей: {len(queue_items)} (последние 4ч)\n"
+        f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
+    )
+    lines = []
+    for i, a in enumerate(queue_items, 1):
+        age = f"T+{a['age_min']}м" if a.get("age_min") else "GDELT"
+        line = (
+            f"<b>[{i}] {a['score']}/10</b> | {age} | {a['source']}\n"
+            f"📰 {a['title'][:120]}\n"
+            f"🔗 {a['link']}\n"
+        )
+        lines.append(line)
+
+    # Разбиваем на части по 10 статей (лимит Telegram 4096 символов)
+    for idx, batch in enumerate(chunks(lines, 10)):
+        prefix = header if idx == 0 else f"<b>NEWS QUEUE (продолжение {idx+1})</b>\n\n"
+        msg = prefix + "\n".join(batch)
+        if len(msg) > 4000:
+            msg = msg[:4000] + "..."
+        ok = tg_send(msg)
+        print(f"  📤 NEWS QUEUE часть {idx+1}: {'✅' if ok else '❌'}")
+
+    # ── Сообщение 2: daily_best (топ-20 за день) ─────────────
+    header2 = (
+        f"⭐ <b>DAILY BEST — {today}</b>\n"
+        f"🏆 Лучших за день: {len(daily_items)}\n"
+        f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
+    )
+    lines2 = []
+    for i, a in enumerate(daily_items, 1):
+        line = (
+            f"<b>[{i}] {a['score']}/10</b> | {a['source']}\n"
+            f"📰 {a['title'][:120]}\n"
+            f"🔗 {a['link']}\n"
+        )
+        lines2.append(line)
+
+    for idx, batch in enumerate(chunks(lines2, 10)):
+        prefix = header2 if idx == 0 else f"<b>DAILY BEST (продолжение {idx+1})</b>\n\n"
+        msg = prefix + "\n".join(batch)
+        if len(msg) > 4000:
+            msg = msg[:4000] + "..."
+        ok = tg_send(msg)
+        print(f"  📤 DAILY BEST часть {idx+1}: {'✅' if ok else '❌'}")
+
+    print("✅ Telegram отправка завершена")
+
 
 if __name__ == "__main__":
     main()
