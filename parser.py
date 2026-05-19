@@ -677,15 +677,20 @@ def main():
         print(f"✅ Gist обновлён: +{added} новых, всего {len(queue_items)} в очереди")
         print(f"\n🏆 ТОП-5:")
         for i, a in enumerate(queue_items[:5], 1):
+         if ok:
+        print(f"✅ Gist обновлён: +{added} новых, всего {len(queue_items)} в очереди")
+        print(f"\n🏆 ТОП-5:")
+        for i, a in enumerate(queue_items[:5], 1):
             age = f"T+{a['age_min']}мин" if a.get('age_min') else "GDELT"
             print(f"  [{i}] {a['score']}/10 | {age} | [{a['source']}] {a['title'][:80]}")
         print(f"\n📎 Для Claude — читать queue.json:")
         print(f"   {raw_url}")
-else:
+    else:
         print("❌ Ошибка записи в Gist")
+
     with open("news_queue.json", "w", encoding="utf-8") as f:
-        json.dump({"updated": ...}, f, ensure_ascii=False, indent=2)
-    print(f"✅ news_queue.json сохранён...")
+        json.dump({"updated": datetime.now(TZ).isoformat(), "items": queue_items}, f, ensure_ascii=False, indent=2)
+    print(f"✅ news_queue.json сохранён ({len(queue_items)} статей)")
 
 if __name__ == "__main__":
     main()
