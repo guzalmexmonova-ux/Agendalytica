@@ -681,16 +681,11 @@ def main():
             print(f"  [{i}] {a['score']}/10 | {age} | [{a['source']}] {a['title'][:80]}")
         print(f"\n📎 Для Claude — читать queue.json:")
         print(f"   {raw_url}")
-    else:
+else:
         print("❌ Ошибка записи в Gist")
-
+    with open("news_queue.json", "w", encoding="utf-8") as f:
+        json.dump({"updated": ...}, f, ensure_ascii=False, indent=2)
+    print(f"✅ news_queue.json сохранён...")
 
 if __name__ == "__main__":
     main()
-# Сохраняем ВСЕ статьи в файл репо — для чтения Claude
-    with open("news_queue.json", "w", encoding="utf-8") as f:
-        json.dump({
-            "updated": datetime.now(TZ).isoformat(),
-            "items": queue_items
-        }, f, ensure_ascii=False, indent=2)
-    print(f"✅ news_queue.json сохранён ({len(queue_items)} статей)")
