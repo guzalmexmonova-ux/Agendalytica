@@ -673,7 +673,7 @@ def main():
         "items":   queue_items,
     })
 
-   if ok:
+    if ok:
         print(f"✅ Gist обновлён: +{added} новых, всего {len(queue_items)} в очереди")
         print(f"\n🏆 ТОП-5:")
         for i, a in enumerate(queue_items[:5], 1):
@@ -683,6 +683,7 @@ def main():
         print(f"   {raw_url}")
     else:
         print("❌ Ошибка записи в Gist")
+
 
     with open("news_queue.json", "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(TZ).isoformat(), "items": queue_items}, f, ensure_ascii=False, indent=2)
