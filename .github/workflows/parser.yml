@@ -16,7 +16,7 @@ jobs:
         env:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
-       - name: Push news_queue to repo
+      - name: Push news_queue to repo
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
