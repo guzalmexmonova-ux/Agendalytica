@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-21T03:36:35.812523+05:00",
+  "updated": "2026-05-21T03:51:24.095464+05:00",
   "items": [
+    {
+      "hash": "2531a97b9dbe3693e250c0db97cfd0c0",
+      "title": "US - Iran war update : Donald Trump warns next attack could be launched  very quickly , says people would die",
+      "summary": "",
+      "link": "https://www.perthnow.com.au/news/world/us-iran-war-update-donald-trump-warns-next-attack-could-be-launched-very-quickly-says-people-would-die-c-22315180",
+      "source": "GDELT/TAIWAN",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:49:00.940351+05:00",
+      "age_min": 34.0
+    },
+    {
+      "hash": "b32ebebd065abf32654d836b916227a0",
+      "title": "Labour funds the Putin war effort :  Pathetic  PM is blasted over move to water down sanctions on Russian oil",
+      "summary": "",
+      "link": "https://www.dailymail.com/news/article-15835445/Labour-funds-Putin-war-effort-Pathetic-PM-blasted-water-sanctions-Russian-oil.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:48:30.877442+05:00",
+      "age_min": 33.5
+    },
     {
       "hash": "0d80e04b0ad8e02fb0e851aa26bd0ec6",
       "title": "Dollar rises to six - week high on rate hike bets and war uncertainty",
@@ -62,16 +86,28 @@
       "age_min": 31.4
     },
     {
-      "hash": "4b9d1dd074c15ccfb0a753831ad2ef7e",
-      "title": "Mideast war drives up bond yields , budget risk",
-      "summary": "",
-      "link": "https://www.spacewar.com/afp/260520160158.5yq6vtko.html",
-      "source": "GDELT/MACRO",
-      "score": 10,
+      "hash": "3c6ceb1d9992d3a3ae9e66740cf62f88",
+      "title": "Gold Steadies as Hopes of US-Iran Truce Lower Odds of Rate Hikes",
+      "summary": "Gold was little changed as optimism over efforts to end the Middle East conflict eased bets on interest-rate hikes.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-20/gold-steadies-as-hopes-of-us-iran-truce-lower-odds-of-rate-hikes",
+      "source": "Bloomberg",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-20T23:49:11.836678+05:00",
-      "age_min": 34.2
+      "ts": "2026-05-21T03:50:41.712608+05:00",
+      "age_min": 12.2
+    },
+    {
+      "hash": "fd61f9a7e09558b8efb7c31f5d0a1bff",
+      "title": "Trump Threatens Fresh Military Action Against Iran If Final - Stage Nuclear Talks Fail",
+      "summary": "",
+      "link": "https://saharareporters.com/2026/05/20/trump-threatens-fresh-military-action-against-iran-if-final-stage-nuclear-talks-fail",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:45:51.150647+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "290f26856e059b039fb74dbdb6a41264",
@@ -96,6 +132,54 @@
       "status": "new",
       "ts": "2026-05-21T01:16:26.095539+05:00",
       "age_min": 31.4
+    },
+    {
+      "hash": "569ebe42afeedcbde6f277dd86524437",
+      "title": "Iran war could make your Memorial Day or summer road trip costly",
+      "summary": "",
+      "link": "https://autos.yahoo.com/policy-and-environment/articles/iran-war-could-memorial-day-214057354.html",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:49:43.270498+05:00",
+      "age_min": 34.7
+    },
+    {
+      "hash": "db244606be7c8643d583d771feea1d64",
+      "title": "Iran war , skyrocketing fuel prices battering Oregon economic forecast | News Free",
+      "summary": "",
+      "link": "https://www.polkio.com/news_free/iran-war-skyrocketing-fuel-prices-battering-oregon-s-economic-forecast/article_2b478b4e-b921-5cd7-950f-b621af6d6852.html",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:49:32.685518+05:00",
+      "age_min": 34.5
+    },
+    {
+      "hash": "5a3c37733eaaab74920524ad6ba9e839",
+      "title": "First known Russian recruited from university dies in war",
+      "summary": "",
+      "link": "https://www.universityworldnews.com/post.php?story=20260520194837514",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:48:30.882147+05:00",
+      "age_min": 33.5
+    },
+    {
+      "hash": "d8d3107fca8be677309011ab31d1daac",
+      "title": "Even The Most Loyal Young MAGA Warriors Jump Ship Over Iran War",
+      "summary": "",
+      "link": "https://dailycaller.com/2026/05/20/turning-point-usa-iran-war-america-first-donald-trump/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:45:51.153955+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "fa4c4c00078fe5aea04090a91c5bdf9a",
@@ -206,42 +290,6 @@
       "age_min": 6.2
     },
     {
-      "hash": "0f6e27a98b33f6176358dc8261df60bf",
-      "title": "US lost 42 aircraft , including fighter jets and drones , in Iran war : Congressional study",
-      "summary": "",
-      "link": "https://scroll.in/latest/1092979/us-lost-42-aircraft-including-fighter-jets-drones-in-iran-war-congressional-study",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-20T23:46:22.811151+05:00",
-      "age_min": 46.4
-    },
-    {
-      "hash": "3250bc278ffd970f81ca6ece8bc66b15",
-      "title": "War will extend beyond Middle East ; Iran responds to Trump ultimatum",
-      "summary": "",
-      "link": "https://keralakaumudi.com/en/en/world/others/war-will-extend-beyond-middle-east-iran-responds-to-trumps-ultimatum-1750584",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-20T23:46:22.806193+05:00",
-      "age_min": 46.4
-    },
-    {
-      "hash": "04349df0a7809f80baa4ec0fbf2fd22b",
-      "title": "India playing huge role  in ending Russia - Ukraine war , says Estonia Foreign Minister",
-      "summary": "",
-      "link": "http://www.bignewsnetwork.com/news/279064235/india-playing-huge-role-in-ending-russia-ukraine-war-says-estonia-foreign-minister",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-20T23:46:07.273432+05:00",
-      "age_min": 46.1
-    },
-    {
       "hash": "bad18029067bc16b6c87dfe023741e26",
       "title": "Trump warns Iran of “rapid escalation” as nuclear talks near final stage - شفق نيوز",
       "summary": "Trump warns Iran of “rapid escalation” as nuclear talks near final stage&nbsp;&nbsp;شفق نيوز",
@@ -290,6 +338,42 @@
       "age_min": 45.8
     },
     {
+      "hash": "072d27c078d080a4165a5a8a540330ab",
+      "title": "Majority  of US Fed officials say rate hikes may be needed",
+      "summary": "",
+      "link": "https://www.digitaljournal.com/business/majority-of-us-fed-officials-say-rate-hikes-may-be-needed/article",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:49:32.681237+05:00",
+      "age_min": 34.5
+    },
+    {
+      "hash": "790c2f11bc2015e7c628f77f62516e1a",
+      "title": "Những dấu ấn của ông Jerome Powell trong 8 năm chèo lái Fed",
+      "summary": "",
+      "link": "https://vietgiaitri.com/nhung-dau-an-cua-ong-jerome-powell-trong-8-nam-cheo-lai-fed-20260521i7697135/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:49:32.680920+05:00",
+      "age_min": 34.5
+    },
+    {
+      "hash": "8153331419fce8740229e5299ba3ca7c",
+      "title": "Fed Officials Expect Rate Hikes If Inflation Continues",
+      "summary": "",
+      "link": "https://www.rismedia.com/2026/05/20/fed-officials-expect-rate-hikes-if-inflation-continues/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:49:32.680591+05:00",
+      "age_min": 34.5
+    },
+    {
       "hash": "69c8f24a776338c54112994b515fcf05",
       "title": "IPL 2026 : Pandey , Powell , and bowlers keep KKR playoffs hope alive",
       "summary": "",
@@ -336,6 +420,18 @@
       "status": "new",
       "ts": "2026-05-21T02:02:24.566632+05:00",
       "age_min": 77.4
+    },
+    {
+      "hash": "a85ba91afbe9228ceafeaeb3cb567b75",
+      "title": "US may need to carry out another attack on Iran , Trump says",
+      "summary": "",
+      "link": "http://www.heraldglobe.com/news/279061564/trump-says-us-may-need-to-attack-iran-again",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T03:45:51.151893+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "bca3b40f46d6b7c43d9bd0330ae155c8",
@@ -494,88 +590,16 @@
       "age_min": 35.4
     },
     {
-      "hash": "3c5d970866ad649227f917b45bf1cde9",
-      "title": "Trump gives blasé response to rate hike possibility - MSN",
-      "summary": "Trump gives blasé response to rate hike possibility&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZWFYTUVkdFdKdUpBVHVrMDh3M0FPNDJKN2VvVnJKTDh2ZTZTVmY4bzVhMFRiSHJhcTFWWVdCNmxDMTJKQ0pMczItcnFzSXFBSUJNQ3lzQjNoOUc4dU5fY0pQMU9Rdm9BUXNad3pzUDVob2hsYVRacEd6dEh1TXh3cmhGck4wTTlNeWMwNGs4aDNhVnc1Y3o0OGdnQjhZY2hYOFJZb2UxWUhsTUIzZGFFNS1BNmh2MGtiWXo0T2lGNnI1R2NWb1lId1pLSy1EQ1dydnpfOWJZdnYyeTQ0d0U0WmhGc183dm4zX1hySkRR?oc=5",
+      "hash": "d064ad1a51d9cdc371361984d3dd8a2e",
+      "title": "Majority of policymakers see rate hikes likely if inflation persists - Fed minutes - Investing.com Canada",
+      "summary": "Majority of policymakers see rate hikes likely if inflation persists - Fed minutes&nbsp;&nbsp;Investing.com Canada",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVjQ3UmQyanYtSElVcDQzZWNtMWxQc0xDTmxtTzNObnFnVlUzMVZucnBqeEhJdDY2TVlYR1ZIRWFUVGNKMVlWZjJXckZLUFRETU4wYkV6REx1d0VDV1pPbUVYVUVkUUpZYkpOeG1walFwZGVUZlhLZUNHNFoweDVKZFZTMzdEbHBoTzdGM2p2NVFSbTVHZXg5TDE4c1J6aC1NNVpuZ1MtTjFhQVdObXhocUxfQlZON0otYm9PZHdyREVwVC1UY3dPOTNyYk4?oc=5",
       "source": "GNews/CentralBanks",
       "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-21T03:36:15.010670+05:00",
-      "age_min": 95.5
-    },
-    {
-      "hash": "9fef51fd4a6b83c16a190fe327276743",
-      "title": "Fed Minutes Show Officials Open to Rate Hikes If Inflation Persists Above Target - MEXC",
-      "summary": "Fed Minutes Show Officials Open to Rate Hikes If Inflation Persists Above Target&nbsp;&nbsp;MEXC",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOdXV2bkpoVkEtckl4elFIVEJzTzRZaVNNXzY3YXU3UEFNYTgzazJyY3ZTN2s2N1lMUGxIODgzMnUyTzJlUHhpMw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T02:33:28.103756+05:00",
-      "age_min": 24.9
-    },
-    {
-      "hash": "b2dfed3d0887de9e0e3a2e11ae8e9dfe",
-      "title": "Fed Minutes Reveal Support for Rate Hikes if Inflation Proves Persistent - WSJ",
-      "summary": "Fed Minutes Reveal Support for Rate Hikes if Inflation Proves Persistent&nbsp;&nbsp;WSJ",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNM3B2WWw5VnNCNWo5SWlqdlhOT2ZVZm9yTm5yc1hmdGE3SUUyZy1RTndpUGF3T0REdXJHc2xGZUR2SnB1dU1aQ2plTWJaTTVaRkxjV2RUSVg0NDVxTzRVV18tbWRBMzNHNHJMOFp0Zm85dk1LMkl4SVFVNDlJaE1nQ05HV3BFWnYxRTlhSjBtQW16WWlYQnA1cW9OMk1wTE9taEYyUUoxTnN6U2tmT1ZyYTBDcnNjQngtSmNrVVoxNjF2Qms?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T02:17:31.695280+05:00",
-      "age_min": 91.5
-    },
-    {
-      "hash": "96457ab129a70fef17bebdec089e3470",
-      "title": "Fed minutes show more policymakers open to a rate hike - Reuters",
-      "summary": "Fed minutes show more policymakers open to a rate hike&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzRaNVFyVGlDLTQ4X0NRZF9wSGRNRmstd3JyX2NwanZFUEYwVjVXbndQN29MeDB5ZVpEaUh6WkxSaHBLNU1OQmtGNkRqV0xLdkJXWU80a1o5YWM1UTV6ZG1zNUJwOUY5a1lmbU9KRGdsYUszeFRYcGY3c1d1UWQ4czQ1SUYweUNOd01sLW1GbXNTeWlkQjdadWtSRmx0dXJQenc?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T02:17:31.694759+05:00",
-      "age_min": 45.8
-    },
-    {
-      "hash": "dd3461b72911583d4fb27e59a72a0515",
-      "title": "Support For Rate Hikes Is Gaining Steam On Fed's Policy Committee - Investopedia",
-      "summary": "Support For Rate Hikes Is Gaining Steam On Fed's Policy Committee&nbsp;&nbsp;Investopedia",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2JWQ0lBckYwa1J2UnBKUUo2YXF0elMydVUyN3prdUpsc01KQ0ctZjRDc2JYV2FuQ2xmc3dQOTktWEh3aEtRYlJTMkh0aS11T2d6RFpJbUNNXzlhbHladEdIa3VEOEdDU2hRRHdMSVkxdk5ZUDVMWFJkQW05RS1RVHFGenBhazltZ0hRR3lNNzZ1U29JUXNGWFQxTG9jREZOb1JsSA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T02:04:12.941045+05:00",
-      "age_min": 93.1
-    },
-    {
-      "hash": "e7492ea14b88676618bcc9724795edc4",
-      "title": "Fed minutes from divisive meeting show officials prepping for possible rate hike as inflation fears intensify - New York Post",
-      "summary": "Fed minutes from divisive meeting show officials prepping for possible rate hike as inflation fears intensify&nbsp;&nbsp;New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmhhOWZxM0Ntb3B6RGd3TzRNV250clB6Q2NzSlBNb2pBYUxzS2pVY19GREhORmQ5NDRuczVOekRwME83UVd0TFJpbEtqTTdMSTl5dkxhYlR0YjE0dzJ5TzRHQXFDU084MnU0RUpuaHduTWFqUW9lVzJMOUJ5aHBJTXZwNDNFeWVvU1pTWlpKMXRZRXRTNjFVOXVkNHdIbUJObnA3TlNlQ2d6eTNnd2tzVjZnYmhiY1YxbDFnbTU4ZGRTSXM?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T01:47:16.998249+05:00",
-      "age_min": 111.3
-    },
-    {
-      "hash": "73dc319f70c063a381fa21f73bd98235",
-      "title": "UPDATE 2-Fed minutes show more policymakers open to a rate hike - Devdiscourse",
-      "summary": "UPDATE 2-Fed minutes show more policymakers open to a rate hike&nbsp;&nbsp;Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeEZGeGJlRFd3QWN5bEU4SEplWjdIWk5JSWlKLXZzWXZocUpaVGdCSWZ0T1c4OXhWemgtRnByV2t3SEJFejgyMUd5QmZJSHVBd2FWZWdPbm1MM2xOQ0tIbjFfOXFxSm5vWmllWmE4QjlyUGkzdTJrRTdaQ1FPUkpiM0Z0V2I3QmVNeXlock1mc0M4YkNCbDJYTU9fSTVfeHJ1SS01VjZqbnhJRHdDeVpvZm1CSEZWcmc5QjdjUzRsMNIBvwFBVV95cUxQeEZGeGJlRFd3QWN5bEU4SEplWjdIWk5JSWlKLXZzWXZocUpaVGdCSWZ0T1c4OXhWemgtRnByV2t3SEJFejgyMUd5QmZJSHVBd2FWZWdPbm1MM2xOQ0tIbjFfOXFxSm5vWmllWmE4QjlyUGkzdTJrRTdaQ1FPUkpiM0Z0V2I3QmVNeXlock1mc0M4YkNCbDJYTU9fSTVfeHJ1SS01VjZqbnhJRHdDeVpvZm1CSEZWcmc5QjdjUzRsMA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T01:35:59.015666+05:00",
-      "age_min": 109.9
+      "ts": "2026-05-21T03:51:07.163322+05:00",
+      "age_min": 77.4
     }
   ]
 }
