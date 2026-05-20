@@ -384,53 +384,84 @@ def extract_domain(url):
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
+# Жёсткий вето-фильтр: спорт/быт прорывается с высоким баллом из-за слова "war"
+VETO_PATTERNS = [
+    " vs ", " vs.", "overtime", "stabbing", "pleads guilty", "win prize",
+    "awards", "box office", "red carpet", "world cup call", "draft pick",
+    "transfer fee", "bauer sucht", "sucht frau", "tv-show", "tv show",
+    "reality show", "knicks", "lakers", "cavs", "neymar",
+]
+
 def score_article(title: str, summary: str = "", domain: str = "") -> int:
     """
-    Скоринг по полной таблице из Парсинг.docx.
-    Возвращает балл 0-10.
+    Скоринг Вариант C: счёт совпадений + штраф за одно случайное слово.
+    GDELT и не-Tier1 режутся. Возвращает реальный разброс 0-10.
     """
     tl = (title + " " + summary).lower()
+    title_lower = title.lower()
 
-    # Шумовые паттерны → сразу 0
+    # ── Вето: спорт / быт / шоу-бизнес → сразу 0 ──────────────
+    for v in VETO_PATTERNS:
+        if v in tl:
+            return 0
     for p in NOISE_PATTERNS:
         if p in tl:
             return 0
-    # Мусорный домен → 0
     if domain in NOISE_DOMAINS:
         return 0
-    # Аналитический заголовок → 0
-    title_lower = title.lower()
     for am in ANALYTICAL_MARKERS:
         if am in title_lower:
             return 0
 
-    # Базовый балл по ключевым словам (берём максимальный)
-    score = 0
+    # ── Базовый балл + СЧЁТ совпадений (Вариант B-основа) ──────
+    base = 0
+    total_hits = 0           # сколько вообще ключей сработало
+    strong_hits = 0          # сколько сильных (балл ≥ 8) сработало
     for pts, kw_list in SCORES_MAP.items():
         for kw in kw_list:
             if kw in tl:
-                score = max(score, pts)
+                base = max(base, pts)
+                total_hits += 1
+                if pts >= 8:
+                    strong_hits += 1
 
-    if score == 0:
+    if base == 0:
         return 0
 
-    # Breaking marker → +1
+    is_gdelt = "GDELT" in domain or domain not in TIER1_DOMAINS
+    is_tier1 = domain in TIER1_DOMAINS
+
+    score = base
+
+    # ── ШТРАФ (ядро Варианта C): зацепился ОДНИМ словом и не Tier-1 ──
+    if total_hits == 1 and not is_tier1:
+        score = max(6, score - 2)        # одно случайное слово → срезаем
+
+    # ── GDELT/региональные режутся на 2 (даём дорогу FT/Bloomberg) ──
+    if is_gdelt:
+        score = max(6, score - 2)
+
+    # ── Бонус за плотность сигналов (несколько сильных ключей) ──
+    if strong_hits >= 2:
+        score = min(10, score + 1)
+
+    # ── Breaking marker → +1 ──
     for bm in BREAKING_MARKERS:
         if bm in tl:
             score = min(10, score + 1)
             break
 
-    # Anchor keyword → +2 (если не достигнут балл через них)
+    # ── Anchor keyword → +1 ──
     for ak in ANCHOR_KEYWORDS:
         if ak in tl:
             score = min(10, score + 1)
             break
 
-    # Tier-1 домен → +1
-    if domain in TIER1_DOMAINS:
+    # ── Tier-1 домен → +1 ──
+    if is_tier1:
         score = min(10, score + 1)
 
-    return score
+    return max(0, min(10, score))
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -460,6 +491,16 @@ def fetch_all() -> list:
                 sc = score_article(title, "", domain)
                 if sc < MIN_SCORE:
                     continue
+                # GDELT отдаёт pubDate — берём реальный возраст
+                pub = e.get("published_parsed") or e.get("updated_parsed")
+                age_min = None
+                ts_utc = datetime.now(timezone.utc)
+                if pub:
+                    pub_dt = datetime(*pub[:6], tzinfo=timezone.utc)
+                    if pub_dt < cutoff:
+                        continue
+                    age_min = round((datetime.now(timezone.utc) - pub_dt).total_seconds() / 60, 1)
+                    ts_utc = pub_dt
                 seen_hashes.add(h)
                 gdelt_ok += 1
                 articles.append({
@@ -467,7 +508,7 @@ def fetch_all() -> list:
                     "link": link, "source": source_name,
                     "score": sc, "weight": weight, "status": "new",
                     "ts": datetime.now(TZ).isoformat(),
-                    "age_min": 0,  # GDELT не даёт точное время
+                    "age_min": age_min,   # реальный возраст или None
                 })
         except Exception as e:
             print(f"  ⚠ GDELT [{source_name}]: {e}")
@@ -528,12 +569,27 @@ def fetch_all() -> list:
         reverse=True
     )
 
-    # ── Дедупликация по похожим заголовкам ───────────────────────
-    unique, seen_titles = [], set()
+    # ── Дедупликация по смыслу (один сюжет от разных доменов) ────
+    import unicodedata
+    STOP = {"the","a","an","of","in","on","to","for","and","is","as","at","по","в","на","и",
+            "о","с","за","из","что","как","says","said","after","amid","over","with"}
+    def sig(title):
+        t = unicodedata.normalize("NFKD", title.lower())
+        words = re.findall(r"[a-zа-я0-9]+", t)
+        words = [w for w in words if w not in STOP and len(w) > 2]
+        return frozenset(words[:8])   # ключевые сущности заголовка
+
+    unique, seen_sigs = [], []
     for a in articles:
-        key = re.sub(r'[^a-zа-я0-9]', '', a["title"].lower())[:60]
-        if key not in seen_titles:
-            seen_titles.add(key)
+        s = sig(a["title"])
+        dup = False
+        for prev in seen_sigs:
+            # пересечение ≥60% ключевых слов = тот же сюжет
+            if s and prev and len(s & prev) / max(len(s), 1) >= 0.6:
+                dup = True
+                break
+        if not dup:
+            seen_sigs.append(s)
             unique.append(a)
 
     return unique[:TOP_N]
@@ -627,7 +683,7 @@ def get_or_create_gist():
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def main():
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v4.0 — {now_str} TASHKENT")
+    print(f"🔄 Parser v5.0 — {now_str} TASHKENT")
     print(f"   Источников RSS: {len(RSS_FEEDS)} | GDELT срезов: {len(GDELT_FEEDS)}")
 
     gist_id = get_or_create_gist()
@@ -654,11 +710,13 @@ def main():
     articles = fetch_all()
     print(f"✅ Найдено {len(articles)} статей (score ≥ {MIN_SCORE})")
 
-    # Добавляем только новые
+    # Добавляем только новые + копим список того что отправим СЕЙЧАС
     added = 0
+    fresh_to_send = []          # только реально новые статьи для этой отправки
     for a in articles:
         if a["hash"] not in sent_hashes and a["hash"] not in queue_hashes:
             queue_items.append(a)
+            fresh_to_send.append(a)
             added += 1
 
     # Фильтруем: оставляем только статьи за последние 4 часа (нет слепых зон)
@@ -719,16 +777,39 @@ def main():
     daily_file.write_text(json.dumps(daily, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ daily_best.json обновлён ({len(daily['items'])} лучших за {today})")
 
-    # ── Отправка в Telegram ──────────────────────────────────
-    send_to_telegram(queue_items, daily["items"], today)
+    # ── Обновляем sent.json: помечаем отправленное, чистим >24ч ──
+    now_iso = datetime.now(TZ).isoformat()
+    sent_records = sent.get("records", [])
+    # старый формат (только hashes) — мигрируем
+    existing = {r["h"] for r in sent_records}
+    for a in fresh_to_send:
+        if a["hash"] not in existing:
+            sent_records.append({"h": a["hash"], "ts": now_iso})
+    cutoff_sent = datetime.now(TZ) - timedelta(hours=24)
+    sent_records = [
+        r for r in sent_records
+        if datetime.fromisoformat(r["ts"]) >= cutoff_sent
+    ]
+    gist_write(gist_id, "sent.json", {
+        "hashes": [r["h"] for r in sent_records],   # обратная совместимость
+        "records": sent_records,
+    })
+    print(f"💾 sent.json: {len(sent_records)} хэшей под контролем (24ч)")
+
+    # ── Флаг саммари: запуск в окне 18:25–18:40 TSH ──
+    now_tsh = datetime.now(TZ)
+    is_summary = (now_tsh.hour == 18 and 25 <= now_tsh.minute <= 40)
+
+    # ── Отправка: только НОВОЕ; в 18:30 — ещё и саммари дня ──
+    send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
 
 
-def send_to_telegram(queue_items: list, daily_items: list, today: str):
-    """Отправляет news_queue (все свежие) и daily_best в Telegram."""
+def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summary: bool = False):
+    """Шлёт только новые статьи. В 18:30 — добавляет саммари дня."""
     token   = os.environ.get("TELEGRAM_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
     if not token or not chat_id:
-        print("⚠ TELEGRAM_TOKEN или TELEGRAM_CHAT_ID не заданы — пропуск")
+        print("⚠ TELEGRAM_TOKEN/CHAT_ID не заданы — пропуск")
         return
 
     url = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -737,10 +818,8 @@ def send_to_telegram(queue_items: list, daily_items: list, today: str):
     def tg_send(text: str):
         try:
             r = requests.post(url, json={
-                "chat_id": chat_id,
-                "text": text,
-                "parse_mode": "HTML",
-                "disable_web_page_preview": True,
+                "chat_id": chat_id, "text": text,
+                "parse_mode": "HTML", "disable_web_page_preview": True,
             }, timeout=15)
             return r.status_code == 200
         except Exception as e:
@@ -751,53 +830,58 @@ def send_to_telegram(queue_items: list, daily_items: list, today: str):
         for i in range(0, len(lst), n):
             yield lst[i:i + n]
 
-    # ── Сообщение 1: news_queue (все свежие статьи) ──────────
-    header = (
-        f"🔄 <b>NEWS QUEUE — {now_str} TSH</b>\n"
-        f"📦 Свежих статей: {len(queue_items)} (последние 4ч)\n"
-        f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
-    )
-    lines = []
-    for i, a in enumerate(queue_items, 1):
-        age = f"T+{a['age_min']}м" if a.get("age_min") else "GDELT"
-        line = (
-            f"<b>[{i}] {a['score']}/10</b> | {age} | {a['source']}\n"
-            f"📰 {a['title'][:120]}\n"
-            f"🔗 {a['link']}\n"
+    def fmt_age(a):
+        am = a.get("age_min")
+        if am is None:
+            return "GDELT"
+        return f"T+{am}м"
+
+    # ── Только новые статьи ──────────────────────────────────
+    if fresh_items:
+        header = (
+            f"🔄 <b>СВЕЖЕЕ — {now_str} TSH</b>\n"
+            f"📦 Новых статей: {len(fresh_items)}\n"
+            f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
         )
-        lines.append(line)
+        lines = []
+        for i, a in enumerate(fresh_items, 1):
+            lines.append(
+                f"<b>[{i}] {a['score']}/10</b> | {fmt_age(a)} | {a['source']}\n"
+                f"📰 {a['title'][:120]}\n"
+                f"👉 <a href='{a['link']}'>Читать ({a['source']})</a>\n"
+            )
+        for idx, batch in enumerate(chunks(lines, 10)):
+            prefix = header if idx == 0 else f"<b>СВЕЖЕЕ (продолжение {idx+1})</b>\n\n"
+            msg = prefix + "\n".join(batch)
+            if len(msg) > 4000:
+                msg = msg[:4000] + "..."
+            ok = tg_send(msg)
+            print(f"  📤 СВЕЖЕЕ часть {idx+1}: {'✅' if ok else '❌'}")
+    else:
+        print("  ✓ Новых статей нет — отправка пропущена")
 
-    # Разбиваем на части по 10 статей (лимит Telegram 4096 символов)
-    for idx, batch in enumerate(chunks(lines, 10)):
-        prefix = header if idx == 0 else f"<b>NEWS QUEUE (продолжение {idx+1})</b>\n\n"
-        msg = prefix + "\n".join(batch)
-        if len(msg) > 4000:
-            msg = msg[:4000] + "..."
-        ok = tg_send(msg)
-        print(f"  📤 NEWS QUEUE часть {idx+1}: {'✅' if ok else '❌'}")
-
-    # ── Сообщение 2: daily_best (топ-20 за день) ─────────────
-    header2 = (
-        f"⭐ <b>DAILY BEST — {today}</b>\n"
-        f"🏆 Лучших за день: {len(daily_items)}\n"
-        f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
-    )
-    lines2 = []
-    for i, a in enumerate(daily_items, 1):
-        line = (
-            f"<b>[{i}] {a['score']}/10</b> | {a['source']}\n"
-            f"📰 {a['title'][:120]}\n"
-            f"🔗 {a['link']}\n"
+    # ── Саммари дня (только в 18:30) ─────────────────────────
+    if is_summary and daily_items:
+        top1 = daily_items[0]
+        header2 = (
+            f"⭐ <b>САММАРИ ДНЯ — {today}</b>\n"
+            f"🏆 Главное за день: {top1['title'][:90]}\n"
+            f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
         )
-        lines2.append(line)
-
-    for idx, batch in enumerate(chunks(lines2, 10)):
-        prefix = header2 if idx == 0 else f"<b>DAILY BEST (продолжение {idx+1})</b>\n\n"
-        msg = prefix + "\n".join(batch)
-        if len(msg) > 4000:
-            msg = msg[:4000] + "..."
-        ok = tg_send(msg)
-        print(f"  📤 DAILY BEST часть {idx+1}: {'✅' if ok else '❌'}")
+        lines2 = []
+        for i, a in enumerate(daily_items, 1):
+            lines2.append(
+                f"<b>[{i}] {a['score']}/10</b> | {a['source']}\n"
+                f"📰 {a['title'][:120]}\n"
+                f"👉 <a href='{a['link']}'>Читать ({a['source']})</a>\n"
+            )
+        for idx, batch in enumerate(chunks(lines2, 10)):
+            prefix = header2 if idx == 0 else f"<b>САММАРИ (продолжение {idx+1})</b>\n\n"
+            msg = prefix + "\n".join(batch)
+            if len(msg) > 4000:
+                msg = msg[:4000] + "..."
+            ok = tg_send(msg)
+            print(f"  📤 САММАРИ часть {idx+1}: {'✅' if ok else '❌'}")
 
     print("✅ Telegram отправка завершена")
 
