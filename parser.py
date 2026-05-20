@@ -32,7 +32,7 @@ GIST_TOKEN    = os.environ.get("GIST_TOKEN", "")
 GIST_ID       = os.environ.get("GIST_ID", "")
 
 HOURS_WINDOW  = 4        # окно свежести в часах (4ч = нет слепых зон между 3 сессиями)
-MIN_SCORE     = 6        # минимальный балл (из 10)
+MIN_SCORE     = 5        # минимальный балл (из 10) — пограничный свежак проходит, мусор в 0
 TOP_N         = 50       # топ статей в очереди
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
@@ -392,10 +392,18 @@ VETO_PATTERNS = [
     "reality show", "knicks", "lakers", "cavs", "neymar",
 ]
 
+def _has(kw: str, text: str) -> bool:
+    """Совпадение по ГРАНИЦЕ слова: 'war' не сработает в 'warrior'/'award'/'forward'."""
+    # для фраз с пробелом — обычное вхождение; для слов — граница \b
+    if " " in kw:
+        return kw in text
+    return re.search(r"(?<![a-zа-яё0-9])" + re.escape(kw) + r"(?![a-zа-яё0-9])", text) is not None
+
+
 def score_article(title: str, summary: str = "", domain: str = "") -> int:
     """
     Скоринг Вариант C: счёт совпадений + штраф за одно случайное слово.
-    GDELT и не-Tier1 режутся. Возвращает реальный разброс 0-10.
+    GDELT и не-Tier1 режутся. Поиск по границам слова. Разброс 0-10.
     """
     tl = (title + " " + summary).lower()
     title_lower = title.lower()
@@ -413,13 +421,13 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
         if am in title_lower:
             return 0
 
-    # ── Базовый балл + СЧЁТ совпадений (Вариант B-основа) ──────
+    # ── Базовый балл + СЧЁТ совпадений (по границам слова) ──────
     base = 0
     total_hits = 0           # сколько вообще ключей сработало
     strong_hits = 0          # сколько сильных (балл ≥ 8) сработало
     for pts, kw_list in SCORES_MAP.items():
         for kw in kw_list:
-            if kw in tl:
+            if _has(kw, tl):
                 base = max(base, pts)
                 total_hits += 1
                 if pts >= 8:
@@ -428,18 +436,21 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
     if base == 0:
         return 0
 
-    is_gdelt = "GDELT" in domain or domain not in TIER1_DOMAINS
+    is_gdelt = domain.startswith("GDELT/")        # только GDELT-срезы
     is_tier1 = domain in TIER1_DOMAINS
 
     score = base
 
-    # ── ШТРАФ (ядро Варианта C): зацепился ОДНИМ словом и не Tier-1 ──
+    # ── ШТРАФЫ НЕ СУММИРУЮТСЯ: берём ОДИН максимальный −2 ──────
+    # Иначе реальный свежак (одно сильное слово + GDELT) терял сразу 4 балла.
+    penalty = 0
     if total_hits == 1 and not is_tier1:
-        score = max(6, score - 2)        # одно случайное слово → срезаем
-
-    # ── GDELT/региональные режутся на 2 (даём дорогу FT/Bloomberg) ──
+        penalty = 2                       # зацепился одним словом
     if is_gdelt:
-        score = max(6, score - 2)
+        penalty = max(penalty, 2)         # GDELT (не суммируем с предыдущим)
+    # мягкий пол 4: мусор без ключей уже отсечён вето/base==0,
+    # а реальная новость с одним словом получит 4-5 и может пройти
+    score = max(4, score - penalty) if penalty else score
 
     # ── Бонус за плотность сигналов (несколько сильных ключей) ──
     if strong_hits >= 2:
@@ -447,19 +458,18 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
 
     # ── Breaking marker → +1 ──
     for bm in BREAKING_MARKERS:
-        if bm in tl:
+        if _has(bm, tl):
             score = min(10, score + 1)
             break
 
     # ── Anchor keyword → +1 ──
     for ak in ANCHOR_KEYWORDS:
-        if ak in tl:
+        if _has(ak, tl):
             score = min(10, score + 1)
             break
 
-    # ── Tier-1 домен → +1 ──
-    if is_tier1:
-        score = min(10, score + 1)
+    # ── Tier-1 домен бонус УБРАН: домен не должен задирать пустую новость ──
+    # (FT-проходняк больше не лезет в 10/10 только из-за домена)
 
     return max(0, min(10, score))
 
@@ -790,17 +800,26 @@ def main():
         r for r in sent_records
         if datetime.fromisoformat(r["ts"]) >= cutoff_sent
     ]
-    gist_write(gist_id, "sent.json", {
-        "hashes": [r["h"] for r in sent_records],   # обратная совместимость
-        "records": sent_records,
-    })
-    print(f"💾 sent.json: {len(sent_records)} хэшей под контролем (24ч)")
-
-    # ── Флаг саммари: запуск в окне 18:25–18:40 TSH ──
+    # ── Флаг саммари: ПЕРВЫЙ запуск после 18:30 TSH за день ──
+    # Надёжно: не зависит от точной минуты запуска (cron-job.org плавает).
+    # Запоминаем дату последнего саммари в sent.json.
     now_tsh = datetime.now(TZ)
-    is_summary = (now_tsh.hour == 18 and 25 <= now_tsh.minute <= 40)
+    last_summary_date = sent.get("last_summary_date", "")
+    is_summary = (
+        (now_tsh.hour > 18 or (now_tsh.hour == 18 and now_tsh.minute >= 30))
+        and now_tsh.hour < 24
+        and last_summary_date != today
+    )
 
-    # ── Отправка: только НОВОЕ; в 18:30 — ещё и саммари дня ──
+    gist_payload = {
+        "hashes": [r["h"] for r in sent_records],
+        "records": sent_records,
+        "last_summary_date": today if is_summary else last_summary_date,
+    }
+    gist_write(gist_id, "sent.json", gist_payload)
+    print(f"💾 sent.json: {len(sent_records)} хэшей (24ч) | саммари сегодня: {'да' if is_summary else 'нет'}")
+
+    # ── Отправка: только НОВОЕ; раз в день после 18:30 — саммари ──
     send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
 
 
