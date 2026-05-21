@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T11:34:33.910626+05:00",
+  "updated": "2026-05-21T11:49:40.704920+05:00",
   "items": [
     {
       "hash": "a8d4003992bb03d1d1389dec33640dda",
@@ -158,18 +158,6 @@
       "age_min": 74.1
     },
     {
-      "hash": "06df0478fbb880a89f63b7dd3f9adf9c",
-      "title": "Ukraine war briefing : Fresh threat of attack from Belarus front , warns Zelenskyy",
-      "summary": "",
-      "link": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T07:45:46.085395+05:00",
-      "age_min": 30.8
-    },
-    {
       "hash": "560bd9b0a536533d5beb51f48cecf82f",
       "title": "Indian Rupee Rises Most in Asia on Central Bank Intervention",
       "summary": "India’s rupee advanced the most in Asia after the central bank intervened and as policymakers are said to be considering options, including an interest-rate hike, to defend the currency.",
@@ -312,18 +300,6 @@
       "status": "new",
       "ts": "2026-05-21T08:45:47.299831+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "929bbc944feee3d1ecd43cf071f70680",
-      "title": "Rape is Just Part of War  | Frontpage Mag",
-      "summary": "",
-      "link": "https://www.frontpagemag.com/rape-is-just-part-of-war/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T07:46:00.437596+05:00",
-      "age_min": 76.0
     },
     {
       "hash": "26cbab011a9984958c9c2433c788608d",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-05-21T09:22:08.121019+05:00",
       "age_min": 111.7
+    },
+    {
+      "hash": "194993965bea43c2579e75c4395161c9",
+      "title": "Jailed banker ties roil Flavio Bolsonaro’s Brazil presidential hopes",
+      "summary": "Brazil’s right-wing presidential candidate Flavio Bolsonaro was riding high in the polls until the news broke of his ties to a banker jailed over a multimillion-dollar fraud scandal.\nThe 45-year-old senator had been polling neck-and-neck with 80-year-old President Luiz Inacio Lula da Silva, who is expected to seek a fourth term in presidential elections in October.\nBut a change may be under way fo",
+      "link": "https://www.scmp.com/news/world/americas/article/3354338/jailed-banker-ties-roil-flavio-bolsonaros-brazil-presidential-hopes?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-21T11:48:46.667098+05:00",
+      "age_min": 13.9
+    },
+    {
+      "hash": "131e9a6740d486a7ec15920f8c6d6c1b",
+      "title": "PTT pivots to LNG trading as Middle East turmoil drives price volatility",
+      "summary": "",
+      "link": "https://asia.nikkei.com/business/energy/ptt-pivots-to-lng-trading-as-middle-east-turmoil-drives-price-volatility",
+      "source": "Nikkei Asia",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-21T11:48:46.094548+05:00",
+      "age_min": 0
     }
   ]
 }
