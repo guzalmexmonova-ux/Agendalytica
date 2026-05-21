@@ -1,6 +1,42 @@
 {
-  "updated": "2026-05-21T18:05:47.330530+05:00",
+  "updated": "2026-05-21T18:21:01.664410+05:00",
   "items": [
+    {
+      "hash": "57ca07aa3552156293a72ba14ba69bef",
+      "title": "UK business activity fell for first time in more than a year in May",
+      "summary": "PMI figures reflect domestic political uncertainty adding to fallout from Middle East war",
+      "link": "https://www.ft.com/content/31dc6298-fa86-47e4-8855-e5ac751fe189",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T18:20:16.148969+05:00",
+      "age_min": 152.1
+    },
+    {
+      "hash": "ffada44bc69ac3045e9f46ca255a5733",
+      "title": "IMF Cuts France Growth Forecast and Warns of High Uncertainty",
+      "summary": "The International Monetary Fund lowered its growth forecast for France’s economy this year as the shock of the Iran war hits activity and uncertainty builds ahead of next year’s presidential elections.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-21/imf-cuts-france-growth-forecast-and-warns-of-high-uncertainty",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T18:20:15.769351+05:00",
+      "age_min": 20.3
+    },
+    {
+      "hash": "bea0c8a9c7d100556feb7493cfd1eab9",
+      "title": "Home Buyers Hammered as War-Fueled Bond Rout Drives Rates Higher",
+      "summary": "Najimah Roberson, a lifelong renter, spent the past two years searching around Harrisburg, Pennsylvania, for a home she could afford &mdash; getting outbid nearly 30 times along the way.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-21/rising-treasury-yields-disrupt-mortgage-rates-in-break-from-decades-long-decline",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T18:20:15.768340+05:00",
+      "age_min": 5.2
+    },
     {
       "hash": "ade2f2d0629e32c22a3c69f446a7d3e4",
       "title": "Turkey Liquidated Almost All Its US Treasury Holdings in March",
@@ -398,28 +434,16 @@
       "age_min": 32.8
     },
     {
-      "hash": "f8fb494baebee35736f34562e71ad5f9",
-      "title": "Xi , Putin oppose US - Israel war on Iran , Warn Strait of Hormuz disruption poses threat to global trade",
+      "hash": "cc7f5678fe6d181da013fbae856d83fb",
+      "title": "Majority of policymakers see rate hikes likely if inflation persists – Fed minutes",
       "summary": "",
-      "link": "https://www.thehitavada.com/Encyc/2026/5/21/xi-putin-oppose-us-israel-war-on-iran-warn-strait-of-hormuz-disruption-poses-threat-to-global-trade.html",
-      "source": "GDELT/SUMMITS",
-      "score": 10,
-      "weight": 3,
+      "link": "https://www.hellenicshippingnews.com/majority-of-policymakers-see-rate-hikes-likely-if-inflation-persists-fed-minutes/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-21T14:20:55.455019+05:00",
-      "age_min": 110.9
-    },
-    {
-      "hash": "556f9697848db44104f659b6370c7d16",
-      "title": "Most Fed Officials Brace for Rate Hike, Setting Up Clash with Warsh - Seoul Economic Daily",
-      "summary": "Most Fed Officials Brace for Rate Hike, Setting Up Clash with Warsh&nbsp;&nbsp;Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHlvbDRlY1VnZjVQUjFRVDFoUTJSS213dk5PLVNjZHNkWmtSSmtZOHlZOHhrQ0NqTnM0NWd5UjU2ZDdOdzZRT1FnNmFMdVpyX1FHV0ZQYTIxZFRxVndmeHlUM1JvbUxlNUNHYmdlWEN5dmZPODd3R25uRHI2UVlCN2hjcElEd1dYd0w5aXpidUFsQnVfd3hKRjZTb1ZuOE95NjBfQ19n?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T14:06:16.658306+05:00",
-      "age_min": 24.2
+      "ts": "2026-05-21T18:19:28.064469+05:00",
+      "age_min": 19.5
     },
     {
       "hash": "9d5b0ff0ddc4e642bb042a15600f3dcd",
@@ -530,6 +554,18 @@
       "age_min": 33.9
     },
     {
+      "hash": "08111c40ccb6420b0a00732e2a089a3c",
+      "title": "Morocco building collapse kills at least 4",
+      "summary": "At least four people were killed and six others injured when a four-storey building collapsed overnight in the Moroccan city of ‌Fez, about 200km (124 miles) east of Rabat, local authorities said on Thursday.\nState media 2M had said 11 people were killed before issuing an official correction.\nAuthorities said a search for others ⁠who might still be buried was ongoing.\nLocal media showed ‌footage o",
+      "link": "https://www.scmp.com/news/world/africa/article/3354409/morocco-building-collapse-kills-least-4?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-21T18:20:17.440001+05:00",
+      "age_min": 9.6
+    },
+    {
       "hash": "0ae3420d07bb9e8da7fb873ef6debbfa",
       "title": "South Korea nuclear sub talks with Washington have gone missing",
       "summary": "",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-05-21T16:04:55.639851+05:00",
       "age_min": 49.9
-    },
-    {
-      "hash": "490a1d4fbbe3bb8e0d85e66e45633a7c",
-      "title": "‘Iron brothers’: How China and Pakistan built an unlikely 75-year bond",
-      "summary": "From secret nuclear exchanges to a key diplomatic deal, Pakistan and China have long helped each other. What&#039;s next?",
-      "link": "https://www.aljazeera.com/features/2026/5/21/iron-brothers-how-china-and-pakistan-built-an-unlikely-75-year-bond?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T14:52:08.664838+05:00",
-      "age_min": 25.5
-    },
-    {
-      "hash": "8b5f5b6cc6ac2546259f3ed54ff68c7e",
-      "title": "Pakistan seeks Iran peace deal to avert economic collapse",
-      "summary": "",
-      "link": "https://www.newkerala.com/news/a/pakistan-eyes-peace-deal-securing-funds-keep-collapsing-307.htm",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T14:34:55.971742+05:00",
-      "age_min": 34.9
-    },
-    {
-      "hash": "c9f3f2834ba656be3ec9cbcd9903883a",
-      "title": "Exclusive - Supreme Leader says enriched uranium must stay in Iran , Iranian sources say",
-      "summary": "",
-      "link": "https://www.al-monitor.com/originals/2026/05/exclusive-supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T17:49:02.553867+05:00",
-      "age_min": 109.0
     }
   ]
 }
