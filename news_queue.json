@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T15:53:54.688231+05:00",
+  "updated": "2026-05-21T16:06:14.719320+05:00",
   "items": [
     {
       "hash": "6fd854be5a6c93331282100e888b57d7",
@@ -434,16 +434,16 @@
       "age_min": 33.9
     },
     {
-      "hash": "ee41b25c2d8f768b242a27c8331f2cb3",
-      "title": "India bonds reverse gains as report RBI mulling rate hike outweighs external support",
+      "hash": "5e3310d9bcb777b90586462dd6bdf6b8",
+      "title": "Kazakhstan targets 30 % nuclear production localization before first NPP construction",
       "summary": "",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-reverse-gains-as-report-rbi-mulling-rate-hike-outweighs-external-support/articleshow/131240619.cms",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
+      "link": "https://azertag.az/en/xeber/kazakhstan_targets_30_nuclear_production_localization_before_first_npp_construction-4210495",
+      "source": "GDELT/CENTRAL_ASIA",
+      "score": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-21T12:02:42.603749+05:00",
-      "age_min": 32.7
+      "ts": "2026-05-21T16:04:55.639851+05:00",
+      "age_min": 49.9
     },
     {
       "hash": "490a1d4fbbe3bb8e0d85e66e45633a7c",
@@ -468,6 +468,42 @@
       "status": "new",
       "ts": "2026-05-21T14:34:55.971742+05:00",
       "age_min": 34.9
+    },
+    {
+      "hash": "3300ba39e63d92e9ceb5b6b47196e8f3",
+      "title": "China breaks ground on US$5b aviation complex in UAE as Iran war risks linger",
+      "summary": "Despite instability in the Middle East, China Railway Construction Corporation (CRCC) has begun building the world’s largest aircraft maintenance complex in the United Arab Emirates, underscoring China’s growing dominance in overseas infrastructure.\nThe project, worth more than US$5 billion and one of the largest construction deals a Chinese builder has secured in the region, will comprise eight l",
+      "link": "https://www.scmp.com/economy/global-economy/article/3354372/china-breaks-ground-us5b-aviation-complex-uae-iran-war-risks-linger?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-21T16:05:27.312016+05:00",
+      "age_min": 5.3
+    },
+    {
+      "hash": "9408c7169032216b94c55cdac6e14ddd",
+      "title": "Pulwama Attack Mastermind Hamza Burhan News , पुलवामा आतंकी हमले के मास्टरमाइंड की POK में हत्या , अज्ञात हमलावर ने हमजा बुरहान  डॉक्‍टर  को मारी गोली - hamza burhan pulwama attack mastermind terrorist killed by unknown men in pok pakistan - Pakistan...",
+      "summary": "",
+      "link": "https://navbharattimes.indiatimes.com/world/pakistan/hamza-burhan-pulwama-attack-mastermind-terrorist-killed-by-unknown-men-in-pok-pakistan/articleshow/131244259.cms",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T16:01:03.421731+05:00",
+      "age_min": 31.1
+    },
+    {
+      "hash": "335a0165aaabdcea8c2991402bb459d6",
+      "title": "Pulwama attack mastermind killed in Pakistan , terrorist Hamza shot",
+      "summary": "",
+      "link": "https://www.businesstoday.in/india/story/pulwama-attack-mastermind-killed-in-pakistan-terrorist-hamza-burhan-shot-by-unknown-assailants-532665-2026-05-21",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T16:01:03.420962+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "4b4443f360aadab75ba7f1238cb45149",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-05-21T14:02:10.840075+05:00",
       "age_min": 32.2
-    },
-    {
-      "hash": "9a336e5975a6b7188ede16e4731ae2a3",
-      "title": "Glöm aldrig 7 oktober – en attack riktad mot alla judar – Norra Skåne",
-      "summary": "",
-      "link": "https://www.nsk.se/ledare/glom-aldrig-7-oktober-en-attack-riktad-mot-alla-judar/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T14:00:57.976409+05:00",
-      "age_min": 31.0
-    },
-    {
-      "hash": "d96a88378a7806423e08ef4e0cacc990",
-      "title": "Эксперт назвал коррупционный скандал на Украине спектаклем и белым шумом",
-      "summary": "",
-      "link": "https://ria.ru/20260521/ukraina-2093702076.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T13:18:24.561627+05:00",
-      "age_min": 78.4
-    },
-    {
-      "hash": "b79ef1c5460d07eef660290d4ce5e57a",
-      "title": "Stock market today : Dow , S & P 500 , Nasdaq drop amid rising bond yields",
-      "summary": "",
-      "link": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-drop-amid-rising-bond-yields-222343798.html",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T12:48:10.397563+05:00",
-      "age_min": 33.2
     }
   ]
 }
