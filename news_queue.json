@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21T11:49:40.704920+05:00",
+  "updated": "2026-05-21T12:06:32.431612+05:00",
   "items": [
     {
       "hash": "a8d4003992bb03d1d1389dec33640dda",
@@ -302,16 +302,16 @@
       "age_min": 30.8
     },
     {
-      "hash": "26cbab011a9984958c9c2433c788608d",
-      "title": "Malaysia weighs S . Korean missile systems after Norway deal collapse",
+      "hash": "ee41b25c2d8f768b242a27c8331f2cb3",
+      "title": "India bonds reverse gains as report RBI mulling rate hike outweighs external support",
       "summary": "",
-      "link": "https://www.upi.com/Top_News/World-News/2026/05/20/malaysia-norwegian-naval-missile-system-delivery-canceled/4061779321776/",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
+      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bonds-reverse-gains-as-report-rbi-mulling-rate-hike-outweighs-external-support/articleshow/131240619.cms",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-21T08:04:27.797295+05:00",
-      "age_min": 49.5
+      "ts": "2026-05-21T12:02:42.603749+05:00",
+      "age_min": 32.7
     },
     {
       "hash": "137865de1328f88c5e572af4715703a3",
@@ -384,6 +384,18 @@
       "status": "new",
       "ts": "2026-05-21T08:49:53.288392+05:00",
       "age_min": 41.1
+    },
+    {
+      "hash": "8c52508c1c77841f26e95ea88a5edddc",
+      "title": "Australia : Bondi Royal Commission hearings used to attack anti - genocide movement",
+      "summary": "",
+      "link": "https://www.wsws.org/en/articles/2026/05/21/nfyb-m21.html",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T12:00:51.969297+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "6f6e7e6b8a99e1e3e9ab2948fa3dbe83",
@@ -518,18 +530,6 @@
       "age_min": 14.8
     },
     {
-      "hash": "efd4ffe59a4c836b792b68fead4ae880",
-      "title": "Bond yields , oil fall amid hopes for Iran deal ; stocks end up with chip shares",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/news/business/markets/bond-yields-oil-fall-amid-hopes-for-iran-deal-stocks-end-up-with-chip-shares-13925735.html",
-      "source": "GDELT/ENERGY",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-21T08:04:58.814878+05:00",
-      "age_min": 80.0
-    },
-    {
       "hash": "797b454ee36db1e1ecd2169934168eb8",
       "title": "Fed Minutes Suggest Interest Rate Hikes Are on the Table if Inflation Continues - U.S. News & World Report",
       "summary": "Fed Minutes Suggest Interest Rate Hikes Are on the Table if Inflation Continues&nbsp;&nbsp;U.S. News & World Report",
@@ -578,6 +578,18 @@
       "age_min": 111.7
     },
     {
+      "hash": "0743d582287164c6545ec7832d4c3d44",
+      "title": "Dollar Rallies and Gold Falls as T - note Yields Climb",
+      "summary": "",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/dollar-rallies-gold-falls-t-193419457.html",
+      "source": "GDELT/FED_ECB",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-21T12:02:42.600831+05:00",
+      "age_min": 47.7
+    },
+    {
       "hash": "194993965bea43c2579e75c4395161c9",
       "title": "Jailed banker ties roil Flavio Bolsonaro’s Brazil presidential hopes",
       "summary": "Brazil’s right-wing presidential candidate Flavio Bolsonaro was riding high in the polls until the news broke of his ties to a banker jailed over a multimillion-dollar fraud scandal.\nThe 45-year-old senator had been polling neck-and-neck with 80-year-old President Luiz Inacio Lula da Silva, who is expected to seek a fourth term in presidential elections in October.\nBut a change may be under way fo",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-21T11:48:46.667098+05:00",
       "age_min": 13.9
-    },
-    {
-      "hash": "131e9a6740d486a7ec15920f8c6d6c1b",
-      "title": "PTT pivots to LNG trading as Middle East turmoil drives price volatility",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/energy/ptt-pivots-to-lng-trading-as-middle-east-turmoil-drives-price-volatility",
-      "source": "Nikkei Asia",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-21T11:48:46.094548+05:00",
-      "age_min": 0
     }
   ]
 }
