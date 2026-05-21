@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T01:23:06.014753+05:00",
+  "updated": "2026-05-22T01:38:43.525216+05:00",
   "items": [
     {
       "hash": "f93fd7eeedeeb1d14ca504c868e35f79",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-05-22T00:24:10.001640+05:00",
       "age_min": 19.3
+    },
+    {
+      "hash": "f7311e2af9d6539573e842bd2dd68b17",
+      "title": "Walmart says customers are rationing petrol as Iran war hits wallets",
+      "summary": "US retail giant’s shares plunge after saying it absorbed higher fuel expenses to hold down prices for consumers",
+      "link": "https://www.ft.com/content/4c1d2ee0-e9dd-410f-bdc3-e0917f3ca41f",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:37:59.331600+05:00",
+      "age_min": 0.3
     },
     {
       "hash": "896ce61d411fabe55199836b678f0581",
@@ -108,6 +120,30 @@
       "status": "new",
       "ts": "2026-05-21T22:01:50.602485+05:00",
       "age_min": 31.8
+    },
+    {
+      "hash": "ca5d16106b5d725a226e2cc0022e5b03",
+      "title": "Decoding The Nuclear Interplay Between India And Pakistan – OpEd",
+      "summary": "",
+      "link": "https://www.eurasiareview.com/21052026-decoding-the-nuclear-interplay-between-india-and-pakistan-oped/",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:30:43.159924+05:00",
+      "age_min": 105.7
+    },
+    {
+      "hash": "3941213368f1d8fe500013b438c122c8",
+      "title": "Russia Holds Nuclear Drills on Land , Sea and Air , Joined by Its Ally Belarus",
+      "summary": "",
+      "link": "https://www.military.com/russia-holds-nuclear-drills-on-land-sea-and-air-joined-by-its-ally-belarus",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:30:43.156816+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "159ace53169cfa6ec5af1a4e8f9717d8",
@@ -252,6 +288,30 @@
       "status": "new",
       "ts": "2026-05-21T22:16:10.154661+05:00",
       "age_min": 46.2
+    },
+    {
+      "hash": "b4525a2e833bc3cf8f94695220755cb7",
+      "title": "Iran war , skyrocketing fuel prices battering Oregon economic forecast",
+      "summary": "",
+      "link": "https://bendbulletin.com/2026/05/20/iran-war-skyrocketing-fuel-prices-battering-oregons-economic-forecast/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:32:38.053492+05:00",
+      "age_min": 92.6
+    },
+    {
+      "hash": "328b0a9db95d9f9708cf1dc8bf9949da",
+      "title": "Trump - Xi summit : Chance for a reset in the new Cold War",
+      "summary": "",
+      "link": "https://peoplesworld.org/article/trump-xi-summit-a-chance-for-a-reset-in-the-new-cold-war/",
+      "source": "GDELT/TAIWAN",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:32:01.304965+05:00",
+      "age_min": 77.0
     },
     {
       "hash": "c892ed1897193ecf37e0fec0935d3557",
@@ -422,6 +482,30 @@
       "age_min": 181.0
     },
     {
+      "hash": "3101ba66c9652f4f425c89df724aa71f",
+      "title": "Fed Chair Kevin Warsh Has a New Inflation Nightmare : AI Is Skyrocketing Prices",
+      "summary": "",
+      "link": "https://247wallst.com/investing/2026/05/21/fed-chair-kevin-warsh-has-a-new-inflation-nightmare-ai-is-skyrocketing-prices/",
+      "source": "GDELT/TAIWAN",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:32:01.305544+05:00",
+      "age_min": 32.0
+    },
+    {
+      "hash": "e6592f0d11296d55a47105306870ea8f",
+      "title": "Скандал з БПЛА GARA може загрожувати нацбезпеці України - деталі справи",
+      "summary": "",
+      "link": "https://www.rbc.ua/rus/news/bpla-gara-100-mln-ta-taemni-sudi-k-shemi-1779379033.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T01:31:35.932149+05:00",
+      "age_min": 91.6
+    },
+    {
       "hash": "f81be9676ac9fb65b7354c13d6483dc0",
       "title": "[Photo] Александр Лукашенко возглавил рейтинг доверия россиян к руководителям постсоветских го [...]",
       "summary": "Александр Лукашенко возглавил рейтинг доверия россиян к руководителям постсоветских государств, следует из результатов опроса Аналитического центра ВЦИОМ. Президенту Беларуси доверяют 75% респондентов.Второе место с большим отрывом занимает глава Казахстана Касым-Жомарт Токаев (25%), за которым в рейтинге расположились президент Узбекистана Шавкат Мирзиёев (8%) и премьер Армении Никол Пашинян (7%)",
@@ -516,78 +600,6 @@
       "status": "new",
       "ts": "2026-05-22T01:22:49.725613+05:00",
       "age_min": 103.8
-    },
-    {
-      "hash": "f733df7dfee4c5165485e6ffcca55772",
-      "title": "3 things that could get more expensive after Fed rate hike - MSN",
-      "summary": "3 things that could get more expensive after Fed rate hike&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdGhCT3l2Z3haajVaRlJ1NUlIVVB2WjZwcXF5U1o4UkRCU25CeHd1THdvdWJLYnFVYVZtQl9JcUt6VTFnSXEtc0JURVptR21mT3Y2WENyRzlCUFJ1WjhPcW9RbkMteTc4czFwb2UtNWRzTmhkSzkxSkxnTzlDSEdMMk5CQU05RTZUUFhTRUNaVlV1V1BwNk82N254SVJPYldOZzZlbkFTTmIxVk9SVWlXSlU1T0VZdHNLM3FMZENVLUVQTHF6WWFUQ3dXdm5UME1uVVE?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T00:08:32.280856+05:00",
-      "age_min": 4.3
-    },
-    {
-      "hash": "67930c9c4ae0b255ce769ded86a56e46",
-      "title": "Guerre hybride : la Chine dévoile un missile à sous - munitions capable de paralyser les infrastructures électriques sur 10 000 m²",
-      "summary": "",
-      "link": "https://sciencepost.fr/guerre-hybride-la-chine-devoile-un-missile-a-sous-munitions-capable-de-paralyser-les-infrastructures-electriques-sur-10-000-m%C2%B2/",
-      "source": "GDELT/TAIWAN",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T01:03:36.205093+05:00",
-      "age_min": 93.6
-    },
-    {
-      "hash": "203c09cb3d6eeb37cdcea7b725967df9",
-      "title": "Iran reviewing latest US response to ceasefire framework",
-      "summary": "",
-      "link": "https://morningstaronline.co.uk/article/iran-reviewing-latest-us-response-ceasefire-framework",
-      "source": "GDELT/TERRORISM",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T00:46:01.290163+05:00",
-      "age_min": 31.0
-    },
-    {
-      "hash": "38f965d60213fd9ef4320f01d8a5aeaa",
-      "title": "Warsh faces tougher Fed outlook as inflation pressures return - fox23maine.com",
-      "summary": "Warsh faces tougher Fed outlook as inflation pressures return&nbsp;&nbsp;fox23maine.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPQXpwd0U1a0NSTEZfMWd2b1lyTEhzNURqRkVGYTFqOGNxR0dUX3Q5ODB3SGFhdGVzbmhtOXFtblpsNHFhRndDS3VSTGRObnhOYXRQc0tmSDNvZW1EQ0xGQU1JazRHcFMzVzRLLXpEVkdobGxCLW1tQWZsM2JqVjloaGZFNTdGa3RESm5VN3NsNHFpZmVzdmRlUldXUk5hQ3hnZW5hTGpzUlNsSXJjM0xNbVRGSVo4R0E0RmludFFpbFhhUWRZUkhxS2l0S1Z4TlN4UmZ1d0pjeUhiWDJveE5DZHpmLWpXdUJqc3FsRy1sVQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T00:24:06.512489+05:00",
-      "age_min": 33.9
-    },
-    {
-      "hash": "f52d6049392277a2330200f29d03239d",
-      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
-      "summary": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days&nbsp;&nbsp;LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
-      "source": "GNews/Gold",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T00:55:24.574677+05:00",
-      "age_min": 5.6
-    },
-    {
-      "hash": "73e5d4c31223218daed0b357329de771",
-      "title": "Do aid flotillas make a difference for Palestinians under Israeli blockade?",
-      "summary": "Israeli minister&#039;s mistreatment of abducted activists sparks global condemnation.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/5/21/do-aid-flotillas-make-a-difference-for-palestinians-under-israeli-blockade?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T00:23:41.484361+05:00",
-      "age_min": 22.3
     }
   ]
 }
