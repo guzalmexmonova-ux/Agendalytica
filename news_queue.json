@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T13:22:53.965519+05:00",
+  "updated": "2026-05-22T13:35:57.625186+05:00",
   "items": [
     {
       "hash": "4e316f5715fc6afc4e21726c166ce463",
@@ -120,6 +120,30 @@
       "status": "new",
       "ts": "2026-05-22T09:46:01.734371+05:00",
       "age_min": 31.0
+    },
+    {
+      "hash": "424b1dd9f165698398ffb598ccf54406",
+      "title": "Спільні ядерні навчання довели залежність Білорусі від Росії – ISW",
+      "summary": "",
+      "link": "https://glavcom.ua/world/world-politics/spilni-jaderni-navchannja-doveli-zalezhnist-bilorusi-vid-rosiji-isw-1121069.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T13:30:42.739563+05:00",
+      "age_min": 45.7
+    },
+    {
+      "hash": "6631e3852c50376e0f9989ae77b7d917",
+      "title": "Росія може ховати ядерні ракети на морському дні в рамках секретного проєкту « Скіфи »",
+      "summary": "",
+      "link": "https://fakty.ua/472243-rossiya-mozhet-skryvat-yadernye-rakety-na-dne-morya-chto-izvestno-o-sekretnom-proekte-kremlya",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T13:30:42.739286+05:00",
+      "age_min": 75.7
     },
     {
       "hash": "39c0a8ad07113fbf077a587feb087885",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-05-22T11:07:16.322168+05:00",
       "age_min": 108.1
-    },
-    {
-      "hash": "33baa2991c0e5fe9fcc9cb2f6b3742a8",
-      "title": "Support For Rate Hikes Is Gaining Steam On Fed Policy Committee",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/support-rate-hikes-gaining-steam-193107867.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T13:21:04.040124+05:00",
-      "age_min": 36.1
-    },
-    {
-      "hash": "6a5288fa6b7bce5a03cc8d0e73e87c3b",
-      "title": "RBI not in favour of rate hikes to defend rupee , prioritises inflation , sources say",
-      "summary": "",
-      "link": "https://www.thehindubusinessline.com/economy/rbi-not-in-favour-of-rate-hikes-to-defend-rupee-prioritises-inflation-sources-say/article71009152.ece",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T13:21:04.034430+05:00",
-      "age_min": 36.1
     }
   ]
 }
