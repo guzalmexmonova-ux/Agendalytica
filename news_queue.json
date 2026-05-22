@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T00:04:47.188201+05:00",
+  "updated": "2026-05-23T00:22:08.048373+05:00",
   "items": [
     {
       "hash": "1769129e087ea793ad5a498531bfa2ee",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-05-22T22:08:39.539498+05:00",
       "age_min": 33.4
+    },
+    {
+      "hash": "c697871a098f9ee3c8daccb2b99d7b8c",
+      "title": "Fact check : North Korea Kim has not threatened any nuclear attack on Israel amid Iran conflict",
+      "summary": "",
+      "link": "https://tribune.com.pk/story/2609553/fact-check-north-koreas-kim-has-not-threatened-any-nuclear-attack-on-israel-amid-iran-conflict",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:15:32.943375+05:00",
+      "age_min": 30.5
     },
     {
       "hash": "1b1678b9e777344d1f823933c0084e8b",
@@ -134,16 +146,16 @@
       "age_min": 73.0
     },
     {
-      "hash": "af7f2af58119d656db87463c910728ec",
-      "title": "Kevin Warsh to be sworn in as Fed chair , replacing Jerome Powell",
-      "summary": "",
-      "link": "https://www.turnto23.com/politics/economy/kevin-warsh-to-be-sworn-in-as-fed-chair-replacing-jerome-powell",
-      "source": "GDELT/FED_ECB",
-      "score": 10,
+      "hash": "8d55a11eb14a44dfbc3d0de3c9119a4e",
+      "title": "I thank the heads of the communities in the Rivne, Volyn, and Zhytomyr regions for taking such good care of your people and our state. The main focus of our meeting was security in the northern direction. We must remain strong, so reinforcing our defense, building fortifications, and ensuring our troops are ready for any scenario is a priority.\n\nWe also discussed support for education and children. There is a clear task for government officials — to ensure free hot meals for all schoolchildren starting from September 1. The issue of building new schools and completing those started before the full-scale invasion will be worked through, especially in communities with high birth rates, along with providing educational institutions with school buses. Road reconstruction remains an important topic. The Government has been instructed to speed up this work.\n\nI am grateful to every community for your resilience and for finding solutions to develop and protect your people even in such difficult conditions.",
+      "summary": "I thank the heads of the communities in the Rivne, Volyn, and Zhytomyr regions for taking such good care of your people and our state. The main focus of our meeting was security in the northern direction. We must remain strong, so reinforcing our defense, building fortifications, and ensuring our troops are ready for any scenario is a priority.\n\nWe also discussed support for education and children",
+      "link": "https://nitter.net/ZelenskyyUa/status/2057901579760447677#m",
+      "source": "Zelensky/X",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-22T20:16:46.983557+05:00",
-      "age_min": 31.8
+      "ts": "2026-05-23T00:21:52.815708+05:00",
+      "age_min": 12.8
     },
     {
       "hash": "02d619cb1b88d6aedeb6895a414b9619",
@@ -192,6 +204,54 @@
       "status": "new",
       "ts": "2026-05-22T21:00:59.218696+05:00",
       "age_min": 91.0
+    },
+    {
+      "hash": "378c241f6850cac41268bb7dcfff0084",
+      "title": "Global Long Bond Yields Hit Highest in Almost Two Decades",
+      "summary": "Subadra Rajappa, head of US rates strategy at Société Générale, joins Scarlet Fu on \"Bloomberg Real Yield.\" The selloff in longer-maturity government bonds has pushed up yields to levels last seen during the global financial crisis, and market participants are warning the move has room to run. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-22/global-long-bond-yields-hit-highest-in-two-decades-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:21:15.096750+05:00",
+      "age_min": 3.2
+    },
+    {
+      "hash": "bd3eb72ff077ac0248154fb82df928bf",
+      "title": "Warsh Most Hawkish Fed Nominee in 20 Years: Desai",
+      "summary": "Sonal Desai, CIO of Franklin Templeton Fixed Income, joins Scarlet Fu on \"Bloomberg Real Yield.\" Kevin Warsh, who has promised the biggest shakeup in decades at the US central bank, was sworn into office Friday in a White House ceremony as the 17th chair of the Fed. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-22/warsh-most-hawkish-fed-nominee-in-20-yrs-desai-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:21:15.095723+05:00",
+      "age_min": 9.8
+    },
+    {
+      "hash": "4a605cd30d8c152074713ec2220bc77f",
+      "title": "Russia becoming  more reckles as Moscow weakened by war – Yvette Cooper",
+      "summary": "",
+      "link": "https://www.oxfordmail.co.uk/news/national/26133527.russia-becoming-more-reckless-moscow-weakened-war---yvette-cooper/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:16:47.527450+05:00",
+      "age_min": 31.8
+    },
+    {
+      "hash": "b48024b055f150e177f0ca2318728151",
+      "title": "UAE joins Saudi Arabia , Qatar in urging Trump not to restart Iran war",
+      "summary": "",
+      "link": "https://www.straitstimes.com/world/middle-east/uae-joins-saudi-arabia-qatar-in-urging-trump-not-to-restart-iran-war",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:15:32.942762+05:00",
+      "age_min": 75.5
     },
     {
       "hash": "ca8b4d57389c32cf6d8f5f23f7844dff",
@@ -386,18 +446,6 @@
       "age_min": 61.5
     },
     {
-      "hash": "6a1820f459a133dfd2a6ea2ae12c4750",
-      "title": "What the 2023 Bank Runs Can Tell Us About Private Credit Stress",
-      "summary": "How the SVB run explains the true nature of the private credit market.",
-      "link": "https://www.bloomberg.com/news/newsletters/2026-05-22/what-the-2023-bank-runs-can-tell-us-about-private-credit-stress",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T20:19:42.536544+05:00",
-      "age_min": 2.8
-    },
-    {
       "hash": "1825902a0a8ced4f5f706dd1446945e0",
       "title": "Trump tells new Fed chair Warsh to stay \"independent\" after Powell feud - Newsweek",
       "summary": "Trump tells new Fed chair Warsh to stay \"independent\" after Powell feud&nbsp;&nbsp;Newsweek",
@@ -552,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-22T22:08:07.896773+05:00",
       "age_min": 23.3
-    },
-    {
-      "hash": "0c96a5aa903b6ae58539401cb44debc8",
-      "title": "Iran’s 'hidden weapon' worse than missiles? Could one waterway trigger worldwide economic collapse | Videos - Hindustan Times",
-      "summary": "Iran’s 'hidden weapon' worse than missiles? Could one waterway trigger worldwide economic collapse | Videos&nbsp;&nbsp;Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdkRROV9WbTRQVzNrdlNJWHEwN2wyeFJ6RGJYZGY4ZlJxZFRqY004YmNtUnBpcjl5ZGloUnNyeGc2M2lSRE9SNHd6eG9UQkFic3RZSEpjLU9halVuWWt6eERsWldjS1NfZ3J5ekZJTzhqUjNjZmxfQ2RfbUQzc0M5ODZYNFhrZHhQdkU2M1dkS2xBSGxSZlBYZnZxVks0NTc3ME1BcjJIMFI2enloZ0h0cGFyNEdGT01Wa2tDeGhTc2lMR0RxTmRlOWFNcDVheGR5cmFkRnZFcDl2OEVCLXBfckwyeG1Gc09V0gHuAUFVX3lxTFBJVVJaZUJSX1g3Qkp3anpZV3JRMnFGRnRlYUpqYWc5aVFlcnNENDdQYWt2VkRTVXhxSFVVaUhObmt3bGJJTEt2YUQ4N1FJT3hEM0xSM1JGNW1MT1R5NWZDdmVHOUd5c0JmY0ZMbFhjVnJlYlFfb0ZydE9EMmdwZWszZ3ROX0RSNzlPMnFrWWtfb1VFSHRGZTE5QU5lc195SXVuWUZrcld1Q3NhMWJDaEdKZkNCNjNEaUV2MEZ2VlZlRDVkeF9vODFrRkZlLXpmV01CMlRiTWpwYVJTbWw1WWg5aTVnOEx2R3dzUi1xNUE?oc=5",
-      "source": "GNews/USA-China",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T00:04:27.909642+05:00",
-      "age_min": 28.4
     }
   ]
 }
