@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T06:37:28.022437+05:00",
+  "updated": "2026-05-22T06:52:14.293027+05:00",
   "items": [
     {
       "hash": "992e3ceb8990c7395903d073d724fa38",
@@ -155,6 +155,30 @@
       "weight": 4,
       "status": "new",
       "ts": "2026-05-22T03:00:47.867673+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "fdb77956cf104abede3c9955f2a0b144",
+      "title": "Home buyers hammered as war - fueled bond rout drives rates higher",
+      "summary": "",
+      "link": "https://www.sun-sentinel.com/2026/05/21/war-bond-rout-mortgage-rates/",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T06:51:31.237865+05:00",
+      "age_min": 36.5
+    },
+    {
+      "hash": "2fe5288b0889caf0037ced2bb9b4ce95",
+      "title": "Republicans call off vote on Iran war resolution that was on verge of passing",
+      "summary": "",
+      "link": "https://www.thehindu.com/news/international/republicans-call-off-vote-on-iran-war-resolution-that-was-on-verge-of-passing/article71008949.ece",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T06:45:48.905573+05:00",
       "age_min": 30.8
     },
     {
@@ -386,18 +410,6 @@
       "age_min": 30.8
     },
     {
-      "hash": "e30b3af67c6df44ec2c2b81b593748fd",
-      "title": "Unjammable  Drones Pioneered In Ukraine Emerge In Middle East War",
-      "summary": "",
-      "link": "http://www.iraqsun.com/news/279067402/unjammable-drones-pioneered-in-ukraine-emerge-in-middle-east-war",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T02:48:02.374821+05:00",
-      "age_min": 33.0
-    },
-    {
       "hash": "2a27df31e9b8e44c494903737b0daffc",
       "title": "Fed Officials Signal Rate Hike Possibility, Setting Stage for Clash With Warsh - Seoul Economic Daily",
       "summary": "Fed Officials Signal Rate Hike Possibility, Setting Stage for Clash With Warsh&nbsp;&nbsp;Seoul Economic Daily",
@@ -480,6 +492,18 @@
       "status": "new",
       "ts": "2026-05-22T03:10:15.554865+05:00",
       "age_min": 26.7
+    },
+    {
+      "hash": "b5ae62cc7bd1c72d01ee368a5913a143",
+      "title": "Relevo en la Fed : ¿ quién es Kevin Warsh ?, por Xavier Vives",
+      "summary": "",
+      "link": "https://www.lavanguardia.com/opinion/20260522/11544015/relevo-fed-kevin-warsh.html",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T06:51:31.242846+05:00",
+      "age_min": 66.5
     },
     {
       "hash": "3ed6993d156c6758a56b5299a96b7f6d",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-05-22T05:22:04.819455+05:00",
       "age_min": 22.1
-    },
-    {
-      "hash": "797125e1619e8076a0794f70a51de325",
-      "title": "Why China's airlines suffer more from the Iran war than global rivals",
-      "summary": "China's carriers face sky-high jet fuel, lack of hedging strategies, and a customer base that can easily pivot to cheaper high-speed rail services.",
-      "link": "https://www.cnbc.com/2026/05/22/china-airlines-expect-losses-iran-war-fuel-shortage-railway-.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T04:47:48.137148+05:00",
-      "age_min": 19.2
-    },
-    {
-      "hash": "b48d2a71f3054c82c94d627bd4b46d14",
-      "title": "Kevin Warsh , la apuesta de Trump para doblegar la Reserva Federal",
-      "summary": "",
-      "link": "https://www.elmundo.es/economia/empresas/2026/05/22/6a0f230bfdddffd22b8b45bf.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T04:33:32.449200+05:00",
-      "age_min": 33.5
     }
   ]
 }
