@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-22T10:07:30.588162+05:00",
+  "updated": "2026-05-22T10:20:31.121498+05:00",
   "items": [
     {
       "hash": "1dc14a9ca92479ff7122d88d6970f7eb",
@@ -86,18 +86,6 @@
       "age_min": 45.8
     },
     {
-      "hash": "992e3ceb8990c7395903d073d724fa38",
-      "title": "Iraq Investigates Drone Attack on UAE Nuclear Plant",
-      "summary": "",
-      "link": "https://www.breitbart.com/middle-east/2026/05/21/iraq-investigates-drone-attack-on-uae-nuclear-plant/",
-      "source": "GDELT/TERRORISM",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-22T06:15:42.298220+05:00",
-      "age_min": 45.7
-    },
-    {
       "hash": "0f30059acffd419e96cd0e9cd2954662",
       "title": "Russia flexes nuclear muscles as Ukraine tensions rise",
       "summary": "",
@@ -168,6 +156,18 @@
       "status": "new",
       "ts": "2026-05-22T06:31:05.097500+05:00",
       "age_min": 31.1
+    },
+    {
+      "hash": "3c400d324955b12feb8872b78903ef9c",
+      "title": "Home buyers hammered as war - fueled bond rout drives rates higher",
+      "summary": "",
+      "link": "https://www.sandiegouniontribune.com/2026/05/21/war-bond-rout-mortgage-rates/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T10:18:02.723505+05:00",
+      "age_min": 48.0
     },
     {
       "hash": "2be92b8d052be1f95b6e75fb74b31566",
@@ -554,6 +554,18 @@
       "age_min": 69.4
     },
     {
+      "hash": "f61273052ad85bc26bf6b38b6616ebcb",
+      "title": "Pulwama terror attack mastermind Burhan Hamza killed in PoK",
+      "summary": "",
+      "link": "https://indianexpress.com/article/india/pulwama-terror-attack-mastermind-burhan-hamza-killed-in-pok-10702122/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-22T10:16:09.516361+05:00",
+      "age_min": 61.2
+    },
+    {
       "hash": "c9415200a9c1245e5a797f9d0ccc0fe5",
       "title": "ASEAN manufacturers shed jobs as Iran war impact deepens",
       "summary": "",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-22T09:19:17.701851+05:00",
       "age_min": 34.3
-    },
-    {
-      "hash": "11304b2f0f3723e2a2d53dbfd2d18877",
-      "title": "US pausing $14bn arms sale to Taiwan due to Iran war, navy chief says",
-      "summary": "Acting Navy Secretary Hung Cao&#039;s remarks come as US President Donald Trump gives mixed signals on the sale.",
-      "link": "https://www.aljazeera.com/news/2026/5/22/us-pausing-14bn-arms-sale-to-taiwan-due-to-iran-war-navy-chief-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T09:06:11.742154+05:00",
-      "age_min": 20.8
     }
   ]
 }
