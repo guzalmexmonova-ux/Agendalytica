@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T00:37:01.460548+05:00",
+  "updated": "2026-05-23T00:50:43.327893+05:00",
   "items": [
     {
       "hash": "1769129e087ea793ad5a498531bfa2ee",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-05-22T22:08:39.539498+05:00",
       "age_min": 33.4
+    },
+    {
+      "hash": "527912f3f31858f19c0268dcd60241e8",
+      "title": "Wall Street bets on 2026 rate rise as Kevin Warsh takes charge of the Fed",
+      "summary": "Markets expect US central bank to lift borrowing costs by end of year as Iran war intensifies inflation",
+      "link": "https://www.ft.com/content/7a0b2b54-c62b-4498-8b8d-512ef7f2cb5d",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:49:50.079525+05:00",
+      "age_min": 214.8
     },
     {
       "hash": "c697871a098f9ee3c8daccb2b99d7b8c",
@@ -180,6 +192,18 @@
       "status": "new",
       "ts": "2026-05-22T21:00:59.218696+05:00",
       "age_min": 91.0
+    },
+    {
+      "hash": "900c1ca2203204e5bc94f15ed0c91edc",
+      "title": "Russia becoming  more reckles as Moscow weakened by war – Yvette Cooper",
+      "summary": "",
+      "link": "https://www.times-series.co.uk/news/national/26133527.russia-becoming-more-reckless-moscow-weakened-war---yvette-cooper/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T00:45:54.619727+05:00",
+      "age_min": 45.9
     },
     {
       "hash": "378c241f6850cac41268bb7dcfff0084",
@@ -410,16 +434,16 @@
       "age_min": 36.0
     },
     {
-      "hash": "32a5eea4379eff4614314e2f998513bd",
-      "title": "US says  slight progres in Iran talks amid uncertainty about whether war will resume",
-      "summary": "",
-      "link": "https://www.smdailyjournal.com/news/world/us-says-slight-progress-in-iran-talks-amid-uncertainty-about-whether-war-will-resume/article_01bd856a-4053-5de5-a63b-da92e583d8fb.html",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
+      "hash": "412bb3e9b56ca642c088a39977c8e668",
+      "title": "RT by @POTUS: Kevin Warsh has been officially sworn in as Chairman of the Federal Reserve by Justice Clarence Thomas at the White House. 🇺🇸",
+      "summary": "Kevin Warsh has been officially sworn in as Chairman of the Federal Reserve by Justice Clarence Thomas at the White House. 🇺🇸",
+      "link": "https://nitter.net/WhiteHouse/status/2057908738694975986#m",
+      "source": "POTUS/X",
+      "score": 6,
+      "weight": 5,
       "status": "new",
-      "ts": "2026-05-22T20:46:32.672063+05:00",
-      "age_min": 61.5
+      "ts": "2026-05-23T00:50:25.611657+05:00",
+      "age_min": 12.9
     },
     {
       "hash": "1825902a0a8ced4f5f706dd1446945e0",
@@ -530,18 +554,6 @@
       "age_min": 16.7
     },
     {
-      "hash": "dd82c6969718012bcbb616c1a96604ca",
-      "title": "War in Iran , new EU sanctions for threats to navigation in the Strait of Hormuz",
-      "summary": "",
-      "link": "https://www.odnako.org/war-in-iran-new-eu-sanctions-for-threats-to-navigation-in-the-strait-of-hormuz/",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-22T20:47:07.117838+05:00",
-      "age_min": 92.1
-    },
-    {
       "hash": "28ee59949a71e526c39b43c42f47a1c1",
       "title": "Путин приказал Минобороны « представить предложения » после атаки на колледж в Старобельске , ВСУ заявили об ударе по военным целям",
       "summary": "",
@@ -578,28 +590,16 @@
       "age_min": 23.3
     },
     {
-      "hash": "07ebb3c3248298ae280208c7d33b5c71",
-      "title": "China & Taiwan Update, May 22, 2026 - Institute for the Study of War",
-      "summary": "China & Taiwan Update, May 22, 2026&nbsp;&nbsp;Institute for the Study of War",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRHFoblFNN0NNNUc5YmtjQmxBTDB5S0o3OWVyMjVlaFd4YjFZOVZGcU5wLXpBLS02S3p3VFlsWXMxNGxWNXpabnBEeVdSSl9scTlFcmJTQ0F4VEwtYkt2UW1WdXQwbmd0WEZPR1hXdW0wSlR0UE55a2hUNlN1T1Z5dGZMclZtQm1uRkJZ?oc=5",
-      "source": "GNews/USA-China",
-      "score": 8,
-      "weight": 3,
+      "hash": "1cb5b26e1276565ca0a275510d972101",
+      "title": "Warsh sworn in as Fed chair after Trump bid for greater control",
+      "summary": "",
+      "link": "https://www.baltimoresun.com/2026/05/22/trump-federal-reserve-warsh-sworn-in/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T00:36:43.431031+05:00",
-      "age_min": 22.9
-    },
-    {
-      "hash": "7357f1752a254f23038abbdddcca47dc",
-      "title": "Displaced Lebanese amputee asks ‘where am I supposed to go’?",
-      "summary": "Mohamad Saaydoun, an amputee displaced by the latest Israel-Hezbollah war, is living in a makeshift camp.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/22/displaced-lebanese-amputee-asks-where-am-i-supposed-to?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T00:36:14.597427+05:00",
-      "age_min": 27.2
+      "ts": "2026-05-23T00:48:34.876623+05:00",
+      "age_min": 48.6
     }
   ]
 }
