@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T23:36:58.269915+05:00",
+  "updated": "2026-05-23T23:50:30.999532+05:00",
   "items": [
     {
       "hash": "b8f5c9717f9e2b10e5367f8b1a2c5dcb",
@@ -36,6 +36,18 @@
       "status": "new",
       "ts": "2026-05-23T20:03:29.564224+05:00",
       "age_min": 48.5
+    },
+    {
+      "hash": "de7bc26718a166b88d2846f2f1d53e1d",
+      "title": "Trump Iran war risks becoming a humiliating strategic failure , say analysts",
+      "summary": "",
+      "link": "https://www.independent.co.uk/news/world/middle-east/trump-iran-war-failure-hormuz-b2982423.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T23:45:54.353299+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "729ea6f297fbf6a65247a3a064dc7baf",
@@ -108,18 +120,6 @@
       "status": "new",
       "ts": "2026-05-23T21:15:47.453678+05:00",
       "age_min": 60.8
-    },
-    {
-      "hash": "aa5bcfbd14d685520c612cab43738296",
-      "title": "Petrol , prices and pressure : How the Iran war is hitting American households",
-      "summary": "",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/petrol-prices-and-pressure-how-the-iran-war-is-hitting-american-households/articleshow/131279045.cms",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T19:47:02.087662+05:00",
-      "age_min": 32.0
     },
     {
       "hash": "3eda50c84591b2f41cfd15e40d9ef31f",
@@ -266,16 +266,28 @@
       "age_min": 6.0
     },
     {
-      "hash": "5835b95424bc98e8d2803893808cb9e5",
-      "title": "Gold surges 0 . 19 pc this week amid persistent geopolitical tensions",
+      "hash": "0ca03ec157c08a11fdf311561e236c25",
+      "title": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
+      "summary": "Munir met senior Iranian officials on Saturday as Islamabad and Doha push to finalise a memorandum to end the war.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-23T23:49:39.928328+05:00",
+      "age_min": 12.0
+    },
+    {
+      "hash": "4c38fa5eced2f47a0c9486aa3925fbd9",
+      "title": "Ukrainian drone attack triggers fire at a Russian oil terminal",
       "summary": "",
-      "link": "https://www.ibtimes.co.in/gold-surges-0-19-pc-this-week-amid-persistent-geopolitical-tensions-902283",
-      "source": "GDELT/MACRO",
-      "score": 7,
+      "link": "https://www.pressdemocrat.com/2026/05/23/ukrainian-drone-attack-triggers-fire-at-a-russian-oil-terminal/",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T19:47:02.091373+05:00",
-      "age_min": 32.0
+      "ts": "2026-05-23T23:45:54.353891+05:00",
+      "age_min": 75.9
     },
     {
       "hash": "c8fad7f9780b1026cc8523e70abdaee5",
