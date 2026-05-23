@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T06:22:33.244704+05:00",
+  "updated": "2026-05-23T06:36:19.447656+05:00",
   "items": [
     {
       "hash": "e93de3669d7fcc9fd5f93b9ccf8cfb7e",
@@ -96,6 +96,18 @@
       "status": "new",
       "ts": "2026-05-23T03:30:55.234977+05:00",
       "age_min": 60.9
+    },
+    {
+      "hash": "572359b0a59036271e909c003b9c43d9",
+      "title": "This Week Market Wrap : Nvidia , War Headlines , and FOMC Minutes",
+      "summary": "",
+      "link": "https://www.financialsense.com/blog/21664/weeks-market-wrap-nvidia-war-headlines-and-fomc-minutes",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T06:35:29.144028+05:00",
+      "age_min": 50.5
     },
     {
       "hash": "97f7a978781b843d87149ba03be3de41",
@@ -242,16 +254,28 @@
       "age_min": 106.3
     },
     {
-      "hash": "ec850579ca2b8a6d660aa7af6dd0687c",
-      "title": "Russia becoming  more reckles as Moscow weakened by war – Yvette Cooper",
-      "summary": "",
-      "link": "https://www.bromsgroveadvertiser.co.uk/news/national/26133527.russia-becoming-more-reckless-moscow-weakened-war---yvette-cooper/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
+      "hash": "75a5d06a76bcda2eda74b0ee78e07e7d",
+      "title": "How China wins by avoiding war",
+      "summary": "Russian President Vladimir Putin arrived in Beijing in a much weaker position than he did more than four years ago, when he launched his invasion of Ukraine shortly after his last visit.\nUS President Donald Trump left Beijing after much fanfare. However, he was criticised back at home for failing to deliver on any key aspect of American interests, such as committing China to pressuring Iran to end",
+      "link": "https://www.scmp.com/opinion/china-opinion/article/3354354/how-china-wins-avoiding-war?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-23T02:33:11.524807+05:00",
-      "age_min": 48.2
+      "ts": "2026-05-23T06:35:38.943480+05:00",
+      "age_min": 5.6
+    },
+    {
+      "hash": "c14dbd5babab83bd3efe7f99f3d65c61",
+      "title": "27 countries seek access to World Bank funds since Iran war",
+      "summary": "Twenty-seven countries have moved since the Iran war started to put in place crisis instruments that could quickly access funding from existing World Bank programmes, according to an internal document viewed by Reuters.\nThe World Bank document did not name the ‌countries or the total amount of funds potentially being sought. The World Bank declined to comment.\nThe document showed that three countr",
+      "link": "https://www.scmp.com/news/world/article/3354599/27-countries-seek-access-world-bank-funds-iran-war?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-23T06:35:38.942342+05:00",
+      "age_min": 0.6
     },
     {
       "hash": "11b5641c63e807a9f443843e895ffa2e",
@@ -348,6 +372,54 @@
       "status": "new",
       "ts": "2026-05-23T03:46:31.258979+05:00",
       "age_min": 46.5
+    },
+    {
+      "hash": "85358e9d15aa5041c3c6e6c1f2a5465d",
+      "title": "In West Bank, Latest Victim of Israeli Settler Violence Shocks in a New Way",
+      "summary": "A video of a Palestinian family’s dog being savagely beaten has spread widely in the days after the attack.",
+      "link": "https://www.nytimes.com/2026/05/22/world/middleeast/settler-attack-dog-west-bank.html",
+      "source": "NYT World",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-23T06:35:37.917726+05:00",
+      "age_min": 8.2
+    },
+    {
+      "hash": "50880236917a86dcc77bb456cd7f584d",
+      "title": "Why Government Bond Yields Are Rising and Why It Matters to You",
+      "summary": "",
+      "link": "https://indianexpress.com/article/explained/explained-economics/graphs-data-perspectives-bond-yield-costly-impact-10703214/",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T06:35:29.143270+05:00",
+      "age_min": 35.5
+    },
+    {
+      "hash": "f63824dc3e84da919e9b98aef630000d",
+      "title": "Trump says US - Israeli war on Iran will  be over with soon",
+      "summary": "",
+      "link": "https://aa.com.tr/en/americas/trump-says-us-israeli-war-on-iran-will-be-over-with-soon-/3946296",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-23T06:35:17.919614+05:00",
+      "age_min": -1329.7
+    },
+    {
+      "hash": "7286db333a8f255d51a89891984ffe6c",
+      "title": "Americans Pay $45 Billion More for Fuel Since Iran War",
+      "summary": "",
+      "link": "https://790waeb.iheart.com/content/2026-05-22-americans-pay-45-billion-more-for-fuel-since-iran-war/",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-23T06:34:04.702343+05:00",
+      "age_min": -1330.9
     },
     {
       "hash": "52308cf3b8310053491ef9d082e906eb",
@@ -528,78 +600,6 @@
       "status": "new",
       "ts": "2026-05-23T05:01:49.536616+05:00",
       "age_min": -1393.2
-    },
-    {
-      "hash": "362d5f2a6b49235eda99d3fe038fb507",
-      "title": "Kevin Warsh sworn in as Fed chair – NBC 6 South Florida",
-      "summary": "",
-      "link": "https://www.nbcmiami.com/news/national-international/kevin-warsh-sworn-in-fed-chair/3812553/",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T04:47:45.159191+05:00",
-      "age_min": 47.8
-    },
-    {
-      "hash": "2e8fcfe0c144bb08e0ac221ad4ee6be5",
-      "title": "The fallout of Israel and America illegal war against Iran on India and the world",
-      "summary": "",
-      "link": "https://www.sott.net/article/506469-The-fallout-of-Israel-and-Americas-illegal-war-against-Iran-on-India-and-the-world",
-      "source": "GDELT/CENTRAL_ASIA",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T04:36:39.561701+05:00",
-      "age_min": 36.7
-    },
-    {
-      "hash": "b11c8a9c37ed4b989297256bf5a0d06e",
-      "title": "Russia becoming  more reckles as Moscow weakened by war – Yvette Cooper",
-      "summary": "",
-      "link": "https://www.lynnnews.co.uk/national/russia-becoming-more-reckless-as-moscow-weakened-by-war-yvette-cooper-167066/",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T04:36:26.006492+05:00",
-      "age_min": 36.4
-    },
-    {
-      "hash": "94d7305d8612735ac3b63f465feb7b78",
-      "title": "Consumer sentiment falls to record low as Iran war fuels inflation fears - Crypto Briefing",
-      "summary": "Consumer sentiment falls to record low as Iran war fuels inflation fears&nbsp;&nbsp;Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVlNVdkdldjdfRjEtY2Nubk0wTVEtTW81SFUxQTN0b1ZJZXM4VkQxOVFGZUoyc01KOF9laHk5UnZuWUN2NEpicjNWeHhVcXhBdkEwb0JYREs1RDE4S0kzTXFUODBaNGlrbUwyZDA4b3BDRWJEUHRFZWhJTV81UU4weExn?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T04:21:41.708305+05:00",
-      "age_min": 82.2
-    },
-    {
-      "hash": "5807e0c8e8b42356096a333c04aea752",
-      "title": "Kevin Warsh sworn in as Chairman of US Federal Reserve ; Trump says he",
-      "summary": "",
-      "link": "http://www.massachusettssun.com/news/279069731/kevin-warsh-sworn-in-as-chairman-of-us-federal-reserve-trump-says-he-will-restore-confidence-in-the-fed",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T04:18:55.436487+05:00",
-      "age_min": 48.9
-    },
-    {
-      "hash": "f095dc0607f275638f9410aa50540d70",
-      "title": "Update : Kevin Warsh sworn in as U . S . Fed chair for four - year term",
-      "summary": "",
-      "link": "http://www.middleeaststar.com/news/279070036/update-kevin-warsh-sworn-in-as-us-fed-chair-for-four-year-term",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T04:18:55.432508+05:00",
-      "age_min": 33.9
     }
   ]
 }
