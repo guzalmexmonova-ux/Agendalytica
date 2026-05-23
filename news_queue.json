@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T06:50:14.741875+05:00",
+  "updated": "2026-05-23T07:03:42.340724+05:00",
   "items": [
     {
       "hash": "e93de3669d7fcc9fd5f93b9ccf8cfb7e",
@@ -48,6 +48,18 @@
       "status": "new",
       "ts": "2026-05-23T03:30:39.815729+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "c369b7933dd87620b6a0f708a9634e0c",
+      "title": "Donald Trump dice que Irán  nunca tendrá un arma nuclear  y que la guerra  se resolverá pronto  | MUNDO",
+      "summary": "",
+      "link": "https://diariocorreo.pe/mundo/donald-trump-dice-que-iran-nunca-tendra-un-arma-nuclear-y-que-la-guerra-se-resolvera-pronto-noticia/",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T07:00:39.188686+05:00",
+      "age_min": 75.7
     },
     {
       "hash": "b302ab41c7dba8a293fd50198b951b9c",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-23T05:17:01.780956+05:00",
       "age_min": -1408.0
-    },
-    {
-      "hash": "527fe3c406447804cae8f7bf18a410dd",
-      "title": "Kevin Warsh sworn in as Chairman of US Federal Reserve ; Trump says he",
-      "summary": "",
-      "link": "http://www.japanherald.com/news/279069731/kevin-warsh-sworn-in-as-chairman-of-us-federal-reserve-trump-says-he-will-restore-confidence-in-the-fed",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T05:01:49.544457+05:00",
-      "age_min": -1378.2
     }
   ]
 }
