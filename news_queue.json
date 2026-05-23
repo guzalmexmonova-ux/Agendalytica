@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-23T19:20:58.130711+05:00",
+  "updated": "2026-05-23T19:34:26.631846+05:00",
   "items": [
     {
       "hash": "a59cf0068e6524ab62f5b16e999069fd",
@@ -144,6 +144,42 @@
       "status": "new",
       "ts": "2026-05-23T15:45:31.876179+05:00",
       "age_min": 45.5
+    },
+    {
+      "hash": "107acc0b8c2e8882f2cf3bec5e944d78",
+      "title": "With signs of a possible Iran deal within reach , pressure is mounting on Trump to return to war",
+      "summary": "",
+      "link": "https://mondoweiss.net/2026/05/with-signs-of-a-possible-iran-deal-within-reach-pressure-is-mounting-on-trump-to-return-to-war/",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T19:31:27.108857+05:00",
+      "age_min": 61.5
+    },
+    {
+      "hash": "1b2c43cf59bc923e8a33e2d8b426fd75",
+      "title": "Only way out of war is to secure demands of Iranian people : Iranian Defence Ministry spokesperson",
+      "summary": "",
+      "link": "http://www.heraldglobe.com/news/279070806/only-way-out-of-war-is-to-secure-demands-of-iranian-people-iranian-defence-ministry-spokesperson",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T19:30:52.204988+05:00",
+      "age_min": 30.9
+    },
+    {
+      "hash": "862c9b38c3c3209c83f58e971b638f50",
+      "title": "UAE joins Saudis , Qatar in urging Trump not to restart war",
+      "summary": "",
+      "link": "https://financialpost.com/news/economy/uae-joins-saudis-qatar-urging-trump-not-to-restart-iran-war",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T19:30:52.199450+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "c43332c046e23c342a09fcb3a33ecf1a",
@@ -410,16 +446,28 @@
       "age_min": 30.8
     },
     {
-      "hash": "e07fccab06fc937dd70db24c84df431d",
-      "title": "Paul Tudor Jones Dismisses Possibility of Fed Rate Cuts Under Warsh Leadership - Open Signal Network - Newser",
-      "summary": "Paul Tudor Jones Dismisses Possibility of Fed Rate Cuts Under Warsh Leadership - Open Signal Network&nbsp;&nbsp;Newser",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZEJjSG5NVTdsSWRpZGd6TXpUQXpZWld1VEFnSmc4Z3d3ajFYR3lReGRUVEk2QU1RdHBvbThuU2JKRmF6NlZKcGNyUnFGb3o0T0VkNkJBLV91MUJyWGtKcy11Ylo4bWg0bXNvMmVYRjktdlNZMngyQWVsR1ZicENEYkVScXZudGtHdk1BUVhCSXJ6N3QxM2JVQ0FKWU93OWlELXhSQkF3MjdtNGJqV3Z6NWMxTG9JdUJId0pocG9B?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 10,
-      "weight": 3,
+      "hash": "daf31b853a7096525875cdccc876c3a9",
+      "title": "Gold drops as Feds says next move likely to be rate hike",
+      "summary": "",
+      "link": "https://financialpost.com/commodities/gold-steady-rate-hike-bets-simmering",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T15:33:17.561471+05:00",
-      "age_min": 96.3
+      "ts": "2026-05-23T19:32:14.056570+05:00",
+      "age_min": 32.2
+    },
+    {
+      "hash": "37d443826d84c9dd528288120526dd20",
+      "title": "Stournaras : ECB Rate Hike Likely in June",
+      "summary": "",
+      "link": "https://athens-times.com/stournaras-next-three-weeks-critical-ecb-likely-to-hike-rates-in-june/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T19:32:14.055013+05:00",
+      "age_min": 32.2
     },
     {
       "hash": "06910c5dc3a29158f392d91eb513d968",
@@ -494,112 +542,64 @@
       "age_min": 77.2
     },
     {
-      "hash": "9c62623fb8503b6bcc4fe9714cd33afe",
-      "title": "Thousands Rally in Taipei Against Defense Budget Cuts as Chinese Invasion Fears Grow - dominotheory.com",
-      "summary": "Thousands Rally in Taipei Against Defense Budget Cuts as Chinese Invasion Fears Grow&nbsp;&nbsp;dominotheory.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOampmN2dpOE16NE5QOFJiZ2ktNjRaT1hfaVJQcG9oUVdqcVhIMjR4bDhCWnZieDJjeEg2bVpFZDY3RHJXV0F0dVMtSFdUaVAtYUpmSEotcE5ORDJRQ2FPaGtfaERtbXp6dDZLM0ZuZlJDMHdiWV9TUlVFX0JtUGJRcHAxZEZfREE5SVZ3YmI0Vmw0VktmM21fa3BoNkVzRGRnVmpzQjVwdk1Ta2Q3TVZz?oc=5",
-      "source": "GNews/USA-China",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T15:33:17.190905+05:00",
-      "age_min": 4.6
-    },
-    {
-      "hash": "e5aa97becb683f8adbe19e453924c8fc",
-      "title": "US bond market volatility marks first stress test for new Fed Chair Kevin Warsh : Jefferies",
+      "hash": "1de05206abb55db5193a8de5885555c9",
+      "title": "Trump says Kevin Warsh will be  totally independent  as he sworn in as Fed chair",
       "summary": "",
-      "link": "http://www.srilankasource.com/news/279068544/us-bond-market-volatility-marks-first-stress-test-for-new-fed-chair-kevin-warsh-jefferies",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T19:20:07.164321+05:00",
-      "age_min": 20.1
-    },
-    {
-      "hash": "f3dc38bea89ac248617ecd2edce03903",
-      "title": "Ukrainian drone attack triggers fire at a Russian oil terminal",
-      "summary": "",
-      "link": "https://www.local10.com/news/2026/05/23/ukrainian-drone-attack-triggers-fire-at-a-russian-oil-terminal/",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T19:00:47.870784+05:00",
-      "age_min": 30.8
-    },
-    {
-      "hash": "8423498b38200dfd7f5de0ba6b072faf",
-      "title": "War latest news. Tehran, close to agreement but difficulties remain - Il Sole 24 ORE",
-      "summary": "War latest news. Tehran, close to agreement but difficulties remain&nbsp;&nbsp;Il Sole 24 ORE",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1dJZVVKU0ttZ1k3RE5ERTlDR2dHaEZIRm8xYWdIcHpySVRPVjdhc3hZMzhFMlQ1S1pWMlROb040YzZrb0NXenV1SlN2YzlXbjNUVW1DNW00TTFmbTYxNnFyV283M1Y1M3pFYWxrTFU0dlV1YXIxUGI5NnJibXhjYTE0eVhWU25sT2JVaFBESllXZGlIaU9LVkw5aUh4Y3g0YnhGUkY1dVQwWHR2dVE?oc=5",
-      "source": "GNews/Breaking",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-23T18:51:43.751388+05:00",
-      "age_min": 37.5
-    },
-    {
-      "hash": "adfd68deb26e4efd025797cf091153e7",
-      "title": "Медведев посоветовал Пашиняну уже сейчас начинать переговоры с США по поставкам СПГ Голос Армении",
-      "summary": "",
-      "link": "https://golosarmenii.am/%D0%9C%D0%B5%D0%B4%D0%B2%D0%B5%D0%B4%D0%B5%D0%B2-%D0%BF%D0%BE%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2%D0%B0%D0%BB-%D0%9F%D0%B0%D1%88%D0%B8%D0%BD%D1%8F%D0%BD%D1%83-%D1%83%D0%B6%D0%B5-%D1%81%D0%B5/",
-      "source": "GDELT/ENERGY",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-23T18:49:58.860300+05:00",
-      "age_min": 65.0
-    },
-    {
-      "hash": "dccaaad26d9831706930ff0e92b5e64f",
-      "title": "Warsh takes helm of Federal Reserve as Trump pushes for lower interest rates",
-      "summary": "",
-      "link": "https://www.westhawaiitoday.com/2026/05/23/nation-world-news/warsh-takes-helm-of-federal-reserve-as-trump-pushes-for-lower-interest-rates/",
+      "link": "https://kspress.com/news/2026/05/22/trump-says-kevin-warsh-will-be-%E2%80%98totally-independent%E2%80%99-as-he%E2%80%99s-sworn-in-as-fed-chair",
       "source": "GDELT/FED_ECB",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T18:49:44.402286+05:00",
-      "age_min": 34.7
+      "ts": "2026-05-23T19:32:14.058269+05:00",
+      "age_min": 62.2
     },
     {
-      "hash": "3c3a58615077abf29bbfa3dbef912dc9",
-      "title": "Only a matter of time  before US resumes attack on Iran : former Navy commander",
+      "hash": "7512e91f9dec472a21dea81866a6f46c",
+      "title": "Trump tells Warsh to do  own thing  as Fed chair sworn in",
       "summary": "",
-      "link": "https://nypost.com/2026/05/23/us-news/only-a-matter-of-time-before-us-resumes-attack-on-iran-former-navy-commander/",
-      "source": "GDELT/MIDEAST",
+      "link": "https://financialpost.com/news/economy/warsh-to-be-sworn-in-as-fed-chief-during-white-house-ceremony",
+      "source": "GDELT/FED_ECB",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T18:48:14.094422+05:00",
-      "age_min": 78.2
+      "ts": "2026-05-23T19:32:14.057670+05:00",
+      "age_min": 32.2
     },
     {
-      "hash": "f32a29ad5d1fe340a76c6501c2805121",
-      "title": "Losing on Battlefield , Kiev Regime Terrorizes Children - Russian MFA on College Attack",
+      "hash": "a501fa00e1de13552a40f8d50788e4de",
+      "title": "Kevin Warsh sworn in as Chairman of US Federal Reserve ; Trump says he",
       "summary": "",
-      "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260522-sputnik02.htm",
-      "source": "GDELT/TERRORISM",
+      "link": "http://www.srilankasource.com/news/279069731/kevin-warsh-sworn-in-as-chairman-of-us-federal-reserve-trump-says-he-will-restore-confidence-in-the-fed",
+      "source": "GDELT/FED_ECB",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T18:45:58.995203+05:00",
-      "age_min": 106.0
+      "ts": "2026-05-23T19:32:14.055696+05:00",
+      "age_min": 32.2
     },
     {
-      "hash": "0905235a98e955690fb13e89694ad681",
-      "title": "Ukrainian drone attack triggers fire at a Russian oil terminal",
+      "hash": "528acd6a61c6872ed1c948dd26675675",
+      "title": "Update : Kevin Warsh sworn in as U . S . Fed chair for four - year term",
       "summary": "",
-      "link": "https://abcnews.com/International/wireStory/ukrainian-drone-attack-triggers-fire-russian-oil-terminal-133246913",
+      "link": "http://www.srilankasource.com/news/279070036/update-kevin-warsh-sworn-in-as-us-fed-chair-for-four-year-term",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-23T19:32:14.053965+05:00",
+      "age_min": 32.2
+    },
+    {
+      "hash": "036add857715f8da2f48428b8c6dd780",
+      "title": "Iranian FM Araghchi , Omani FM Albusaidi discuss diplomatic efforts to  prevent escalation of tension",
+      "summary": "",
+      "link": "http://www.heraldglobe.com/news/279070859/iranian-fm-araghchi-omani-fm-albusaidi-discuss-diplomatic-efforts-to-prevent-escalation-of-tension",
       "source": "GDELT/CONFLICTS",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-23T18:45:40.374484+05:00",
-      "age_min": 30.7
+      "ts": "2026-05-23T19:30:52.203800+05:00",
+      "age_min": 30.9
     }
   ]
 }
