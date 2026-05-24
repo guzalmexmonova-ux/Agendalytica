@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T23:48:47.721459+05:00",
+  "updated": "2026-05-25T00:05:14.226485+05:00",
   "items": [
     {
       "hash": "01e53855028b65017b6ef4e216c0147b",
@@ -24,6 +24,30 @@
       "status": "new",
       "ts": "2026-05-24T20:22:49.354852+05:00",
       "age_min": 189.8
+    },
+    {
+      "hash": "f233932ca0a7c71c48bebe7ed56d1c44",
+      "title": "Russia fires hypersonic missile in one of the biggest attacks on Kyiv",
+      "summary": "",
+      "link": "https://visionmp.com/world/russia-fires-hypersonic-missile-in-one-of-the-biggest-attacks-on-kyiv/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T00:01:29.922582+05:00",
+      "age_min": 106.5
+    },
+    {
+      "hash": "5f194f88d80ece92cdbdedfdf53566b1",
+      "title": "Russia kills 4 in massive Ukraine attack using nuclear - capable missile",
+      "summary": "",
+      "link": "https://www.channelnewsasia.com/world/russia-ukraine-attack-nuclear-capable-missile-6138876",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T00:01:29.919427+05:00",
+      "age_min": 46.5
     },
     {
       "hash": "7dee5aadfabdd76ee4cb8da6c1be8746",
@@ -230,28 +254,28 @@
       "age_min": 32.2
     },
     {
-      "hash": "fed515145d8a2b5ac481fda237519837",
-      "title": "Rússia confirma ter usado míssel com capacidade nuclear nos ataques noturnos",
+      "hash": "929b7730cedddbcedd9b684d870e8c6e",
+      "title": "Russia pounds Kyiv in powerful drone and missile attack",
       "summary": "",
-      "link": "https://sapo.pt/artigo/russia-confirma-ter-usado-missel-com-capacidade-nuclear-nos-ataques-noturnos-6a12fb10eabb4004a41a14d9",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
+      "link": "https://www.ypradio.org/npr-news/2026-05-24/russia-pounds-kyiv-in-powerful-drone-and-missile-attack",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T20:01:09.172188+05:00",
-      "age_min": 61.2
+      "ts": "2026-05-25T00:01:29.922059+05:00",
+      "age_min": 46.5
     },
     {
-      "hash": "60d936efad07d6bd958913cc6778bb61",
-      "title": "Tiene capacidad nuclear : Rusia usó en su último ataque a Kiev el misil hipersónico Oreshnik",
+      "hash": "e25196a5e4e212fa31dd647f776b3087",
+      "title": "Macron warns Belarus against involvement in Ukraine war : source",
       "summary": "",
-      "link": "https://www.diariopanorama.com/noticia/553506/tiene-capacidad-nuclear-rusia-uso-ultimo-ataque-kiev-misil-hipersonico-oreshnik",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
+      "link": "http://thepeninsulaqatar.com/article/24/05/2026/macron-warns-belarus-against-involvement-in-ukraine-war-source",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T20:01:09.171148+05:00",
-      "age_min": 46.2
+      "ts": "2026-05-25T00:01:29.917389+05:00",
+      "age_min": 46.5
     },
     {
       "hash": "a138c4aa8a3dcd83aae47a9be3d7cb68",
@@ -458,6 +482,30 @@
       "age_min": 141.0
     },
     {
+      "hash": "405375c5148882014a9655a8ee64949d",
+      "title": "Iran Denies Nuclear Weapons Pursuit in Peace Talks",
+      "summary": "",
+      "link": "https://www.newkerala.com/news/a/iran-not-seeking-nuclear-weapons-says-president-pezeshkian-869.htm",
+      "source": "GDELT/SUMMITS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-25T00:04:05.882947+05:00",
+      "age_min": 94.1
+    },
+    {
+      "hash": "205fb51ba9299bee97dbdc8e37c19188",
+      "title": "Investors drop bold Fed rate - cut signal to Warsh",
+      "summary": "",
+      "link": "https://finance.yahoo.com/economy/policy/articles/investors-drop-bold-fed-rate-180300634.html",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T00:04:23.646065+05:00",
+      "age_min": 34.4
+    },
+    {
       "hash": "69c508cc4c98eebd2025dc2db029ae24",
       "title": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
       "summary": "Russia has launched one of its largest attacks on Kyiv since the war began, firing hundreds of drones and missiles.",
@@ -482,6 +530,18 @@
       "age_min": 76.4
     },
     {
+      "hash": "79369d5ffeee92b4e4b5473d6873c3a6",
+      "title": "В ДНР из-за атак ВСУ с начала суток пострадали пять человек",
+      "summary": "Также повреждены три объекта гражданской инфраструктуры, жилые домостроения, спецтехника и легковой автомобиль",
+      "link": "https://tass.ru/proisshestviya/27516191",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-25T00:04:30.811308+05:00",
+      "age_min": 18.3
+    },
+    {
       "hash": "6ab8e2692c427f698cf657871eaa4d69",
       "title": "Kevin Warsh Vows 'Reform-Oriented' Approach as New Federal Reserve Chair - Market Hype Signals - Newser",
       "summary": "Kevin Warsh Vows 'Reform-Oriented' Approach as New Federal Reserve Chair - Market Hype Signals&nbsp;&nbsp;Newser",
@@ -492,6 +552,18 @@
       "status": "new",
       "ts": "2026-05-24T23:48:24.913759+05:00",
       "age_min": 59.2
+    },
+    {
+      "hash": "ed0ea47fd81e6988904c761d67778cd4",
+      "title": "Oman , Iran discuss principles governing navigation through Strait of Hormuz under intl law",
+      "summary": "",
+      "link": "https://aa.com.tr/en/middle-east/oman-iran-discuss-principles-governing-navigation-through-strait-of-hormuz-under-intl-law/3947576",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-25T00:04:05.877538+05:00",
+      "age_min": 94.1
     },
     {
       "hash": "8d9318161adb34acde0405d8a02e6022",
