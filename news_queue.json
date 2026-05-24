@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T12:47:55.114285+05:00",
+  "updated": "2026-05-24T13:04:03.984529+05:00",
   "items": [
     {
       "hash": "ab499684617964c01903a94763eb4f42",
@@ -122,16 +122,28 @@
       "age_min": 90.5
     },
     {
-      "hash": "8a4c0303d7a0d2b0346640a9a898da72",
-      "title": "Mass ballistic missile attack  hits Kyiv : authorities",
+      "hash": "4e44ad57ccfcc3ab92a9bb5f3bb2819b",
+      "title": "US , Iran seek to finalize  largely negotiated  deal to end war",
       "summary": "",
-      "link": "https://www.spacewar.com/afp/260523225156.cw4ydb50.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 9,
+      "link": "https://www.al-monitor.com/originals/2026/05/us-iran-seek-finalize-largely-negotiated-deal-end-war",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T09:03:15.656616+05:00",
-      "age_min": 33.3
+      "ts": "2026-05-24T13:01:39.946644+05:00",
+      "age_min": 61.7
+    },
+    {
+      "hash": "c1ea33e3712fdb3c9589f2d7718d79f9",
+      "title": "Russia launches major missile , drone attack on Ukraine – Channel Africa",
+      "summary": "",
+      "link": "https://www.channelafrica.co.za/channelafrica/news/russia-launches-major-missile-drone-attack-on-ukraine/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T13:01:18.941360+05:00",
+      "age_min": 76.3
     },
     {
       "hash": "1998b4ccecdfaab69b82cdd052874334",
@@ -242,6 +254,18 @@
       "age_min": 41.4
     },
     {
+      "hash": "37817f1c8c66c83bd2414a19b5cbedb1",
+      "title": "Trump Touts Imminent Iran Deal That Would Reopen Hormuz Strait",
+      "summary": "US President Donald Trump said a peace deal with Iran was nearing completion and that the reopening of the strategic Strait of Hormuz would be announced shortly, even as an Iranian media outlet cast doubt on the claim.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-24/trump-touts-imminent-iran-deal-that-would-reopen-hormuz-strait",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T13:03:23.144351+05:00",
+      "age_min": 23.2
+    },
+    {
       "hash": "d012a57e947bc0d99191fa1ebc667f06",
       "title": "US - Iran 60 day deal will lift oil sanctions , open Strait of Hormuz",
       "summary": "",
@@ -312,6 +336,30 @@
       "status": "new",
       "ts": "2026-05-24T09:17:35.229636+05:00",
       "age_min": 99.3
+    },
+    {
+      "hash": "bda4f806e7be300c1b8034206d2054f6",
+      "title": "Quetta Suicide Attack | Jaafar Express Derails , Railway Track Fire",
+      "summary": "",
+      "link": "https://www.bhaskar.com/g/international/news/quetta-suicide-attack-jaafar-express-derail-fire-138014845.html",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T13:00:56.082744+05:00",
+      "age_min": 60.9
+    },
+    {
+      "hash": "aed32d7569fe706161e172e49075ee10",
+      "title": "Quetta Blast Hits Jaffar Express ; Balochistan Suicide Attack",
+      "summary": "",
+      "link": "https://www.divyabhaskar.co.in/international/news/quetta-bomb-attack-jaffar-express-derailed-balochistan-blast-138014950.html",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T13:00:56.078679+05:00",
+      "age_min": 45.9
     },
     {
       "hash": "538175af0aa98d4bc1aad7fa25297294",
@@ -494,6 +542,30 @@
       "age_min": 12.7
     },
     {
+      "hash": "629963e1b103afbf2fcd051ffc61453c",
+      "title": "Орєшник ракета - росіяни вдарили по Білій Церкві ядерною ракетою",
+      "summary": "",
+      "link": "https://www.unian.ua/war/oryeshnik-raketa-rosiyani-vdarili-po-biliy-cerkvi-yadernoyu-raketoyu-novini-kiyeva-13391313.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T13:01:18.940413+05:00",
+      "age_min": 61.3
+    },
+    {
+      "hash": "335fa1f9ddb7d74146900485dbcff673",
+      "title": "Russian missile strike hits Kyiv , killing four people and injuring 20 others",
+      "summary": "",
+      "link": "https://www.abc.net.au/news/2026-05-24/kyiv-missile-strike-four-killed/106715836",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T13:01:18.936793+05:00",
+      "age_min": 76.3
+    },
+    {
       "hash": "59d49163c4add7a39cd5f150121f0e34",
       "title": "High - stakes US - Iran 60 - day ceasefire memorandum nears final approval : Report",
       "summary": "",
@@ -528,78 +600,6 @@
       "status": "new",
       "ts": "2026-05-24T12:15:31.820312+05:00",
       "age_min": 30.5
-    },
-    {
-      "hash": "35f26a474da3a8d19281dfd84ff9bd9e",
-      "title": "İran Savaşı Sonrası İlk LNG Sevkiyatı Hindistana",
-      "summary": "",
-      "link": "https://www.haberaktuel.com/iran-savasi-sonrasi-ilk-lng-sevkiyati-hindistana-3434079",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T11:47:02.498753+05:00",
-      "age_min": 47.0
-    },
-    {
-      "hash": "e06a8910de8169146a2927e990fb053a",
-      "title": "Орешник ракета - Стерненко розповів , навіщо Росія запустила ядерну ракету без бойової частини",
-      "summary": "",
-      "link": "https://24tv.ua/rosiyani-zapustili-yadernu-raketu-bez-bch-shhob-polyakati-svit_n3073765",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T11:45:49.335201+05:00",
-      "age_min": 30.8
-    },
-    {
-      "hash": "397995b59c5611c2cf62b32d4032f259",
-      "title": "Trump says Iran deal  largely negotiated , dispute over strait reopening",
-      "summary": "",
-      "link": "https://dunyanews.tv/en/World/953387-trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopeni",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T11:30:36.712534+05:00",
-      "age_min": 45.6
-    },
-    {
-      "hash": "8d9b4b65bbe648d72957a045163c6d40",
-      "title": "Proposed US - Iran peace deal involves opening Hormuz during 60 - day ceasefire extension : report",
-      "summary": "",
-      "link": "https://www.businesstimes.com.sg/international/proposed-us-iran-peace-deal-involves-opening-hormuz-during-60-day-ceasefire-extension-report",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T11:30:36.711633+05:00",
-      "age_min": 30.6
-    },
-    {
-      "hash": "c0bd5438d5ec4057eefcc315907252cf",
-      "title": "Oreshnik , il missile balistico ipersonico « impossibile da intercettare » che spaventa le capitali europee",
-      "summary": "",
-      "link": "https://www.ilmessaggero.it/salute/mondo/oreshnik_missile_ipersonico_russo_dove_puo_colpire-9551723.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T11:30:36.710112+05:00",
-      "age_min": 45.6
-    },
-    {
-      "hash": "26df50cfb85f03789ddf6a0dbd3c42cd",
-      "title": "Here's the One Thing New Fed Chair Kevin Warsh Could Do That Would Actually Crash the Stock Market - The Motley Fool",
-      "summary": "Here's the One Thing New Fed Chair Kevin Warsh Could Do That Would Actually Crash the Stock Market&nbsp;&nbsp;The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNREdKLUhQdGx6eVExaktWckNvSHE5UmllODdiTG85b3NFaVpEdnhDZHJkeXExdVlRdmFKUW1iZlZNUGtJaDNfRDVFbHhkQ2piRXd1R1h5MlpfMWNjdUtfejV4dnR6UXN5NUhuQ2FPb1BHaHJLUUVjaDFER1N0R3B2c09GU0xOYUJXbmpxdkJDeDJQX0h3ZHZLWA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T12:47:33.400521+05:00",
-      "age_min": 18.3
     }
   ]
 }
