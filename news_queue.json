@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T21:35:29.308116+05:00",
+  "updated": "2026-05-24T21:51:48.412653+05:00",
   "items": [
     {
       "hash": "01e53855028b65017b6ef4e216c0147b",
@@ -278,16 +278,28 @@
       "age_min": 4.5
     },
     {
-      "hash": "3407616448bf5f95cd8b1e7c61b1dbbc",
-      "title": "Russia uses hypersonic Oreshnik ballistic missile in overnight assault on Kyiv",
+      "hash": "4d52b653cf063d8ba81b2e8d8ab42357",
+      "title": "« Escalada temeraria »: Rusia usó un misil Oreshnik , con capacidad nuclear , en bombardeo masivo contra Ucrania",
       "summary": "",
-      "link": "https://www.enfieldindependent.co.uk/news/national/26134694.russia-uses-hypersonic-oreshnik-ballistic-missile-overnight-assault-kyiv/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
+      "link": "https://www.rionegro.com.ar/mundo/escalada-temeraria-rusia-uso-un-misil-oreshnik-con-capacidad-nuclear-en-bombardeo-contra-ucrania-4586404/",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T17:45:40.806964+05:00",
-      "age_min": 75.7
+      "ts": "2026-05-24T21:45:48.669372+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "a8444635d22495aad530f1e01b207a5d",
+      "title": "Rusia golpea Kiev con uno de los ataques más duros de toda la guerra y united states el misil hipersónico Oreshnik , capaz de portar carga nuclear",
+      "summary": "",
+      "link": "https://www.huffingtonpost.es/global/rusia-golpea-kiev-ataques-mas-duros-toda-guerra-misil-hipersonico-oreshnik-capaz-portar-carga-nuclear-f202605.html",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T21:45:48.668495+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "b366953a462c82e78e8284d551ae2465",
@@ -420,18 +432,6 @@
       "status": "new",
       "ts": "2026-05-24T19:00:51.239219+05:00",
       "age_min": 105.9
-    },
-    {
-      "hash": "4c35b87fd956bd00035231f77250f97c",
-      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
-      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
-      "link": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T17:47:21.890198+05:00",
-      "age_min": 35.0
     },
     {
       "hash": "44ff1157d038700595ad0be402e607ff",
@@ -578,6 +578,18 @@
       "age_min": 75.9
     },
     {
+      "hash": "f3206a5b6db111a1bf02acd37225e08c",
+      "title": "Russia FSB Foils Major Ukrainian - Plotted Terrorist Attack in Belgorod Region",
+      "summary": "",
+      "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260523-sputnik04.htm",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T21:45:48.664339+05:00",
+      "age_min": 60.8
+    },
+    {
       "hash": "75228df1b2423ad65db5a97afb128acf",
       "title": "Prediction : It Only a Matter of Time Before President Donald Trump and Fed Chair Kevin Warsh Are Butting Heads -- and Wall Street May Be the Big Loser",
       "summary": "",
@@ -587,18 +599,6 @@
       "weight": 4,
       "status": "new",
       "ts": "2026-05-24T21:34:39.659206+05:00",
-      "age_min": 34.7
-    },
-    {
-      "hash": "987ea40bda46a8128b744dc939513510",
-      "title": "Why rising US bond yields are pulling down stocks and what it means for you",
-      "summary": "",
-      "link": "https://www.thestandard.co.zw/standard-people/article/200055911/why-rising-us-bond-yields-are-pulling-down-stocks-and-what-it-means-for-you",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T21:34:39.658183+05:00",
       "age_min": 34.7
     }
   ]
