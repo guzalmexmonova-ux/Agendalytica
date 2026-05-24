@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T23:07:58.835466+05:00",
+  "updated": "2026-05-24T23:21:14.225163+05:00",
   "items": [
     {
       "hash": "01e53855028b65017b6ef4e216c0147b",
@@ -36,6 +36,42 @@
       "status": "new",
       "ts": "2026-05-24T19:48:38.694171+05:00",
       "age_min": 65.8
+    },
+    {
+      "hash": "7dee5aadfabdd76ee4cb8da6c1be8746",
+      "title": "Russia kills 4 in massive Ukraine attack using nuclear - capable missile",
+      "summary": "",
+      "link": "https://www.spacewar.com/afp/260524151543.eh6xh1p9.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T23:18:22.711377+05:00",
+      "age_min": 93.4
+    },
+    {
+      "hash": "a3f8408929a363452d9cba0d1fae8fb6",
+      "title": "Russia uses hypersonic Oreshnik missile in mass attack on Kyiv",
+      "summary": "",
+      "link": "https://www.news8000.com/news/national-world/russia-uses-hypersonic-oreshnik-missile-in-mass-attack-on-kyiv/article_df18e7f5-d702-5fb4-84e7-c05dd15770cb.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T23:18:22.710297+05:00",
+      "age_min": 48.4
+    },
+    {
+      "hash": "6d5ddae30508ca2675859dcce7253c83",
+      "title": "Kyiv hit by Russian hypersonic missile attack - Indianapolis News | Indiana Weather | Indiana Traffic | WISH - TV",
+      "summary": "",
+      "link": "https://www.wishtv.com/news/international/zelenskyy-warns-russian-oreshnik/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T23:18:22.708839+05:00",
+      "age_min": 108.4
     },
     {
       "hash": "9c8e8e51d552e3702665aab496264d90",
@@ -206,18 +242,6 @@
       "age_min": 45.7
     },
     {
-      "hash": "035816166a680917184be204a78153a7",
-      "title": "EU leaders condemn Russia use of nuclear - capable missile in massive attacks killing four",
-      "summary": "",
-      "link": "https://www.thejournal.ie/russia-condemned-for-using-nuclear-capable-missile-in-massive-attacks-killing-four-7050134-May2026/",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T19:15:37.866786+05:00",
-      "age_min": 30.6
-    },
-    {
       "hash": "4d52b653cf063d8ba81b2e8d8ab42357",
       "title": "« Escalada temeraria »: Rusia usó un misil Oreshnik , con capacidad nuclear , en bombardeo masivo contra Ucrania",
       "summary": "",
@@ -326,16 +350,52 @@
       "age_min": 31.0
     },
     {
-      "hash": "b6b9442ae9db83f6230dc2619838dfd7",
-      "title": "UE reacționează după atacul masiv al Rusiei asupra Ucrainei . Kaja Kallas :  Moscova demonstrează o politică nesăbuită de risc nuclear",
+      "hash": "a138c4aa8a3dcd83aae47a9be3d7cb68",
+      "title": "What happens when the war really ends",
       "summary": "",
-      "link": "https://www.stiripesurse.ro/ue-reactioneaza-dupa-atacul-masiv-al-rusiei-asupra-ucrainei-kaja-kallas-moscova-demonstreaza-o-politica-nesabuita-de-risc-nuclear_3888817",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
+      "link": "https://www.cnn.com/2026/05/24/business/iran-war-end-strait-gas-prices",
+      "source": "GDELT/ENERGY",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T19:15:49.710109+05:00",
-      "age_min": 75.8
+      "ts": "2026-05-24T23:19:33.072887+05:00",
+      "age_min": 49.6
+    },
+    {
+      "hash": "cf487ddd53eda503f13efbc8a97aeacb",
+      "title": "Russian stuff blowing up : Russia launches Oreshnik ballistic missile at Ukraine",
+      "summary": "",
+      "link": "https://www.dailykos.com/stories/2026/5/24/800043914/community/russian-stuff-blowing-up/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T23:18:22.709183+05:00",
+      "age_min": 63.4
+    },
+    {
+      "hash": "7e56f639adf762e7da2ec3ed2f654b86",
+      "title": "Russia Hammers Kiev With Massive Barrage , Likely Including Oreshnik Hypersonic IRBMs",
+      "summary": "",
+      "link": "https://www.zerohedge.com/geopolitical/russia-hammers-kiev-massive-barrage-likely-including-oreshnik-hypersonic-irbms",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T23:18:22.707789+05:00",
+      "age_min": 48.4
+    },
+    {
+      "hash": "d98e35ed94fe8c9436450864fa94f27d",
+      "title": "Russia pounds Kyiv in powerful drone and missile attack",
+      "summary": "",
+      "link": "https://www.kpbs.org/news/politics/2026/05/24/russia-pounds-kyiv-in-powerful-drone-and-missile-attack",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T23:16:01.577364+05:00",
+      "age_min": 16.0
     },
     {
       "hash": "9207446acee5cb5c0e7476792a1b585f",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-05-24T19:45:52.722265+05:00",
       "age_min": 30.9
-    },
-    {
-      "hash": "b38d096f3c5ff41f3c0656468833e855",
-      "title": "Thank you for your support!",
-      "summary": "Thank you for your support!\n\n\nStatsministeriet (@Statsmin)\n\nActing PM Mette Frederiksen: Last night, Russia launched a brutal attack on civilians and civilian infrastructure in Ukraine. It shows a total disregard for human life. We must increase our support to Ukraine and pressure on Russia.\n\n\n\n— https://nitter.net/Statsmin/status/2058590117133009378#m",
-      "link": "https://nitter.net/ZelenskyyUa/status/2058607553441824880#m",
-      "source": "Zelensky/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T23:07:44.394864+05:00",
-      "age_min": 13.4
-    },
-    {
-      "hash": "57f40191905e14e873dead8a92b55c84",
-      "title": "Egypt : States Convene in Cairo to Reinforce Respect for Rules of War Amid Rising Conflicts",
-      "summary": "",
-      "link": "https://www.icrc.org/en/news-release/Egypt-states-convene-cairo-reinforce-respect-rules-war-amid-rising-conflicts",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T22:46:48.651851+05:00",
-      "age_min": 31.8
-    },
-    {
-      "hash": "84dcb1dce2a23c599106a4f2e378fb17",
-      "title": "В ДНР из-за атак ВСУ пострадал человек",
-      "summary": "Также повреждены линии электропередачи и домостроение",
-      "link": "https://tass.ru/proisshestviya/27516039",
-      "source": "TASS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T23:07:08.613637+05:00",
-      "age_min": 1.5
-    },
-    {
-      "hash": "06b3315c02d8900ae2cf4171dc4b6048",
-      "title": "Vanguard All-World ETF Reaches New High as Warsh Era Begins and Markets Brace for Data Volley - AD HOC NEWS",
-      "summary": "Vanguard All-World ETF Reaches New High as Warsh Era Begins and Markets Brace for Data Volley&nbsp;&nbsp;AD HOC NEWS",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZjNOMzFsU3dEV0xtcmpxTXdGeUdXNktiX1Jfc3gyTm9zMnk1N1VNWkxwR0dkQTlpaG44ajd2ekNMQWlod3ZXb2hCbXQwRWgxSE83SXlkX1pxLVdOVHhxWXE0WEc4SEpCSm1SODVvcTR2aEoxZlZBTkJ0Tjg5Z1hPaUZCOTlPSUY1dUtLd0lvU2Z4TWhIRm9QeWZWclNBVVprY3NhZWFEZ2xyM2tvSFRDZDE0dktpMnBqdy10a0dtWmItdnVnQ1dDckFB?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T22:34:08.837511+05:00",
-      "age_min": 31.8
-    },
-    {
-      "hash": "1e43bbf671b461c4bd9f369809f99cf7",
-      "title": "Ukraine demands emergency Security Council meeting over Russia strikes",
-      "summary": "Ukraine is calling for an emergency meeting of the UN Security Council and a gathering of the Organization for Security and Co-operation in Europe (OSCE) following massive Russian air strikes, Ukrainian Foreign Minister Andrii Sybiha said on Sunday.\nIn a statement published on social media, Sybiha also called for an “appropriate and strong response to the aggressor” following the overnight attacks",
-      "link": "https://www.scmp.com/news/world/europe/article/3354700/ukraine-demands-emergency-security-council-meeting-over-russia-strikes?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T22:33:41.816055+05:00",
-      "age_min": 6.2
     }
   ]
 }
