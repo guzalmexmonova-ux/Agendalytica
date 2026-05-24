@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-24T05:03:21.110313+05:00",
+  "updated": "2026-05-24T05:21:11.002032+05:00",
   "items": [
+    {
+      "hash": "84ea5e19f2659489f2643a7a6dde6491",
+      "title": "Zelenskyy says intelligence indicates Russia might be preparing to use Oreshnik hypersonic missile",
+      "summary": "",
+      "link": "https://abcnews.com/International/zelenskyy-intelligence-russia-preparing-oreshnik-hypersonic-missile/story?id=133256709",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T05:18:06.363741+05:00",
+      "age_min": 18.1
+    },
     {
       "hash": "bb0263dd4e647bdcaf936bbe058135ec",
       "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
@@ -36,18 +48,6 @@
       "status": "new",
       "ts": "2026-05-24T01:46:32.928399+05:00",
       "age_min": 106.5
-    },
-    {
-      "hash": "b440c00edc18b2b880c653343e1f72a0",
-      "title": "More War-Driven Inflation Seen in Fed’s Favored Gauge",
-      "summary": "The Federal Reserve’s favored top-line inflation gauge is rapidly approaching 4% as a war-driven spike in energy costs generates unease that price pressures will broaden.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-23/more-war-driven-inflation-seen-in-fed-s-favored-gauge",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T01:17:10.916909+05:00",
-      "age_min": 17.2
     },
     {
       "hash": "691768b501d694cdc7d71ff09f02c92d",
@@ -338,18 +338,6 @@
       "age_min": 61.3
     },
     {
-      "hash": "4d5baf3e3a7df20911eade991d90b1c0",
-      "title": "Война в Украине – Владимир Путин больше не может скрывать от россиян поражения на фронте",
-      "summary": "",
-      "link": "https://www.unian.net/world/voyna-v-ukraine-vladimir-putin-bolshe-ne-mozhet-skryvat-ot-rossiyan-porazheniya-na-fronte-13391184.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T01:15:33.850400+05:00",
-      "age_min": 45.6
-    },
-    {
       "hash": "5d72f4757e98eb88ad8d44352f880206",
       "title": "Iran War Live Updates: Trump Says Peace Deal Is Near",
       "summary": "President Trump said Iran and the United States had “largely negotiated” an agreement “pertaining to PEACE.” Three senior Iranian officials said Tehran had agreed to a memorandum of understanding, but there was no public statement from Iran’s government.",
@@ -398,16 +386,16 @@
       "age_min": 15.0
     },
     {
-      "hash": "ad2ccb1f5f9311106ad959444fc6d4aa",
-      "title": "Powell Vows No 'Shadow Chair' Role, but Potential Clash with Warsh Looms - Pre-Announcement Alert - Newser",
-      "summary": "Powell Vows No 'Shadow Chair' Role, but Potential Clash with Warsh Looms - Pre-Announcement Alert&nbsp;&nbsp;Newser",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM2FpN3J1dlI3T2JGbmFqOFV2UEhCTFVOUU5fRmJYV2JpcFlPWmNyekRPY3diNVJFZF91U3R4QTEtS3FacEdWQ2lRQnhoT0JKSEFqempVOFFDQXRMcFUycThlUlVQRGNvNU5zTlZPZ1FadE1nYzBFZjNuYkVrNWxjaWRmeVpSQ1RXV3kyT1dXNmo0eFkzTVRUczJTTUZKcU91ZVV4amROX1M0dGxZcGVFa3J3?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 10,
-      "weight": 3,
+      "hash": "bc09df8b45be9d92d7bb3fc9b48666e5",
+      "title": "Zelenskyy Warns of Oreshnik Airstrike Threat to Kyiv",
+      "summary": "",
+      "link": "https://www.el-balad.com/17013473",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T01:05:43.208295+05:00",
-      "age_min": 82.5
+      "ts": "2026-05-24T05:18:06.367416+05:00",
+      "age_min": -1346.9
     },
     {
       "hash": "d86a3235fcfbafd602f2c192a4984465",
@@ -542,6 +530,30 @@
       "age_min": 61.0
     },
     {
+      "hash": "a76e0500f904c7b36f9adff8564e023f",
+      "title": "U . S .- Iran Agreement Imminent Strait of Hormuz Expected to Reopen , Oil Prices Set to Fall",
+      "summary": "",
+      "link": "https://www.latintimes.com/us-iran-agreement-imminent-strait-hormuz-expected-reopen-oil-prices-set-fall-597597",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T05:19:09.368215+05:00",
+      "age_min": -1390.8
+    },
+    {
+      "hash": "976495f1f4a11232b1944943f6623a53",
+      "title": "US , Ukraine warn of Russian strikes as Putin orders retaliation",
+      "summary": "",
+      "link": "https://www.wmtw.com/article/us-ukraine-warn-of-russian-strikes-after-putin-orders-retaliation-for-deadly-ukrainian-attack/71393350",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T05:18:06.361817+05:00",
+      "age_min": -1391.9
+    },
+    {
       "hash": "9634b229024114ff58b29991ec8d6f5a",
       "title": "Iran ceasefire deal  a lot closer : Trump",
       "summary": "",
@@ -552,6 +564,30 @@
       "status": "new",
       "ts": "2026-05-24T04:45:56.085557+05:00",
       "age_min": 30.9
+    },
+    {
+      "hash": "217075e665c1f56e8f5826aaf7232a55",
+      "title": "Egypt , Qatar FMs stress continued US - Iran talks to prevent regional escalation - Foreign Affairs - Egypt",
+      "summary": "",
+      "link": "https://english.ahram.org.eg/News/569504.aspx",
+      "source": "GDELT/SUMMITS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-24T05:19:59.908202+05:00",
+      "age_min": 20.0
+    },
+    {
+      "hash": "7456115e9699c43512c98345567e4885",
+      "title": "Trump says Iran ceasefire deal to be  announced shortly  amid negotiations",
+      "summary": "",
+      "link": "https://www.nzherald.co.nz/world/trump-says-iran-ceasefire-deal-in-final-stages-to-be-announced-shortly/O7Z57U4OAVEZPDPY54YERPI5TU/",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-24T05:19:59.908535+05:00",
+      "age_min": 20.0
     }
   ]
 }
