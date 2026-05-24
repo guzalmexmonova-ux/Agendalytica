@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T11:18:22.112647+05:00",
+  "updated": "2026-05-24T11:33:30.563949+05:00",
   "items": [
     {
       "hash": "2f27d39992d3aec54543b60b3ecb91ae",
@@ -110,16 +110,16 @@
       "age_min": 16.5
     },
     {
-      "hash": "e9219d971140d78d08d074bd1c494770",
-      "title": "Покушение на Иванку Трамп назвали спектаклем",
+      "hash": "9f1bfd40ec6b1c5fc0369908cf9ac345",
+      "title": "3 months in , is Trump losing the Iran war ?",
       "summary": "",
-      "link": "https://news.mail.ru/politics/71001324/",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
+      "link": "https://www.asiaone.com:443/world/3-months-trump-losing-iran-war",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-24T07:30:42.077787+05:00",
-      "age_min": 30.7
+      "ts": "2026-05-24T11:30:36.709301+05:00",
+      "age_min": 30.6
     },
     {
       "hash": "da223806862661fb2c3ebfaeac65a16d",
@@ -266,6 +266,18 @@
       "age_min": 45.7
     },
     {
+      "hash": "b135a14e608fb0b254b07aebcf44d47b",
+      "title": "Kyiv, Ukraine, Hit in Russian Missile Attack",
+      "summary": "Buildings rattled in the Ukrainian capital for hours early Sunday. It was unclear if Russia’s Oreshnik intermediate-range ballistic missile had been used.",
+      "link": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html",
+      "source": "NYT World",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-24T11:32:50.512640+05:00",
+      "age_min": 11.0
+    },
+    {
       "hash": "c8016b1dfda3c33ed152c85886b3787b",
       "title": "19 feared trapped after building collapse in Philippines",
       "summary": "An unfinished nine-storey building collapsed near Manila early on Sunday, with 19 workers feared trapped",
@@ -300,6 +312,18 @@
       "status": "new",
       "ts": "2026-05-24T09:17:35.229636+05:00",
       "age_min": 99.3
+    },
+    {
+      "hash": "25fd4a99327ee7eff12368d6d001d506",
+      "title": "Ukrainian drone attack triggers fire at a Russian oil terminal",
+      "summary": "",
+      "link": "https://www.asiaone.com:443/world/ukrainian-drone-attack-triggers-fire-russian-oil-terminal",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T11:30:36.707579+05:00",
+      "age_min": 30.6
     },
     {
       "hash": "ab5812efc07ab8f8ed228f0e4f4bc9b3",
@@ -386,16 +410,16 @@
       "age_min": 76.9
     },
     {
-      "hash": "cbca2cbef6ad0af43df7b9cafa203be5",
-      "title": "Drishyam 3  actor Ansiba Hassan alleges conspiracy within AMMA ; Claims Tiny Tom was reason behind her resignation",
-      "summary": "",
-      "link": "https://timesofindia.indiatimes.com/entertainment/malayalam/movies/news/drishyam-3-actor-ansiba-hassan-alleges-conspiracy-within-amma-claims-tiny-tom-was-reason-behind-her-resignation/articleshow/131287794.cms",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
+      "hash": "61dde2a562ab4a60eb538998c8f207d1",
+      "title": "Iranian Officials Say Proposed Peace Deal Would Open Strait of Hormuz",
+      "summary": "Iran has not formally responded to President Trump’s announcement that a peace deal was close. But officials suggested the oil choke point in the Strait of Hormuz could reopen.",
+      "link": "https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html",
+      "source": "NYT World",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-24T07:30:42.079706+05:00",
-      "age_min": 30.7
+      "ts": "2026-05-24T11:32:50.511970+05:00",
+      "age_min": 1.8
     },
     {
       "hash": "2b04976c3aa99e4e18038915156259c1",
@@ -420,6 +444,54 @@
       "status": "new",
       "ts": "2026-05-24T08:03:41.367345+05:00",
       "age_min": 96.2
+    },
+    {
+      "hash": "397995b59c5611c2cf62b32d4032f259",
+      "title": "Trump says Iran deal  largely negotiated , dispute over strait reopening",
+      "summary": "",
+      "link": "https://dunyanews.tv/en/World/953387-trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopeni",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T11:30:36.712534+05:00",
+      "age_min": 45.6
+    },
+    {
+      "hash": "8d9b4b65bbe648d72957a045163c6d40",
+      "title": "Proposed US - Iran peace deal involves opening Hormuz during 60 - day ceasefire extension : report",
+      "summary": "",
+      "link": "https://www.businesstimes.com.sg/international/proposed-us-iran-peace-deal-involves-opening-hormuz-during-60-day-ceasefire-extension-report",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T11:30:36.711633+05:00",
+      "age_min": 30.6
+    },
+    {
+      "hash": "c0bd5438d5ec4057eefcc315907252cf",
+      "title": "Oreshnik , il missile balistico ipersonico « impossibile da intercettare » che spaventa le capitali europee",
+      "summary": "",
+      "link": "https://www.ilmessaggero.it/salute/mondo/oreshnik_missile_ipersonico_russo_dove_puo_colpire-9551723.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T11:30:36.710112+05:00",
+      "age_min": 45.6
+    },
+    {
+      "hash": "180817ffdbba501c71e54fa52eb848c2",
+      "title": "ðŸš¨ URANIUM SURRENDER ?: Report Says Iran Agrees To Give Up Highly Enriched Uranium In Potential Deal With U . S .",
+      "summary": "",
+      "link": "https://www.theyeshivaworld.com/news/israel-news/2552440/%F0%9F%9A%A8-uranium-surrender-report-says-iran-agrees-to-give-up-highly-enriched-uranium-in-potential-deal-with-u-s.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-24T11:30:36.708797+05:00",
+      "age_min": 30.6
     },
     {
       "hash": "fbf9dfd6031bf019a9ef647f296f5992",
@@ -482,42 +554,6 @@
       "age_min": 30.8
     },
     {
-      "hash": "71860be742f235e042e4e36cbd580d43",
-      "title": "US Senator Lindsey Graham warns Iran deal could fuel militancy in Lebanon and Iraq , escalate Strait of Hormuz risks",
-      "summary": "",
-      "link": "http://www.zimbabwestar.com/news/279071906/us-senator-lindsey-graham-warns-iran-deal-could-fuel-militancy-in-lebanon-and-iraq-escalate-strait-of-hormuz-risks",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T07:30:59.443838+05:00",
-      "age_min": 31.0
-    },
-    {
-      "hash": "92229ab9992073985aff29810e58df7b",
-      "title": "Britain navy prepares to clear mines in the Strait of Hormuz",
-      "summary": "",
-      "link": "https://www.kcra.com/article/britain-navy-strait-of-hormuz-peace-deal/71393636",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T07:30:59.436723+05:00",
-      "age_min": 31.0
-    },
-    {
-      "hash": "cb71e0dbf627b9b49c080e344b915b19",
-      "title": "US , Ukraine warn of Russian strikes as Putin orders retaliation",
-      "summary": "",
-      "link": "https://www.kcra.com/article/us-ukraine-warn-of-russian-strikes-after-putin-orders-retaliation-for-deadly-ukrainian-attack/71393350",
-      "source": "GDELT/TERRORISM",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-24T07:30:42.077006+05:00",
-      "age_min": 30.7
-    },
-    {
       "hash": "fbfd698e9806b849e34d57b67425fc99",
       "title": "Fed Chair Warsh Unlikely to Cut Rates Amid Trump Pressure - 조선일보",
       "summary": "Fed Chair Warsh Unlikely to Cut Rates Amid Trump Pressure&nbsp;&nbsp;조선일보",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-05-24T09:18:06.938435+05:00",
       "age_min": 78.0
-    },
-    {
-      "hash": "cd9a19ec8c4c5f94beea640df38b5133",
-      "title": "Kevin Warsh Expected to Cut Rates While Traders Bet on a 25-Point Hike - The Currency analytics",
-      "summary": "Kevin Warsh Expected to Cut Rates While Traders Bet on a 25-Point Hike&nbsp;&nbsp;The Currency analytics",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTzRHQ1hVZFZONE8tVGtfS1UxSnlNRVo5dzdoak1Kc1lvUUs1QkxjVG9CS1NCSi0taTYzN2I5Z2pyYzh5NlcwLWxIdjJVcTFoeUNnaFB3TkVaVUZDTy1VLUpTeW5Qdi1HSDhaQXJWellNczJEV3B3clg4Mmp6R0pyWDZnTmpodjR5QnNzSUVUNUZWWTZNeDFTQ1BSaEtiek1vTk5udl9lZDZmTHN5dUlrbzlnTjJjYjFkSEE?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T09:06:23.655828+05:00",
-      "age_min": 9.3
-    },
-    {
-      "hash": "d004723d42e388ff27721015c166bef8",
-      "title": "Paul Tudor Jones: 'No Chance' Warsh Could Push Fed to Cut Rates - Earnings Power Value - Newser",
-      "summary": "Paul Tudor Jones: 'No Chance' Warsh Could Push Fed to Cut Rates - Earnings Power Value&nbsp;&nbsp;Newser",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcWE3M3pVVVVoNXFOU203ZktSbTloSF9qbFRLR1ZxUjdJT202cGJyOHlsZlduOHgxa2RsVzB6Z0ZqVUhmSHdjdmNUU3NVMUs4VnYwUFRkZGRvY1lJdWVJeE9IVG4tWUtpc0h2UHNYTERoTWZkLTE5RUtxdDZjUVlJd0lXUEVsZjF2RkFUYVJPaEJpcWNxdkkyWnVlT1pmVXYzcUJTTlpn?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T08:03:41.366631+05:00",
-      "age_min": 104.4
-    },
-    {
-      "hash": "d10ca2fbb87470ff4541362af174ce2f",
-      "title": "Trump says Iran deal  largely negotiated , dispute over strait reopening",
-      "summary": "",
-      "link": "https://www.tribuneindia.com/news/usa-news/trump-says-iran-deal-largely-negotiated-dispute-over-strait-reopening/",
-      "source": "GDELT/SANCTIONS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-24T10:46:07.692434+05:00",
-      "age_min": 106.1
     }
   ]
 }
