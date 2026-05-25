@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T03:48:40.848569+05:00",
+  "updated": "2026-05-26T04:04:36.640538+05:00",
   "items": [
     {
       "hash": "b461aecb4f0cd97a06c16955c76ca8b8",
@@ -218,40 +218,16 @@
       "age_min": 33.1
     },
     {
-      "hash": "a854673616aab44ace14f56fba176a2c",
-      "title": "Hezbollah chief speech shows terror org . still could take Lebanon to war",
+      "hash": "972733db71791f97bb894e47ea2f97f6",
+      "title": "Trump launches social media attacks as Iran nuclear talks slow",
       "summary": "",
-      "link": "http://www.jpost.com/middle-east/article-897265",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
+      "link": "https://www.ynetnews.com/article/rjeqrlgxze",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-26T00:01:09.385706+05:00",
-      "age_min": 91.2
-    },
-    {
-      "hash": "816b79c309188ef162f6186b8b9fa695",
-      "title": "What we know and dont know about the emerging deal to end the Iran war",
-      "summary": "",
-      "link": "https://www.kimt.com/news/what-we-know-and-dont-know-about-the-emerging-deal-to-end-the-iran-war/article_e21d7503-3064-4ac3-ac20-2353d7c2b967.html",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T00:01:09.385423+05:00",
-      "age_min": 91.2
-    },
-    {
-      "hash": "15a0bf7fd4a7e06a3137a0a980e16f92",
-      "title": "What in the proposed deal that could end the US - Iran War ?",
-      "summary": "",
-      "link": "https://www.wtae.com/article/us-iran-deal-strait-of-hormuz-war-talks/71401031",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T00:01:09.383795+05:00",
-      "age_min": 46.2
+      "ts": "2026-05-26T04:03:29.332344+05:00",
+      "age_min": 48.5
     },
     {
       "hash": "2fb9b544e1f4adf0705c797a0f1a2b13",
@@ -326,6 +302,18 @@
       "age_min": 2.3
     },
     {
+      "hash": "5fa0bde5447dc62cac789c74d1d31a94",
+      "title": "Israeli airstrike kills Palestinian woman , girl in southern Gaza",
+      "summary": "",
+      "link": "https://www.dailysabah.com/world/mid-east/israeli-airstrike-kills-palestinian-woman-girl-in-southern-gaza",
+      "source": "GDELT/CONFLICTS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T04:01:49.070404+05:00",
+      "age_min": 31.8
+    },
+    {
       "hash": "8890d293ec7d575a7805c879dce26eab",
       "title": "Asian Stocks Set to Extend Gains on US-Iran Hopes: Markets Wrap",
       "summary": "Stocks in Asia were poised to extend gains Tuesday as optimism over a potential US-Iran deal to reopen the Strait of Hormuz lifted risk appetite and sent oil prices lower.",
@@ -396,6 +384,18 @@
       "status": "new",
       "ts": "2026-05-26T01:05:58.405043+05:00",
       "age_min": 10.0
+    },
+    {
+      "hash": "0a27f59b6be1c3c96a3f543506583d4d",
+      "title": "У Міноборони відповіли на погрози РФ щодо нових атак на Київ",
+      "summary": "",
+      "link": "https://zn.ua/ukr/war/tse-bude-duzhe-boljache-dlja-rosijan-flesh-prokomentuvav-pohrozi-rf.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T04:02:23.453666+05:00",
+      "age_min": 47.4
     },
     {
       "hash": "43803459f300fe34397a96da89647048",
@@ -588,18 +588,6 @@
       "status": "new",
       "ts": "2026-05-26T00:17:08.091844+05:00",
       "age_min": 20.7
-    },
-    {
-      "hash": "0be66e850c63b3a98819e4ffe94fc4cc",
-      "title": "IDF to strike Tyre following increase in Hezbollah drone strikes",
-      "summary": "",
-      "link": "https://www.jpost.com/israel-news/defense-news/article-897274",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T00:01:09.384421+05:00",
-      "age_min": 91.2
     }
   ]
 }
