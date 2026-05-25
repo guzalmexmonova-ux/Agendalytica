@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-25T07:34:26.771910+05:00",
+  "updated": "2026-05-25T07:54:39.680450+05:00",
   "items": [
+    {
+      "hash": "ccbcf3de5881171f28740ab4a277f138",
+      "title": "India State Lenders Wilt As Iran War Lifts Yields to 2-Year High",
+      "summary": "A Nifty gauge of government-controlled banks has fallen 6% this month.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-05-25/shares-of-india-state-run-banks-slide-as-bond-yields-climb",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T07:53:47.105444+05:00",
+      "age_min": 7.0
+    },
     {
       "hash": "61970c53d6fa14ff8f58192f5627283d",
       "title": "Iran war : Vessels carrying Middle East oil , LNG exit Hormuz , head for Pakistan , China",
@@ -98,30 +110,6 @@
       "age_min": 27.5
     },
     {
-      "hash": "5a723082d82f5bdd18fa9623844db808",
-      "title": "FirstFT: Xi Jinping lambasted Japan’s ‘remilitarisation’ at Donald Trump summit",
-      "summary": "Also in today’s newsletter: Trump says US will not rush deal with Iran, and Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
-      "link": "https://www.ft.com/content/66776a35-908c-4242-9468-19bf7feaa474",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T03:48:00.160350+05:00",
-      "age_min": 80.4
-    },
-    {
-      "hash": "14a4976dd97e3adfae2ff1c8d58f2ac5",
-      "title": "US - Iran war : President Donald Trump says Strait of Hormuz blockade will stay until deal is reached",
-      "summary": "",
-      "link": "https://www.perthnow.com.au/news/world/us-iran-war-president-donald-trump-says-strait-of-hormuz-blockade-will-stay-until-deal-is-reached-c-22330266",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T03:45:48.387366+05:00",
-      "age_min": 45.8
-    },
-    {
       "hash": "61b936de23a71df0bbd29f040248e76b",
       "title": "EE . UU . y el acuerdo nuclear con Irán : postura de Rubio | MUNDO",
       "summary": "",
@@ -144,18 +132,6 @@
       "status": "new",
       "ts": "2026-05-25T04:42:27.410958+05:00",
       "age_min": 27.5
-    },
-    {
-      "hash": "96c7f45616accc61c8de4c4259106326",
-      "title": "Rússia retalia Ucrânia usando míssil com capacidade nuclear",
-      "summary": "",
-      "link": "https://operamundi.uol.com.br/guerra-na-ucrania/russia-retalia-ucrania-usando-missil-com-capacidade-nuclear/",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T03:45:48.387648+05:00",
-      "age_min": 45.8
     },
     {
       "hash": "19c5fa82d462fc6938d9417ea44832bd",
@@ -290,16 +266,16 @@
       "age_min": 30.8
     },
     {
-      "hash": "7b3b08be5b94428ea67fe8a4d191fc2e",
-      "title": "Republicans who have drawn a hard line on Iran pan Trump emerging proposal to end the war",
-      "summary": "",
-      "link": "https://www.kob.com/ap-top-news/republicans-who-have-drawn-a-hard-line-on-iran-pan-trumps-emerging-proposal-to-end-the-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "b135a14e608fb0b254b07aebcf44d47b",
+      "title": "Kyiv, Ukraine, Hit in Russian Missile Attack",
+      "summary": "Buildings rattled in the Ukrainian capital for hours early Sunday. Russia launched an Oreshnik intermediate-range ballistic missile for only the third time in the war.",
+      "link": "https://www.nytimes.com/2026/05/24/world/europe/russia-ukraine-kyiv-attack-oreshnik-missile.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-25T03:45:48.390428+05:00",
-      "age_min": 75.8
+      "ts": "2026-05-25T07:53:48.274284+05:00",
+      "age_min": 16.0
     },
     {
       "hash": "39933ce0230b6e9560b7f11cdc4ab06f",
@@ -458,30 +434,6 @@
       "age_min": 10.6
     },
     {
-      "hash": "ca74d179c2e13f554bf1baa42a40f10b",
-      "title": "Lagarde , impossibile dire ora se alzeremo i tassi a giugno",
-      "summary": "",
-      "link": "https://www.ilrestodelcarlino.it/economia/ultimaora/lagarde-impossibile-dire-ora-se-bbcf756d",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T03:47:03.846935+05:00",
-      "age_min": 77.1
-    },
-    {
-      "hash": "41929942abc9bb35c2f76d2dc7e76be1",
-      "title": "Christine Lagarde boccia la richiesta di deroga dell  Italia sul Patto di stabilità",
-      "summary": "",
-      "link": "https://www.zazoom.it/2026-05-24/christine-lagarde-boccia-la-richiesta-di-deroga-dellitalia-sul-patto-di-stabilita-attenersi-alle-regole/19244612/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T03:47:03.844205+05:00",
-      "age_min": 77.1
-    },
-    {
       "hash": "8de73ba670b76adef80b769cf783c552",
       "title": "Trump , Netanyahu Agree Iran Deal Must End Nuclear Threat ; Tehran Signals Hormuz Traffic May Resume Within 30 Days",
       "summary": "",
@@ -504,6 +456,18 @@
       "status": "new",
       "ts": "2026-05-25T05:34:44.989051+05:00",
       "age_min": -1360.3
+    },
+    {
+      "hash": "eb59fb3bbd92e978cf90a1089862ff13",
+      "title": "Trump Federal Reserve chair Kevin Warsh has his hands tied behind his back",
+      "summary": "",
+      "link": "https://www.smh.com.au/business/the-economy/trump-has-handed-his-man-a-poisoned-chalice-20260525-p600ab.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T07:52:34.896104+05:00",
+      "age_min": 7.6
     },
     {
       "hash": "a76647b42bef230592bcb5f389a7f2de",
