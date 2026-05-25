@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T23:20:36.549620+05:00",
+  "updated": "2026-05-25T23:38:58.838649+05:00",
   "items": [
     {
       "hash": "a70c39a098eedab0125b11720e7a21fb",
@@ -86,28 +86,16 @@
       "age_min": 60.7
     },
     {
-      "hash": "8f3186ba316b02ed87de25a0f6d28444",
-      "title": "Czech Premier Urges Interest Rate Cut as Inflation Risks Grow",
-      "summary": "The Czech Republic’s prime minister urged the central bank to cut interest rates, doubling down on his push for lower borrowing costs even as the country faces growing inflation risks from energy prices.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-25/czech-premier-urges-interest-rate-cut-as-inflation-risks-grow",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T19:35:47.909697+05:00",
-      "age_min": 13.0
-    },
-    {
-      "hash": "8c4d464b0758ebbd34fc2d61553aa654",
-      "title": "Russia fires powerful ballistic missile in mass attack on Kyiv",
+      "hash": "efc9ae216b75ea216e316f0ecfd34f35",
+      "title": "Bank of Israel cuts interest rates , inflation stable despite Iran war",
       "summary": "",
-      "link": "https://www.egyptindependent.com/russia-fires-powerful-ballistic-missile-in-mass-attack-on-kyiv/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 9,
+      "link": "http://www.jpost.com/israel-news/article-897257",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-25T19:31:14.015535+05:00",
-      "age_min": 31.2
+      "ts": "2026-05-25T23:21:41.910636+05:00",
+      "age_min": 51.7
     },
     {
       "hash": "1b236564a1e81a79cbbf4417ce98bf26",
@@ -118,8 +106,8 @@
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-25T23:15:34.041416+05:00",
-      "age_min": 45.6
+      "ts": "2026-05-25T23:20:49.808473+05:00",
+      "age_min": 50.8
     },
     {
       "hash": "99c947d1a96476705ec909cb44443013",
@@ -310,8 +298,8 @@
       "score": 9,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-25T23:16:48.327940+05:00",
-      "age_min": 46.8
+      "ts": "2026-05-25T23:35:23.287957+05:00",
+      "age_min": 65.4
     },
     {
       "hash": "7c04ba6823aeaf72bf81e708cfbcc817",
@@ -326,6 +314,42 @@
       "age_min": 33.6
     },
     {
+      "hash": "6dabd34b9b40e123c050dd744e46ea15",
+      "title": "Toyota to cut more production abroad due to Iran war",
+      "summary": "",
+      "link": "https://asia.nikkei.com/business/automobiles/toyota-to-cut-more-production-abroad-due-to-iran-war",
+      "source": "Nikkei Asia",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-25T23:38:07.735568+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "12909d559a911391f56d3c13be4c5ed6",
+      "title": "Trump and Warsh fates are now tied , for better or worse | The Mighty 790 KFGO",
+      "summary": "",
+      "link": "https://kfgo.com/2026/05/25/analysis-trump-and-warshs-fates-are-now-tied-for-better-or-worse/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T23:21:41.907444+05:00",
+      "age_min": 66.7
+    },
+    {
+      "hash": "94d9ba3c8de31da8efc8e6cd2bd1b163",
+      "title": "Why the Bank of Canada wont rush to cut rates , even if Warsh does",
+      "summary": "",
+      "link": "https://financialpost.com/news/economy/bank-of-canada-cut-rates-warsh",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T23:21:41.906060+05:00",
+      "age_min": 66.7
+    },
+    {
       "hash": "241925e56d642937dcba778e3806e4db",
       "title": "Can Iran ballistic missiles and the proxy network be rebuilt ?",
       "summary": "",
@@ -334,8 +358,8 @@
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-25T23:15:34.041751+05:00",
-      "age_min": 45.6
+      "ts": "2026-05-25T23:20:49.808777+05:00",
+      "age_min": 50.8
     },
     {
       "hash": "9af433f5b35b48d37c37388990748f7e",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-05-25T19:49:00.326557+05:00",
       "age_min": 49.0
-    },
-    {
-      "hash": "5c6c72f979b3d699835a431095b434cc",
-      "title": "China Xi meets Pakistan PM Sharif as Iran war mediation drags on",
-      "summary": "",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/05/25/china039s-xi-meets-pakistan-pm-sharif-as-iran-war-mediation-drags-on",
-      "source": "GDELT/SUMMITS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-25T19:35:34.583266+05:00",
-      "age_min": 65.6
-    },
-    {
-      "hash": "2ce95e5a2a75886a739c85996fa6a866",
-      "title": "ДБ осъди руската атака срещу Украйна с балистична ракета Орешник ᐉ Новини от Fakti . bg - България",
-      "summary": "",
-      "link": "https://fakti.bg/bulgaria/1056743-db-osadi-ruskata-ataka-sreshtu-ukraina-s-balistichna-raketa-oreshnik",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T23:15:34.046097+05:00",
-      "age_min": 45.6
     }
   ]
 }
