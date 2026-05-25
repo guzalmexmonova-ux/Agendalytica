@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-25T17:52:25.049620+05:00",
+  "updated": "2026-05-25T18:04:16.997563+05:00",
   "items": [
     {
       "hash": "7c8e93075835b1c24910767afee97601",
@@ -142,8 +142,8 @@
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-25T17:45:56.422355+05:00",
-      "age_min": 105.9
+      "ts": "2026-05-25T17:48:30.298961+05:00",
+      "age_min": 108.5
     },
     {
       "hash": "6c928fe3eeb3c7289470dae809b30b0e",
@@ -154,8 +154,8 @@
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-25T17:45:30.091327+05:00",
-      "age_min": 30.5
+      "ts": "2026-05-25T17:48:16.603366+05:00",
+      "age_min": 33.3
     },
     {
       "hash": "e71fe831100cb35d9d4d759a42227a8c",
@@ -166,8 +166,8 @@
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-25T17:45:30.088325+05:00",
-      "age_min": 75.5
+      "ts": "2026-05-25T17:48:16.600494+05:00",
+      "age_min": 78.3
     },
     {
       "hash": "460406b7ce5a27bc69bf8876cfcf7183",
@@ -506,6 +506,18 @@
       "age_min": 96.4
     },
     {
+      "hash": "5721ff9d01374d21371b834792a12080",
+      "title": "Oil prices slide on hopes of US-Iran peace deal",
+      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details.",
+      "link": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-25T18:03:32.084308+05:00",
+      "age_min": 10.5
+    },
+    {
       "hash": "f092fd4e57862bfce8dab2d300a56ccf",
       "title": "Lagarde chiude alle deroghe sul Patto di stabilità , risposta a Meloni e novità sui tassi",
       "summary": "",
@@ -516,18 +528,6 @@
       "status": "new",
       "ts": "2026-05-25T15:03:05.148105+05:00",
       "age_min": 48.1
-    },
-    {
-      "hash": "44ef20fe655a522140f2071ce82273de",
-      "title": "Swiss Trader Had Lucrative Role Getting Iraqi Oil Through Hormuz",
-      "summary": "A little-known Swiss trading company played a key role in the transit through the Strait of Hormuz of an oil supertanker whose stop-start journey captivated the oil market earlier this month, according to people familiar with the matter.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-25/swiss-trader-had-lucrative-role-getting-iraqi-oil-through-hormuz",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T14:02:51.198998+05:00",
-      "age_min": 13.3
     },
     {
       "hash": "26c499919949f65137b0fc3a0c054eaa",
@@ -566,40 +566,40 @@
       "age_min": 31.7
     },
     {
-      "hash": "c3a43995061dcc96466ff40bf4899e18",
-      "title": "Kevin Warsh Sworn In as Fed Chair With Lowest Senate Votes Ever Amid Independence Concerns",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/kevin-warsh-sworn-fed-chair-111032652.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-25T17:48:11.186616+05:00",
-      "age_min": 33.2
-    },
-    {
-      "hash": "7e3976daf2fd2356cea909c7b8adb3e0",
-      "title": "NY Fed's Williams warns of 'significant and unpredictable' risks to economy from Iran war - AOL.com",
-      "summary": "NY Fed's Williams warns of 'significant and unpredictable' risks to economy from Iran war&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWGlES3V0VWpSZV94MUxfNXlZYmhkM1hOemtDYkpCdXJtdHZuem9YVjc5eUpra18tQkhtRHYyZUluRUpDZ1A0QjExRHJFdmxEU3B0VGJ2MGZDeDk4WktiQmVDNXo1VURGdmRCclc2Y2x0dmIyN2U5RWJIcVRnaU9kWkdGcmg?oc=5",
-      "source": "GNews/CentralBanks",
+      "hash": "de1773059de983dd1e6427d620c379ee",
+      "title": "What we know and don't know about the emerging deal to end the Iran war - The Washington Post",
+      "summary": "What we know and don't know about the emerging deal to end the Iran war&nbsp;&nbsp;The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFBwQTg5WkFNak4yeXN5Q0FhaTJnOEpNR1hqRnR1by1ialJSb05XU0VZWXh0NTkyUF9XbzN6M0NMZ0RsUzM0YTVhQnRRYlpBWHYydzU1VXozSWxqdjlNN2laaU9EWkVCWlBaRTQ5Yy1JVjR0NzRmX0RhTlpDa2VwekRuSlp0dTNzYVhDc3pJX1ZJYkVIcFFwMzF3Z1o2ZVROcXNZQ0hYa3I2M1pjMGNhQ25UX3ZhdHVKODYxQzBjbnBVeUZHb3p4RHN6a0cwemt5TEE?oc=5",
+      "source": "GNews/Mideast",
       "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-25T17:03:55.925147+05:00",
-      "age_min": 66.9
+      "ts": "2026-05-25T18:04:01.828368+05:00",
+      "age_min": 83.5
     },
     {
-      "hash": "cb6b7f8f622903eabec3fd5165d7f3fc",
-      "title": "Pakistan PM Shehbaz Sharif , army chief Asim Munir meet China Xi in Beijing as Iran war looms",
-      "summary": "",
-      "link": "https://www.hindustantimes.com/world-news/pakistan-pm-shehbaz-sharif-army-chief-asim-munir-meet-chinas-xi-in-beijing-as-iran-war-looms-101779706076456.html",
-      "source": "GDELT/SUMMITS",
+      "hash": "765f0b5321f970d5f36bb9ef01f96322",
+      "title": "Pope calls for ‘disarming’ of AI, technology should be ‘human friendly’",
+      "summary": "Pope Leo called for the “disarming” of artificial intelligence in his long-awaited manifesto on the rapidly developing technology on Monday, and warned of “new forms of slavery” behind its rise.\nThe “just war” theory – espoused recently by the Trump administration – was “outdated”, Pope Leo XIV wrote in his first encyclical, which he presented in person at the Vatican, alongside AI experts includi",
+      "link": "https://www.scmp.com/news/world/europe/article/3354770/pope-calls-disarming-ai-technology-should-be-human-friendly?utm_source=rss_feed",
+      "source": "SCMP",
       "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-25T17:03:11.546922+05:00",
-      "age_min": 33.2
+      "ts": "2026-05-25T18:03:33.532552+05:00",
+      "age_min": 152.4
+    },
+    {
+      "hash": "53c9360ddb533ba766906121599d5f42",
+      "title": "Taipei ‘optimistic’ about arms deal even after US Navy chief says it’s on ice",
+      "summary": "Taiwan’s defence minister said on Monday he remained “cautiously optimistic” about US approval of an arms package for the island, even as a senior Pentagon official said Washington would put the sale on hold.\nThe reassurance by Wellington Koo Li-hsiung came after acting US Navy chief Hung Cao said Washington was pausing the proposed deal to ensure the US military had sufficient ammunition to conti",
+      "link": "https://www.scmp.com/news/china/military/article/3354780/taipei-optimistic-about-arms-deal-even-after-us-navy-chief-says-its-ice?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-25T18:03:33.529451+05:00",
+      "age_min": 116.2
     }
   ]
 }
