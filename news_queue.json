@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T00:17:48.620062+05:00",
+  "updated": "2026-05-26T00:36:38.677875+05:00",
   "items": [
     {
       "hash": "a70c39a098eedab0125b11720e7a21fb",
@@ -84,6 +84,18 @@
       "status": "new",
       "ts": "2026-05-25T22:30:40.980161+05:00",
       "age_min": 60.7
+    },
+    {
+      "hash": "46e682a2795801ddc9bf13f939e4ce54",
+      "title": "Russia attacks Ukraine using the hypersonic Oreshnik",
+      "summary": "",
+      "link": "https://morningstaronline.co.uk/article/russia-attacks-ukraine-using-hypersonic-oreshnik",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T00:33:05.154517+05:00",
+      "age_min": 33.1
     },
     {
       "hash": "a854673616aab44ace14f56fba176a2c",
@@ -350,16 +362,28 @@
       "age_min": 65.4
     },
     {
-      "hash": "7c04ba6823aeaf72bf81e708cfbcc817",
-      "title": "Лідерка білоруської опозиції Тихановська відвідала Чорнобиль і згадала про ядерні загрози",
-      "summary": "",
-      "link": "https://podrobnosti.ua/2516088-lderka-blorusko-opozits-tihanovska-vdvdala-chornobil-zgadala-pro-jadern-zagrozi.html",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
+      "hash": "73d54ef8885261dcc370b552664787db",
+      "title": "Iran’s president orders reopening of international internet access, state media reports",
+      "summary": "⁠Iran’s President Masoud Pezeshkian has issued an order to reopen international internet access, Iranian state media reported on Monday, citing an official after a ‌near-90-day blackout in the wake of the war against US and Israel.\nThe report cited the head of public relations at Iran’s Communications Ministry. The mechanism for how and when Iran would reconnect to ⁠the global web following the de",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3354813/irans-president-orders-reopening-international-internet-access-state-media-reports?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-25T20:33:37.070106+05:00",
-      "age_min": 33.6
+      "ts": "2026-05-26T00:35:45.178232+05:00",
+      "age_min": 17.5
+    },
+    {
+      "hash": "104282d5e808b8fe7b534b3756cb7232",
+      "title": "Kyiv’s Chornobyl Museum devastated in overnight Russian missile attack",
+      "summary": "Kyiv&#039;s Chornobyl Museum devastated in overnight Russian missile attack.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/25/kyivs-chornobyl-museum-devastated-in-overnight-russian-missile-attack?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-26T00:35:43.004423+05:00",
+      "age_min": 16.1
     },
     {
       "hash": "61754d3613b16cb4fa5b7b0137442700",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-05-25T21:21:51.847095+05:00",
       "age_min": 22.2
-    },
-    {
-      "hash": "0f1dd9cf3a341072e8ac4e2826909a66",
-      "title": "The Iran war: Key terms and global flashpoints explained - Dailyhunt",
-      "summary": "The Iran war: Key terms and global flashpoints explained&nbsp;&nbsp;Dailyhunt",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQT2dCQ0FDdHFDeVFpWUVLd3Bjd1NHOHNyLUV4YzY2dWpaRlBrdk54aFNybl9MRlF5akxJZlNCWUdlcVFZZzRQQklIczQ1REJmMUJWcXQ1eUhnLTJtWXVVVGV1YTRydmN2QndiZERGaS1JMERJVWV0UmxZT2lUbWNjYk9JRXBJM3Jua1JzUmc3aDVtMnJLbWJraDVXaWpETDZwMm0wdHExNWEyVi00YTRIZVFTZE1UaGZIc0ZxMk9oaVFLTWhBWERPblZLSDN0NmVXQUd2TVZpNWprRnJFcVA1LU5kdnl1dw?oc=5",
-      "source": "GNews/Mideast",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-25T21:04:01.489523+05:00",
-      "age_min": 66.2
-    },
-    {
-      "hash": "68aaeda8bdad0cc29eb929d3e5358303",
-      "title": "What in the proposed deal that could end the US - Iran War ?",
-      "summary": "",
-      "link": "https://www.wgal.com/article/us-iran-deal-strait-of-hormuz-war-talks/71401031",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-25T20:49:21.281843+05:00",
-      "age_min": 64.4
     }
   ]
 }
