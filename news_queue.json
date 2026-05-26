@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-26T14:03:56.220338+05:00",
+  "updated": "2026-05-26T14:19:35.545706+05:00",
   "items": [
+    {
+      "hash": "4cf5279164e0b073035b06e537d261f2",
+      "title": "ByteDance offers AI team special stock to fend off poaching",
+      "summary": "TikTok owner issues shares tied to AI business unit as China’s tech talent war heats up",
+      "link": "https://www.ft.com/content/557561df-4b72-48e8-89cb-239829de694a",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T14:18:41.597883+05:00",
+      "age_min": 53.5
+    },
     {
       "hash": "09f23ff4c04b7a76a687da2558f118d0",
       "title": "European Stocks Steady as Traders Watch Iran War; Ferrari Drops",
@@ -74,18 +86,6 @@
       "age_min": 30.6
     },
     {
-      "hash": "96ae7b00843d4a51ef55e30112b2ed49",
-      "title": "US strikes Iran missile sites , boats amid nuclear deal talks",
-      "summary": "",
-      "link": "https://www.rediff.com/news/report/us-strikes-iran-missile-sites-boats-amid-nuclear-deal-talks/20260526.htm",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T10:15:36.811692+05:00",
-      "age_min": 30.6
-    },
-    {
       "hash": "1cef19474293f18663c711b1136d6d28",
       "title": "Ukraine Invasion Day 1 , 552 : UKR intensified strike campaign against RU air defense systems .",
       "summary": "",
@@ -108,6 +108,18 @@
       "status": "new",
       "ts": "2026-05-26T11:45:38.330822+05:00",
       "age_min": 60.6
+    },
+    {
+      "hash": "f2ab121407a45d1e6c15e5d1f18a42f1",
+      "title": "The economic shock caused by the war between the United States and Iran has quickly fed into euro area firms’ expectations. \n\nDaily responses to an ECB survey show an immediate increase in expected input costs, selling prices and short-term inflation https://link.europa.eu/h9RfG4",
+      "summary": "The economic shock caused by the war between the United States and Iran has quickly fed into euro area firms’ expectations. \n\nDaily responses to an ECB survey show an immediate increase in expected input costs, selling prices and short-term inflation link.europa.eu/h9RfG4",
+      "link": "https://nitter.net/ecb/status/2059197943001866591#m",
+      "source": "ECB/X",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T14:19:30.694884+05:00",
+      "age_min": 19.1
     },
     {
       "hash": "0dff0e3b0a0c2c2b2db71eaa962f2b43",
@@ -326,18 +338,6 @@
       "age_min": 31.0
     },
     {
-      "hash": "e2310cfc67ea4168b03b6d4410e9e5e2",
-      "title": "American Consumer Confidence Cracks As The War Cycle Intensifies",
-      "summary": "",
-      "link": "https://www.armstrongeconomics.com/armstrongeconomics101/inflation/american-consumer-confidence-cracks-as-the-war-cycle-intensifies/",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T10:04:02.262162+05:00",
-      "age_min": 34.0
-    },
-    {
       "hash": "bd02d777a046afc8e982641f6854b37e",
       "title": "Russians Are Thriving on This Thai Island, but the Scene Feels Fleeting",
       "summary": "Thousands who fled Russia after the invasion of Ukraine have built an enclave in Phuket. An air of impermanence hangs over their community.",
@@ -372,6 +372,18 @@
       "status": "new",
       "ts": "2026-05-26T10:20:54.137050+05:00",
       "age_min": 41.5
+    },
+    {
+      "hash": "3b4496e8d9cf50ea21cdddae5b14e21f",
+      "title": "Japan Set to Secure More Oil Imports in May After April Slump",
+      "summary": "Japan’s May crude oil imports are expected to rebound to around 1.7 million barrels a day, roughly three-quarters of the level a year earlier, as refiners step up alternative procurement while the Strait of Hormuz remains largely closed.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-26/japan-set-to-secure-more-oil-imports-in-may-after-april-slump",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T14:18:41.024449+05:00",
+      "age_min": 15.2
     },
     {
       "hash": "6c2c8faedbbe8cbb14a97f9c303f088e",
@@ -470,30 +482,6 @@
       "age_min": 31.9
     },
     {
-      "hash": "6494bd634c43a4e03edc376ebaaa1a4f",
-      "title": "Sri Lanka jolts markets with outsized 100 - bp rate hike to counter Gulf crisis",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/sri-lanka-jolts-markets-outsized-035151297.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T10:16:59.859268+05:00",
-      "age_min": 47.0
-    },
-    {
-      "hash": "61f3fbe7540ff203aeb1a4883f8711c8",
-      "title": "RBI MPC Poll | Markets see RBI to keep interest rates steady in June MPC ; expect rate hike soon",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/news/business/banks/rbi-mpc-poll-market-sees-rbi-keeping-interest-rates-steady-in-june-mpc-expect-rate-hike-soon-13930405.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-26T10:16:59.857282+05:00",
-      "age_min": 32.0
-    },
-    {
       "hash": "038b48781cd2d9c387966bc93cdd54e0",
       "title": "Philippines ends rescue efforts for 16 missing after building collapse",
       "summary": "Recovery efforts begin after building collapse in city of Angeles, near Manila, kills at least four people.",
@@ -516,6 +504,18 @@
       "status": "new",
       "ts": "2026-05-26T13:33:37.937991+05:00",
       "age_min": 17.6
+    },
+    {
+      "hash": "ba6452a808dcde899ec008038d2b0f65",
+      "title": "NIA chargesheets two Pak nationals among 9 in Sirsa women Police Station attack case",
+      "summary": "",
+      "link": "https://aninews.in/news/national/general-news/nia-chargesheets-two-pak-nationals-among-9-in-sirsa-womens-police-station-attack-case20260526130052/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-26T14:16:16.408924+05:00",
+      "age_min": 61.3
     },
     {
       "hash": "05c8a2fe03083819cbe9cfec764979a4",
