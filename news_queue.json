@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T23:21:37.508895+05:00",
+  "updated": "2026-05-27T23:33:52.918962+05:00",
   "items": [
     {
       "hash": "38b7685a43475b7b5f791467e413c6ab",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-05-27T23:03:17.664352+05:00",
       "age_min": 47.3
+    },
+    {
+      "hash": "15c40603ad2cf1a41c11d5e65245b991",
+      "title": "Goldman Says Iran War Dollar Surge Weighed on Treasury Demand",
+      "summary": "A stronger dollar during the first month of the US-Iran conflict spurred foreign official institutions to sell Treasuries, according to Goldman Sachs.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-27/goldman-says-iran-war-dollar-surge-weighed-on-treasury-demand",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T23:33:09.225045+05:00",
+      "age_min": 38.0
     },
     {
       "hash": "8b79370edf54303ee183d4d4529e6915",
@@ -74,30 +86,6 @@
       "age_min": 7.4
     },
     {
-      "hash": "3f6ca6c293bc9fb4e635b753f6492c68",
-      "title": "Trump Under Pressure to End Costly Iran War as Ceasefire Strains and US Public Doubts Grow",
-      "summary": "",
-      "link": "https://gulfnews.com/world/mena/trump-faces-mounting-pressure-to-find-an-iran-exit-1.500554953",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T19:31:18.358286+05:00",
-      "age_min": 61.3
-    },
-    {
-      "hash": "9e666dc81a471ce5b8ebcd5b7c357b46",
-      "title": "US Lenders Posted Winning First Quarter, FDIC Says",
-      "summary": "Key metrics at US banks improved during the first quarter despite war and rising interest rates, even as the industry grappled with a modest increase in paper losses, the Federal Deposit Insurance Corp. reported.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-27/us-lenders-posted-winning-first-quarter-fdic-says",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T19:22:12.037373+05:00",
-      "age_min": 22.1
-    },
-    {
       "hash": "c1a280917077307cf61841cafb481481",
       "title": "The Quiet Collapse Under The Market Surface ... It Getting Louder",
       "summary": "",
@@ -108,6 +96,18 @@
       "status": "new",
       "ts": "2026-05-27T22:16:55.602395+05:00",
       "age_min": 46.9
+    },
+    {
+      "hash": "eeae4f0b9814624d6f9b3ed22630fb03",
+      "title": "White House disputes Iranian state TV reports of terms of deal to end war",
+      "summary": "",
+      "link": "https://www.cbc.ca/news/world/iran-war-day-89-9.7213423",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T23:32:27.843477+05:00",
+      "age_min": 62.5
     },
     {
       "hash": "f7e94b576eba56fff9b37134eb1e0412",
@@ -410,40 +410,16 @@
       "age_min": 31.1
     },
     {
-      "hash": "88afc5a144042b79143415244de24268",
-      "title": "Iran War : Negotiations Deadlocked on Fundamental Issues as Media Keeps Up Happy Talk ; Iran Promises Retaliation as US Still Coiled to Strike",
-      "summary": "",
-      "link": "https://www.nakedcapitalism.com/2026/05/iran-war-negotiations-deadlocked-on-fundamental-issues-as-media-keeps-up-happy-talk-iran-promises-retaliation-as-us-still-coiled-to-strike.html",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
+      "hash": "51cea69f0912238fdbb7e9a6af509b09",
+      "title": "China’s 'sea monster' returns armed: Beijing’s mystery war craft resurfaces with missile hooks | Videos - Hindustan Times",
+      "summary": "China’s 'sea monster' returns armed: Beijing’s mystery war craft resurfaces with missile hooks | Videos&nbsp;&nbsp;Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU0ZRcFdqbHlTMUxlS21MLWR0UkRwLVI0UHB5dWM3cl8tUFg4VWluTWRMRGl2UlBaUnFmYjFFT2hPWTJ2NGxnR1ludXhiWnpFNDk3aHZuQkJhZEVONExiS0RITUZPRkwyZVRZTUprOHZsMEJ1R2J1dnpTeWRmNWt5UHIwOWo3eFFCOFVWYXRrZlplNGxBZ2lLcDFteWpZbkFEdFV6cG5PbjVoelhMbHpVT2p5Zjk0ZDNtbU9vZ2RBU1JvOFNReEV3R1JXeGtQbzdrdXRKTjFweTJXUWV4SDFOUXBXONIB6AFBVV95cUxQanUxYkJJZ2FpUzM0S0Q4NUNVU09vNVZXMVJXRmlUdzhqRTBwb0lMSnRUVjduYTNJaTZkREpzWl8wd1lNVl9Md1k5QjVMZE9RNllxemJKOUQzT1RUb0tNQV80ZUhLX2lucEstZ3liNHd2UVFHa3BpeHBDMkFpS1pmRHRCaGMwUnFOUU51T25MSTh3aklKYk9SZkxXMlhfZjZuMWlkcXBpRkJiOVZVdDVVS2xMcU5MclpkYTN2anJBUnA1RGJ3RmpnSlZiZHFBZXFqX01KRzZld2ZXSXNsaU5OWUJCRHczNXRn?oc=5",
+      "source": "GNews/USA-China",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-27T19:32:12.782363+05:00",
-      "age_min": 107.2
-    },
-    {
-      "hash": "ce248ffb630e51a69e2229508f3359e2",
-      "title": "Ex - Mossad chief threatened ICC prosecutor over Israel war crimes probe",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260526-presstv04.htm",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T19:32:12.780029+05:00",
-      "age_min": 32.2
-    },
-    {
-      "hash": "15dbbbaa7acbe79d153ed4d730bfa8ed",
-      "title": "Trump gathers Cabinet as he looks to seal deal to end Iran war",
-      "summary": "",
-      "link": "https://www.dailypress.com/2026/05/27/trump-cabinet-iran-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T19:31:18.362386+05:00",
-      "age_min": 46.3
+      "ts": "2026-05-27T23:33:37.495675+05:00",
+      "age_min": 17.8
     },
     {
       "hash": "81d1a7d9d3ab08dd944b9f3683047839",
@@ -468,6 +444,30 @@
       "status": "new",
       "ts": "2026-05-27T20:02:55.622762+05:00",
       "age_min": 8.4
+    },
+    {
+      "hash": "dc64b89882c7b96f12d0826e595c067c",
+      "title": "US-backed rare earth rivals clash over alleged technology theft",
+      "summary": "Legal battle erupts between mining companies supported by Trump administration to break dependence on China",
+      "link": "https://www.ft.com/content/f50d27ea-9307-4ff2-8ee1-aca0bf72d068",
+      "source": "FT",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T23:33:09.572067+05:00",
+      "age_min": 30.4
+    },
+    {
+      "hash": "685cf68fdb0b5b2417106d8dc31eebc9",
+      "title": "Economist predicts Reserve Bank repo rate hike to counter rising inflation",
+      "summary": "",
+      "link": "https://www.jacarandafm.com/news/news/economist-predicts-repo-rate-hike-to-counter-inflation/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T23:32:08.764727+05:00",
+      "age_min": 107.1
     },
     {
       "hash": "b0f9c4c405bef93748fe254edbe61065",
