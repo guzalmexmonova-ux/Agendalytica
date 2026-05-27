@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T15:37:27.821725+05:00",
+  "updated": "2026-05-27T15:50:09.680403+05:00",
   "items": [
     {
       "hash": "ac07cd1339e2a808979f0234b98e45af",
@@ -110,18 +110,6 @@
       "age_min": 34.8
     },
     {
-      "hash": "f9d0a7db53582c1d98e1e352ba3db3d9",
-      "title": "Ukraine Invasion Day 1 , 553 : UKR long - range drone strike campaign restricts Moscow airspace",
-      "summary": "",
-      "link": "https://www.dailykos.com/stories/2026/5/26/800045795/community/ukraine-invasion-day-1553/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T11:45:42.566475+05:00",
-      "age_min": 45.7
-    },
-    {
       "hash": "d555b9c48e9e2bd9970c69cf552be165",
       "title": "Exclusive - Senior Ukrainian commander sees imminent  turning point  in war",
       "summary": "",
@@ -144,6 +132,54 @@
       "status": "new",
       "ts": "2026-05-27T13:02:38.939328+05:00",
       "age_min": 13.7
+    },
+    {
+      "hash": "00ace00e2bcee731ac58c4c2e87edef9",
+      "title": "Grocery price inflation slows again despite warnings of Iran war cost hikes",
+      "summary": "",
+      "link": "https://www.standard.co.uk/news/uk/iran-middle-east-government-ocado-tesco-b1283749.html",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T15:48:23.500756+05:00",
+      "age_min": 78.4
+    },
+    {
+      "hash": "73dfa344e39ac99ca44775c97a82f1ba",
+      "title": "Trump push to expand the Abraham Accords during the Iran war is facing major scepticism",
+      "summary": "",
+      "link": "https://www.moneycontrol.com/world/trump-s-push-to-expand-the-abraham-accords-during-the-iran-war-is-facing-major-scepticism-article-13932918.html",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T15:46:25.948195+05:00",
+      "age_min": 31.4
+    },
+    {
+      "hash": "79620bafee88215d1013f9e25c7e536d",
+      "title": "Trump gathers Cabinet as he looks to seal deal to end war that some backers worry will embolden Iran",
+      "summary": "",
+      "link": "https://www.orlandosentinel.com/2026/05/27/trump-gathers-cabinet-as-he-looks-to-seal-deal-to-end-war-that-some-backers-worry-will-embolden-iran/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T15:45:48.369506+05:00",
+      "age_min": 45.8
+    },
+    {
+      "hash": "a2e82743b7f2b79520269541e8757a54",
+      "title": "Trump Iran strategy faces a difficult reality : Americans fear another endless Middle East war",
+      "summary": "",
+      "link": "https://www.moneycontrol.com/world/trump-s-iran-strategy-faces-a-difficult-reality-americans-fear-another-endless-middle-east-war-article-13932875.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T15:45:48.365362+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "3e7f982c16f053690979a8b78e421e5c",
@@ -434,16 +470,16 @@
       "age_min": 75.6
     },
     {
-      "hash": "5cd3a291965df61dacf8bf1f0ba6cf46",
-      "title": "ECB rate hike needed in June despite Iran peace talks , Schnabel says",
+      "hash": "5c3512464f6d34675ad0e24509cba68a",
+      "title": "Israel kills new Hamas armed wing chief in Gaza attack",
       "summary": "",
-      "link": "https://cyprus-mail.com/2026/05/27/ecb-rate-hike-needed-in-june-despite-iran-peace-talks-schnabel-says",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
+      "link": "https://www.newcastleherald.com.au/story/9254503/israel-kills-new-hamas-armed-wing-chief-in-gaza-attack/",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-27T11:46:14.130757+05:00",
-      "age_min": 31.2
+      "ts": "2026-05-27T15:46:25.945678+05:00",
+      "age_min": 46.4
     },
     {
       "hash": "e7a1c6af5498be45789a8814471bbec7",
@@ -564,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-27T15:37:10.575709+05:00",
       "age_min": 87.2
-    },
-    {
-      "hash": "1a2a5705ae720e2705c60f48cf428737",
-      "title": "Германия договорилась с Канадой о поставках до 1 млн тонн СПГ",
-      "summary": "",
-      "link": "https://www.vesti.ru/ns/germaniya-dogovorilas-s-kanadoj-o-postavkakh-do-1-mln-tonn-spg",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T15:33:52.081237+05:00",
-      "age_min": 33.9
     }
   ]
 }
