@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27T06:39:09.123339+05:00",
+  "updated": "2026-05-27T06:49:20.878743+05:00",
   "items": [
     {
       "hash": "1b9d78daaf1755d28a539a9d121fecd8",
@@ -72,6 +72,18 @@
       "status": "new",
       "ts": "2026-05-27T05:45:44.348683+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "efe7a319cf7ce952c025b2638f38d014",
+      "title": "Война в Украине – почему Россия прибегла к угрозам",
+      "summary": "",
+      "link": "https://www.unian.net/war/voyna-v-ukraine-pochemu-rossiya-pribegla-k-ugrozam-13394025.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T06:45:34.621926+05:00",
+      "age_min": 60.6
     },
     {
       "hash": "e43c2e8631c41c5db5fcd19927f110a4",
@@ -218,18 +230,6 @@
       "age_min": 0
     },
     {
-      "hash": "7c6580a2a15e5fb0ff8a22d09788dbf3",
-      "title": "Tsikhanouskaya : Lukashenko trading prisoners for sanctions relief , but war sanctions must stay",
-      "summary": "",
-      "link": "https://en.interfax.com.ua/news/general/1171235.html",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-27T02:46:56.537530+05:00",
-      "age_min": 31.9
-    },
-    {
       "hash": "7288c8675d1e6da0f689d404f6dca24f",
       "title": "Adnoc Exports Another LNG Shipment Through Hormuz to India",
       "summary": "Another tanker carrying liquefied natural gas from Abu Dhabi National Oil Co. has exited the Strait of Hormuz, adding to a recent uptick in energy flows through the vital waterway.",
@@ -324,6 +324,30 @@
       "status": "new",
       "ts": "2026-05-27T05:49:13.735076+05:00",
       "age_min": 49.2
+    },
+    {
+      "hash": "10ac84dfa7c4ccc17fb87431082491a7",
+      "title": "No , the just - war tradition is not  outdated",
+      "summary": "",
+      "link": "https://www.catholicculture.org/commentary/no-just-war-tradition-is-not-outdated/",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-27T06:47:09.262648+05:00",
+      "age_min": 77.2
+    },
+    {
+      "hash": "abdba577f71ca0cab37bf08171b89d28",
+      "title": "Man arrested in connection with Heaton Park synagogue terror attack",
+      "summary": "",
+      "link": "https://www.kentonline.co.uk/news/national/man-arrested-in-connection-with-heaton-park-synagogue-terror-attack-167173/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-27T06:45:48.209474+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "c90885ea7d79a77f8b9ef155eaade6a0",
@@ -530,30 +554,6 @@
       "age_min": 31.5
     },
     {
-      "hash": "dd3aa5f75c4323cbc832d2829fc5858a",
-      "title": "Warsh takes Fed helm as Trump faces economic pressure",
-      "summary": "",
-      "link": "http://www.saltlakecitysun.com/news/279074898/warsh-takes-fed-helm-as-trump-faces-economic-pressure",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T02:47:24.413203+05:00",
-      "age_min": 32.4
-    },
-    {
-      "hash": "582f69021c650919e70530165ad5ba95",
-      "title": "Man arrested in connection with Heaton Park synagogue terror attack",
-      "summary": "",
-      "link": "https://www.peeblesshirenews.com/news/national/26140935.man-arrested-connection-heaton-park-synagogue-terror-attack/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-27T02:45:53.370179+05:00",
-      "age_min": 30.9
-    },
-    {
       "hash": "c5cf9f250308e2a21f2961c72abf88df",
       "title": "Daily Voice: Markets brace for rate hike, but Fed may stay put in June, says fund manager - Moneycontrol.com",
       "summary": "Daily Voice: Markets brace for rate hike, but Fed may stay put in June, says fund manager&nbsp;&nbsp;Moneycontrol.com",
@@ -590,16 +590,16 @@
       "age_min": 59.0
     },
     {
-      "hash": "eb1c3edb9ab28de67946080f6e648316",
-      "title": "US stock Market prediction : US Stock Market on Wednesday : S & P 500 , Dow Jones , Nasdaq set for crucial test amidst Iran , Strait of Hormuz deadlock",
+      "hash": "38ae5e2578300a42ab0800acdd250c91",
+      "title": "N . Korea tests new lightweight missile launcher , tactical cruise missiles under Kim watch : KCNA",
       "summary": "",
-      "link": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-on-wednesday-sp-500-dow-jones-nasdaq-set-for-crucial-test-amidst-iran-strait-of-hormuz-deadlock/articleshow/131339652.cms",
-      "source": "GDELT/MACRO",
+      "link": "https://www.koreaherald.com/article/10756613",
+      "source": "GDELT/CONFLICTS",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-27T06:38:12.661013+05:00",
-      "age_min": 23.2
+      "ts": "2026-05-27T06:45:34.626770+05:00",
+      "age_min": 105.6
     }
   ]
 }
