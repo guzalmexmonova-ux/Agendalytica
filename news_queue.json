@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T17:34:21.328789+05:00",
+  "updated": "2026-05-28T17:51:19.144017+05:00",
   "items": [
     {
       "hash": "ddf5c14582ba6dd61ce0ed50bc6ff6a3",
@@ -110,18 +110,6 @@
       "age_min": 46.5
     },
     {
-      "hash": "df870a956788930dee664457b08e594a",
-      "title": "Война в Тайване - конфликт США и Китая грозит ядерной эскалацией",
-      "summary": "",
-      "link": "https://24tv.ua/geopolitics/ru/vojna-tajvane-konflikt-ssha-kitaja-grozit-jadernoj-jeskalaciej_n3076464",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T13:45:36.734463+05:00",
-      "age_min": 30.6
-    },
-    {
       "hash": "79fdeda3b8bbc7a54dc9eb5b56cc96f9",
       "title": "It is simple math  - Terror from the US as Ukraine faces collapse within nine months ; Odesa to fall to Russia under the  1 , 000 strikes  tactic",
       "summary": "",
@@ -144,6 +132,18 @@
       "status": "new",
       "ts": "2026-05-28T14:31:05.079666+05:00",
       "age_min": 76.1
+    },
+    {
+      "hash": "7e295523707bccbde4392db5c21a3bc5",
+      "title": "Три месеца война в Иран : Тръмп е в безизходица",
+      "summary": "",
+      "link": "https://www.dw.com/bg/tri-meseca-vojna-v-iran-trmp-e-v-bezizhodica/a-77325913",
+      "source": "GDELT/TERRORISM",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-28T17:45:46.237543+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "18641bd92bb24960b3b4b88c39e3794f",
@@ -410,42 +410,6 @@
       "age_min": 45.8
     },
     {
-      "hash": "acf306271b58dc6704f8b2829176ceb5",
-      "title": "Энергетический кризис - как война в Иране повлияла на инвестиции в энергосферу",
-      "summary": "",
-      "link": "https://24tv.ua/economy/ru/jenergeticheskij-krizis-kak-vojna-v-irane-povlijala-na-investicii-v-jenergosferu_n3076514",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T13:46:53.602070+05:00",
-      "age_min": 31.9
-    },
-    {
-      "hash": "0d70d154a9b0a2fdda5d4fb147185e46",
-      "title": "Gold continues decline as inflation fears outweigh hope of end to Iran war",
-      "summary": "",
-      "link": "https://www.scmp.com/business/china-business/article/3355136/gold-continues-decline-inflation-fears-outweigh-hopes-end-iran-war",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T13:46:43.757507+05:00",
-      "age_min": 91.7
-    },
-    {
-      "hash": "2d0f366296c8b1ad3cdbf87865c831f4",
-      "title": "US Fed Battles Inflation Amid Iran War Oil Surge",
-      "summary": "",
-      "link": "https://www.newkerala.com/news/a/us-fed-battles-inflation-risks-as-uncertainty-over-930.htm",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T13:46:43.754244+05:00",
-      "age_min": 46.7
-    },
-    {
       "hash": "5af63a7c9a8b13ed0a0cb9161abec66f",
       "title": "Hong Kong principal who swore at Singapore security guards resigns",
       "summary": "A Hong Kong secondary school principal filmed swearing at security guards during a student trip to Singapore has resigned, days after being suspended from the position.\nLee Cheuk‑hing tendered his resignation on Thursday as principal of San Wui Commercial Society Secondary School in Tuen Mun, school manager Edmund Wong Chun‑sek confirmed.\nWong, a former lawmaker, said the school’s board of directo",
@@ -492,18 +456,6 @@
       "status": "new",
       "ts": "2026-05-28T14:17:37.091856+05:00",
       "age_min": 6.3
-    },
-    {
-      "hash": "5daae404a8ad6a4b279517893b0e59cb",
-      "title": "Trump’s 'failed' Iran war gives China's Xi rare window for Taiwan invasion amid weapons shortage? | Videos - Hindustan Times",
-      "summary": "Trump’s 'failed' Iran war gives China's Xi rare window for Taiwan invasion amid weapons shortage? | Videos&nbsp;&nbsp;Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPREpFaHJFQkQ2RzF1TDBha1VuYnp5R1Jwb2hqc19hWVQ4ZXdoTmhwU2JMdXVyNDR2cmZMaFk3dHlxRzExZko4RExiWlZzMVlMS1hya0xmWHA0bkpNNXVQRjk0aE1fVVl4T3pGZVJ0elc5bS1HdGN2TTBXdkR6THgxaXFTLVFsSTJZT0tGbklFMXB2RnZITE14M25BX2xIX2VHeFNZY0FpanZfa2RhcGU0Vy1QeXZRY1hvMU15R3ltczFlbHJFWEkzbGh2LWp6MzkxN182bFRVcmVwWGh3RG5yRGlZQ0h6d9IB6wFBVV95cUxORFdyVEgzUzdvQmZtMTZuQlRHTUZUVFUtcWk5M0pQUmhFNlRjZjRURHZiVEFGdGZHaUJjOWNMS1k2UUJnclBEN240M1F0VW5yeXczRTNCLUNUdTQ4TjNEd0VsdVlYTF83a3g4TE9SNHk2Z2NCT3I1RGhnS3ZwbnhoUmd6R2ZXTVNYM1hkd213RC1QT3dkcjhNYzNtOU1fSkxKRDB3NVJvY3RLZzhkSC0tRDFKUHgxLUdYVDZwVmx2YWtobGRqTmVQaGdyaHRtRTlOcjhYMmpzYXp3MGFtamtSZ1l2bDdEQ0sxS1pz?oc=5",
-      "source": "GNews/USA-China",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-28T13:48:09.501057+05:00",
-      "age_min": 32.6
     },
     {
       "hash": "826baf0b8937839a6bbfcd5bebd2651f",
@@ -600,6 +552,42 @@
       "status": "new",
       "ts": "2026-05-28T15:03:03.442203+05:00",
       "age_min": 33.1
+    },
+    {
+      "hash": "2a07fc9e79d2894480a1b1aab9fa472a",
+      "title": "Mortgage rates today fall to 6.37% as Fed rate cuts approach - eciks.org",
+      "summary": "Mortgage rates today fall to 6.37% as Fed rate cuts approach&nbsp;&nbsp;eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR193VTNmb1pEbDlBOFI4Y0gtVjBqcUFUS1FDMHdpTjVCZG8xWk14NnM5SUswel9Ha056ZnRlZExBMVhSVTI1bkQ5QWpHTFFzRWtPc1E5WDhvdzc4MG14VWhPUzJvbzJBTGVLSEdaWndZXzJ1aVM1TWpacm1lQ2RzbTQ4TktheXlIS0NnWFpxeEEwdw?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-28T17:51:00.088346+05:00",
+      "age_min": 109.0
+    },
+    {
+      "hash": "1da8e8497be31093d4ffbad6eaa34144",
+      "title": "Central banks must remain independent, says ex-IMF boss Lagarde - Punch Newspapers",
+      "summary": "Central banks must remain independent, says ex-IMF boss Lagarde&nbsp;&nbsp;Punch Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHlFZGs4RnJJTWFBdy0wbjl5X1hqZ3dRaC1mbk9NNVYzVmhtQjBLX2xrWkFQTDVhMC0zTzMzM1BNWVJJbmU0Ny1hNnVnUWp3UmJFX3BHdHhqcmh4QnhvVTdiczNPSm1nTmQ3ekpleWI3T2FuYnBCc0ZOeERweGRUZS1LNHB3VmQxTVdHMHRlUEQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-28T17:51:00.085892+05:00",
+      "age_min": 111.6
+    },
+    {
+      "hash": "5d44250430caeef0fbe3d991fde32578",
+      "title": "U.S. Inflation Surge Amid Iran Conflict Challenges Federal Reserve Decisions - Devdiscourse",
+      "summary": "U.S. Inflation Surge Amid Iran Conflict Challenges Federal Reserve Decisions&nbsp;&nbsp;Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORU9iaWR6aHNTVWItUTZmTWFvTmJPYk1ORU42X1dyRC1pWVhlcXhqU296UUZpb1Z2QVVfYm84TkVobjB3Y3MzdnZyTC1MR2JvQWwtajZFcHgwbTFKVDNLMTVDZjFqa3Z5NndYdndnMDBQNGlrajVTSVVVUXNDcnBxUTg1enZLTVJxeU54SUNHMm9fVkpxaWZKdmRJZWs2ZzZJYVR4Sk9QckRqMHFSZm9Tc3o5TWlEZVlCdVVRdnFHaHNtNXI4cmRN0gHMAUFVX3lxTE9FU2hwdWRXdXpTd3VaelNaTzA4QTR3SVFMNGs0SFYxVmdBLUd0WTZlbUZTeURFTVJEX1hCeUZTb0ExZnRQdEtCYjU2WVBqUHJ4TC11X0pBcjE3OGc3VTZ2cEctTEZJV2VQMWZhX1VVZmV5NjY2TGllb3VGTmMxTXJCNlQyQzdoZGNYYlU2TzhmSjV3U3F0dzljZDdzckpYRmY4bFNZa2FzcTdRRy1vNXBWbjgxMHI3djRGX1BIbG5zQU1rYjUwbUkxWFhaVw?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-28T17:51:00.084091+05:00",
+      "age_min": 12.3
     }
   ]
 }
