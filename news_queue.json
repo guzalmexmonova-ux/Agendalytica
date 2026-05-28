@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28T18:48:56.240486+05:00",
+  "updated": "2026-05-28T19:04:17.091035+05:00",
   "items": [
     {
       "hash": "b891ea328b3154d8118b1436a17e85e5",
@@ -144,6 +144,54 @@
       "status": "new",
       "ts": "2026-05-28T16:16:14.863983+05:00",
       "age_min": 46.2
+    },
+    {
+      "hash": "5ba7dd5364b7f377e6cc47417012f731",
+      "title": "US Fed battles inflation risks as uncertainty over Iran war has oil on fire",
+      "summary": "",
+      "link": "http://www.irishsun.com/news/279081479/us-fed-battles-inflation-risks-as-uncertainty-over-iran-war-has-oil-on-fire",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-28T19:02:11.759747+05:00",
+      "age_min": 77.2
+    },
+    {
+      "hash": "52d5188a98fbe64b20775513dd3cbb65",
+      "title": "US jobless claims rise to 215 , 000 but remain low despite Iran war uncertainty",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/news/international/global-trends/us-jobless-claims-rise-to-215000-but-remain-low-despite-iran-war-uncertainty/articleshow/131370791.cms",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-28T19:02:11.755450+05:00",
+      "age_min": 32.2
+    },
+    {
+      "hash": "66317a19754800e08ee8f5ef3921a275",
+      "title": "Israeli war minister pushes Gaza mass - expulsion plan framed as  voluntary emigration",
+      "summary": "",
+      "link": "https://www.globalsecurity.org/military/library/news/2026/05/mil-260527-presstv03.htm",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-28T19:01:36.642759+05:00",
+      "age_min": 46.6
+    },
+    {
+      "hash": "cbb3d5b1b8735beff5104d5896fdc46c",
+      "title": "US accuses Iran of  egregious ceasefire violation  after attack on Kuwait as talks falter | World News",
+      "summary": "",
+      "link": "https://indianexpress.com/article/world/us-iran-conflict-kuwait-missile-intercept-bandar-abbas-drone-strike-10712599/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-28T19:00:53.499729+05:00",
+      "age_min": 60.9
     },
     {
       "hash": "9cb2041b53e320f30bf74ed0be351a59",
@@ -398,16 +446,28 @@
       "age_min": 46.7
     },
     {
-      "hash": "b80ff365986a2ec7cf035e27b451c09f",
-      "title": "US Fed battles inflation risks as uncertainty over Iran war has oil on fire",
-      "summary": "",
-      "link": "http://www.trinidadtimes.com/news/279081479/us-fed-battles-inflation-risks-as-uncertainty-over-iran-war-has-oil-on-fire",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
+      "hash": "62d951b9eb5bee370f05b06199f376d8",
+      "title": "War latest news. Lebanon, Israel army: attack launched on Beirut, 135 Hezbollah targets hit - Il Sole 24 ORE",
+      "summary": "War latest news. Lebanon, Israel army: attack launched on Beirut, 135 Hezbollah targets hit&nbsp;&nbsp;Il Sole 24 ORE",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNklVQkV1N0FxOGFzQ2h4VFdfX3FwcUx4TEg2QjI3QmU5ZktXaHRKNkJkbzRKblE2elFOekRfeGozRTBWNnBERW1lOTM4akY0NWpvQmNkalpGWW5qOWxGSzVLV0dsMUtLWEE5VXMyRFlDVGlxdDRmOFhpWmtaNGZ2MWV3ZnJnWXhtNVln?oc=5",
+      "source": "GNews/Breaking",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-28T15:03:03.447214+05:00",
-      "age_min": 33.1
+      "ts": "2026-05-28T19:04:02.497749+05:00",
+      "age_min": 13.1
+    },
+    {
+      "hash": "6dc9195d8d9252e8cfb4ec1ba4e0df15",
+      "title": "US and China conflict over Taiwan would ‘risk nuclear war’ - The Telegraph",
+      "summary": "US and China conflict over Taiwan would ‘risk nuclear war’&nbsp;&nbsp;The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdE5EQm1GZ3RXZ2FJbUtkekV4eHRranRPZnpVNldLZzQzd3JHb0x0WnMtR2lSZUQ4WkJhclVGX0lsX0JyNXNDRndNU013TkpldVhxd1FvcDZIeFlpLTdfVEpWSE5iYlV4QjJmdjhwODJwOE5IemhRRnhheS1hTnVYdnI0VTU0d1VlbURWVmMzSzRWTTBGOTA1X3VydUxxdlNNa1J0MzNGY28?oc=5",
+      "source": "GNews/USA-China",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-28T19:04:00.448885+05:00",
+      "age_min": 13.0
     },
     {
       "hash": "c673d6c5b1b6c48c0a9f08568bcbbe52",
@@ -518,88 +578,28 @@
       "age_min": 14.4
     },
     {
-      "hash": "da684ff84f9c51f5ed087eca1fe83bef",
-      "title": "7 Palestinians killed , 18 injured in Israeli airstrike on apartment in Gaza City",
+      "hash": "d1b59e45d41e536b85d9448f7613c270",
+      "title": "Economists predict 25 basis point repo rate hike",
       "summary": "",
-      "link": "https://tribune.com.pk/story/2610316/seven-palestinians-killed-18-injured-in-israeli-airstrike-on-apartment-in-gaza-city",
-      "source": "GDELT/CONFLICTS",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T18:15:34.573109+05:00",
-      "age_min": 60.6
-    },
-    {
-      "hash": "826baf0b8937839a6bbfcd5bebd2651f",
-      "title": "US Hits Iran Targets Near Hormuz as Deal Remains Elusive",
-      "summary": "The US struck Iranian military targets for the second time this week, shooting down four Iranian drones fired at a commercial ship and hitting a launch unit near the Strait of Hormuz, according to a US official. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-28/us-hits-iran-targets-near-hormuz-as-deal-remains-elusive-video",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T17:19:13.406100+05:00",
-      "age_min": 95.8
-    },
-    {
-      "hash": "b2f5c652c34c3275c04004b86c0f03db",
-      "title": "Central Bank Independence Crucial , Says Ex - IMF Boss Lagarde",
-      "summary": "",
-      "link": "https://punchng.com/central-banks-must-remain-independent-says-ex-imf-boss-lagarde/",
+      "link": "https://www.ecr.co.za/news/news/economists-predict-25-basis-point-repo-rate-hike/",
       "source": "GDELT/FED_ECB",
       "score": 7,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-28T17:18:19.807069+05:00",
-      "age_min": 48.3
+      "ts": "2026-05-28T19:02:11.759273+05:00",
+      "age_min": 77.2
     },
     {
-      "hash": "b1a96d77a75429d3f3ff5ea2145726b3",
-      "title": "Fed independence still under threat , ECB Lagarde says",
+      "hash": "3242e1585d07d959fded6a42b7684987",
+      "title": "Lagarde :  Indipendenza delle banche centrali sotto attacco , va difesa",
       "summary": "",
-      "link": "https://www.livemint.com/global/feds-independence-still-under-threat-ecb-s-lagarde-says-11779959735007.html",
+      "link": "https://www.eunews.it/2026/05/28/lagarde-indipendenza-delle-banche-centrali-sotto-attacco-va-difesa/",
       "source": "GDELT/FED_ECB",
       "score": 7,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-28T17:18:19.806442+05:00",
-      "age_min": 48.3
-    },
-    {
-      "hash": "ec14bc78884655141637cdd0860bb97e",
-      "title": "Bank of Japan rate hike timing secondary to economy readiness : ex - BOJ Deputy Governor Wakatabe",
-      "summary": "",
-      "link": "https://www.businesstimes.com.sg/companies-markets/banking-finance/bank-japans-rate-hike-timing-secondary-economys-readiness-ex-boj-deputy-governor-wakatabe",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T16:17:04.024608+05:00",
-      "age_min": 47.1
-    },
-    {
-      "hash": "4f724612f60c9a47e4412d0c58639393",
-      "title": "A fórmula Lagarde para a independência dos bancos centrais :  clareza no mandato , diálogo com os cidadãos , controlo da política monetária",
-      "summary": "",
-      "link": "https://sapo.pt/artigo/a-formula-lagarde-para-a-independencia-dos-bancos-centrais-clareza-no-mandato-dialogo-com-os-cidadaos-controlo-da-politica-monetaria-6a1814bb14f3d731cf9a9807",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T16:17:04.022912+05:00",
-      "age_min": 32.1
-    },
-    {
-      "hash": "b59c690da34b790c06751ce28c9f1eac",
-      "title": "Central Banks Must Maintain Independence ECB Lagarde",
-      "summary": "",
-      "link": "https://www.channelstv.com/2026/05/28/central-banks-must-maintain-independence-ecbs-lagarde/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-28T16:17:04.020515+05:00",
-      "age_min": 47.1
+      "ts": "2026-05-28T19:02:11.757724+05:00",
+      "age_min": 47.2
     }
   ]
 }
