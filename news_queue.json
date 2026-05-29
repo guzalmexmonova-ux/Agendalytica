@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T08:37:53.133181+05:00",
+  "updated": "2026-05-29T08:50:51.076405+05:00",
   "items": [
     {
       "hash": "380b9240978e2f00cc553286d85db444",
@@ -98,18 +98,6 @@
       "age_min": -1389.7
     },
     {
-      "hash": "ecfbd9fda92da01f5b27c0ff1d3729e7",
-      "title": "US, Iran Agree to Truce Renewal Pending Trump Signoff",
-      "summary": "The US and Iran have reached a tentative deal to extend a ceasefire by 60 days and launch further talks on Tehran’s nuclear program, a person with knowledge of the matter said, raising hopes the three-month conflict could be nearing a resolution. Bloomberg's Laura Davison breaks down what we know. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-28/us-iran-agree-to-truce-renewal-pending-trump-signoff-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T04:47:29.836442+05:00",
-      "age_min": 8.5
-    },
-    {
       "hash": "f271890ae0f0ab890fbf51c0bbc46f60",
       "title": "Military has spent months building up ships and personnel in Caribbean and is ready for invasion of Cuba : report",
       "summary": "",
@@ -144,6 +132,18 @@
       "status": "new",
       "ts": "2026-05-29T06:30:37.746361+05:00",
       "age_min": 30.6
+    },
+    {
+      "hash": "6b4a495c2c8efb5340937b42d3a9fca0",
+      "title": "KPMG Australia’s CEO resigns after whistleblower claims",
+      "summary": "Big Four firm says its investigations into allegations of data misuse lacked rigour",
+      "link": "https://www.ft.com/content/0787af8d-ed4f-4764-9bab-80b85dc5c614",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T08:50:04.910233+05:00",
+      "age_min": 16.0
     },
     {
       "hash": "4a803e179608dc3d91af9eab090806e7",
@@ -278,16 +278,28 @@
       "age_min": -1349.4
     },
     {
-      "hash": "0a9a64186dedddcf0d05fd80cacecc6a",
-      "title": "S & P зафіксувало дефолт України за ВВП",
+      "hash": "0cad852ab60eb8af83633feb947ef06b",
+      "title": "RBNZ Breman signals faster and larger rate hikes than previously flagged",
       "summary": "",
-      "link": "https://newsoboz.org/sp-zafiksuvalo-defolt-ukrayiny-za-vvp-varantamy-cherez-nesplatu-665-mln-dolariv/",
-      "source": "GDELT/MACRO",
-      "score": 8,
+      "link": "https://investinglive.com:443/centralbank/rbnzs-breman-signals-faster-and-larger-rate-hikes-than-previously-flagged-20260529/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-29T04:47:24.239796+05:00",
-      "age_min": 47.4
+      "ts": "2026-05-29T08:49:03.389403+05:00",
+      "age_min": 79.1
+    },
+    {
+      "hash": "c3b9b1cd203c3ca18afe8c7b8550df86",
+      "title": "Tokyo inflation slowdown unlikely to derail Bank of Japan rate hike",
+      "summary": "",
+      "link": "https://www.businesstimes.com.sg/international/tokyo-inflation-slowdown-unlikely-derail-bank-japan-rate-hike",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T08:49:03.389112+05:00",
+      "age_min": 34.1
     },
     {
       "hash": "050f61363007d3747e7e046c39fe7a0d",
@@ -566,40 +578,28 @@
       "age_min": -1407.7
     },
     {
-      "hash": "c794578d478d6e4c267a7f0689cf3677",
-      "title": "Crude oil falls slightly on reports of potential US - Iran ceasefire deal",
+      "hash": "f8d0c3bf9d57fc6d571377b238b6bdd0",
+      "title": "Gold edges higher as investors weigh US - Iran ceasefire deal reports , Fed rate outlook",
       "summary": "",
-      "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-falls-slightly-on-reports-of-potential-us-iran-ceasefire-deal/article71035749.ece",
-      "source": "GDELT/ENERGY",
+      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-investors-weigh-us-iran-ceasefire-deal-reports-fed-rate-outlook/articleshow/131379980.cms",
+      "source": "GDELT/FED_ECB",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-29T08:36:38.450607+05:00",
-      "age_min": 21.6
+      "ts": "2026-05-29T08:49:03.386841+05:00",
+      "age_min": 79.1
     },
     {
-      "hash": "860f3f5e0cd9504ccd6c216bba1e9607",
-      "title": "Gold Price Forecast: XAU/USD returns to familiar range around $4,500; what next? - FXStreet",
-      "summary": "Gold Price Forecast: XAU/USD returns to familiar range around $4,500; what next?&nbsp;&nbsp;FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWRvQ0tkaFJIWk8xNTNnbUlSazFaQVYxcnlXT2ZMNVFBWC1EQlFKVE1ObVBSUDRFSnRWYVloZlNEWHEtMFAyVUVDWWZ0MzI2dTNoYmRoWVZXN3lObmRkRTl2VUd2TFZfWVZqdmE3RENuUHFrS2tycS1fUW1EYlhZZDItbnBhczljQTZXWWVyeGltWVd5MUtmQnU4U0xlSWl0VGNfRnNncDFGSGdfYzNDNElzUUo1azUxajkwZVpHdVU?oc=5",
-      "source": "GNews/Gold",
+      "hash": "11abf2d6d1d5e82d32a6816e9ef595cb",
+      "title": "Iranian forces stop four vessels in Strait of Hormuz after firing  warning shots",
+      "summary": "",
+      "link": "https://www.moneycontrol.com/world/iranian-forces-stop-four-vessels-in-strait-of-hormuz-after-firing-warning-shots-article-13934993.html",
+      "source": "GDELT/MIDEAST",
       "score": 5,
-      "weight": 3,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-29T08:37:38.742164+05:00",
-      "age_min": 3.4
-    },
-    {
-      "hash": "2511f08c4bed96b31d4eb2e9c3b282cc",
-      "title": "Gold edges higher as investors weigh US-Iran ceasefire deal reports, Fed rate outlook - The Economic Times",
-      "summary": "Gold edges higher as investors weigh US-Iran ceasefire deal reports, Fed rate outlook&nbsp;&nbsp;The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWS1yclViVjRvd1RQQkRiMmxIVHlTUmNBRkdUX2pGbDFQWDlCTEZIRDV4UnBfY0VXS1FOSWtKOWsyY1BSRk9zOWlZN204SDhJR3ZqU3d0NHc5MFFKQXg4cUFBU2o0UTF5RF9xQy05SzdzQXJfeHBOcFdQSG41cHFhek9TanN0QzRNNTF4MS1aTVZQcGxlT0dNSVVPRlBKVmVWeThqQWVreUVIekp3NkVxX1J5YTlhOE93NWQ1R1A4OVVBYm9MMEZhRjlINmZxdUZvUVVqRm5XWktSZ0pNMkExZGZOMFQzU2tIUU1BZVh5bm11MTVRcUltM2RVONIB-wFBVV95cUxQWS1yclViVjRvd1RQQkRiMmxIVHlTUmNBRkdUX2pGbDFQWDlCTEZIRDV4UnBfY0VXS1FOSWtKOWsyY1BSRk9zOWlZN204SDhJR3ZqU3d0NHc5MFFKQXg4cUFBU2o0UTF5RF9xQy05SzdzQXJfeHBOcFdQSG41cHFhek9TanN0QzRNNTF4MS1aTVZQcGxlT0dNSVVPRlBKVmVWeThqQWVreUVIekp3NkVxX1J5YTlhOE93NWQ1R1A4OVVBYm9MMEZhRjlINmZxdUZvUVVqRm5XWktSZ0pNMkExZGZOMFQzU2tIUU1BZVh5bm11MTVRcUltM2RVOA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T08:37:38.423212+05:00",
-      "age_min": 104.6
+      "ts": "2026-05-29T08:48:25.804039+05:00",
+      "age_min": 108.4
     }
   ]
 }
