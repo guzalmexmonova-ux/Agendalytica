@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T06:49:54.557858+05:00",
+  "updated": "2026-05-29T07:05:01.945766+05:00",
   "items": [
     {
       "hash": "4688d706f7e0adc24b6326846bfb9b2c",
@@ -132,6 +132,30 @@
       "status": "new",
       "ts": "2026-05-29T03:31:52.398922+05:00",
       "age_min": 31.9
+    },
+    {
+      "hash": "03913c63de7f1b8d90bc2ad292e132dd",
+      "title": "UN chief says  death spiral must stop  as Ukraine war escalates",
+      "summary": "",
+      "link": "https://aa.com.tr/en/world/un-chief-says-death-spiral-must-stop-as-ukraine-war-escalates/3950825",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T07:01:38.546230+05:00",
+      "age_min": 46.6
+    },
+    {
+      "hash": "d5b4cdf64fa8525b71e41169b4be823a",
+      "title": "ООН предупреждает , что война в Украине может выйти из - под контроля",
+      "summary": "",
+      "link": "https://unn.ua/ru/news/oon-preduprezhdaet-chto-voina-v-ukraine-mozhet-viiti-iz-pod-kontrolya",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T07:00:50.244065+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "3145b35a0e004d7d09a7f24ae88af7b5",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-05-29T03:45:47.627109+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "fc46c183d823d44ebced447413b84451",
-      "title": "Japan's crude imports plunge 50% since Iran war, exposing Mideast reliance",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/energy/japan-s-crude-imports-plunge-50-since-iran-war-exposing-mideast-reliance2",
-      "source": "Nikkei Asia",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T03:32:42.349960+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "7da25119dd877cbe1150fd14c6604bdb",
-      "title": "В правительстве страны ЕС разгорелся серьезный скандал из-за Украины",
-      "summary": "",
-      "link": "https://lenta.ru/news/2026/05/29/v-pravitelstve-strany-es-razgorelsya-serieznyy-skandal-iz-za-ukrainy/",
-      "source": "Lenta.ru",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T06:49:07.401707+05:00",
-      "age_min": 1.1
     }
   ]
 }
