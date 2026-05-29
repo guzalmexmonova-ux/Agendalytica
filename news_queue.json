@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T08:17:24.563002+05:00",
+  "updated": "2026-05-29T08:37:53.133181+05:00",
   "items": [
     {
       "hash": "380b9240978e2f00cc553286d85db444",
@@ -110,18 +110,6 @@
       "age_min": 8.5
     },
     {
-      "hash": "b88cc915070aa84caab69b348833370d",
-      "title": "US and Iranian negotiators reach tentative deal to extend ceasefire and launch nuclear talks",
-      "summary": "",
-      "link": "https://www.wbay.com:443/2026/05/28/us-iranian-negotiators-reach-tentative-deal-extend-ceasefire-launch-nuclear-talks/",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T04:31:10.028337+05:00",
-      "age_min": 91.2
-    },
-    {
       "hash": "f271890ae0f0ab890fbf51c0bbc46f60",
       "title": "Military has spent months building up ships and personnel in Caribbean and is ready for invasion of Cuba : report",
       "summary": "",
@@ -156,6 +144,18 @@
       "status": "new",
       "ts": "2026-05-29T06:30:37.746361+05:00",
       "age_min": 30.6
+    },
+    {
+      "hash": "4a803e179608dc3d91af9eab090806e7",
+      "title": "Europe fossil fuel reliance could be weaponized in war , EU chiefs warn – POLITICO",
+      "summary": "",
+      "link": "https://www.politico.eu/article/europe-fossil-fuel-reliance-could-be-weaponized-war-eu-chief-warns/",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T08:36:38.451692+05:00",
+      "age_min": 21.6
     },
     {
       "hash": "47c083fa594dfc1a09b994073dc9337d",
@@ -566,40 +566,40 @@
       "age_min": -1407.7
     },
     {
-      "hash": "6e3cf35d764f4199cc8d7266711dd6d2",
-      "title": "Next Drone War : Hidden Shipping Containers Launching Kamikaze Swarms",
+      "hash": "c794578d478d6e4c267a7f0689cf3677",
+      "title": "Crude oil falls slightly on reports of potential US - Iran ceasefire deal",
       "summary": "",
-      "link": "https://www.zerohedge.com/military/next-drone-war-hidden-shipping-containers-launching-kamikaze-swarms",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
+      "link": "https://www.thehindubusinessline.com/markets/commodities/crude-oil-falls-slightly-on-reports-of-potential-us-iran-ceasefire-deal/article71035749.ece",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-05-29T04:32:08.062290+05:00",
-      "age_min": 62.1
+      "ts": "2026-05-29T08:36:38.450607+05:00",
+      "age_min": 21.6
     },
     {
-      "hash": "1017cc6e2119d2e97fec9a7f10931992",
-      "title": "Dollar heads for weekly loss on reports of US-Iran ceasefire deal - The Economic Times",
-      "summary": "Dollar heads for weekly loss on reports of US-Iran ceasefire deal&nbsp;&nbsp;The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOSHNYLUotRWlYczg3Z0dUQV9TQmd5MFNyb1R3OFFoam1wNzlTZU1pblNodHZ6NzdyWnl2R3dpel9WNFZnQ0JTTUFDMkVGMEVPSU5IQk1UX1hkQ3dTUG9tMUFYZDFCQzBXcmppYXE0eEFlZHpFSDdVYkRKYk9HekFOUjdUbkJqM3p0eThoUS04T05FVkFVQUdDTng1MlRHcHRKM0NDNTZQYUlNVnNTenpSZFZfa2dqZEtOZEFweVNPSGxwMDdWTW00WVV3YW9oT2ROTEI4VzFBWDRuM2pQNUNlalZB0gHiAUFVX3lxTE5Ic1gtSi1FaVhzODdnR1RBX1NCZ3kwU3JvVHc4UWhqbXA3OVNlTWluU2h0dno3N3JaeXZHd2l6X1Y0VmdDQlNNQUMyRUYwRU9JTkhCTVRfWGRDd1NQb20xQVhkMUJDMFdyamlhcTR4QWVkekVIN1ViREpiT0d6QU5SN1RuQmozenR5OGhRLThPTkVWQVVBR0NOeDUyVEdwdEozQ0M1NlBhSU1Wc1N6elJkVl9rZ2pkS05kQXB5U09IbHAwN1ZNbTRZVXdhb2hPZE5MQjhXMUFYNG4zalA1Q2VqVkE?oc=5",
+      "hash": "860f3f5e0cd9504ccd6c216bba1e9607",
+      "title": "Gold Price Forecast: XAU/USD returns to familiar range around $4,500; what next? - FXStreet",
+      "summary": "Gold Price Forecast: XAU/USD returns to familiar range around $4,500; what next?&nbsp;&nbsp;FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdWRvQ0tkaFJIWk8xNTNnbUlSazFaQVYxcnlXT2ZMNVFBWC1EQlFKVE1ObVBSUDRFSnRWYVloZlNEWHEtMFAyVUVDWWZ0MzI2dTNoYmRoWVZXN3lObmRkRTl2VUd2TFZfWVZqdmE3RENuUHFrS2tycS1fUW1EYlhZZDItbnBhczljQTZXWWVyeGltWVd5MUtmQnU4U0xlSWl0VGNfRnNncDFGSGdfYzNDNElzUUo1azUxajkwZVpHdVU?oc=5",
+      "source": "GNews/Gold",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-29T08:37:38.742164+05:00",
+      "age_min": 3.4
+    },
+    {
+      "hash": "2511f08c4bed96b31d4eb2e9c3b282cc",
+      "title": "Gold edges higher as investors weigh US-Iran ceasefire deal reports, Fed rate outlook - The Economic Times",
+      "summary": "Gold edges higher as investors weigh US-Iran ceasefire deal reports, Fed rate outlook&nbsp;&nbsp;The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQWS1yclViVjRvd1RQQkRiMmxIVHlTUmNBRkdUX2pGbDFQWDlCTEZIRDV4UnBfY0VXS1FOSWtKOWsyY1BSRk9zOWlZN204SDhJR3ZqU3d0NHc5MFFKQXg4cUFBU2o0UTF5RF9xQy05SzdzQXJfeHBOcFdQSG41cHFhek9TanN0QzRNNTF4MS1aTVZQcGxlT0dNSVVPRlBKVmVWeThqQWVreUVIekp3NkVxX1J5YTlhOE93NWQ1R1A4OVVBYm9MMEZhRjlINmZxdUZvUVVqRm5XWktSZ0pNMkExZGZOMFQzU2tIUU1BZVh5bm11MTVRcUltM2RVONIB-wFBVV95cUxQWS1yclViVjRvd1RQQkRiMmxIVHlTUmNBRkdUX2pGbDFQWDlCTEZIRDV4UnBfY0VXS1FOSWtKOWsyY1BSRk9zOWlZN204SDhJR3ZqU3d0NHc5MFFKQXg4cUFBU2o0UTF5RF9xQy05SzdzQXJfeHBOcFdQSG41cHFhek9TanN0QzRNNTF4MS1aTVZQcGxlT0dNSVVPRlBKVmVWeThqQWVreUVIekp3NkVxX1J5YTlhOE93NWQ1R1A4OVVBYm9MMEZhRjlINmZxdUZvUVVqRm5XWktSZ0pNMkExZGZOMFQzU2tIUU1BZVh5bm11MTVRcUltM2RVOA?oc=5",
       "source": "GNews/CentralBanks",
       "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-29T08:17:07.983756+05:00",
-      "age_min": 87.1
-    },
-    {
-      "hash": "f93bf353028f3cc6611c6b8290c494f1",
-      "title": "Ракета Безоса взорвалась на стартовой площадке во время испытаний",
-      "summary": "",
-      "link": "https://lenta.ru/news/2026/05/29/raketa-bezosa-vzorvalas-na-startovoy-ploschadke-vo-vremya-ispytaniy/",
-      "source": "Lenta.ru",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T08:16:48.722874+05:00",
-      "age_min": 5.5
+      "ts": "2026-05-29T08:37:38.423212+05:00",
+      "age_min": 104.6
     }
   ]
 }
