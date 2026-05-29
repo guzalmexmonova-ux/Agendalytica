@@ -1,6 +1,18 @@
 {
-  "updated": "2026-05-29T07:35:53.273308+05:00",
+  "updated": "2026-05-29T07:48:45.648555+05:00",
   "items": [
+    {
+      "hash": "380b9240978e2f00cc553286d85db444",
+      "title": "India Steps Up Stake Sales as Iran War Strains Finances",
+      "summary": "The asset-sale push comes even as India’s equity capital market activity has slowed over the past two months.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-05-29/india-eyes-stake-sales-in-coal-india-lic-as-iran-war-strains-finances",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T07:47:56.943332+05:00",
+      "age_min": 2.1
+    },
     {
       "hash": "a6d6089359214c67adb62fd23ac63192",
       "title": "Australia Secures First Cargo Ship for Strategic Maritime Fleet",
@@ -110,16 +122,28 @@
       "age_min": 91.2
     },
     {
-      "hash": "17b0437b541215c4dc28bf99c25805b5",
-      "title": "US and Iranian negotiators reach tentative deal to extend ceasefire and start new nuclear talks",
+      "hash": "f271890ae0f0ab890fbf51c0bbc46f60",
+      "title": "Military has spent months building up ships and personnel in Caribbean and is ready for invasion of Cuba : report",
       "summary": "",
-      "link": "https://www.wndu.com/2026/05/28/us-iranian-negotiators-reach-tentative-deal-extend-ceasefire-start-new-nuclear-talks/",
-      "source": "GDELT/ENERGY",
-      "score": 10,
+      "link": "https://www.independent.co.uk/news/world/americas/us-politics/trump-cuba-invasion-navy-caribbean-b2985491.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-29T03:46:51.688432+05:00",
-      "age_min": 31.9
+      "ts": "2026-05-29T07:45:40.192833+05:00",
+      "age_min": 75.7
+    },
+    {
+      "hash": "704b3f7ad87e4cf4e24d45cd146b4175",
+      "title": "Crece la preocupación por una escalada nuclear entre EEUU y China derivada del conflicto por Taiwán",
+      "summary": "",
+      "link": "https://www.eldestapeweb.com/informacion-general/crece-la-preocupacion-por-una-escalada-nuclear-entre-eeuu-y-china-derivada-del-conflicto-por-taiwan-202652841910",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T07:45:40.191952+05:00",
+      "age_min": 15.7
     },
     {
       "hash": "55c42cdb00d4cded904f987062d6b032",
@@ -278,6 +302,18 @@
       "age_min": 32.2
     },
     {
+      "hash": "0323c811859751ce0c45a63921647462",
+      "title": "Iran Hormuz Strait Control | US Ceasefire Deal",
+      "summary": "",
+      "link": "https://www.bhaskar.com/international/news/iran-hormuz-strait-control-us-ceasefire-agreement-138055048.html",
+      "source": "GDELT/MIDEAST",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T07:46:35.585278+05:00",
+      "age_min": 16.6
+    },
+    {
       "hash": "b1014188efa18c7aacda2dfe669fee1c",
       "title": "New Zealand central bank governor signals earlier and steeper rate hikes",
       "summary": "",
@@ -350,30 +386,6 @@
       "age_min": 14.1
     },
     {
-      "hash": "0103cc97a8287e2f3981644857322431",
-      "title": "How the Powell Memo of 1971 Relates to Project 2025",
-      "summary": "",
-      "link": "https://www.theroot.com/this-1971-memo-led-the-way-to-project-2025-2000107958",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T03:46:34.055677+05:00",
-      "age_min": 31.6
-    },
-    {
-      "hash": "b17847a485d34984ffb5e4e34c38dbe7",
-      "title": "FxWirePro : USD / ZAR slips as SARB delivers surprise rate hike",
-      "summary": "",
-      "link": "http://www.econotimes.com/FxWirePro-USD-ZAR-slips-as-SARB-delivers-surprise-rate-hike-1742941",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T03:46:34.051484+05:00",
-      "age_min": 46.6
-    },
-    {
       "hash": "53cc6677afde8c775a91e90edcae8967",
       "title": "Kazajistán levantará su primera central nuclear tras un acuerdo con Putin",
       "summary": "",
@@ -384,6 +396,30 @@
       "status": "new",
       "ts": "2026-05-29T04:03:19.791071+05:00",
       "age_min": 63.3
+    },
+    {
+      "hash": "40231b1a9471888287c1c41ad2c22ee3",
+      "title": "Hezbollah  unjammable  fibre - optic drones : How they are rewriting the war against Israel",
+      "summary": "",
+      "link": "https://gulfnews.com/world/mena/hezbollahs-unjammable-fibre-optic-drones-how-they-are-rewriting-the-war-against-israel-1.500556494",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-29T07:47:28.582779+05:00",
+      "age_min": 17.5
+    },
+    {
+      "hash": "49432de33dee54e85d1d60fcb6e1f2ac",
+      "title": "Suspect in Taylor Swift Vienna concert attack plot convicted and sentenced to 15 years",
+      "summary": "",
+      "link": "https://www.latimes.com/world-nation/story/2026-05-28/suspect-in-taylor-swift-vienna-concert-attack-plot-convicted-sentenced-to-15-years",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T07:45:59.307767+05:00",
+      "age_min": 16.0
     },
     {
       "hash": "c99c5699d54089712161c44ac8933d84",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-05-29T04:31:41.867996+05:00",
       "age_min": 31.7
-    },
-    {
-      "hash": "acc7fe2adfdb85a62e3443520ac21892",
-      "title": "Cognitive war: Ten big lies in China’s Trump-summit narrative - worldtribune.com",
-      "summary": "Cognitive war: Ten big lies in China’s Trump-summit narrative&nbsp;&nbsp;worldtribune.com",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZE9RbFQtbFN6YkhtaWZPODNQY00yRW9TNmpZNnJsakhFa3VwVWY2VjZMeVJhc1BfcFc4WVVLbzBKWjJBVVNDYzlybWwzS3hocHJyYTNqNjFrSE0wQVpCX216N0dMY1p5elowZ29ETUF6ZjdBeXZscm0tZ3gyUmpMWl9HYVhseWQtTnJ6QnZB?oc=5",
-      "source": "GNews/USA-China",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T04:17:33.855908+05:00",
-      "age_min": 7.0
-    },
-    {
-      "hash": "5870d60984e7d31b2a334e63d06b6110",
-      "title": "Bessent says he had breakfast with Fed Warsh on Thursday",
-      "summary": "",
-      "link": "https://whbl.com/2026/05/28/bessent-says-he-had-breakfast-with-feds-warsh-on-thursday/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T04:02:52.939226+05:00",
-      "age_min": 32.9
-    },
-    {
-      "hash": "948ffdc71c7661a829318981d026564a",
-      "title": "Bessent says he had breakfast with Fed Warsh on Thursday | 104 . 1 WIKY",
-      "summary": "",
-      "link": "https://wiky.com/2026/05/28/bessent-says-he-had-breakfast-with-feds-warsh-on-thursday/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T03:46:34.053361+05:00",
-      "age_min": 31.6
     }
   ]
 }
