@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T13:18:05.400268+05:00",
+  "updated": "2026-05-29T13:34:50.856192+05:00",
   "items": [
     {
       "hash": "f1f908a4b17891b7df7367f20dda12df",
@@ -108,30 +108,6 @@
       "status": "new",
       "ts": "2026-05-29T10:30:50.887464+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "616739ab3c4b24923102738f62f3bcdc",
-      "title": "Aggressive Asia Hikes Show Few Signs of Stabilizing Currencies",
-      "summary": "Asian central banks are turning to ever more aggressive interest-rate hikes to shore up currencies, though there are few signs of success.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-29/aggressive-asia-hikes-show-few-signs-of-stabilizing-currencies",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T09:19:38.329520+05:00",
-      "age_min": 13.9
-    },
-    {
-      "hash": "7fd041e3c7ccade7d8021f32f823e2f2",
-      "title": "Japan’s Two-Year Bond Yield Rises After Lukewarm Auction",
-      "summary": "Japan’s two-year government bond yield edged higher after an auction of the tenor saw slightly weak demand as investors bet on a near-term interest rate hike by the Bank of Japan.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-29/japan-2-year-bond-sale-sees-demand-in-line-with-12-month-average-mpqdmtdp",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T09:19:38.328866+05:00",
-      "age_min": 36.5
     },
     {
       "hash": "37b14d97d5d207e82edadf554cdd7701",
@@ -336,18 +312,6 @@
       "status": "new",
       "ts": "2026-05-29T10:48:59.280523+05:00",
       "age_min": 8.6
-    },
-    {
-      "hash": "4a6c843865e2c3f9b596149c423ce110",
-      "title": "Europe is Edging Closer to a Trade War With China. Here’s Why.",
-      "summary": "As cheap goods pour in, threatening the continent’s manufacturing sector, a search for solutions is becoming increasingly urgent.",
-      "link": "https://www.nytimes.com/2026/05/29/world/europe/europe-china-trade-war-electric-cars.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T09:19:39.900956+05:00",
-      "age_min": 18.5
     },
     {
       "hash": "82eedf4caee2ac72a3557ca68a091a04",
@@ -566,6 +530,30 @@
       "age_min": 34.9
     },
     {
+      "hash": "285e595d6ace74f74a0f4e2f121a5946",
+      "title": "Asian Currencies Steady as U . S .- Iran Ceasefire Extension Hopes Weigh on Dollar",
+      "summary": "",
+      "link": "http://www.econotimes.com/Asian-Currencies-Steady-as-US-Iran-Ceasefire-Extension-Hopes-Weigh-on-Dollar-1742996",
+      "source": "GDELT/MACRO",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T13:33:54.307701+05:00",
+      "age_min": 63.9
+    },
+    {
+      "hash": "7f70f65b76ccb1d91593567b1eec59c2",
+      "title": "Canadian warship transits Taiwan Strait ahead of Chinese minister visit",
+      "summary": "",
+      "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/29/2003858201",
+      "source": "GDELT/TAIWAN",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T13:32:37.190583+05:00",
+      "age_min": 62.6
+    },
+    {
       "hash": "07924e9ea91c93093e7d34708fd0813d",
       "title": "Dollar heads for weekly loss on reports of US - Iran ceasefire deal",
       "summary": "",
@@ -588,6 +576,18 @@
       "status": "new",
       "ts": "2026-05-29T12:47:22.941323+05:00",
       "age_min": 47.4
+    },
+    {
+      "hash": "c1bb2951dab102c315dae994871c2de4",
+      "title": "217 of 232 UAVs neutralized , Iskander missile and 14 drones hit targets",
+      "summary": "",
+      "link": "https://en.interfax.com.ua/news/general/1171933.html",
+      "source": "GDELT/CYBER",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-29T13:33:24.140781+05:00",
+      "age_min": 78.4
     }
   ]
 }
