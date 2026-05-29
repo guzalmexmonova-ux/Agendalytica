@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T23:03:10.391239+05:00",
+  "updated": "2026-05-29T23:18:53.945737+05:00",
   "items": [
     {
       "hash": "89f57e793d5a42b778da62731c1d0918",
@@ -218,16 +218,28 @@
       "age_min": 60.7
     },
     {
-      "hash": "baec3110ac8327b85cc53616193d4de6",
-      "title": "Hamas warns of collapse of Gaza agreement after Israel kills 20 Palestinians in 48 hours",
+      "hash": "1b1290f3c00fccd1a0cc625aa68163bc",
+      "title": "Cohort Default Rates",
       "summary": "",
-      "link": "https://www.middleeastmonitor.com/20260529-hamas-warns-of-collapse-of-gaza-agreement-after-israel-kills-20-palestinians-in-48-hours/",
-      "source": "GDELT/MIDEAST",
-      "score": 9,
+      "link": "https://iecc.edu/cohortdefaultrates",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-29T19:18:08.846680+05:00",
-      "age_min": 33.1
+      "ts": "2026-05-29T23:17:09.946778+05:00",
+      "age_min": 47.2
+    },
+    {
+      "hash": "06812d1a6a3aefd8222aa4037ba08e44",
+      "title": "Fed Bowman willing to look through war - driven inflation bump",
+      "summary": "",
+      "link": "https://www.bondbuyer.com/news/feds-bowman-willing-to-look-through-war-driven-inflation-bump",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T23:17:09.943504+05:00",
+      "age_min": 47.2
     },
     {
       "hash": "51a787d732a0ab3745072991eb7bbf00",
@@ -470,42 +482,6 @@
       "age_min": 20.8
     },
     {
-      "hash": "6a9822a77be218fad2307334d3e5a054",
-      "title": "Destitute from war , a mother in Gaza made a fateful choice and gave her young daughters in marriage",
-      "summary": "",
-      "link": "https://abcnews.com/Health/wireStory/destitute-war-mother-gaza-made-fateful-choice-gave-133411454",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T19:18:08.849336+05:00",
-      "age_min": 63.1
-    },
-    {
-      "hash": "2e75cc0323ab419ed0d3e19702392bf3",
-      "title": "What we know and dont know about the possible deal to end the Iran war",
-      "summary": "",
-      "link": "https://www.king5.com/article/news/nation-world/attack-on-iran/what-to-know-possible-iran-deal/507-04bef61f-902f-4f94-a159-fea6bae16d74",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T19:18:08.844167+05:00",
-      "age_min": 33.1
-    },
-    {
-      "hash": "d8c5ee8df58f42aad7171c89e3c2889a",
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep.",
-      "link": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T19:04:19.129472+05:00",
-      "age_min": 162.2
-    },
-    {
       "hash": "c82bdd66c078ca79bad2884a0cdf3f54",
       "title": "US , Iran reach tentative agreement to extend ceasefire . How soon could the war end ?",
       "summary": "",
@@ -588,6 +564,30 @@
       "status": "new",
       "ts": "2026-05-29T22:47:18.486906+05:00",
       "age_min": 47.3
+    },
+    {
+      "hash": "1f270dcec013aca0da6e29e50089258b",
+      "title": "Canada recession : Youth struggling to find work . Are you ?",
+      "summary": "",
+      "link": "https://www.cp24.com/local/toronto/2026/05/29/young-canadians-are-entering-one-of-the-toughest-summer-job-markets-amid-a-technical-recession-hows-your-experience/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T23:17:09.943218+05:00",
+      "age_min": 47.2
+    },
+    {
+      "hash": "c5dd237d00d14351a872299981e81104",
+      "title": "Economists pour cold water on recession talk after Canada economy stalls in Q1",
+      "summary": "",
+      "link": "https://cheknews.ca/canada-slips-into-technical-recession-as-economy-stalls-in-q1-statcan-1327404/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T23:17:09.941015+05:00",
+      "age_min": 32.2
     },
     {
       "hash": "eddacc279227fe5ca0de06e04a6461cc",
