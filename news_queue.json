@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T05:35:46.440187+05:00",
+  "updated": "2026-05-29T05:52:50.757251+05:00",
   "items": [
     {
       "hash": "02b143afe23ee3754b698d3691806cc4",
@@ -108,18 +108,6 @@
       "status": "new",
       "ts": "2026-05-29T02:03:49.383665+05:00",
       "age_min": 14.0
-    },
-    {
-      "hash": "12e63425edbb9fba94937186054398ec",
-      "title": "US and Iranian negotiators reach tentative deal to extend ceasefire and launch nuclear talks",
-      "summary": "",
-      "link": "https://www.ksl.com:443/article/51503669/us-and-iranian-negotiators-reach-tentative-deal-to-extend-ceasefire-and-launch-nuclear-talks",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T01:45:34.591593+05:00",
-      "age_min": 45.6
     },
     {
       "hash": "19dcc5c93626bc5f7b89180732b1c2d7",
@@ -276,18 +264,6 @@
       "status": "new",
       "ts": "2026-05-29T02:34:37.902561+05:00",
       "age_min": 66.4
-    },
-    {
-      "hash": "0a988cfc75099f6c82de4b46ab09d136",
-      "title": "Netanyahu Says Israel Will Control 70 Percent of Gaza, Squeezing Hamas",
-      "summary": "Israel’s military continues to conduct strikes and seize territory despite a cease-fire with Hamas. Many of Prime Minister Benjamin Netanyahu’s supporters see the war as unfinished business.",
-      "link": "https://www.nytimes.com/2026/05/28/world/middleeast/israel-gaza-hamas-70-percent.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T01:47:40.760651+05:00",
-      "age_min": 13.7
     },
     {
       "hash": "d695db4dcb02f5d671b3dbbb70c4c7bb",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-05-29T03:17:22.682361+05:00",
       "age_min": 6.6
+    },
+    {
+      "hash": "d7120e5ea52824714fb65b87ab22e2af",
+      "title": "Gastech 2026 to convene global energy leaders in Bangkok as Asia accelerates demand , LNG investment and system transformation",
+      "summary": "",
+      "link": "http://www.thailandnews.net/news/279087431/gastech-2026-to-convene-global-energy-leaders-in-bangkok-as-asia-accelerates-demand-lng-investment-and-system-transformation",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T05:49:43.660703+05:00",
+      "age_min": -1375.3
+    },
+    {
+      "hash": "11ec0c1cbfc360b884bc24ef995d5067",
+      "title": "Scientists unveil game - changing lithium extraction method that could transform EV battery production – NaturalNews . com",
+      "summary": "",
+      "link": "https://www.naturalnews.com/2026-05-28-lithium-extraction-method-transforms-ev-battery-production.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T05:49:43.657309+05:00",
+      "age_min": 49.7
     }
   ]
 }
