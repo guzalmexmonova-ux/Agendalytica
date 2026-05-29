@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T02:18:17.792731+05:00",
+  "updated": "2026-05-30T02:34:54.793885+05:00",
   "items": [
     {
       "hash": "850e3ac5ac68e255ac5625c864eb1156",
@@ -62,18 +62,6 @@
       "age_min": 60.8
     },
     {
-      "hash": "9508f634dca32287a1aff95988f68c6f",
-      "title": "Warsh and peace",
-      "summary": "New Federal Reserve chair will have difficult time justifying rate cuts when he chairs his first meeting in a few weeks’ time",
-      "link": "https://www.ft.com/content/a56eb8ec-94ec-4f9f-84ce-1db1af6a2859",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T22:19:34.186565+05:00",
-      "age_min": 26.0
-    },
-    {
       "hash": "cb8c8eba856e6592b4c229bf3decf8e2",
       "title": "Call of Duty puts North Korea invasion at centre of new game as makers defend  sensitive  setting",
       "summary": "",
@@ -108,18 +96,6 @@
       "status": "new",
       "ts": "2026-05-29T23:30:50.529674+05:00",
       "age_min": 45.8
-    },
-    {
-      "hash": "2f3c2bbfea5a0428939039d6b416165a",
-      "title": "BoE governor warns Middle East ceasefire would ‘still create uncertainty’",
-      "summary": "Andrew Bailey says rate cuts can only come when policymakers are ‘much more confident’",
-      "link": "https://www.ft.com/content/495ee364-b774-4647-b1f6-5993ebfbf3b5",
-      "source": "FT",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T22:32:31.997314+05:00",
-      "age_min": 6.5
     },
     {
       "hash": "489d065de5799d2541eee9e479ef3c41",
@@ -266,16 +242,16 @@
       "age_min": 47.2
     },
     {
-      "hash": "51a787d732a0ab3745072991eb7bbf00",
-      "title": "Deutsche Bank Raises 10-Year Treasury Yield Forecast on Fed View",
-      "summary": "Interest-rate strategists at Deutsche Bank AG boosted their forecast for the 10-year Treasury yield into the end of the year on the expectation that Federal Reserve officials now led by Chairman Kevin Warsh are finished cutting interest rates.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-29/deutsche-bank-raises-10-year-treasury-yield-forecast-on-fed-view",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
+      "hash": "fb3e7e2230320f95a76bdcd436aed530",
+      "title": "Why the Philippines walks a delicate balance as Asean chair",
+      "summary": "When Philippine President Ferdinand Marcos Jnr accepted the Asean gavel from Malaysian counterpart Anwar Ibrahim in Kuala Lumpur last October, the script was already written: a packed agenda, South China Sea diplomacy in the spotlight and a regional digital economy deal to clinch. Then the world changed.\nOn February 28, US and Israeli forces struck Iran. The Strait of Hormuz, an artery of global s",
+      "link": "https://www.scmp.com/opinion/asia-opinion/article/3354849/why-philippines-walks-delicate-balance-asean-chair?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-29T22:19:33.804686+05:00",
-      "age_min": 9.2
+      "ts": "2026-05-30T02:34:04.662988+05:00",
+      "age_min": 4.0
     },
     {
       "hash": "afcee4b94233de69477b95637160cb57",
@@ -504,6 +480,42 @@
       "status": "new",
       "ts": "2026-05-30T01:15:55.659143+05:00",
       "age_min": 60.9
+    },
+    {
+      "hash": "036f41fd62a7d58ef22c3d4956e6952e",
+      "title": "US military accuses Iran of violating ceasefire , attacking Kuwait",
+      "summary": "",
+      "link": "http://www.calcuttanews.net/news/279086548/iran-broke-fragile-ceasefire-attacked-kuwait-us-military-says",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T02:32:28.537808+05:00",
+      "age_min": 77.5
+    },
+    {
+      "hash": "34ac73c70a121f63a247373077b78a49",
+      "title": "Dollar set for weekly loss amid U.S.-Iran ceasefire deal - Honolulu Star-Advertiser",
+      "summary": "Dollar set for weekly loss amid U.S.-Iran ceasefire deal&nbsp;&nbsp;Honolulu Star-Advertiser",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM05zWWFmeWhmdk5Qa2w5d08xZm0tQU12YjNadlhNVDdMNU1oUUhKNFE1ZTBkVVBHWC00N2d2VU4yQUEwb0lJZFRjVnlmSDBNZ21tTzVUajZsNlIwZ3FHOGhDdF9pRm4zWDVFb2JHQ2xFekFuNnhNTmtQWFoxdHZDcFhocFVSWUlsTloyT3E4VXZzWW44Mk44ai13OE1DNzFTODNOSGtoRHpMM1lZTTR1VVJn?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-30T02:34:33.024693+05:00",
+      "age_min": 14.2
+    },
+    {
+      "hash": "2a01156a2ec11290b252fb4df5d3f091",
+      "title": "Kazakhstan offers to take Iran uranium stockpile , IAEA chief tells FT",
+      "summary": "",
+      "link": "https://www.arabnews.com/node/2645387/world",
+      "source": "GDELT/CENTRAL_ASIA",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-30T02:33:30.354499+05:00",
+      "age_min": 93.5
     },
     {
       "hash": "9d4bc3864316edf25d5bc378f0639cd7",
