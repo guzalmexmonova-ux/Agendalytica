@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-29T08:50:51.076405+05:00",
+  "updated": "2026-05-29T09:05:07.007018+05:00",
   "items": [
+    {
+      "hash": "99a36f658652c76ecdf0b6b11741da05",
+      "title": "Russia overspends on Putin’s war in Ukraine by $28bn",
+      "summary": "Finance ministry asked cabinet in February to freeze expenditure in other areas as cost of conflict mounts",
+      "link": "https://www.ft.com/content/93674b5c-06ea-4e49-a005-dc08e1091574",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T09:04:27.053553+05:00",
+      "age_min": 4.3
+    },
+    {
+      "hash": "1e372ec61270d0ea700f2e3c11e20206",
+      "title": "Urgent clarity on policy needed on the energy transition",
+      "summary": "The impact of Middle East war is a reminder why certainty is crucial to spur a shift from fossil fuels",
+      "link": "https://www.ft.com/content/c2935a29-a2d8-46b2-b517-e8be990f7a78",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T09:04:27.052181+05:00",
+      "age_min": 4.2
+    },
     {
       "hash": "380b9240978e2f00cc553286d85db444",
       "title": "India Steps Up Stake Sales as Iran War Strains Finances",
@@ -386,6 +410,42 @@
       "age_min": -1360.0
     },
     {
+      "hash": "00905c9a2c85953381f6d8c9a21e70aa",
+      "title": "Iran War Cost Tracker: США потратили более $95 млрд на военную операцию в Иране",
+      "summary": "Счетчик портала основан на брифинге Пентагона для Конгресса США 10 марта, на котором утверждалось, что за первые шесть дней ведения боевых действий на Ближнем Востоке Вашингтон потратил $11,3 млрд",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27572381",
+      "source": "TASS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-29T09:04:30.619012+05:00",
+      "age_min": 6.5
+    },
+    {
+      "hash": "9d7e1873967294e866b0bde6d9734ecd",
+      "title": "More than half of Asia - Pacific rich worry about recession , Lombard Odier says",
+      "summary": "",
+      "link": "https://www.bworldonline.com/world/2026/05/29/753055/more-than-half-of-asia-pacifics-rich-worry-about-recession-lombard-odier-says/",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T09:04:20.860068+05:00",
+      "age_min": 34.3
+    },
+    {
+      "hash": "01b72c6a00d639ffb5a01bb416653fb7",
+      "title": "The Race to Regulate AI in America | Diamond Hands , War Plans | Cyber Offense : How Far Can Private Organizations Go ?, and more",
+      "summary": "",
+      "link": "https://www.homelandsecuritynewswire.com/dr20260528-the-race-to-regulate-ai-in-america-diamond-hands-war-plans-cyber-offense-how-far-can-private-organizations-go-and-mor",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-29T09:03:44.069944+05:00",
+      "age_min": 48.7
+    },
+    {
       "hash": "e3c44c924e30b8520c5ffac02d2b031a",
       "title": "China unveils AI system to automate satellite targeting and surveillance",
       "summary": "The United States is reportedly bringing a powerful new weapon to the Iran war: large artificial intelligence (AI) models tasked with automating every stage of the targeting process, from satellite imagery analysis to final strike selection.\nBut how these systems operate remains strictly classified, with incidents such as the February bombing of a primary school that killed more than 200 children ",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-05-29T05:21:08.046167+05:00",
       "age_min": 21.1
-    },
-    {
-      "hash": "4191f6bf8199ee0255fe2397515d5107",
-      "title": "Asia security summit opens with US strategy in focus amid Iran war",
-      "summary": "",
-      "link": "https://asia.nikkei.com/politics/defense/asia-security-summit-opens-with-us-strategy-in-focus-amid-iran-war",
-      "source": "Nikkei Asia",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T05:07:06.325451+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "f154c71133c828d7e2adc889b7434bca",
-      "title": "JD Vance warns that AI should not outrank humans in war – NBC4 Washington",
-      "summary": "",
-      "link": "https://www.nbcwashington.com/news/national-international/vance-warns-ai-not-outrank-humans-war/4109827/",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-29T05:05:34.144031+05:00",
-      "age_min": -1404.4
-    },
-    {
-      "hash": "dbda914f6e794f3077f7b2de88be88c1",
-      "title": "Китай та США відреагували на підготовку РФ нових атак на Київ",
-      "summary": "",
-      "link": "https://zn.ua/ukr/china/kitaj-v-radbezi-oon-viznav-shcho-vijna-v-ukrajini-zatjahujetsja-.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T05:02:16.125045+05:00",
-      "age_min": -1407.7
-    },
-    {
-      "hash": "f8d0c3bf9d57fc6d571377b238b6bdd0",
-      "title": "Gold edges higher as investors weigh US - Iran ceasefire deal reports , Fed rate outlook",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/markets/commodities/news/gold-edges-higher-as-investors-weigh-us-iran-ceasefire-deal-reports-fed-rate-outlook/articleshow/131379980.cms",
-      "source": "GDELT/FED_ECB",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T08:49:03.386841+05:00",
-      "age_min": 79.1
-    },
-    {
-      "hash": "11abf2d6d1d5e82d32a6816e9ef595cb",
-      "title": "Iranian forces stop four vessels in Strait of Hormuz after firing  warning shots",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/world/iranian-forces-stop-four-vessels-in-strait-of-hormuz-after-firing-warning-shots-article-13934993.html",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T08:48:25.804039+05:00",
-      "age_min": 108.4
     }
   ]
 }
