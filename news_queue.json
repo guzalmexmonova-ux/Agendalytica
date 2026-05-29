@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29T21:20:12.994425+05:00",
+  "updated": "2026-05-29T21:33:37.093328+05:00",
   "items": [
     {
       "hash": "89f57e793d5a42b778da62731c1d0918",
@@ -194,18 +194,6 @@
       "age_min": 47.4
     },
     {
-      "hash": "325c6734088a5fd8e1349d88cf9bf4c0",
-      "title": "Iran - US war latest : Tehran and US  agree deal to open Strait of Hormuz  pending Trump approval",
-      "summary": "",
-      "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-strikes-ceasefire-strait-of-hormuz-b2985678.html",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T17:32:42.949957+05:00",
-      "age_min": 32.7
-    },
-    {
       "hash": "a15a460a7854ecb5024e849039dce7f3",
       "title": "South Korea pushes nuclear - powered submarine plan",
       "summary": "",
@@ -240,6 +228,18 @@
       "status": "new",
       "ts": "2026-05-29T18:52:12.240618+05:00",
       "age_min": 97.2
+    },
+    {
+      "hash": "e4d08d98918f23278b41bd996030a6c4",
+      "title": "Canada enters surprise technical recession amid tariff uncertainty",
+      "summary": "",
+      "link": "http://www.kitco.com/news/off-the-wire/2026-05-29/canada-enters-surprise-technical-recession-amid-tariff-uncertainty",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T21:31:51.482894+05:00",
+      "age_min": 31.9
     },
     {
       "hash": "b761d854739716802315347d978d3c22",
@@ -458,30 +458,6 @@
       "age_min": 31.4
     },
     {
-      "hash": "78eef3966656d8041721f11b328ad811",
-      "title": "State of trauma : Israel wrestles with mental aftershocks of war",
-      "summary": "",
-      "link": "https://www.aljazeera.com/news/2026/5/29/state-of-trauma-israel-wrestles-with-mental-aftershocks-of-war",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T17:32:42.953380+05:00",
-      "age_min": 47.7
-    },
-    {
-      "hash": "931410ee914017abaecd8d58e956e6ff",
-      "title": "Kremlin spokesman says Europe cannot mediate Ukraine war",
-      "summary": "",
-      "link": "https://www.khaama.com/kremlin-spokesman-says-europe-cannot-mediate-ukraine-war/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-29T17:32:27.939007+05:00",
-      "age_min": 32.5
-    },
-    {
       "hash": "ccb17ad42dbdd5bd7b3dfd2d4377c437",
       "title": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz - The New York Times",
       "summary": "Iran War Updates: U.S. Officials Say They Are Closing In on Arrangement to Reopen Strait of Hormuz&nbsp;&nbsp;The New York Times",
@@ -578,6 +554,30 @@
       "age_min": 33.6
     },
     {
+      "hash": "166862ab1b917add6d9198376955c23a",
+      "title": "Rio Tinto’s Aluminum Exports to US Rebound to Pretariff Levels",
+      "summary": "One of the world’s largest aluminum producers, Rio Tinto Group, says its shipments of the lightweight metal to the US have bounced back to levels from before President Donald Trump’s tariff offensive.",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-29/rio-tinto-s-aluminum-exports-to-us-rebound-to-pretariff-levels",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T21:32:39.841872+05:00",
+      "age_min": 18.6
+    },
+    {
+      "hash": "83a78a6877ae06c307650bf9a9b7460e",
+      "title": "Stocks Rise as Trump Says He’ll Make Call on Iran",
+      "summary": "Hopes that a ceasefire deal could pave the way for an end to the Iran conflict drove stocks toward a historic streak of weekly gains, with the market also buoyed by the artificial-intelligence trade.\nBrian Belski, CEO and CIO at Humilis Investment Strategies, discusses the S&amp;P 500 bull case and his outlook for markets amid the AI boom. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-05-29/stocks-rise-as-trump-says-he-ll-make-call-on-iran-video",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-29T21:32:39.841024+05:00",
+      "age_min": 18.4
+    },
+    {
       "hash": "5122594de9e8be9efeca585e684afd7f",
       "title": "Trump pledges ‘final determination’ on Iran deal to extend ceasefire",
       "summary": "US president seeks agreement on ‘unrestricted traffic’ in Strait of Hormuz",
@@ -590,16 +590,16 @@
       "age_min": 8.0
     },
     {
-      "hash": "8290add3a9b3b38ce80c3e8b8631bb97",
-      "title": "ECB set for June rate hike as inflation stays high - MSN",
-      "summary": "ECB set for June rate hike as inflation stays high&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcWtjQUlXaGdwYmc5Nzdiczl6SUZDbjBqbWltaDhmTnRVSEpkVW41R0duZS1FWm1mVTd1S1BmWlNmbnBONjFDMzFkWmlGOWF6cnVXWkFyNDhUVUxwT1VybzRmdmtWbU5SRXowNFZHMGtGSGN2UE1oYkJTb2NVRVB2SjRibm1vamEwcU01YWtJM1Bnb0NFU0pvRTNZQkVaZkZTamFOQVdncklXcm1RS0F4WmstTWw2eVM3V0hFOTYzckFxLU4xSEpj?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
+      "hash": "71b3e2aa769c9cb84732bd8dddf21aa9",
+      "title": "How far is there to go until the US and Iran end the war ?",
+      "summary": "",
+      "link": "https://www.militarytimes.com/news/pentagon-congress/2026/05/29/how-far-is-there-to-go-until-the-us-and-iran-end-the-war/",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-29T21:19:54.876261+05:00",
-      "age_min": 8.3
+      "ts": "2026-05-29T21:31:42.555789+05:00",
+      "age_min": 31.7
     }
   ]
 }
