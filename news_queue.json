@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T03:47:30.471836+05:00",
+  "updated": "2026-05-31T04:03:21.859408+05:00",
   "items": [
     {
       "hash": "9b17a42b08d4681d470805f4f7971f12",
@@ -14,16 +14,16 @@
       "age_min": 60.7
     },
     {
-      "hash": "b2a6cf93d7e24aa05b0e7e75794afc6d",
-      "title": "China is building launch pads near its nuclear missile silos : report",
+      "hash": "d23f047563ae5f48e1e4c8e37b86f47c",
+      "title": "Un dron ucraniano impacta contra el edificio de una de las turbinas de la central nuclear de Zaporiyia",
       "summary": "",
-      "link": "https://www.thehindu.com/news/international/china-is-building-launch-pads-near-its-nuclear-missile-silos-report/article71041271.ece",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
+      "link": "https://www.20minutos.es/internacional/dron-ucraniano-impacta-contra-edificio-turbinas-central-nuclear-zaporiyia_6977211_0.html",
+      "source": "GDELT/FED_ECB",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-05-31T00:00:43.201944+05:00",
-      "age_min": 30.7
+      "ts": "2026-05-31T04:01:42.807892+05:00",
+      "age_min": 61.7
     },
     {
       "hash": "f9849592cb9ad990be859f4580b90fc1",
@@ -84,18 +84,6 @@
       "status": "new",
       "ts": "2026-05-31T00:45:37.309393+05:00",
       "age_min": 30.6
-    },
-    {
-      "hash": "915c516fb97241df37a83525a4b58e81",
-      "title": "Iran latest : Nuclear issues remain unresolved as Trump weighs peace deal",
-      "summary": "",
-      "link": "https://www.fox9.com/news/iran-latest-nuclear-issues-remain-unresolved-trump-weighs-peace-deal",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-31T00:00:43.203267+05:00",
-      "age_min": 30.7
     },
     {
       "hash": "2ecdedf4daa6bb60976f330b9beabf3a",
@@ -228,42 +216,6 @@
       "status": "new",
       "ts": "2026-05-31T00:31:07.130792+05:00",
       "age_min": 31.1
-    },
-    {
-      "hash": "8411db5a0b41382457c0dda7f76c5aee",
-      "title": "More ships are quietly slipping through Strait of Hormuz as air power scares off Iran attack boats",
-      "summary": "",
-      "link": "https://fortune.com/2026/05/30/ships-strait-of-hormuz-traffic-oil-lng-tankers-iran-fast-attack-boats/",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-31T00:02:53.681355+05:00",
-      "age_min": 62.9
-    },
-    {
-      "hash": "c270eafd5cacfb6eaea4d8538b0cb021",
-      "title": "World war warnings rise , even from Mary | The Manila Times",
-      "summary": "",
-      "link": "https://www.manilatimes.net/2026/05/31/opinion/columns/world-war-warnings-rise-even-from-mary/2354991",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T23:49:14.937200+05:00",
-      "age_min": 34.2
-    },
-    {
-      "hash": "0d50d3a82abbddf0d7878a94cc5ed218",
-      "title": "Bringing the war back where it came from : Zelenskyy after Ukrainian drones hit Russian oil facilities",
-      "summary": "",
-      "link": "https://timesofindia.indiatimes.com/world/europe/bringing-the-war-back-where-it-came-from-zelenskyy-after-ukrainian-drones-hit-russian-oil-facilities/articleshow/131412167.cms",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T23:49:14.935598+05:00",
-      "age_min": 49.2
     },
     {
       "hash": "0085203fa71690b3d01d6fc5fab0d2ef",
