@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T14:18:59.165267+05:00",
+  "updated": "2026-05-30T14:33:22.094309+05:00",
   "items": [
     {
       "hash": "6639b3cbca843c093f21502c7a51d4fa",
@@ -24,6 +24,18 @@
       "status": "new",
       "ts": "2026-05-30T13:00:44.043629+05:00",
       "age_min": 45.7
+    },
+    {
+      "hash": "622766a6ed56edaee83a6e593fa54358",
+      "title": "Путин намекнул на вторжение в Армению и назвал причину",
+      "summary": "",
+      "link": "https://gazeta.ua/ru/articles/world-life/_putin-prigrozil-armenii-ukrainskim-scenariem-izza-namerenij-vstupit-v-evrosoyuz/1251683",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T14:30:40.614317+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "ba6f4443c9f92d090c94aadeb2fbaa72",
@@ -216,6 +228,18 @@
       "status": "new",
       "ts": "2026-05-30T13:19:57.984949+05:00",
       "age_min": 19.1
+    },
+    {
+      "hash": "9990fa5b593bd598049e1333e97d66b8",
+      "title": "Взорвавшаяся ракета Blue Origin ставит под сомнение планы НАСА о возвращении на Луну",
+      "summary": "",
+      "link": "https://www.bbc.com/russian/articles/cwy2q5vzne4o",
+      "source": "GDELT/TERRORISM",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T14:30:53.125705+05:00",
+      "age_min": 90.9
     },
     {
       "hash": "a2a48b5842c006d4cdab18571168b4cc",
@@ -446,6 +470,42 @@
       "age_min": 11.0
     },
     {
+      "hash": "29f5a185400211eadca81dcc59745ab6",
+      "title": "Oil Prices Plummet Amid US - Iran Ceasefire Hopes , ETAuto",
+      "summary": "",
+      "link": "https://auto.economictimes.indiatimes.com/news/oil-and-lubes/oil-prices-plummet-amid-us-iran-ceasefire-hopes/131404849",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T14:31:49.904471+05:00",
+      "age_min": 46.8
+    },
+    {
+      "hash": "469a87624918617fa96970fc313c84c7",
+      "title": "Iran Araghchi discusses Hormuz Strait with Omani counterpart",
+      "summary": "",
+      "link": "https://www.khaama.com/irans-araghchi-discusses-hormuz-strait-with-omani-counterpart/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T14:30:40.618331+05:00",
+      "age_min": 30.7
+    },
+    {
+      "hash": "b2c838f228df7c1fd0b761a4fd465e22",
+      "title": "Missile di Teheran contro base united states in Kuwait , laccordo vacilla",
+      "summary": "",
+      "link": "https://www.ilgiornale.it/news/guerra/trump-accetter-accordo-iran-solo-se-rispetter-sue-linee-2671946.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T14:30:40.616199+05:00",
+      "age_min": 30.7
+    },
+    {
       "hash": "449c0581cb0b3ab05131b196f2466ec5",
       "title": "Israeli soldiers share rare accounts from Gaza , describing ongoing killings despite the ceasefire",
       "summary": "",
@@ -540,54 +600,6 @@
       "status": "new",
       "ts": "2026-05-30T11:48:45.568520+05:00",
       "age_min": 78.8
-    },
-    {
-      "hash": "9f7e6e0a9414af7ff6c86aa91ed7a50d",
-      "title": "Israeli soldiers share rare accounts from Gaza , describing ongoing killings despite the ceasefire – Winnipeg Free Press",
-      "summary": "",
-      "link": "https://www.winnipegfreepress.com/world/2026/05/30/israeli-soldiers-share-rare-accounts-from-gaza-describing-ongoing-killings-despite-the-ceasefire",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T11:31:34.722866+05:00",
-      "age_min": 61.6
-    },
-    {
-      "hash": "4c22c02c9066d43dbdc08787ddc2b63d",
-      "title": "Hamas Says Gaza Offensive Is a  Blatant  Breach of Ceasefire Deal - Jowhar News Leader",
-      "summary": "",
-      "link": "https://jowhar.com/hamas-says-gaza-offensive-is-a-blatant-breach-of-ceasefire-deal/",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T11:17:08.759734+05:00",
-      "age_min": 92.1
-    },
-    {
-      "hash": "50e94175f919446eaa7c09f714e96595",
-      "title": "Gold on track for third monthly loss as traders focus on US - Iran ceasefire",
-      "summary": "",
-      "link": "https://www.zawya.com/en/economy/global/gold-on-track-for-third-monthly-loss-as-traders-focus-on-us-iran-ceasefire-qv0ar7gk",
-      "source": "GDELT/FED_ECB",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T11:03:50.554572+05:00",
-      "age_min": 48.8
-    },
-    {
-      "hash": "2a52ef0b6efa17b2c9e65a76c7feb3dd",
-      "title": "Writing’s on the wall for the bond market – for those who can read it",
-      "summary": "There is a good deal more to the rapid rise in bond yields around the world, not least in Asia, than meets the eye. It suggests a recognition by financial markets that governments are spending beyond their means, tax revenues and borrowing power.\nThe implication is that either taxes need to rise or public spending needs to fall, or alternatively that financial markets, stock markets in particular,",
-      "link": "https://www.scmp.com/opinion/world-opinion/article/3355192/writings-wall-bond-market-those-who-can-read-it?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-30T13:35:42.665138+05:00",
-      "age_min": 5.6
     }
   ]
 }
