@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T05:08:46.972118+05:00",
+  "updated": "2026-05-30T05:18:40.726739+05:00",
   "items": [
     {
       "hash": "e464c0521db87b35718ddb3b3e060122",
@@ -72,6 +72,18 @@
       "status": "new",
       "ts": "2026-05-30T02:46:56.697285+05:00",
       "age_min": 140.7
+    },
+    {
+      "hash": "b3229f040f82f3fcaa34bd0b86582350",
+      "title": "Fed Bowman says too soon to judge inflation impact of Iran War",
+      "summary": "",
+      "link": "https://www.spokesman.com/stories/2026/may/29/feds-bowman-says-too-soon-to-judge-inflation-impac/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T05:16:38.335450+05:00",
+      "age_min": -1408.4
     },
     {
       "hash": "ea7ddf0f601c2183d0388347325b2a37",
@@ -182,40 +194,16 @@
       "age_min": 31.4
     },
     {
-      "hash": "a32b5a3f93d2e3a20e5bbadec10488cc",
-      "title": "Война в Украине - ВСУ перекрыли российский сухопутный коридор в Крым",
-      "summary": "",
-      "link": "https://www.unian.net/war/voyna-v-ukraine-vsu-perekryli-rossiyskiy-suhoputnyy-koridor-v-krym-politico-13397205.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
+      "hash": "afcee4b94233de69477b95637160cb57",
+      "title": "Iran War Updates: Trump Puts Off ‘Final Determination’ on Iran Proposal",
+      "summary": "The president met with aides for two hours at the White House about a possible cease-fire extension, according to a senior administration official. Earlier, Mr. Trump had suggested in a social media post that he was ready to make a decision.",
+      "link": "https://www.nytimes.com/live/2026/05/29/world/iran-war-us-trump-deal",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-05-30T01:15:55.658357+05:00",
-      "age_min": 45.9
-    },
-    {
-      "hash": "b12ef5b69a3e70a2507f8230310c7a75",
-      "title": "Russia warns war costs are ravaging its finances as Ukrainian  drone overmatch  halts Putin forces",
-      "summary": "",
-      "link": "https://fortune.com/2026/05/29/russia-war-costs-budget-deficit-reserves-ukrainian-drone-overmatch-new-combat-phase/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T01:15:55.657601+05:00",
-      "age_min": 45.9
-    },
-    {
-      "hash": "b992a650cce17b87e117605c2ea57fba",
-      "title": "Almost 500 , 000 Russian soldiers have been killed in Putin war on Ukraine , says GCHQ",
-      "summary": "",
-      "link": "https://www.aol.co.uk/articles/almost-500-000-russian-soldiers-051317654.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T01:15:55.654522+05:00",
-      "age_min": 45.9
+      "ts": "2026-05-30T05:17:58.630540+05:00",
+      "age_min": 12.5
     },
     {
       "hash": "c1a83cd08223d92596fab1feb04dd4ab",
@@ -276,6 +264,30 @@
       "status": "new",
       "ts": "2026-05-30T02:05:18.129520+05:00",
       "age_min": 60.8
+    },
+    {
+      "hash": "d11e64ed6123afd33b698e344e453d9f",
+      "title": "Trump ends Iran meeting without announcing ‘final determination’ on deal",
+      "summary": "Trump's Truth Social statement left unclear which of his conditions are already part of a deal that negotiators are working on to pause the U.S.-Iran war.",
+      "link": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-30T05:17:58.842328+05:00",
+      "age_min": 193.2
+    },
+    {
+      "hash": "3a73e2a127c8fdb1860253c243d2b16c",
+      "title": "Canada slips into technical recession as economy stalls in Q1",
+      "summary": "",
+      "link": "https://advisor.ca/economy/economic-indicators/canada-slips-into-technical-recession-as-economy-stalls-in-q1/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T05:16:38.337837+05:00",
+      "age_min": -1408.4
     },
     {
       "hash": "a8bcb953e97e84692606e45ae004652e",
@@ -458,28 +470,16 @@
       "age_min": 45.9
     },
     {
-      "hash": "568e5e095481eb1b04c1918724197de2",
-      "title": "Fed’s Bowman says too soon to judge inflation impact of Iran War - The Spokesman-Review",
-      "summary": "Fed’s Bowman says too soon to judge inflation impact of Iran War&nbsp;&nbsp;The Spokesman-Review",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNkVBamF4Tkk3VGVpckpmWjA3eHFodFBjMUJDTDdYdUtzV1preE9SOWtWd1ZEdHhUbHdPSkRVb21SVzlXcklETFVZOGk2bi00NThkc1hFTWtiMWxIczhUT3V0ZVRXd3ZJOHhnaFQxWlZ2eHk2MGFqZ2ZBc2JDTnNpVWo2aFdwV0pxeUc4NHFJV3lrSVBuZFBpbzl0YkFLUQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
+      "hash": "7e8f3e7a1938edcf896aa142acc2227a",
+      "title": "US rate hike on the table as inflation persists: Chicago Fed chief",
+      "summary": "",
+      "link": "https://asia.nikkei.com/editor-s-picks/interview/us-rate-hike-on-the-table-as-inflation-persists-chicago-fed-chief",
+      "source": "Nikkei Asia",
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-30T01:18:38.535972+05:00",
-      "age_min": 105.9
-    },
-    {
-      "hash": "81dd91b0415f3bab001e1c4368cfeebc",
-      "title": "Скандал з Навроцьким і Зеленським – яка реакція України | Новини України",
-      "summary": "",
-      "link": "https://news.liga.net/ua/politics/news/u-sybihy-zreahuvaly-na-bazhannia-navrotskoho-zabraty-u-zelenskoho-orden-cherez-upa",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T01:15:55.659143+05:00",
-      "age_min": 60.9
+      "ts": "2026-05-30T05:17:59.059397+05:00",
+      "age_min": 0
     },
     {
       "hash": "246aa9b49032b59d0fdd2e54787c1c1b",
@@ -530,6 +530,18 @@
       "age_min": 32.9
     },
     {
+      "hash": "91c9187738d13630149d8fc468393f80",
+      "title": "Crude Oil Prices Supported as Strait of Hormuz Remains Closed",
+      "summary": "",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-supported-strait-163621136.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T05:16:57.949213+05:00",
+      "age_min": -1408.0
+    },
+    {
       "hash": "b8baca13a7328158c912c7b6982a98d4",
       "title": "US military accuses Iran of violating ceasefire , attacking Kuwait",
       "summary": "",
@@ -578,28 +590,16 @@
       "age_min": -1405.4
     },
     {
-      "hash": "702f041a4b4b5a6402bf20b9a0a11d8d",
-      "title": "India compelled Pak to seek ceasefire within four days : Rajnath Singh",
+      "hash": "04d1ce753ee0592e8e6a8405fae3d14a",
+      "title": "Россия получит особые условия прохода через Ормузский пролив",
       "summary": "",
-      "link": "https://www.dailyexcelsior.com/india-compelled-pak-to-seek-ceasefire-within-four-days-rajnath-singh/",
-      "source": "GDELT/CYBER",
+      "link": "https://lenta.ru/news/2026/05/30/rossiya-poluchit-osobye/",
+      "source": "Lenta.ru",
       "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-30T05:05:11.111125+05:00",
-      "age_min": -1404.8
-    },
-    {
-      "hash": "53c40683ca53bf1f371968d5a103474d",
-      "title": "Now Trump says he is ready to lift the naval blockade of Hormuz",
-      "summary": "",
-      "link": "https://www.thevermilion.com/now-trump-says-he-is-ready-to-lift-the-naval-blockade-of-hormuz/article_18410/",
-      "source": "GDELT/SANCTIONS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-30T05:04:38.092389+05:00",
-      "age_min": -1375.4
+      "ts": "2026-05-30T05:18:03.123944+05:00",
+      "age_min": 121.2
     }
   ]
 }
