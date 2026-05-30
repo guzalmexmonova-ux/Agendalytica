@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31T03:03:14.221210+05:00",
+  "updated": "2026-05-31T03:20:00.417162+05:00",
   "items": [
     {
       "hash": "9b17a42b08d4681d470805f4f7971f12",
@@ -24,6 +24,18 @@
       "status": "new",
       "ts": "2026-05-31T00:00:43.201944+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "f9849592cb9ad990be859f4580b90fc1",
+      "title": "Jugar con fuego : El OIEA manifiesta su  seria preocupación  tras el ataque de Kiev a una central nuclear rusa",
+      "summary": "",
+      "link": "https://actualidad.rt.com/actualidad/607955-oiea-manifiesta-seria-preocupacion-ataque-kiev-central-nuclear",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:15:45.060320+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "87218e68a6c7bd38a57ae7a492cf2561",
@@ -84,6 +96,30 @@
       "status": "new",
       "ts": "2026-05-31T00:00:43.203267+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "f2406d2cf1324640839332e67468f342",
+      "title": "US  more than capable  of restarting war with Iran , warns Pete Hegseth",
+      "summary": "",
+      "link": "http://www.kenyastar.com/news/279092099/us-more-than-capable-of-restarting-war-with-iran-warns-pete-hegseth",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:15:45.059677+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "9c26ac134541d6aad129145be5491f5f",
+      "title": "How do you calculate the cost of war in Iran ?",
+      "summary": "",
+      "link": "https://www.smh.com.au/national/how-do-you-calculate-the-cost-of-war-in-iran-20260526-p600ry.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:15:45.056690+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "b60a9e72107f1e3949e10a13d1d0af3a",
@@ -242,18 +278,6 @@
       "age_min": 3.2
     },
     {
-      "hash": "5a06d728cd22d42845268ba53ecf6fa2",
-      "title": "Iran war news : U . S . blockade stops commercial ship",
-      "summary": "",
-      "link": "https://www.cp24.com/news/world/2026/05/30/us-says-it-disabled-another-commercial-ship-trying-to-breach-blockade-and-reach-iran/",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-30T23:17:25.526112+05:00",
-      "age_min": 62.4
-    },
-    {
       "hash": "04d57ff7b6893b324ba61f96b42d1ac8",
       "title": "Ecuador accused of meddling in Colombian election with tariff vow",
       "summary": "Ecuadorian leader Daniel Noboa offers to cancel tariffs after speaking to a right-wing presidential candidate ahead of Sunday's vote.",
@@ -374,6 +398,18 @@
       "age_min": 31.0
     },
     {
+      "hash": "9fa63bc9ef48b8916c1c80097092f882",
+      "title": "Hegseth says US blockade in Strait of Hormuz is",
+      "summary": "",
+      "link": "http://www.kenyastar.com/news/279092121/hegseth-says-us-blockade-in-strait-of-hormuz-is-very-much-still-in-place",
+      "source": "GDELT/SUMMITS",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-31T03:18:49.393153+05:00",
+      "age_min": 33.8
+    },
+    {
       "hash": "faa4a2335ae407a04ece5624cd9e8e92",
       "title": "US Home Equity Rates Hold Steady as Fed Rate Hike Risks Loom - HarianBasis.co",
       "summary": "US Home Equity Rates Hold Steady as Fed Rate Hike Risks Loom&nbsp;&nbsp;HarianBasis.co",
@@ -396,6 +432,54 @@
       "status": "new",
       "ts": "2026-05-31T01:50:04.170258+05:00",
       "age_min": 86.6
+    },
+    {
+      "hash": "a5962246e9675c2d7a3117363b99e6f6",
+      "title": "Двойная игра в Ормузе : Катар платит Тегерану за проход судов через пролив , США в курсе",
+      "summary": "",
+      "link": "https://news.israelinfo.co.il/144575",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:16:36.213027+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "7320d23fd5d626b2ec40bcd483be863b",
+      "title": "Détroit dOrmuz : les États - Unis tirent un missile sur un cargo en route vers lIran",
+      "summary": "",
+      "link": "https://www.lessentiel.lu/fr/story/guerre-iran-israel-usa-americains-tirent-sur-un-cargo-tentant-de-rejoindre-l-iran-103484349",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:16:36.208476+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "38d05de83df7c4bbdbab4fad98ee296b",
+      "title": "US says it struck a commercial ship trying to breach blockade and reach Iran - Las Vegas Sun News",
+      "summary": "",
+      "link": "https://lasvegassun.com/news/2026/may/30/us-says-it-struck-a-commercial-ship-trying-to-brea/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:15:45.058047+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "25073af7ca2ca86746e6d2bee328a9d1",
+      "title": "Политолог Вадим Мингалев : Иран и Оман обсуждают новый механизм прохода судов через Ормузский пролив",
+      "summary": "",
+      "link": "https://argumenti.ru/opinion/2026/05/999190",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T03:15:45.057625+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "19d4ed6d24452ab21c027b57c8467bb6",
@@ -506,16 +590,16 @@
       "age_min": 106.4
     },
     {
-      "hash": "50be27258c313eb3ed171f6688217b22",
-      "title": "US says it struck a commercial ship trying to breach blockade and reach Iran",
+      "hash": "e3767997f60d766f0e6559a5d1a26a55",
+      "title": "US Military Strikes Gambia - Flagged Ship Violating Iran Blockade",
       "summary": "",
-      "link": "https://www.sun-sentinel.com/2026/05/30/us-says-it-struck-a-commercial-ship-trying-to-breach-blockade-and-reach-iran/",
+      "link": "https://www.channelstv.com/2026/05/30/us-military-strikes-gambia-flagged-ship-violating-iran-blockade/",
       "source": "GDELT/SANCTIONS",
       "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-05-31T02:16:26.448053+05:00",
-      "age_min": 91.4
+      "ts": "2026-05-31T03:17:08.050846+05:00",
+      "age_min": 32.1
     }
   ]
 }
