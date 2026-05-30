@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T07:19:32.910483+05:00",
+  "updated": "2026-05-30T07:40:02.464838+05:00",
   "items": [
     {
       "hash": "e8d46283e3bc76cd18da68341cd74341",
@@ -84,6 +84,18 @@
       "status": "new",
       "ts": "2026-05-30T03:47:26.785706+05:00",
       "age_min": 32.4
+    },
+    {
+      "hash": "f7805ffa80d084a2880852b33925169a",
+      "title": "RBI warns West Asia war may hurt India growth outlook",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-warns-west-asia-war-may-hurt-india-growth-outlook/articleshow/131402558.cms",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T07:39:15.434083+05:00",
+      "age_min": 24.3
     },
     {
       "hash": "341b6686a63913ce21d3e74f4bd39f41",
@@ -530,6 +542,30 @@
       "age_min": 32.9
     },
     {
+      "hash": "da29e4be66acc7dcd3805bf047fec39f",
+      "title": "RT by @MFA_China: #OnThisDay 70 years ago, China and Egypt shook hands, and Africa’s diplomatic ties with China began.\n\nIn the following decades, that friendship backed Africa’s fight for independence, helped restore China’s seat in the UN, delivered massive cooperation under #FOCAC, and, just a month ago, resulted in zero tariff for 53 African nations.",
+      "summary": "#OnThisDay 70 years ago, China and Egypt shook hands, and Africa’s diplomatic ties with China began.\n\nIn the following decades, that friendship backed Africa’s fight for independence, helped restore China’s seat in the UN, delivered massive cooperation under #FOCAC, and, just a month ago, resulted in zero tariff for 53 African nations.",
+      "link": "https://nitter.net/TheGoldenMean2/status/2060540785624498185#m",
+      "source": "ChinaMFA/X",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T07:39:53.583520+05:00",
+      "age_min": 43.6
+    },
+    {
+      "hash": "cdf604660c0daed765d47f5d2f2772a5",
+      "title": "Trump will  soon decide  on Iran ceasefire extension",
+      "summary": "",
+      "link": "https://www.canberratimes.com.au/story/9257435/trump-will-soon-decide-on-iran-ceasefire-extension/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T07:35:29.157062+05:00",
+      "age_min": 20.5
+    },
+    {
       "hash": "12aea458f83f30637bf37cc757e88c8a",
       "title": "Just days after ceasefire UAE launched attacks on Iran raining bombs on several cities सीजफायर के कुछ ही दिनों के बाद UAE ने ईरान पर किए थे हमले , कई शहरों पर बरसाए बम , International Hindi News",
       "summary": "",
@@ -564,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-30T06:33:23.842200+05:00",
       "age_min": -1331.6
-    },
-    {
-      "hash": "91c9187738d13630149d8fc468393f80",
-      "title": "Crude Oil Prices Supported as Strait of Hormuz Remains Closed",
-      "summary": "",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/crude-oil-prices-supported-strait-163621136.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T06:15:44.731079+05:00",
-      "age_min": -1349.3
     }
   ]
 }
