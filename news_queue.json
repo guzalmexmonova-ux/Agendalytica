@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T17:18:17.619148+05:00",
+  "updated": "2026-05-30T17:33:28.026257+05:00",
   "items": [
     {
       "hash": "009dc67f7ba55ac8b472d54266c1ddae",
@@ -62,18 +62,6 @@
       "age_min": 63.6
     },
     {
-      "hash": "6639b3cbca843c093f21502c7a51d4fa",
-      "title": "Australia's Defense Minister Marles on Hormuz Uncertainty",
-      "summary": "Australia's Defense Minister Richard Marles speaks to Bloomberg TV about how the Iran war is shaping his country's security outlook, and the importance of freedom of navigation through the seas. He speaks with Bloomberg's Haslinda Amin on the sidelines of the Shangri-La Dialogue. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-05-30/australia-s-marles-on-hormuz-uncertainty-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T13:19:56.400293+05:00",
-      "age_min": 19.9
-    },
-    {
       "hash": "622766a6ed56edaee83a6e593fa54358",
       "title": "Путин намекнул на вторжение в Армению и назвал причину",
       "summary": "",
@@ -110,6 +98,18 @@
       "age_min": 21.6
     },
     {
+      "hash": "487b67d2f3af6f3675d175fa7b4d0adb",
+      "title": "Gas Prices Set To Stay High Across 2026 – Even if Iran War Ends",
+      "summary": "",
+      "link": "https://www.newsweek.com/gas-prices-set-to-stay-high-even-if-iran-war-ends-12001888",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T17:32:05.150844+05:00",
+      "age_min": 32.1
+    },
+    {
       "hash": "b9ff2bbb12c4b149c024dbecc2b4f2e1",
       "title": "The Iran War , Shia militancy , and the next wave of global jihad",
       "summary": "",
@@ -120,6 +120,30 @@
       "status": "new",
       "ts": "2026-05-30T15:31:23.727529+05:00",
       "age_min": 61.4
+    },
+    {
+      "hash": "3e33906cba6f53db5e5631f1d3ad59c2",
+      "title": "Middle East on Edge as Trump Mulls Decision About Iran Deal",
+      "summary": "The president has wavered on whether to move ahead with an agreement with Iran to end the war. On Friday, he vowed to make a “final determination” soon.",
+      "link": "https://www.nytimes.com/2026/05/30/world/middleeast/trump-deal-middle-east-iran.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-30T17:32:44.895556+05:00",
+      "age_min": 3.8
+    },
+    {
+      "hash": "fe32de1cdb442aafa7b92500e40d087a",
+      "title": "Egypt warns Israel that dangerous Gaza escalations threaten ceasefire",
+      "summary": "Egypt races to salvage Gaza ceasefire as Israeli attacks and displacement threats push deal to the brink of collapse.",
+      "link": "https://www.aljazeera.com/news/2026/5/30/egypt-warns-israel-that-dangerous-gaza-escalations-threaten-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-30T17:32:44.741753+05:00",
+      "age_min": 28.2
     },
     {
       "hash": "ec622e0689f7e4b2b67d0488ac44b181",
@@ -146,30 +170,6 @@
       "age_min": 100.3
     },
     {
-      "hash": "79a95c30de759900eacbe35feebff25b",
-      "title": "US senator warns of Indo-Pacific risks as Hegseth stresses ‘quiet’ tactics",
-      "summary": "America’s latest defence strategy worryingly downgrades the importance of the Indo-Pacific, a US senator warned on Saturday, even as the Pentagon chief delivered a speech reassuring allies of commitment at a defence forum in Singapore.\nTammy Duckworth of Illinois, a staunch critic of the US-Israeli war on Iran, told a media round table at the Shangri-La Dialogue that she was concerned the Trump ad",
-      "link": "https://www.scmp.com/week-asia/politics/article/3355408/us-senator-warns-indo-pacific-risks-hegseth-stresses-quiet-tactics?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-30T13:19:59.070116+05:00",
-      "age_min": 10.0
-    },
-    {
-      "hash": "c1a83cd08223d92596fab1feb04dd4ab",
-      "title": "What to Know About the Drones That Have Been Crossing Into Romania",
-      "summary": "The strike on Friday, near the Ukrainian border, was the first to injure civilians in Romania, officials say. But drones from the nearby war have been a growing threat.",
-      "link": "https://www.nytimes.com/2026/05/29/world/europe/romania-drone-strike-what-to-know.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-30T13:19:57.984949+05:00",
-      "age_min": 19.1
-    },
-    {
       "hash": "a03f4ccd5cb7937ade359efbb514b539",
       "title": "Opinion : The Stock Market May Have Dodged a Bullet With Jerome Powell Staying at the Fed",
       "summary": "",
@@ -192,18 +192,6 @@
       "status": "new",
       "ts": "2026-05-30T14:30:53.125705+05:00",
       "age_min": 90.9
-    },
-    {
-      "hash": "a2a48b5842c006d4cdab18571168b4cc",
-      "title": "Qatar Says Temporary Toll at Strait of Hormuz Is Negotiable",
-      "summary": "Qatar opposes permanent legal fees for transit through the Strait of Hormuz, but a temporary toll is negotiable and could help restore normal passage through the key waterway, a top official said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-30/qatar-says-temporary-toll-at-strait-of-hormuz-is-negotiable",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T13:19:56.401916+05:00",
-      "age_min": 46.7
     },
     {
       "hash": "91196ad2c3f4c815f50c5dadb463b141",
@@ -362,6 +350,18 @@
       "age_min": 0
     },
     {
+      "hash": "ba2879fcbdfdc83d98ed0f7e95876c94",
+      "title": "Oil prices stabilize as investors monitor prospects for a U . S .- Iran ceasefire agreement",
+      "summary": "",
+      "link": "https://finance.yahoo.com/sectors/energy/articles/oil-prices-stabilize-investors-monitor-100944762.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-30T17:32:05.151853+05:00",
+      "age_min": 32.1
+    },
+    {
       "hash": "ca6ef0ff6fe305816bf2135bbb17e582",
       "title": "Israeli soldiers share rare accounts from Gaza , describing ongoing killings despite the ceasefire",
       "summary": "",
@@ -444,18 +444,6 @@
       "status": "new",
       "ts": "2026-05-30T14:30:40.616199+05:00",
       "age_min": 30.7
-    },
-    {
-      "hash": "449c0581cb0b3ab05131b196f2466ec5",
-      "title": "Israeli soldiers share rare accounts from Gaza , describing ongoing killings despite the ceasefire",
-      "summary": "",
-      "link": "https://www.thehindu.com/news/international/israeli-soldiers-share-rare-accounts-from-gaza-describing-ongoing-killings-despite-the-ceasefire/article71040528.ece",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T13:31:41.696719+05:00",
-      "age_min": 31.7
     },
     {
       "hash": "5511e3c3e9900d986577c315e92fc625",
