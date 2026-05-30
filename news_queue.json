@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-30T23:04:40.735794+05:00",
+  "updated": "2026-05-30T23:21:15.731503+05:00",
   "items": [
     {
       "hash": "1460925dc987d87a130a2948c5abb321",
@@ -276,6 +276,18 @@
       "status": "new",
       "ts": "2026-05-30T19:45:39.753375+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "5a06d728cd22d42845268ba53ecf6fa2",
+      "title": "Iran war news : U . S . blockade stops commercial ship",
+      "summary": "",
+      "link": "https://www.cp24.com/news/world/2026/05/30/us-says-it-disabled-another-commercial-ship-trying-to-breach-blockade-and-reach-iran/",
+      "source": "GDELT/SANCTIONS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-30T23:17:25.526112+05:00",
+      "age_min": 62.4
     },
     {
       "hash": "be8734de7b98286362546e2523f6887f",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-05-30T22:30:39.463318+05:00",
       "age_min": 30.7
-    },
-    {
-      "hash": "f00bf6c1c2ae23b4c56312792539bf1a",
-      "title": "Israeli Soldiers Share Rare Accounts from Gaza , Describing Ongoing Killings Despite the Ceasefire",
-      "summary": "",
-      "link": "https://www.military.com/israeli-soldiers-share-rare-accounts-from-gaza-describing-ongoing-killings-despite-the-ceasefire",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-30T21:46:14.159760+05:00",
-      "age_min": 31.2
     }
   ]
 }
