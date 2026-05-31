@@ -1,6 +1,30 @@
 {
-  "updated": "2026-05-31T18:33:19.732610+05:00",
+  "updated": "2026-05-31T18:47:54.316429+05:00",
   "items": [
+    {
+      "hash": "d7b629407bb7396e27cf63719ec59da3",
+      "title": "Ukraine hits Russian energy targets and denies striking Kremlin - occupied nuclear plant",
+      "summary": "",
+      "link": "https://www.stcatharinesstandard.ca/news/world/europe/ukraine-hits-russian-energy-targets-and-denies-striking-kremlin-occupied-nuclear-plant/article_db4a8c17-7639-5771-9dfa-eac987a8e78f.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T18:45:45.446607+05:00",
+      "age_min": 45.8
+    },
+    {
+      "hash": "8928e1dac46dd4f2592cc3886c0227d4",
+      "title": "Ukraine Combat Drone Hits Zaporozhye Nuclear Power Plant Energy Bloc",
+      "summary": "",
+      "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/05/ukraine-260530-sputnik01.htm",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T18:45:38.306509+05:00",
+      "age_min": 45.6
+    },
     {
       "hash": "43feb687d916b754a74f377c0f37a720",
       "title": "Ukraine hits Russian energy targets but denies striking nuclear plant",
@@ -170,18 +194,6 @@
       "age_min": 45.8
     },
     {
-      "hash": "04978f959b1753a00cd793780623d04d",
-      "title": "Trump claims Iran has agreed to no nuclear weapons",
-      "summary": "",
-      "link": "https://arynews.tv/trump-claims-iran-agreed-no-nuclear-weapons",
-      "source": "GDELT/ENERGY",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-31T14:46:28.155964+05:00",
-      "age_min": 31.5
-    },
-    {
       "hash": "b17bf06a53457656a5a4eb25a7175b54",
       "title": "Is Hong Kong winning the war on cancer or facing new battle in late diagnosis ?",
       "summary": "",
@@ -288,6 +300,18 @@
       "status": "new",
       "ts": "2026-05-31T15:32:46.856013+05:00",
       "age_min": 8.2
+    },
+    {
+      "hash": "b3058e9b758dc1115f83b1a155267f5b",
+      "title": "Lex - président de la Fed Jerome Powell reçoit un prix pour avoir résisté aux pressions de Trump",
+      "summary": "",
+      "link": "https://www.tvanouvelles.ca/2026/05/31/lex-president-de-la-fed-jerome-powell-recoit-un-prix-pour-avoir-resiste-aux-pressions-de-trump",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T18:46:11.919167+05:00",
+      "age_min": 46.2
     },
     {
       "hash": "39ec8d45050d8ae8cfeec0c15b781c44",
@@ -470,54 +494,6 @@
       "age_min": 3.0
     },
     {
-      "hash": "aa26cc2b68866fd8529d3a2681981798",
-      "title": "Trump tightens terms on Iran war deal, US media say",
-      "summary": "US officials indicate Tehran may take days to respond to Trump&#039;s tougher terms on a potential peace agreement.",
-      "link": "https://www.aljazeera.com/news/2026/5/31/trump-tightens-terms-on-iran-war-deal-us-media-say?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-31T14:39:05.116162+05:00",
-      "age_min": 24.1
-    },
-    {
-      "hash": "9a37815fc612018afc0f85ff6a1d4d6e",
-      "title": "Israele senza freni continua a bombardare il Libano pericolosa escalation mai vista prima",
-      "summary": "",
-      "link": "https://www.zazoom.it/2026-05-31/israele-senza-freni-continua-a-bombardare-il-libano-pericolosa-escalation-mai-vista-prima/19279455/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-31T14:38:04.655200+05:00",
-      "age_min": 23.1
-    },
-    {
-      "hash": "3c05a98f875c86a7ab7eb3e62135d057",
-      "title": "Bondi Beach terror attack probed as ASIO and NSW Police face scrutiny at anti - Semitism Royal Commission",
-      "summary": "",
-      "link": "https://www.perthnow.com.au/news/australia/royal-commission-hears-how-10-people-were-killed-in-29-seconds-of-bondi-terror-attack-c-22361679",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-05-31T14:38:04.654224+05:00",
-      "age_min": 113.1
-    },
-    {
-      "hash": "de79f1431d62e95f2c503ad9e2de7616",
-      "title": "‘You want to come out of this with a win’: Ray Dalio says gold should be 5-15% of your portfolio in wake of Iran war - AOL.com",
-      "summary": "‘You want to come out of this with a win’: Ray Dalio says gold should be 5-15% of your portfolio in wake of Iran war&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vTnM0enhGNVNsMkg5ZDRJeE00Z2RiUURFX1htclZWX2hDX1FtcDVQeUFvWFpWSXl3Z2tSX0l0Z2s2T0lmSlpMSkZMZkVyY3AzUHNQTDdZcDBqcHdzUnRFeElmbTU2djltX1owakNzSnVCTVlGU1E?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-05-31T14:33:20.221411+05:00",
-      "age_min": 69.0
-    },
-    {
       "hash": "abb20755148d7898be0969a6cb8433d1",
       "title": "How Bitcoin Reacted to Every Fed Rate Hike Over the Last 5 Years - Coindoo",
       "summary": "How Bitcoin Reacted to Every Fed Rate Hike Over the Last 5 Years&nbsp;&nbsp;Coindoo",
@@ -528,6 +504,18 @@
       "status": "new",
       "ts": "2026-05-31T15:17:57.027284+05:00",
       "age_min": 3.6
+    },
+    {
+      "hash": "1333f61304937e5a82ecda51166c9ba0",
+      "title": "Putin missile base  revealed  where Russia  could hit London with nukes in 8min | World | News",
+      "summary": "",
+      "link": "https://www.express.co.uk/news/world/2211668/putins-secret-missile-base-revealed",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-05-31T18:45:45.444183+05:00",
+      "age_min": 60.8
     },
     {
       "hash": "4ac5adbfbdf440f14fb2c4a0408463da",
@@ -588,6 +576,18 @@
       "status": "new",
       "ts": "2026-05-31T16:16:40.875504+05:00",
       "age_min": 46.7
+    },
+    {
+      "hash": "ee06d232b679b4a6cc28b5ce0972ce04",
+      "title": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street - AOL.com",
+      "summary": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street&nbsp;&nbsp;AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDM3RSM0R3am5STzd6SXJCVzFqbElleGlqR1M4QnNJMjllZGI2RVYwakRuOEpoYnBMTGlzUVBqcUtHWGxDMGRINjJMQ1BTbTg5UUowZ3U4VlFQTUljRVV0ZU9TZFU3Q1lPQ1A0YkdDT3JiYlk4UUE?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-05-31T18:47:30.607101+05:00",
+      "age_min": 6.4
     },
     {
       "hash": "61c4aab92a5ce65fd40f90e296cb72b5",
