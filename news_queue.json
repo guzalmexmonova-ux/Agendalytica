@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-02T03:03:31.992162+05:00",
+  "updated": "2026-06-02T03:18:02.288451+05:00",
   "items": [
+    {
+      "hash": "9ae3b91f7467e313cba2e05314d45789",
+      "title": "Australian Wheat Crop Expected to Drop 26% on Weather, War Costs",
+      "summary": "Australia’s winter wheat crop is forecast to fall by more than a quarter in the 2026/27 season due to unusually dry weather, low global prices and higher input costs resulting from the war in the Middle East.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-01/australian-wheat-crop-expected-to-drop-26-on-weather-war-costs",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T03:17:17.765483+05:00",
+      "age_min": 17.3
+    },
     {
       "hash": "1b836531da7f657e36dc4bdc33e26013",
       "title": "Iran Vows to Fully Seal the Strait of Hormuz as US Talks Collapse and Oil Surges 7 %",
@@ -156,18 +168,6 @@
       "status": "new",
       "ts": "2026-06-01T23:18:07.752362+05:00",
       "age_min": 86.5
-    },
-    {
-      "hash": "dc53af5b0d41e8d6b828054963ac30d4",
-      "title": "Glory to Ukraine in its war with Russia as seeks victory",
-      "summary": "",
-      "link": "https://www.longislandpress.com/2026/06/01/glory-to-ukraine-geraldo-rivera/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T23:15:57.181110+05:00",
-      "age_min": 31.0
     },
     {
       "hash": "722fe86b11dee00313ad8b02c2e6a2a3",
@@ -374,42 +374,6 @@
       "age_min": 40.7
     },
     {
-      "hash": "567505d9f2ac398a9e6b2dc154ca71b2",
-      "title": "Analysts Tell OPEC+ Hormuz Disruption to Last Through Year End",
-      "summary": "Oil industry experts have told OPEC+ that supply disruption caused by the closure of the Strait of Hormuz will persist to the end of the year, even if the waterway reopens promptly.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-01/analysts-tell-opec-hormuz-disruption-to-last-through-year-end",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T23:17:27.573032+05:00",
-      "age_min": 11.3
-    },
-    {
-      "hash": "c21d72c7babe298861f9cde7f4a11e5d",
-      "title": "Powell uses award speech to warn against political pressure on Fed",
-      "summary": "",
-      "link": "https://www.dailydemocrat.com/2026/06/01/jerome-powell-jfk-award/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T23:16:38.573894+05:00",
-      "age_min": 31.6
-    },
-    {
-      "hash": "4c471137860e1b30aea776ec5bc6df4f",
-      "title": "Central bank faces political  stress test  that threatens economy , ex - Fed Chair Powell says",
-      "summary": "",
-      "link": "https://abcnews.com/Business/central-bank-faces-political-stress-test-threatens-economy/story?id=133479923",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T23:16:38.572050+05:00",
-      "age_min": 31.6
-    },
-    {
       "hash": "319e972027b5d3b76fec1e8719b2ad4a",
       "title": "Dow Jones Slides as Iran Severs Nuclear Talks and Oil Prices Spike - MEXC",
       "summary": "Dow Jones Slides as Iran Severs Nuclear Talks and Oil Prices Spike&nbsp;&nbsp;MEXC",
@@ -420,6 +384,18 @@
       "status": "new",
       "ts": "2026-06-02T01:18:15.911571+05:00",
       "age_min": 24.2
+    },
+    {
+      "hash": "3a5bc4523b29d05aeca08ca2c07320ff",
+      "title": "Drone attack blamed for cargo vessel explosion near Iraq",
+      "summary": "",
+      "link": "http://www.jpost.com/middle-east/article-898033",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T03:15:49.531248+05:00",
+      "age_min": 90.8
     },
     {
       "hash": "44c876178380ae7e3bf194b9ed119913",
@@ -600,6 +576,18 @@
       "status": "new",
       "ts": "2026-06-02T01:18:15.911075+05:00",
       "age_min": 1.6
+    },
+    {
+      "hash": "c458edca572ac39a1117ec41b46c4dab",
+      "title": "Сбер видит десятикратный рост мошеннических атак с использованием дипфейков",
+      "summary": "",
+      "link": "https://tass.ru/ekonomika/27606893",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T03:17:21.438255+05:00",
+      "age_min": 16.4
     }
   ]
 }
