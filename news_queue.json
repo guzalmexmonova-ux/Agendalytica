@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T22:04:05.430994+05:00",
+  "updated": "2026-06-01T22:17:53.859616+05:00",
   "items": [
     {
       "hash": "4a7ae8fac7d96dbd6f91761379016bd3",
@@ -14,18 +14,6 @@
       "age_min": 6.6
     },
     {
-      "hash": "7ec48e4a65ff62f91abdebcb32f344f4",
-      "title": "Война в Украине - Трамп обратился к Си Цзиньпину за помощью",
-      "summary": "",
-      "link": "https://www.unian.net/world/voyna-v-ukraine-tramp-obratilsya-k-si-czinpinu-za-pomoshchyu-13399116.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T18:15:56.232229+05:00",
-      "age_min": 45.9
-    },
-    {
       "hash": "2ba79de8aafb31c8b85cefac2e6b46f6",
       "title": "Opinion : Why diversification matters more in nuclear fuel than in oil or gas",
       "summary": "",
@@ -36,6 +24,18 @@
       "status": "new",
       "ts": "2026-06-01T21:16:40.927754+05:00",
       "age_min": 31.7
+    },
+    {
+      "hash": "7d197e410272e8498e9813ac6669ac97",
+      "title": "The battle for Crimea could decide Putin war - London Business News",
+      "summary": "",
+      "link": "https://londonlovesbusiness.com/the-battle-for-crimea-could-decide-putins-war/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T22:15:54.671836+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "385fe6643a0e3d95dd9ff45ef8aa6844",
@@ -108,18 +108,6 @@
       "status": "new",
       "ts": "2026-06-01T18:32:10.803054+05:00",
       "age_min": 32.2
-    },
-    {
-      "hash": "1d452f6617e2ed11fa9f1426a4b9c3ec",
-      "title": "Oil prices up as US toughens terms of Iran war agreement",
-      "summary": "",
-      "link": "https://www.jamaicaobserver.com/2026/06/01/oil-prices-us-toughens-terms-iran-war-agreement/",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T18:16:36.758743+05:00",
-      "age_min": 46.6
     },
     {
       "hash": "166464386d5a7107b46f840ce429128c",
@@ -290,6 +278,18 @@
       "age_min": 7.9
     },
     {
+      "hash": "44c876178380ae7e3bf194b9ed119913",
+      "title": "Trump tells CNBC: 'I don't care' if Iran negotiations are over",
+      "summary": "President Trump spoke with CNBC's Eamon Javers about the latest with the Iran war in an interview Monday.",
+      "link": "https://www.cnbc.com/2026/06/01/trump-iran-war-negotiations-oil-israel-interview.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-01T22:17:11.957080+05:00",
+      "age_min": 0.8
+    },
+    {
       "hash": "cd871529ace288c82d8ad1d56b2b77ac",
       "title": "Central bank faces political 'stress test' that threatens economy, ex-Fed Chair Powell says - ABC News - Breaking News, Latest News and Videos",
       "summary": "Central bank faces political 'stress test' that threatens economy, ex-Fed Chair Powell says&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
@@ -362,16 +362,16 @@
       "age_min": 51.4
     },
     {
-      "hash": "2c57a9dd1a223c79934a6b1428c23d4e",
-      "title": "Скандал з УПА в Польщі - від Зеленського вимагають вибачень перед Навроцьким",
-      "summary": "",
-      "link": "https://24tv.ua/geopolitics/skandal-upa-polshhi-vid-zelenskogo-vimagayut-vibachen-pered-navrotskim_n3078966",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
+      "hash": "087c5938972d97a3e688eec60f21a50f",
+      "title": "Jerome Powell issues warning as he’s honored for standing up to Trump - MSN",
+      "summary": "Jerome Powell issues warning as he’s honored for standing up to Trump&nbsp;&nbsp;MSN",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPR0ZoUzh2R1laOThPVDZXTUlPcXhrSmo1QVF6Q2E2ODk3WjRaY1c3cXhfWE9UUUlJSG9LMGZfdS1KQnh0TXY3blVxZlVJS0JERmxaTnJpQ0JfRkVrNEducVhHOWpOQm5LQnRQZC05YlNQS0x6WkZ4bmNKUXdnb3puVFV3cWZBX1VMcXYzeGJ1S1VROFEwS1N2ZmFYOVU2N1hvZ2NDaWtYdE4zV1ZacUZFX2EwRFNMQVdNc194ZmRUamtwWXFlVU5rQzQ1ZnFGWS1GdVhUWmdxQklsQ0MwdVhIYTVqLU0zZER0MTJxTFEtTnNfQkttcE1QQy0zOUxfdw?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-01T18:15:56.236840+05:00",
-      "age_min": 45.9
+      "ts": "2026-06-01T22:17:37.413881+05:00",
+      "age_min": 11.3
     },
     {
       "hash": "f2916a63c1f171e1ab14e3b7df869d0e",
