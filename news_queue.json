@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-01T12:03:33.303160+05:00",
+  "updated": "2026-06-01T12:17:49.973225+05:00",
   "items": [
+    {
+      "hash": "1323a4f5f1b89d68f66638044a54d6fd",
+      "title": "Turkey’s Economy Surprises With Slower Than Expected Growth",
+      "summary": "Turkey’s economy grew slower than expected in the first quarter, signaling that the the fallout from the Iran war is weighing on activity.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-01/turkey-s-economy-surprises-with-slower-than-expected-growth",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:17:01.579822+05:00",
+      "age_min": 13.0
+    },
+    {
+      "hash": "6cf1bf91a976f893ac7b498e8e3fe379",
+      "title": "Goldman Sachs: Oil Price Swings Hurt China Manufacturing",
+      "summary": "Hui Shan, Chief China Economist at Goldman Sachs, says oil price fluctuations due to the war in Iran have negatively affected China's factory activity, which showed signs of weakness in May. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-01/goldman-sachs-oil-price-swings-hurt-china-manufacturing-video",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:17:01.579407+05:00",
+      "age_min": 7.5
+    },
     {
       "hash": "659139e1e2facae195f900c56b41e275",
       "title": "UK House Prices Plunge as Loan Costs Bite, Nationwide Says",
@@ -86,40 +110,28 @@
       "age_min": 19.1
     },
     {
-      "hash": "73b06c39ae00a67fb1091fad640f3c9f",
-      "title": "US - Israel - Iran War Live Updates : Trump says  most of the agreement  with Iran focuses on nuclear issues",
+      "hash": "699a16134778af7419cb7381040a511a",
+      "title": "El paraguas nuclear francés se abre para proteger a toda Europa",
       "summary": "",
-      "link": "https://timesofindia.indiatimes.com/world/middle-east/us-israel-iran-war-live-updates-donald-trump-ceasefire-deal-tehran-strait-of-hormuz-middle-east-conflict-netanyahu-lebanon-attack-latest-news/liveblog/131429140.cms",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
+      "link": "https://www.laverdad.es/internacional/europa/paraguas-nuclear-frances-abre-proteger-europa-20260531193021-ntrc.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-01T08:16:05.535206+05:00",
-      "age_min": 31.1
+      "ts": "2026-06-01T12:15:35.483377+05:00",
+      "age_min": 30.6
     },
     {
-      "hash": "67b7a6c9d3a7510a7e07aa0170274b14",
-      "title": "US - Iran war LIVE : US proposes fresh Israel - Lebanon ceasefire ; calls on Hezbollah to take 1st step",
+      "hash": "249489b8b3acccfe4ea83c36f1a54b49",
+      "title": "Why Congress and senior officials must deny Trump a  nuclear escape  in Iran « nuclear - news",
       "summary": "",
-      "link": "https://www.hindustantimes.com/world-news/us-iran-war-news-live-updates-ceasefire-peace-deal-donald-trump-strikes-strait-of-hormuz-netanyahu-israel-lebanon-latest-101780276988973.html",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
+      "link": "https://nuclear-news.net/2026/06/01/2-b1-why-congress-and-senior-officials-must-deny-trump-a-nuclear-escape-in-iran/",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-01T08:16:05.533718+05:00",
-      "age_min": 31.1
-    },
-    {
-      "hash": "bebd0c14400ce076c49033bce889b6ae",
-      "title": "ECB’s Schnabel Sees Risk of Unanchored Inflation Views From War",
-      "summary": "The European Central Bank can no longer look through the inflationary impact of the war in Iran as price pressures spread beyond energy and the risk of unanchored inflation expectations rises, according to Executive Board member Isabel Schnabel.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-01/ecb-s-schnabel-sees-risk-of-unanchored-inflation-views-from-war",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T08:05:24.779413+05:00",
-      "age_min": 18.3
+      "ts": "2026-06-01T12:15:35.478947+05:00",
+      "age_min": 75.6
     },
     {
       "hash": "9548c40eb96b599139861eebe0345929",
@@ -144,18 +156,6 @@
       "status": "new",
       "ts": "2026-06-01T09:15:34.744680+05:00",
       "age_min": 90.6
-    },
-    {
-      "hash": "cfd5b42467f887b4be7eeecc2d27eb82",
-      "title": "Ukraine hits Russian energy targets and denies striking Kremlin - occupied nuclear plant",
-      "summary": "",
-      "link": "https://www.news8000.com/news/politics/national-politics/ukraine-hits-russian-energy-targets-and-denies-striking-kremlin-occupied-nuclear-plant/article_6d9e6160-bfbe-548d-a156-ee8ddb75e00e.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T08:15:54.925114+05:00",
-      "age_min": 30.9
     },
     {
       "hash": "9d76aa0afa5c90ea5f8568af3f12b376",
@@ -410,6 +410,18 @@
       "age_min": 47.5
     },
     {
+      "hash": "edba070ecb9282eae435c4c336315f96",
+      "title": "US Pushes Israel - Lebanon De - Escalation Plan as Hezbollah Tensions Escalate in Southern Lebanon",
+      "summary": "",
+      "link": "http://www.econotimes.com/US-Pushes-Israel-Lebanon-De-Escalation-Plan-as-Hezbollah-Tensions-Escalate-in-Southern-Lebanon-1743124",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:15:35.481226+05:00",
+      "age_min": 45.6
+    },
+    {
       "hash": "05cd844f29b38ad2edc679ead7fe2252",
       "title": "U . S . says it struck Iranian military sites , Tehran responds with air base attack",
       "summary": "",
@@ -530,6 +542,18 @@
       "age_min": 88.6
     },
     {
+      "hash": "27c92366e0db279e9c52100bdb583a2a",
+      "title": "Iran reopens majority of underground missile sites : Report",
+      "summary": "",
+      "link": "https://aninews.in/news/world/us/iran-reopens-majority-of-underground-missile-sites-report20260601084814/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:15:35.483603+05:00",
+      "age_min": 75.6
+    },
+    {
       "hash": "ddb3934490804b89695c4504aea74c2d",
       "title": "An LNG glut is on its way",
       "summary": "",
@@ -542,6 +566,18 @@
       "age_min": 61.6
     },
     {
+      "hash": "0dfe3351556b12452a39140aca2d65dd",
+      "title": "Пушилин: для атак на трассы Донбасса ВСУ используют подконтрольные США спутники",
+      "summary": "Добиться технического превосходства за счет новых систем управления беспилотниками противнику не удалось, отметил глава ДНР",
+      "link": "https://tass.ru/obschestvo/27596205",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-01T12:17:04.420020+05:00",
+      "age_min": 3.7
+    },
+    {
       "hash": "e9fbcd611f5a1edb075c5d243fd0cafd",
       "title": "Gold and Silver Forecast: Strong Dollar Pressures XAUUSD as Silver Defends $72 - FXEmpire",
       "summary": "Gold and Silver Forecast: Strong Dollar Pressures XAUUSD as Silver Defends $72&nbsp;&nbsp;FXEmpire",
@@ -552,6 +588,18 @@
       "status": "new",
       "ts": "2026-06-01T11:47:48.678136+05:00",
       "age_min": 6.8
+    },
+    {
+      "hash": "e09c94c6300e52e6a2f5a7dca8c234d1",
+      "title": "Путин поручил контролировать реализацию Мурманского СПГ",
+      "summary": "",
+      "link": "https://tass.ru/ekonomika/27596149",
+      "source": "TASS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-01T12:17:04.422307+05:00",
+      "age_min": 8.8
     }
   ]
 }
