@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T18:18:46.095747+05:00",
+  "updated": "2026-06-01T18:34:05.746458+05:00",
   "items": [
     {
       "hash": "7ec48e4a65ff62f91abdebcb32f344f4",
@@ -36,18 +36,6 @@
       "status": "new",
       "ts": "2026-06-01T17:17:04.052270+05:00",
       "age_min": 17.1
-    },
-    {
-      "hash": "3273ad49b76d14fec7b2d1a4308fba83",
-      "title": "South Africa Factory Sentiment Worsens as Demand Fades",
-      "summary": "South Africa’s manufacturer sentiment worsened slightly in May as demand slumped and supply disruptions due to the Iran war continued.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-01/south-africa-factory-sentiment-worsens-as-demand-fades",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T14:32:46.752311+05:00",
-      "age_min": 32.0
     },
     {
       "hash": "3bb0e9dbedd0f21434fc9b86810ff0fa",
@@ -108,6 +96,30 @@
       "status": "new",
       "ts": "2026-06-01T15:00:49.208597+05:00",
       "age_min": 60.8
+    },
+    {
+      "hash": "b8267874ecefe28f9c89f320fbeb195b",
+      "title": "U . S . Households Have Paid Nearly $450 More Since Iran War Began , Analysis Shows",
+      "summary": "",
+      "link": "https://www.ibtimes.com/us-households-have-paid-nearly-450-more-since-iran-war-began-analysis-shows-3803519",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T18:32:10.804715+05:00",
+      "age_min": 32.2
+    },
+    {
+      "hash": "19988ac2e824414d75a2c9224b924fdb",
+      "title": "US Stock Market Today | Dow Jones | Nasdaq Live : US stock futures rise as AI push eclipses US - Iran war ; Nvidia , Microsoft up",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-live-dow-jones-sp-500-nasdaq-iran-war-brent-oil-price-nvidia-microsoft-micron-broadcom-dell-cadence-qualcomm-intel-amd-apple-ai-chip-tech-stocks/liveblog/131442699.cms",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T18:32:10.803054+05:00",
+      "age_min": 32.2
     },
     {
       "hash": "1d452f6617e2ed11fa9f1426a4b9c3ec",
@@ -278,18 +290,6 @@
       "age_min": 3.1
     },
     {
-      "hash": "fc6fb0c56b74dbfaa0f4ff1c3343d1eb",
-      "title": "How Lebanon’s Best Chance to Disarm Hezbollah Failed",
-      "summary": "Lebanon’s government has long wanted the powerful militia to give up its weapons. Before the Iran war began, there were signs of progress toward that goal.",
-      "link": "https://www.nytimes.com/2026/06/01/world/middleeast/lebanon-hezbollah-disarm.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-01T14:32:47.682322+05:00",
-      "age_min": 11.5
-    },
-    {
       "hash": "fefe6f20556bb41cfc47df3683f98319",
       "title": "Powell avisa : ataques de Trump são  testes de stress  para a Fed",
       "summary": "",
@@ -360,18 +360,6 @@
       "status": "new",
       "ts": "2026-06-01T15:17:25.850800+05:00",
       "age_min": 5.9
-    },
-    {
-      "hash": "09b970bfc5ddbc08db95cee99e3f96db",
-      "title": "[ Column ] From complete denuclearization of North Korea to managing nuclear risk",
-      "summary": "",
-      "link": "https://www.hani.co.kr/arti/english_edition/english_editorials/1261400.html",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-01T14:32:28.961032+05:00",
-      "age_min": 32.5
     },
     {
       "hash": "82c6680b39fd13c492fdeffcba898da5",
@@ -530,28 +518,16 @@
       "age_min": 18.5
     },
     {
-      "hash": "8a39c24a175981ac38cb29e36aec98ae",
-      "title": "New Fed Chair Kevin Warsh Has Big Plans . They Could End the Trump Bull Market .",
-      "summary": "",
-      "link": "https://www.fool.com/investing/2026/06/01/new-fed-chair-kevin-warsh-has-big-plans-they-could/",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
+      "hash": "8078a0d7eac31118e0c78e7cd82ccaea",
+      "title": "Powell Wins JFK Courage Award, Reprimands Trump - Heisenberg Report",
+      "summary": "Powell Wins JFK Courage Award, Reprimands Trump&nbsp;&nbsp;Heisenberg Report",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU1ZyNVZsUmg2QWVJbzFlcEJFV05tVUZ3ekRkN3c2NkRKbWZ5eWlqMmZqdnY4aHFSU2g1bFhXUEFaY2xiY0tFN29JcXVSMnR2T0drNXVqbVZTMmd3RU1ibk5LTlN2SkE1dFJjcjBuWnhtSVBKTFJrdjd4Mjc5VjJJQXcwZDZ5Umh4Z1J5WGg0Y0QwZTNabEZSeExJVHdNLUN6eTV5bg?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-01T14:32:41.372016+05:00",
-      "age_min": 92.7
-    },
-    {
-      "hash": "f8c6bcfb20b52d8c74b91a5343d2743f",
-      "title": "Japan Bond Yields ; अखेर बुडबुडा फुटला ... बॉण्ड मार्केटमध्ये वाढती अस्थिरता , 40 वर्षांचा विक्रम मोडला ; धोक्याची घंटा , बँकांचे व्याजदर वाढणार ?",
-      "summary": "",
-      "link": "https://maharashtratimes.com/business/share-bazaar/japanese-bond-yields-highest-in-40-years-budget-pm-takaichi-red-flag-leaves-markets-nervous/articleshow/131434107.cms",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T14:32:41.368484+05:00",
-      "age_min": 47.7
+      "ts": "2026-06-01T18:33:44.068246+05:00",
+      "age_min": 12.4
     },
     {
       "hash": "2346aeaa25d8bbb69a92321dbaad2a4e",
