@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-01T12:33:31.455392+05:00",
+  "updated": "2026-06-01T12:47:32.997774+05:00",
   "items": [
     {
       "hash": "1323a4f5f1b89d68f66638044a54d6fd",
@@ -98,18 +98,6 @@
       "age_min": 2.6
     },
     {
-      "hash": "62f1567bfb240fbdd9fe435c512619f4",
-      "title": "India Keeps Local Jet Fuel Prices Unchanged After Airline Plea",
-      "summary": "India’s state-owned oil refiners have kept jet fuel prices steady for local flights following a plea from airlines to hold off on further hikes as they grapple with the fallout from the Iran war.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-01/india-keeps-local-jet-fuel-prices-unchanged-after-airline-plea",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T08:46:48.991743+05:00",
-      "age_min": 19.1
-    },
-    {
       "hash": "699a16134778af7419cb7381040a511a",
       "title": "El paraguas nuclear francés se abre para proteger a toda Europa",
       "summary": "",
@@ -156,6 +144,18 @@
       "status": "new",
       "ts": "2026-06-01T09:15:34.744680+05:00",
       "age_min": 90.6
+    },
+    {
+      "hash": "e922986da5444c4b04ef37d1855b727c",
+      "title": "India bonds dip as Middle East war woes add to policy week caution",
+      "summary": "",
+      "link": "https://www.thehindubusinessline.com/markets/india-bonds-dip-as-middle-east-war-woes-add-to-policy-week-caution/article71047112.ece",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.741410+05:00",
+      "age_min": 61.3
     },
     {
       "hash": "9d76aa0afa5c90ea5f8568af3f12b376",
@@ -252,6 +252,78 @@
       "status": "new",
       "ts": "2026-06-01T10:46:37.908467+05:00",
       "age_min": 31.6
+    },
+    {
+      "hash": "547a03f9497b9c3ba0ed8e85f7d4675d",
+      "title": "No need for repo rate hike in this policy , RBI can use short - term rate tools to manage rupee says SBI Report",
+      "summary": "",
+      "link": "http://www.irishsun.com/news/279094804/no-need-for-repo-rate-hike-in-this-policy-rbi-can-use-short-term-rate-tools-to-manage-rupee-says-sbi-report",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.743170+05:00",
+      "age_min": 46.3
+    },
+    {
+      "hash": "9495a101b52400bbcc47dbfca705eccd",
+      "title": "SBI Report : No Repo Rate Hike Needed , Use Short - Term Tools for Rupee",
+      "summary": "",
+      "link": "https://www.newkerala.com/news/a/no-need-repo-rate-hike-this-policy-rbi-502.htm",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.740549+05:00",
+      "age_min": 76.3
+    },
+    {
+      "hash": "c6745e93d611d063d4421bfa2a676e1d",
+      "title": "Powell défend lindépendance de la Fed face aux pressions de Trump",
+      "summary": "",
+      "link": "https://latele.ch/articles/l-ex-president-de-la-fed-powell-defend-l-independance-de-la-banque",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.740261+05:00",
+      "age_min": 76.3
+    },
+    {
+      "hash": "9b8bb7212e5937b49d42079dc792ee1b",
+      "title": "Ex - US Fed Chair Powell warns against politicisation amid Trump attacks | Business and Economy",
+      "summary": "",
+      "link": "https://www.aljazeera.com/economy/2026/6/1/ex-us-fed-chair-powell-warns-against-politicisation-amid-trumps-attacks",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.739650+05:00",
+      "age_min": 46.3
+    },
+    {
+      "hash": "f664ade774cb47a0dc0ac2678d3bad45",
+      "title": "Jerome Powell defends Fed and other institutions as pillars of democracy",
+      "summary": "",
+      "link": "https://www.wdbo.com/news/business/jerome-powell-uses/PAQ55ZS4HY767GT3GHIUXKXC5A/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.738707+05:00",
+      "age_min": 106.3
+    },
+    {
+      "hash": "32bcda8d3b47aea95f730309d9c39b48",
+      "title": "Jerome Powell uses JFK award speech to warn against political pressure on Fed , courts and schools - Boston News , Weather , Sports",
+      "summary": "",
+      "link": "https://whdh.com/news/jerome-powell-uses-jfk-award-speech-to-warn-against-political-pressure-on-fed-courts-and-schools/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-01T12:46:16.735737+05:00",
+      "age_min": 31.3
     },
     {
       "hash": "958309acffe95a40c087f9e034e80669",
@@ -494,18 +566,6 @@
       "age_min": 31.1
     },
     {
-      "hash": "58f965997d566a222bf75ac406e92673",
-      "title": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools - ABC News - Breaking News, Latest News and Videos",
-      "summary": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools&nbsp;&nbsp;ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3dRSlJrWjBnZkdwWUdHVUFtd3JaYVFwUVBHenZBUHZhcEdlYUtENkhoZV9UZi15WVp4b0lULUdaZFpEdnd3dDJaUVdDa1FYczJZQ0lSQl9ub1NlOUFuSnEydDdjWVY4blh2MmU2S1FkYjJraUoyck4yc2lUWGlHWEFTV1M4SzJ2SEh2VnhraG1tb3ExT0xYNHZNM19xZ9IBowFBVV95cUxOekRVb1FuVnIwUkhfMGdaSWlNUjF0SHZWN0ZLZDRPc0VYNXhOQmNwdHVRSEZfWU9UMnFlT1duajh6T1Jzb3o2bFMzS2lHMTk0RmEtb29zX1pvYVZ1SGZqS0ctNU9kSVNSOXVIcVAwQ3RmcnRQdFZONFlGRTNGVnk0Wk10R0pMWmRrb2ZBblZsZmR3R0VQMzlXcXBkMHdVSmplajlR?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-01T08:47:13.322475+05:00",
-      "age_min": 26.8
-    },
-    {
       "hash": "9c1409a0333bcce3021cb9cd9a701c50",
       "title": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools - Bay to Bay News",
       "summary": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools&nbsp;&nbsp;Bay to Bay News",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-06-01T11:03:52.083949+05:00",
       "age_min": 84.9
-    },
-    {
-      "hash": "cf3a466e24cd7e38578bccfaaf0ee05d",
-      "title": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools - The Seattle Times",
-      "summary": "Jerome Powell uses JFK award speech to warn against political pressure on Fed, courts and schools&nbsp;&nbsp;The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRm0tejQzdDVGM2NBVDdNMDFVZmExcFJ3YnhOTmk3cVAzaUdrdUFsSGgzVGV1aWZVY2xMbEFOSUlfY3VqbnJtMWZuS0Nhc2pHSVlzSFk3cDBMN2JIREtBdU9WbnNfVFM0QXlKUXROb2ZDOU9YUEhBWkpNWGNoeHJTLXY0dm1Rd0E3b2RQaGptNGVHTGloZlN1N3RqOEdETG5WNmtONUlQR0s0U3BUMG5xLTdlN1BFTnRyd1NyZjVEV1RmNGlYWEN5WDFxT2htbWhC?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-01T11:03:52.081816+05:00",
-      "age_min": 88.6
-    },
-    {
-      "hash": "27c92366e0db279e9c52100bdb583a2a",
-      "title": "Iran reopens majority of underground missile sites : Report",
-      "summary": "",
-      "link": "https://aninews.in/news/world/us/iran-reopens-majority-of-underground-missile-sites-report20260601084814/",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T12:15:35.483603+05:00",
-      "age_min": 75.6
-    },
-    {
-      "hash": "ddb3934490804b89695c4504aea74c2d",
-      "title": "An LNG glut is on its way",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/strait-of-hormuz-an-lng-glut-is-on-its-way-and-india-is-likely-to-be-affected-iran-us-ceasefire/articleshow/131433980.cms",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-01T11:46:38.857946+05:00",
-      "age_min": 61.6
-    },
-    {
-      "hash": "0dfe3351556b12452a39140aca2d65dd",
-      "title": "Пушилин: для атак на трассы Донбасса ВСУ используют подконтрольные США спутники",
-      "summary": "Добиться технического превосходства за счет новых систем управления беспилотниками противнику не удалось, отметил глава ДНР",
-      "link": "https://tass.ru/obschestvo/27596205",
-      "source": "TASS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-01T12:17:04.420020+05:00",
-      "age_min": 3.7
-    },
-    {
-      "hash": "e9fbcd611f5a1edb075c5d243fd0cafd",
-      "title": "Gold and Silver Forecast: Strong Dollar Pressures XAUUSD as Silver Defends $72 - FXEmpire",
-      "summary": "Gold and Silver Forecast: Strong Dollar Pressures XAUUSD as Silver Defends $72&nbsp;&nbsp;FXEmpire",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd2N4UFZrUDJhazNvSDkxeXluNE5waUFNd2FJMjJmY09tb0d3RUY1a1ZVUTR6cklDZGp5VXpEOUxnM3lBTzNoOE5rY015LTVvd2MtbjlFNW0tTmxjRW9YYmltUHI1Y2JWano2dDNKb1Z3QWh0YVd5S08zTFpHRHVNRUtOUE1TT0hwN2FsNHVPN2F2VGVDUWFwRl93TTJUZG56OER0OGhTMUFpNV9sX193R0daMWctemFEb2pwQjhid2d2QnZGZ2c?oc=5",
-      "source": "GNews/Gold",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-01T11:47:48.678136+05:00",
-      "age_min": 6.8
     }
   ]
 }
