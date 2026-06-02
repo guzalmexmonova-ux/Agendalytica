@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T13:03:43.976730+05:00",
+  "updated": "2026-06-02T13:17:57.362950+05:00",
   "items": [
     {
       "hash": "eae89b61606b2624792fd127b1baeb90",
@@ -108,6 +108,30 @@
       "status": "new",
       "ts": "2026-06-02T09:31:18.208123+05:00",
       "age_min": 76.3
+    },
+    {
+      "hash": "5a84d1d0663b8204fe14e315fe6a8fbd",
+      "title": "Why has the gold price fallen 17 % since the Iran war began ?",
+      "summary": "",
+      "link": "https://www.fool.com.au/2026/06/02/why-has-the-gold-price-fallen-17-since-the-iran-war-began/",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T13:17:12.901720+05:00",
+      "age_min": 62.2
+    },
+    {
+      "hash": "4522d64f445e6d874ba2e6506ab33836",
+      "title": "Iran war day 95 : Trump pushes Lebanon truce after Tehran vows to end talks",
+      "summary": "",
+      "link": "https://www.aljazeera.com/news/2026/6/2/iran-war-day-95-trump-pushes-lebanon-truce-after-tehran-vows-to-end-talks",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T13:16:02.618103+05:00",
+      "age_min": 46.0
     },
     {
       "hash": "8b807f6e4aaf077c39b068bf44a66871",
@@ -398,16 +422,28 @@
       "age_min": 46.7
     },
     {
-      "hash": "0d87d1208ae0b298b630e500eb1567ee",
-      "title": "Korea , US open talks on nuclear subs , investment pledge from Lee - Trump summit",
+      "hash": "8e577fff916b89ad58e4afeb779b0328",
+      "title": "Youre f *** ing crazy : Trump blasts Netanyahu over Israel escalation in Lebanon | Indiablooms - First Portal on Digital News Management",
       "summary": "",
-      "link": "https://www.koreatimes.co.kr/foreignaffairs/20260602/korea-us-open-talks-on-nuclear-subs-investment-pledge-from-lee-trump-summit",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
-      "weight": 3,
+      "link": "https://www.indiablooms.com/world/youre-fing-crazy-trump-blasts-netanyahu-over-israels-escalation-in-lebanon/details",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-02T09:17:09.742552+05:00",
-      "age_min": 47.2
+      "ts": "2026-06-02T13:16:02.621668+05:00",
+      "age_min": 61.0
+    },
+    {
+      "hash": "0a45d9c2c0d1b5db8090d118bd4f07f0",
+      "title": "Im Saving Your A **: Trump Private Rage at Netanyahu Over Lebanon Escalation Spills Into the Open",
+      "summary": "",
+      "link": "https://www.ibtimes.co.uk/trump-netanyahu-beirut-strikes-1800217",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T13:16:02.619983+05:00",
+      "age_min": 46.0
     },
     {
       "hash": "038cd1d4dba18cb8ce9eaa39a280b991",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-02T10:02:18.638389+05:00",
       "age_min": 77.3
-    },
-    {
-      "hash": "6641b932f96f7dfceb7fdaf2022b2b85",
-      "title": "Russia Strikes Kyiv , Damaging Residential Buildings During Wider Overnight Attack",
-      "summary": "",
-      "link": "https://www.kyivpost.com/post/77311",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T10:01:13.756644+05:00",
-      "age_min": 61.2
-    },
-    {
-      "hash": "4141ebe0d767abb084cac4d0ae5dfef5",
-      "title": "Nine dead after Moscow launches major attack across Ukraine",
-      "summary": "",
-      "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-898053",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T10:01:13.752190+05:00",
-      "age_min": 31.2
-    },
-    {
-      "hash": "40b93a4e018da2b224317bd09d25463d",
-      "title": "IRGC Navy strikes US - Israeli cargo ship MSC Sariska in retaliation for attack on Iranian vessel",
-      "summary": "",
-      "link": "https://www.presstv.ir/Detail/2026/06/01/769682/IRGC-Navy-strikes-US-Israeli-cargo-ship-MSC-Sariska-in-retaliation-for-attack-on-Iranian-vessel",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T09:45:46.494877+05:00",
-      "age_min": 75.8
     }
   ]
 }
