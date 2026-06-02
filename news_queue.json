@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T05:02:39.137200+05:00",
+  "updated": "2026-06-02T05:17:58.020783+05:00",
   "items": [
     {
       "hash": "f28b3b17a4c94ffd72d19a078a4df03e",
@@ -10,8 +10,8 @@
       "score": 10,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-02T05:01:47.382342+05:00",
-      "age_min": 49.8
+      "ts": "2026-06-02T05:03:10.516735+05:00",
+      "age_min": 51.2
     },
     {
       "hash": "f5e629640ca6907d321bf879a1c82959",
@@ -110,6 +110,18 @@
       "age_min": 31.7
     },
     {
+      "hash": "169ddc433ec4879197b8d061ef616029",
+      "title": "Zelensky Wants War  Hot Phase  Ended Before Winter , Budanov Says",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/77306",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T05:01:18.684499+05:00",
+      "age_min": -1378.7
+    },
+    {
       "hash": "ebd23f70a9e26c5f62a84b3f57c5c660",
       "title": "Will Russia expand war to Europe as its Ukraine push falters ?",
       "summary": "",
@@ -146,16 +158,28 @@
       "age_min": 32.0
     },
     {
-      "hash": "9abf663a4fca9dbc41881c8c880a1df9",
-      "title": "Property prices are down in Dubai .  Is it a war - induced blip , or something more serious ?",
-      "summary": "",
-      "link": "https://fortune.com/2026/06/01/property-prices-down-dubai/",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
+      "hash": "7d5b8b8a7adaeb2aede5ad57ffaf950d",
+      "title": "Syrian Officers Who Hid in Plain Sight Face War Crime Charges in Austria",
+      "summary": "The trial, Austria’s first against Assad regime officials, will be a rare chance for Syrian witnesses to confront two men they have accused of torture.",
+      "link": "https://www.nytimes.com/2026/06/01/world/middleeast/syria-war-crimes-trial-austria.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-02T01:02:58.811097+05:00",
-      "age_min": 108.0
+      "ts": "2026-06-02T05:17:06.595495+05:00",
+      "age_min": 231.0
+    },
+    {
+      "hash": "5ac3c17a4edf5daa6db52a085c0e638b",
+      "title": "Iran War Live Updates: Israel and Iran Step Back From Threats After Day of Tension",
+      "summary": "President Trump wrote on social media that Israel and Hezbollah had “agreed” not to attack each other. Prime Minister Benjamin Netanyahu later distanced himself from talks of a cease-fire in Lebanon.",
+      "link": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T05:17:06.594915+05:00",
+      "age_min": 20.7
     },
     {
       "hash": "a091262ff776294ae41e62e730893286",
@@ -192,6 +216,18 @@
       "status": "new",
       "ts": "2026-06-02T01:33:19.228140+05:00",
       "age_min": 5.3
+    },
+    {
+      "hash": "43bd74bc53e3fe9cf080cd67dcc9862f",
+      "title": "Trump claims Israel and Hizbollah agree ceasefire after Iran threats",
+      "summary": "President’s comments come after Tehran said it was suspending peace talks with the US, sending oil prices higher",
+      "link": "https://www.ft.com/content/a4f1e36d-f3a5-4959-b227-133300f01be1",
+      "source": "FT",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T05:17:05.804039+05:00",
+      "age_min": 118.7
     },
     {
       "hash": "a181453379af9c0418d8dadf9723ad54",
@@ -242,78 +278,6 @@
       "age_min": 34.2
     },
     {
-      "hash": "ec6a18d7414b987550657930f4533220",
-      "title": "Powell avasi suunsa : Varoitus Fedin uskottavuudesta",
-      "summary": "",
-      "link": "https://www.kauppalehti.fi/uutiset/a/2724883c-df91-4ec7-b1d3-4d1ab5abfdb3",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T01:16:55.727628+05:00",
-      "age_min": 31.9
-    },
-    {
-      "hash": "b62ce5597b1904060a02b145d9f3ac1a",
-      "title": "Outgoing chair Powell delivers defense of Fed independence",
-      "summary": "",
-      "link": "https://www.manilatimes.net/2026/06/02/world/americas-emea/outgoing-chair-powell-delivers-defense-of-fed-independence/2355942",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T01:16:55.724732+05:00",
-      "age_min": 61.9
-    },
-    {
-      "hash": "2e86d801f64764d6cb207663a3bae8ba",
-      "title": "Jerome Powell speaks about Fed independence after stepping down",
-      "summary": "",
-      "link": "https://www.washingtonexaminer.com/watch/2634444/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T01:16:55.724453+05:00",
-      "age_min": 61.9
-    },
-    {
-      "hash": "ee04d96ddb40453efb668703ec6beaa3",
-      "title": "Powell renews defense of Fed autonomy in first public remarks since stepping down as chair",
-      "summary": "",
-      "link": "https://13wham.com/news/nation-world/jerome-powell-renews-defense-of-federal-reserve-autonomy-in-first-public-remarks-since-stepping-aside-as-chair",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T01:16:55.724178+05:00",
-      "age_min": 31.9
-    },
-    {
-      "hash": "6f9d0f2308ae98a3b0839c1f8b17810f",
-      "title": "Powell uses award speech to warn against political pressure on Fed",
-      "summary": "",
-      "link": "https://www.dailybulletin.com/2026/06/01/jerome-powell-jfk-award/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T01:16:55.723311+05:00",
-      "age_min": 31.9
-    },
-    {
-      "hash": "3390a0710b3dddd4416ec8912189c610",
-      "title": "The Copper Demand is Exceeding The Global Supply Says Groves",
-      "summary": "Andrew Groves, Chairman at Copper Intelligence, joined Bloomberg Businessweek Daily to discuss copper’s role in powering the AI boom. As well as how the demand for copper is exceeding the global supply. Copper advanced in New York and London to kick off a crucial month ahead of the Trump administration’s deadline to make a fresh determination on launching US import levies. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-01/copper-demand-is-exceeding-the-global-supply-says-groves-video",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T01:03:02.937064+05:00",
-      "age_min": 10.6
-    },
-    {
       "hash": "ebde92e7d346aba6edcfcb8d1d24bfcd",
       "title": "As Deaths From U.S. Boat Strikes Pass 200, Locals Tally an Even Greater Cost",
       "summary": "Residents of coastal communities in Colombia and Ecuador said the airstrike campaign was making many reconsider anything involving the ocean as a livelihood.",
@@ -336,6 +300,18 @@
       "status": "new",
       "ts": "2026-06-02T01:18:15.911571+05:00",
       "age_min": 24.2
+    },
+    {
+      "hash": "ae5a70d29f563b4a9742ef39b2339415",
+      "title": "Iran war live: Trump talks to Hezbollah, Israel as Lebanon fighting surges",
+      "summary": "Death toll from Israel&#039;s attacks on Lebanon since March has reached 3,433, with 10,395 injured, says Health Ministry.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/2/iran-war-live-trump-talks-to-hezbollah-israel-as-lebanon-fighting-surges?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T05:17:06.376117+05:00",
+      "age_min": 17.1
     },
     {
       "hash": "ad90fecaeeb838987eca8c2eb30b315c",
@@ -492,6 +468,54 @@
       "status": "new",
       "ts": "2026-06-02T01:47:37.267607+05:00",
       "age_min": 66.4
+    },
+    {
+      "hash": "a74ea7fabea98af0b7ebc0a216894812",
+      "title": "Ich bin Ihnen besonders dankbar für Ihre klaren Worte zur russischen Aggression gegen die Ukraine im #UNSC vergangene Woche. Wir sind uns einig: Es ist Zeit für einen Waffenstillstand – jetzt. (2/2)",
+      "summary": "Ich bin Ihnen besonders dankbar für Ihre klaren Worte zur russischen Aggression gegen die Ukraine im #UNSC vergangene Woche. Wir sind uns einig: Es ist Zeit für einen Waffenstillstand – jetzt. (2/2)\n\n\nJohann Wadephul (@AussenMinDE)\n\nI am particularly thankful for your clear words on Russia’s aggression against Ukraine in the #UNSC last week. We both agree: It is time for a ceasefire – now. (2/2)\n\n",
+      "link": "https://nitter.net/AuswaertigesAmt/status/2061557413879124330#m",
+      "source": "GermanyMFA/X",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T05:17:51.247015+05:00",
+      "age_min": 181.8
+    },
+    {
+      "hash": "f52d6049392277a2330200f29d03239d",
+      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+      "summary": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days&nbsp;&nbsp;LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+      "source": "GNews/Gold",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T05:17:37.670783+05:00",
+      "age_min": 78.1
+    },
+    {
+      "hash": "a960d3f314dd5d11124e2f51504fa4c6",
+      "title": "Украинская ракета-перехватчик Patriot взмыла в небо, отказала и упала на Киев",
+      "summary": "",
+      "link": "https://lenta.ru/news/2026/06/02/ukrainskaya-raketa-perehvatchik-patriot-vzmyla-v-nebo-otkazala-i-upala-na-kiev/",
+      "source": "Lenta.ru",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T05:17:11.360846+05:00",
+      "age_min": 5.2
+    },
+    {
+      "hash": "624aa5548749df67cf67679962a90ae5",
+      "title": "Modi and Min Aung Hlaing agree to foster mineral, rare earth ties",
+      "summary": "",
+      "link": "https://asia.nikkei.com/politics/international-relations/modi-and-min-aung-hlaing-agree-to-foster-mineral-rare-earth-ties",
+      "source": "Nikkei Asia",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T05:17:07.064770+05:00",
+      "age_min": 0
     },
     {
       "hash": "89351d6289c97956d40390b7cd838153",
