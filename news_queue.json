@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T13:47:27.628955+05:00",
+  "updated": "2026-06-02T14:03:38.339645+05:00",
   "items": [
     {
       "hash": "3b386950278241ed8a9e6bd3b8054aa5",
@@ -72,6 +72,18 @@
       "status": "new",
       "ts": "2026-06-02T11:02:57.657132+05:00",
       "age_min": 2.9
+    },
+    {
+      "hash": "403bd21f47ce92dd804f71123dcdec41",
+      "title": "RBI may have sold $12 billion in gold as Iran war pressures rupee : Bloomberg Economics",
+      "summary": "",
+      "link": "https://www.moneycontrol.com/news/business/economy/rbi-may-have-sold-12-billion-in-gold-as-iran-war-pressures-rupee-bloomberg-economics-13938441.html",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T14:02:02.529738+05:00",
+      "age_min": 92.0
     },
     {
       "hash": "31d18d2095eba3bc9f0b51c52f10bb6e",
@@ -206,30 +218,6 @@
       "age_min": 60.6
     },
     {
-      "hash": "b6a45babe8566b6a70b164d88cb69117",
-      "title": "Kyiv apartment block partly collapses after Russian drone and missile attack",
-      "summary": "",
-      "link": "https://nbc16.com/news/nation-world/kyiv-apartment-block-partly-collapses-after-russian-drone-and-missile-attack",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T10:01:13.760576+05:00",
-      "age_min": 31.2
-    },
-    {
-      "hash": "82a7ea8d3782efac69b4f4c66502a912",
-      "title": "Massive Russian Missile and Drone Attack Kills at Least 5 Across Ukraine",
-      "summary": "",
-      "link": "https://www.kyivpost.com/post/77313",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T10:01:13.756259+05:00",
-      "age_min": 61.2
-    },
-    {
       "hash": "0fa951d55ce74e4d040a1547423a4a4c",
       "title": "Trump Wants Rate Cuts Fast — But Kevin Warsh Could Keep Wall Street Waiting - AOL.com",
       "summary": "Trump Wants Rate Cuts Fast — But Kevin Warsh Could Keep Wall Street Waiting&nbsp;&nbsp;AOL.com",
@@ -278,16 +266,28 @@
       "age_min": 76.7
     },
     {
-      "hash": "7fc6ff3085927bfdf819eeea9267ce99",
-      "title": "Rafael Grossi: the next Iran nuclear deal will look very different",
-      "summary": "IAEA Director General Rafael Grossi says the 2015 Iran nuclear deal is no longer a workable model.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/aje-onl-nf_qt_grossi-on-new-iran-nuclear-deal-020626?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 10,
-      "weight": 3,
+      "hash": "13598d29a32b5582cf5dd38eb447e65e",
+      "title": "The Japanese yen extends losses as June rate hike bets continue to look wrong",
+      "summary": "",
+      "link": "https://investinglive.com:443/forex/the-japanese-yen-extends-losses-as-june-rate-hike-bets-continue-to-look-wrong-20260602/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-02T10:02:52.848064+05:00",
-      "age_min": 16.9
+      "ts": "2026-06-02T14:02:02.530732+05:00",
+      "age_min": 47.0
+    },
+    {
+      "hash": "47a7e725928207726e9e55e0cb31d4b6",
+      "title": "CNBC : Jerome Powell avertizează că presiunile politice asupra Fed pot afecta independenţa şi încrederea publicului",
+      "summary": "",
+      "link": "https://www.bursa.ro/cnbc-jerome-powell-avertizeaza-ca-presiunile-politice-asupra-fed-pot-afecta-independenta-si-increderea-publicului-49491957",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T14:02:02.528813+05:00",
+      "age_min": 92.0
     },
     {
       "hash": "d3b6b79418f828be462ae20433551b1b",
@@ -372,6 +372,18 @@
       "status": "new",
       "ts": "2026-06-02T10:15:38.329042+05:00",
       "age_min": 45.6
+    },
+    {
+      "hash": "a9930248937cf0e3c3b06b6a2964f74b",
+      "title": "US holds significant talks on expanding nuclear weapons deployments across Europe",
+      "summary": "",
+      "link": "https://www.thenews.com.pk/latest/1404477-us-holds-significant-talks-on-expanding-nuclear-weapons-deployments-across-europe",
+      "source": "GDELT/SANCTIONS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T14:01:51.649935+05:00",
+      "age_min": 61.9
     },
     {
       "hash": "2275918199b8100a0dc269bd9e59e165",
@@ -554,28 +566,28 @@
       "age_min": 45.6
     },
     {
-      "hash": "f5dc2939f44cc1b4411ddae41df1c012",
-      "title": "US Secretary of War again targets China at Shangri-La Dialogue - World Socialist Web Site",
-      "summary": "US Secretary of War again targets China at Shangri-La Dialogue&nbsp;&nbsp;World Socialist Web Site",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsOXZxMC1WNEprblU2Q2xZV05iNHMyVVFEOVFaR1FGamJiVjNuWlBzajlGMGlrOWUyYUo0NDlYcVBjT0lZb2NsOHlnV2o1ckR2LUJUUWc1aTRHd2hVZ21hazl3QzRrNWhj?oc=5",
-      "source": "GNews/USA-China",
-      "score": 8,
+      "hash": "7eea0a5ebe794b41684623596fb511da",
+      "title": "В Брянской области более 4,5 тыс. пострадавших из-за атак получили компенсации",
+      "summary": "В частности, в регионе можно получить единовременную материальную помощь, финансовую помощь в связи с утратой движимого имущества и получением вреда здоровью",
+      "link": "https://tass.ru/obschestvo/27610685",
+      "source": "TASS",
+      "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-02T10:03:14.756599+05:00",
-      "age_min": 9.1
+      "ts": "2026-06-02T14:02:58.725753+05:00",
+      "age_min": 10.3
     },
     {
-      "hash": "a2c2258acf380b83c067b57ff83b7d4f",
-      "title": "Russo - Ukraine War - 01 June 2026",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/military/world/war/russo-ukraine-2026-06-01.htm",
-      "source": "GDELT/CYBER",
-      "score": 8,
+      "hash": "8256ceacc714a7157e8778b7c606ff5c",
+      "title": "Malaysia’s Umno hedges on Johor state election to lure Malay votes in stronghold",
+      "summary": "For decades, Umno was the party that defined power in Malaysia. Now, after years of scandal, defeat and uneasy coalition politics, it is turning to its birthplace of Johor to prove it can still win on its own terms.\nThe southern state’s snap election will test whether the United Malays National Organisation (Umno) can still attract Malay voters, defend its strongest remaining state government and ",
+      "link": "https://www.scmp.com/week-asia/politics/article/3355690/malaysias-umno-hedges-johor-state-election-lure-malay-votes-stronghold?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-02T10:02:18.638389+05:00",
-      "age_min": 77.3
+      "ts": "2026-06-02T14:02:57.294446+05:00",
+      "age_min": 2.8
     },
     {
       "hash": "6d1ecc1170e1509863656f5040d3104a",
