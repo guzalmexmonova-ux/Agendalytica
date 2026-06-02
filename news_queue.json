@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T10:03:32.846982+05:00",
+  "updated": "2026-06-02T10:18:03.562087+05:00",
   "items": [
     {
       "hash": "190c014749039691b3fde77af44f0860",
@@ -86,16 +86,28 @@
       "age_min": 60.8
     },
     {
-      "hash": "b2490c525d06094eb55c6f7812e9fb26",
-      "title": "LIVE TEXT - Război în Ucraina : Situația de la centrala nucleară Zaporojie rămâne tensionată . Rusia acuză Ucraina de noi atacuri asupra centralei ocupate",
+      "hash": "59343ce2e48f064cc5ea7f79042b3d0b",
+      "title": "Kyiv apartment block partly collapses after Russian drone and missile attack",
       "summary": "",
-      "link": "https://www.stiripesurse.ro/situatia-de-la-centrala-nucleara-zaporojie-ramane-tensionata-rusia-acuza-ucraina-de-noi-atacuri-asupra-centralei-ocupate_3891161",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
+      "link": "https://wgme.com/news/nation-world/kyiv-apartment-block-partly-collapses-after-russian-drone-and-missile-attack",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-02T06:15:35.088543+05:00",
-      "age_min": 30.6
+      "ts": "2026-06-02T10:15:55.837519+05:00",
+      "age_min": 60.9
+    },
+    {
+      "hash": "d0024a4c13ccf3676dd1a28e6f985b03",
+      "title": "IRAN WAR LATEST : Iran suspends negotiations with U . S .:  No dialogue will take place",
+      "summary": "",
+      "link": "https://calgarysun.com/news/world/iran-war-latest-june-1/wcm/7ee9a931-c0b9-42e0-a7e6-a93ebe80540b",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T10:15:38.331069+05:00",
+      "age_min": 60.6
     },
     {
       "hash": "b6a45babe8566b6a70b164d88cb69117",
@@ -182,18 +194,6 @@
       "age_min": 19.5
     },
     {
-      "hash": "0d5eb566182f9b4da5d76d269eb286cc",
-      "title": "Trump says Iran talks moving fast despite threat to widen war",
-      "summary": "",
-      "link": "https://www.channelnewsasia.com/world/trump-iran-talks-moving-fast-threat-widen-war-us-6153401",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T06:15:35.089406+05:00",
-      "age_min": -1334.4
-    },
-    {
       "hash": "7fc6ff3085927bfdf819eeea9267ce99",
       "title": "Rafael Grossi: the next Iran nuclear deal will look very different",
       "summary": "IAEA Director General Rafael Grossi says the 2015 Iran nuclear deal is no longer a workable model.",
@@ -204,6 +204,54 @@
       "status": "new",
       "ts": "2026-06-02T10:02:52.848064+05:00",
       "age_min": 16.9
+    },
+    {
+      "hash": "b4008b8763fe3393ad79c8e0b202d1c2",
+      "title": "Ông Powell cảnh báo Fed về bài kiểm tra sức ép lớn",
+      "summary": "",
+      "link": "https://vneconomy.vn/ong-powell-fed-dang-trai-qua-bai-kiem-tra-suc-ep.htm",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T10:16:28.626717+05:00",
+      "age_min": 46.5
+    },
+    {
+      "hash": "e3f4ab076a704ec8bce9001d644d8a6a",
+      "title": "Powell warns against political pressure on Fed , courts and schools | News , Sports , Jobs",
+      "summary": "",
+      "link": "https://www.ironmountaindailynews.com/news/2026/06/powell-warns-against-political-pressure-on-fed-courts-and-schools/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T10:16:28.621146+05:00",
+      "age_min": 31.5
+    },
+    {
+      "hash": "721263181d6d8c9cf6760657e92337e1",
+      "title": "Former Chair Jerome Powell Says Fed Is Under  Stress Test  As Trump Seeks Greater Control – The Yeshiva World",
+      "summary": "",
+      "link": "https://www.theyeshivaworld.com/news/general/2555893/former-chair-jerome-powell-says-fed-is-under-stress-test-as-trump-seeks-greater-control.html",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T10:16:28.620755+05:00",
+      "age_min": 46.5
+    },
+    {
+      "hash": "3030cf67e803b945266212d1601fcfeb",
+      "title": "Iran Halts US Negotiations , Vows Full Blockade of Strait of Hormuz in Escalating Conflict",
+      "summary": "",
+      "link": "https://jp.ibtimes.com/iran-halts-us-negotiations-vows-full-blockade-strait-hormuz-escalating-conflict-101373",
+      "source": "GDELT/CONFLICTS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T10:15:38.329042+05:00",
+      "age_min": 45.6
     },
     {
       "hash": "bcc92bd7b0fc992ecabbf4f97a22bf49",
@@ -324,6 +372,42 @@
       "status": "new",
       "ts": "2026-06-02T09:17:09.742552+05:00",
       "age_min": 47.2
+    },
+    {
+      "hash": "ecfb61c2d11d72a1313a54c234eed671",
+      "title": "Iran Embraces a Forever War",
+      "summary": "Tehran’s new strategic calculus.",
+      "link": "https://www.foreignaffairs.com/iran/iran-embraces-forever-war",
+      "source": "Foreign Affairs",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T10:17:10.668011+05:00",
+      "age_min": 77.2
+    },
+    {
+      "hash": "117cace02ee1b78db4e13f3b7317daa4",
+      "title": "Japan’s Russia concern, businesses choose Malaysia over Singapore: 7 Asia highlights",
+      "summary": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Russia’s military activity has Japan fearing a dual-front war\nJapan’s call to maintain “impeccable” defences on its northern frontier reflects Tokyo’s deepening concern ov",
+      "link": "https://www.scmp.com/news/asia/article/3355641/japans-russia-concern-businesses-choose-malaysia-over-singapore-7-asia-highlights?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T10:17:10.354106+05:00",
+      "age_min": 8.4
+    },
+    {
+      "hash": "3f947d2bd6cd9bdc6bf4c1330ae4716d",
+      "title": "4 dead as Russia launches major attack across Ukraine , authorities say",
+      "summary": "",
+      "link": "https://www.ksl.com:443/article/51505455/4-dead-as-russia-launches-major-attack-across-ukraine-authorities-say",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T10:15:38.332035+05:00",
+      "age_min": 45.6
     },
     {
       "hash": "f5dc2939f44cc1b4411ddae41df1c012",
@@ -516,90 +600,6 @@
       "status": "new",
       "ts": "2026-06-02T07:31:05.548637+05:00",
       "age_min": 31.1
-    },
-    {
-      "hash": "807423fd815e7d0cfb1b6e29f942a2a6",
-      "title": "Why oil-hungry Asia ignores risks linked to Russia’s ‘dark fleet’",
-      "summary": "Asia’s fuel needs may take priority over the strategic risks of relying on oil from heavily sanctioned Russia, according to experts.\nCurrently, there is little political appetite to treat the surge of Moscow’s crude flowing eastward through a “dark fleet” of tankers as a potential security issue.\nThe US-Israeli war on Iran has caused the price of Brent crude – the benchmark measure – to spike to a",
-      "link": "https://www.scmp.com/week-asia/economics/article/3355618/why-oil-hungry-asia-ignores-risks-linked-russias-dark-fleet?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T07:17:14.002379+05:00",
-      "age_min": 14.0
-    },
-    {
-      "hash": "31faaf5aec90cc08747f823471e31b99",
-      "title": "Asia-Pacific stocks mostly lower as Iran war uncertainty keeps investors on edge",
-      "summary": "Asia-Pacific markets traded lower on Tuesday as investors weighed renewed uncertainty over U.S.-Iran peace negotiations.",
-      "link": "https://www.cnbc.com/2026/06/02/asia-pacific-markets-today-kospi-nikkei-225-hang-seng-index.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T07:02:57.555596+05:00",
-      "age_min": 5.5
-    },
-    {
-      "hash": "735f062ce1b211f6c090070a00569de3",
-      "title": "Kyiv coming under heavy Russian attack , forcing people to take shelter underground",
-      "summary": "",
-      "link": "https://www.cbc.ca/news/world/kyiv-attack-russia-9.7219991",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T07:01:17.663110+05:00",
-      "age_min": 31.3
-    },
-    {
-      "hash": "469a97632e9044a12071eb9dc00729b9",
-      "title": "Jerome Powell Warns Fed Credibility Is at Risk as Trump Pressure Tests Central Bank Independence - btimesonline.com",
-      "summary": "Jerome Powell Warns Fed Credibility Is at Risk as Trump Pressure Tests Central Bank Independence&nbsp;&nbsp;btimesonline.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlFxbk4zTV9KVUM5QVliSDRoNGpTVmJQMWVLSVBnakRIZGVvRjJudzZnN3V6dVh4VTFDeTl0ZncxaE1WaTB1ZVB0WmZuRkx3QVJaOHJWTkZEWi0zdlh3d2swN1RZbWQyZS1nLXk1Tnh6a3dGVmFsQVg2VHgwd0M4anpUcktGV2NKajN1UVRsWVZaUnZxeHdNY0hGX1VEVG90RUYxbElfdmhCZHp2TVN5d3hnWTFWY192TEhPRG5RV3FEWklhVHNwc3FVUTFNZHBMZjE5YzJHNGhtTjlHUHV1UGUzSS1ZY3BwREE?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T07:17:40.130978+05:00",
-      "age_min": 48.7
-    },
-    {
-      "hash": "8552940c98202bb8ec89bf6c8fba02b3",
-      "title": "Jerome Powell advocates for independence of institutions at JFK award ceremony - MSN",
-      "summary": "Jerome Powell advocates for independence of institutions at JFK award ceremony&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZm1WWnVDMHU5d19keTlMeVVQdU1ZNC1fNmNfaW9oTjVIYWNOTUVzcDA2eTNXX0Vjb1VzeVl4ajZTZGNFNE1hWkVVS0pJQjBNaXg0aElPSWlhai1ocFVhc1lkU1dSSGhNaHZ0UHlNekJzeXlGWUtNRURIb2gzWVk5NnAweUlIRzRLbG1NenA2YVhfNWxhOGlrZV9aX0FGQnVQdXJGQUw3THBaVUFZZGpHU1IwZXExNVJ6a3JyRkg0aVI4enU3UWV0RjdkRzMyYnE4NkxIQ0RtMA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T07:03:26.450638+05:00",
-      "age_min": 100.7
-    },
-    {
-      "hash": "5cfcb96e98a7968954921944f60c228d",
-      "title": "Trimmed Mean Inflation: Is It the Lifesaver for Rate Cuts? - Bitget",
-      "summary": "Trimmed Mean Inflation: Is It the Lifesaver for Rate Cuts?&nbsp;&nbsp;Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqV29uRDl1QVFWSXZPbWlhSU5hQXdpOG5tSzNUMHAza0hVNmdIZjB5R0JPVW5ZWk5yMkxyOXVkTE5rbG1vazhUMF9qckdRVTRxQzN0N2RQay0wUkx0aUJWdngtcw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T06:33:27.527810+05:00",
-      "age_min": 83.4
-    },
-    {
-      "hash": "edc9544f646cb36a721cea9dba355410",
-      "title": "Powell warns politicizing Fed risks public trust and credibility - MSN",
-      "summary": "Powell warns politicizing Fed risks public trust and credibility&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNb1VIUnJmUk9LNktpcDNYdUNkYXVqWlpTMnFyZjdTUmVBZXdBSHpSVVEwTlVnVjdZVDBMWGpIQlg1d0tNUjdsc3dhSWNzOHFTdHpaY2NuOVFtbjliU3Iza2JoYjlWdjJNYTZ6N3VOdUw3Y2lFcVFWdlVSODJDSWxhZkVlcFdqUkNKbC0xZUd2XzFXTHRiZTFSeFJRSGltTGtNRlJISlNGQjJhSy1CQjNON1hKb2pBZkJTZFM5SHpLOW5xakZuOWR0d2dRN0pEOTVp?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T06:17:40.116596+05:00",
-      "age_min": 105.9
     }
   ]
 }
