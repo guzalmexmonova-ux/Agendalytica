@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T00:48:06.787842+05:00",
+  "updated": "2026-06-03T01:03:55.507913+05:00",
   "items": [
     {
       "hash": "a1ec01ad6b728c3c6593f09970a31d62",
@@ -14,30 +14,6 @@
       "age_min": 42.8
     },
     {
-      "hash": "0ebd6aa09eee408b58f7961997114ff6",
-      "title": "Rheinmetall Wins Romanian Defense Contracts Worth €5.7 Billion",
-      "summary": "Rheinmetall AG, Germany’s largest defense company, will provide €5.7 billion ($6.7 billion) worth of military gear to Romania to help shore up NATO’s Eastern flank, the firm’s biggest international contract package since the Russian invasion of Ukraine.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-02/rheinmetall-wins-romanian-defense-contracts-worth-5-7-billion",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T21:03:08.992581+05:00",
-      "age_min": 8.5
-    },
-    {
-      "hash": "e337e9af1cd542fb887d198de1b012f1",
-      "title": "How the 1987 Crash Changed the Life of Centerbridge's Jeff Aronson",
-      "summary": "Jeff Aronson was working as a lawyer at LF Rothschild when the 1987 stock market crash put the firm out of business. In this conversation with David Rubenstein, the Centerbridge Co-Founder explains how that setback led him to a career in investing and eventually to Angelo Gordon. Aronson sits down with David Rubenstein for the premiere episode of Bloomberg Wealth Season 6. This interview was recor",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-02/how-the-1987-crash-changed-centerbridge-s-aronson-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T21:03:08.991852+05:00",
-      "age_min": 3.9
-    },
-    {
       "hash": "5d6f3c136d63064a18ce24ea2507b7f4",
       "title": "Iran Agrees to Nuclear Talks After US Military Action",
       "summary": "",
@@ -48,6 +24,18 @@
       "status": "new",
       "ts": "2026-06-03T00:30:50.702905+05:00",
       "age_min": 105.8
+    },
+    {
+      "hash": "c7f7262b6bd68a4cd26d3bfbdc3d0bd3",
+      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
+      "summary": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack.",
+      "link": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T01:03:11.754315+05:00",
+      "age_min": 49.8
     },
     {
       "hash": "93a1b563bad9ca3c7f21a8994fd30b57",
@@ -218,16 +206,16 @@
       "age_min": 85.8
     },
     {
-      "hash": "1835b966058f7afa5c71d32523d6d7e3",
-      "title": "Rubio says U.S. is in talks with Iran over nuclear program as senators press for war endgame",
-      "summary": "Rubio says Iran nuclear talks may advance soon as senators press Trump on war strategy, Strait of Hormuz, Cuba and Venezuela policy.",
-      "link": "https://www.cnbc.com/2026/06/02/rubio-iran-nuclear-talks-trump-war-strategy-hormuz.html",
-      "source": "CNBC",
-      "score": 10,
-      "weight": 3,
+      "hash": "a729eacc7c5f6232a3cad18659e54aac",
+      "title": "Outgoing chair Powell delivers defense of Fed independence",
+      "summary": "",
+      "link": "https://www.digitaljournal.com/article/outgoing-chair-powell-delivers-defense-of-fed-independence/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-02T21:03:10.222896+05:00",
-      "age_min": 14.2
+      "ts": "2026-06-03T01:02:06.173067+05:00",
+      "age_min": 32.1
     },
     {
       "hash": "11ec685c861d98800649c7c1a0bd2c38",
@@ -300,6 +288,18 @@
       "status": "new",
       "ts": "2026-06-02T22:33:24.937390+05:00",
       "age_min": 14.6
+    },
+    {
+      "hash": "c6a9330e7cbde78a9811137625c124c9",
+      "title": "Trump names Bill Pulte as acting director of national intelligence after Tulsi Gabbard resignation",
+      "summary": "",
+      "link": "https://www.wdbj7.com/2026/06/02/trump-names-bill-pulte-acting-director-national-intelligence-after-tulsi-gabbards-resignation/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T01:02:06.173624+05:00",
+      "age_min": 32.1
     },
     {
       "hash": "0b1d79b95a4125ea10f5f0067b2c6067",
@@ -458,6 +458,18 @@
       "age_min": 53.3
     },
     {
+      "hash": "9231464371456464165851dbaed73a64",
+      "title": "Remarks by Janet L. Yellen at \"The Powell years at the Fed: A retrospective\" - Brookings",
+      "summary": "Remarks by Janet L. Yellen at \"The Powell years at the Fed: A retrospective\"&nbsp;&nbsp;Brookings",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZWRFVDVPTXZpM2FwWGl6b0t5Ynpva2tmcC01OHdScGZRSlpxek9IdHI2WkVnZU80eGFZd1MwYUI3eUxBSUZOZkhTY3V0UE9EN3ExODZHS2ROMGptZzN0YnB2VENoRzU1aW1pbnRSZEVCQkhmLW8zZEJHeHJfdUJYMGd6dkxzUzF2RXRnSXcxZDJsQkJrbkxHUWRQN2tvY2llNkR6dmQ0b1BnNXcx?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-03T01:03:38.934062+05:00",
+      "age_min": 9.4
+    },
+    {
       "hash": "4c64136d05ec26781400eea5758a1aa3",
       "title": "Jerome Powell Warns of Political Pressure on Federal Reserve - mibolsillo.co",
       "summary": "Jerome Powell Warns of Political Pressure on Federal Reserve&nbsp;&nbsp;mibolsillo.co",
@@ -566,40 +578,28 @@
       "age_min": 105.8
     },
     {
-      "hash": "494d3ca2ec2960caccc0d1bb82aa1a29",
-      "title": "Forget MongoDB: This Free-Cash-Flow Tech Bargain Is a Far Smarter Buy in the Warsh Era - AOL.com",
-      "summary": "Forget MongoDB: This Free-Cash-Flow Tech Bargain Is a Far Smarter Buy in the Warsh Era&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUTBhckZWNXJrdElhZk9LeXJqeEtySHVtb0lVcUJJOW10YTY4LUFTdDVHX2NFSWJpZnVRZzZJQ1NjeHRFNEhXckRXLUNPdG5lc1J0X3BmcmRsMHUtV2d6NGdDRkg2M1V5RVFnZ3N6TkpKMnYtRFRkV1hlQ1g0QQ?oc=5",
+      "hash": "55b582af9a229e91e01c02c9fc14823e",
+      "title": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years - AOL.com",
+      "summary": "18 Words From Fed Chair Kevin Warsh That Could Keep Interest Rates Higher for Years&nbsp;&nbsp;AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40WFNjUVZaWm9Vbmt0eXZLTUtzaV91MVMtTlJQVXE1Rkl5LWF1b1NoT2NuaHR6bmNRRjVRek1LUnlUaUtod0d1UnRUQWthTHVHbkZGQzctZlZWaGM1dVhPb1FmUmZNbVdPMU5jTDd5dHQwU3UtclF3?oc=5",
       "source": "GNews/CentralBanks",
       "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-03T00:33:31.070228+05:00",
-      "age_min": 102.8
+      "ts": "2026-06-03T01:03:38.934721+05:00",
+      "age_min": 108.4
     },
     {
-      "hash": "1ce87dee56300f9670b3af2cce199335",
-      "title": "Senior Houthi Official Warns Israel of 'Comprehensive Response' to Any Escalation in Lebanon - Kurdistan24",
-      "summary": "Senior Houthi Official Warns Israel of 'Comprehensive Response' to Any Escalation in Lebanon&nbsp;&nbsp;Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE83d1BTQklOVTlwZ2JLUFhuYk5ZNzBVR2VZNmtXTTl1OHZLaHp3NTliZ1J5cXYzZUVZV3M2dnVMVHVlMlkxa2YtcEJ1TVdtT19PVEF1aWVR?oc=5",
-      "source": "GNews/Mideast",
+      "hash": "f2caa0f124c3ab5b0b32a1684e062cac",
+      "title": "Названы шокирующие данные о гибели врачей в ходе атак ВСУ",
+      "summary": "",
+      "link": "https://lenta.ru/news/2026/06/03/nazvany-shokiruyuschie-dannye-o-gibeli-vrachey-v-hode-atak-vsu/",
+      "source": "Lenta.ru",
       "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-02T23:33:31.057238+05:00",
-      "age_min": 106.7
-    },
-    {
-      "hash": "4cc42b2514b4e94e86640a60fed97c10",
-      "title": "IRGC Quds Force chief Qaani warns US, Israel against escalation in Gaza, Lebanon - The Jerusalem Post",
-      "summary": "IRGC Quds Force chief Qaani warns US, Israel against escalation in Gaza, Lebanon&nbsp;&nbsp;The Jerusalem Post",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE94WksyWF93eVUyWF9vWHdVcko0YS1EWE1Cb3A2Sm5WSHByMHludXZ6bGQxbVdWdnRMLURXSk13NFV4bWdiTzN4MkN5MDZqWTcyZzJQb25sc21sYVVX?oc=5",
-      "source": "GNews/Mideast",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T22:33:26.372560+05:00",
-      "age_min": 10.8
+      "ts": "2026-06-03T01:03:17.029050+05:00",
+      "age_min": 5.3
     }
   ]
 }
