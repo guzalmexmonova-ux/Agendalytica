@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T11:03:37.668879+05:00",
+  "updated": "2026-06-02T11:17:58.535168+05:00",
   "items": [
     {
       "hash": "91ea22fee6e9f8c0e05f46e613626c6e",
@@ -230,6 +230,18 @@
       "age_min": 16.9
     },
     {
+      "hash": "dc262b82c4ba5ed87d6f94b9ed9a450b",
+      "title": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
+      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
+      "link": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T11:17:11.454450+05:00",
+      "age_min": 12.3
+    },
+    {
       "hash": "b4008b8763fe3393ad79c8e0b202d1c2",
       "title": "Ông Powell cảnh báo Fed về bài kiểm tra sức ép lớn",
       "summary": "",
@@ -396,6 +408,18 @@
       "status": "new",
       "ts": "2026-06-02T09:17:09.742552+05:00",
       "age_min": 47.2
+    },
+    {
+      "hash": "df41c819101863b517c590cbce2d9cd2",
+      "title": "European stocks poised to rebound ahead of key inflation update",
+      "summary": "Investors are awaiting data that will shed further light on the economic impact of the U.S.-Iran war.",
+      "link": "https://www.cnbc.com/2026/06/02/european-stocks-poised-to-rebound-ahead-of-key-inflation-update.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T11:17:11.966092+05:00",
+      "age_min": 9.1
     },
     {
       "hash": "9fc27da6f8a0756a291208d353df3f9e",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-02T08:46:29.045418+05:00",
       "age_min": 46.5
-    },
-    {
-      "hash": "149f1f046a7c05b0e6ed92d045ad3459",
-      "title": "Four dead as Russia launches major attack across Ukraine , authorities say",
-      "summary": "",
-      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/02/four-dead-as-russia-launches-major-attack-across-ukraine-authorities-say",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T08:30:50.310337+05:00",
-      "age_min": 45.8
-    },
-    {
-      "hash": "1dc3785bb23feacba022507b72732033",
-      "title": "Asian shares mostly slip as latest fighting undermines the US - Iran ceasefire .",
-      "summary": "",
-      "link": "https://www.smdailyjournal.com/business/asian-shares-mostly-slip-as-latest-fighting-undermines-the-us-iran-ceasefire/article_0f3f15c4-d5c7-5e7b-96ae-932edf84965a.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T11:02:13.567185+05:00",
-      "age_min": 77.2
     }
   ]
 }
