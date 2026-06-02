@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T00:33:52.121220+05:00",
+  "updated": "2026-06-03T00:48:06.787842+05:00",
   "items": [
     {
       "hash": "a1ec01ad6b728c3c6593f09970a31d62",
@@ -48,6 +48,30 @@
       "status": "new",
       "ts": "2026-06-03T00:30:50.702905+05:00",
       "age_min": 105.8
+    },
+    {
+      "hash": "93a1b563bad9ca3c7f21a8994fd30b57",
+      "title": "Job openings climbed to 7 . 6 million in April despite Iran war fallout",
+      "summary": "",
+      "link": "https://www.bostonherald.com/2026/06/02/job-openings-april/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T00:46:33.412928+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "0772dcfb7375f702064fbb9c48c5484d",
+      "title": "Iran studying deal to halt war as stalemate persists",
+      "summary": "",
+      "link": "https://www.geo.tv/latest/667023-iran-studying-deal-to-halt-war-as-stalemate-persists",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T00:46:06.113059+05:00",
+      "age_min": 61.1
     },
     {
       "hash": "fb9c87de8d770db8fb5eb8d8b0f70084",
@@ -146,18 +170,6 @@
       "age_min": 30.8
     },
     {
-      "hash": "f48f35d0265f6bacebe1bab1406664c4",
-      "title": "Job openings climbed to 7 . 6 million in April despite Iran war fallout",
-      "summary": "",
-      "link": "https://www.thetimes-tribune.com/2026/06/02/job-openings-april/",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T20:46:36.923463+05:00",
-      "age_min": 31.6
-    },
-    {
       "hash": "6d64e7f4079dbbcfc0fc0d834f92f4f5",
       "title": "US : Rubio says Iran nuclear talks  highly technical , may take months",
       "summary": "",
@@ -218,18 +230,6 @@
       "age_min": 14.2
     },
     {
-      "hash": "02d6f1ba3d89c0fcbc88812e507ca1e3",
-      "title": "Marco Rubio defends Iran war as  highly successful , says Tehran may be open to new nuclear talks",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/world/marco-rubio-defends-iran-war-as-highly-successful-says-tehran-may-be-open-to-new-nuclear-talks-article-13938955.html",
-      "source": "GDELT/SUMMITS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T20:47:18.709626+05:00",
-      "age_min": 32.3
-    },
-    {
       "hash": "11ec685c861d98800649c7c1a0bd2c38",
       "title": "Kremlin Lawmaker Says Duma Made  Fundamental Decision  to Have New Mobilization This Fall",
       "summary": "",
@@ -254,16 +254,16 @@
       "age_min": 11.0
     },
     {
-      "hash": "13963bd06534b56f23430d65ac72c924",
-      "title": "Euro zone inflation jump reinforces case for June rate hike",
-      "summary": "",
-      "link": "http://www.kitco.com/news/off-the-wire/2026-06-02/euro-zone-inflation-jump-reinforces-case-june-rate-hike",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
+      "hash": "ad2013e7bf2207a5b89f626634242eb2",
+      "title": "Lebanon hopes crunch talks in Washington will halt an Israeli invasion",
+      "summary": "What will Israel and Lebanon discuss in Washington, as Hezbollah and Israel continue to battle in south Lebanon.",
+      "link": "https://www.aljazeera.com/news/2026/6/2/lebanon-hopes-crunch-talks-in-washington-will-halt-an-israeli-invasion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-02T20:46:36.922649+05:00",
-      "age_min": 31.6
+      "ts": "2026-06-03T00:47:21.779499+05:00",
+      "age_min": 22.6
     },
     {
       "hash": "78280231c81e3b08b46d0b55796d64f3",
@@ -300,6 +300,30 @@
       "status": "new",
       "ts": "2026-06-02T22:33:24.937390+05:00",
       "age_min": 14.6
+    },
+    {
+      "hash": "0b1d79b95a4125ea10f5f0067b2c6067",
+      "title": "Trump names Bill Pulte as acting director of national intelligence after Tulsi Gabbard resignation",
+      "summary": "",
+      "link": "https://www.kplctv.com/2026/06/02/trump-names-bill-pulte-acting-director-national-intelligence-after-tulsi-gabbards-resignation/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T00:46:33.419135+05:00",
+      "age_min": 46.6
+    },
+    {
+      "hash": "ed3be463e9151f0a653690a4540613ea",
+      "title": "Trump Reportedly Calls Netanyahu  Crazy  Over Beirut Attack as Iran Peace Talks Hang in Balance",
+      "summary": "",
+      "link": "https://www.hngn.com/articles/271456/20260602/trump-reportedly-calls-netanyahu-crazy-over-beirut-attack-iran-peace-talks-hang-balance.htm",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T00:46:06.115052+05:00",
+      "age_min": 61.1
     },
     {
       "hash": "8af1f24eec85c7629173db7f020c0695",
@@ -446,6 +470,30 @@
       "age_min": 69.7
     },
     {
+      "hash": "31e5e29ac18ad206316bd5dd50d17408",
+      "title": "Lebanon seeks Iranian pressure on Hezbollah to secure ceasefire , sources say",
+      "summary": "",
+      "link": "https://www.arabnews.com/node/2645794/middle-east",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T00:46:06.118071+05:00",
+      "age_min": 76.1
+    },
+    {
+      "hash": "d645208f138c933b34620a3dd805f9a5",
+      "title": "Israel strikes southern Lebanon despite Trump effort to shore up ceasefire | Lebanon",
+      "summary": "",
+      "link": "https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T00:46:06.116718+05:00",
+      "age_min": 76.1
+    },
+    {
       "hash": "762ace4e993630e35cf5d84373c5a1c0",
       "title": "Update : All Chinese across Taiwan Strait have shared duty to safeguard national sovereignty , maritime rights : spokesperson",
       "summary": "",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-02T22:33:26.372560+05:00",
       "age_min": 10.8
-    },
-    {
-      "hash": "6610b136a4dd38c624b7833665226a97",
-      "title": "Is Pfizer the Perfect Stock to Own with Kevin Warsh Heading the Fed? - AOL.com",
-      "summary": "Is Pfizer the Perfect Stock to Own with Kevin Warsh Heading the Fed?&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mZGRUYUJyeVlEWVhrNUtVWU5ENlV2c1dqR3Vvc2FkYzU5X3lab2ZrYjlNSHl5RHhiNjY2aGZ0X0txal9EeFNQQk15MUNwa0NlVEtIYktsNVlTQUxwQ3U3SlNDN283dGRmS0pjNnkxS3VGSVk1bjVJVUhtZzd1cU0?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T22:33:24.932204+05:00",
-      "age_min": 104.9
-    },
-    {
-      "hash": "2d6a8760673385970f09da544ecc0a0b",
-      "title": "Senior Houthi Official Warns Israel of 'Comprehensive Response' to Any Escalation in Lebanon - Kurdistan24",
-      "summary": "Senior Houthi Official Warns Israel of 'Comprehensive Response' to Any Escalation in Lebanon&nbsp;&nbsp;Kurdistan24",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY3VHOHQ1V2hvbUp3bndvbE1KQUs3YW9RWWJOcDFNTDhYZUoyOHdscTNibGFkN2t3YWRUQXNWY3liTTU5TzJGZjQ1NExOdzRfRFBrYm9DZ3JMQ09PQ0ZRRm42VWFDM0h0YVNwUW9WdGUycFRwczBUSElXU1kxMU4wLTZDeEhsaVZ6TkxkRVZzUkJsQW9Fa2IzanJ6M28zS0ZTVWxaeWhPV0kzRFBNXzZVRERhdUhDYkQ3dVhRNHZ0bE5yT1JCQ2VLclJWRWZSWWs?oc=5",
-      "source": "GNews/Mideast",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T22:03:36.955545+05:00",
-      "age_min": 16.8
-    },
-    {
-      "hash": "d1ede97d414f428b60684ae7fe588bc2",
-      "title": "Silver Gains as Falling Bond Yields and Lower Oil Prices Support Precious Metals - curacaochronicle.com",
-      "summary": "Silver Gains as Falling Bond Yields and Lower Oil Prices Support Precious Metals&nbsp;&nbsp;curacaochronicle.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSTd6c3Ztdm5Wc3lVNERaQ0t2UFdfdFpfbEFvSTlBX0NWTHpmS3VvU3EyY0ZzaVJsU0ZjY0Z2WjBZaTBob08tVHU1bDE5ZTB1RF83QnRpbGs5RFlvbENYS3FYSHY5OHVnQldvTjZrVTd0bm1oc0Etdm5JSUNaWHJXRU9OcVJucUNGLWJ2eER5U2FhTXVBLTR3VjBDdlhjOHJYaGFnR1I4aDEySm1KNXFlY2MzSFdIckdMSEJLZTJoS0ZydVpJ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T21:03:36.242090+05:00",
-      "age_min": 100.9
-    },
-    {
-      "hash": "35f818846b769c00e58f5e3522e154c5",
-      "title": "Trump Signs AI  Cyber Defense  Executive Order",
-      "summary": "",
-      "link": "https://www.theepochtimes.com/tech/trump-signs-ai-cyber-defense-executive-order-6042030",
-      "source": "GDELT/CYBER",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T22:46:54.585302+05:00",
-      "age_min": 61.9
     }
   ]
 }
