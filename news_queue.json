@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02T19:04:33.245493+05:00",
+  "updated": "2026-06-02T19:18:42.365034+05:00",
   "items": [
     {
       "hash": "8475eaf54b259a9c861d4285c29d235d",
@@ -50,6 +50,18 @@
       "age_min": 211.1
     },
     {
+      "hash": "efeea6f38e19a8c618c583e096af605b",
+      "title": "US Eyes Expanded Nuclear Weapons Deployment Across Europe",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/77342",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T19:15:45.296304+05:00",
+      "age_min": 30.8
+    },
+    {
       "hash": "b2d250534632de89f45103a3d6fa5c99",
       "title": "Russian economy  on brink of collapse  as Putin blows £400m on one Ukraine blitz",
       "summary": "",
@@ -72,6 +84,18 @@
       "status": "new",
       "ts": "2026-06-02T18:15:54.034693+05:00",
       "age_min": 45.9
+    },
+    {
+      "hash": "663c3e74541e9dd9d4b2184c810fbc4f",
+      "title": "Treasury bills fetch mixed yields with Iran war , inflation in focus",
+      "summary": "",
+      "link": "https://bworldonline.com/banking-finance/2026/06/02/753622/treasury-bills-fetch-mixed-yields-with-iran-war-inflation-in-focus/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T19:16:41.663690+05:00",
+      "age_min": 106.7
     },
     {
       "hash": "2ebe1f57305ce7de59643de39e6efa18",
@@ -290,16 +314,28 @@
       "age_min": 12.0
     },
     {
-      "hash": "293a522d498ced1abbf341741786b67c",
-      "title": "Kazakhstan open to hosting Iran uranium stockpile if nuclear deal is reached",
+      "hash": "cda0b1fe2487f704972432cf6e185386",
+      "title": "Fed warned on shrinking balance sheet in lookback at Powell era",
       "summary": "",
-      "link": "https://www.euronews.com/2026/06/02/kazakhstan-open-to-hosting-irans-uranium-stockpile-if-nuclear-deal-is-reached",
-      "source": "GDELT/CENTRAL_ASIA",
-      "score": 10,
-      "weight": 3,
+      "link": "https://www.nationalmortgagenews.com/articles/fed-warned-on-shrinking-balance-sheet-in-lookback-at-powell-era",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-02T15:17:07.407417+05:00",
-      "age_min": 92.1
+      "ts": "2026-06-02T19:16:41.661388+05:00",
+      "age_min": 31.7
+    },
+    {
+      "hash": "0c0eafb8ca5377f1ed475cd0b82bcf4b",
+      "title": "Кристин Лагард : Няма място за самодоволство , еврото трябва да стане по - силно",
+      "summary": "",
+      "link": "https://www.vesti.bg/sviat/kristin-lagard-niama-miasto-za-samodovolstvo-evroto-triabva-da-stane-po-silno-6261234",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T19:16:41.658400+05:00",
+      "age_min": 91.7
     },
     {
       "hash": "369ff0e31ebd9756a42df2240b701f26",
@@ -494,6 +530,66 @@
       "age_min": 33.1
     },
     {
+      "hash": "ff9f58217962accd25139a493ab049d2",
+      "title": "How the war has made Iran’s water crisis worse",
+      "summary": "Attacks on desalination plants and other water infrastructure by US and Israel have further added to the water woes.",
+      "link": "https://www.aljazeera.com/news/2026/6/2/how-the-war-has-made-irans-water-crisis-worse?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T19:17:44.697984+05:00",
+      "age_min": 184.7
+    },
+    {
+      "hash": "72701d91b67c94ed240c30f90d1246ca",
+      "title": "Israel kills five in attacks on Lebanon after Trump announces de-escalation",
+      "summary": "The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.",
+      "link": "https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-02T19:17:44.696438+05:00",
+      "age_min": 172.4
+    },
+    {
+      "hash": "786e5b9c1b2d44216bd1d8782d3eaf95",
+      "title": "Russian attack kills at least 18 in Ukraine , some of them children",
+      "summary": "",
+      "link": "https://www.bostonherald.com/2026/06/02/russia-deadly-attack-ukraine/",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T19:15:45.301447+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "5a348d42816da2e05718630aedce1f98",
+      "title": "Some kind of apocalypse : A Kyiv resident recalls terror of Russian attack",
+      "summary": "",
+      "link": "https://www.thestar.com.my/news/world/2026/06/02/039some-kind-of-apocalypse039-a-kyiv-resident-recalls-terror-of-russian-attack",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T19:15:45.298210+05:00",
+      "age_min": 90.8
+    },
+    {
+      "hash": "de0a88a6ac09774fac0bc4f58defba75",
+      "title": "At least 11 killed in large - scale Russian attack on Ukraine",
+      "summary": "",
+      "link": "https://sana.sy/en/international/2320813/",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-02T19:15:45.297900+05:00",
+      "age_min": 90.8
+    },
+    {
       "hash": "e3073ebd543785304f35fb446b46fdbd",
       "title": "The war will not end , even when it ... ends – The West will strike again , but Russia will impose peace",
       "summary": "",
@@ -504,102 +600,6 @@
       "status": "new",
       "ts": "2026-06-02T19:02:34.111385+05:00",
       "age_min": 32.6
-    },
-    {
-      "hash": "8a267b35fd49aabc74f75f460bda3dee",
-      "title": "Putin largest drone strike leaves a devastating trail of death across Ukraine - London Business News",
-      "summary": "",
-      "link": "https://londonlovesbusiness.com/putins-largest-drone-strike-leaves-a-devastating-trail-of-death-across-ukraine/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T19:01:54.815597+05:00",
-      "age_min": 106.9
-    },
-    {
-      "hash": "8108ae014dc1f8d99ea4e46d127df1c9",
-      "title": "Massive Russian attack on cities across Ukraine kills at least 14 people",
-      "summary": "",
-      "link": "https://www.graphic.com.gh/international/international-news/massive-russian-attack-on-cities-across-ukraine-kills-at-least-14-people.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T19:01:54.811301+05:00",
-      "age_min": 31.9
-    },
-    {
-      "hash": "32816d2dd3af1bf34c688fd4fab2c60d",
-      "title": "Russia Delivers Its Promised Attack",
-      "summary": "",
-      "link": "https://www.newser.com/story/390261/kids-among-dead-as-russia-bombards-ukraine.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T19:01:54.810336+05:00",
-      "age_min": 91.9
-    },
-    {
-      "hash": "7d43844e43de8eecd385eab92e6dfac8",
-      "title": "The next tech war? Why biotech may become a new US-China battleground",
-      "summary": "The wide-ranging geopolitical rivalry between Beijing and Washington could soon expand into biotechnology, raising the prospect of fresh tensions even as American pharmaceutical firms have turned to China’s fast-growing industry for new drug candidates.\nBiotech in the world’s second-largest economy has long been viewed as a predominantly low-cost manufacturing base with opportunities arising from ",
-      "link": "https://www.scmp.com/economy/global-economy/article/3355700/next-tech-war-why-biotech-may-become-new-us-china-battleground?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T18:33:00.308711+05:00",
-      "age_min": 152.9
-    },
-    {
-      "hash": "fa7f04715d56bc4e736c66fb2b38a748",
-      "title": "Manchester synagogue attack survivor completes half - marathon recovery goal",
-      "summary": "",
-      "link": "https://www.israelnationalnews.com/flashes/686816",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T18:15:54.045601+05:00",
-      "age_min": 45.9
-    },
-    {
-      "hash": "d254f5b5aa615136e0010dcd286e732d",
-      "title": "How does Iran leadership view the emerging deal with the US ? | US - Israel war on Iran News",
-      "summary": "",
-      "link": "https://www.aljazeera.com/news/2026/6/2/how-does-irans-leadership-view-the-emerging-deal-with-the-us-2",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-02T17:46:25.790913+05:00",
-      "age_min": 31.4
-    },
-    {
-      "hash": "7f3d33022309901d7dbdc721dc58c708",
-      "title": "Everybody hates you : Trump yells at Netanyahu over Lebanon escalation",
-      "summary": "",
-      "link": "https://www.middleeasteye.net/news/everybody-hates-you-trump-yells-netanyahu-over-lebanon-escalation",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T17:31:18.928471+05:00",
-      "age_min": 31.3
-    },
-    {
-      "hash": "9a27d9cf16e21e765714854ba252b777",
-      "title": "Heavy Russian attack on Ukrainian cities kills 18",
-      "summary": "",
-      "link": "https://www.canberratimes.com.au/story/9274453/heavy-russian-attack-on-ukrainian-cities-kills-18/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-02T17:15:58.634684+05:00",
-      "age_min": 31.0
     }
   ]
 }
