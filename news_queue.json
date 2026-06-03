@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03T12:33:57.421182+05:00",
+  "updated": "2026-06-03T12:48:06.473113+05:00",
   "items": [
     {
       "hash": "cac5aca15403c5e587d02d5feaa214da",
@@ -72,18 +72,6 @@
       "status": "new",
       "ts": "2026-06-03T09:17:33.629035+05:00",
       "age_min": 17.5
-    },
-    {
-      "hash": "2d64e945e77aaf3e33b67568e9a2a974",
-      "title": "India’s Oil Demand Growth Set for Pandemic Low on War Crunch",
-      "summary": "India’s oil demand growth this year could tumble to its lowest level since the pandemic as the fallout from the Middle East conflict saps fuel consumption in the world’s third-biggest crude importer.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/india-s-oil-demand-growth-set-for-pandemic-low-on-war-crunch",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T08:46:55.191689+05:00",
-      "age_min": 31.2
     },
     {
       "hash": "e719334c81b26f325adc6812c607e55d",
@@ -374,6 +362,30 @@
       "age_min": 76.4
     },
     {
+      "hash": "6281c6277e390f571a398a2d7a70ac69",
+      "title": "Trump urges swift rate cuts hours after Warsh sworn in - MSN",
+      "summary": "Trump urges swift rate cuts hours after Warsh sworn in&nbsp;&nbsp;MSN",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVERmS01aQnZjRHhpQm1FMFl2bVd4WVcwUWE0aDBZSzI3cjc4TURzZkh4ZV9nR1FJbG5RUzdHakVyaUM4R1ZGZk5qSVJnMHZPV3ZWdlNRaWU3TUZXRm5mLTNBLU5kV2pGMlRuMXZRRFZvd1ViRWxsdVNpNENqVEFfNXdvaThRR0o3SnBrb3JmZXpKY29IWUd1eUdpN1VWVDFDZVJmbjg3R2dYb1R1RVRxSjlRYlV6RDNUeVBrWFpWTFdJdlBkYi16WFRwOFJaT0NZMTRuRlFRS215Rjg4Vy1QekhCSU1Uc2tyc1Y4?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-03T12:47:45.438896+05:00",
+      "age_min": 13.0
+    },
+    {
+      "hash": "3e803020ab4a9da00c1550781bded7b2",
+      "title": "Trump tariff plans weigh on European stocks; Dulux owner's shares halted as takeover falls through",
+      "summary": "Investors are also continuing to monitor developments in the U.S.-Iran war after tensions escalated overnight.",
+      "link": "https://www.cnbc.com/2026/06/03/europe-markets-trump-eu-tariffs-zara-inditex.html",
+      "source": "CNBC",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-03T12:47:09.407894+05:00",
+      "age_min": 9.0
+    },
+    {
       "hash": "e0d07ed0f4047fff59f4b7d0ac8d12f0",
       "title": "OECD warns of global slowdown as U.S.-Iran war stymies economic growth prospects",
       "summary": "The OECD has cut its global growth outlook, warning of lasting damage caused by the Middle East conflict.",
@@ -542,6 +554,18 @@
       "age_min": 17.8
     },
     {
+      "hash": "439f223307a9509788d4a7bd37e2b929",
+      "title": "Colorado SJP praises Boulder firebomb terrorist on anniversary of attack",
+      "summary": "",
+      "link": "https://www.jpost.com/diaspora/antisemitism/article-898178",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T12:45:44.520104+05:00",
+      "age_min": 30.7
+    },
+    {
       "hash": "c3c7816f27ee902fae7029b34ac4a8e9",
       "title": "Global Economy Risks Slump on Prolonged Iran Conflict, OECD Says",
       "summary": "The fate of the global economy hinges on the conflict in the Middle East that has already stifled growth and could yet trigger recessions and significantly stronger inflation, the OECD said.",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-03T11:31:12.109793+05:00",
       "age_min": 46.2
-    },
-    {
-      "hash": "20359ff4f703952df07ee4d53db79e1c",
-      "title": "Massive Russian attack kills 22 people across Ukraine , officials say , as Moscow escalates fighting",
-      "summary": "",
-      "link": "https://www.reflector.com/news/national/massive-russian-attack-kills-22-people-across-ukraine-officials-say-as-moscow-escalates-fighting/article_52bd0b2c-4787-5891-af22-2398dd08c928.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T11:31:12.107123+05:00",
-      "age_min": 61.2
-    },
-    {
-      "hash": "3392013d09ad1c67dbabc236a3c0c007",
-      "title": "Drone strike kills 7 on bus in Russia - held eastern Ukraine",
-      "summary": "",
-      "link": "https://arynews.tv/drone-strike-kills-7-bus-russia-held-eastern-ukraine",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T11:31:12.106421+05:00",
-      "age_min": 31.2
     }
   ]
 }
