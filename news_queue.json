@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-03T17:33:23.694154+05:00",
+  "updated": "2026-06-03T17:48:05.339125+05:00",
   "items": [
+    {
+      "hash": "351e3ad2c4bf80d7e973a71291293cc6",
+      "title": "Options Traders Look Past Jobs Data as Inflation Takes Spotlight",
+      "summary": "Wall Street traders expect a strong jobs report on Friday. That may not be enough to soothe them, as the war-fueled oil price shock increasingly shifts the focus toward inflation.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-03/options-traders-look-past-jobs-data-as-inflation-takes-spotlight",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-03T17:47:05.329604+05:00",
+      "age_min": 17.6
+    },
     {
       "hash": "a1238fbe6ec405132055250109458873",
       "title": "Kuwait to Look at Expanding Global Oil Storage After Iran War",
@@ -74,42 +86,6 @@
       "age_min": 9.1
     },
     {
-      "hash": "4193297f4dc3ad84b7163f5cbfa1f501",
-      "title": "Pakistan’s Fuel Sales Slump as War Boosts Prices and Hits Demand",
-      "summary": "Fuel sales in Pakistan have slumped as costlier prices triggered by the Iran war force consumers to cut back, according to AKD Securities Ltd.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/pakistan-s-fuel-sales-slump-as-war-boosts-prices-and-hits-demand",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:47:19.631815+05:00",
-      "age_min": 38.3
-    },
-    {
-      "hash": "e52fc316e5e1b25a58ebf8c549912583",
-      "title": "Crude , LPG supply to India smoothens in May after two glitchy months ; LNG supply beats pre - war levels",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/crude-lpg-supply-to-india-smoothens-in-may-after-two-glitchy-months-lng-supply-beats-pre-war-levels/articleshow/131477429.cms",
-      "source": "GDELT/ENERGY",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:46:41.128457+05:00",
-      "age_min": 91.7
-    },
-    {
-      "hash": "cd4b3d1723e706c5a0a958350b26a750",
-      "title": "Gulf Tensions Escalate as Iranian Missile Attacks Fail and Nuclear Talks Remain Stalled",
-      "summary": "",
-      "link": "http://www.econotimes.com/Gulf-Tensions-Escalate-as-Iranian-Missile-Attacks-Fail-and-Nuclear-Talks-Remain-Stalled-1743373",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:45:40.720039+05:00",
-      "age_min": 60.7
-    },
-    {
       "hash": "03f4a1c987028c162a1a2da3411eeff7",
       "title": "China Opaque Nuclear Ambitions Raise Global Concerns",
       "summary": "",
@@ -156,18 +132,6 @@
       "status": "new",
       "ts": "2026-06-03T14:01:24.589748+05:00",
       "age_min": 76.4
-    },
-    {
-      "hash": "ad1ce145a0ae5969635f1f19137c5714",
-      "title": "As NATO eyes the nuclear bomb , did anyone check whether it works ?",
-      "summary": "",
-      "link": "https://www.lrt.lt/en/news-in-english/19/2949001/as-nato-eyes-the-nuclear-bomb-did-anyone-check-whether-it-works",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:45:40.722371+05:00",
-      "age_min": 105.7
     },
     {
       "hash": "99f7ed66e735b71140e70aa7e063b472",
@@ -302,52 +266,16 @@
       "age_min": 61.4
     },
     {
-      "hash": "bdfef008c05b3821e8881406e149a57b",
-      "title": "Война в Украине - массовые ракетные удары Путина выдают скрытый крах армии РФ",
-      "summary": "",
-      "link": "https://www.unian.net/war/voyna-v-ukraine-massovye-raketnye-udary-putina-vydayut-skrytyy-krah-armii-rf-13400778.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "2a2357844aae2f94bb68128685897cd4",
+      "title": "China, tungsten and a supply shock in metal critical for war that will last far beyond Iran conflict",
+      "summary": "Simultaneous wars in Ukraine and Iran have depleted sources of tungsten, a largely obscure metal that is critical to munitions and industrial production.",
+      "link": "https://www.cnbc.com/2026/06/03/china-metals-national-security-defense-weapons-supply-tungsten.html",
+      "source": "CNBC",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-03T13:45:40.723751+05:00",
-      "age_min": 90.7
-    },
-    {
-      "hash": "838436d22486b78876bf62c6ef068da2",
-      "title": "Hostilities flare in Iran war amid stalled negotiations | World",
-      "summary": "",
-      "link": "http://en.ammonnews.net/article/92101",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:45:40.721058+05:00",
-      "age_min": 75.7
-    },
-    {
-      "hash": "46388c6e1bd4ae74d8aad76496b88f34",
-      "title": "США и Иран обменялись ударами на фоне тупика в переговорах – война на Ближнем Востоке",
-      "summary": "",
-      "link": "https://www.obozrevatel.com/novosti-mir/ssha-i-iran-obmenyalis-udarami-na-fone-tupika-v-peregovorah-chto-izvestno.htm",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:45:40.720804+05:00",
-      "age_min": 30.7
-    },
-    {
-      "hash": "b8812b1e979ece6a1fb17e0a9a496ca8",
-      "title": "Russia Launches Massive Missile and Drone Attack on Ukraine",
-      "summary": "",
-      "link": "http://www.econotimes.com/Russia-Launches-Massive-Missile-and-Drone-Attack-on-Ukraine-1743366",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:45:40.719159+05:00",
-      "age_min": 60.7
+      "ts": "2026-06-03T17:47:06.362164+05:00",
+      "age_min": 76.9
     },
     {
       "hash": "3b673079cf465eda1abfeec38855ed90",
@@ -422,18 +350,6 @@
       "age_min": 15.5
     },
     {
-      "hash": "22da4c120103d49c47f392c33f1a25cc",
-      "title": "US , South Korea Nuclear Talks : Uranium Enrichment Rights",
-      "summary": "",
-      "link": "https://www.newkerala.com/news/a/south-korea-us-continue-security-talks-second-day-932.htm",
-      "source": "GDELT/SUMMITS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-03T13:47:04.354821+05:00",
-      "age_min": 32.1
-    },
-    {
       "hash": "9b07277f0ccd464ea2298e9328b90c65",
       "title": "Путин подписал распоряжение, разрешающее компании «Нордлайн» провести сделку по приобретению 1 [...]",
       "summary": "Путин подписал распоряжение, разрешающее компании «Нордлайн» провести сделку по приобретению 10% в уставном капитале ООО «Арктик СПГ 2», принадлежащих TotalEnergies.",
@@ -468,18 +384,6 @@
       "status": "new",
       "ts": "2026-06-03T14:16:23.844884+05:00",
       "age_min": 61.4
-    },
-    {
-      "hash": "db64e74c1cef42cfeacd02926d9a93aa",
-      "title": "Why the Strait of Hormuz Is at the Heart of the US-Iran Stalemate",
-      "summary": "No region of the world produces more oil and gas than the countries straddling the Persian Gulf. Most of this energy can only be exported aboard tankers that cross the Strait of Hormuz &mdash; a waterway that’s effectively been blocked for more than three months.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-03/why-strait-of-hormuz-blockade-is-at-heart-of-us-iran-peace-deal-stalemate",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-03T13:47:19.629757+05:00",
-      "age_min": 12.0
     },
     {
       "hash": "fb341af606d76b1fc59e281b47668a5b",
@@ -554,6 +458,18 @@
       "age_min": 20.7
     },
     {
+      "hash": "68a5c86b8b83e31b9e3668aef21bb7c8",
+      "title": "Attacks on Kuwait and Bahrain Add Further Strain to U.S.-Iran Cease-Fire",
+      "summary": "One person was killed in an attack on the international airport in Kuwait, local authorities said, as Iran continues to target U.S. allies in the Persian Gulf.",
+      "link": "https://www.nytimes.com/2026/06/03/world/middleeast/iran-attacks-kuwait-bahrain-ceasefire.html",
+      "source": "NYT World",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-03T17:47:06.241101+05:00",
+      "age_min": 9.6
+    },
+    {
       "hash": "b0f99fcdce66a1ded9ebfcb0f5ce5cbc",
       "title": "Yemen Houthis threaten Israel with  major , comprehensive  response if escalation in Lebanon continues – Middle East Monitor",
       "summary": "",
@@ -600,6 +516,18 @@
       "status": "new",
       "ts": "2026-06-03T17:17:16.411184+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "9d0a31b698226e5f10d9b25edd629654",
+      "title": "Kuwait says 63 people injured in Iranian attack - Breakingthenews.net",
+      "summary": "Kuwait says 63 people injured in Iranian attack&nbsp;&nbsp;Breakingthenews.net",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRwR3V6Z3BHM1hFTnYxUzBMMlFncjZIbndfbXR5OWU1emo1cUFGWDNBVmtWaWh3eWtoN25scGlJRV9WLXJJdDlaMWNZTVo3OUpsd2ExZEtXSTNVV085bmNyOWdYUkdGNi15blR0YTA0R29mS3NjWlFwZnRPbmx6N0NERlRwSWtXYi1pbmYxQUlCNzVFbzZF?oc=5",
+      "source": "GNews/Breaking",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-03T17:47:40.427619+05:00",
+      "age_min": 13.7
     }
   ]
 }
