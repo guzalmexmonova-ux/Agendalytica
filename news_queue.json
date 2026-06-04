@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T11:47:53.612709+05:00",
+  "updated": "2026-06-04T12:03:48.562232+05:00",
   "items": [
     {
       "hash": "dea638f5199e5c7b5c403ef10a1af2e4",
@@ -48,6 +48,18 @@
       "status": "new",
       "ts": "2026-06-04T09:00:53.502774+05:00",
       "age_min": 105.9
+    },
+    {
+      "hash": "93e0f9343b82b5ae0b0134e559c31cbb",
+      "title": "The S & P 500 has only risen this quickly 4 times since WWII . Once , a historic stock - market crash followed .",
+      "summary": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/p-500-only-risen-quickly-170000600.html",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:02:12.680314+05:00",
+      "age_min": 107.2
     },
     {
       "hash": "cb1d570b844ddfc7b9fba5bef224e3ab",
@@ -158,18 +170,6 @@
       "age_min": 105.8
     },
     {
-      "hash": "97a2e4f3d63553ecec3d7396a989f9ba",
-      "title": "Trump tells aides he wont resume all - out war with Iran unless US troops killed",
-      "summary": "",
-      "link": "https://www.livemint.com/global/trump-tells-aides-he-won-t-resume-all-out-war-with-iran-unless-us-troops-killed-11780534164650.html",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T08:01:26.252798+05:00",
-      "age_min": 76.4
-    },
-    {
       "hash": "c9057d0099d1678a4919cf18c194bece",
       "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion - Reuters",
       "summary": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion&nbsp;&nbsp;Reuters",
@@ -218,6 +218,18 @@
       "age_min": 116.0
     },
     {
+      "hash": "5ee5936a22e81112fd5b14d66de3d2e1",
+      "title": "Israel and Lebanon agree to implement ceasefire",
+      "summary": "Deal announced by US state department calls for Hizbollah to stop all attacks",
+      "link": "https://www.ft.com/content/468ce636-1a7e-4a14-9be1-6d0f48b6b48f",
+      "source": "FT",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:03:11.185324+05:00",
+      "age_min": 16.2
+    },
+    {
       "hash": "7df8a0d3dd1dce404295c6e6b0dcd6e1",
       "title": "Base Metals Dip on Middle East Uncertainty, Tech Stock Pullback",
       "summary": "Copper and aluminum extended their retreat as US President Donald Trump continued his fraught push to reach a peace deal with Iran, while a pullback in technology stocks also weighed on sentiment.",
@@ -254,30 +266,6 @@
       "age_min": 31.7
     },
     {
-      "hash": "0a6ef28719d3121b5c93a2101bda9559",
-      "title": "Consumers Energy Seeks Another Rate Hike",
-      "summary": "",
-      "link": "https://wmmq.com/ixp/691/p/consumers-energy-rate-hike-request/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T08:02:09.541717+05:00",
-      "age_min": 32.2
-    },
-    {
-      "hash": "6435bec541ec6f1972b76a9b446fc8a2",
-      "title": "Consumer advocacy groups oppose Illinois American Water $142 . 4M rate hike and potential major acquisition",
-      "summary": "",
-      "link": "https://chicago.suntimes.com/money/2026/06/03/consumer-advocacy-groups-oppose-illinois-american-water-rate-hike-acquisition",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T08:02:09.536414+05:00",
-      "age_min": 62.2
-    },
-    {
       "hash": "beda2718b1d7f61de80fc0d386703fe6",
       "title": "Polonia y Lituania buscan ampliar su rol en la disuasión nuclear de la OTAN",
       "summary": "",
@@ -300,6 +288,18 @@
       "status": "new",
       "ts": "2026-06-04T09:02:17.418271+05:00",
       "age_min": 62.3
+    },
+    {
+      "hash": "5e9087bc1728d985da2ed11bca840475",
+      "title": "What the US-Israel war on Iran will not change in the Middle East",
+      "summary": "The war may redraw alliances and shift balances of power, but geography, Palestine and political identity will endure.",
+      "link": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T12:03:11.649323+05:00",
+      "age_min": 8.0
     },
     {
       "hash": "74eae55b7e2b00ba5dfebdbe43e18b21",
@@ -470,18 +470,6 @@
       "age_min": 76.4
     },
     {
-      "hash": "f66bd515071c03813e41d43c71ee2b17",
-      "title": "Fed Warsh inherits economy increasingly squeezed by inflation",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/feds-warsh-inherits-economy-increasingly-squeezed-by-inflation/articleshow/131494709.cms",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T08:02:09.534654+05:00",
-      "age_min": 47.2
-    },
-    {
       "hash": "287c232da55758dcfee4544343abc739",
       "title": "High oil prices and expectations of interest rate hikes pressure Asian currencies; South Korea, Indonesia, and Japan respond together - Bitget",
       "summary": "High oil prices and expectations of interest rate hikes pressure Asian currencies; South Korea, Indonesia, and Japan respond together&nbsp;&nbsp;Bitget",
@@ -554,6 +542,42 @@
       "age_min": 30.8
     },
     {
+      "hash": "aa28e0a609c63cd0e7d93a192198aaf4",
+      "title": "Warsh Signals Overhaul of Fed Communications, Eyes Dot Plot First - Seoul Economic Daily",
+      "summary": "Warsh Signals Overhaul of Fed Communications, Eyes Dot Plot First&nbsp;&nbsp;Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUpJZ0Z3QWlmWUpBWWZJVjZvMGhfSjA4OU9ST1dCaUREaml1ZTRuRTNrNm5yZ3BSUk0zQjduaU9WamlIZ1p1cC1aam9kemR0Z0x0Rk9rYmllMnhZSjhEMzZpa0Z6NnI4N2owc1g3M1NRenhraEtuRWV5VU9vcUNLdENScm90ZmlaVjZHVi1PbHBWc3RlYUlUNXRHNEpTakFTNVh1QUUwd0RfUQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T12:03:34.276500+05:00",
+      "age_min": 34.9
+    },
+    {
+      "hash": "fa9bf36b95e899512d08abe12b1e5a45",
+      "title": "Warsh's New Fed Vision: From Hawkish Reputation to Market Uncertainty - Devdiscourse",
+      "summary": "Warsh's New Fed Vision: From Hawkish Reputation to Market Uncertainty&nbsp;&nbsp;Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFlaZ2RyaU9qdTZkWnhOcWZTclFpb2RMd3dwcXM3RVltMU52X0J5eUJaY3pVajFwNXVGckh0dG8yNlFhTDdRRkJELWp4N3NPVUkzQkhiaTlBcDhPRnZqUnN0eERZNm9HbVlVaWNTckctelNXV3lJNVRPMnBCN1BBYVVjT0J6Rm56VjBCc1FNX2VDZ3FiZWFXQ1NyeEl3THNnc1ptYmpsaXFnekNoN1NkckVSd2QtUW5jXzRPdjg5OS01aFXSAcMBQVVfeXFMTXRZWmdkcmlPanU2ZFp4TnFmU3JRaW9kTHd3cHFzN0VZbTFOdl9CeXlCWmN6VWoxcDV1RnJIdHRvMjZRYUw3UUZCRC1qeDdzT1VJM0JIYmk5QXA4T0Z2alJzdHhEWTZvR21ZVWljU3JHLXpTV1d5STVUTzJwQjdQQWFVY09CekZuelYwQnNRTV9lQ2dxYmVhV0NTcnhJd0xzZ3NabWJqbGlxZ3pDaDdTZHJFUndkLVFuY180T3Y4OTktNWhV?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T12:03:34.275094+05:00",
+      "age_min": 62.7
+    },
+    {
+      "hash": "505a6c64c60288d5e07092d803de481a",
+      "title": "Погибшие в Симферополе и удар по пригородному поезду. Последствия атак БПЛА",
+      "summary": "Над регионами сбили 272 украинских беспилотника",
+      "link": "https://tass.ru/proisshestviya/27637961",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T12:03:14.259930+05:00",
+      "age_min": 14.0
+    },
+    {
       "hash": "3648c906bff73b5d9f00250e7d7ff40a",
       "title": "How India’s CBSE exam scandal set off student outrage against PM Modi",
       "summary": "India&#039;s largest school board has been mired in controversies, sparking demands that Modi&#039;s education minister resign.",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-04T11:32:59.413228+05:00",
       "age_min": 12.1
-    },
-    {
-      "hash": "21593a47f3179558caaf5bc1b6d3e13c",
-      "title": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street - AOL.com",
-      "summary": "3 Ways Kevin Warsh Aims to Reshape the Federal Reserve -- and They Can All Decimate Wall Street&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoTmlhNHR3YTJxLWlQX18xeUZGU21PbncyazVGWFlvbUNUUzdGTWlUMGgtSGVRa3kxVG03NmllOTlwZ2t6SkJweUNSMk1ZSHpLeEN0RWM4Wkk4Um9TTDlEN0ROMWRwaTVWU2dFZ24wdlZybXdCN2c?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-04T10:33:12.562996+05:00",
-      "age_min": 104.4
-    },
-    {
-      "hash": "773d81894a779e8fcbdb135623febc4a",
-      "title": "Global Market: Japanese bond yields mixed as BOJ rate-hike expectations and inflation concerns shape sentiment - Inkl",
-      "summary": "Global Market: Japanese bond yields mixed as BOJ rate-hike expectations and inflation concerns shape sentiment&nbsp;&nbsp;Inkl",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONTkxbWhaYnpzZWlZSnM5d3I4cWRrYXpjbkp3UnNhaXd6VU9yY2dUNjhOdzBSZEpBa2g1M3VSZHdSWlNHZnlyM29LUjlub0xONVdYaGpxanZVWmdWazhnazJOM0UyN2FPOTZjMmswdnpEejRXRDJMeUJoOFNGTml4ZkVmLURrazA2R2ZSUjY3MG80ZUdmQnB4dUNQTl80WHJlZDRSZjhWem5pYWRBcllvUTJkSmxRVHF2Y2JZT3hRRWQ0LWZiSUUwTDl2d2hoVHF0?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-04T10:18:07.831439+05:00",
-      "age_min": 62.8
     }
   ]
 }
