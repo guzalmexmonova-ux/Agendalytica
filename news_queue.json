@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T12:35:39.868206+05:00",
+  "updated": "2026-06-04T12:47:49.961733+05:00",
   "items": [
     {
       "hash": "127e2f0c044043835e9aa9d747828c88",
@@ -38,6 +38,18 @@
       "age_min": 17.3
     },
     {
+      "hash": "0571647440c5dd1fdc825acce4a13bdf",
+      "title": "Kim Jong Un calls for expansion of North Korea nuclear arsenal",
+      "summary": "",
+      "link": "https://www.khaama.com/kim-jong-un-calls-for-expansion-of-north-koreas-nuclear-arsenal/",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:45:41.476278+05:00",
+      "age_min": 45.7
+    },
+    {
       "hash": "bf5223004d29cdbc29fb2b8005bb012f",
       "title": "Iran Signals Nuclear Talks as US Seeks Diplomatic Breakthrough",
       "summary": "",
@@ -48,6 +60,18 @@
       "status": "new",
       "ts": "2026-06-04T09:00:53.502774+05:00",
       "age_min": 105.9
+    },
+    {
+      "hash": "8e55784927af5dfdd07881d4971fd531",
+      "title": "With Trump in a holding pattern on Iran war , allies and critics worry he risks getting boxed in",
+      "summary": "",
+      "link": "https://mynorthwest.com/national/with-trump-in-a-holding-pattern-on-iran-war-allies-and-critics-worry-he-risks-getting-boxed-in/4244756",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:45:41.477544+05:00",
+      "age_min": 75.7
     },
     {
       "hash": "93e0f9343b82b5ae0b0134e559c31cbb",
@@ -158,18 +182,6 @@
       "age_min": 45.9
     },
     {
-      "hash": "f93a1699b16a1e963749dfeb01b72c5d",
-      "title": "We Are Shocked Shocked to Find War Criminals at the Israel Day Parade",
-      "summary": "",
-      "link": "https://prospect.org/2026/06/03/war-criminals-israel-day-parade-bezalel-smotrich-meir-kahane/",
-      "source": "GDELT/TERRORISM",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T08:45:50.573206+05:00",
-      "age_min": 105.8
-    },
-    {
       "hash": "067d767319821e24c4680b7602ac4648",
       "title": "US House Approves Measure To End Iran War As Rubio Insists Conflict Is Over",
       "summary": "",
@@ -264,18 +276,6 @@
       "status": "new",
       "ts": "2026-06-04T09:47:07.687489+05:00",
       "age_min": 8.4
-    },
-    {
-      "hash": "40b7dd34d669d323edd2155cad14dda4",
-      "title": "Illinois Drivers Hit With 18 % Rate Hike Will Get Relief as Giannoulia Insurance Reform Bill Heads to the Governor - Insurance News",
-      "summary": "",
-      "link": "https://insurancenewsnet.com/oarticle/illinois-drivers-hit-with-18-rate-hike-will-get-relief-as-giannoulias-insurance-reform-bill-heads-to-the-governor",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T08:46:39.221946+05:00",
-      "age_min": 31.7
     },
     {
       "hash": "beda2718b1d7f61de80fc0d386703fe6",
@@ -458,16 +458,16 @@
       "age_min": 90.9
     },
     {
-      "hash": "2f0039fbe50f0842c49d9dbf0876eef7",
-      "title": "Owo church attack : Court sentences 4 to death by hanging",
-      "summary": "",
-      "link": "https://thesun.ng/owo-church-attack-court-sentences-4-to-death-by-hanging/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
+      "hash": "3d072e63ef6143ee228a4cb2a7e6fd8a",
+      "title": "Jerome Powell Warns Against Political Interference at Federal Reserve - asatunews.co.id",
+      "summary": "Jerome Powell Warns Against Political Interference at Federal Reserve&nbsp;&nbsp;asatunews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52c005RVZzRkt3TGMxeDVFSHN5dURaOFI2eWVBdWcxS1VDQXRIaEE2TFVJb1pxcnQ0Q3U1NXI3Z29ReE9VRm9SelFsRkFDRlRFT3l5MHE0WnlodkV4U0FneHlNYVBUQkl2V0sxQmlyam04SUZSSzF6Rm9R?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-04T08:45:50.568876+05:00",
-      "age_min": 45.8
+      "ts": "2026-06-04T12:47:36.025024+05:00",
+      "age_min": 13.0
     },
     {
       "hash": "287c232da55758dcfee4544343abc739",
@@ -492,6 +492,42 @@
       "status": "new",
       "ts": "2026-06-04T11:47:34.581854+05:00",
       "age_min": 45.6
+    },
+    {
+      "hash": "413fefda01292f6ffd0d0efa77a421e4",
+      "title": "Israel and Lebanon to renew ceasefire with Hezbollah banned from security zones",
+      "summary": "",
+      "link": "https://www.bournemouthecho.co.uk/news/national/26164669.israel-lebanon-renew-ceasefire-hezbollah-banned-security-zones/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:45:41.483157+05:00",
+      "age_min": 30.7
+    },
+    {
+      "hash": "526a7001466d90fc607b279d4baf3e7d",
+      "title": "Трамп готов отменить перемирие с Ираном при гибели военных США",
+      "summary": "",
+      "link": "https://www.kommersant.ru/doc/8711352",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:45:41.482166+05:00",
+      "age_min": 45.7
+    },
+    {
+      "hash": "6a81f30ce657e29d1173aba7a2d55fd2",
+      "title": "Israel and Lebanon Agree to Ceasefire Amid Tensions | WJBO Newsradio 1150 AM & 98 . 7 FM",
+      "summary": "",
+      "link": "https://wjbo.iheart.com/content/2026-06-04-israel-and-lebanon-agree-to-ceasefire-amid-tensions/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T12:45:41.480690+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "5e72d7d1b060ad408a02ca5f3d6ff644",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-04T09:30:48.619567+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "ec816cfc5b04332423b859683612b63b",
-      "title": "RBI Monetary Policy Preview: Impact on Indian Bond Yields and Rupee - Republic World",
-      "summary": "RBI Monetary Policy Preview: Impact on Indian Bond Yields and Rupee&nbsp;&nbsp;Republic World",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeTdtSW1hSWhlMEVhXzFFT2JEM21DckpRQ3d1V09vY1NPRWJETjRpTjZZRURORmNkcDJZTXgwNnhIRUtxdjZzcG9BdjVBSU5Ja0dtcHpZbzh6SURJSnJ4MlZvcXU0cGpGVzl0d0k2WFg0V05aY1VlSmZvTS1YVE9XaXVZNUFKeHJVOTc5SHdpMm5JNmYtM1dxQ0oyZEtFYTExTHpDR1p4X052clRBamxn0gG0AUFVX3lxTE1ORkFFNDFXUTlDMjBHVUFjazZWYkRTbnpoMldOTlNLM2FZbk04RDdVUG5DdVQtRW1BaTVrcmtnWWdLdHlVNE9BaFQ3Q3FuWjd0YVFLZHF6bjRyd0hlMmxPcm9GSzlJZmEtSGpFQ2hnWXF0cmNEdDhaZkQ2UXJBeVZUblE0ZEdHb0tWT2R0ZFpEM1JyY0MxdlB4U2ljdVNBbHlLYTdtaDZEWEZndHExSnkxci1BMQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-04T12:18:34.506615+05:00",
-      "age_min": 8.1
-    },
-    {
-      "hash": "aa28e0a609c63cd0e7d93a192198aaf4",
-      "title": "Warsh Signals Overhaul of Fed Communications, Eyes Dot Plot First - Seoul Economic Daily",
-      "summary": "Warsh Signals Overhaul of Fed Communications, Eyes Dot Plot First&nbsp;&nbsp;Seoul Economic Daily",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQUpJZ0Z3QWlmWUpBWWZJVjZvMGhfSjA4OU9ST1dCaUREaml1ZTRuRTNrNm5yZ3BSUk0zQjduaU9WamlIZ1p1cC1aam9kemR0Z0x0Rk9rYmllMnhZSjhEMzZpa0Z6NnI4N2owc1g3M1NRenhraEtuRWV5VU9vcUNLdENScm90ZmlaVjZHVi1PbHBWc3RlYUlUNXRHNEpTakFTNVh1QUUwd0RfUQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-04T12:03:34.276500+05:00",
-      "age_min": 34.9
-    },
-    {
-      "hash": "fa9bf36b95e899512d08abe12b1e5a45",
-      "title": "Warsh's New Fed Vision: From Hawkish Reputation to Market Uncertainty - Devdiscourse",
-      "summary": "Warsh's New Fed Vision: From Hawkish Reputation to Market Uncertainty&nbsp;&nbsp;Devdiscourse",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFlaZ2RyaU9qdTZkWnhOcWZTclFpb2RMd3dwcXM3RVltMU52X0J5eUJaY3pVajFwNXVGckh0dG8yNlFhTDdRRkJELWp4N3NPVUkzQkhiaTlBcDhPRnZqUnN0eERZNm9HbVlVaWNTckctelNXV3lJNVRPMnBCN1BBYVVjT0J6Rm56VjBCc1FNX2VDZ3FiZWFXQ1NyeEl3THNnc1ptYmpsaXFnekNoN1NkckVSd2QtUW5jXzRPdjg5OS01aFXSAcMBQVVfeXFMTXRZWmdkcmlPanU2ZFp4TnFmU3JRaW9kTHd3cHFzN0VZbTFOdl9CeXlCWmN6VWoxcDV1RnJIdHRvMjZRYUw3UUZCRC1qeDdzT1VJM0JIYmk5QXA4T0Z2alJzdHhEWTZvR21ZVWljU3JHLXpTV1d5STVUTzJwQjdQQWFVY09CekZuelYwQnNRTV9lQ2dxYmVhV0NTcnhJd0xzZ3NabWJqbGlxZ3pDaDdTZHJFUndkLVFuY180T3Y4OTktNWhV?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-04T12:03:34.275094+05:00",
-      "age_min": 62.7
     }
   ]
 }
