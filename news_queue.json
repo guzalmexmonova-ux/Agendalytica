@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T00:33:30.740369+05:00",
+  "updated": "2026-06-05T00:39:43.528217+05:00",
   "items": [
     {
       "hash": "5d6503149f2b725c7071d34664fdc93f",
@@ -168,6 +168,18 @@
       "status": "new",
       "ts": "2026-06-04T20:46:50.359615+05:00",
       "age_min": 31.8
+    },
+    {
+      "hash": "d4b044bcd1ec1ad057b82be6de9ce779",
+      "title": "Jobless aid filings hit highest level since Iran war began",
+      "summary": "",
+      "link": "https://www.thereporteronline.com/2026/06/04/unemployment-benefits-rise/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T00:38:06.744211+05:00",
+      "age_min": 23.1
     },
     {
       "hash": "99ee9a7d73f4b6e971f26b66d498831b",
@@ -506,6 +518,18 @@
       "age_min": 44.2
     },
     {
+      "hash": "5d89ad776d493a5ec7fdbf3c1dbd1cc3",
+      "title": "It just doesnt make any sense : NC residents push back on Duke Energy rate hike ahead of final hearing",
+      "summary": "",
+      "link": "https://www.13newsnow.com/article/news/local/north-carolina/nc-residents-push-back-on-duke-energy-rate-hike/275-1cca4c8c-f742-47b9-a8ee-bb2232460f64",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T00:38:06.745385+05:00",
+      "age_min": 38.1
+    },
+    {
       "hash": "333c29b65bc948a44ede0253ca15d462",
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
       "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-04T23:03:41.866640+05:00",
       "age_min": 14.1
-    },
-    {
-      "hash": "7507a4cce9a47b86cd3223f363330f79",
-      "title": "Ukraine drone strikes set a gloomy tone for Putin economic showcase",
-      "summary": "",
-      "link": "https://www.durangoherald.com/articles/ukraines-drone-strikes-set-a-gloomy-tone-for-putins-economic-showcase/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T00:31:05.531668+05:00",
-      "age_min": 46.1
-    },
-    {
-      "hash": "a600f4fae9cd07b00856484468f4443c",
-      "title": "Russia kills 12 in Ukraine as Kyiv mourns 707 children killed since 2022",
-      "summary": "Russia&#039;s latest attacks come as Ukraine commemorates the children killed by Russia over the course of the all-out war.",
-      "link": "https://www.aljazeera.com/news/2026/6/4/twelve-people-killed-scores-wounded-in-russian-attacks-on-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-05T00:17:35.722629+05:00",
-      "age_min": 17.9
     }
   ]
 }
