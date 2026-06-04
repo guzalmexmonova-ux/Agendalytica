@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T14:18:23.596776+05:00",
+  "updated": "2026-06-04T14:34:11.217767+05:00",
   "items": [
     {
       "hash": "0ba51610b0d1e6e77b08a8de31dee90f",
@@ -38,18 +38,6 @@
       "age_min": 5.2
     },
     {
-      "hash": "dea638f5199e5c7b5c403ef10a1af2e4",
-      "title": "Ukraine War Faces Risk of Escalation , Warns Rubio",
-      "summary": "",
-      "link": "https://www.deccanchronicle.com/world/ukraine-war-faces-risk-of-escalation-warns-rubio-1961216",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T10:30:42.581868+05:00",
-      "age_min": 60.7
-    },
-    {
       "hash": "bf314a1ea312ac999effa95ea1dab9db",
       "title": "Czech Inflation Slows, Weakening Case for an Imminent Rate Hike",
       "summary": "Czech inflation slowed more than expected, bolstering arguments against an imminent interest rate hike as policymakers gauge the Iran conflict’s broader impact on the economy.",
@@ -72,6 +60,18 @@
       "status": "new",
       "ts": "2026-06-04T12:45:41.476278+05:00",
       "age_min": 45.7
+    },
+    {
+      "hash": "0dc45a48dca88c859d73a991e96eb0ec",
+      "title": "Ukraine War , Day 1 , 562 : Kremlin Embarrassed by Kyiv Strikes on St . Petersburg Before Putin Economic Conference",
+      "summary": "",
+      "link": "https://eaworldview.com/2026/06/ukraine-war-kremlin-embarrassed-by-kyivs-strikes-on-st-petersburg-before-putins-economic-conference/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T14:31:38.308262+05:00",
+      "age_min": 76.6
     },
     {
       "hash": "652de86d0b8f373dc72d21bef0a36819",
@@ -194,28 +194,16 @@
       "age_min": 106.3
     },
     {
-      "hash": "df6244853a1def1f59b0699907c8c91d",
-      "title": "With Trump in a holding pattern on Iran war , allies and critics worry he risks getting boxed in",
-      "summary": "",
-      "link": "https://www.news4jax.com/news/world/2026/06/04/with-trump-in-a-holding-pattern-on-iran-war-allies-and-critics-worry-he-risks-getting-boxed-in/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "f8d63ce2a9a56a812fbf22da291385c9",
+      "title": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion - WTAQ",
+      "summary": "Taiwan beefs up anti-ship missile arsenal to counter threat of Chinese invasion&nbsp;&nbsp;WTAQ",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeDZWVTVIdjBxbnFnX1JWZVdna29LclJ6UGdTcnhDci1tZWRjWlRYVHBfM05TMW5FLUV3TkZMWi0yeWl1d1N4Yi1CRkxkcTdqYUI5d2ExazMzR3dQWTIwbmxoR0o5eDZ1TGZJZlpLekZRV3Yza1I2R1ltNXljWHE2dUVzSElDQmhUUVlPQkk2XzRFX0JsSUlYeVFCYURiUFB6c0ZtN0NXX1ItQVk4?oc=5",
+      "source": "GNews/USA-China",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-04T10:30:42.583524+05:00",
-      "age_min": 60.7
-    },
-    {
-      "hash": "052a500aadfaaef256b1bcd44d479ffb",
-      "title": "Trump faces setback as 4 Republicans join Democrats to pass resolution halting Iran war",
-      "summary": "",
-      "link": "https://www.tribuneindia.com/news/world/trump-faces-setback-as-4-republicans-join-democrats-to-pass-resolution-halting-iran-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T10:30:42.582277+05:00",
-      "age_min": 45.7
+      "ts": "2026-06-04T14:33:54.697263+05:00",
+      "age_min": 16.2
     },
     {
       "hash": "e9b1b8d9f29de14584d0e2612daa9efa",
@@ -374,6 +362,30 @@
       "age_min": 13.3
     },
     {
+      "hash": "c5605e81a8b674c71f9c84193c89ebf7",
+      "title": "7 Words From Fed Chair Kevin Warsh That Should Terrify Wall Street",
+      "summary": "",
+      "link": "https://finance.yahoo.com/economy/policy/articles/7-words-fed-chair-kevin-082600410.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T14:32:32.056542+05:00",
+      "age_min": 32.5
+    },
+    {
+      "hash": "ec5884b4395a98bf541292fa648c5551",
+      "title": "Ukraine drone strikes set a gloomy tone for Putin economic showcase",
+      "summary": "",
+      "link": "https://isp.netscape.com:443/news/world/story/0001/20260604/33f3e7f260e23563ed8a6b509650079e",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T14:31:38.307111+05:00",
+      "age_min": 61.6
+    },
+    {
       "hash": "7746b216c3623e95e66b1a74291b2188",
       "title": "Video: US House of Representatives votes to block further war on Iran",
       "summary": "Republican-led US House of Representatives passed a resolution to halt any further push of the war on Iran.",
@@ -494,6 +506,30 @@
       "age_min": 46.2
     },
     {
+      "hash": "36bda46a3bbc14ec4b2572411d6afaa1",
+      "title": "‘Credibility Would Be Lost’: Jerome Powell Flags Trump’s Increasing Federal Reserve Influence - AOL.com",
+      "summary": "‘Credibility Would Be Lost’: Jerome Powell Flags Trump’s Increasing Federal Reserve Influence&nbsp;&nbsp;AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZTVscW5BeTJvS29FRkgzSjJHXzZ5ZDdsczdNY0VtY21MYTdVTFZFdjV0ZHB0ZEpZNjFyTlozdm1IYnBrRVNxVVpFeGNtdW9VYzkybGlOZ2xsUXhYVlFLdWJtUXFyZWVJNGNGc0JxdXJRYjZSUm9vWTJzTEZTVGs3a1JhbjcwTzA?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T14:33:55.074767+05:00",
+      "age_min": 51.2
+    },
+    {
+      "hash": "8a905b55243b7be7c17157649b738696",
+      "title": "Fed Policy Shift: Logan Warns of Rate Hike Risks Amid AI Boom - equiti.com",
+      "summary": "Fed Policy Shift: Logan Warns of Rate Hike Risks Amid AI Boom&nbsp;&nbsp;equiti.com",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDY4cjR6LWhGVUhNdzQ2U2VwUWZQUjlmaGZtYlhLLXVoMW5ONHBNTGU4NmRkdjFDRWR1SlFFY1lTNzFyV092RHYybUNidzljSUhNZTdablo3RkRGcHRfalRSY29kUDhITl9tVlJRQ0FlUzZSQmZMcHBMczNQc2dFcERhalhQRjI3S0FzWFdjbjBPOVhaNk51ckhUck9BN0J4bUNTY3ZpSHNiaU82S3FrNVA3Nzh3aWo2TnY1Q2NxUDQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T14:33:55.073263+05:00",
+      "age_min": 12.2
+    },
+    {
       "hash": "096d471eedee78dd2b7cdc34633006a3",
       "title": "Fed Policy Shift: Logan Warns of Rate Hike Risks Amid AI Boom - equiti.com",
       "summary": "Fed Policy Shift: Logan Warns of Rate Hike Risks Amid AI Boom&nbsp;&nbsp;equiti.com",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-04T11:47:34.583548+05:00",
       "age_min": 56.0
-    },
-    {
-      "hash": "d6d152079171f2fffce5a46ad42bc5bd",
-      "title": "More Fed policymakers eye possible rate hike as inflation risks rise - AOL.com",
-      "summary": "More Fed policymakers eye possible rate hike as inflation risks rise&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNbTUwTks2RmpFdHVESF9MeldnR0VZRm1MMGdHNmZYVGxmQlJIbzZiRE5RR0NsQm9ScWRCcWhBS3BtZEszNUpsNWRwYmMzMkVrNlVxUWljUUtEMmcwa2haRmUxemVnVW5VaVZaQ0c4bExwanUyZ0gyTWFqY3RoN1lJVEZR?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-04T11:47:34.581854+05:00",
-      "age_min": 45.6
-    },
-    {
-      "hash": "96d0727c318b1f9a82114b31e52df562",
-      "title": "Why Uranium Energy Stock Jumped 11 % on Tuesday",
-      "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/why-uranium-energy-stock-jumped-190241069.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T13:46:47.166234+05:00",
-      "age_min": 91.8
-    },
-    {
-      "hash": "effbf9194fbf09c3a84913c3b7880880",
-      "title": "В мае импорт СПГ из России в ЕС увеличился более чем на 20 %",
-      "summary": "",
-      "link": "https://www.infox.ru/news/251/380267-v-mae-import-spg-iz-rossii-v-es-uvelicilsa-bolee-cem-na-20",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T13:46:47.163055+05:00",
-      "age_min": 31.8
     }
   ]
 }
