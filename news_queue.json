@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-04T19:03:57.679399+05:00",
+  "updated": "2026-06-04T19:17:57.079723+05:00",
   "items": [
     {
       "hash": "978c9c615459ec9832e67a1dad1be8ea",
@@ -98,18 +98,6 @@
       "age_min": 31.1
     },
     {
-      "hash": "8bdb0be9fbc0be2eb6915ffb479fd799",
-      "title": "Trafigura warns oil at ‘inflection point’ as Iran war stokes bumper half-year profits",
-      "summary": "Commodity trader’s net profit more than doubles to $4.1bn for October to March period",
-      "link": "https://www.ft.com/content/6e357d8a-d370-4501-beef-fa2445f3a557",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T15:17:11.597023+05:00",
-      "age_min": 17.1
-    },
-    {
       "hash": "50064cc4ba2842416ba8c39fc113120f",
       "title": "North Korea unveils a new plant to produce fuel for nuclear weapons",
       "summary": "",
@@ -144,6 +132,18 @@
       "status": "new",
       "ts": "2026-06-04T16:27:30.438296+05:00",
       "age_min": 42.5
+    },
+    {
+      "hash": "4c687f190e5009ab3ef410cb7aa62aac",
+      "title": "Trump Blasts Four House Republicans As  Grandstander After Iran War Powers Vote",
+      "summary": "",
+      "link": "https://hannity.com/media-room/war-powers-war-trump-rips-house-republicans-for-unpatriotic-iran-vote/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-04T19:15:40.457404+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "9f3f2ebdc4540f15e65376f4b01c7549",
@@ -204,6 +204,18 @@
       "status": "new",
       "ts": "2026-06-04T16:16:05.410319+05:00",
       "age_min": 31.1
+    },
+    {
+      "hash": "4cd9c8f2d3128e6a76302cb571884d63",
+      "title": "Pak Rejects Reports of Sharing Iran Nuclear Info With Rubio",
+      "summary": "",
+      "link": "https://www.deccanchronicle.com/world/neighbours/pak-rejects-reports-of-dar-sharing-info-about-irans-nuclear-prog-with-rubio-1961294",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-04T19:17:03.453169+05:00",
+      "age_min": 47.1
     },
     {
       "hash": "f47cc09f0c09c8d3d9c75ab55eb939c8",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-04T18:46:48.713843+05:00",
       "age_min": 106.8
-    },
-    {
-      "hash": "e40e2ab2c1ab463895418950914fcc31",
-      "title": "Новак рассказал об интересе Вьетнама к поставкам СПГ",
-      "summary": "",
-      "link": "https://www.vedomosti.ru/business/news/2026/06/04/1203109-novak-rasskazal",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-04T18:46:48.713450+05:00",
-      "age_min": 46.8
     }
   ]
 }
