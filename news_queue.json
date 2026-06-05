@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T06:33:46.186510+05:00",
+  "updated": "2026-06-05T06:48:25.063148+05:00",
   "items": [
     {
       "hash": "34c9839acc492282427e80758286eaa6",
@@ -50,18 +50,6 @@
       "age_min": 16.9
     },
     {
-      "hash": "bd80ae5c1b4eef3aee42c5a67a891fa7",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
-      "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T02:47:08.776106+05:00",
-      "age_min": 12.9
-    },
-    {
       "hash": "7aa700dcbd176ef7721ef8b25ab705e2",
       "title": "Gold surges $40 on ceasefire hopes",
       "summary": "",
@@ -96,6 +84,30 @@
       "status": "new",
       "ts": "2026-06-05T03:01:07.624680+05:00",
       "age_min": 31.1
+    },
+    {
+      "hash": "f5283be360e524d3008b3820f741fb34",
+      "title": "Zelenskiy , in open letter , invites Putin to talks to end the war",
+      "summary": "",
+      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/05/zelenskiy-in-open-letter-invites-putin-to-talks-to-end-the-war",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T06:45:58.732194+05:00",
+      "age_min": 31.0
+    },
+    {
+      "hash": "2e29620c2545a774a8169b4dfdcba7a7",
+      "title": "Zelensky proposes direct meeting with Putin to end war",
+      "summary": "",
+      "link": "https://edition.cnn.com/2026/06/04/europe/zelensky-putin-meeting-intl-latam",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T06:45:58.727648+05:00",
+      "age_min": 31.0
     },
     {
       "hash": "1716f5bddb2053beb9c371ba08fbdc05",
@@ -518,6 +530,18 @@
       "age_min": 0
     },
     {
+      "hash": "476f0a9c974d29fb681e852779f59020",
+      "title": "Bondi terror attack hero Ahmed Al Ahmed claims he  never hurt anyone  in emotional interview",
+      "summary": "",
+      "link": "https://www.perthnow.com.au/news/nsw/bondi-terror-attack-hero-ahmed-al-ahmed-claims-he-never-hurt-anyone-in-emotional-interview-c-22387359",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T06:45:46.769932+05:00",
+      "age_min": 45.8
+    },
+    {
       "hash": "162218cf5b7e48febec1b9e620670828",
       "title": "Lebanon : Another peacekeeper dies in new attack",
       "summary": "",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-05T05:16:53.810047+05:00",
       "age_min": -1378.1
-    },
-    {
-      "hash": "35ca496c67ee841271652598ffe088c9",
-      "title": "Were experiencing slow growth , not a full - blown recession : LU economist – Fort Frances Times",
-      "summary": "",
-      "link": "https://fftimes.com/news/district-news/were-experiencing-slow-growth-not-a-full-blown-recession-lu-economist/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T05:02:38.745822+05:00",
-      "age_min": -1377.4
-    },
-    {
-      "hash": "abf6db0e78f368bb697df125bf40d5e2",
-      "title": "Stocks Fall on Escalation of US - Iran Hostilities",
-      "summary": "",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/stocks-fall-escalation-us-iran-151927086.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T05:02:38.742055+05:00",
-      "age_min": -1377.4
     }
   ]
 }
