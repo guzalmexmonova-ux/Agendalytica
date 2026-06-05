@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05T20:18:10.902804+05:00",
+  "updated": "2026-06-05T20:33:27.326930+05:00",
   "items": [
     {
       "hash": "f5ff05b5cb77352d9e4bffcc34f0a0bd",
@@ -158,6 +158,18 @@
       "age_min": 15.8
     },
     {
+      "hash": "7c7436e35d85a85e3ae6885e58326b4b",
+      "title": "Employers added 172 , 000 jobs last month despite Iran war",
+      "summary": "",
+      "link": "https://www.twincities.com/2026/06/05/jobs-report-may/",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T20:31:49.389049+05:00",
+      "age_min": 76.8
+    },
+    {
       "hash": "d09ea663c6914bf75ae7d7e1a3f9f928",
       "title": "117 Democrats vote against Tlaib Lebanon war powers measure",
       "summary": "",
@@ -312,6 +324,18 @@
       "status": "new",
       "ts": "2026-06-05T17:17:50.484715+05:00",
       "age_min": 118.1
+    },
+    {
+      "hash": "4ee3dd85a787e5a414a5146d535d85f4",
+      "title": "U . S . Jobs Surge Raises Fed Rate Hike Odds",
+      "summary": "",
+      "link": "https://athens-times.com/u-s-jobs-growth-surpasses-forecasts-raising-pressure-on-fed-to-hike-rates/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T20:31:49.390733+05:00",
+      "age_min": 76.8
     },
     {
       "hash": "e8aba4c7fe18b0a1556833c7fa0c8c85",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-05T16:52:25.600498+05:00",
       "age_min": 52.4
-    },
-    {
-      "hash": "b38268727666f5664ad9068c3b31a081",
-      "title": "Война на Ближнем Востоке затрудняет встречу саммита , заявил посол Бахрейна",
-      "summary": "",
-      "link": "https://ria.ru/20260605/posol-2097037352.html",
-      "source": "GDELT/SUMMITS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-05T16:32:39.794401+05:00",
-      "age_min": 77.7
-    },
-    {
-      "hash": "f27846fb8f98c4b9d8e2abfd0c3bc100",
-      "title": "Putin briefed Zelensky open letter : What Ukraine President proposed to end the war",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/world/putin-briefed-zelensky-s-open-letter-what-ukraine-s-president-proposed-to-end-the-war-article-13942246.html",
-      "source": "GDELT/SUMMITS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-05T16:32:39.793343+05:00",
-      "age_min": 62.7
     }
   ]
 }
