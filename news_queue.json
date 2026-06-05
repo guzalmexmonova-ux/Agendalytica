@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-05T15:48:09.373310+05:00",
+  "updated": "2026-06-05T16:03:46.215251+05:00",
   "items": [
+    {
+      "hash": "d108ff1485e72feb472bcdf224b615ba",
+      "title": "India Growth Beats Estimates Despite Energy Costs, Rupee Slide",
+      "summary": "India’s economy grew faster than expected in the three months through March, despite rising energy costs linked to the Iran war and a weaker currency.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-05/india-growth-beats-estimates-despite-energy-costs-rupee-slide",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-05T16:03:00.456416+05:00",
+      "age_min": 27.5
+    },
     {
       "hash": "bb09c63995efef231848c664dd2876e7",
       "title": "Ukraine Invasion Day 1 , 562 : Zelenskyy proposes an immediate ceasefire along the current frontline",
@@ -96,18 +108,6 @@
       "status": "new",
       "ts": "2026-06-05T12:16:10.119938+05:00",
       "age_min": 61.2
-    },
-    {
-      "hash": "ddb1c377cb73daaadd9643c51d1ebba3",
-      "title": "India scraps capital gains tax for foreign bond buyers to shore up rupee",
-      "summary": "Central bank holds interest rates despite pressure on currency from foreign outflows and war in Iran",
-      "link": "https://www.ft.com/content/4a0dc7f4-33e5-4584-a60d-be701a2978ed",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T12:03:13.954666+05:00",
-      "age_min": 15.7
     },
     {
       "hash": "82474a28a10a512b6da807c908d83259",
@@ -254,18 +254,6 @@
       "age_min": 46.2
     },
     {
-      "hash": "2698710c9b4b21d143645b62ebc09199",
-      "title": "US employers likely added 105 , 000 jobs in May with labor market stable despite costly Iran war",
-      "summary": "",
-      "link": "https://www.bostonglobe.com/2026/06/05/business/jobs-report/",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T12:02:24.109291+05:00",
-      "age_min": 92.4
-    },
-    {
       "hash": "a7b74980dc60d1a6d33dbf0a2c1e7cb0",
       "title": "New Fed Chairman Kevin Warsh Is Now in a Position Where Rate Cuts Are Virtually Impossible, and the Stock Market Could Pay the Price - The Motley Fool",
       "summary": "New Fed Chairman Kevin Warsh Is Now in a Position Where Rate Cuts Are Virtually Impossible, and the Stock Market Could Pay the Price&nbsp;&nbsp;The Motley Fool",
@@ -350,30 +338,6 @@
       "age_min": 61.9
     },
     {
-      "hash": "feccbe057404394001de49352b88ca8c",
-      "title": "Gold Slips In May Despite Geopolitical Risks , WGC Sees Potential Upside From Fed Rate Hikes",
-      "summary": "",
-      "link": "https://www.businessworld.in/article/gold-slips-in-may-despite-geopolitical-risks-wgc-sees-potential-upside-from-fed-rate-hikes-609532",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T12:02:24.108927+05:00",
-      "age_min": 47.4
-    },
-    {
-      "hash": "cff0e1783f861bc9a97f6c716fb38d2d",
-      "title": "CBA forecasts RBA interest rate cuts",
-      "summary": "",
-      "link": "https://www.macrobusiness.com.au/2026/06/cba-forecasts-rba-interest-rate-cuts/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-05T12:02:24.107811+05:00",
-      "age_min": 107.4
-    },
-    {
       "hash": "6f0c5df7410c2fd260af0d61a681cb7d",
       "title": "CBSE thwarts major cyberattack on revaluation portal ; 3 . 8 million attack packets detected on June 3",
       "summary": "",
@@ -396,6 +360,18 @@
       "status": "new",
       "ts": "2026-06-05T14:03:10.007654+05:00",
       "age_min": 33.2
+    },
+    {
+      "hash": "1d80e3fd4f11f414b703c1edd4271efb",
+      "title": "India GDP up 7.8% in March quarter despite Iran war impact",
+      "summary": "",
+      "link": "https://asia.nikkei.com/economy/india-gdp-up-7.8-in-march-quarter-despite-iran-war-impact",
+      "source": "Nikkei Asia",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-05T16:03:01.976565+05:00",
+      "age_min": 0
     },
     {
       "hash": "3b0a446a5cb75890d26afed93a0003ef",
@@ -600,6 +576,18 @@
       "status": "new",
       "ts": "2026-06-05T14:02:37.721182+05:00",
       "age_min": 62.6
+    },
+    {
+      "hash": "0bf467b46dad2ddde3722f5f5634b245",
+      "title": "Скандал с Калининградом грозит отставкой главе МИД Литвы",
+      "summary": "",
+      "link": "https://wek.ru/glava-mid-litvy-mozhet-lishitsya-posta-iz-za-skandalnyx-zayavlenij-o-kaliningrade",
+      "source": "GDELT/SANCTIONS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-05T16:01:52.864135+05:00",
+      "age_min": 31.9
     }
   ]
 }
