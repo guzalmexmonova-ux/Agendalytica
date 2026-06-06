@@ -1,6 +1,30 @@
 {
-  "updated": "2026-06-07T00:33:35.434600+05:00",
+  "updated": "2026-06-07T00:47:36.072325+05:00",
   "items": [
+    {
+      "hash": "57bd8982f16aa0dbde52fcfac6d4b60c",
+      "title": "Pope begins Spain visit with praise for country's opposition to war and support for migrants",
+      "summary": "On the first day of his official seven-day tour of Spain, the Pope praises the country's \"active commitment to peace and solidarity among peoples\".",
+      "link": "https://www.bbc.com/news/articles/c8d2pgjy4qgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-07T00:46:43.960083+05:00",
+      "age_min": 72.3
+    },
+    {
+      "hash": "11bf0aef931bae75555b96c9e00a36b1",
+      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
+      "link": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-07T00:46:43.958854+05:00",
+      "age_min": 24.3
+    },
     {
       "hash": "0d86f30dccbf60f97f9265cb69168e08",
       "title": "The shadow fleet : How Iran keeps its oil flowing despite sanctions and war",
@@ -74,30 +98,6 @@
       "age_min": 77.3
     },
     {
-      "hash": "b26629373afd13599c24c7689e056c63",
-      "title": "Estrecho de Ormuz , activos congelados y programa nuclear , en pausa , entre EE . UU . e Irán",
-      "summary": "",
-      "link": "https://www.teleamazonas.com/actualidad/noticias/internacional/ormuz-activos-programa-nuclear-ee-uu-iran/",
-      "source": "GDELT/ENERGY",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:46:36.279779+05:00",
-      "age_min": 46.6
-    },
-    {
-      "hash": "393cc5d41b0adebba66f01e31b327177",
-      "title": "Israeli airstrike on southern Lebanon kills Lebanese troops days after ceasefire began",
-      "summary": "",
-      "link": "https://www.cbc.ca/news/world/israeli-airstrike-southern-lebanon-9.7226084",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:45:37.542998+05:00",
-      "age_min": 30.6
-    },
-    {
       "hash": "22534616e93c4aaa147c781ebff43930",
       "title": "Ukraine war survivor Benjamin Hall to climb One World Trade Center",
       "summary": "",
@@ -144,54 +144,6 @@
       "status": "new",
       "ts": "2026-06-06T21:01:20.150751+05:00",
       "age_min": 31.3
-    },
-    {
-      "hash": "abf434ef88ad07356feb7664cc33b11d",
-      "title": "Negative views of Israel surge globally since war on Iran : Survey",
-      "summary": "",
-      "link": "https://www.presstv.ir/Detail/2026/06/06/769942/Palestine-Israel-Netanyahu-negative-views-surge-following-Gaza-Iran-war-survey-finds",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:46:06.261734+05:00",
-      "age_min": 61.1
-    },
-    {
-      "hash": "e4f4e8f118727dcfe92b06c7d9f6ddff",
-      "title": "Lebanese Leaders Tell Tehran To End Inference In War - Torn Country",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260605-rferl04.htm",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:46:06.259753+05:00",
-      "age_min": 61.1
-    },
-    {
-      "hash": "0abb2fa92bc3617382f18c312a84eba0",
-      "title": "Война в Украине - Рубио назвал США союзником и склоняет Трампа против России",
-      "summary": "",
-      "link": "https://24tv.ua/ru/vojna-ukraine-rubio-nazval-ssha-sojuznikom-sklonjaet-trampa-protiv_n3082648",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:45:57.406024+05:00",
-      "age_min": 46.0
-    },
-    {
-      "hash": "de043d8d9b9a1213dab29ac628263a73",
-      "title": "Pope Leo says US - Israeli war against Iran not  just war",
-      "summary": "",
-      "link": "https://tribune.com.pk/story/2611769/pope-leo-says-us-israeli-war-against-iran-not-just-war",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:45:37.544332+05:00",
-      "age_min": 30.6
     },
     {
       "hash": "b0ae5f3faa7a8f2228849962523dd4ee",
@@ -386,42 +338,6 @@
       "age_min": 31.3
     },
     {
-      "hash": "3ebc1ad852a7820be02eb459631e73be",
-      "title": "Ukraine Targets Russia St . Petersburg With More Drone Strikes",
-      "summary": "",
-      "link": "https://www.breitbart.com/europe/2026/06/06/ukraine-targets-russias-st-petersburg-with-more-drone-strikes/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:45:57.407656+05:00",
-      "age_min": 46.0
-    },
-    {
-      "hash": "38ca7074a0bc989412aad388b8147cd5",
-      "title": "Five Azerbaijanis killed in drone attack on cargo ships in Sea of Azov : Ministry",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/06/ukraine-260605-presstv02.htm",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:45:48.660577+05:00",
-      "age_min": 60.8
-    },
-    {
-      "hash": "88054fbd5328139f562a2f1a18c7a54f",
-      "title": "Mass drone strike on Leningrad triggers fears of devastating Russian retaliation with Oreshnik missiles",
-      "summary": "",
-      "link": "https://www.bankingnews.gr/diethni/articles/880094/mass-drone-strike-on-leningrad-triggers-fears-of-devastating-russian-retaliation-with-oreshnik-missiles",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T20:45:37.546979+05:00",
-      "age_min": 45.6
-    },
-    {
       "hash": "77eff43bd6cf105cbbf40fa82d8a3c34",
       "title": "Israeli airstrikes kill 9 including Lebanese army officers after ceasefire deal",
       "summary": "",
@@ -552,6 +468,18 @@
       "status": "new",
       "ts": "2026-06-06T22:03:13.810384+05:00",
       "age_min": 48.2
+    },
+    {
+      "hash": "bed7efdc94314875666cf6e5c6fdb97c",
+      "title": "Israeli attack on Gaza City tent camp kills several Palestinians",
+      "summary": "Israeli attack on Gaza City tent camp kills several Palestinians.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/israeli-attack-on-gaza-city-tent-camp-kills-several-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-07T00:46:44.140001+05:00",
+      "age_min": 21.3
     },
     {
       "hash": "bfbf318a7c41e99f725db1c7ef5aed66",
