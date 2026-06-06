@@ -1,18 +1,6 @@
 {
-  "updated": "2026-06-06T05:48:13.848216+05:00",
+  "updated": "2026-06-06T06:03:42.824160+05:00",
   "items": [
-    {
-      "hash": "e16f891527440e96c0609525c1d8d509",
-      "title": "Oil prices fall on mounting hopes for de - escalation in US - Iran War",
-      "summary": "",
-      "link": "https://www.livemint.com/market/oil-prices-fall-on-mounting-hopes-for-de-escalation-in-us-iran-war-11780687079949.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:00:52.571659+05:00",
-      "age_min": 30.9
-    },
     {
       "hash": "bc11b5e3501375ed7b197a4e2a46c378",
       "title": "Exclusive : Iran supreme leader adviser says talks deadlocked over $24 billion and warns of wider war",
@@ -84,18 +72,6 @@
       "status": "new",
       "ts": "2026-06-06T02:45:36.705947+05:00",
       "age_min": 45.6
-    },
-    {
-      "hash": "d79cad03c8b94f79284864c4fd121731",
-      "title": "Russia Rosatom says Ukrainian drone hit engineers demining areas around Zaporizhzhia nuclear plant",
-      "summary": "",
-      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/06/05/russia-s-rosatom-says-ukrainian-drone-hit-engineers-demining-areas-around-zaporizhzhia-nuclear-plant",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:00:52.568355+05:00",
-      "age_min": 30.9
     },
     {
       "hash": "62179af2d8117d77e7715b5efebc7143",
@@ -194,18 +170,6 @@
       "age_min": 45.6
     },
     {
-      "hash": "64c7e7b0b0d5c6a048d6efa4c73eea89",
-      "title": "US employers likely added 105 , 000 jobs in May with labor market stable despite costly Iran war",
-      "summary": "",
-      "link": "https://www.timesfreepress.com/news/2026/jun/05/us-employers-likely-added-105000-jobs-in-may-with-labor-market-stable-despite-costly-iran-war/",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:02:04.519667+05:00",
-      "age_min": 77.1
-    },
-    {
       "hash": "0ea1754f6878a19402e0bc471aa6e9a3",
       "title": "US strikes Iranian radar sites after drone shootdown in Strait of Hormuz",
       "summary": "US forces struck Iranian coastal radar sites on Saturday after shooting down drones launched by Iran towards the Strait of Hormuz, the US military said, in the latest escalation complicating efforts to end the war between the two countries.\nThe US military believed the four Iranian drones were targeting regional maritime traffic, an official said.\nUS Central Command said on social media that the U",
@@ -242,6 +206,30 @@
       "age_min": 203.4
     },
     {
+      "hash": "bb17526d2a3bf395867cfa8b209b140a",
+      "title": "Wall Street ends sharply lower as chips slide , jobs data fuels rate hike fears",
+      "summary": "",
+      "link": "https://www.straitstimes.com/business/companies-markets/wall-street-ends-sharply-lower-as-chips-slide-jobs-data-fuels-rate-hike-fears",
+      "source": "GDELT/MIDEAST",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-06T06:01:26.832387+05:00",
+      "age_min": -1348.6
+    },
+    {
+      "hash": "5af82fa1c776cd33bcbf7b4b49f5f486",
+      "title": "Ceasefire Day 59 : Iran Says  Warning Missile Fired at U . S . Ships",
+      "summary": "",
+      "link": "https://www.theamericanconservative.com/ceasefire-day-59-iran-says-warning-missiles-fired-at-u-s-ships/",
+      "source": "GDELT/MIDEAST",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-06T06:01:26.826392+05:00",
+      "age_min": -1333.6
+    },
+    {
       "hash": "6a1bedb1bd64dff3bc9b19c1079a9e0a",
       "title": "Rate cuts further dimmed with positive employment report",
       "summary": "",
@@ -264,30 +252,6 @@
       "status": "new",
       "ts": "2026-06-06T03:17:16.102152+05:00",
       "age_min": 32.3
-    },
-    {
-      "hash": "9aee7ff98b52153b067993f84716fbc1",
-      "title": "The hidden story behind Lake Powell low water levels reveals a canyon coming back to life",
-      "summary": "",
-      "link": "https://gazette.com/2026/06/04/the-hidden-story-behind-lake-powells-low-water-levels-reveals-a-canyon-coming-back-to-life/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:02:04.521319+05:00",
-      "age_min": 107.1
-    },
-    {
-      "hash": "73dadb2b25984b3b48b2e26efe9788b5",
-      "title": "Stocks fall sharply as strong jobs data fuels rate hike bets ; oil set for weekly gain",
-      "summary": "",
-      "link": "https://www.livemint.com/market/stocks-fall-sharply-as-strong-jobs-data-fuels-rate-hike-bets-oil-set-for-weekly-gain-11780688435553.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:02:04.518497+05:00",
-      "age_min": 32.1
     },
     {
       "hash": "9bd6b63e69c382f2b16ed2606451af0d",
@@ -410,66 +374,6 @@
       "age_min": 203.2
     },
     {
-      "hash": "482756b20f3f1f15ca0263fa0254235e",
-      "title": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
-      "summary": "Russian President Vladimir Putin has turned down an offer for in-person talks with the Ukrainian President.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-06T02:03:04.161664+05:00",
-      "age_min": 26.3
-    },
-    {
-      "hash": "2bd46f94f77cb40303c40b8a94bf3d94",
-      "title": "Is Canada in a recession ? Why top economists say no",
-      "summary": "",
-      "link": "https://www.bnnbloomberg.ca/business/politics/2026/06/05/sharan-kaur-the-myth-of-the-liberal-recession-and-how-political-spin-distorts-canadas-economic-data/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:02:04.520199+05:00",
-      "age_min": 62.1
-    },
-    {
-      "hash": "b194da4f39574e6fbf94aab69e3843c1",
-      "title": "Solid May jobs report  should silence the recession crowd : BMO economist - Medicine Hat NewsMedicine Hat News",
-      "summary": "",
-      "link": "https://medicinehatnews.com/news/national-news/2026/06/05/solid-may-jobs-report-should-silence-the-recession-crowd-bmo-economist/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:02:04.519131+05:00",
-      "age_min": 107.1
-    },
-    {
-      "hash": "513bd528d9a71c155ef2030b3dc1ff2d",
-      "title": "Red meat is a dream : Iran inflation hits highest level since World War II | US - Israel war on Iran News",
-      "summary": "",
-      "link": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-06T02:01:51.817094+05:00",
-      "age_min": 106.9
-    },
-    {
-      "hash": "0c412eccf8ef5313364bc124ce9468cd",
-      "title": "„ Пейтриът  пак в центъра на скандал : Кувейт удари собственото си летище",
-      "summary": "",
-      "link": "https://www.dnes.bg/a/2-svyat/723941-peytriat-pak-v-tsentara-na-skandal-kuveyt-udari-sobstvenoto-si-letishte",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:00:52.567757+05:00",
-      "age_min": 60.9
-    },
-    {
       "hash": "455d5be708f92d60a5579409dab888c8",
       "title": "Al Green slams Trump's meme coin involvement, praises Powell's resistance - MSN",
       "summary": "Al Green slams Trump's meme coin involvement, praises Powell's resistance&nbsp;&nbsp;MSN",
@@ -530,6 +434,42 @@
       "age_min": 88.6
     },
     {
+      "hash": "1a5eaca64f9453359dc24ffc7cf0d0c9",
+      "title": "U . S . military says it shot down Iranian drones launched toward Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.thehindu.com/news/international/us-military-says-it-shot-down-iranian-drones-launched-toward-strait-of-hormuz/article71067819.ece",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-06T06:01:26.830127+05:00",
+      "age_min": 46.4
+    },
+    {
+      "hash": "609a5a4e27cc5356dbb8b26e6586908c",
+      "title": "Hamas delegation in Cairo for Gaza ceasefire talks",
+      "summary": "",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/hamas-delegation-cairo-gaza-ceasefire-talks",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-06T06:01:26.829776+05:00",
+      "age_min": -1333.6
+    },
+    {
+      "hash": "2f22ac02a7f0c541c6051e874e706e27",
+      "title": "Netanyahu tells Cabinet Lebanon ceasefire deal  not fully finalized",
+      "summary": "",
+      "link": "https://www.israelnationalnews.com/news/428201",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-06T06:01:26.827444+05:00",
+      "age_min": 61.4
+    },
+    {
       "hash": "d9a7bcef74872c95c3333054b21a1879",
       "title": "정부가 꺼낸 LNG 가격 상한제 , 법적 근거 없고 부처 간 이견도 - 경제ㅣ한국일보",
       "summary": "",
@@ -552,6 +492,30 @@
       "status": "new",
       "ts": "2026-06-06T03:46:41.304912+05:00",
       "age_min": 31.7
+    },
+    {
+      "hash": "70f7be281d61f5445a3412bc2c91b6a5",
+      "title": "XAUUSD UM Futures Contract (Jun 2026) Trade Ideas — OKX:XAUUSDUSD12M2026 - TradingView",
+      "summary": "XAUUSD UM Futures Contract (Jun 2026) Trade Ideas — OKX:XAUUSDUSD12M2026&nbsp;&nbsp;TradingView",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdVpmMHoyVFgwVDduT202M1hJRU5TZ3Q0QXBqRFVJZXlKNGlBN2JXN1VDR3VBbWdrQ2VySEMyLXRvMHpneWNxamVzSUZoVVNGQ3VaUlpkS2VVTTNkLVBZRHJQLUVMRkpxSl9FV1M1VzBRWEJPUG00aEZzM3R6YjQwbnZnaDJfSWxjTG40MnFFX2Q0WG4wT0Zz?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-06T06:03:26.628200+05:00",
+      "age_min": 48.0
+    },
+    {
+      "hash": "640ffe63162269f1712c527af70d1153",
+      "title": "Kevin Warsh’s Job Just Got a Lot More Complicated - WSJ",
+      "summary": "Kevin Warsh’s Job Just Got a Lot More Complicated&nbsp;&nbsp;WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzh5OUZVNmNpZFdNSGVXVnB0emZvV0NIbVVwb2Z5ZENpYy1oaE42ekNzM0FsamZjTEVad2Jia2FicklNTFA4aXJnaTh6YWNIVzVDNVFweWs2ZTRjOXVrVVJYaktOdEtMT3YxUkpVM0hpRjFJV3l3V1NxNl9xWlU5Wmt4dEFtUUR0TTN0bGJKV1dSS2hld3o3VHllMTlHMDJ3bmdj?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-06T06:03:26.627561+05:00",
+      "age_min": 3.4
     },
     {
       "hash": "529a2b5a0c5c77f90210a1b25149ebe7",
