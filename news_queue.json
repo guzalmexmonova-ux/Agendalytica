@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T06:33:40.888597+05:00",
+  "updated": "2026-06-06T06:47:38.675558+05:00",
   "items": [
     {
       "hash": "bc11b5e3501375ed7b197a4e2a46c378",
@@ -48,30 +48,6 @@
       "status": "new",
       "ts": "2026-06-06T04:02:48.787376+05:00",
       "age_min": 5.7
-    },
-    {
-      "hash": "2877dedddbee298246ca15bca98e4e1d",
-      "title": "IAEA chief says US - Iran talks close to nuclear framework agreement",
-      "summary": "",
-      "link": "https://www.middleeastmonitor.com/20260605-iaea-chief-says-us-iran-talks-close-to-nuclear-framework-agreement/",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:45:36.711159+05:00",
-      "age_min": 60.6
-    },
-    {
-      "hash": "6af89c1f2ddb5dc4e7f1b5434e25a0f6",
-      "title": "Exclusive : Iran supreme leader adviser says talks deadlocked over $24 billion and warns of wider war",
-      "summary": "",
-      "link": "https://edition.cnn.com/2026/06/05/middleeast/iran-supreme-leader-adviser-mohsen-rezaei-interview-intl",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:45:36.705947+05:00",
-      "age_min": 45.6
     },
     {
       "hash": "9cfd39e686080a5acdf35811bf99d433",
@@ -132,54 +108,6 @@
       "status": "new",
       "ts": "2026-06-06T03:32:34.087417+05:00",
       "age_min": 10.1
-    },
-    {
-      "hash": "bbe9484b13476b71b25bc9536cfed3f6",
-      "title": "Nasdaq tumbles 4% as shares in chip and memory groups sink",
-      "summary": "Rising expectations of a Federal Reserve rate increase send US bond yields rising sharply",
-      "link": "https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:47:26.365696+05:00",
-      "age_min": 59.0
-    },
-    {
-      "hash": "64da295ef6e6c6035935c0c5b85902c8",
-      "title": "Hedge Funds Ride Oil Volatility To Double - Digit Gains As Iran War Reshapes Commodity Markets",
-      "summary": "",
-      "link": "https://www.ibtimes.com/hedge-funds-ride-oil-volatility-double-digit-gains-iran-war-reshapes-commodity-markets-3803754",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:47:21.148262+05:00",
-      "age_min": 77.4
-    },
-    {
-      "hash": "b350ed01cef176a89af7286a4ebffa33",
-      "title": "Negative views of Israel soar across 36 countries since Iran war , survey finds",
-      "summary": "",
-      "link": "https://www.middleeasteye.net/news/negative-views-israel-soar-across-36-countries-iran-war-survey-finds",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:46:08.144718+05:00",
-      "age_min": 46.1
-    },
-    {
-      "hash": "c71f80127eaeef4f5a5708770a70497b",
-      "title": "The Lebanon Glitch : How a Multi - Front War Is Overturning the Trump - Iran Diplomacy",
-      "summary": "",
-      "link": "https://www.dailyexcelsior.com/the-lebanon-glitch-how-a-multi-front-war-is-overturning-the-trump-iran-diplomacy/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-06T02:45:36.711477+05:00",
-      "age_min": 45.6
     },
     {
       "hash": "e6492b5694f60c2ae584704e73ddf48e",
@@ -338,16 +266,28 @@
       "age_min": 32.4
     },
     {
-      "hash": "4ddca3afa98cf39b7234531829bd1e7a",
-      "title": "Trump envoy secret meeting with top nuclear scientists a clear sign for experts : report",
+      "hash": "35f95f7cf25d61db4921a6edefa6a391",
+      "title": "A blurry Warsh era at the Fed",
       "summary": "",
-      "link": "https://www.rawstory.com/kushner-witkoff-nuclear-iran/",
-      "source": "GDELT/CENTRAL_ASIA",
-      "score": 9,
-      "weight": 3,
+      "link": "https://www.thestar.com.my/business/insight/2026/06/06/a-blurry-warsh-era-at-the-fed",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-06T02:47:03.466993+05:00",
-      "age_min": 62.1
+      "ts": "2026-06-06T06:46:26.937371+05:00",
+      "age_min": 91.4
+    },
+    {
+      "hash": "664d1f812e86951a48b735c8c0b19f5b",
+      "title": "Five Soldiers , Three CJTF Members Killed As Troops Repel Terrorist Attack In Borno",
+      "summary": "",
+      "link": "https://www.channelstv.com/2026/06/05/five-soldiers-three-cjtf-members-killed-as-troops-repel-terrorist-attack-in-borno/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-06T06:45:44.139949+05:00",
+      "age_min": 15.7
     },
     {
       "hash": "1341b613d41e98270ab01874da08055f",
@@ -600,6 +540,18 @@
       "status": "new",
       "ts": "2026-06-06T04:32:02.590701+05:00",
       "age_min": 47.0
+    },
+    {
+      "hash": "ffaad257fe18ba86ae3d04ada7dd4d07",
+      "title": "US military downs four Iranian drones launched toward Strait of Hormuz - Business Standard",
+      "summary": "US military downs four Iranian drones launched toward Strait of Hormuz&nbsp;&nbsp;Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQT3RFajJfc0UyeTN0QXdXazRENnAxdlpxTVItejg1LVJVTUxEWHVPS3hhOVoyMDBOTE5mQkp1R3FucXhwaXJEbE5ZbVc1ZEZqNE9CU0kzLXlFcXdGM1FqNlA1Z1FRNDlKOXF0OERyM1luWHBiZ1U0VnNyUDdJZ01aUVlBeEh4LWpFMHYwVmJuSjdBeklOUm9rZVprNFA2ZXZaTWFoX25NV25aYTcwcFp3aWFGdmNjemFaeGk4RHM5ZWsyWGRZbzZETkFpZzBQdzE30gHWAUFVX3lxTE5QVnZuUUVabmVvWElSWm1idm1LNXdRVmE1Wk5maFdCNkFlR0lkdHlCcEZIeTBDb2RfZ1dlcUEwYW5KaTNrUHFkcVJEaU5hZzVBejZEUS1sSXFxOFBZNTk0YzlJVzFzcXJxTjBnaG9WcE5PXzlfcHh3OHdnd24xMnh4QnJScWNEUkhneXpEMFltV2lnNTNFdFJ1azlFVll0YjVRM2g0aFhKMmhuTHdXU3ViTmJlaDAyc1J2al81MmdteWZMRDZQVXlMVEhma01ueEU3QXhwT3c?oc=5",
+      "source": "GNews/USA-China",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-06T06:47:24.198996+05:00",
+      "age_min": 28.5
     }
   ]
 }
