@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T21:17:27.790108+05:00",
+  "updated": "2026-06-07T21:33:26.500267+05:00",
   "items": [
     {
       "hash": "43d7670c2bada63e72cde2c4da2cd560",
@@ -168,6 +168,18 @@
       "status": "new",
       "ts": "2026-06-07T17:45:36.888909+05:00",
       "age_min": 30.6
+    },
+    {
+      "hash": "ac1abfc3ef7a97c08b06194e3a93943d",
+      "title": "Will There Be a Stock Market Crash Under President Donald Trump ? A New Downside Catalyst Just Entered the Picture .",
+      "summary": "",
+      "link": "https://www.fool.com/investing/2026/06/07/stock-market-crash-under-donald-trump-new-catalyst/",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-07T21:32:40.085111+05:00",
+      "age_min": 47.7
     },
     {
       "hash": "cbaab406e6ef8445dc916f685961e4eb",
@@ -470,28 +482,64 @@
       "age_min": 62.4
     },
     {
-      "hash": "c086675325129c074681f82774b04397",
-      "title": "Ahead of Xi visit , N Korean ruler Kim sister says nuclear - armed state absolutely irreversible",
-      "summary": "",
-      "link": "https://aninews.in/news/world/asia/ahead-of-xis-visit-n-korean-ruler-kims-sister-says-nuclear-armed-state-absolutely-irreversible20260607165702/",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
+      "hash": "b11826628472252a2250acfe6d20a463",
+      "title": "ECB expected to raise interest rates amid impact of Iran war - The Times",
+      "summary": "ECB expected to raise interest rates amid impact of Iran war&nbsp;&nbsp;The Times",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWWpXa1pmbjRDSmQ4a01EQ3h5Q3RVMDc0Z0ZKOHBBSmREbFYwWFM3c0p0OWJUOXVIZlg5NXR4QXdVeGpmYjBzWE5xNHlXbmxiTUdnQ2kyWHdWMHdfOVhEVklGdjlNTXEza2stYkN0RkpFWkdGbnpvNVp4UmZmcXJ3Y195RW1MTEZuZ1hDeVg3bnBQVmpsUm5ZaUtTZGw5MlJJeWQ3N0RZeGFqdVE1NGhmbHVGU1o?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-07T17:32:35.333380+05:00",
-      "age_min": 32.6
+      "ts": "2026-06-07T21:33:10.472248+05:00",
+      "age_min": 11.0
     },
     {
-      "hash": "8a17e1cd231523c19ef3578450e09f75",
-      "title": "Xi planned Pyongyang visit reflects China influence bid , NK nuclear ambitions",
-      "summary": "",
-      "link": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260607/xis-planned-pyongyang-visit-reflects-chinas-influence-bid-nks-nuclear-ambitions",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
+      "hash": "60f1812b59dc79a45a298188efdcc6e5",
+      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
+      "summary": "Talks and attacks have continued for months, and could last much longer without a breakthrough.",
+      "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-07T17:32:35.331435+05:00",
-      "age_min": 32.6
+      "ts": "2026-06-07T21:32:45.706841+05:00",
+      "age_min": 138.3
+    },
+    {
+      "hash": "555efcd3e7d3bf86ec0bf7c29d641413",
+      "title": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
+      "summary": "At least five people were killed in one attack on a police post as Hamas and other groups met mediators in Cairo.",
+      "link": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-07T21:32:45.705984+05:00",
+      "age_min": 121.2
+    },
+    {
+      "hash": "7a24ed7a5330e537d0959205c6860064",
+      "title": "Nigeria Eurobond Yields Rise As Mixed Naira Performance Signals Cautious Foreign Investor Sentiment",
+      "summary": "",
+      "link": "https://naija247news.com/top-stories/nigeria-eurobond-yields-rise-as-mixed-naira-performance-signals-cautious-foreign-investor-sentiment/",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-07T21:32:40.083822+05:00",
+      "age_min": 47.7
+    },
+    {
+      "hash": "24759691e88a963163c6f6b9380e98f1",
+      "title": "Nigeria Sovereign Bond Yields Climb As Investors Seek Higher Premium For Fiscal , Inflation Risks",
+      "summary": "",
+      "link": "https://naija247news.com/companies-2/markets/money-market/nigeria-sovereign-bond-yields-climb-as-investors-seek-higher-premium-for-fiscal-inflation-risks/",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-07T21:32:40.083408+05:00",
+      "age_min": 47.7
     },
     {
       "hash": "e3647e808ac5271dd8a4e7d39372bcda",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-07T20:45:47.335034+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "f67eea6dc589ddf7b6562ae3b1a6df82",
-      "title": "OPEC+ Agrees Another Symbolic Quota Increase for July",
-      "summary": "Major OPEC+ members agreed another modest symbolic increase to their oil output quotas for July, even as a blockage of exports from the Persian Gulf prevents most of them from implementing it.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/opec-agrees-another-symbolic-quota-hike-for-july-delegates-say",
-      "source": "Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-07T20:32:34.045128+05:00",
-      "age_min": 157.1
-    },
-    {
-      "hash": "3397d8c8bfffbcafcd1ba9ee9903a789",
-      "title": "Readout of Secretary of War Pete Hegseth Meeting With French Minister of the Armed Forces Catherine Vautrin",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/wmd/library/news/france/2026/france-260606-dod01.htm",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-07T20:31:31.947116+05:00",
-      "age_min": 106.5
-    },
-    {
-      "hash": "d39a4a23b6258dd6961380b08d4d4df4",
-      "title": "In Laos, war still waits beneath the soil",
-      "summary": "",
-      "link": "https://asia.nikkei.com/editor-s-picks/tea-leaves/in-laos-war-still-waits-beneath-the-soil",
-      "source": "Nikkei Asia",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-07T20:16:52.126091+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "39bb5db5c62d37257b28016b8f354247",
-      "title": "Arab Gunman Kills One in Attack on Central Israel",
-      "summary": "The assailant, an Arab citizen of Israel, was killed. Hamas, the Palestinian militant group, praised the shooting, but it did not claim responsibility.",
-      "link": "https://www.nytimes.com/2026/06/07/world/middleeast/israel-west-bank-shooting.html",
-      "source": "NYT World",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-07T20:16:51.884161+05:00",
-      "age_min": 64.1
     }
   ]
 }
