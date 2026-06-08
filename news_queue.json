@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T07:03:40.225548+05:00",
+  "updated": "2026-06-08T07:18:14.397515+05:00",
   "items": [
     {
       "hash": "7d3c93416d3ffa415c5ed4a01dc78abc",
@@ -38,6 +38,18 @@
       "age_min": 29.0
     },
     {
+      "hash": "33cf0deff9feab8d4b33e08beb77fafc",
+      "title": "Russian strikes kill five , damage nuclear storage facility : Kyiv",
+      "summary": "",
+      "link": "https://tribune.com.pk/story/2611999/russian-strikes-kill-five-damage-nuclear-storage-facility-kyiv",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-08T07:16:04.120754+05:00",
+      "age_min": 91.1
+    },
+    {
       "hash": "55fe46645b0d0b0132ee353f5eda30fa",
       "title": "Iran launches ballistic missiles at Israel",
       "summary": "Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah",
@@ -50,16 +62,16 @@
       "age_min": 99.2
     },
     {
-      "hash": "19f1b5c05253e8d9d1e127bcf4ae9124",
-      "title": "US Stock Futures Drop After Tech Selloff, Oil Up: Markets Wrap",
-      "summary": "Equities looked set for more losses after a tech-led selloff on Wall Street Friday and a robust jobs report fueled expectations for an interest-rate hike by the Federal Reserve.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-07/us-stock-futures-drop-after-tech-selloff-oil-up-markets-wrap",
-      "source": "Bloomberg",
-      "score": 9,
+      "hash": "701d9f39a13e86f949afa14881a0592b",
+      "title": "European leaders back Volodymyr Zelenskyy call to press Putin on an end to war",
+      "summary": "",
+      "link": "https://www.newstalkzb.co.nz/news/world/russia-ukraine-war-european-leaders-back-volodymyr-zelenskyy-call-to-press-putin-on-an-end-to-war/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-08T03:17:10.869307+05:00",
-      "age_min": 9.7
+      "ts": "2026-06-08T07:16:04.125361+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "7795dbeecef872bd21a48bcce2d61305",
@@ -84,18 +96,6 @@
       "status": "new",
       "ts": "2026-06-08T06:00:52.554211+05:00",
       "age_min": 15.9
-    },
-    {
-      "hash": "9bc715938a22131a24722ac849a9f1d2",
-      "title": "I thank @Keir_Starmer, @EmmanuelMacron, and @bundeskanzler Friedrich Merz for their support. We met in the important E3–Ukraine format. A substantive discussion focused on our defense. I informed them about the situation on the battlefield and Russia’s losses. For five consecutive months now, the aggressor has been losing more than 30,000 troops killed and wounded. It is important that our assessments align with those of our partners: Russia is not winning on the battlefield, and our mid-range strikes and deep strikes are significantly limiting its ability to expand its aggression. But it is also extremely important to have protection against ballistic threats, with which the Russians are terrorizing our cities and communities.\n\nWe also discussed possible ways to reinvigorate diplomacy and Europe’s role in this process. For Ukraine, it has always been a priority that Europe’s position and voice in the negotiations be strong. I thank Britain, France, and Germany for their support and readiness to help. We agreed that our teams will work on the next steps.",
-      "summary": "I thank @Keir_Starmer, @EmmanuelMacron, and @bundeskanzler Friedrich Merz for their support. We met in the important E3–Ukraine format. A substantive discussion focused on our defense. I informed them about the situation on the battlefield and Russia’s losses. For five consecutive months now, the aggressor has been losing more than 30,000 troops killed and wounded. It is important that our assessm",
-      "link": "https://nitter.net/ZelenskyyUa/status/2063736475124920554#m",
-      "source": "Zelensky/X",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-08T03:03:44.560489+05:00",
-      "age_min": 28.9
     },
     {
       "hash": "9611f0e9cacce8d11c2e60f2d5d955fc",
@@ -216,18 +216,6 @@
       "status": "new",
       "ts": "2026-06-08T03:33:06.949960+05:00",
       "age_min": 15.7
-    },
-    {
-      "hash": "d1de34207d9208e0a1a71430abfc8c7c",
-      "title": "Israeli says it was targeted by Iranian missile despite ceasefire : NPR",
-      "summary": "",
-      "link": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire",
-      "source": "GDELT/MIDEAST",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-08T03:16:02.275755+05:00",
-      "age_min": 46.0
     },
     {
       "hash": "1734892e50a18c7fe74f04709e6b720f",
@@ -362,18 +350,6 @@
       "age_min": 113.4
     },
     {
-      "hash": "fc40f392e3d5d5db5880cae94d3a1f05",
-      "title": "Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz - Crude Oil Prices Today | OilPrice.com",
-      "summary": "Post-War Oil Trade Could Look Nothing Like It Did Before Hormuz&nbsp;&nbsp;Crude Oil Prices Today | OilPrice.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNclhkS1ZrZUJ5cGtmbEFBTE9uZzRNNHpHMXlVRURmY2NhN0R1alV3T2hNeWtMUnJsVWhwaGJDenZydFVFYjhBaWx6SUprcUxTZzRRUVZHdlJxZks4SGkzQlQ4bjEwRnFOSGhOR3VTWmpkcUs4bGVobThVQXhvM2N0ZXFCbUlBQ3RlZzdYenMycVF2UVdVQlkxME9MYmU4NHFraXhSLW5xUC03UdIBrwFBVV95cUxPY1lzdElLZW5jbWxNTFBNQVdPdXlPOFM5am1hc0t3QmY5U2dnMk1MOUcyM0RGcFROQnNGcDhFWjMyZTBnR1hQRGNuWkh4elJHWFFxWFROaTh6OGM3NUlFQ1JWb1NvV2pmUEl4TE9nTE1iT1VMbGE4ejFOZFhJMnFhOWtnLUE0Nkx2MlE5V1VVaW9CTzdUemFpdzg3WEhxNzEtUlBHTzY5Y3ZJYkdBUTNn?oc=5",
-      "source": "GNews/Oil",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-08T03:17:40.399959+05:00",
-      "age_min": 77.7
-    },
-    {
       "hash": "488343d34a00d1927d4a0e224d5c754c",
       "title": "Dollar Surges on Strong U.S. Jobs Report, Fed Rate Hike Looms - Devdiscourse",
       "summary": "Dollar Surges on Strong U.S. Jobs Report, Fed Rate Hike Looms&nbsp;&nbsp;Devdiscourse",
@@ -480,18 +456,6 @@
       "status": "new",
       "ts": "2026-06-08T03:31:20.108987+05:00",
       "age_min": 31.3
-    },
-    {
-      "hash": "1e356a2dc3159071765f7026e06efe14",
-      "title": "Israel says Iran launched missiles at it in first bombardment since ceasefire",
-      "summary": "",
-      "link": "https://www.breakingnews.ie/world/israel-says-iran-launched-missiles-at-it-in-first-bombardment-since-ceasefire-1910413.html",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-08T03:16:02.275106+05:00",
-      "age_min": 46.0
     },
     {
       "hash": "01bf081179b84aba53c781584a80082f",
