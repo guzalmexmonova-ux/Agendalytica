@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T02:03:48.046127+05:00",
+  "updated": "2026-06-09T02:17:50.739374+05:00",
   "items": [
     {
       "hash": "03e319f89143a534b011d61b1086e47a",
@@ -230,28 +230,16 @@
       "age_min": 61.2
     },
     {
-      "hash": "93431895e345c4f7f43572efee5a016e",
-      "title": "Explainer : What to know about first major Iran - Israel escalation since ceasefire - Xinhua",
-      "summary": "",
-      "link": "https://english.news.cn/20260608/0c6cf80dcd7a43b99bfb4b4074f2cdb0/c.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "45361b23bc9bde5376d68ddc38e8dc29",
+      "title": "Kim Jong-un’s Triumph",
+      "summary": "He leveraged the war in Ukraine to become North Korea’s most powerful leader to date.",
+      "link": "https://www.nytimes.com/2026/06/08/world/kim-jong-un-north-korea-china.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-08T22:15:54.765622+05:00",
-      "age_min": 90.9
-    },
-    {
-      "hash": "eaa544dbd0b9a9fe10e8398b0045a22f",
-      "title": "Israel and Iran trade strikes , threatening to drag the region back into full - scale war",
-      "summary": "",
-      "link": "https://www.smdailyjournal.com/news/world/israel-and-iran-trade-strikes-threatening-to-drag-the-region-back-into-full-scale-war/article_218f0efd-ba82-58b0-9390-acde303f29df.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-08T22:15:54.763283+05:00",
-      "age_min": 75.9
+      "ts": "2026-06-09T02:17:03.792865+05:00",
+      "age_min": 4.3
     },
     {
       "hash": "3ee64b7c34a329f15ff4218278e143e4",
@@ -588,6 +576,18 @@
       "status": "new",
       "ts": "2026-06-09T01:15:40.692760+05:00",
       "age_min": 60.7
+    },
+    {
+      "hash": "e40aa691f93eed425cee0ed631d6fcef",
+      "title": "‘We basically lost’: Tel Aviv residents react after Israel-Iran strikes",
+      "summary": "Residents in Tel Aviv voiced mixed reactions after a day of missile exchanges between Israel and Iran.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/8/we-basically-lost-tel-aviv-residents-react-after-israel-iran-strikes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T02:17:03.590902+05:00",
+      "age_min": 22.1
     }
   ]
 }
