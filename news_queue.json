@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T17:33:50.972063+05:00",
+  "updated": "2026-06-09T17:48:29.115513+05:00",
   "items": [
     {
       "hash": "d6db5a571a5446418517756b0792705a",
@@ -242,30 +242,6 @@
       "age_min": 31.5
     },
     {
-      "hash": "a5c209e786d9c81b2fdb8130d96371be",
-      "title": "Bibi , you better be careful : Trump cautions Netanyahu against striking Iran to avert regional war",
-      "summary": "",
-      "link": "http://www.israelherald.com/news/279111002/bibi-you-better-be-careful-trump-cautions-netanyahu-against-striking-iran-to-avert-regional-war",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T13:45:38.600021+05:00",
-      "age_min": 60.6
-    },
-    {
-      "hash": "1796714c928d7dbbbc2ff913a255aa37",
-      "title": "Война России против Украины - в США назвали агрессию Путина провалом",
-      "summary": "",
-      "link": "https://24tv.ua/geopolitics/ru/vojna-rossii-protiv-ukrainy-ssha-nazvali-agressiju-putina-provalom_n3084141",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T13:45:38.598299+05:00",
-      "age_min": 30.6
-    },
-    {
       "hash": "c2b089ce7069e0a4839e10c8ac933182",
       "title": "Russia issues chilling  nuclear weapon threat as Putin suffers war setbacks",
       "summary": "",
@@ -434,18 +410,6 @@
       "age_min": 47.2
     },
     {
-      "hash": "31c639a7932a94e7b8d2d699068a7940",
-      "title": "Økonomer advarer : Lagarde risikerer at begå alvorlig fejl",
-      "summary": "",
-      "link": "https://jyllands-posten.dk/erhverv/ECE19369610/oekonomer-advarer-lagarde-risikerer-at-begaa-alvorlig-fejl/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T13:46:32.382310+05:00",
-      "age_min": 91.5
-    },
-    {
       "hash": "55f6e76552bdd13651d1c4d15a0c71d8",
       "title": "Video captures Russian attack in Ukraine’s Zaporizhzhia",
       "summary": "Surveillance camera video captured the moment a Russian drone strike caused a blast in Zaporizhzhia, Ukraine.",
@@ -530,16 +494,28 @@
       "age_min": 39.7
     },
     {
-      "hash": "18aee88f7408d6eb3a679103aa1d51c8",
-      "title": "A high - level regional meeting was held in Ashgabat to mark the 30th anniversary of the Comprehensive Nuclear - Test - Ban Treaty",
-      "summary": "",
-      "link": "https://www.newscentralasia.net/2026/06/09/a-high-level-regional-meeting-was-held-in-ashgabat-to-mark-the-30th-anniversary-of-the-comprehensive-nuclear-test-ban-treaty/",
-      "source": "GDELT/CENTRAL_ASIA",
-      "score": 9,
+      "hash": "ca73b3896fb39f2cf0d4f59fce38aa70",
+      "title": "Israel Strikes Lebanese City of Tyre as New Cease-Fire Falters",
+      "summary": "The bombardment followed Israeli evacuation warnings for the entire city, and came a day after Iran said it would attack Israel if it kept up its offensive in southern Lebanon.",
+      "link": "https://www.nytimes.com/2026/06/09/world/middleeast/israel-lebanon-strikes-tyre-ceasefire.html",
+      "source": "NYT World",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-09T13:46:59.819127+05:00",
-      "age_min": 92.0
+      "ts": "2026-06-09T17:47:45.048888+05:00",
+      "age_min": 15.2
+    },
+    {
+      "hash": "58560a5850069f1d0cd1821310608317",
+      "title": "British teen charged over London arson attack on Jewish charity ambulances",
+      "summary": "",
+      "link": "https://www.cbsnews.com/news/uk-london-antisemitism-ambulance-arson-attack-hatzola-charged-teen/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T17:45:50.536413+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "19c210211d31c59b8d705011d8a77d29",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-06-09T16:47:33.856636+05:00",
       "age_min": 107.6
+    },
+    {
+      "hash": "1a2249fd76969bac56c32fb9ac07d504",
+      "title": "Trump says pilots OK after US helicopter crashes near Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.dailylocal.com/2026/06/09/trump-pilots-helicopter-crash-strait-of-hormuz/",
+      "source": "GDELT/TERRORISM",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T17:45:50.539150+05:00",
+      "age_min": 45.8
+    },
+    {
+      "hash": "661bcdb23e3c67a11eb3ea3b747d1fb1",
+      "title": "Talks between Iran and the US stall amid regional escalation - russpain.com",
+      "summary": "Talks between Iran and the US stall amid regional escalation&nbsp;&nbsp;russpain.com",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMGRycm1zSDJFTWlQU0pqZldBNUZBSGxmeV9FaDJvMEE3RkMzbXZiR3pqeTZZWWJxRmVCUFNXMHF4MXVDRVZqOEJoZG5SX1hxLW92T0U3dGg3Y0ZGNFExaDV6SndrSDZxMjNrbjU3eVlVOWd4Sm1HV2EwcWpQNHFZd1dIV0VGOTM3cmFlM1U5T0o2LUthLTlFNFZndWtVLWZETzFNNnhEbw?oc=5",
+      "source": "GNews/Mideast",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T17:48:15.251407+05:00",
+      "age_min": 73.4
     }
   ]
 }
