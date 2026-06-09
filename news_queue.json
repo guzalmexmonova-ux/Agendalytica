@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T15:18:23.168948+05:00",
+  "updated": "2026-06-09T15:33:42.429039+05:00",
   "items": [
     {
       "hash": "9b99ce6f8e3ee8d2c9548079daff5cad",
@@ -84,18 +84,6 @@
       "status": "new",
       "ts": "2026-06-09T13:01:00.262827+05:00",
       "age_min": 31.0
-    },
-    {
-      "hash": "25e2bf31169c7c36af51eeca0836c482",
-      "title": "Indonesia’s Bond Selloff Extends After Offcycle Rate Increase",
-      "summary": "Indonesia’s bond market selloff deepened after the central bank delivered an offcycle interest-rate hike to protect the currency.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-09/idr-usd-indonesia-five-year-bond-yield-rises-to-highest-level-since-2020",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T11:32:53.493332+05:00",
-      "age_min": 196.9
     },
     {
       "hash": "fa6a237fab5a2bab0ade4d8478a62be3",
@@ -216,6 +204,18 @@
       "status": "new",
       "ts": "2026-06-09T12:45:38.801936+05:00",
       "age_min": 105.6
+    },
+    {
+      "hash": "43ad33c70b2148d78e8b7ffc1645132d",
+      "title": "Iran war update : Trump says pilots are fine after US helicopter crashes near Strait of Hormuz",
+      "summary": "",
+      "link": "https://abc7chicago.com/post/iran-war-update-trump-says-pilots-are-fine-us-helicopter-crashes-strait-hormuz/19261063/",
+      "source": "GDELT/SANCTIONS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T15:31:45.974789+05:00",
+      "age_min": 61.8
     },
     {
       "hash": "24061bf529b38c405126a4537ef99442",
@@ -434,6 +434,30 @@
       "age_min": 26.5
     },
     {
+      "hash": "00c46eb1df18fe05104401099371628c",
+      "title": "UN report exposes brutal reality for Palestinians in Gaza, West Bank",
+      "summary": "Palestinian civilians are caught between “mass atrocities” of Israeli forces, settlers and Hamas’ brutal rule, a UN-mandated inquiry said on Tuesday.\nCivilians across war-ravaged Gaza and the occupied West Bank are being “systematically and deliberately” subjected to severe rights violations, the UN’s Independent International Commission of Inquiry said.\nThe investigative team, which last year con",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3356517/un-report-exposes-brutal-reality-palestinians-gaza-west-bank?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T15:32:56.583527+05:00",
+      "age_min": 12.4
+    },
+    {
+      "hash": "ca9cbca03495128eca5f2ee6a75a4652",
+      "title": "Скандал через УПА : ексочільник МЗС Польщі розкритикував Навроцького Світ",
+      "summary": "",
+      "link": "https://tsn.ua/svit/polshcha-vtratyla-prestyz-eksholova-mzs-krayiny-rozkrytykuvav-navrotskoho-cherez-skandal-iz-upa-3101870.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T15:31:11.088351+05:00",
+      "age_min": 91.2
+    },
+    {
       "hash": "23bb610b1329de9a670f245a974e7b6a",
       "title": "Contributor: How the looming Houthi threat could turn the Iran war - Los Angeles Times",
       "summary": "Contributor: How the looming Houthi threat could turn the Iran war&nbsp;&nbsp;Los Angeles Times",
@@ -542,6 +566,18 @@
       "age_min": 12.5
     },
     {
+      "hash": "ce5e84d9380cf25f5f3e7f64ded2d825",
+      "title": "హోర్ముజ్ సమీపంలో కూలిన యూఎస్ ఆర్మీ హెలికాప్టర్ | us apache helicopter crash near hormuz strait raises questions amid regional tensions pcs",
+      "summary": "",
+      "link": "https://www.andhrajyothy.com/2026/international/usa/us-apache-helicopter-crash-near-hormuz-strait-raises-questions-amid-regional-tensions-pcs-1531101.html",
+      "source": "GDELT/MACRO",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T15:32:49.744945+05:00",
+      "age_min": 77.8
+    },
+    {
       "hash": "6a4f41b20ed78e0594f7b122e78c7f66",
       "title": "होर्मुज संकट के बीच  डार्क मोड  में चल रहे ईंधन टैंकर , भारत को गुप्त रास्तों से हो रही कच्चे तेल और एलएनजी की आपूर्ति | Oil Tankers Go Dark in Strait of Hormuz ; India Receives Covert Fuel Supply",
       "summary": "",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-09T15:16:58.349597+05:00",
       "age_min": 92.0
-    },
-    {
-      "hash": "32cd9286ac9438f547ee39cf3c5dba9e",
-      "title": "Myriad Uranium Corp .: Myriad Announces Acquisition of 23 Breccia Pipe Uranium and REE Exploration Targets in Historically Significant Uranium District in Arizona",
-      "summary": "",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-06/68716423-myriad-uranium-corp-myriad-announces-acquisition-of-23-breccia-pipe-uranium-and-ree-exploration-targets-in-historically-significant-uranium-district-296.htm",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T15:16:58.347752+05:00",
-      "age_min": 47.0
-    },
-    {
-      "hash": "55fdbe1caf2c98c35bab1a68ae1551c1",
-      "title": "Strait of Hormuz closure : Why high oil prices may be a temporary shock only - explained",
-      "summary": "",
-      "link": "https://timesofindia.indiatimes.com/business/international-business/strait-of-hormuz-closure-why-high-oil-prices-may-be-a-temporary-shock-only-explained/articleshow/131605979.cms",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T15:16:58.346494+05:00",
-      "age_min": 32.0
-    },
-    {
-      "hash": "bfc1f21b491862f97904ba1a011c68ba",
-      "title": "Ceasefire Removes Gold’s Geopolitical Cushion. The Fed Is Now in Control - Investing.com India",
-      "summary": "Ceasefire Removes Gold’s Geopolitical Cushion. The Fed Is Now in Control&nbsp;&nbsp;Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYTJraUM0OWtyR3hVYlRRcXBwVERsWi04elJjdU9zNUx2T1BtYk9BSXVhdC1PQ0o3WmZDSzVHcjJ2Z2prZDlxRmkyY3Y3czdFSEhsUkRnYzVSXzVNdDduWmMzMkxyZ212RVhBVWlEbHVJeG1KbTFFNlhhaEdMeDFxV1RvQlpRdFo1clVRbThwUF8wc1Q0UlNrZHIwaDZmM3FVS25waFQzR3I5SnNLS2o1ODdQN3Y?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-09T15:18:04.318574+05:00",
-      "age_min": 23.5
     }
   ]
 }
