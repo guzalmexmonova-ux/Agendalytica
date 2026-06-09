@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-09T15:46:17.194453+05:00",
+  "updated": "2026-06-09T16:04:20.983759+05:00",
   "items": [
+    {
+      "hash": "30755f408825c8603c42d8f41f80d193",
+      "title": "Will the Stock Market Crash if the Federal Reserve Raises Interest Rates ? Soaring Bond Yields Portend Trouble .",
+      "summary": "",
+      "link": "https://www.fool.com/investing/2026/06/09/stock-market-crash-federal-reserve-raise-rates/?source=iedfolrf0000001",
+      "source": "GDELT/FED_ECB",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T15:47:05.838505+05:00",
+      "age_min": 32.1
+    },
     {
       "hash": "9b99ce6f8e3ee8d2c9548079daff5cad",
       "title": "Kuwait Offers Oil to Asian Buyers for First Time Since War Began",
@@ -48,18 +60,6 @@
       "status": "new",
       "ts": "2026-06-09T12:45:38.803124+05:00",
       "age_min": 45.6
-    },
-    {
-      "hash": "74e61320a9173a957a6f9cb15d240a86",
-      "title": "Driver Killed in Moscow Region Car Explosion Near Site of General Assassination",
-      "summary": "",
-      "link": "https://www.themoscowtimes.com/2026/06/09/driver-killed-in-moscow-region-car-explosion-near-site-of-generals-assassination-a92958",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T15:43:21.275489+05:00",
-      "age_min": 28.4
     },
     {
       "hash": "10f7135b2d978f214b8584583ac594f3",
@@ -218,6 +218,30 @@
       "age_min": 105.6
     },
     {
+      "hash": "b1300ac9810cfa53a2c4623f4129a51f",
+      "title": "Trump's trade war has a new target: forced labor. The case behind it is far from simple",
+      "summary": "Ending forced labor is a goal most countries around the world have but few actually have success, including the U.S. Can Trump's tariffs change that?",
+      "link": "https://www.cnbc.com/2026/06/09/trump-tariffs-trade-china-forced-labor.html",
+      "source": "CNBC",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T16:03:13.319472+05:00",
+      "age_min": 3.2
+    },
+    {
+      "hash": "174dbf44271fbdb356bc0d6199a42f87",
+      "title": "Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz",
+      "summary": "It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.",
+      "link": "https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T16:03:13.179328+05:00",
+      "age_min": 50.3
+    },
+    {
       "hash": "43ad33c70b2148d78e8b7ffc1645132d",
       "title": "Iran war update : Trump says pilots are fine after US helicopter crashes near Strait of Hormuz",
       "summary": "",
@@ -290,18 +314,6 @@
       "age_min": 38.2
     },
     {
-      "hash": "220ab58f0cb614dadf3ad693ca57f209",
-      "title": "Who’s calling the shots? Netanyahu and Trump at odds over their war",
-      "summary": "Israel’s latest strikes on Lebanon and Iran have made clear that US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, who started the war in lockstep, want different things.\nTrump had publicly warned Israel not to strike Beirut in its war with Iran-backed Hezbollah militants. When it did, on Sunday, Iran responded by firing ballistic missiles at Israel for the first time since ",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3356472/whos-calling-shots-netanyahu-and-trump-odds-over-their-war?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-09T12:03:05.601406+05:00",
-      "age_min": 12.5
-    },
-    {
       "hash": "f281ade0848f2e840c5c641413ba8b34",
       "title": "Indonesia central bank unveils surprise rate hike to stem rupiah rout",
       "summary": "",
@@ -362,16 +374,16 @@
       "age_min": 91.5
     },
     {
-      "hash": "97a7ec3a301a0bad3df7b13248b85089",
-      "title": "Fifth Qatari - Controlled LNG Tanker Exits Hormuz Strait",
+      "hash": "01cb9aace599db40fa804440951fde34",
+      "title": "Cambodian payment apps' collapse leaves users fighting to recover funds",
       "summary": "",
-      "link": "https://www.marinelink.com/news/fifth-qataricontrolled-lng-tanker-exits-540065",
-      "source": "GDELT/ENERGY",
-      "score": 7,
-      "weight": 4,
+      "link": "https://asia.nikkei.com/spotlight/asean-money/cambodian-payment-apps-collapse-leaves-users-fighting-to-recover-funds",
+      "source": "Nikkei Asia",
+      "score": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-09T12:02:17.137368+05:00",
-      "age_min": 62.3
+      "ts": "2026-06-09T16:03:13.415806+05:00",
+      "age_min": 0
     },
     {
       "hash": "bdc978be5d3ac8fedad00350947a3123",
@@ -434,16 +446,28 @@
       "age_min": 14.2
     },
     {
-      "hash": "8b1037dfa0afeb1a265ca1c1fe296796",
-      "title": "Nuclear weapons spending surges to record high of $119bn, report says",
-      "summary": "International Campaign to Abolish Nuclear Weapons says states spent an extra $16.8bn on their nuclear arsenals in 2025.",
-      "link": "https://www.aljazeera.com/economy/2026/6/9/nuclear-weapons-spending-surges-to-record-high-of-119bn-report-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 9,
+      "hash": "ed7526246a31b3dede07bd56a533510e",
+      "title": "Attacks threaten to widen war in Mideast - PressReader",
+      "summary": "Attacks threaten to widen war in Mideast&nbsp;&nbsp;PressReader",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9qdzFhRkhmQWt3TEEzeE1SQlNEdTVGWUpnREUyVDRHdEJ0dkRtY2ZKMGJVMk5qTjJScnBFSWh0emM4NklHNVlwdllkcGtlNC1zU1ZyaHBMQWo5TjFmUVdZNjFjc2tvSFpWWGxNaEk3ZkpZaUF6NFVGSW5hV2VmRTQ?oc=5",
+      "source": "GNews/Mideast",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-09T11:47:04.530357+05:00",
-      "age_min": 26.5
+      "ts": "2026-06-09T16:04:02.414357+05:00",
+      "age_min": 29.1
+    },
+    {
+      "hash": "4752280d42877bd301efb4c2c9e7e7fc",
+      "title": "China's 8-year low oil imports cushion Iran war shock to global prices",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/china-s-8-year-low-oil-imports-cushion-iran-war-shock-to-global-prices",
+      "source": "Nikkei Asia",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T16:03:13.413878+05:00",
+      "age_min": 0
     },
     {
       "hash": "00c46eb1df18fe05104401099371628c",
@@ -566,40 +590,16 @@
       "age_min": 68.4
     },
     {
-      "hash": "30963fbca8890c2bbe9c8e5d1eb1a9cb",
-      "title": "Iran has drawn Israel into a war of attrition - www.israelhayom.com",
-      "summary": "Iran has drawn Israel into a war of attrition&nbsp;&nbsp;www.israelhayom.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUGYtakpSXzNsVTNkR0JvdWFaYzUzUXRIQVRSRV9wS0oyM1FxYXR6U09meEF3OEpvVldpaU5kVnFoUll1S0Exa2VaclE4MGRLTFJ0azgyVjltWHJmcTFWdGN6RzhjRTN3NlBoaHpSZ3Jmb3hzMEdfYmhWOEVVNHppT2RreUpVdzlEaEpDc2VCY2lJdWJ0a1o2MHUzejB4Ymwt?oc=5",
-      "source": "GNews/Mideast",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-09T12:03:37.062867+05:00",
-      "age_min": 12.5
-    },
-    {
-      "hash": "6ee994e1472c2d4f7406025b08d64938",
-      "title": "Is the market 'scaring itself'? With stark K-shaped economic divergence, what justifies the Federal Reserve's rate hikes? - 富途牛牛",
-      "summary": "Is the market 'scaring itself'? With stark K-shaped economic divergence, what justifies the Federal Reserve's rate hikes?&nbsp;&nbsp;富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU250WTJiLXJic1A3U1BaaHlCZ19uQjZVZ0R2SGlYRHllb2hNLVFLSGZyYk1fVzk1TDlST1RURXJocFVPMXlBRlo2RTczMDNtSTBtalZha0tOUUhFOGx6YkdxTHlyckFPTl9fZ1FMdU84eUM0Z212QVJpYVlEZk1UeVp4cTlJXzN1S3ppNGlZYzdRa29jZGloTHFFTlA4VHM?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-09T15:45:19.951702+05:00",
-      "age_min": 118.3
-    },
-    {
-      "hash": "3b35af6f31e03e9483cddab52fa022d9",
-      "title": "Trump says pilots are fine after US helicopter crashes near Strait of Hormuz",
+      "hash": "ce5e84d9380cf25f5f3e7f64ded2d825",
+      "title": "హోర్ముజ్ సమీపంలో కూలిన యూఎస్ ఆర్మీ హెలికాప్టర్ | us apache helicopter crash near hormuz strait raises questions amid regional tensions pcs",
       "summary": "",
-      "link": "https://isp.netscape.com:443/news/world/story/0001/20260609/50d7a8ecbb2cf33836af152679adb40e",
-      "source": "GDELT/TERRORISM",
+      "link": "https://www.andhrajyothy.com/2026/international/usa/us-apache-helicopter-crash-near-hormuz-strait-raises-questions-amid-regional-tensions-pcs-1531101.html",
+      "source": "GDELT/MACRO",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-09T15:43:21.283016+05:00",
-      "age_min": 88.4
+      "ts": "2026-06-09T15:32:49.744945+05:00",
+      "age_min": 77.8
     }
   ]
 }
