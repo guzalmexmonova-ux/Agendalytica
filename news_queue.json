@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T18:34:00.582710+05:00",
+  "updated": "2026-06-09T18:48:15.560473+05:00",
   "items": [
     {
       "hash": "eb4b0d1d553ad3d38845ad06bbb172d9",
@@ -146,18 +146,6 @@
       "age_min": 16.4
     },
     {
-      "hash": "10f7135b2d978f214b8584583ac594f3",
-      "title": "India Expands Nuclear Stockpile to 190 Warheads : SIPRI Report",
-      "summary": "",
-      "link": "https://www.deccanchronicle.com/nation/current-affairs/with-190-warheads-india-widens-nuke-arsenal-lead-over-pakistan-sipri-report-1962368",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T14:45:40.031163+05:00",
-      "age_min": 30.7
-    },
-    {
       "hash": "ec842cf551016933627d4fa53fa52254",
       "title": "Warsh’s narrow path to success as Fed chair",
       "summary": "His first rate-setting meeting sets the direction of travel for a potentially turbulent term in office",
@@ -228,6 +216,18 @@
       "status": "new",
       "ts": "2026-06-09T16:16:07.160034+05:00",
       "age_min": 91.1
+    },
+    {
+      "hash": "0de4011b99761b12751ad827d1c82fdb",
+      "title": "Iran War Live Updates: Israel Launches New Strikes in Southern Lebanon",
+      "summary": "The attacks came a day after Israel and Iran pulled back from direct confrontation. The Israeli campaign against the Lebanese militia Hezbollah has been an obstacle in U.S.-Iran peace talks.",
+      "link": "https://www.nytimes.com/live/2026/06/09/world/iran-war-trump-israel-lebanon",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T18:47:33.179934+05:00",
+      "age_min": 9.5
     },
     {
       "hash": "1e9d1055d48d2aefb4e7ababbf189c5b",
@@ -302,6 +302,18 @@
       "age_min": 61.8
     },
     {
+      "hash": "58291b3972fa3e1c58435b9fd1b495c7",
+      "title": "'Please send help': Ship's distress call after being hit by US missile",
+      "summary": "The Indian crew of a sanctioned oil tanker urged authorities to \"send help\" after the ship was hit by a US missile off Oman on Monday, saying it was on fire and sinking.",
+      "link": "https://www.bbc.com/news/articles/cq51ep28165o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T18:47:32.874114+05:00",
+      "age_min": 5.1
+    },
+    {
       "hash": "c3623e9ea4504baf6eb58a366d8399e7",
       "title": "Crashed US army helicopter pilots rescued by sea drone near Strait of Hormuz",
       "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News.",
@@ -348,30 +360,6 @@
       "status": "new",
       "ts": "2026-06-09T16:16:40.226926+05:00",
       "age_min": 61.7
-    },
-    {
-      "hash": "f281ade0848f2e840c5c641413ba8b34",
-      "title": "Indonesia central bank unveils surprise rate hike to stem rupiah rout",
-      "summary": "",
-      "link": "https://www.bssnews.net/business/393853",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T14:46:37.065766+05:00",
-      "age_min": 31.6
-    },
-    {
-      "hash": "fd74688aadad8d63a269c0d8241f88b4",
-      "title": "Bce tra lincudine e il martello . Tassi , Lagarde sfoglia la margherita",
-      "summary": "",
-      "link": "https://www.affaritaliani.it/economia/bce-tra-lincudine-e-il-martello-solo-tre-giorni-al-verdetto-sui-tassi-rialzo-in-arrivo.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T14:46:37.062321+05:00",
-      "age_min": 31.6
     },
     {
       "hash": "55f6e76552bdd13651d1c4d15a0c71d8",
@@ -432,6 +420,18 @@
       "status": "new",
       "ts": "2026-06-09T16:03:13.415806+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "e70c341d10684752b319525d4c79ebd3",
+      "title": "Prezzi oro , ripresa o nuovi crolli in vista con i tassi Fed di Warsh ? Gli esperti rispondono a Money . it",
+      "summary": "",
+      "link": "https://www.money.it/prezzi-oro-ripresa-o-nuovi-crolli-in-vista-con-i-tassi-fed-di-warsh-gli-esperti-rispondono-a-moneyit",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-09T18:47:27.016523+05:00",
+      "age_min": 47.5
     },
     {
       "hash": "0e8e54e03bbb91ca8d05d22f3d6cbcb6",
@@ -554,6 +554,30 @@
       "age_min": 107.6
     },
     {
+      "hash": "a4848a26b00eca9a86224fda6139aa90",
+      "title": "West Asia ceasefire may turn into a prolonged low-intensity conflict, warn experts - CNBC TV18",
+      "summary": "West Asia ceasefire may turn into a prolonged low-intensity conflict, warn experts&nbsp;&nbsp;CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelBwVjNQbVRDMUVUUzFPZmlOVThCZmNua29mQTJQT3dUdUtmYzExZ2t3ZDB2ekJMRGc5VFJobS1JWXdCWEUyNUo5VUxoTzN5dDlNRFR5Y1BBSDQ1MVJrY0VMQnB5aTMxSjBRNU1mckQzNEctZkY3NHliM244dnpoM0FNUEkyRS1MODZrcXZMVHlLWjdlaHRaVnlpSGhKYlROWlZOZm1pTkhRZnhGUnlyWFpqV0FhdW5VRjNLbTB4ZmRldzZSdFV30gHMAUFVX3lxTE9NVlY5eTZwM0s3dHZ6d0cza2tmY21VQWkxMkRHaDFzaGk1MGFxZUFfQUlCU3I4ZlVON1NRcXdrNm9NVENWX3B1MTZfU0xhRnJRRFB3STQ3Yks2UE5faWJodXBTOFNGQ1h2U3BabnZvc2pJcnQxMnIyWVZveXZnbGlfYjVTN19xaFJjUUI5b2xET0ZLTWVuQTVjMGVCSjRCbWJRX0tTT0R0NUtFNzhkLWxabjBNS09IWTEwSmY5eEZJaGRjYi1ocGZwaEotYw?oc=5",
+      "source": "GNews/Mideast",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T18:48:00.235998+05:00",
+      "age_min": 5.9
+    },
+    {
+      "hash": "aaebb6b59a55307dc5c37636404b9ab3",
+      "title": "Is the market front-running the Fed’s rate hikes? The 'wedge' pattern in 2-year U.S. Treasuries is setting up for a critical correction. - 富途牛牛",
+      "summary": "Is the market front-running the Fed’s rate hikes? The 'wedge' pattern in 2-year U.S. Treasuries is setting up for a critical correction.&nbsp;&nbsp;富途牛牛",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaEJFYVQ3OUx4N245ZEJfb0xnSjNXYXc0OVM3MHpNVHo0WU5Yanc3cnIybFI4ZEYzdld3TUVwV2dpNmRxSExtRG9GYUU0SEU1WFI0cHVWY0xhYjFMazhFUkd1aEF5bVNxUHhTWUFzaEg1RTVvN2MtY3R1LTNWZ2ZpblVDVWlBamZIemhXTXYyQW9PZW8?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-09T18:47:58.718370+05:00",
+      "age_min": 71.2
+    },
+    {
       "hash": "893867dcd3d63fcc31238e1f1ec9d929",
       "title": "Markets are pricing in a rate hike by the European Central Bank — and that could be a ‘mistake in the making’ - MarketWatch",
       "summary": "Markets are pricing in a rate hike by the European Central Bank — and that could be a ‘mistake in the making’&nbsp;&nbsp;MarketWatch",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-09T18:31:04.903520+05:00",
       "age_min": 31.1
-    },
-    {
-      "hash": "3a90ed10c6fcda16e208de71f3d32c80",
-      "title": "Trump says pilots OK after US helicopter crashes near Strait of Hormuz",
-      "summary": "",
-      "link": "https://www.thetimes-tribune.com/2026/06/09/trump-pilots-helicopter-crash-strait-of-hormuz/",
-      "source": "GDELT/TERRORISM",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T18:31:04.901080+05:00",
-      "age_min": 31.1
-    },
-    {
-      "hash": "c805712b71ffae0f0796affd523f76cd",
-      "title": "Atlas Lithium Corporation : Atlas Lithium CEO to Speak at Benchmark Giga united states 2026 , a Leading Critical Minerals Event",
-      "summary": "",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-06/68718759-atlas-lithium-corporation-atlas-lithium-ceo-to-speak-at-benchmark-giga-usa-2026-a-leading-critical-minerals-event-296.htm",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-09T18:16:58.286025+05:00",
-      "age_min": 77.0
     }
   ]
 }
