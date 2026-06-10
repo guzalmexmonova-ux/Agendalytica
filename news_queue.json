@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T11:03:59.705367+05:00",
+  "updated": "2026-06-10T11:18:21.452510+05:00",
   "items": [
     {
       "hash": "3d5c7b9c5e840db85a121c1c0481d60a",
@@ -72,6 +72,18 @@
       "status": "new",
       "ts": "2026-06-10T08:31:05.302699+05:00",
       "age_min": 76.1
+    },
+    {
+      "hash": "c663de4e5fb4d9bcdec055d5bac06104",
+      "title": "Война в Украине - эксперт объяснил уязвимость логистики оккупантов",
+      "summary": "",
+      "link": "https://www.unian.net/war/voyna-v-ukraine-ekspert-obyasnil-uyazvimost-logistiki-okkupantov-13407444.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-10T11:16:08.147113+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "de990040a62dd17026f9ddf984429f3d",
@@ -278,18 +290,6 @@
       "age_min": 61.5
     },
     {
-      "hash": "b70b4b4de36a12651e8e03535c43d14d",
-      "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
-      "summary": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
-      "link": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-10T07:16:58.967364+05:00",
-      "age_min": 37.7
-    },
-    {
       "hash": "225e24297e64695a200ff04f23686266",
       "title": "Kevin Warsh confirmed as Federal Reserve chair - MSN",
       "summary": "Kevin Warsh confirmed as Federal Reserve chair&nbsp;&nbsp;MSN",
@@ -326,16 +326,40 @@
       "age_min": 12.3
     },
     {
-      "hash": "94f097d3a3f86b21c6f04869bf31480d",
-      "title": "Беспилотник скорректировал авиаудар по пункту БПЛА ВСУ",
-      "summary": "В Минобороны РФ заявили, что кадры объективного контроля подтвердили попадание бомб и уничтожение выявленных целей",
-      "link": "https://tass.ru/armiya-i-opk/27711907",
-      "source": "TASS",
-      "score": 7,
-      "weight": 3,
+      "hash": "050d255c90414a39ea895a1879553f32",
+      "title": "Malaysia Petronas signs 20 - year LNG supply deal with Japan Jera",
+      "summary": "",
+      "link": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/malaysias-petronas-signs-20-year-lng-supply-deal-japans-jera",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-10T07:17:01.532255+05:00",
-      "age_min": 8.6
+      "ts": "2026-06-10T11:16:56.841918+05:00",
+      "age_min": 31.9
+    },
+    {
+      "hash": "a8dd82f5c84b085abce963582346bf33",
+      "title": "Chinese builder begins construction of world largest LNG carrier",
+      "summary": "",
+      "link": "https://asianews.network/chinese-builder-begins-construction-of-worlds-largest-lng-carrier/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-10T11:16:56.839243+05:00",
+      "age_min": 61.9
+    },
+    {
+      "hash": "e839c1a57dc5d6ee646523f76ab59607",
+      "title": "US Army Helicopter Crashes Near Strait of Hormuz as Trump Signals Possible Iran Deal",
+      "summary": "",
+      "link": "https://dailypioneer.com/news/pilots-safe-after-us-helicopter-crash-near-strait-of-hormuz-says-trump",
+      "source": "GDELT/TERRORISM",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-10T11:15:54.732959+05:00",
+      "age_min": 60.9
     },
     {
       "hash": "ca68b888d7b62a260151404b2893dfe4",
@@ -410,18 +434,6 @@
       "age_min": 31.6
     },
     {
-      "hash": "60351ac4b01175cfbe59ee81f886316e",
-      "title": "Ksi Lisims LNG signs benefit agreements with First Nations , challenges withdrawn",
-      "summary": "",
-      "link": "https://energeticcity.ca/2026/06/09/ksi-lisims-lng-signs-benefit-agreements-with-first-nations-challenges-withdrawn/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-10T07:16:28.740868+05:00",
-      "age_min": 61.5
-    },
-    {
       "hash": "728e6dfef5b3f70cd7ff83e399ed5a16",
       "title": "В Белгородской области от атак ВСУ за сутки погибли два человека",
       "summary": "Еще четверо получили ранения",
@@ -470,16 +482,16 @@
       "age_min": 9.5
     },
     {
-      "hash": "e9471232a3359db602d0bfa4fb0c7f81",
-      "title": "Cheng Li-wun talks Trump, Taiwan and a future leadership run",
-      "summary": "Taiwan’s main opposition leader hailed US President Donald Trump’s recent comments opposing the island’s independence as a “relatively positive first step” towards reducing tensions.\nCheng Li-wun, chairwoman of the Kuomintang (KMT), told the South China Morning Post on Sunday in an exclusive interview: “The ‘one China’ principle and opposition to Taiwan independence have always been the Kuomintang",
-      "link": "https://www.scmp.com/news/china/politics/article/3356559/cheng-li-wun-talks-trump-taiwan-and-future-leadership-run?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 6,
+      "hash": "62390a9374cadbf03fb8a1d329c51418",
+      "title": "US blockade of Cuba killing children UN commissioner",
+      "summary": "",
+      "link": "http://www.philippinetimes.com/news/279113111/us-blockade-of-cuba-killing-children-un-commissioner",
+      "source": "GDELT/SANCTIONS",
+      "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-10T07:16:59.863392+05:00",
-      "age_min": 46.8
+      "ts": "2026-06-10T11:16:41.682088+05:00",
+      "age_min": 76.7
     },
     {
       "hash": "0dfad736c3c039cf52215777080e1351",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-10T08:24:10.018999+05:00",
       "age_min": 26.0
-    },
-    {
-      "hash": "9c31058ec87a9f40605f6b50b36b0846",
-      "title": "US Attacks Iran Amid the “Ceasefire”: Bitcoin, Gold, and Oil React - Mitrade",
-      "summary": "US Attacks Iran Amid the “Ceasefire”: Bitcoin, Gold, and Oil React&nbsp;&nbsp;Mitrade",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRjM0QnJtNVA0TUFXLTdHbXFiV2lJQ2pZWjI3Sm5YTVhsaWNYellLZndrWmlJZTI5aEZ0ZW4yS1NuUVZ5VDhleHRERWNDdERVbTQzX0xlSkYzVWFuRDY1bVZ1UmpuclVlMExqaWxzS0hFSDV2Y3JPb3lleFY2aUVNQUhaOTJwZE1JYjdScFJ5bGtTUQ?oc=5",
-      "source": "GNews/Gold",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-10T08:03:28.581531+05:00",
-      "age_min": 15.2
     }
   ]
 }
