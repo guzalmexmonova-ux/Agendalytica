@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T07:03:59.944726+05:00",
+  "updated": "2026-06-10T07:17:39.843103+05:00",
   "items": [
     {
       "hash": "90392dc1c9ea64b8b312f2a2fdef0dc6",
@@ -146,6 +146,18 @@
       "age_min": 31.2
     },
     {
+      "hash": "b70b4b4de36a12651e8e03535c43d14d",
+      "title": "Oil choppy after U.S. completes Iran strikes following Apache helicopter attack",
+      "summary": "Oil prices rose after the U.S. launched military strikes against Iran, raising concerns that renewed clashes may threaten shipping through the Strait of Hormuz.",
+      "link": "https://www.cnbc.com/2026/06/10/oil-price-us-completes-iran-strikes-after-apache-helicopter-attack.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-10T07:16:58.967364+05:00",
+      "age_min": 37.7
+    },
+    {
       "hash": "62641ce8e2fbf8797584b79b9d8a8413",
       "title": "NJ Man Arrested For Plotting Terror Attack For ISIS",
       "summary": "",
@@ -194,16 +206,16 @@
       "age_min": 23.2
     },
     {
-      "hash": "19823051302b93046971892a9e582f51",
-      "title": "Where does Trump go from here after latest Iran attack ?",
-      "summary": "",
-      "link": "https://www.washingtonexaminer.com/policy/defense/4601135/trump-options-iran-attack-helicopter-retaliate-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
+      "hash": "94f097d3a3f86b21c6f04869bf31480d",
+      "title": "Беспилотник скорректировал авиаудар по пункту БПЛА ВСУ",
+      "summary": "В Минобороны РФ заявили, что кадры объективного контроля подтвердили попадание бомб и уничтожение выявленных целей",
+      "link": "https://tass.ru/armiya-i-opk/27711907",
+      "source": "TASS",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-10T03:15:40.850696+05:00",
-      "age_min": 60.7
+      "ts": "2026-06-10T07:17:01.532255+05:00",
+      "age_min": 8.6
     },
     {
       "hash": "d2c16920af88d90082cae066046154f2",
@@ -288,6 +300,18 @@
       "status": "new",
       "ts": "2026-06-10T03:33:03.111231+05:00",
       "age_min": 49.7
+    },
+    {
+      "hash": "60351ac4b01175cfbe59ee81f886316e",
+      "title": "Ksi Lisims LNG signs benefit agreements with First Nations , challenges withdrawn",
+      "summary": "",
+      "link": "https://energeticcity.ca/2026/06/09/ksi-lisims-lng-signs-benefit-agreements-with-first-nations-challenges-withdrawn/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-10T07:16:28.740868+05:00",
+      "age_min": 61.5
     },
     {
       "hash": "88b6e5c7ef636daf32750ff4aed97b89",
@@ -398,6 +422,18 @@
       "age_min": 46.4
     },
     {
+      "hash": "e9471232a3359db602d0bfa4fb0c7f81",
+      "title": "Cheng Li-wun talks Trump, Taiwan and a future leadership run",
+      "summary": "Taiwan’s main opposition leader hailed US President Donald Trump’s recent comments opposing the island’s independence as a “relatively positive first step” towards reducing tensions.\nCheng Li-wun, chairwoman of the Kuomintang (KMT), told the South China Morning Post on Sunday in an exclusive interview: “The ‘one China’ principle and opposition to Taiwan independence have always been the Kuomintang",
+      "link": "https://www.scmp.com/news/china/politics/article/3356559/cheng-li-wun-talks-trump-taiwan-and-future-leadership-run?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-10T07:16:59.863392+05:00",
+      "age_min": 46.8
+    },
+    {
       "hash": "41c4704b72473e6c6f085b9dc762f3a8",
       "title": "Иран предупредил США о масштабном ответе в случае повторения атак с их стороны",
       "summary": "Центральный штаб \"Хатам аль-Анбия\" ВС республики подчеркнул, что за новыми ударами последуют \"массовые атаки\" на американские цели в регионе",
@@ -432,18 +468,6 @@
       "status": "new",
       "ts": "2026-06-10T04:53:07.938783+05:00",
       "age_min": 114.0
-    },
-    {
-      "hash": "c963d3f09fc89401204b22e09bb6a8f0",
-      "title": "CISA gives US federal agencies three days to fix a VPN bug under attack by a ransomware gang",
-      "summary": "",
-      "link": "https://techcrunch.com/2026/06/09/cisa-gives-us-federal-agencies-three-days-to-fix-a-vpn-bug-under-attack-by-a-ransomware-gang/",
-      "source": "GDELT/CYBER",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-10T03:16:40.592654+05:00",
-      "age_min": 91.7
     },
     {
       "hash": "d96e2ddd3d38623124b868b771a67576",
