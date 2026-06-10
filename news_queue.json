@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T00:47:54.462983+05:00",
+  "updated": "2026-06-11T01:03:57.729241+05:00",
   "items": [
     {
       "hash": "4e9301c842f3f465e689483d08620dda",
@@ -182,6 +182,18 @@
       "age_min": 13.7
     },
     {
+      "hash": "4161f1a07db6a7d128576e8ef150fcd5",
+      "title": "Olivier Malteste : Christine Lagarde et le fantôme de Jean - Claude Trichet",
+      "summary": "",
+      "link": "https://www.valeursactuelles.com/economie/olivier-malteste-christine-lagarde-et-le-fantome-de-jean-claude-trichet",
+      "source": "GDELT/MACRO",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T01:03:10.331420+05:00",
+      "age_min": 63.2
+    },
+    {
       "hash": "bfcb5dacce79bd284d1b3e86f2a357d3",
       "title": "Økonomer advarer : Lagarde risikerer at begå alvorlig fejl",
       "summary": "",
@@ -242,18 +254,6 @@
       "age_min": 31.8
     },
     {
-      "hash": "8e7602b15bf982708b529d6530f677cb",
-      "title": "Jan Procházka : Odds of a rate hike are even - Czech National Bank",
-      "summary": "",
-      "link": "https://www.cnb.cz/en/public/media-service/interviews-articles/Jan-Prochazka-Odds-of-a-rate-hike-are-even-00001/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-10T21:02:14.282934+05:00",
-      "age_min": 32.2
-    },
-    {
       "hash": "05686811193511765997b3c3d46cf2f4",
       "title": "The UNITED STATES of AMERICA CONTROLS the Strait of Hormuz — NOT Iran.",
       "summary": "The UNITED STATES of AMERICA CONTROLS the Strait of Hormuz — NOT Iran.",
@@ -264,6 +264,18 @@
       "status": "new",
       "ts": "2026-06-11T00:33:14.993067+05:00",
       "age_min": 15.9
+    },
+    {
+      "hash": "9c8bd9d2c8ce11bd2691fe6f4690c422",
+      "title": "War in Ukraine : Kyiv strikes key Russian supply lines",
+      "summary": "",
+      "link": "https://timesofoman.com/article/172866-war-in-ukraine-kyiv-strikes-key-russian-supply-lines",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-11T01:02:29.218162+05:00",
+      "age_min": 47.5
     },
     {
       "hash": "ed5946e213142d7137671d3b9c63cfe0",
@@ -398,18 +410,6 @@
       "age_min": 13.7
     },
     {
-      "hash": "188dbafa59e6be872f6286cc08236351",
-      "title": "Inflation is back above 4 % for the first time since 2023 but Kevin Warsh might catch a break",
-      "summary": "",
-      "link": "https://fortune.com/2026/06/10/inflation-core-cpi-iran-war-kevin-warsh-fed-watch/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-10T21:02:14.283870+05:00",
-      "age_min": 47.2
-    },
-    {
       "hash": "6f2ea5f1217ff73c31925b234cceeed0",
       "title": "May CPI Report: Inflation Hits 4.2% as Tech Stocks Slide and Fed Rate Cut Hopes Evaporate - Tech Times",
       "summary": "May CPI Report: Inflation Hits 4.2% as Tech Stocks Slide and Fed Rate Cut Hopes Evaporate&nbsp;&nbsp;Tech Times",
@@ -458,6 +458,18 @@
       "age_min": 111.5
     },
     {
+      "hash": "20e20f5a20815a21b1e70d72e5c23766",
+      "title": "Ben Shapiro :  Absent the Strait of Hormuz , inflation would not be outsized right now",
+      "summary": "",
+      "link": "https://www.mediamatters.org/us-iran-relations/ben-shapiro-absent-strait-hormuz-inflation-would-not-be-outsized-right-now",
+      "source": "GDELT/MACRO",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T01:03:10.334757+05:00",
+      "age_min": 63.2
+    },
+    {
       "hash": "5a3418cab536e2d50e66214c18fbff17",
       "title": "IAEA board demands Iran disclose uranium stockpiles",
       "summary": "",
@@ -504,6 +516,30 @@
       "status": "new",
       "ts": "2026-06-10T23:01:29.591334+05:00",
       "age_min": 61.5
+    },
+    {
+      "hash": "483027ac4d20d4b7d4a281c3a132383f",
+      "title": "Chilling shark attack at Florida Navy base caught on camera – NBC 5 Dallas - Fort Worth",
+      "summary": "",
+      "link": "https://www.nbcdfw.com/news/national-international/shark-attack-florida-navy-base-caught-on-camera/4034689/",
+      "source": "GDELT/CYBER",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-11T01:02:29.215064+05:00",
+      "age_min": 62.5
+    },
+    {
+      "hash": "bd94713001468a3967fae7818ce1348b",
+      "title": "Midland university hit by cyber attack",
+      "summary": "",
+      "link": "https://www.birminghammail.co.uk/news/midlands-news/midland-university-hit-cyber-attack-34100958",
+      "source": "GDELT/CYBER",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-11T01:02:29.213016+05:00",
+      "age_min": 62.5
     },
     {
       "hash": "7a9d6700e672b32f70174646faf18c7c",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-10T22:48:05.905798+05:00",
       "age_min": 79.5
-    },
-    {
-      "hash": "f0f9395b8fe64412f0894267900e8d33",
-      "title": "Trump says U.S. secretly moved more than 100 million barrels of oil through Strait of Hormuz",
-      "summary": "Trump's comments come after Energy Secretary Chris Wright said Tuesday that oil exports through Hormuz are \"rising very meaningfully.\"",
-      "link": "https://www.cnbc.com/2026/06/10/trump-strait-hormuz-iran-oil-tanker-navy.html",
-      "source": "CNBC",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-11T00:47:15.831164+05:00",
-      "age_min": 18.6
-    },
-    {
-      "hash": "b18ca95f8ed3f867c495e5d5399f50f0",
-      "title": "Муцунски : Заложник сме на една некоректна и непринципиелна блокада на нашиот европски пат , тоа е она што сакаме да им го објасниме на нашите колеги во Бугарија",
-      "summary": "",
-      "link": "https://alfa.mk/muczunski-zalozhnik-sme-na-edna-nekorektna-i-neprinczipielna-blokada-na-nashiot-evropski-pat-toa-e-ona-shto-sakame-da-im-go-ob%D1%98asnime-na-nashite-kolegi-vo-bugari%D1%98a/",
-      "source": "GDELT/SUMMITS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-11T00:47:02.967416+05:00",
-      "age_min": 32.0
-    },
-    {
-      "hash": "c83e2d70d79b2646b0a875032cd81bb0",
-      "title": "After a Democrat standoff, Trump signs $70bn immigration enforcement bill",
-      "summary": "Immigrant advocates warn the funding bill offers few guardrails for ICE and CBP amid Trump&#039;s mass deportation campaign.",
-      "link": "https://www.aljazeera.com/news/2026/6/10/after-a-democrat-standoff-trump-signs-70bn-immigration-enforcement-bill?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-10T23:47:41.248196+05:00",
-      "age_min": 22.6
     }
   ]
 }
