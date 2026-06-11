@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T18:18:26.363574+05:00",
+  "updated": "2026-06-11T18:33:43.803235+05:00",
   "items": [
     {
       "hash": "27c21c25eee3fe98defc5a36865993b1",
@@ -110,27 +110,15 @@
       "age_min": 195.8
     },
     {
-      "hash": "5d82e437b6e74d827b05ecb955122059",
-      "title": "Ukraine - Russia war latest : Zelensky confirms Flamingo missile strikes on Russian arms factory and oil refinery",
+      "hash": "4f5e1455e646039200d322cef10f941e",
+      "title": "Pakistan not surprised by India nuclear warhead deployment : FO",
       "summary": "",
-      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-deep-strikes-putin-flamingo-missile-b2993751.html",
+      "link": "https://arynews.tv/pakistan-not-surprised-by-indias-nuclear-warhead-deployment-fo",
       "source": "GDELT/CONFLICTS",
-      "score": 10,
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-11T14:30:54.671012+05:00",
-      "age_min": 45.9
-    },
-    {
-      "hash": "bda67cf02ad57e460e4797e2650de133",
-      "title": "Zaporizhzhia nuclear plant loses all external power despite ceasefire for repairs",
-      "summary": "",
-      "link": "https://www.arabnews.com/node/2646734/world",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:30:54.668448+05:00",
+      "ts": "2026-06-11T18:30:51.349983+05:00",
       "age_min": 75.9
     },
     {
@@ -192,6 +180,18 @@
       "status": "new",
       "ts": "2026-06-11T16:00:53.344125+05:00",
       "age_min": 60.9
+    },
+    {
+      "hash": "0e7ac42e03bf98ad23ba48cf62d7b3b9",
+      "title": "Europe central bank raises rates to fight inflation from Iran war , the Fed to decide next week – Winnipeg Free Press",
+      "summary": "",
+      "link": "https://www.winnipegfreepress.com/business/2026/06/11/europes-central-bank-raises-rates-to-fight-inflation-from-iran-war-the-fed-to-decide-next-week",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T18:32:12.177640+05:00",
+      "age_min": 32.2
     },
     {
       "hash": "37df3ef7856e14c4bc451bedfc4b886d",
@@ -338,16 +338,16 @@
       "age_min": 30.9
     },
     {
-      "hash": "93b0dc4f7ab6ad010d993d27c306381e",
-      "title": "US and Iran exchange new strikes as efforts to negotiate end to war appear stuck",
-      "summary": "",
-      "link": "https://www.eadt.co.uk/news/national/26184475.us-iran-exchange-new-strikes-efforts-negotiate-end-war-appear-stuck/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "8cd5a67946dec2750b9bff97471de59f",
+      "title": "Analysis of Satellite Image and Videos Suggest Precision U.S. Strikes on Iranian Water Facility",
+      "summary": "It is unclear if the U.S. intentionally struck the facility or knew what it was. Deliberately targeting civilian infrastructure could constitute a war crime.",
+      "link": "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-11T14:30:54.669011+05:00",
-      "age_min": 90.9
+      "ts": "2026-06-11T18:33:01.598122+05:00",
+      "age_min": 6.8
     },
     {
       "hash": "7b35da3f5c82094d66c9567b58895c3a",
@@ -444,6 +444,18 @@
       "status": "new",
       "ts": "2026-06-11T15:03:12.049130+05:00",
       "age_min": 2.6
+    },
+    {
+      "hash": "d41562ef861605936a5331e71255d5c9",
+      "title": "EZB - Leitzins steigt : Lagarde erhöht erstmals seit 2023 den Zinssatz",
+      "summary": "",
+      "link": "https://www.20min.ch/story/inflationsangst-ezb-chefin-lagarde-erhoeht-erstmals-seit-drei-jahren-den-leitzins-103580526",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T18:32:12.179503+05:00",
+      "age_min": 47.2
     },
     {
       "hash": "36e5883e8885061df07fbac2471acc42",
@@ -578,28 +590,16 @@
       "age_min": 7.9
     },
     {
-      "hash": "0d66a88e0cb072b7f8aefdd5c06fd8c1",
-      "title": "Europe’s central bank raises rates to fight inflation from Iran war - Investment Executive",
-      "summary": "Europe’s central bank raises rates to fight inflation from Iran war&nbsp;&nbsp;Investment Executive",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNUWF3eVlFVFlIc1FrWDdjdl9SczFsZ2ktekZaTnhkQktxOUZDRmpFcUpOUkMxMEtxTFFzWmxPT2c2TjJwSE0wQV80UWVUVjlzczhzbjdlcGdSeHltM2tHVUxQU1E2dTZpZjdRTmY1SFpfWFRSSXhId2p1RFNrZzJWN2VLenRORWUwdk85RTZpQjBjVW9zS2pXUmozR3ZZZTFXM1VTTVJnOXZDam4taWUxSzRPbHd3QlJM?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
-      "weight": 3,
+      "hash": "fe5549b80779bb9de99282a15c0f0ff5",
+      "title": "The Fed Just Quietly Released Surprisingly Bad Economic News . Is a Recession Already Starting ?",
+      "summary": "",
+      "link": "https://finance.yahoo.com/economy/articles/fed-just-quietly-released-surprisingly-123032799.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-11T18:18:05.485396+05:00",
-      "age_min": 13.2
-    },
-    {
-      "hash": "b14d36384a7758da1042f2c469ed8744",
-      "title": "Two Men Sentenced to Death for 2015 Bangkok Bombing",
-      "summary": "A Thai court convicted the men, who are Uyghur, for a terrorist attack at a Hindu shrine that killed 20 and injured dozens more.",
-      "link": "https://www.nytimes.com/2026/06/11/world/asia/2015-bangkok-bombing-death-sentence.html",
-      "source": "NYT World",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-11T18:03:09.794405+05:00",
-      "age_min": 75.2
+      "ts": "2026-06-11T18:32:12.184385+05:00",
+      "age_min": 32.2
     }
   ]
 }
