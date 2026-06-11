@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T18:33:43.803235+05:00",
+  "updated": "2026-06-11T18:48:20.215856+05:00",
   "items": [
     {
       "hash": "27c21c25eee3fe98defc5a36865993b1",
@@ -12,6 +12,30 @@
       "status": "new",
       "ts": "2026-06-11T18:03:06.302849+05:00",
       "age_min": 3.1
+    },
+    {
+      "hash": "adf7ee03b914a5ff0e00c133608d83e9",
+      "title": "World Bank Says Two-Thirds of Economies Face Hit From Iran War",
+      "summary": "The World Bank cut its outlook for global growth this year and said two-thirds of economies have seen prospects deteriorate as the Middle East war disrupts commodity flows and raises the cost of imports.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-11/world-bank-says-two-thirds-of-economies-face-hit-from-iran-war",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T18:47:29.042958+05:00",
+      "age_min": 17.5
+    },
+    {
+      "hash": "6523e69a2cce02e6df59d28c36f91da3",
+      "title": "Zaporizhzhia nuclear plant loses all external power after substation attack",
+      "summary": "",
+      "link": "https://aa.com.tr/en/europe/zaporizhzhia-nuclear-plant-loses-all-external-power-after-substation-attack/3964091",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T18:45:45.675531+05:00",
+      "age_min": 60.8
     },
     {
       "hash": "fc50c5fff0beacdff80c57849715bbd4",
@@ -96,18 +120,6 @@
       "status": "new",
       "ts": "2026-06-11T15:03:10.542961+05:00",
       "age_min": 19.4
-    },
-    {
-      "hash": "52a5fd6ac12008890579bdcd7e96098d",
-      "title": "MFS Collapse Triggers Probe Into Failed UK Lender’s Auditors",
-      "summary": "The UK’s audit watchdog is probing accountancy firms linked to Market Financial Solutions Ltd., the mortgage lender backed by multiple Wall Street banks that collapsed in February.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-11/audit-firms-of-collapsed-lender-mfs-probed-by-uk-watchdog",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:48:08.836907+05:00",
-      "age_min": 195.8
     },
     {
       "hash": "4f5e1455e646039200d322cef10f941e",
@@ -276,66 +288,6 @@
       "status": "new",
       "ts": "2026-06-11T16:00:53.345390+05:00",
       "age_min": 75.9
-    },
-    {
-      "hash": "0b7b522e8de6fc001266385440792e0f",
-      "title": "Report : Alleged Spy Escape in Lebanon Exposes Israel Shadow War on Hezbollah",
-      "summary": "",
-      "link": "https://english.aawsat.com/arab-world/5282746-report-alleged-spy%E2%80%99s-escape-lebanon-exposes-israel%E2%80%99s-shadow-war-hezbollah",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:46:30.757162+05:00",
-      "age_min": 46.5
-    },
-    {
-      "hash": "c87be55b4d3a54872d7fd592acecf843",
-      "title": "The war in Ukraine has now gone on longer than first World War",
-      "summary": "",
-      "link": "https://www.irishtimes.com/world/europe/2026/06/11/the-war-in-ukraine-has-now-gone-on-longer-than-first-world-war/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:46:17.035951+05:00",
-      "age_min": 61.3
-    },
-    {
-      "hash": "13d23f9d9991ca8096c8a047beaab97b",
-      "title": "Российско - украинская война Путин может готовить новое наступление на Украину",
-      "summary": "",
-      "link": "https://focus.ua/voennye-novosti/757273-rossiysko-ukrainskaya-voyna-putin-mozhet-gotovit-novoe-nastuplenie-na-ukrainu",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:46:17.035509+05:00",
-      "age_min": 46.3
-    },
-    {
-      "hash": "ffed2ecf273b8155e4e4a77367b5c88a",
-      "title": "US and Iran exchange new strikes as efforts to negotiate end to war appear stuck",
-      "summary": "",
-      "link": "https://www.bournemouthecho.co.uk/news/national/26184475.us-iran-exchange-new-strikes-efforts-negotiate-end-war-appear-stuck/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:45:53.637723+05:00",
-      "age_min": 30.9
-    },
-    {
-      "hash": "76b0d92b06e6e2b87efc961c2f3025ab",
-      "title": "Войната в Украйна вече превиши по продължителност Първата световна война ᐉ Новини от Fakti . bg - Свят",
-      "summary": "",
-      "link": "https://fakti.bg/world/1060359-voinata-v-ukraina-veche-previshi-po-prodaljitelnost-parvata-svetovna-voina",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-11T14:45:53.636257+05:00",
-      "age_min": 30.9
     },
     {
       "hash": "8cd5a67946dec2750b9bff97471de59f",
@@ -590,6 +542,42 @@
       "age_min": 7.9
     },
     {
+      "hash": "1faff75a3de4f337309dd58d7c4d1878",
+      "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+      "summary": "The European Central Bank also raised its inflation forecasts and cut its growth outlook.",
+      "link": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-11T18:47:29.934838+05:00",
+      "age_min": 45.8
+    },
+    {
+      "hash": "fa60aab4fe2679de32ff2a13e32d4c1b",
+      "title": "Russia ‘not looking for conflict’, says Nato’s top US commander",
+      "summary": "General Grynkewich’s remarks come as Washington withdraws key assets from Europe",
+      "link": "https://www.ft.com/content/751d4555-9e8c-42a0-a37b-80893727776c",
+      "source": "FT",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T18:47:29.391028+05:00",
+      "age_min": 22.7
+    },
+    {
+      "hash": "8926cb283a82cf32ddaa0e2a32edb450",
+      "title": "UAE and Saudi Arabia condemn Iran attack on Bahrain , Kuwait and Jordan",
+      "summary": "",
+      "link": "https://www.prokerala.com/news/articles/a1774155.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-11T18:45:45.676447+05:00",
+      "age_min": 75.8
+    },
+    {
       "hash": "fe5549b80779bb9de99282a15c0f0ff5",
       "title": "The Fed Just Quietly Released Surprisingly Bad Economic News . Is a Recession Already Starting ?",
       "summary": "",
@@ -600,6 +588,18 @@
       "status": "new",
       "ts": "2026-06-11T18:32:12.184385+05:00",
       "age_min": 32.2
+    },
+    {
+      "hash": "13993059fb99792761c53980edfd07d0",
+      "title": "ECB's Bold Rate Hike Amid Energy-Driven Inflation Pressures - Devdiscourse",
+      "summary": "ECB's Bold Rate Hike Amid Energy-Driven Inflation Pressures&nbsp;&nbsp;Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLVBjekNXRDdhdkd4VXhjRE81S0hBZzkwTXRYR3h5QXJtODE2eXNVaExhaDU4SGhSWW1UVnpnaFJySTBOY21BRmRaQ004VmpKNkllZW42N3JMdDRBT2dLRVJKbU4wSWdkTHhIbFNvVkdoMkYwd1phNDZFRVo1Rm5sMGFuNVF4d3J6ZVRrd0pXZHplMGpBcVhySmxxQkpqekszVjZJNFVXMVpnUnpsSm9fSDJ30gG3AUFVX3lxTE5jUHJzSkVUWkZscFFHeTlsWnJnMEpxVmY0bUJSNG5YaW1CUXZ5dzBYX3Q3cUZKX2VxQXVtdEV4QVRELXZuZ09BalBkaHlZOUp1TjR0bF83NURHdS15T0RFb1MtOXByMUJucHdpVFdwNWdKQXZiZ1BBaVhlTWh0cGd6b20zQTNaU1NmT25wUVMxV21MZDc1eUIzSGFqbzlscmhuSzZ3WTdHUjdoNGtwOTl4Vk54S3c4VQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-11T18:47:58.891724+05:00",
+      "age_min": 19.2
     }
   ]
 }
