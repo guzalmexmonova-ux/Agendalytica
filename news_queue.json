@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T18:33:44.388006+05:00",
+  "updated": "2026-06-12T18:48:02.401151+05:00",
   "items": [
     {
       "hash": "ca8406cecce45dbabf0f692a6fddfb10",
@@ -120,6 +120,18 @@
       "status": "new",
       "ts": "2026-06-12T15:15:38.444176+05:00",
       "age_min": 45.6
+    },
+    {
+      "hash": "0bfcb57701e4fe72663e34396480a4f1",
+      "title": "ECB Keeps July Rate Options Open Amid Iran War Energy Price Risks",
+      "summary": "",
+      "link": "http://www.econotimes.com/ECB-Keeps-July-Rate-Options-Open-Amid-Iran-War-Energy-Price-Risks-1744203",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-12T18:46:28.923500+05:00",
+      "age_min": 91.5
     },
     {
       "hash": "de47e8bc74a821f87c38651cbf471320",
@@ -290,18 +302,6 @@
       "age_min": 45.6
     },
     {
-      "hash": "6ad09108a33fae234d46a1700d676efc",
-      "title": "Iran keen to use Lebanon as leverage in war against US ; Aoun unwilling",
-      "summary": "",
-      "link": "http://www.argentinastar.com/news/279117356/lebanon-unhappy-at-being-used-as-bargaining-chip-by-iran",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-12T14:46:11.001029+05:00",
-      "age_min": 46.2
-    },
-    {
       "hash": "3d284dc0e7732830121dccc277f3b230",
       "title": "Lagarde defends ECB interest rate hike as 'robust across three scenarios' - MSN",
       "summary": "Lagarde defends ECB interest rate hike as 'robust across three scenarios'&nbsp;&nbsp;MSN",
@@ -362,16 +362,28 @@
       "age_min": 23.6
     },
     {
-      "hash": "9a052328a921fae1b2cfe9715bf40586",
-      "title": "European Central Bank set to hike interest rates to tame Iran war inflation surge - صحيفة مال",
-      "summary": "European Central Bank set to hike interest rates to tame Iran war inflation surge&nbsp;&nbsp;صحيفة مال",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1nT1pPSlUwYlR4UEZnUkRTenRlcDhwdmt4M2ptWlByQi1qZjRQWGllV2pjZnRLMmdkVVJ4RGpuNVVFdi1Wc1lhUmNQaG1ETmd4ZXpHUHJtYzFSQkVGWkhNZWZvRlVkLThYRTUteQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 10,
-      "weight": 3,
+      "hash": "9edbe5b3e8444ebfd0c5d5d669533591",
+      "title": "BI records US$1 . 06 billion foreign capital inflows after rate hike",
+      "summary": "",
+      "link": "https://en.antaranews.com/news/419035/bi-records-us106-billion-foreign-capital-inflows-after-rate-hike",
+      "source": "GDELT/MACRO",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-12T14:47:43.965670+05:00",
-      "age_min": 69.6
+      "ts": "2026-06-12T18:47:04.385333+05:00",
+      "age_min": 32.1
+    },
+    {
+      "hash": "e352e1fbb7001c867863055473d2bfd2",
+      "title": "Lagarde , ECB faiz artışını  senaryoda da sağlam diyerek savundu",
+      "summary": "",
+      "link": "https://tr.euronews.com/my-europe/2026/06/11/lagarde-ecb-faiz-artisini-uc-senaryoda-da-saglam-diyerek-savundu",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-12T18:46:28.923866+05:00",
+      "age_min": 61.5
     },
     {
       "hash": "39803b3d657faf5019b280e97a280b14",
@@ -420,6 +432,30 @@
       "status": "new",
       "ts": "2026-06-12T16:47:25.278612+05:00",
       "age_min": 16.8
+    },
+    {
+      "hash": "923a2121adc678b2da379f68c716206b",
+      "title": "Fed faces crucial test as US inflation accelerates and bond yields rise : Jefferies",
+      "summary": "",
+      "link": "http://www.srilankasource.com/news/279118518/fed-faces-crucial-test-as-us-inflation-accelerates-and-bond-yields-rise-jefferies",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-12T18:47:04.381436+05:00",
+      "age_min": 32.1
+    },
+    {
+      "hash": "e8a92db00e29a846d30f5934dfd2b1a9",
+      "title": "Wired for War : new revelations expose Israeli cyber - spooks",
+      "summary": "",
+      "link": "http://www.middleeaststar.com/news/279118469/wired-for-war-new-revelations-expose-israeli-cyber-spooks",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-12T18:46:44.315007+05:00",
+      "age_min": 31.7
     },
     {
       "hash": "8e0fefe1eb94d1bac6697d9e43194c77",
@@ -554,52 +590,16 @@
       "age_min": 107.5
     },
     {
-      "hash": "76cd56ee710056ea4b5627069c1027b4",
-      "title": "Starmer says he won’t ‘walk away’ amid minister Healey’s shock resignation",
-      "summary": "British Prime Minister Keir Starmer on Friday ⁠rejected the ⁠idea that he had ⁠lost authority in his role, and said he would fight to keep his job, adding that anyone who wanted to replace him would have to deal with the same financial ‌constraints.\nThe comments come a day after Defence Minister John Healey delivered a fresh blow to the prime minister’s already weakened leadership by quitting and ",
-      "link": "https://www.scmp.com/news/world/europe/article/3356957/starmer-says-he-wont-walk-away-amid-minister-healeys-shock-resignation?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T18:32:54.032636+05:00",
-      "age_min": 2.8
-    },
-    {
-      "hash": "dd0073e99050854be7c1499c52f7a4a0",
-      "title": "ed Chairman Kevin Warsh: How the Bond Market Is Aligning With Fed Policy - Barron's",
-      "summary": "ed Chairman Kevin Warsh: How the Bond Market Is Aligning With Fed Policy&nbsp;&nbsp;Barron's",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaTE0c3JyX3J3eVZGWnpSRHlLWmhmaUN6WHRDdmNOMy1tMUFfTlA0a0FOQU0taURqSk9EODN4QWRMOUlMZ2x0bFVRaXF3d0hHenRMODhXcm1aUUg4bEhneTJFekZKdmtPbENMbjBNdldHNGVfbmdmdkIxYUFtTVpUVmQ1Z3dsZGNfbE5lWXEzWDNLOVBGQW9n?oc=5",
+      "hash": "0de66a1c93d2b88ba2f5e2a3dee1c072",
+      "title": "Federal Reserve: Warsh policy shift and inflation focus – NBC - FXStreet",
+      "summary": "Federal Reserve: Warsh policy shift and inflation focus – NBC&nbsp;&nbsp;FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYnpzdzh0R0xQYjhzYS1KS2tQSExNdTZFcVRreVVFaVNMS3FudGVnU0JDWnAwMXdZZF9qSHJnSjFoVEZ6NXgzZVpVcmkxVzg3QVRzMWt2dWJHbGtTYWNaZUJiTEs1cHdHNlhSdTRncDZIV08xUGpXWURSRWpGSnVDX2xhWXpJN3UwYXIybElrOE1kbUViMU1TSk0yTDVESG9DdnM0?oc=5",
       "source": "GNews/CentralBanks",
       "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-12T18:17:59.779336+05:00",
-      "age_min": 4.0
-    },
-    {
-      "hash": "aa94279cfdb11cae835bb5eab1cc1e02",
-      "title": "Fed Chairman Warsh gets cover from the bond market. He needed it. - MSN",
-      "summary": "Fed Chairman Warsh gets cover from the bond market. He needed it.&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSFZmS3FaSnpsNmVvVzJMam5jeGNSdEJicU9ZbU0wUGtXNU1PTkV5U2Z1bktZdmFrSlFQMmw0bUdkTWhqQUZ1RnliTVRyMkppU1pLUWtQQUFmSklQdy1ka2V0Q3lXSGR4Tml5MXB6bnNOaWZ5a1pnZEg5aUZ1UnhrejU0MHpHVDNVaWF2Tm5fVWgtMVlTLWhwR0p5RTRRYXRiN3ZDWjFmLThEbHkzd2xzSzBMSDdkSFpLeFNKV1Q2NEZUWHlETk9jSjBOdnFUc2llSE91c0VDSTE?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T18:03:42.382270+05:00",
-      "age_min": 111.0
-    },
-    {
-      "hash": "ad50c2ed390d123a57c822926c28ac82",
-      "title": "In pictures: Israelis face Iranian missile threat - Heritage Florida Jewish News",
-      "summary": "In pictures: Israelis face Iranian missile threat&nbsp;&nbsp;Heritage Florida Jewish News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM3M5VXcxZGlzcGhDaXdLd0lENU1fek5HeHVJcXlVbDU2eEZyOU44b09hY05lclNKa25nNmRMSGsyS0RqdUtNZHptanhGT0xXZW1sNE5yRmV0dWJ4bG8zdFhSZUh2ZDRmclhuNGVQYTBqR2E2NWZKTWNIakhuMWs1SDRYMC1XS1hQSDVJaWlBTEFfeURtQ3E1bkRpWEpreXoxaG9LOTF2THVzSHNF?oc=5",
-      "source": "GNews/Mideast",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T18:33:26.633071+05:00",
-      "age_min": 11.8
+      "ts": "2026-06-12T18:47:41.303409+05:00",
+      "age_min": 9.6
     }
   ]
 }
