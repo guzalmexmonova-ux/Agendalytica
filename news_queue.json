@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T22:03:37.694865+05:00",
+  "updated": "2026-06-12T22:17:53.006540+05:00",
   "items": [
     {
       "hash": "81de06dfb22c12884ef7deec2a8bd4a8",
@@ -132,6 +132,30 @@
       "status": "new",
       "ts": "2026-06-12T20:01:04.756866+05:00",
       "age_min": 46.1
+    },
+    {
+      "hash": "36fc539ebc88277fa643c983cf8fef09",
+      "title": "European defence stocks retreat on lower spending and higher wrangling",
+      "summary": "Resignation of UK defence secretary shows some governments will struggle to find the money",
+      "link": "https://www.ft.com/content/3170f3e6-7574-41b9-b5c4-749f30c3b78c",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-12T22:17:14.467009+05:00",
+      "age_min": 8.9
+    },
+    {
+      "hash": "2819b4af95df5ef59bce68044bed9147",
+      "title": "Путин : война на Украине была развязана НАТО - Аргументы Недели",
+      "summary": "",
+      "link": "https://argumenti.ru/politics/2026/06/1000668",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-12T22:15:57.110611+05:00",
+      "age_min": 31.0
     },
     {
       "hash": "deee402b4e6ba7b88a1b13f2892734e1",
@@ -362,6 +386,18 @@
       "age_min": 91.5
     },
     {
+      "hash": "1819e0ff1444599cf4d0df0f28581579",
+      "title": "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
+      "summary": "This is a breaking news story.",
+      "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-12T22:17:14.983505+05:00",
+      "age_min": 38.6
+    },
+    {
       "hash": "a9cb6d889066a87e9a21c7ec057162f8",
       "title": "Kevin Warsh Might Have the Worst Possible News for Those Hoping for an Interest Rate Cut - AOL.com",
       "summary": "Kevin Warsh Might Have the Worst Possible News for Those Hoping for an Interest Rate Cut&nbsp;&nbsp;AOL.com",
@@ -470,6 +506,30 @@
       "age_min": 61.5
     },
     {
+      "hash": "f229cc2ca726934781d820cf890a4e41",
+      "title": "На бывшего министра госбезопасности ДНР совершили покушение",
+      "summary": "",
+      "link": "https://lenta.ru/news/2026/06/12/na-byvshego-ministra-gosbezopasnosti-dnr-sovershili-pokushenie/",
+      "source": "Lenta.ru",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-12T22:17:19.488852+05:00",
+      "age_min": 9.3
+    },
+    {
+      "hash": "629a81204e8d7c948c156e4dbe0d3892",
+      "title": "Скандал з перейменуванням підрозділу імені Героїв УПА – у Польщі розповіли , чи позбавлять Зеленського ордену",
+      "summary": "",
+      "link": "https://www.obozrevatel.com/ukr/politics-news/sche-trohi-pochekaemo-rechnik-prezidenta-polschi-pro-mozhlivist-pozbavlennya-zelenskogo-nagorodi-cherez-skandal-z-upa.htm",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-12T22:15:57.108563+05:00",
+      "age_min": 31.0
+    },
+    {
       "hash": "76af0cb1f7a0a85db17e42b9f270e1f2",
       "title": "Gold’s Punishing 25% Slide: A Market at War with Itself Over Iran, Rates, and Reserve Demand - AD HOC NEWS",
       "summary": "Gold’s Punishing 25% Slide: A Market at War with Itself Over Iran, Rates, and Reserve Demand&nbsp;&nbsp;AD HOC NEWS",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-06-12T18:47:04.381436+05:00",
       "age_min": 32.1
-    },
-    {
-      "hash": "e8a92db00e29a846d30f5934dfd2b1a9",
-      "title": "Wired for War : new revelations expose Israeli cyber - spooks",
-      "summary": "",
-      "link": "http://www.middleeaststar.com/news/279118469/wired-for-war-new-revelations-expose-israeli-cyber-spooks",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T18:46:44.315007+05:00",
-      "age_min": 31.7
-    },
-    {
-      "hash": "8cd7af7f775c9510faf4f9274492e232",
-      "title": "ECB’s rate hike sparks global alarm: Will Fed, BoE follow as inflation fears return? - Firstpost",
-      "summary": "ECB’s rate hike sparks global alarm: Will Fed, BoE follow as inflation fears return?&nbsp;&nbsp;Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEZXUmxKcGdvLWxvTGRJaFIzdkdCRGR6QmNWTUpLeDFWQ29tNTJrNkRONzNrMVliN2JUQTNaR09KN19maTR6Y2x6eXdnZ0xMU3hLWENnMjU5T0VkUVNvMmREU0pFMDVKX3dTdFROb1JKYk51aWFQcENHZ09wdVZkQWMtMjNQbUZMRTg2TWJKV2QyTmc5RWJuRzdVdWlITjhaUG1SYjZMNFJtZmVldERwcjFURlNzV0FGS0hzWnA2UnlwdnZ4eVNTdk92Qjl3d9IBzgFBVV95cUxPNEZXUmxKcGdvLWxvTGRJaFIzdkdCRGR6QmNWTUpLeDFWQ29tNTJrNkRONzNrMVliN2JUQTNaR09KN19maTR6Y2x6eXdnZ0xMU3hLWENnMjU5T0VkUVNvMmREU0pFMDVKX3dTdFROb1JKYk51aWFQcENHZ09wdVZkQWMtMjNQbUZMRTg2TWJKV2QyTmc5RWJuRzdVdWlITjhaUG1SYjZMNFJtZmVldERwcjFURlNzV0FGS0hzWnA2UnlwdnZ4eVNTdk92Qjl3dw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T20:33:20.235236+05:00",
-      "age_min": 91.2
-    },
-    {
-      "hash": "5c46da22cf095f2ba9a3854a809e8d52",
-      "title": "Did the Fed Just Get a Reprieve? Report of Iran Deal Could Put Rate Hikes on Hold - 24/7 Wall St.",
-      "summary": "Did the Fed Just Get a Reprieve? Report of Iran Deal Could Put Rate Hikes on Hold&nbsp;&nbsp;24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkw0TDN0Tlo2YlV0dl9MWFdhNTVKM05KOWNiUjN2NjJ0RzNDNkxFQ29saFVSOC1HQzBEYkNPQjZvRUk0TllITHRNWnBEeGVyVi1RQnk3YS1oSlRZXzZxdEEyZEhUMktJeThsajRaRmNqM2NydFZKUVVJcVdBMkhQbjRRV3VhNjVLUkZoeDhHOW02alFBMlhiczRyOWEtUUpYdjlKQ2pOazlMdVZoV1lNcUNobkd2RmRZSU96RmRZWnBuZw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T19:34:15.677826+05:00",
-      "age_min": 16.5
-    },
-    {
-      "hash": "00ca24a9c88f95ef0c579575213962f1",
-      "title": "The 7th Cross - Strait Financial Forum and Taiwan - Funded Enterprise Development Forum",
-      "summary": "",
-      "link": "https://portal.sina.com.hk/finance/finance-mediaoutreachnewswire/media-outreach/2026/06/12/1822158/the-7th-cross-strait-financial-forum-and-taiwan-funded-enterprise-development-forum/",
-      "source": "GDELT/TAIWAN",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-12T21:31:55.378194+05:00",
-      "age_min": 91.9
-    },
-    {
-      "hash": "2d1a0f148c0a3e0fc04369219fd41e9e",
-      "title": "In pictures : Israelis face Iranian missile threat",
-      "summary": "",
-      "link": "https://www.heritagefl.com/story/2026/06/12/news/in-pictures-israelis-face-iranian-missile-threat/23474.html",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-12T21:31:23.041528+05:00",
-      "age_min": 61.4
     }
   ]
 }
