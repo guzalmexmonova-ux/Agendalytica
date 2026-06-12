@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T02:03:58.275366+05:00",
+  "updated": "2026-06-13T02:18:06.360878+05:00",
   "items": [
     {
       "hash": "4f22a6ec91ba28490d8cfa02b979adda",
@@ -72,6 +72,30 @@
       "status": "new",
       "ts": "2026-06-12T22:30:47.758231+05:00",
       "age_min": 45.8
+    },
+    {
+      "hash": "7c680df88e6eeb265dc51a31e2609a1a",
+      "title": "EU agrees to launch membership talks with Ukraine next week even as war with Russia drags on",
+      "summary": "",
+      "link": "https://www.reporterherald.com/2026/06/12/europe-ukraine/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-13T02:16:07.101186+05:00",
+      "age_min": 46.1
+    },
+    {
+      "hash": "ac34b681d0a0a072b58b013fefc03c98",
+      "title": "EU agrees to talk Ukraine membership despite ongoing war with Russia",
+      "summary": "",
+      "link": "https://www.latimes.com/world-nation/story/2026-06-12/eu-agrees-to-talk-ukraine-membership-despite-ongoing-war-with-russia",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-13T02:16:07.096645+05:00",
+      "age_min": 46.1
     },
     {
       "hash": "5a40be1a4147c9d30c37a2a4f19e0a79",
@@ -206,30 +230,6 @@
       "age_min": 45.8
     },
     {
-      "hash": "36fc539ebc88277fa643c983cf8fef09",
-      "title": "European defence stocks retreat on lower spending and higher wrangling",
-      "summary": "Resignation of UK defence secretary shows some governments will struggle to find the money",
-      "link": "https://www.ft.com/content/3170f3e6-7574-41b9-b5c4-749f30c3b78c",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-12T22:17:14.467009+05:00",
-      "age_min": 8.9
-    },
-    {
-      "hash": "2819b4af95df5ef59bce68044bed9147",
-      "title": "Путин : война на Украине была развязана НАТО - Аргументы Недели",
-      "summary": "",
-      "link": "https://argumenti.ru/politics/2026/06/1000668",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-12T22:15:57.110611+05:00",
-      "age_min": 31.0
-    },
-    {
       "hash": "11fb796723aeb279d3c1589a85d20b60",
       "title": "Gold Falls as December Fed Rate Hike Odds Rise in 2026 - Discovery Alert",
       "summary": "Gold Falls as December Fed Rate Hike Odds Rise in 2026&nbsp;&nbsp;Discovery Alert",
@@ -302,18 +302,6 @@
       "age_min": 9.9
     },
     {
-      "hash": "1819e0ff1444599cf4d0df0f28581579",
-      "title": "Pakistan says ‘final, agreed upon’ text of Iran war ceasefire deal reached",
-      "summary": "This is a breaking news story.",
-      "link": "https://www.aljazeera.com/news/2026/6/12/pakistan-says-final-agreed-upon-text-of-iran-war-ceasefire-deal-reached?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T22:17:14.983505+05:00",
-      "age_min": 38.6
-    },
-    {
       "hash": "b3621ccdca15fac0aa6949d817f0b3d6",
       "title": "Interviews with poet Kevin Powell , members of the Dirty Dozen Brass Band and the host of the Ganja Granny podcast",
       "summary": "",
@@ -336,18 +324,6 @@
       "status": "new",
       "ts": "2026-06-13T00:31:56.235568+05:00",
       "age_min": 106.9
-    },
-    {
-      "hash": "f229cc2ca726934781d820cf890a4e41",
-      "title": "На бывшего министра госбезопасности ДНР совершили покушение",
-      "summary": "",
-      "link": "https://lenta.ru/news/2026/06/12/na-byvshego-ministra-gosbezopasnosti-dnr-sovershili-pokushenie/",
-      "source": "Lenta.ru",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-12T22:17:19.488852+05:00",
-      "age_min": 9.3
     },
     {
       "hash": "74dd9e36eaf6267846465ffb8c23ff52",
@@ -542,18 +518,6 @@
       "age_min": 46.5
     },
     {
-      "hash": "629a81204e8d7c948c156e4dbe0d3892",
-      "title": "Скандал з перейменуванням підрозділу імені Героїв УПА – у Польщі розповіли , чи позбавлять Зеленського ордену",
-      "summary": "",
-      "link": "https://www.obozrevatel.com/ukr/politics-news/sche-trohi-pochekaemo-rechnik-prezidenta-polschi-pro-mozhlivist-pozbavlennya-zelenskogo-nagorodi-cherez-skandal-z-upa.htm",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-12T22:15:57.108563+05:00",
-      "age_min": 31.0
-    },
-    {
       "hash": "7dbd3e1f61a562c03fdcbbea0b4d1fa8",
       "title": "Army deputy commander - in - chief : Strait of Hormuz under control of Iran armed forces",
       "summary": "",
@@ -564,6 +528,18 @@
       "status": "new",
       "ts": "2026-06-13T02:01:49.486405+05:00",
       "age_min": 91.8
+    },
+    {
+      "hash": "b349af0e710639d42208bedb2b9dee1c",
+      "title": "Warsh’s First Fed Meeting May Decide The Market’s Next Move (SP500) - Seeking Alpha",
+      "summary": "Warsh’s First Fed Meeting May Decide The Market’s Next Move (SP500)&nbsp;&nbsp;Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSTNPYllpZVphcU9BNEtWS3Ztb3FzWTBGUjNJTUVIQXVUMm1zYm5VUWppajB1bm9rTWw4djk4LV9PcVR4SWt0QXJjb3gxLUFOcVU1RGhYZ0pVQi1rc25DblJ6QVlSeHJ6M0xPQlp4NUEwTDNiNDdxMUExTVdBMFJHSWVXb0xtekw0MERtV0FXZk1zWTk3ZURFaXlB?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-13T02:17:50.731499+05:00",
+      "age_min": 31.4
     },
     {
       "hash": "bc824ff70bac9f2790fe86b16e74c903",
@@ -600,6 +576,18 @@
       "status": "new",
       "ts": "2026-06-13T01:17:23.268065+05:00",
       "age_min": 10.0
+    },
+    {
+      "hash": "ba8568286b667117257421a43419750f",
+      "title": "UAE to unlock frozen Iranian funds amid US ceasefire push",
+      "summary": "Sources tell Reuters UAE releasing funds to ease tensions with Iran, allow both sides to avoid &#039;red lines&#039;.",
+      "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-13T02:17:27.639424+05:00",
+      "age_min": 18.8
     }
   ]
 }
