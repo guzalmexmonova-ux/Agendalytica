@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T21:47:40.751871+05:00",
+  "updated": "2026-06-13T22:03:44.837157+05:00",
   "items": [
     {
       "hash": "956f5ad60e9639b7e416e5c3cd14ebcb",
@@ -38,18 +38,6 @@
       "age_min": 60.9
     },
     {
-      "hash": "e210603811533649c92f2bdff0a39d0e",
-      "title": "US - Iran deal news : What we know about possible agreement to end Iran war , open Strait of Hormuz , remove Iranian enriched uranium",
-      "summary": "",
-      "link": "https://abc7chicago.com/post/us-iran-deal-news-what-know-possible-agreement-end-war-open-strait-hormuz-remove-iranian-enriched-uranium/19288254/",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-13T18:01:42.596802+05:00",
-      "age_min": 31.7
-    },
-    {
       "hash": "94d4b222b748e7868a052a17c8103527",
       "title": "German commander warns Russia may take nuclear threat into space",
       "summary": "",
@@ -60,6 +48,18 @@
       "status": "new",
       "ts": "2026-06-13T20:30:49.913559+05:00",
       "age_min": 45.8
+    },
+    {
+      "hash": "1f3e6aa064956f3fa0735b136f1c2f96",
+      "title": "EU agrees to launch membership talks with Ukraine as war with Russia drags on",
+      "summary": "",
+      "link": "https://www.wesh.com/article/eu-agrees-to-launch-membership-talks-with-ukraine-next-week-even-as-war-with-russia-drags-on/71578106",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-13T22:01:26.913852+05:00",
+      "age_min": 46.4
     },
     {
       "hash": "9bab668e69e95f971cacbe170f0e239b",
@@ -206,18 +206,6 @@
       "age_min": 60.9
     },
     {
-      "hash": "31d4862156fd6e1a1c8db9b6a16ea246",
-      "title": "Война России против Украины - WSJ назвал главную потерю Кремля",
-      "summary": "",
-      "link": "https://www.unian.net/world/voyna-rossii-protiv-ukrainy-wsj-nazval-glavnuyu-poteryu-kremlya-13411086.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-13T18:01:28.341124+05:00",
-      "age_min": 76.5
-    },
-    {
       "hash": "4471533644d75c32880a5d9059aa04c3",
       "title": "Trump to discuss Strait of Hormuz demining efforts at G7 as confidence grows for Iran war deal",
       "summary": "",
@@ -326,6 +314,30 @@
       "age_min": 61.8
     },
     {
+      "hash": "f20a1ddefee415999789aac5da4a3699",
+      "title": "U.S.-Iran peace deal could be finalized 'in the next 24 hours,' Pakistan's PM says",
+      "summary": "A senior Trump administration official had said earlier that deal to end the Iran war could be signed soon.",
+      "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-13T22:02:54.270472+05:00",
+      "age_min": 169.0
+    },
+    {
+      "hash": "d339e64deee94e57c1104a9fe5b6f3bb",
+      "title": "Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal",
+      "summary": "",
+      "link": "https://www.news4jax.com/news/world/2026/06/13/ukrainian-drone-strike-kills-1-in-southern-russia-and-triggers-fire-at-sea-terminal/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-13T22:01:26.912974+05:00",
+      "age_min": 76.4
+    },
+    {
       "hash": "ed4da784c2982605314a04803f117a50",
       "title": "Gaza post-‘ceasefire’ deaths hit 983 as Israeli attack targets refugee camp",
       "summary": "Israeli attack kills one person in central Gaza&#039;s Bureij camp, as a disabled Palestinian is shot in occupied West Bank.",
@@ -398,30 +410,6 @@
       "age_min": 33.9
     },
     {
-      "hash": "2b0ea317e6d7e283cacc38bc37175fd5",
-      "title": "Ukrainian drone attack hits Russia Black Sea terminal",
-      "summary": "",
-      "link": "https://www.wgauradio.com/news/world/ukrainian-drone/U55WDGXGFUYI3FWXI7CBACR4GU/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-13T18:01:28.344296+05:00",
-      "age_min": 61.5
-    },
-    {
-      "hash": "4fb0b632f7d22fb6050adf95e70c3070",
-      "title": "Ukrainian drone strike kills 1 in southern Russia and triggers fire at sea terminal – Winnipeg Free Press",
-      "summary": "",
-      "link": "https://www.winnipegfreepress.com/world/2026/06/13/ukrainian-drone-strike-kills-1-in-southern-russia-and-triggers-fire-at-sea-terminal",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-13T18:01:28.341801+05:00",
-      "age_min": 31.5
-    },
-    {
       "hash": "429d7caae003a3572856fbfbaba65674",
       "title": "Gold set for weekly loss as inflation, rate hike fears persist - MSN",
       "summary": "Gold set for weekly loss as inflation, rate hike fears persist&nbsp;&nbsp;MSN",
@@ -432,6 +420,18 @@
       "status": "new",
       "ts": "2026-06-13T19:03:22.735062+05:00",
       "age_min": 67.0
+    },
+    {
+      "hash": "b19b1758bb4369f046d5b1f7a4b228cf",
+      "title": "❗️Подписание сделки США и Ирана запланировано на воскресенье, заявил Трамп.По его словам, бло [...]",
+      "summary": "❗️Подписание сделки США и Ирана запланировано на воскресенье, заявил Трамп.По его словам, блокада Ормузского пролива будет снята после подписания соглашения.",
+      "link": "https://t.me/bbbreaking/231462",
+      "source": "TG/Bloomberg",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-13T22:03:11.751880+05:00",
+      "age_min": 4.8
     },
     {
       "hash": "56ffc294718cc2a9e3881f4af31124ce",
@@ -530,28 +530,16 @@
       "age_min": 45.9
     },
     {
-      "hash": "14ff8e40f46c94cab8ecbb6b486f79a1",
-      "title": "Israel launches fresh aggression on southern Lebanon , violating April ceasefire",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260612-presstv02.htm",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
+      "hash": "3a12cc967a3091b2d300980b27e8e93f",
+      "title": "В Ливане заявили о росте числа жертв атак Израиля до 3 756",
+      "summary": "За последние 48 часов убиты 45 человек и ранены 149, сообщил Минздрав республики",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27749475",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-13T18:01:42.602750+05:00",
-      "age_min": 31.7
-    },
-    {
-      "hash": "a156136c0e258bf275f017018628fa0d",
-      "title": "Hamas says Israel expanding  yellow line  in Gaza to  blow up  ceasefire talks",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/military/library/news/2026/06/mil-260612-presstv03.htm",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-13T18:01:42.601514+05:00",
-      "age_min": 31.7
+      "ts": "2026-06-13T22:02:56.965687+05:00",
+      "age_min": 13.8
     },
     {
       "hash": "5b20a2b144f5b4c3c443d231a78569a2",
@@ -576,6 +564,18 @@
       "status": "new",
       "ts": "2026-06-13T20:32:40.258946+05:00",
       "age_min": 6.7
+    },
+    {
+      "hash": "72be449d0903d764806f608d5608d32a",
+      "title": "Трамп: Ормузский пролив будет открыт сразу после подписания соглашения с Ираном",
+      "summary": "",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27749531",
+      "source": "TASS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-13T22:02:56.963629+05:00",
+      "age_min": 7.1
     },
     {
       "hash": "943b8f62e919d684f82f356e5f7c6203",
