@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T21:03:57.039961+05:00",
+  "updated": "2026-06-14T21:17:44.943243+05:00",
   "items": [
     {
       "hash": "e73c3664dbdc9a069733e1bab5531705",
@@ -182,28 +182,16 @@
       "age_min": 45.8
     },
     {
-      "hash": "5437c9450f8830e9f034cd4d747f9ca6",
-      "title": "Kevin Warsh enters the arena",
-      "summary": "The new Federal Reserve Chair will be judged on his integrity and ability",
-      "link": "https://www.ft.com/content/0b984a9e-8ea5-48e5-98cc-5d9751a118a3",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
+      "hash": "1eac6ee2794b8f6522132179c9697e0c",
+      "title": "Iran War Live Updates: Trump Calls for Restraint After Israel Strikes Beirut Suburbs",
+      "summary": "President Trump said “all sides should stand down,” as the conflict in Lebanon between Israel and the Iranian-backed militant group Hezbollah complicated efforts to finalize a cease-fire agreement with Tehran.",
+      "link": "https://www.nytimes.com/live/2026/06/14/world/iran-war-trump-us",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-14T17:17:30.249526+05:00",
-      "age_min": 78.6
-    },
-    {
-      "hash": "6929090ed03d87e1a55dffaca2dce238",
-      "title": "Qatari mediators travel to Tehran for final touches on deal to end war",
-      "summary": "",
-      "link": "https://www.bostonglobe.com/2026/06/14/world/qatari-mediators-travel-to-tehran-for-final-touches-on-deal-to-end-war/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-14T17:16:08.926059+05:00",
-      "age_min": 46.1
+      "ts": "2026-06-14T21:17:01.858852+05:00",
+      "age_min": 5.5
     },
     {
       "hash": "de2164b5ff754130c9f6437afa085224",
@@ -228,6 +216,18 @@
       "status": "new",
       "ts": "2026-06-14T17:46:42.855881+05:00",
       "age_min": 31.7
+    },
+    {
+      "hash": "433bdd886429e623a9f1138241a2a834",
+      "title": "UK forces seize suspected Russian oil tanker accused of funding Ukraine war",
+      "summary": "British armed forces intercepted an oil tanker believed to be part of Russia’s sanctioned shadow fleet.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-14T21:17:01.694199+05:00",
+      "age_min": 37.6
     },
     {
       "hash": "29a0f033c4a67914c4b24b3d7f9dd9db",
@@ -336,30 +336,6 @@
       "status": "new",
       "ts": "2026-06-14T17:47:22.162832+05:00",
       "age_min": 32.4
-    },
-    {
-      "hash": "46d84346ccf505317622a509f1435aa2",
-      "title": "Trump heads to G7 summit in France as world awaits Iran deal",
-      "summary": "The Iran war has drawn the world's focus, but the G7 is also likely to address Russia's war against Ukraine, which continues to rage in eastern Europe.",
-      "link": "https://www.cnbc.com/2026/06/14/trump-g7-iran-deal-france-ukraine.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-14T17:17:31.114324+05:00",
-      "age_min": 17.5
-    },
-    {
-      "hash": "6b6ac9d98a762c4357222ef09f24afab",
-      "title": "Joint statement by Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz\n\nIn response to continued Hezbollah attacks on Israel’s territory, including a terror drone strike this morning, Prime Minister Netanyahu and Defense Minister Katz authorized an IDF surgical strike on a Hezbollah terrorist target in the Dahieh quarter of Beirut. \n\nIsrael will not tolerate firing at its territory.",
-      "summary": "Joint statement by Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz\n\nIn response to continued Hezbollah attacks on Israel’s territory, including a terror drone strike this morning, Prime Minister Netanyahu and Defense Minister Katz authorized an IDF surgical strike on a Hezbollah terrorist target in the Dahieh quarter of Beirut. \n\nIsrael will not tolerate firing at its territory.",
-      "link": "https://nitter.net/IsraeliPM/status/2066123947582640403#m",
-      "source": "Israel PM/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-14T17:04:03.445381+05:00",
-      "age_min": 22.2
     },
     {
       "hash": "9ed49aaaac9ee0692d7addb0f78899ef",
@@ -516,18 +492,6 @@
       "status": "new",
       "ts": "2026-06-14T18:03:03.347155+05:00",
       "age_min": 21.3
-    },
-    {
-      "hash": "02d6c63c20a352d7d74ea4c57d28c0cd",
-      "title": "Kevin Warsh’s First FOMC Meeting: Rate Decision, Inflation Outlook, and Key Events This Week - News and Statistics - IndexBox",
-      "summary": "Kevin Warsh’s First FOMC Meeting: Rate Decision, Inflation Outlook, and Key Events This Week - News and Statistics&nbsp;&nbsp;IndexBox",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGc4clUteDNxZmJCUnZYdlVGSGZqZ1dFLTJlbUM3eHU1UVhod3pNX29HVVVVd1lyRHB4amtDR0ktWHV3WVVnS19aV2F0RUc3QWdMN1hURkxBYVdONjNobnhTcGxLdE5OZG9Pc3M5ekV2bHlDUkZBVHY4YkNpT1pTcjhYUTJOaHlja1lhcUFoT1JNeEotUi0tX0FteHBSSWdfdHYtNw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-14T17:03:56.070076+05:00",
-      "age_min": 32.9
     },
     {
       "hash": "113e164e54df47e6442a37102eebd69a",
