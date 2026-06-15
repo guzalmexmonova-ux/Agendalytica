@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T16:03:52.696863+05:00",
+  "updated": "2026-06-15T16:18:01.920895+05:00",
   "items": [
     {
       "hash": "c8693601b21c6442c4a2205bd12ef53c",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-15T12:32:43.276838+05:00",
       "age_min": 2.7
+    },
+    {
+      "hash": "e5da49e7ec6b4b601350bddfb686c8c6",
+      "title": "A history of Iran nuclear program and tensions with the US as an interim deal is reached",
+      "summary": "",
+      "link": "https://www.dailygazette.com/hv360/ap/national/a-history-of-irans-nuclear-program-and-tensions-with-the-us-as-an-interim-deal/article_23539bf5-dad0-575a-ae51-eefd39f03480.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-15T16:15:47.604647+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "b06c9c55033bc9617c81f975bb87a536",
@@ -254,18 +266,6 @@
       "age_min": 0.9
     },
     {
-      "hash": "a3540a122c828b8f7a27589a04d47ebf",
-      "title": "US and Iran Agree to Halt War; Stocks Rally, Oil Slumps | Horizons Middle East & Africa 06/15/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-15/horizons-middle-east-africa-06-15-2026-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T12:17:32.545838+05:00",
-      "age_min": 28.9
-    },
-    {
       "hash": "9f14649ba49a2010fdcb304a5b062dc5",
       "title": "As Iran , US reach peace deal , a look at decades - long nuclear standoff",
       "summary": "",
@@ -350,28 +350,16 @@
       "age_min": 45.9
     },
     {
-      "hash": "866dedd77103971c2e0802356510e86a",
-      "title": "Osun APC leaders demands investigation over Ataoja attempted assassination claim",
+      "hash": "03ef57da9e43e70dea83dcc507203c8f",
+      "title": "Война в Украине . После российских ударов горит Киево - Печерская лавра , погибли 11 человек",
       "summary": "",
-      "link": "https://dailypost.ng/2026/06/15/osun-apc-leaders-demands-investigation-over-ataojas-attempted-assassination-claim/",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
+      "link": "https://www.lrt.lt/ru/novosti/17/2961052/voina-v-ukraine-posle-rossiiskikh-udarov-gorit-kievo-pecherskaia-lavra-pogibli-11-chelovek",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-15T12:15:59.511090+05:00",
-      "age_min": 46.0
-    },
-    {
-      "hash": "77b2aa429cdc90e48288e4793ed2944f",
-      "title": "Риттер заявил , что Киев готовит покушение на него :: Новости дня / ВЗГЛЯД",
-      "summary": "",
-      "link": "https://vz.ru/news/2026/6/15/1427276.html",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T12:15:59.508342+05:00",
-      "age_min": 106.0
+      "ts": "2026-06-15T16:16:06.353064+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "facda567267c203d86a4631961c2b865",
@@ -554,18 +542,6 @@
       "age_min": 105.9
     },
     {
-      "hash": "62333514d32a8bacb8d63d7c85aa2cd7",
-      "title": "Russia damages historic Kyiv cathedral in massive missile strike",
-      "summary": "Firefighters seen battling flames at Unesco-listed Dormition Cathedral after Moscow’s overnight attack",
-      "link": "https://www.ft.com/content/fd7bb364-f9a3-4935-805d-27c5f4648b1a",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T12:17:32.890215+05:00",
-      "age_min": 13.9
-    },
-    {
       "hash": "ec0f53cfd17d415665af15a2836b78b2",
       "title": "The U.S.-Iran Deal: What to Know",
       "summary": "The full text of the deal that could pave the way to ending the war has not been published. Initial details suggest that it defers the most contentious issues.",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-06-15T15:33:26.764881+05:00",
       "age_min": 36.4
+    },
+    {
+      "hash": "069aa3f098c2fefb5cb81dee1f96c02a",
+      "title": "Ukraine historic Kyiv Pechersk Lavra monastery set on fire following major Russian attack",
+      "summary": "",
+      "link": "https://kesq.com/news/national-world/cnn-world/2026/06/15/ukraines-historic-kyiv-pechersk-lavra-monastery-on-fire-following-major-russian-attack/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-15T16:16:06.352722+05:00",
+      "age_min": 106.1
+    },
+    {
+      "hash": "d9265c4dc9975fe2c0f4a03f52c5f89c",
+      "title": "Киево - Печерскую Лавру атаковала ракета Patriot",
+      "summary": "",
+      "link": "https://life.ru/p/1887664",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-15T16:16:06.356693+05:00",
+      "age_min": 106.1
     }
   ]
 }
