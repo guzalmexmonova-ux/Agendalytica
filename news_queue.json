@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T00:48:22.236930+05:00",
+  "updated": "2026-06-16T01:03:59.024838+05:00",
   "items": [
     {
       "hash": "8fe772265e03547331d94fe124c50f5d",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-15T22:18:16.150877+05:00",
       "age_min": 23.5
+    },
+    {
+      "hash": "b23979425ee74b239401c59c9e5a2a4b",
+      "title": "Iran and US reach an initial deal to end the war and open the Strait of Hormuz but challenges remain",
+      "summary": "",
+      "link": "https://abc30.com/story/iran-us-reach-initial-deal-end-war-open-strait-hormuz-challenges-remain/19302791/",
+      "source": "GDELT/MIDEAST",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T01:01:36.090700+05:00",
+      "age_min": 46.6
     },
     {
       "hash": "a0c26b56777e5f1407db16af1fe1df53",
@@ -62,16 +74,52 @@
       "age_min": 15.4
     },
     {
-      "hash": "9ef7cfeba8814d4dfc5d8fc4259c6dd4",
-      "title": "A tentative deal is reached to end the Iran war and Trump orders a stop to the US naval blockade",
+      "hash": "f9468b571f2ae5129ad2225139bda96d",
+      "title": "Danish Energy Trader Eyes U . S . Gas Markets After Trading Profits Collapse",
       "summary": "",
-      "link": "https://www.clevelandjewishnews.com/news/world_news/a-tentative-deal-is-reached-to-end-the-iran-war-and-trump-orders-a-stop/article_2dccbf66-b22d-5c31-8acc-e764431a7595.html",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Danish-Energy-Trader-Eyes-US-Gas-Markets-After-Trading-Profits-Collapse.html",
       "source": "GDELT/ENERGY",
-      "score": 10,
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-15T21:02:46.529495+05:00",
-      "age_min": 47.8
+      "ts": "2026-06-16T01:02:19.411385+05:00",
+      "age_min": 32.3
+    },
+    {
+      "hash": "86a6e4eb14caba08a53d997b43c7dd93",
+      "title": "What we know about the US - Iran agreement to stop the war",
+      "summary": "",
+      "link": "https://www.kcci.com/article/us-iran-agreement-what-we-know/71589399",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T01:02:19.412773+05:00",
+      "age_min": 32.3
+    },
+    {
+      "hash": "183bf5b62045607b8b9832950c92232a",
+      "title": "„ Ich war richtig angepisst : Trump berichtet über seinen Zorn auf Netanjahu",
+      "summary": "",
+      "link": "https://www.merkur.de/politik/ich-war-richtig-angepisst-trump-berichtet-ueber-seinen-zorn-auf-netanjahu-94352661.html",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T01:01:36.092745+05:00",
+      "age_min": 61.6
+    },
+    {
+      "hash": "156772c2b91fe18cc5d4a09e6df96e58",
+      "title": "TIMELINE – How the US - Israel war with Iran unfolded over 108 days",
+      "summary": "",
+      "link": "https://aa.com.tr/en/us-israel-iran-war/timeline-how-the-us-israel-war-with-iran-unfolded-over-108-days/3967739",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T01:01:36.089269+05:00",
+      "age_min": 76.6
     },
     {
       "hash": "0c435f81b8dfc52324fd10200daa2c29",
@@ -278,42 +326,6 @@
       "age_min": 52.8
     },
     {
-      "hash": "307540d32c0509776f6e2b11c17cee2f",
-      "title": "Stocks leap worldwide , and oil prices drop after the US and Iran reach a tentative deal on their war",
-      "summary": "",
-      "link": "https://6abc.com/post/oil-gas-supplies-could-take-months-return-normal-iran-deal-energy-experts-say/19301010/",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T21:03:26.032202+05:00",
-      "age_min": 63.4
-    },
-    {
-      "hash": "f9c96d41dc5f4d8c8e5e634dc3bc99e8",
-      "title": "Iran , US agree to halt war and reopen Hormuz",
-      "summary": "",
-      "link": "https://www.militarytimes.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T21:02:46.530274+05:00",
-      "age_min": 32.8
-    },
-    {
-      "hash": "dc0516362df6ee7b923edd2f0ab8f957",
-      "title": "Iran war tightens industrial metals supply outlook",
-      "summary": "",
-      "link": "https://www.miningmx.com/news/markets/65612-iran-war-tightens-industrial-metals-supply-outlook/",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T21:02:46.529743+05:00",
-      "age_min": 47.8
-    },
-    {
       "hash": "80240a5c6604de4fac73e5ca830ef6cc",
       "title": "Gulf Countries Confront Questions About Relying on U.S. for Protection",
       "summary": "Iran targeted Bahrain, Qatar, the United Arab Emirates and other American allies in the Middle East during the war, harming their economies and military sectors.",
@@ -384,6 +396,18 @@
       "status": "new",
       "ts": "2026-06-15T21:32:53.906786+05:00",
       "age_min": 0.6
+    },
+    {
+      "hash": "de8ecd68239b0181faa021926ec61bc9",
+      "title": "Indian LNG carrier safely crosses Hormuz , first since US - Iran ceasefire",
+      "summary": "",
+      "link": "https://www.rediff.com/news/report/indian-lng-carrier-safely-crosses-hormuz-first-since-us-iran-ceasefire/20260615.htm",
+      "source": "GDELT/ENERGY",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T01:02:19.409836+05:00",
+      "age_min": 32.3
     },
     {
       "hash": "b65f38d193e90771d5e606fac13588d2",
@@ -506,6 +530,18 @@
       "age_min": 24.3
     },
     {
+      "hash": "cf51e284f307d3fa662df2f4a92da851",
+      "title": "The Iran War Followed Americans Home — and It May Force the Fed's Hand Right Before the Midterms - National Security Journal",
+      "summary": "The Iran War Followed Americans Home — and It May Force the Fed's Hand Right Before the Midterms&nbsp;&nbsp;National Security Journal",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ28wVTF1eWFOUUprQXQyaTdBUDlnYXhFRHVOUVVZdFZVSFNqelZnY01fRGI0N2NLWXRrZ2FBZ3JjS2NuUUNnYW9lSXZ6b0pRLXVxeG1HOF82OExfcFdmRE0xZ0R6WGtTREg2b3N1S3dFeVNRM2dQOHBIbFYzbEJLQ2NrdlZOVlN0UHZ6MVpNNTdYTUVGLTY0WDJLTERoUkhqbEVhN3FOaGx0VXpJeUVjVnZXSzVTLThnR0VzdTlmcUUxbHdyem9FdzVB?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T01:03:37.148289+05:00",
+      "age_min": 17.8
+    },
+    {
       "hash": "2bed6c71bfe5a3c84feaa2b358cd9edf",
       "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
       "summary": "Ukrainian President Volodymyr Zelenskyy visited a landmark Kyiv cathedral damaged by Russian missile and drone strikes.",
@@ -564,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-15T22:33:38.782098+05:00",
       "age_min": 93.6
-    },
-    {
-      "hash": "deeb72fa8d125bb595f162d6c6239eee",
-      "title": "Between Trump and a hard place: Fed chair Warsh to lead first rate meeting - MSN",
-      "summary": "Between Trump and a hard place: Fed chair Warsh to lead first rate meeting&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQ1BsOUtLTW1LakdCTVROVllNaDNVUWFtcWtyYVZTb1ZYSWRrZHZlemZaSllFc210SHlJV3JvZHN5LWx4MDlqMHdmSTlZZWNfUE5lTjN0R2VLSnpzdTNWZl9pb1pNcmNKbi1JSmdRemlZQVJfT3pvdENpV3NmRXUwYzFSNWlFamhRVjV3YUY2YUtEcjhRY3lEeTdvdzlTdTEyZU9mYkc1aG92N0Z4R0JxbXJaUDAwTU1xVWt2MGx0OFZwZw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T00:48:03.138664+05:00",
-      "age_min": 72.0
-    },
-    {
-      "hash": "e99f8048c853f973bd7ba02e04b73509",
-      "title": "В ДНР из-за атак ВСУ погиб человек",
-      "summary": "Еще трое пострадали",
-      "link": "https://tass.ru/proisshestviya/27766049",
-      "source": "TASS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T00:17:33.929073+05:00",
-      "age_min": 13.2
     }
   ]
 }
