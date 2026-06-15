@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:18:41.198951+05:00",
+  "updated": "2026-06-15T23:34:07.968074+05:00",
   "items": [
     {
       "hash": "8fe772265e03547331d94fe124c50f5d",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-15T22:18:16.150877+05:00",
       "age_min": 23.5
+    },
+    {
+      "hash": "9d8e7169a10614562eb3a0f26651f340",
+      "title": "The least bad exit from Trump’s war of choice",
+      "summary": "To ensure deal succeeds, the US president must contain Israel’s prime minister",
+      "link": "https://www.ft.com/content/9f006f90-beff-4df8-a501-701cbb854032",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-15T23:33:13.707388+05:00",
+      "age_min": 52.2
     },
     {
       "hash": "02031bb0ab06775eefbe10022e9da1e2",
@@ -98,28 +110,16 @@
       "age_min": 20.9
     },
     {
-      "hash": "8182e01409d961b42fcaa1864700c238",
-      "title": "Iran and US reach an initial deal to end the war and open the Strait of Hormuz but challenges remain",
+      "hash": "716cdafa88298ecc0725e800233f17ba",
+      "title": "Stocks leap worldwide , and oil prices drop after the US and Iran reach a tentative deal on their war",
       "summary": "",
-      "link": "http://www.idahopress.com/news/world/iran-and-us-reach-an-initial-deal-to-end-the-war-and-open-the-strait/article_dee51b2e-9366-5c30-94ce-5dbe6e89c93d.html",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
+      "link": "https://www.mykxlg.com/news/world/stocks-leap-worldwide-and-oil-prices-drop-after-the-us-and-iran-reach-a-tentative/article_21c806d4-318d-5d83-8f56-09118bdd2ecd.html",
+      "source": "GDELT/MACRO",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-15T19:31:38.052524+05:00",
-      "age_min": 61.6
-    },
-    {
-      "hash": "27f8e8969fdb563e5ebc3c524a87378f",
-      "title": "Trump Iran deal leaves world worse off than under Obama nuclear deal",
-      "summary": "",
-      "link": "https://www.mirror.co.uk/opinion/trumps-iran-deal-leaves-world-37298050",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T19:31:00.253704+05:00",
-      "age_min": 61.0
+      "ts": "2026-06-15T23:33:08.498118+05:00",
+      "age_min": 48.1
     },
     {
       "hash": "a1a5e2fc8f0ba4c451d842a51165ad2f",
@@ -350,42 +350,6 @@
       "age_min": 32.5
     },
     {
-      "hash": "19b55821bacceb2cce63db227588e1e3",
-      "title": "Crude oil prices drop 4 . 7 % after US - Iran agreement to end war and reopen Hormuz : Here what experts say",
-      "summary": "",
-      "link": "https://www.hindustantimes.com/world-news/us-news/crude-oil-prices-drop-4-7-after-us-iran-agreement-to-end-war-and-reopen-hormuz-heres-what-experts-say-101781525474174.html",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T19:32:17.402058+05:00",
-      "age_min": 62.3
-    },
-    {
-      "hash": "b91e01d6b193db0b529bbc6856a9937c",
-      "title": "What to know about a possible deal to end the Iran War",
-      "summary": "",
-      "link": "https://www.wyff4.com/article/us-iran-deal-strait-of-hormuz/71587595",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T19:31:38.056480+05:00",
-      "age_min": 61.6
-    },
-    {
-      "hash": "3c019ac6c96b0be94216e8e34b322896",
-      "title": "Trump heads to G7 summit after announcing Iran War agreement",
-      "summary": "",
-      "link": "https://www.wyff4.com/article/trump-g7-summit-france-2026/71586758",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T19:31:00.257538+05:00",
-      "age_min": 61.0
-    },
-    {
       "hash": "6813014e8bd8cda3bcc0fc1cd93161a9",
       "title": "U . S . and Iran announce a deal to end the war , reopen Strait of Hormuz – Houston Public Media",
       "summary": "",
@@ -470,6 +434,30 @@
       "age_min": 10.3
     },
     {
+      "hash": "ebbf99e82e5e7770d103f0b907e23cb3",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-15T23:33:14.404892+05:00",
+      "age_min": 17.7
+    },
+    {
+      "hash": "b06bf4c339ab6169e4a171e733c3e2a8",
+      "title": "Trump Says Iran Deal Done, Turning Attention Back to Russia at G7",
+      "summary": "Evelyn Farkas, executive director of the McCain Institute, said that the US may incentivize further talks with Iran by unfreezing some assets seized during the course of the conflict after a short-term deal is signed to extend a ceasefire and reopen the Strait of Hormuz. Talking with French President Emmanuel Macron ahead of the G7 summit, President Trump told reporters that his attention is also ",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-15/trump-says-iran-deal-done-turns-attention-to-russia-video",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-15T23:33:13.114096+05:00",
+      "age_min": 9.9
+    },
+    {
       "hash": "eb046bdd2f2bac2f205d28b6d47db08c",
       "title": "Companies Rush to Borrow Cash as US-Iran Deal Spurs Bullish Mood",
       "summary": "US companies looked to offload more than $40 billion of debt in the credit markets on Monday, as they tried to capitalize on investor optimism after the US and Iran reached a tentative agreement to reopen the Strait of Hormuz.",
@@ -540,6 +528,18 @@
       "status": "new",
       "ts": "2026-06-15T21:47:56.941255+05:00",
       "age_min": 24.3
+    },
+    {
+      "hash": "b2626aa1c665f364444ce790bb401a9a",
+      "title": "Trump heads to France for 1st G7 summit since US - Iran war began",
+      "summary": "",
+      "link": "https://kjlhradio.com/trump-heads-to-france-for-1st-g7-summit-since-us-iran-war-began/",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-15T23:32:48.704663+05:00",
+      "age_min": 47.8
     },
     {
       "hash": "ead7ca7ef9d1fb8f69fa07c6a99cdbf7",
