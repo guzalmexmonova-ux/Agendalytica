@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T23:48:18.779870+05:00",
+  "updated": "2026-06-16T00:04:13.520483+05:00",
   "items": [
     {
       "hash": "8fe772265e03547331d94fe124c50f5d",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-15T22:18:16.150877+05:00",
       "age_min": 23.5
+    },
+    {
+      "hash": "a0c26b56777e5f1407db16af1fe1df53",
+      "title": "U . S . and Iran announce a deal to end the war and reopen the Strait of Hormuz",
+      "summary": "",
+      "link": "https://knpr.org/npr/2026-06-15/u-s-and-iran-announce-a-deal-to-end-the-war-and-reopen-the-strait-of-hormuz",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T00:01:05.076781+05:00",
+      "age_min": 76.1
     },
     {
       "hash": "9d8e7169a10614562eb3a0f26651f340",
@@ -74,28 +86,52 @@
       "age_min": 17.4
     },
     {
-      "hash": "cf0053cc10bd21e54a44eadae9214b5d",
-      "title": "Warsh Caught Between Trump, Bond Market Bet on Rate Hikes",
-      "summary": "Just three weeks into the job, Federal Reserve Chairman Kevin Warsh is already facing an unusually high-stakes test.\n\nInflation is roaring back at the fastest pace in three years. There’s growing dissent among the central bank’s policymakers. And investors have been dumping US Treasury bonds and piling into bets the Fed will need to start raising rates by December, defying President Trump’s call t",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-15/warsh-caught-between-trump-rate-hike-bets-video",
-      "source": "Bloomberg",
-      "score": 10,
+      "hash": "0c435f81b8dfc52324fd10200daa2c29",
+      "title": "We offered Putin to meet anywhere where real decisions to end the war could be made. He does not want it. \n\nWe discussed with the U.S. and France the possibility of a meeting with Russia around the G7, with all democratic nations represented. Putin does not want it. \n\nYesterday, we discussed with President Trump that such a meeting could be organized in the U.S. – in a format where Putin would find it much harder to refuse at least to President Trump. \n\nWe will see what comes of it. If Russia refuses this chance as well, additional pressure will be needed.\n\nFrom an intervention at the EU Intergovernmental Conference. (3/3)",
+      "summary": "We offered Putin to meet anywhere where real decisions to end the war could be made. He does not want it. \n\nWe discussed with the U.S. and France the possibility of a meeting with Russia around the G7, with all democratic nations represented. Putin does not want it. \n\nYesterday, we discussed with President Trump that such a meeting could be organized in the U.S. – in a format where Putin would fin",
+      "link": "https://nitter.net/ZelenskyyUa/status/2066591356630577493#m",
+      "source": "Zelensky/X",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-15T20:03:14.551652+05:00",
-      "age_min": 10.6
+      "ts": "2026-06-16T00:03:53.747719+05:00",
+      "age_min": 24.7
     },
     {
-      "hash": "3450992f57f80ae2d7628a1f5e7d8ac4",
-      "title": "Tentative deal reached to end Iran war and President Trump orders stop to US naval blockade",
+      "hash": "07252c4fbce30cee9005189f4a8bb656",
+      "title": "What we know about the US - Iran agreement to stop the war",
       "summary": "",
-      "link": "https://www.fox13memphis.com/news/tentative-deal-reached-to-end-iran-war-and-president-trump-orders-stop-to-us-naval/article_c80dc3d1-c9dc-4446-83c7-bec0491f5bd8.html",
+      "link": "https://www.wbaltv.com/article/us-iran-agreement-what-we-know/71589399",
       "source": "GDELT/ENERGY",
-      "score": 10,
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-15T20:02:32.484651+05:00",
-      "age_min": 32.5
+      "ts": "2026-06-16T00:02:27.667867+05:00",
+      "age_min": 47.5
+    },
+    {
+      "hash": "f0dde295952346548241ce08410c152d",
+      "title": "Iran and US reach a tentative deal to end war as Israel rules out withdrawing from seized land",
+      "summary": "",
+      "link": "https://www.kltv.com/2026/06/15/defense-minister-says-israel-wont-withdraw-land-seized-lebanon-syria-gaza/",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T00:01:42.162840+05:00",
+      "age_min": 46.7
+    },
+    {
+      "hash": "011823937fcf6fe18d0583b473703b89",
+      "title": "US , Israel have nothing to show for meaningless war that puts Iran in stronger position",
+      "summary": "",
+      "link": "https://scroll.in/article/1093597/us-israel-have-nothing-to-show-for-meaningless-war-that-puts-iran-in-stronger-position",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T00:01:05.076024+05:00",
+      "age_min": 46.1
     },
     {
       "hash": "716cdafa88298ecc0725e800233f17ba",
@@ -326,18 +362,6 @@
       "age_min": 91.1
     },
     {
-      "hash": "3d3eb1c51fd8a10058c8fcbcb9dfae02",
-      "title": "Iran , US agree to halt war and reopen Hormuz",
-      "summary": "",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-15T20:02:32.485384+05:00",
-      "age_min": 32.5
-    },
-    {
       "hash": "6813014e8bd8cda3bcc0fc1cd93161a9",
       "title": "U . S . and Iran announce a deal to end the war , reopen Strait of Hormuz – Houston Public Media",
       "summary": "",
@@ -518,6 +542,18 @@
       "age_min": 24.3
     },
     {
+      "hash": "2bed6c71bfe5a3c84feaa2b358cd9edf",
+      "title": "Zelenskyy visits historic Kyiv cathedral after deadly Russian strike",
+      "summary": "Ukrainian President Volodymyr Zelenskyy visited a landmark Kyiv cathedral damaged by Russian missile and drone strikes.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/15/zelenskyy-visits-historic-kyiv-cathedral-after-deadly-russian-strike?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T00:03:16.302763+05:00",
+      "age_min": 39.8
+    },
+    {
       "hash": "b2626aa1c665f364444ce790bb401a9a",
       "title": "Trump heads to France for 1st G7 summit since US - Iran war began",
       "summary": "",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-15T22:33:38.782098+05:00",
       "age_min": 93.6
-    },
-    {
-      "hash": "407e70836b55d48a2052f18de731edeb",
-      "title": "Trump arrives at G7 summit after announcing agreement to end Iran war",
-      "summary": "",
-      "link": "https://www.nydailynews.com/2026/06/15/trump-g7-summit-iran-war/",
-      "source": "GDELT/SUMMITS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-15T22:33:38.779459+05:00",
-      "age_min": 63.6
-    },
-    {
-      "hash": "7a6d4f373623510baad92295fd3c7dfb",
-      "title": "Zelensky Proposes G7 Meeting With Putin to End War",
-      "summary": "",
-      "link": "https://www.kyivpost.com/post/78226",
-      "source": "GDELT/SUMMITS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-15T22:33:38.778037+05:00",
-      "age_min": 48.6
-    },
-    {
-      "hash": "30b4c0ec5bb4cafc256dc388dadce544",
-      "title": "The U.S. and Iran reached an agreement, U.S. Treasury yields rose across the board, and traders reduced their bets on a Federal Reserve rate hike. - 富途牛牛",
-      "summary": "The U.S. and Iran reached an agreement, U.S. Treasury yields rose across the board, and traders reduced their bets on a Federal Reserve rate hike.&nbsp;&nbsp;富途牛牛",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXZvMFRKOG42UUJNYk1VTi1JY1FxUl83NE91Ync0aktkUzJzYVFfdEhBaGcyZUZKT2xjS2NxWTVobFZHZzlmYXZLVkFuQTJQbHlDYXVPR21UVkMwUDNvaGJaVzR2WjFjUjFNQVlSakpsTUo3U090eHhnbFk4RnZGOEUzbjN2VHpJMlo2YXNSWnZEeUE5Q2VicTNmSFo?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-15T23:48:04.340771+05:00",
-      "age_min": 4.8
     }
   ]
 }
