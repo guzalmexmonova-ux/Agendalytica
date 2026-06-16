@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T20:04:42.954563+05:00",
+  "updated": "2026-06-16T20:18:32.273561+05:00",
   "items": [
     {
       "hash": "7ed2bdffd8f2008652bce7b20566558a",
@@ -108,18 +108,6 @@
       "status": "new",
       "ts": "2026-06-16T16:32:55.754276+05:00",
       "age_min": 20.7
-    },
-    {
-      "hash": "dfa3fcc97a2f3a8de15c811e80c65868",
-      "title": "UK Imposes 70 New Sanctions on Russia Over Ukraine War",
-      "summary": "",
-      "link": "https://punchng.com/uk-imposes-70-new-sanctions-on-russia/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T16:16:16.609842+05:00",
-      "age_min": 46.3
     },
     {
       "hash": "888d03428e4327307831ae7da9789b98",
@@ -398,6 +386,18 @@
       "age_min": 12.9
     },
     {
+      "hash": "41784a85f4cf22ec3c42587d48275f02",
+      "title": "France's Confavreux on Iran Deal, Hormuz, Tech, Digital Tax",
+      "summary": "French Foreign Ministry spokesman Pascal Confavreux speaks with Bloomberg's Tyler Kendall on the sidelines of the G7 gathering in Evian, France. He discusses the deal with Iran, including the reopening of the Strait of Hormuz, as well as tolls concerns and incentives. He also addresses technology, AI, and France's digital services tax. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-16/france-s-confavreux-on-iran-deal-strait-of-hormuz-video",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T20:17:46.619773+05:00",
+      "age_min": 10.6
+    },
+    {
       "hash": "3fe25a4e82040f0081a533cd72601acb",
       "title": "Three reasons ships are not going through the Strait of Hormuz yet",
       "summary": "Experts say that there are significant obstacles preventing  traffic from returning to the levels seen before the conflict began – security, mines and tolls.",
@@ -542,6 +542,30 @@
       "age_min": 20.7
     },
     {
+      "hash": "954db1d39027c13d0c61a9aeaaa9d2ca",
+      "title": "R to @WhiteHouse: \"Emmanuel has been a special friend of mine. We've had a fantastic relationship... We've worked on many deals together... The Strait is already partially opened... Essentially, ships are starting to go out now. On Friday, it will be completely opened.\" - President Trump",
+      "summary": "\"Emmanuel has been a special friend of mine. We've had a fantastic relationship... We've worked on many deals together... The Strait is already partially opened... Essentially, ships are starting to go out now. On Friday, it will be completely opened.\" - President Trump",
+      "link": "https://nitter.net/WhiteHouse/status/2066900833866764296#m",
+      "source": "WhiteHouse/X",
+      "score": 5,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-06-16T20:18:19.330199+05:00",
+      "age_min": 9.4
+    },
+    {
+      "hash": "9883bcb72d98278537d8c67f4629d5cf",
+      "title": "FBI foiled alleged plot to attack White House UFC event , FBI says – NBC Bay Area",
+      "summary": "",
+      "link": "https://www.nbcbayarea.com/news/national-international/fbi-foils-alleged-plot-attack-white-house-ufc/4099858/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T20:16:05.308040+05:00",
+      "age_min": 61.1
+    },
+    {
       "hash": "abc8cf042e086f7aa8fcc4afcfc96c6f",
       "title": "Stock Rally Pauses As Attention Turns To Warsh First FOMC",
       "summary": "",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-16T19:31:20.656045+05:00",
       "age_min": 76.3
-    },
-    {
-      "hash": "49583ced00dd4464a5344345827442fa",
-      "title": "ECB’s Lane Says Inflation Is in the Pipeline Despite Iran Deal",
-      "summary": "The European Central Bank must be prepared for inflation that’s been unleashed by the conflict in the Middle East but is yet to be felt, according to Chief Economist Philip Lane.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-16/ecb-s-lane-says-inflation-is-in-the-pipeline-despite-iran-deal",
-      "source": "Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T19:17:46.608572+05:00",
-      "age_min": 21.9
-    },
-    {
-      "hash": "707b54d79075deca651784a4e9c23d62",
-      "title": "Julius Baer : riunione del Fomc , occhi sulla comunicazione di Warsh - PAROLA AL MERCATO",
-      "summary": "",
-      "link": "https://www.borsaitaliana.it/borsa/notizie/radiocor/finanza/dettaglio/julius-baer-riunione-del-fomc-occhi-sulla-comunicazione-di-warsh-parola-al-mercato-nRC_16062026_1414_423187306.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T19:16:52.294584+05:00",
-      "age_min": 76.9
     }
   ]
 }
