@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T04:18:16.334774+05:00",
+  "updated": "2026-06-17T04:33:29.465370+05:00",
   "items": [
     {
       "hash": "07575be082b57723f40977722d8d2bbf",
@@ -36,18 +36,6 @@
       "status": "new",
       "ts": "2026-06-17T00:33:37.339882+05:00",
       "age_min": 12.3
-    },
-    {
-      "hash": "6ebe3020207c37dd457559ceb746e7fd",
-      "title": "Iran Has More Control Over Strait Of Hormuz Than Before War , U . S . Intel Finds",
-      "summary": "",
-      "link": "https://www.forbes.com/sites/saradorn/2026/06/16/trumps-war-now-means-iran-can-shut-strait-of-hormuz-anytime-us-intel-finds/",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T00:31:47.519871+05:00",
-      "age_min": 91.8
     },
     {
       "hash": "7ad34a17368cfd7701d8bf54cbf398c7",
@@ -98,16 +86,28 @@
       "age_min": 106.1
     },
     {
-      "hash": "18db391430fdc228544e578d93b9a39b",
-      "title": "Hezbollah believes Iran will not sign final nuclear deal if Israel stays in Lebanon",
+      "hash": "55e10bae31bfb2d2b13a4be20658d16e",
+      "title": "Senate fails to advance war powers resolution to halt US action against Iran",
       "summary": "",
-      "link": "https://www.al-monitor.com/originals/2026/06/hezbollah-believes-iran-will-not-sign-final-nuclear-deal-if-israel-stays-lebanon",
-      "source": "GDELT/MIDEAST",
-      "score": 9,
+      "link": "https://www.orlandosentinel.com/2026/06/16/congress-iran-war-powers/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-17T00:31:47.518370+05:00",
-      "age_min": 61.8
+      "ts": "2026-06-17T04:30:57.065992+05:00",
+      "age_min": 31.0
+    },
+    {
+      "hash": "4ca452d00b32d927fd70646a28404990",
+      "title": "Iran war : Donald Trump boasts about art of the deal . He knows nothing about art of war",
+      "summary": "",
+      "link": "https://www.theage.com.au/world/middle-east/trump-boasts-about-the-art-of-the-deal-he-knows-nothing-about-the-art-of-war-20260616-p6077a.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T04:30:57.063159+05:00",
+      "age_min": 106.0
     },
     {
       "hash": "81d8c700bd9438e903e1e6845e1ccfa4",
@@ -230,30 +230,6 @@
       "age_min": 31.3
     },
     {
-      "hash": "c34dcc3d15cb233284dc66aa470f7e72",
-      "title": "Factbox - Costs to Lebanon of latest Israel - Hezbollah war",
-      "summary": "",
-      "link": "https://www.al-monitor.com/originals/2026/06/factbox-costs-lebanon-latest-israel-hezbollah-war",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T00:31:47.520533+05:00",
-      "age_min": 61.8
-    },
-    {
-      "hash": "1e30095469355b6a16b0b5f898d171b5",
-      "title": "Iran says the deal to end the war with the US requires Israel to withdraw from Lebanon",
-      "summary": "",
-      "link": "https://www.newsday.com/news/nation/iran-us-war-israel-lebanon-oil-june-16-2026-v07029",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T00:31:47.520248+05:00",
-      "age_min": 61.8
-    },
-    {
       "hash": "e2491c740c290cd3462fd0989046cb19",
       "title": "Oil Holds Near Three-Month Low as Iran Deal Seen Boosting Supply",
       "summary": "Oil held near a three-month low on expectations that a US-Iran deal to reopen the Strait of Hormuz will unleash a wave of supply.",
@@ -336,6 +312,18 @@
       "status": "new",
       "ts": "2026-06-17T04:16:24.027331+05:00",
       "age_min": 31.4
+    },
+    {
+      "hash": "0d512f3fa9bc5536810c3fd6c7625aed",
+      "title": "Stocks pause near records ahead of Kevin Warsh’s first Fed decision - Crypto Briefing",
+      "summary": "Stocks pause near records ahead of Kevin Warsh’s first Fed decision&nbsp;&nbsp;Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41Q3ZiTDVuWHVpTllDYVNMSXdNa1FsRzc3d0tvUnV4LWM5aFdacjVUaU1Ldklha2w5R1lSZF8wWnJObEQ3NzFBM2UxN2g4SFRhSndBZjd1bmhEME1lNU90RTFaWGdQZzZDN2JROUdkSk5QbjQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T04:33:05.284384+05:00",
+      "age_min": 116.9
     },
     {
       "hash": "c46d901454220975f6855aa16d085c02",
@@ -590,16 +578,16 @@
       "age_min": 47.4
     },
     {
-      "hash": "5628d7e948a9d610d5019f30644dff42",
-      "title": "Trump taps Defence Production Act to boost US weapons stockpiles drained by Iran war",
-      "summary": "US President Donald Trump invoked the Defence Production Act in an effort to bolster delivery of weapons whose stockpiles critics say have been strained by the war in Iran and other conflicts.\nThe president cited “systemic constraints in the munitions industrial base” in his order for Defence Secretary Pete Hegseth to make “voluntary agreements and plans of action” to address the depleted US defen",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3357349/trump-taps-defence-production-act-boost-us-weapons-stockpiles-drained-iran-war?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 8,
+      "hash": "45151cdf78abac07a4be2cfa7a6e0073",
+      "title": "Wall ST set for subdued open ahead of Fed decision - MSN",
+      "summary": "Wall ST set for subdued open ahead of Fed decision&nbsp;&nbsp;MSN",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVklDU0Y1LTd1R0VKa2tWbmNhNWVnd2FKOUxQREZuMUo5b3QyVDQ3UGFGcEVOMlNaT2hKR2lnTXpBYnVtNmtpMlBjcXppR2FrcFNuS0MtMy1IbVF3cjBVUU93YURsc3lpTmx1RkJFekpXazBJZ2RuOXM3dkpvdmw2ejFsYlB5VmdZZGs4LWJialNkRzVIdGZRSGlBYlk5ZjZtZmZpMnVNYlhEMEY1Z3ZYWWNRNEFkbGtEYkx3RDVHaTZKdEhW?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-17T00:33:09.256615+05:00",
-      "age_min": 113.5
+      "ts": "2026-06-17T04:33:05.281948+05:00",
+      "age_min": 6.8
     }
   ]
 }
