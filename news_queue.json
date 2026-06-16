@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T08:18:00.700114+05:00",
+  "updated": "2026-06-16T08:33:33.286351+05:00",
   "items": [
     {
       "hash": "5159f03e6c723a9633213d8909c61dc5",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-16T05:33:38.225430+05:00",
       "age_min": 74.2
+    },
+    {
+      "hash": "95810e2d060921c79cd5b9f16d438e65",
+      "title": "EU Says China Trained Russian Troops to Fight in Ukraine War",
+      "summary": "The European Union’s top diplomat said China has been training Russian troops to fight in Ukraine, sharpening Brussels’ criticism of Beijing’s enabling role in the conflict as the bloc weighs a tougher economic and security stance.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-16/eu-says-china-trained-russian-troops-to-fight-in-ukraine-war",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T08:32:49.438120+05:00",
+      "age_min": 24.5
     },
     {
       "hash": "273bd280a555d2dca327823d7d543a31",
@@ -422,18 +434,6 @@
       "age_min": -1378.1
     },
     {
-      "hash": "bcaa58ef159ce5f5fc87dc1c3a1ff68d",
-      "title": "Iran War Live Updates: U.S. and Iran Sign Preliminary Deal, but Its Terms Remain Secret",
-      "summary": "President Trump and Iran’s lead negotiator have signed an agreement that was expected to open the Strait of Hormuz. But the specific terms of the deal have not been released, and Israel’s leader appears not to be fully on board.",
-      "link": "https://www.nytimes.com/live/2026/06/15/world/iran-war-trump-us-deal",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T04:21:31.385207+05:00",
-      "age_min": 34.2
-    },
-    {
       "hash": "778ddd69aefadd6196eb1911462daa3c",
       "title": "Middle East Oil Markets Weaken on Optimism Over Increased Supply",
       "summary": "Middle Eastern crude markets weakened as the US-Iran agreement to reopen the Strait of Hormuz spurred optimism around an increase in flows from the oil-rich region.",
@@ -480,6 +480,18 @@
       "status": "new",
       "ts": "2026-06-16T08:17:47.132752+05:00",
       "age_min": 56.7
+    },
+    {
+      "hash": "bddfd74b8268648fb85bcc8b2f820677",
+      "title": "Russian attack sets fire to religious site in Kyiv , kills 5 in Kharkiv",
+      "summary": "",
+      "link": "https://www.ijpr.org/npr-news/2026-06-14/russian-attack-sets-fire-to-religious-site-in-kyiv-kills-5-in-kharkiv",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T08:31:31.611961+05:00",
+      "age_min": 76.5
     },
     {
       "hash": "4d26d3fbc3c174bea49287fb8c00736f",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-16T05:31:55.752557+05:00",
       "age_min": 31.9
-    },
-    {
-      "hash": "033dd87354a021585d2cc755506b6d2b",
-      "title": "After US-Iran deal, Netanyahu says he will run in coming Israeli elections",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu on Monday said he intends to run in elections scheduled for later this year, as he faces domestic criticism over his wartime leadership.\nNetanyahu, 76, is Israel’s longest-serving prime minister, has led his country through three years of war on multiple interconnected fronts and is currently on trial for corruption.\nIn recent months, he has come under mou",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3357216/after-us-iran-deal-netanyahu-says-he-will-run-coming-israeli-elections?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T04:21:32.374163+05:00",
-      "age_min": 177.0
     }
   ]
 }
