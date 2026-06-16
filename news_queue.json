@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T10:17:59.771590+05:00",
+  "updated": "2026-06-16T10:33:28.089868+05:00",
   "items": [
     {
       "hash": "7cd04551f62c9ed002aee4d435179c36",
@@ -86,16 +86,28 @@
       "age_min": 103.0
     },
     {
-      "hash": "110355bca4a59de54fcfd6c56f7b847b",
-      "title": "UK says will supply nuclear fuel to Ukraine , up sanctions on Russia",
+      "hash": "0817c0b38905a590173f8516202aaa09",
+      "title": "Benjamin Netanyahu susține că a salvat Israelul de la  distrugere nucleară . Premierul spune că armata rămâne în teritoriile ocupate",
       "summary": "",
-      "link": "https://www.spacewar.com/afp/260615213218.yjyr32sd.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
+      "link": "https://ziare.com/razboi-israel-iran/benjamin-netanyahu-salvare-distrugere-nucleara-armata-teritorii-ocupate-2018784",
+      "source": "GDELT/MIDEAST",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-16T06:31:29.611851+05:00",
-      "age_min": 76.5
+      "ts": "2026-06-16T10:31:35.339569+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "1ce25ff0f5cc93f3c11e003ba2e0347f",
+      "title": "Iran wont ever have nuclear weapon with or without deal , fight not over : Netanyahu | World News",
+      "summary": "",
+      "link": "https://indianexpress.com/article/world/netanyahu-iran-war-nuclear-annihilation-israel-saved-us-deal-10741552/",
+      "source": "GDELT/MIDEAST",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T10:31:35.338446+05:00",
+      "age_min": 31.6
     },
     {
       "hash": "263c18497b9b0f096955521370e095ab",
@@ -326,18 +338,6 @@
       "age_min": 61.6
     },
     {
-      "hash": "a597f8847a1e4e8fdc50a1bff0c023d8",
-      "title": "World News : After Iran pact , Trump eyes ending Russia - Ukraine war",
-      "summary": "",
-      "link": "https://www.gdnonline.com:443/Details/1397783",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T06:31:29.617242+05:00",
-      "age_min": 61.5
-    },
-    {
       "hash": "fa37297078d7a4a2c19d58bb9e1cc480",
       "title": "No victory, no defeat: Iran war pauses with fragile freeze",
       "summary": "The drones are grounded, tankers are reportedly moving again through the Strait of Hormuz and an electronically signed memorandum of understanding has formalised the pause.\nAfter 108 days, thousands dead and hundreds of billions of US dollars stripped from the global economy, the US-Israel war on Iran has ended – for now.\nNot with victory. Not with defeat. With a freeze.\nThe United States and Isra",
@@ -408,6 +408,30 @@
       "status": "new",
       "ts": "2026-06-16T06:46:43.924742+05:00",
       "age_min": 91.7
+    },
+    {
+      "hash": "ebbf99e82e5e7770d103f0b907e23cb3",
+      "title": "Iran deal presents political nightmare for Netanyahu",
+      "summary": "Donald Trump's ceasefire agreement with Iran leaves the Israeli PM trapped in a new political and security dilemma.",
+      "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T10:32:47.320231+05:00",
+      "age_min": 112.2
+    },
+    {
+      "hash": "8efc51a2e88e4a5c825d0645db609160",
+      "title": "Treasuries shrug at the ceasefire",
+      "summary": "Plus, tech sells bonds because they can",
+      "link": "https://www.ft.com/content/9a39912a-9c11-42fc-9595-0b6949afbc6b",
+      "source": "FT",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T10:32:46.388043+05:00",
+      "age_min": 2.7
     },
     {
       "hash": "3f293eff488d9ff498e30b354f1275fb",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-16T10:16:05.420798+05:00",
       "age_min": 31.1
-    },
-    {
-      "hash": "27138aa653920a976d1ab46ffb32a4e8",
-      "title": "What to know about the demining and escort mission that US allies want for the Strait of Hormuz",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/news/international/world-news/what-to-know-about-the-demining-and-escort-mission-that-us-allies-want-for-the-strait-of-hormuz/articleshow/131759061.cms",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T10:16:05.417627+05:00",
-      "age_min": 31.1
-    },
-    {
-      "hash": "5493d1b207d5a3f953fc600a55e00e38",
-      "title": "Starmer : Britania do të furnizojë Ukrainën me uranium , paralajmëron masa më të ashpra ndaj Moskës",
-      "summary": "",
-      "link": "https://www.balkanweb.com/starmer-britania-do-te-furnizoje-ukrainen-me-uranium-paralajmeron-masa-me-te-ashpra-ndaj-moskes/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T09:45:59.617373+05:00",
-      "age_min": 31.0
     }
   ]
 }
