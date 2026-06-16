@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T06:33:57.767772+05:00",
+  "updated": "2026-06-16T06:47:44.965288+05:00",
   "items": [
     {
       "hash": "5159f03e6c723a9633213d8909c61dc5",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-16T05:33:38.225430+05:00",
       "age_min": 74.2
+    },
+    {
+      "hash": "ee948647ec40f3a13964536fc0a78af9",
+      "title": "Trump says deal to end war with Iran already signed and details to be released 'pretty soon'",
+      "summary": "Trump says Strait of Hormuz will be open from Friday but there is still confusion about the exact contents of the agreement.",
+      "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T06:46:54.491100+05:00",
+      "age_min": 103.0
     },
     {
       "hash": "110355bca4a59de54fcfd6c56f7b847b",
@@ -96,42 +108,6 @@
       "status": "new",
       "ts": "2026-06-16T03:00:55.789920+05:00",
       "age_min": 30.9
-    },
-    {
-      "hash": "103a2550cbe6982c3431aa5fcc08b151",
-      "title": "Trump administration considers $300bn fund for Iran if deal is upheld",
-      "summary": "Incentives would be tied to Tehran’s ‘performance’ including over opening of the Strait of Hormuz and nuclear talks",
-      "link": "https://www.ft.com/content/088c14d3-f708-44d8-a306-7996aa5211de",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T02:46:57.638821+05:00",
-      "age_min": 43.1
-    },
-    {
-      "hash": "5ff8d8eae4f11bdab49dd6784dddfea4",
-      "title": "ConocoPhillips set to sign deal with Syria to revive gas production",
-      "summary": "Agreement will be first by a US energy major with Damascus as it aims to rebuild activity after years of civil war",
-      "link": "https://www.ft.com/content/d63c5138-bf81-4c7d-b39a-434499d09c8f",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T02:46:57.638309+05:00",
-      "age_min": 37.1
-    },
-    {
-      "hash": "1aabb4060bf52874ddb9779854102453",
-      "title": "U . S . and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
-      "summary": "",
-      "link": "https://www.wcsufm.org/latest-from-npr/2026-06-15/u-s-and-iran-announce-an-initial-deal-to-end-the-war-and-reopen-the-strait-of-hormuz",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T02:46:08.573051+05:00",
-      "age_min": 46.1
     },
     {
       "hash": "a597f8847a1e4e8fdc50a1bff0c023d8",
@@ -278,16 +254,28 @@
       "age_min": 30.9
     },
     {
-      "hash": "be1d1324dbbc734c625572af81f2d9b0",
-      "title": "WAR ENDS : US , Iran agree to sign peace deal on Friday",
+      "hash": "1795d14ce84766f7205a757ecaabb081",
+      "title": "Trump , Vance sign MoU with Iran , sanctions relief tied to nuclear verification measures : US officials",
       "summary": "",
-      "link": "https://theshillongtimes.com/2026/06/16/war-ends-us-iran-agree-to-sign-peace-deal-on-friday/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
+      "link": "http://www.iranherald.com/news/279125170/trump-vance-sign-mou-with-iran-sanctions-relief-tied-to-nuclear-verification-measures-us-officials",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-16T02:46:08.571589+05:00",
-      "age_min": 31.1
+      "ts": "2026-06-16T06:46:43.925391+05:00",
+      "age_min": 31.7
+    },
+    {
+      "hash": "6b093111852e5f003b62dd780f771e48",
+      "title": "U . S . and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.wamc.org/2026-06-15/u-s-and-iran-announce-an-initial-deal-to-end-the-war-and-reopen-the-strait-of-hormuz",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T06:46:43.924742+05:00",
+      "age_min": 91.7
     },
     {
       "hash": "b98ed336b45f539f13bbea62b3499e6a",
@@ -362,18 +350,6 @@
       "age_min": 13.7
     },
     {
-      "hash": "7cac3bc0ef83044f2f74568c335cb023",
-      "title": "UK charges Indian captain of suspected Russian shadow tanker seized in Channel",
-      "summary": "British prosecutors have charged with sanctions contravention offences the Indian captain of an interdicted alleged Russian shadow fleet vessel seized in the Channel, the National Crime Agency (NCA) said on Monday.\nIt follows British armed forces on Sunday intercepting the sanctioned oil tanker Smyrtos – said to belong to Russia’s shadow fleet – in a dramatic operation hailed by Kyiv and London as",
-      "link": "https://www.scmp.com/news/world/europe/article/3357219/uk-charges-indian-captain-suspected-russian-shadow-tanker-seized-channel?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T02:46:59.416376+05:00",
-      "age_min": 5.3
-    },
-    {
       "hash": "e6316f872c4a57f40710a725e902987c",
       "title": "Woodside Energy’s Louisiana LNG President Abruptly Departs",
       "summary": "The top executive at Woodside Energy Group Ltd.’s $17.5 billion liquefied natural gas project in Louisiana has departed, effective Monday, just over a year after she was hired, according to a company memo seen by Bloomberg.",
@@ -420,18 +396,6 @@
       "status": "new",
       "ts": "2026-06-16T03:17:28.324605+05:00",
       "age_min": 11.4
-    },
-    {
-      "hash": "882819b749f7de2795bd9ce43410c9af",
-      "title": "US officials say Iran deal would extend ceasefire , reopen Strait of Hormuz",
-      "summary": "",
-      "link": "https://www.wtxl.com/us-news/iran-war/us-officials-say-iran-deal-would-extend-ceasefire-reopen-strait-of-hormuz",
-      "source": "GDELT/MIDEAST",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T02:46:08.575969+05:00",
-      "age_min": 46.1
     },
     {
       "hash": "c7b52545eca36c47dfcc41e7ec065ced",
@@ -600,6 +564,30 @@
       "status": "new",
       "ts": "2026-06-16T06:16:50.925978+05:00",
       "age_min": 31.8
+    },
+    {
+      "hash": "0d30963ace37b7105e8320d37bc135cc",
+      "title": "US , Iran sign ceasefire agreement but details unclear",
+      "summary": "",
+      "link": "https://www.canberratimes.com.au/story/9292791/us-iran-sign-ceasefire-agreement-but-details-unclear/",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T06:46:43.925693+05:00",
+      "age_min": 46.7
+    },
+    {
+      "hash": "545a2d78e2072bea7c2b055b7da31d4d",
+      "title": "US and Iran electronically sign peace deal , Trump says strait will open from Friday",
+      "summary": "",
+      "link": "https://www.newstalkzb.co.nz/news/world/us-and-iran-electronically-sign-peace-deal-trump-says-strait-will-open-from-friday/",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T06:46:43.923511+05:00",
+      "age_min": 106.7
     }
   ]
 }
