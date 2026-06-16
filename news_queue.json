@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T13:18:26.514370+05:00",
+  "updated": "2026-06-16T13:33:42.015890+05:00",
   "items": [
     {
       "hash": "cb0b85169e3dada7e02a00a7228aaa9d",
@@ -84,18 +84,6 @@
       "status": "new",
       "ts": "2026-06-16T10:01:27.127649+05:00",
       "age_min": 31.5
-    },
-    {
-      "hash": "2687858002ee07bf99c39c8a97a06574",
-      "title": "Yen Trims Gain, Bonds Extend Loss After BOJ’s Expected Rate Hike",
-      "summary": "The yen pared gains against the dollar and bonds extended losses on speculation the Bank of Japan may need to move more decisively to give support to the currency and stem inflation.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-16/yen-pares-gains-versus-dollar-after-boj-hikes-key-rate-to-1",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T09:33:16.392082+05:00",
-      "age_min": 68.9
     },
     {
       "hash": "900f4793509f51d950936b9ff99efa88",
@@ -254,18 +242,6 @@
       "age_min": 27.1
     },
     {
-      "hash": "55969acba1e1097995a69bf5235a22c7",
-      "title": "Racist gesture to Korean at World Cup, Singapore PM to visit Russia: 7 Asia highlights",
-      "summary": "We have selected seven stories from the SCMP’s coverage of Asia over the past week that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. Singapore PM Lawrence Wong to visit Russia, first since Ukraine war sanctions\n\nSingapore Prime Minister Lawrence Wong is set to visit the Russian city of Kazan in a trip t",
-      "link": "https://www.scmp.com/news/asia/article/3357228/racist-gesture-korean-world-cup-singapore-pm-visit-russia-7-asia-highlights?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T09:33:18.693104+05:00",
-      "age_min": 3.2
-    },
-    {
       "hash": "5b789bfce1662e42580c46eb2e7da95b",
       "title": "Qatar Plans to Rapidly Restart LNG Production After Hormuz Opens",
       "summary": "Qatar is planning to rapidly boost liquefied natural gas production once the Strait of Hormuz reopens, aiming to restore most of its export capacity within two months, according to people familiar with the matter.",
@@ -324,6 +300,30 @@
       "status": "new",
       "ts": "2026-06-16T10:03:14.837824+05:00",
       "age_min": 4.9
+    },
+    {
+      "hash": "1f0f997fa67d3daafdcdb0eca9f350d9",
+      "title": "Iran war day 109: Tehran, Washington, sign MoU electronically",
+      "summary": "Iran’s National Security Council said on Monday that the deal ends fighting on all fronts, including in Lebanon.",
+      "link": "https://www.aljazeera.com/news/2026/6/16/iran-war-day-109-tehran-washington-sign-mou-electronically?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T13:32:44.585172+05:00",
+      "age_min": 24.6
+    },
+    {
+      "hash": "9d47a4bcf75dfb04c65f10d1d6ebc8c8",
+      "title": "All eyes turn to Fed chair Kevin Warsh and his first moves on interest rates",
+      "summary": "",
+      "link": "https://mynorthwest.com/national/all-eyes-turn-to-fed-chair-kevin-warsh-and-his-first-moves-on-interest-rates/4248366",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T13:31:57.249481+05:00",
+      "age_min": 77.0
     },
     {
       "hash": "e42c7c0c99816d27f61c45f554840b7c",
@@ -458,30 +458,6 @@
       "age_min": 31.4
     },
     {
-      "hash": "d2150e15131a933140183ec7f679ba41",
-      "title": "The Middle East Power Paradox",
-      "summary": "How the Iran war will transform America’s military role.",
-      "link": "https://www.foreignaffairs.com/iran/middle-east-power-paradox-dana-stroul",
-      "source": "Foreign Affairs",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T09:33:19.047851+05:00",
-      "age_min": 33.3
-    },
-    {
-      "hash": "4eae90634a2b93fb985a40f767631644",
-      "title": "South Korean defense stocks surge on prospects for post-Iran-war sales boosts",
-      "summary": "South Korean defense stocks have risen as there will be \"numerous export pipelines\" for companies to sell to the Middle East.",
-      "link": "https://www.cnbc.com/2026/06/16/south-korean-defense-stocks-surge-on-prospects-for-iran-wars-end-.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T09:33:17.649481+05:00",
-      "age_min": 37.2
-    },
-    {
       "hash": "b338dcdd61eebe07dcf20b306c8dfdda",
       "title": "Bitcoin Surges as US-Iran Ceasefire Deal Ends Four-Month Conflict - FXLeaders",
       "summary": "Bitcoin Surges as US-Iran Ceasefire Deal Ends Four-Month Conflict&nbsp;&nbsp;FXLeaders",
@@ -518,18 +494,6 @@
       "age_min": 73.2
     },
     {
-      "hash": "4d3e4e2173642f92944385f5a228f7c5",
-      "title": "Japan's Nikkei hits 70,000 as BOJ rate hike sparks rally",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/markets/japan-s-nikkei-hits-70-000-as-boj-rate-hike-sparks-rally",
-      "source": "Nikkei Asia",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-16T09:33:17.749611+05:00",
-      "age_min": 0
-    },
-    {
       "hash": "c898660b73d64935b9038cfe7b8e8afb",
       "title": "US and Iran sign ceasefire agreement , details remain unclear",
       "summary": "",
@@ -554,6 +518,30 @@
       "age_min": 31.2
     },
     {
+      "hash": "6ea0f9cc7982683a3b53024f60d8463f",
+      "title": "New Fed chief Warsh faces bumpy road as he leads tough first rate meeting - The Business Times",
+      "summary": "New Fed chief Warsh faces bumpy road as he leads tough first rate meeting&nbsp;&nbsp;The Business Times",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMGJwSUVDT3dMYWs1NjNVWnN3dnJuWHI0TW9PX2lTOEp0OGFsYWktV3dEVklMYWdnZG01alBWOVl4N3VjaTJYTXRBSHBCM09nSWhDWUw1ckVuVVJxbERWR0U1S0VUZ1NkbThGcTVmTzI5YW9GQUJ5eXRUR2F4c0FLMWMxUnFvZ0hCZWtLdjBGNWUzU094bzVHM2dlYkdUckZQQ196UEdPY0UzbHZNdE1LNVlldk1TYk9CYkV6N3Rn?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T13:33:20.837029+05:00",
+      "age_min": 12.3
+    },
+    {
+      "hash": "2c39e0ea4b5cdd60f8705bca6e895aaf",
+      "title": "Пулково принял 16 рейсов из Москвы в качестве запасного аэродрома",
+      "summary": "Утром 16 июня во всех четырех московских аэропортах были введены временные ограничения из-за угрозы атак БПЛА",
+      "link": "https://tass.ru/ekonomika/27770079",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T13:32:47.221676+05:00",
+      "age_min": 3.4
+    },
+    {
       "hash": "017dee3d1183e8cbb85402024f36454f",
       "title": "US Fed meeting in focus: Check date, time and where to watch Kevin Warsh's speech - Mint",
       "summary": "US Fed meeting in focus: Check date, time and where to watch Kevin Warsh's speech&nbsp;&nbsp;Mint",
@@ -564,6 +552,30 @@
       "status": "new",
       "ts": "2026-06-16T13:18:06.020115+05:00",
       "age_min": 19.7
+    },
+    {
+      "hash": "76ca6c693d6d11dee5311da030ca0efe",
+      "title": "AI Boom Keeps BlackRock Bullish On US Equities As Markets Brace For Fed Decision This Week - Stocktwits",
+      "summary": "AI Boom Keeps BlackRock Bullish On US Equities As Markets Brace For Fed Decision This Week&nbsp;&nbsp;Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTkYzQVlaejkwbExzR2NQUUs2WTR5dVlDejBSdFg1b2RsbFlTclpZVDJLdlFjcGpYb2tWNTloWWxHaklvcmh6c3lGQko3ZlVUU1BkbFRMby1PcjhyVW5uVmthZWlUNzZhYWVYRFR3UkZNQzdXU1dtalQ1QnVYNjZNblI1ZzZuNV9LSWZPY0hPZ3RTSEFaOVJ3Vm0wZ2o1MC02aFdBbjAxOGx2dzkyUUpJ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T13:33:20.838239+05:00",
+      "age_min": 65.3
+    },
+    {
+      "hash": "c2e6bbe2c50af878ad020c9089889c25",
+      "title": "Euro Under Pressure as Dollar Gains Ahead of Fed Decision - TradingPedia",
+      "summary": "Euro Under Pressure as Dollar Gains Ahead of Fed Decision&nbsp;&nbsp;TradingPedia",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQVplN3c5VXlTN2Z6X09PdlZGNm16UFpMNjdheTU0ZzJveG1PRTh0NUdpb3FUZ1dTQVRvX2ppeHduYlF6Y2tVR2ZGVDVMWHJtSWhFTWhoM1ctWjMtblNqWm5KQkFjaE50LU5YbG93X3NQZFRMNkhVTFdwVFFZUzV6VldYZjJ2VlZmYy1yelp4S0dTT2QwajRKd3dxRzdZUm8?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T13:33:20.837559+05:00",
+      "age_min": 19.2
     }
   ]
 }
