@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T04:04:05.773330+05:00",
+  "updated": "2026-06-17T04:18:16.334774+05:00",
   "items": [
     {
       "hash": "07575be082b57723f40977722d8d2bbf",
@@ -48,18 +48,6 @@
       "status": "new",
       "ts": "2026-06-17T00:31:47.519871+05:00",
       "age_min": 91.8
-    },
-    {
-      "hash": "ac5ed784ef045279bb321d199dc7869f",
-      "title": "BMW cuts profit guidance as Iran war adds to challenges in Chinese market",
-      "summary": "Carmaker expects operating margin in its automotive division to be 1-3% in 2026, a sharp fall from previous projections",
-      "link": "https://www.ft.com/content/33bcea46-f8cf-4001-b092-aae742387c3c",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T00:17:35.719590+05:00",
-      "age_min": 16.3
     },
     {
       "hash": "7ad34a17368cfd7701d8bf54cbf398c7",
@@ -120,6 +108,18 @@
       "status": "new",
       "ts": "2026-06-17T00:31:47.518370+05:00",
       "age_min": 61.8
+    },
+    {
+      "hash": "81d8c700bd9438e903e1e6845e1ccfa4",
+      "title": "The Iran war permanently altered the global economy",
+      "summary": "",
+      "link": "https://www.nzherald.co.nz/business/economy/the-iran-war-permanently-altered-the-global-economy/premium/FAOYKTSGWFCIBIWFH2ISMWPGJE/",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T04:16:45.766020+05:00",
+      "age_min": 46.8
     },
     {
       "hash": "8080740fee03c5989e507c840d939502",
@@ -254,30 +254,6 @@
       "age_min": 61.8
     },
     {
-      "hash": "602614f23af91ac213942a953fd4f995",
-      "title": "Trump Says U.S. Has ‘Nothing to Do’ with Ukraine War at G7 Summit",
-      "summary": "President Trump’s remarks underscored a new security reality for U.S. allies in Europe, who for eight decades relied on American protection.",
-      "link": "https://www.nytimes.com/2026/06/16/world/europe/trump-ukraine-war-g7.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T00:17:36.241782+05:00",
-      "age_min": 170.9
-    },
-    {
-      "hash": "3153950bbdc89bbcc0b55259d28b03f2",
-      "title": "Vlasiuk : New united kingdom sanctions package targets 3 key elements of Russian war machine",
-      "summary": "",
-      "link": "https://en.interfax.com.ua/news/general/1177077.html",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T00:16:36.509389+05:00",
-      "age_min": 46.6
-    },
-    {
       "hash": "e2491c740c290cd3462fd0989046cb19",
       "title": "Oil Holds Near Three-Month Low as Iran Deal Seen Boosting Supply",
       "summary": "Oil held near a three-month low on expectations that a US-Iran deal to reopen the Strait of Hormuz will unleash a wave of supply.",
@@ -338,16 +314,40 @@
       "age_min": 9.6
     },
     {
-      "hash": "c133268900fa1e023e0b0f6f7b5de1f3",
-      "title": "Oil Falls Below $80 With US-Iran Deal Set to Add Wave of Supply",
-      "summary": "Brent oil fell below $80 a barrel for the first time in more than three months as the US-Iran deal to reopen the Strait of Hormuz boosted expectations for a revival in supply, with leading Wall Street banks reducing their price forecasts and regional benchmarks collapsing. Bloomberg Mike McGlone joins to discuss. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-16/oil-falls-with-us-iran-deal-set-to-add-wave-of-supply-video",
-      "source": "Bloomberg",
-      "score": 7,
+      "hash": "686901b3a1cdae497456fcb879644a7c",
+      "title": "Dollar Edges Lower Ahead of Fed Decision; Yen Slips After BoJ Rate Hike - MEXC",
+      "summary": "Dollar Edges Lower Ahead of Fed Decision; Yen Slips After BoJ Rate Hike&nbsp;&nbsp;MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1MZmluanBHMTlPazY4RnQzeE1BdF9JeVVMTlpRMEtiQnJVWm1IRmRwUmhnMFk5TEhmakZ0QXdFNGhYb3RjdTR4Tw?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T04:17:53.903094+05:00",
+      "age_min": 11.8
+    },
+    {
+      "hash": "9c28305cc2d303d1db0f92cd9898fdbb",
+      "title": "UK Provides £210M for Ukraine Nuclear Energy",
+      "summary": "",
+      "link": "https://www.newkerala.com/news/a/uk-export-finance-allocate-gbp-210-million-ukraines-267.htm",
+      "source": "GDELT/SANCTIONS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T04:16:24.027331+05:00",
+      "age_min": 31.4
+    },
+    {
+      "hash": "c46d901454220975f6855aa16d085c02",
+      "title": "US Charges Five Men Over Alleged Plot To Attack White House UFC Event With Drones , Snipers",
+      "summary": "",
+      "link": "https://saharareporters.com/2026/06/16/us-charges-five-men-over-alleged-plot-attack-white-house-ufc-event-drones-snipers",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-17T00:17:35.391575+05:00",
-      "age_min": 5.0
+      "ts": "2026-06-17T04:15:50.806974+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "0564c1de94ec4fc20dfce21b105e58fc",
