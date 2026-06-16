@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T11:48:08.346003+05:00",
+  "updated": "2026-06-16T12:03:57.819743+05:00",
   "items": [
     {
       "hash": "ab6fd5e7d380f04e3bc23a5511b06150",
@@ -48,18 +48,6 @@
       "status": "new",
       "ts": "2026-06-16T08:32:49.438120+05:00",
       "age_min": 24.5
-    },
-    {
-      "hash": "273bd280a555d2dca327823d7d543a31",
-      "title": "Trump Announces Preliminary Deal To End Iran War",
-      "summary": "",
-      "link": "https://mycolumbuspower.com/4892783/trump-announces-preliminary-deal-to-end-iran-war/",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T08:01:44.273739+05:00",
-      "age_min": 91.7
     },
     {
       "hash": "0817c0b38905a590173f8516202aaa09",
@@ -192,42 +180,6 @@
       "status": "new",
       "ts": "2026-06-16T08:45:46.496268+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "c7bf6866590e317624453288ce8da99c",
-      "title": "Iran deal might bring some relief at the pump , but pre - war prices wont return overnight",
-      "summary": "",
-      "link": "https://local12.com/news/nation-world/iran-deal-might-bring-some-relief-at-the-pump-but-pre-war-prices-wont-return-overnight",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T08:02:31.807277+05:00",
-      "age_min": 92.5
-    },
-    {
-      "hash": "2b31cb82765758706cb1e46a1a629ebd",
-      "title": "Is the Iran war just an energy shock - or a turning point ?",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/is-the-iran-war-just-an-energy-shock-or-a-turning-point/articleshow/131757036.cms",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T08:02:31.801494+05:00",
-      "age_min": 92.5
-    },
-    {
-      "hash": "99cbffd3be65c04ba010dd05ad8bc5a1",
-      "title": "Oil settles at three - month low after Trump says deal signed to end Iran war",
-      "summary": "",
-      "link": "https://www.thestar.com.my/business/business-news/2026/06/16/oil-settles-at-three-month-low-after-trump-says-deal-signed-to-end-iran-war",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-16T08:01:44.273498+05:00",
-      "age_min": 91.7
     },
     {
       "hash": "1ba3727f0bef045c79cdad3494c5d85c",
@@ -518,6 +470,18 @@
       "age_min": 0
     },
     {
+      "hash": "32246155e1eb5dca21326fb85d4c1c1a",
+      "title": "Просроченная ракета . В Минобороны РФ назвали причину поражения Киево - Печерской лавры",
+      "summary": "",
+      "link": "https://pronedra.ru/raketa-patriot-porazila-kievo-pecherskuyu-lavru-v-minoborony-rf-nazvali-prichinu-820916.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-16T12:01:43.629324+05:00",
+      "age_min": 31.7
+    },
+    {
       "hash": "4aa878556383a2bde5e199b506a2eb40",
       "title": "Великобритания 16 июня объявит о новых санкциях против России, заявили в британском правительстве.",
       "summary": "Великобритания 16 июня объявит о новых санкциях против России, заявили в британском правительстве. Планируется ввести ограничения в отношении судов, перевозящих российский СПГ, для борьбы с «теневым флотом». Великобритания будет первой, кто сделает это, указано в сообщении. Также премьер-министр страны Стармер поручил усилить поддержку Украины.",
@@ -576,6 +540,30 @@
       "status": "new",
       "ts": "2026-06-16T10:46:03.136248+05:00",
       "age_min": 31.1
+    },
+    {
+      "hash": "e202f77e186c5c5c1a79963603aa534f",
+      "title": "В Курской области из-за атак ВСУ за сутки пострадали три человека",
+      "summary": "Одному из пострадавших диагностировали акубаротравму и рваную рану височной области",
+      "link": "https://tass.ru/proisshestviya/27769191",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T12:03:21.537619+05:00",
+      "age_min": 10.3
+    },
+    {
+      "hash": "0d17184dc97ebd5197ad8ef1ac293c73",
+      "title": "МИД КНР: свободный проход через Ормузский пролив отвечает интересам всех сторон",
+      "summary": "Линь Цзянь отметил, что Китай готов поддерживать контакты с заинтересованными государствами и международным сообществом по этому вопросу",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27769567",
+      "source": "TASS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-16T12:03:21.538227+05:00",
+      "age_min": 10.3
     },
     {
       "hash": "1799bf61708b8857f5858f0148acd6cb",
