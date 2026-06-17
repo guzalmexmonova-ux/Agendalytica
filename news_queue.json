@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T23:19:20.724941+05:00",
+  "updated": "2026-06-17T23:33:50.199552+05:00",
   "items": [
     {
       "hash": "ac7e5650064b8ab8122ba22e18caa08f",
@@ -74,16 +74,40 @@
       "age_min": 8.3
     },
     {
-      "hash": "58732013aa2f9e3d0b9563d4e71170db",
-      "title": "Morgan Stanley's Wilson Says Investors Looking Past War",
-      "summary": "Investors are already looking beyond the US-Iran war, according to Morgan Stanley Chief Investment Officer Mike Wilson, even with the two sides working on a deal that defers many of the conflict's thorniest issues. He speaks with Lisa Abramowicz and Annmarie Hordern on ``Bloomberg Surveillance.'' (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-17/morgan-stanley-s-wilson-says-investors-looking-past-war-video",
+      "hash": "d46ea608778ad93916bc452a392e6e6e",
+      "title": "US Yields Jump as Fed Dot Plot Boosts Trader Bets on a 2026 Rate Hike",
+      "summary": "US Treasury yields leaped as Federal Reserve officials signaled they expect an interest-rate hike in the coming months, pushing traders to fully price in higher borrowing costs in 2026.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-17/us-yields-jump-as-fed-dots-boost-trader-bets-on-a-2026-rate-hike",
       "source": "Bloomberg",
-      "score": 10,
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-17T19:33:22.794134+05:00",
-      "age_min": 13.3
+      "ts": "2026-06-17T23:33:08.543985+05:00",
+      "age_min": 15.1
+    },
+    {
+      "hash": "cb97a5ae49f74553ddd57408a3f45fc5",
+      "title": "CME chief Duffy to step down after reshaping global derivatives trading",
+      "summary": "CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading",
+      "link": "https://www.ft.com/content/a8f5ff57-5870-4c07-91b5-a0487e339ea1",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T23:33:08.840650+05:00",
+      "age_min": 66.7
+    },
+    {
+      "hash": "673297d28355e6e8a0bed7188e35ed2b",
+      "title": "Federal Reserve holds rates with short statement and hawkish projections",
+      "summary": "Kevin Warsh has eliminated explicit forward guidance, but his colleagues project that at least one rate rise is needed",
+      "link": "https://www.ft.com/content/0fda593c-7de5-44e2-825c-53d7451d5f70",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T23:33:08.838393+05:00",
+      "age_min": 7.9
     },
     {
       "hash": "77a954eb1c931b526e08a535e47295fd",
@@ -374,6 +398,54 @@
       "age_min": 46.6
     },
     {
+      "hash": "46e56f3e0698197c2acf8703e7089b56",
+      "title": "LIVE NOW: Press conference with #FOMC Chairman Warsh: https://www.federalreserve.gov/  and https://www.youtube.com/federalreserve",
+      "summary": "LIVE NOW: Press conference with #FOMC Chairman Warsh: federalreserve.gov/  and piped.video/federalreserve",
+      "link": "https://nitter.net/federalreserve/status/2067313964975874091#m",
+      "source": "FedReserve/X",
+      "score": 6,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-06-17T23:33:47.785148+05:00",
+      "age_min": 3.3
+    },
+    {
+      "hash": "f9db6aa7d1a0fa99a67ab6721ec468c8",
+      "title": "Fed projections call for a rate hike in 2026, but Chairman Warsh likely abstained",
+      "summary": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
+      "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
+      "source": "CNBC",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T23:33:10.605176+05:00",
+      "age_min": 7.8
+    },
+    {
+      "hash": "899d00d50adcd012f7b7266319883fe0",
+      "title": "Live Updates: U.S. Details Agreement With Iran as Trump Ends G7 Summit",
+      "summary": "A U.S. official provided what was described as the text of the preliminary agreement, which outlined a $300 billion plan for Iran’s reconstruction and 60 days of talks on its nuclear program.",
+      "link": "https://www.nytimes.com/live/2026/06/17/world/g7-summit-trump-france",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T23:33:10.059637+05:00",
+      "age_min": 6.4
+    },
+    {
+      "hash": "55c0efd2e4830be845fb1b93d736868a",
+      "title": "US Federal Reserve holds rates steady under new chair Warsh",
+      "summary": "Heightened energy prices because of the US-Israel war with Iran has pushed US inflation to a three-year high.",
+      "link": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T23:33:09.866200+05:00",
+      "age_min": 25.8
+    },
+    {
       "hash": "bb056168f3dcec2e0a7cd8fae85e0d49",
       "title": "Trump sells still-secret Iran deal as lasting peace",
       "summary": "US President Donald Trump sought on Wednesday to frame his vague arrangement aimed at ending a questionable war as a major win that would bring the conflict to a close, reopen the strategic Strait of Hormuz and prevent Iran from “ever” obtaining a nuclear weapon.\n“On Sunday, we reached an agreement with Iran that achieves everything we set out to accomplish, everything and much more,” the US presi",
@@ -432,18 +504,6 @@
       "status": "new",
       "ts": "2026-06-17T20:32:20.568184+05:00",
       "age_min": 62.3
-    },
-    {
-      "hash": "3eb598250dfbe791d8933500e08ac454",
-      "title": "Lebanon peace talks with Israel ‘independent’ of US-Iran deal: Aoun",
-      "summary": "Lebanese President Joseph Aoun said on Wednesday that his country’s negotiations with Israel in Washington were independent of the US-Iran deal to bring an end to the Middle East conflict.\nLebanon and Israel have been holding direct talks in Washington since April, seeking to end the hostilities between Israel and Hezbollah and separate their conflict from the wider regional war.\nBut the announcem",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3357467/lebanon-peace-talks-israel-independent-us-iran-deal-aoun?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T19:33:25.160364+05:00",
-      "age_min": 9.2
     },
     {
       "hash": "5d20fd7182f3db43fcd541ff089880aa",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-06-17T19:48:28.518963+05:00",
       "age_min": 11.7
-    },
-    {
-      "hash": "703df4f57948c7a8b18e1a48d5602908",
-      "title": "BREAKING: Iran DEAL Or Next War; Hormuz Crisis Deepens; Israel Hunts Hamas Leaders | TBN Israel Beckett Sennecke (gb4tEo1Sb9) - Fathom Journal",
-      "summary": "BREAKING: Iran DEAL Or Next War; Hormuz Crisis Deepens; Israel Hunts Hamas Leaders | TBN Israel Beckett Sennecke (gb4tEo1Sb9)&nbsp;&nbsp;Fathom Journal",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Pa3htU0xpaTNaTnRNRGJqQ2NkczhvNzlvR21SVk5CQkNySmpsWkpFZGRlRzFLc2tjRnBKTGRkdnA1dlIxcjBNYm1GY1lUVTJRVW9LVFFyX0Y3SThsaHBFRHZjVEg1MVozekE?oc=5",
-      "source": "GNews/Mideast",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T23:04:23.131894+05:00",
-      "age_min": 72.1
-    },
-    {
-      "hash": "b3a5b95f86467054fcb00b9d815d36fc",
-      "title": "Why Israel could still derail the Iran-US deal",
-      "summary": "Trump called it a historic deal. But with nuclear talks and Israel all unresolved, what did either side actually win?",
-      "link": "https://www.aljazeera.com/video/the-take-2/2026/6/17/why-israel-could-still-derail-the-iran-us-deal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T22:18:48.666101+05:00",
-      "age_min": 115.7
-    },
-    {
-      "hash": "7fc92b3b4e4b6eb08fe7beec1c1eacfa",
-      "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
-      "summary": "US President Donald Trump has accused his predecessor Barack Obama of ‘bribing’ Iran to agree to the 2015 nuclear deal.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T22:03:54.901994+05:00",
-      "age_min": 222.6
-    },
-    {
-      "hash": "2099b24abf40f486eb95945ac3d811e8",
-      "title": "EUR / USD : Où K Warsh placera - t - il le curseur ?",
-      "summary": "",
-      "link": "https://forex.tradingsat.com/cours-euro-dollar-FX0000EURUSD/conseils/euro-dollar-ou-k-warsh-placera-t-il-le-curseur-1165213.html",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T23:18:24.471607+05:00",
-      "age_min": 63.4
-    },
-    {
-      "hash": "f245bc3ea4e6c2487187810e0320f63e",
-      "title": "Markets Brace As Warsh Prepares First Fed Test",
-      "summary": "",
-      "link": "https://www.forbes.com/sites/greatspeculations/2026/06/17/is-the-fomc-ready-to-rattle-markets/",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T23:18:24.470640+05:00",
-      "age_min": 78.4
     }
   ]
 }
