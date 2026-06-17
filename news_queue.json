@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T19:04:40.704903+05:00",
+  "updated": "2026-06-17T19:18:49.070173+05:00",
   "items": [
     {
       "hash": "b4dacd344e8cfbefddba6b75df386502",
@@ -144,6 +144,30 @@
       "status": "new",
       "ts": "2026-06-17T15:45:55.790419+05:00",
       "age_min": 30.9
+    },
+    {
+      "hash": "cb97a5ae49f74553ddd57408a3f45fc5",
+      "title": "CME chief Duffy to step down after reshaping global derivatives trading",
+      "summary": "CEO led the group through a transformation from markets dominated by physical pits to decentralised electronic trading",
+      "link": "https://www.ft.com/content/a8f5ff57-5870-4c07-91b5-a0487e339ea1",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T19:17:58.918740+05:00",
+      "age_min": 23.0
+    },
+    {
+      "hash": "1990ba03b9df03436441490fbfdc299d",
+      "title": "COMMENTARY : Trump could be a winner on Ukraine if he recognized Kyiv stunning turnaround of the war",
+      "summary": "",
+      "link": "https://www.newstribune.com/news/2026/jun/17/commentary-trump-could-be-a-winner-on-ukraine-if/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T19:16:12.956968+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "2ab16aedcf4019aec5976c2b545ecfa0",
@@ -410,6 +434,18 @@
       "age_min": 32.4
     },
     {
+      "hash": "9110a737cd1ff6c0e2568ca36ec49ac0",
+      "title": "Finland removes ban on nuclear weapons as Russia invasion fears soar | World | News",
+      "summary": "",
+      "link": "https://www.express.co.uk/news/world/2218567/finland-removes-ban-nuclear-weapons",
+      "source": "GDELT/SANCTIONS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T19:16:51.854898+05:00",
+      "age_min": 31.9
+    },
+    {
       "hash": "7b0024d0d82eb56a1a09750080d7586b",
       "title": "WATCH LIVE TODAY: Press conference with #FOMC Chairman Warsh at 2:30 p.m. ET: https://www.federalreserve.gov/\nhttps://www.youtube.com/federalreserve",
       "summary": "WATCH LIVE TODAY: Press conference with #FOMC Chairman Warsh at 2:30 p.m. ET: federalreserve.gov/\npiped.video/federalreserve",
@@ -432,6 +468,18 @@
       "status": "new",
       "ts": "2026-06-17T18:04:52.182465+05:00",
       "age_min": 64.9
+    },
+    {
+      "hash": "20a8cd9c2e065cc7526a23f40f29a230",
+      "title": "Iran sends tankers loaded with oil past US military blockade",
+      "summary": "Three Iranian tankers loaded with crude oil have passed the US blockade line in the Gulf of Oman, ship-tracking data shows.",
+      "link": "https://www.bbc.com/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T19:17:59.127303+05:00",
+      "age_min": 50.2
     },
     {
       "hash": "361a26596a196cef6b5a803be9297252",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-17T18:48:04.373882+05:00",
       "age_min": 33.1
-    },
-    {
-      "hash": "5896fb38005d1491504db205e27b551f",
-      "title": "Les contrats à terme sur le S & P et le Nasdaq progressent légèrement avant les débuts de Warsh - 17 / 06 / 2026 à 12 : 26",
-      "summary": "",
-      "link": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-sur-le-s-p-et-le-nasdaq-progressent-legerement-avant-les-debuts-de-warsh-2b32db61323f77badd8660502f2edca7",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T18:32:42.453010+05:00",
-      "age_min": 92.7
-    },
-    {
-      "hash": "f81dac4972f12fe51e53001c6aa16411",
-      "title": "Bloomberg : ОАЭ откажутся от путей через Ормузский пролив | MigNews - Новости Израиля и Мира на русском языке",
-      "summary": "",
-      "link": "https://mignews.com/news/economics/bloomberg-oae-otkazhutsya-ot-putej-cherez-ormuzskij-proliv.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T19:02:52.670720+05:00",
-      "age_min": 47.9
-    },
-    {
-      "hash": "0e3577fe22a1123e80594033f3a46ef2",
-      "title": "Европа продолжит конкурировать с Азией за СПГ",
-      "summary": "",
-      "link": "https://sia.ru/?section=484&action=show_news&id=16829301",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T19:02:52.669839+05:00",
-      "age_min": 47.9
-    },
-    {
-      "hash": "54fdb049c2c4f141c15b2b61e5608548",
-      "title": "Nine Mile Metals intersects new copper - rich VMS horizon at Wedge Mine",
-      "summary": "",
-      "link": "https://www.proactiveinvestors.com/companies/news/1094043/nine-mile-metals-intersects-new-copper-rich-vms-horizon-at-wedge-mine-1094043.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T19:02:52.669610+05:00",
-      "age_min": 32.9
     }
   ]
 }
