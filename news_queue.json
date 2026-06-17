@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T21:19:21.943658+05:00",
+  "updated": "2026-06-17T21:34:25.727979+05:00",
   "items": [
     {
       "hash": "b4dacd344e8cfbefddba6b75df386502",
@@ -24,6 +24,18 @@
       "status": "new",
       "ts": "2026-06-17T18:48:57.005424+05:00",
       "age_min": 42.6
+    },
+    {
+      "hash": "4a462492faf4a15747feff5d6dd2b604",
+      "title": "US Oil Stockpiles Fall to Critical Lows as War Spurs Exports",
+      "summary": "Inventories at the US’s largest commercial crude oil storage hub fell to the lowest since 2014, as surging exports during the Iran war drain supplies in America.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-17/oil-stockpiles-plunge-to-critical-low-at-biggest-us-storage-hub",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T21:33:39.724337+05:00",
+      "age_min": 119.4
     },
     {
       "hash": "8b7b86ea4dd34663b2260c845c9a8ad3",
@@ -120,6 +132,18 @@
       "status": "new",
       "ts": "2026-06-17T17:48:01.162533+05:00",
       "age_min": 17.7
+    },
+    {
+      "hash": "87981eb28d6918946a235355dd222a55",
+      "title": "Bolivian blockades strangle economy, pressuring centre-right leader",
+      "summary": "Protesters call for resignation of President Rodrigo Paz, just six months after his election shifted nation rightward",
+      "link": "https://www.ft.com/content/2985312e-19b8-4378-85f6-74b5895253b0",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-17T21:33:40.105524+05:00",
+      "age_min": 52.3
     },
     {
       "hash": "803fd79749b157870710de7dd3f9baa3",
@@ -374,6 +398,18 @@
       "age_min": 93.5
     },
     {
+      "hash": "77ae59743b6569a48f97a3dd414484ba",
+      "title": "Finland Lifts a Nuclear Device Ban, Eyeing an Uncertain World",
+      "summary": "The Nordic country, which shares an 830-mile border with Russia, said the move would strengthen the NATO alliance, which it joined three years ago.",
+      "link": "https://www.nytimes.com/2026/06/17/world/europe/finland-nuclear-devices.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-17T21:33:41.002300+05:00",
+      "age_min": 19.8
+    },
+    {
       "hash": "badb9156081bf7afd5a4609673c56be4",
       "title": "Iranians find little cause for celebration in US peace deal: ‘99%  in survival mode’",
       "summary": "When Iran’s ⁠Foreign Minister Abbas Araqchi announced the interim deal this week to end the ⁠war with the United States, he declared his country the victor. To many Iranians, it does not feel that way.\nMore than three months of US and Israeli air strikes, and a blockade of Iranian ports, have poured new misery on a people already toiling under years of sanctions.\nAlthough the war is over – for now",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-17T20:32:20.563837+05:00",
       "age_min": 47.3
-    },
-    {
-      "hash": "f09c69c0e1e098992d9f0b64bad7f731",
-      "title": "Finland lifts ban on nuclear weapons in face of growing threat from Russia",
-      "summary": "",
-      "link": "https://metro.co.uk/2026/06/17/finland-lifts-ban-nuclear-weapons-face-growing-threat-russia-28815202/",
-      "source": "GDELT/SANCTIONS",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T19:47:08.204910+05:00",
-      "age_min": 47.1
-    },
-    {
-      "hash": "7fc92b3b4e4b6eb08fe7beec1c1eacfa",
-      "title": "Trump accuses Obama of ‘bribing’ Iran in 2015 nuclear deal at G7 summit",
-      "summary": "US President Donald Trump has accused his predecessor Barack Obama of ‘bribing’ Iran to agree to the 2015 nuclear deal.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/trump-accuses-obama-of-bribing-iran-in-2015-nuclear-deal-at-g7-summit?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-17T18:48:23.835214+05:00",
-      "age_min": 27.1
-    },
-    {
-      "hash": "0599ed7196e91344162dba1318799ea7",
-      "title": "US Fed set to hold rates steady at Warsh first meeting in charge",
-      "summary": "",
-      "link": "https://www.channelnewsasia.com/world/fed-interest-rates-hold-fomc-expected-6190496",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T21:17:30.351392+05:00",
-      "age_min": 62.5
     }
   ]
 }
