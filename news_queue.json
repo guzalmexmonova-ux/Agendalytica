@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T23:48:33.963691+05:00",
+  "updated": "2026-06-18T00:04:51.595060+05:00",
   "items": [
     {
       "hash": "ac7e5650064b8ab8122ba22e18caa08f",
@@ -96,6 +96,18 @@
       "status": "new",
       "ts": "2026-06-17T23:33:08.543985+05:00",
       "age_min": 15.1
+    },
+    {
+      "hash": "abdd30c580e6ec735eae254798ccbc71",
+      "title": "After War Losses , Hezbollah Seen Gaining From Iran - US Deal",
+      "summary": "",
+      "link": "https://www.algemeiner.com/2026/06/17/after-war-losses-hezbollah-seen-gaining-iran-us-deal/",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T00:01:48.382689+05:00",
+      "age_min": 31.8
     },
     {
       "hash": "cb97a5ae49f74553ddd57408a3f45fc5",
@@ -350,28 +362,16 @@
       "age_min": 46.0
     },
     {
-      "hash": "3502d2a1d5fcfb6ae82b1d552dff4def",
-      "title": "Senator Warren Says Trump Has Put Fed's Warsh in 'Terrible Box'",
-      "summary": "US Senator Elizabeth Warren, a Massachusetts Democrat, says she is not comfortable with Kevin Warsh as chair of the Federal Reserve. She spoke on the June 16 episode of \"Balance of Power: Evening Edition.\" (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-17/sen-warren-trump-has-put-fed-s-warsh-in-terrible-box-video",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
+      "hash": "ac33f2664a82ad3ba2473bb04d3c5e3e",
+      "title": "U.S. Official Releases Text of Agreement With Iran",
+      "summary": "The document leaves complicated issues like Iran’s nuclear program still to be decided and a 60-day window to determine them.",
+      "link": "https://www.nytimes.com/2026/06/17/world/middleeast/us-iran-deal-trump-hormuz-nuclear.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-17T20:03:45.644384+05:00",
-      "age_min": 18.5
-    },
-    {
-      "hash": "a2b4d33f34319bdad31a5fa5953f712b",
-      "title": "Good meeting at the G7 Summit with the President of Brazil, @LulaOficial, primarily about ways to bring Russia’s war of aggression to an end. The President shared his ideas on potential approaches in diplomacy. I informed him about the real attitudes in Russian society toward the war, as well as our diplomatic engagements with the U.S. and other partners. We agreed on our further contacts.",
-      "summary": "Good meeting at the G7 Summit with the President of Brazil, @LulaOficial, primarily about ways to bring Russia’s war of aggression to an end. The President shared his ideas on potential approaches in diplomacy. I informed him about the real attitudes in Russian society toward the war, as well as our diplomatic engagements with the U.S. and other partners. We agreed on our further contacts.\n\nVideo",
-      "link": "https://nitter.net/ZelenskyyUa/status/2067255613692731489#m",
-      "source": "Zelensky/X",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-17T19:49:14.959142+05:00",
-      "age_min": 10.6
+      "ts": "2026-06-18T00:03:47.710807+05:00",
+      "age_min": 5.4
     },
     {
       "hash": "46e56f3e0698197c2acf8703e7089b56",
@@ -564,6 +564,42 @@
       "status": "new",
       "ts": "2026-06-17T21:02:28.292550+05:00",
       "age_min": 32.5
+    },
+    {
+      "hash": "3638a709cfe003a61ea975062fcd7c8b",
+      "title": "Warsh se estrena al frente de la Reserva Federal manteniendo los tipos de EE UU sin cambios pese al acelerón de la inflación",
+      "summary": "",
+      "link": "https://www.larazon.es/economia/warsh-estrena-frente-reserva-federal-manteniendo-tipos-cambios-pese-aceleron-inflacion_202606176a32e1468774b34d61e0a36f.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T00:02:40.882884+05:00",
+      "age_min": 32.7
+    },
+    {
+      "hash": "fd742a4afbc63511ec3266676f01f890",
+      "title": "Kevin Warsh wchodzi do gry",
+      "summary": "",
+      "link": "https://wgospodarce.pl/analizy/156819-kevin-warsh-wchodzi-do-gry",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T00:02:40.881678+05:00",
+      "age_min": 32.7
+    },
+    {
+      "hash": "94300549e2bd746c74661f01939e0180",
+      "title": "Warsh Federal Reserve likely to leave interest rates unchanged",
+      "summary": "",
+      "link": "https://www.sentinelandenterprise.com/2026/06/17/warsh-fed-meeting-interest-rates/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T00:02:40.877641+05:00",
+      "age_min": 62.7
     }
   ]
 }
