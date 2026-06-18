@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T14:48:19.139811+05:00",
+  "updated": "2026-06-18T14:57:33.920917+05:00",
   "items": [
     {
       "hash": "02b6547d2a88449a611b4ea083c5cbd9",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-18T12:48:20.526554+05:00",
       "age_min": 16.1
+    },
+    {
+      "hash": "bbe2b4911b5b906c9155717b6d0b76fd",
+      "title": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+      "summary": "A refinery and a shopping centre were burning after almost 200 Ukrainian drones struck an area to the south-east of the Russian capital.",
+      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T14:56:39.208234+05:00",
+      "age_min": 8.9
     },
     {
       "hash": "c31bf9ceb2c5e298cc8c4a3e20cec115",
@@ -326,6 +338,18 @@
       "age_min": 113.5
     },
     {
+      "hash": "c04826231d8b7af56e9392245b115b47",
+      "title": "East Asian Refiners Eye Fuel Sales Boost Before Hormuz Reopen",
+      "summary": "Refineries in East Asia are starting to ramp up fuel exports after months of holding back and prioritizing local sales, in what appears to be an attempt to front-run the market before the Strait of Hormuz reopens.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-18/east-asian-refiners-eye-fuel-sales-boost-before-hormuz-reopen",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T14:56:38.253258+05:00",
+      "age_min": 12.6
+    },
+    {
       "hash": "49363b2806c9492a465c3e75e0b7bc9d",
       "title": "U . S .- Iran Ceasefire Deal Puts Strait of Hormuz at Center of Fragile Regional Truce",
       "summary": "",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-18T13:32:07.142790+05:00",
       "age_min": 47.1
-    },
-    {
-      "hash": "a9c7c0d5888e86de985a6eeb96826b2d",
-      "title": "Warsh First Fed Meeting Sends A Message | Armstrong Economics",
-      "summary": "",
-      "link": "https://www.armstrongeconomics.com/world-news/central-banks/warshs-first-fed-meeting-sends-a-message/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T13:32:07.142197+05:00",
-      "age_min": 107.1
-    },
-    {
-      "hash": "c7de4914eeb1640687cee8c0a205e398",
-      "title": "Warsh kicks off Fed chief era with sweeping review",
-      "summary": "",
-      "link": "https://www.rte.ie/news/business/2026/0618/1579036-us-federal-reserve-interest-rates/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T13:32:07.141676+05:00",
-      "age_min": 32.1
     }
   ]
 }
