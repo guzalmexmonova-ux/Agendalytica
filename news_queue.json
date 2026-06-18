@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T11:04:30.971794+05:00",
+  "updated": "2026-06-18T11:18:19.517403+05:00",
   "items": [
     {
       "hash": "d62adfc4e59b977123b461bca4f5c7a9",
@@ -74,30 +74,6 @@
       "age_min": 32.0
     },
     {
-      "hash": "e1d3ac7702e8ba9ba96a03a247da551d",
-      "title": "Japan ramping up defence is 'critical' to prevent war, Defence Minister Koizumi tells BBC",
-      "summary": "Japan needs to revisit the pacifist posture that has defined it since World War Two, Shinjiro Koizumi says.",
-      "link": "https://www.bbc.com/news/articles/cly8qd4595eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T07:17:55.472531+05:00",
-      "age_min": 221.7
-    },
-    {
-      "hash": "f782b8e89db447a5132c2bcb6d3349e9",
-      "title": "What's in the US-Iran agreement that's now in effect",
-      "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
-      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T07:17:55.471951+05:00",
-      "age_min": 49.9
-    },
-    {
       "hash": "eff4dd08afe8a3c8335aa155b36428df",
       "title": "Sprake: SARB Likely to Hike Before Year-End",
       "summary": "Traders are paring back their bets on further interest-rate hikes by the South African Reserve Bank after inflation came in lower than expected. But Casey Sprake, Market Strategist at AG Capital told Bloomberg’s Chief Africa Correspondent Jennifer Zabasajja, they are expecting another rate hike before the end of the year. (Source: Bloomberg)",
@@ -144,6 +120,30 @@
       "status": "new",
       "ts": "2026-06-18T09:17:36.331470+05:00",
       "age_min": 17.6
+    },
+    {
+      "hash": "df96f8715b94569b44bfb38cc84b5c32",
+      "title": "Ukraine bolsters its northern defences amid fears Belarus is being dragged into war",
+      "summary": "",
+      "link": "https://www.theguardian.com/world/2026/jun/18/ukraine-bolsters-its-northern-defences-amid-fears-belarus-is-being-dragged-into-war",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T11:16:02.691566+05:00",
+      "age_min": 46.0
+    },
+    {
+      "hash": "d35514748b4ce8b813a39dd87634684c",
+      "title": "Trump issues brutal verdict on Putin Ukraine war | World | News",
+      "summary": "",
+      "link": "https://www.express.co.uk/news/world/2218790/trump-brutal-verdict-putin-ukraine-war-g7-allies-military",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T11:16:02.683957+05:00",
+      "age_min": 31.0
     },
     {
       "hash": "7d18231e8762a3046f8f073a9c2e813b",
@@ -204,54 +204,6 @@
       "status": "new",
       "ts": "2026-06-18T07:46:53.423448+05:00",
       "age_min": 91.9
-    },
-    {
-      "hash": "61046d8036662567cfeb00f5a84d9fb7",
-      "title": "As war pressures ebb , edible oil prices may ease 10 % ahead of the festive season",
-      "summary": "",
-      "link": "https://www.livemint.com/economy/edible-oil-prices-fall-festive-season-west-asia-war-petrochem-plastic-11781684615457.html",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T07:17:16.141415+05:00",
-      "age_min": 77.3
-    },
-    {
-      "hash": "9b87bcd354189823cb090433939078fb",
-      "title": "Before we move on : 2 painful lessons from the Iran war",
-      "summary": "",
-      "link": "https://www.navytimes.com/opinion/2026/06/18/before-we-move-on-2-painful-lessons-from-the-iran-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T07:15:46.932140+05:00",
-      "age_min": 45.8
-    },
-    {
-      "hash": "d3e2054848ac4b319a94f619287728d4",
-      "title": "Trump signs Iran ceasefire deal , warns of renewed bombing if Tehran violates pact",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/news/defence/trump-signs-iran-ceasefire-deal-warns-of-renewed-bombing-if-tehran-violates-pact/articleshow/131815003.cms",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T07:15:46.931388+05:00",
-      "age_min": 60.8
-    },
-    {
-      "hash": "d14873896901f87da0981c4bd803307d",
-      "title": "US , Iran sign deal ahead of schedule to end the war , reports say",
-      "summary": "",
-      "link": "https://www.koco.com/article/us-iran-sign-agreement-to-end-the-war/71619888",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T07:15:46.928409+05:00",
-      "age_min": 105.8
     },
     {
       "hash": "c9e42128e3c85881f155c7041f14f399",
