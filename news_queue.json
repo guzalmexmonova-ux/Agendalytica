@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T18:34:10.352978+05:00",
+  "updated": "2026-06-18T18:48:34.041748+05:00",
   "items": [
     {
       "hash": "1006bb5bde3d32138b851f1e101d672e",
@@ -204,30 +204,6 @@
       "status": "new",
       "ts": "2026-06-18T14:56:39.208234+05:00",
       "age_min": 8.9
-    },
-    {
-      "hash": "c31bf9ceb2c5e298cc8c4a3e20cec115",
-      "title": "ECB’s Kocher Says Inflation to Stay for a While After Iran Deal",
-      "summary": "Consumer prices will stay higher for some time in the euro area despite an agreement to end the war in the Middle East, according to European Central Bank Governing Council member Martin Kocher.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-18/ecb-s-kocher-says-inflation-to-stay-for-a-while-after-iran-deal",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T14:47:27.066850+05:00",
-      "age_min": 112.4
-    },
-    {
-      "hash": "f4c61858ca321c8fe4147074b97e1583",
-      "title": "EU Needs to Mandate Envoy for Ukraine Peace Talks, Latvia Says",
-      "summary": "Europe needs to appoint an envoy for peace talks with Russia to end the war in Ukraine when the time is right, Latvian Prime Minister Andris Kulbergs said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-18/eu-needs-to-mandate-envoy-for-ukraine-peace-talks-latvia-says",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T14:47:27.059127+05:00",
-      "age_min": 17.3
     },
     {
       "hash": "230c33f8b995813c82c864d92bca46b7",
@@ -554,16 +530,16 @@
       "age_min": 3.8
     },
     {
-      "hash": "23d014a2329f840526e179e5a511c1c5",
-      "title": "World : Trump , Iran president sign deal to end Mideast war",
-      "summary": "",
-      "link": "https://www.newvision.co.ug/category/world/trump-irans-president-sign-deal-to-end-mideas-NV_235716_062026",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
+      "hash": "5af9f348aa5ab0b590c04117e57eedfe",
+      "title": "Oil prices fall after Trump signs deal to end Iran war",
+      "summary": "Oil declines as Mideast peace prospects rise following U.S.-Iran deal.",
+      "link": "https://www.cnbc.com/2026/06/18/oil-prices-today-wti-brent.html",
+      "source": "CNBC",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-18T14:46:12.007825+05:00",
-      "age_min": 61.2
+      "ts": "2026-06-18T18:47:38.360869+05:00",
+      "age_min": 127.8
     },
     {
       "hash": "418e6e510f310ca1d78807799a40643a",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-06-18T17:56:59.531072+05:00",
       "age_min": 42.0
+    },
+    {
+      "hash": "66c4650d138f9b4d0057594d1cb84cf8",
+      "title": "Oil rains down on Moscow as Ukraine largest drone attack hits refinery",
+      "summary": "",
+      "link": "https://www.dailystar.co.uk/news/world-news/oil-rains-down-moscow-ukraines-37314438",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T18:46:12.129289+05:00",
+      "age_min": 31.2
+    },
+    {
+      "hash": "c995b69de7a3af9a87b7796c619b035c",
+      "title": "Ukraine hits Moscow oil refinery and disrupts commercial flights in drone attack",
+      "summary": "",
+      "link": "https://www.lancashiretelegraph.co.uk/news/national/26206856.ukraine-hits-moscow-oil-refinery-disrupts-commercial-flights-drone-attack/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-18T18:46:12.127935+05:00",
+      "age_min": 31.2
     }
   ]
 }
