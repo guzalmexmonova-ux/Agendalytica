@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T03:33:52.902582+05:00",
+  "updated": "2026-06-19T03:48:17.908139+05:00",
   "items": [
     {
       "hash": "d3e55699bc607d3eaf2ea36aa0c80d1b",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-19T00:13:24.133965+05:00",
       "age_min": 12.1
+    },
+    {
+      "hash": "96dca1e73a39fe39de876de0214d9840",
+      "title": "Standard Nuclear Files for US IPO In Reactor Fuel Push",
+      "summary": "Standard Nuclear Inc., a maker of fuel for nuclear reactors, filed for an initial public offering as the power needs to fund the artificial intelligence boom continue to grow.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-18/standard-nuclear-files-for-us-ipo-in-reactor-fuel-push",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T03:47:26.876436+05:00",
+      "age_min": 21.7
     },
     {
       "hash": "38953c6adec567461d74572564bffa94",
@@ -158,30 +170,6 @@
       "age_min": 14.7
     },
     {
-      "hash": "589ed500ae80d698cdfe6f44a6a61165",
-      "title": "Average 30 - year US mortgage rate falls to 6 . 47 %, following bond yields lower since deal to end Iran war was announced",
-      "summary": "",
-      "link": "https://www.yoursourceone.com/news/national_news/average-30-year-us-mortgage-rate-falls-to-6-47-following-bond-yields-lower-since/article_eb669514-48ca-5289-a709-96ce1d02b9fb.html",
-      "source": "GDELT/MACRO",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T23:47:34.948827+05:00",
-      "age_min": 92.6
-    },
-    {
-      "hash": "d086dc14f1ce354a65f29aa1d5d58230",
-      "title": "Warsh shocks Wall Street with hawkish turn as Fed rate hikes come back into play",
-      "summary": "",
-      "link": "https://nypost.com/2026/06/18/business/warsh-shocks-wall-street-with-hawkish-turn-as-fed-rate-hikes-come-back-into-play/",
-      "source": "GDELT/MACRO",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T23:47:34.947809+05:00",
-      "age_min": 92.6
-    },
-    {
       "hash": "38d698a3cfecc4b687d208f8de561336",
       "title": "I met with Prime Minister of Poland @donaldtusk in Brussels. We discussed issues on the bilateral agenda and Ukraine’s EU integration, as well as remaining challenges facing all European countries because of Russian aggression.\n\nI am grateful to Poland for supporting Ukraine from the first days of Russian invasion, and this is something that is truly important for our region and all of Europe. Our shared security interests and the freedom of every nation that lives next to Russia must be protected.",
       "summary": "I met with Prime Minister of Poland @donaldtusk in Brussels. We discussed issues on the bilateral agenda and Ukraine’s EU integration, as well as remaining challenges facing all European countries because of Russian aggression.\n\nI am grateful to Poland for supporting Ukraine from the first days of Russian invasion, and this is something that is truly important for our region and all of Europe. Our",
@@ -204,18 +192,6 @@
       "status": "new",
       "ts": "2026-06-19T01:18:02.359636+05:00",
       "age_min": 15.4
-    },
-    {
-      "hash": "5da504fcfbb0a3e0415665e31eaf4f73",
-      "title": "US Bond Futures Surge to Drive Wagers on a July Fed Rate Hike",
-      "summary": "The Treasury market saw a record surge in futures trading that underpins bets that the Federal Reserve’s next move will be to boost interest rates.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-18/us-bond-futures-surge-to-drive-wagers-on-a-july-fed-rate-hike",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T23:47:39.652408+05:00",
-      "age_min": 7.4
     },
     {
       "hash": "dd90895764167cfd11e2ff5da56337da",
@@ -386,18 +362,6 @@
       "age_min": 107.5
     },
     {
-      "hash": "23498388825e62cbf8527e115d4b9328",
-      "title": "Iran War Day 111 : U . S . and Iran Sign Framework Peace Deal",
-      "summary": "",
-      "link": "https://www.theamericanconservative.com/iran-war-day-111-u-s-and-iran-sign-framework-peace-deal/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-18T23:46:17.308113+05:00",
-      "age_min": 31.3
-    },
-    {
       "hash": "c80d8d9fb599ba3f72076b1294a4fe4e",
       "title": "Average 30-year U.S. mortgage rate falls to 6.47%, tracking lower bond yields as Iran war winds down - The Seattle Times",
       "summary": "Average 30-year U.S. mortgage rate falls to 6.47%, tracking lower bond yields as Iran war winds down&nbsp;&nbsp;The Seattle Times",
@@ -566,16 +530,40 @@
       "age_min": 18.8
     },
     {
-      "hash": "5088f8ea4363aa58c0300b4cf13a8bc0",
-      "title": "Easing tensions with Iran push mortgage rates lower but a potential Fed rate hike clouds the outlook",
+      "hash": "8587ededafc04501fa95167e39108a08",
+      "title": "Ukraine pummels Russian capital with what may be largest drone strike yet on Moscow",
       "summary": "",
-      "link": "https://www.cnn.com/2026/06/18/economy/us-mortgage-rates-iran-agreement",
-      "source": "GDELT/MACRO",
-      "score": 7,
+      "link": "https://www.spokesman.com/stories/2026/jun/18/ukraine-pummels-russian-capital-with-what-may-be-l/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-18T23:47:34.943903+05:00",
-      "age_min": 107.6
+      "ts": "2026-06-19T03:46:04.700683+05:00",
+      "age_min": 61.1
+    },
+    {
+      "hash": "2dbb443874399977e3210fb06e5a6fc8",
+      "title": "Al - Qaeda - linked jihadists attack Niger airport , 11 soldiers killed",
+      "summary": "",
+      "link": "https://www.modernghana.com/news/1503757/al-qaeda-linked-jihadists-attack-niger-airport.html",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T03:45:53.065409+05:00",
+      "age_min": 60.9
+    },
+    {
+      "hash": "620593aecd5541aaf64c250799d3f1b5",
+      "title": "Ukraine hits a Moscow oil refinery and other sites in a large - scale drone attack",
+      "summary": "",
+      "link": "https://www.krvs.org/npr-news/2026-06-18/ukraine-hits-a-moscow-oil-refinery-and-other-sites-in-a-large-scale-drone-attack",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T03:45:53.064669+05:00",
+      "age_min": 75.9
     },
     {
       "hash": "47b1e20f5d53979170fd6987915dece2",
