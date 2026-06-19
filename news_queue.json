@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T10:35:57.876351+05:00",
+  "updated": "2026-06-19T10:48:19.269156+05:00",
   "items": [
     {
       "hash": "67cb0acdaa98553d9d2d0086ef9ae415",
@@ -84,18 +84,6 @@
       "status": "new",
       "ts": "2026-06-19T07:18:28.900134+05:00",
       "age_min": 108.5
-    },
-    {
-      "hash": "f9686c5d75e2e64776a9531467d45081",
-      "title": "Residents return to war - ravaged southern Lebanon with hope and sorrow after the US - Iran deal",
-      "summary": "",
-      "link": "https://www.newsday.com/news/nation/lebanon-israel-hezbollah-iran-us-deal-o40521",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T06:46:11.457962+05:00",
-      "age_min": 31.2
     },
     {
       "hash": "67be04d8376be0bc7d1da1b86387800c",
@@ -252,30 +240,6 @@
       "status": "new",
       "ts": "2026-06-19T08:16:36.652111+05:00",
       "age_min": 46.6
-    },
-    {
-      "hash": "001e6dca79ad23ffc311f768e3fb5805",
-      "title": "India's private nuclear energy players warned over rushing into sector",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/energy/india-s-private-nuclear-energy-players-warned-over-rushing-into-sector",
-      "source": "Nikkei Asia",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-19T06:47:24.040956+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "1ab79a485720077d351ca68bd0603734",
-      "title": "Iran - US Negotiations Collapse Before They Begin as Lebanon Strikes Spark Diplomatic Crisis",
-      "summary": "",
-      "link": "https://www.ibtimes.co.uk/iran-halts-us-negotiations-lebanon-strikes-1803651",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-19T06:47:12.631954+05:00",
-      "age_min": 77.2
     },
     {
       "hash": "c8fca9e0ae31293faa9f75ac891878a8",
@@ -588,6 +552,42 @@
       "status": "new",
       "ts": "2026-06-19T09:03:35.271669+05:00",
       "age_min": 28.4
+    },
+    {
+      "hash": "d37b1fd1926845359fef1f05126d4efb",
+      "title": "FT: судовладельцы опасаются введения Ираном платного прохода в Ормузе",
+      "summary": "Любая попытка ввести плату за проход через пролив встретит \"решительное сопротивление со стороны государств Персидского залива, пишет издание",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27810425",
+      "source": "TASS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T10:47:39.703556+05:00",
+      "age_min": 5.9
+    },
+    {
+      "hash": "1dea1a6bb7d8070e1dc8a97a85706057",
+      "title": "US lifts maritime blockade on Iranian ports after signing MoU , says CENTCOM",
+      "summary": "",
+      "link": "https://news.webindia123.com/news/Articles/World/20260619/4464440.html",
+      "source": "GDELT/SANCTIONS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T10:46:47.842541+05:00",
+      "age_min": 46.8
+    },
+    {
+      "hash": "4f214e049557698fdb66d6f78f69c0cd",
+      "title": "U . S . lifts blockade on Iranian ports as 60 - day clock for a final deal starts ticking",
+      "summary": "",
+      "link": "https://www.kalw.org/npr-news/2026-06-18/u-s-lifts-blockade-on-iranian-ports-as-60-day-clock-for-a-final-deal-starts-ticking",
+      "source": "GDELT/SANCTIONS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T10:46:47.841415+05:00",
+      "age_min": 46.8
     }
   ]
 }
