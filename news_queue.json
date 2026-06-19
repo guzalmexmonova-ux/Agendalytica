@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T08:33:46.955922+05:00",
+  "updated": "2026-06-19T08:48:02.797627+05:00",
   "items": [
     {
       "hash": "8408eb769ba2f4acc8db87d2c3f632ff",
@@ -36,18 +36,6 @@
       "status": "new",
       "ts": "2026-06-19T06:03:03.748904+05:00",
       "age_min": 49.2
-    },
-    {
-      "hash": "5e7a97775780331bc3894e098b543757",
-      "title": "Russia - Ukraine war : Ukraine drone strike on Russian oil refinery ; Volodymyr Zelensky says response  fully justified",
-      "summary": "",
-      "link": "https://www.brisbanetimes.com.au/world/europe/fiery-attack-on-russian-oil-refinery-fully-justified-zelensky-20260619-p6088k.html",
-      "source": "GDELT/TERRORISM",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T04:46:14.221228+05:00",
-      "age_min": 61.2
     },
     {
       "hash": "66ab86a1d79a1e1f8988304e1fd1c778",
@@ -446,18 +434,6 @@
       "age_min": 98.4
     },
     {
-      "hash": "ff2f6f056c1df997c65bb5e31d768c7e",
-      "title": "African Union Condemns Terrorists Attack On Niamey Airport In Niger Republic",
-      "summary": "",
-      "link": "https://saharareporters.com/2026/06/18/african-union-condemns-terrorists-attack-niamey-airport-niger-republic",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T04:46:14.218356+05:00",
-      "age_min": 61.2
-    },
-    {
       "hash": "49f497d48aa470a2dab3a4d68d7a56f8",
       "title": "Silver Price Forecast: XAG/USD falls to near $70.50 due to Fed rate hike odds - FXStreet",
       "summary": "Silver Price Forecast: XAG/USD falls to near $70.50 due to Fed rate hike odds&nbsp;&nbsp;FXStreet",
@@ -506,6 +482,42 @@
       "age_min": 14.8
     },
     {
+      "hash": "c831aa0d2d24b89cb255ab54d5a7a682",
+      "title": "Oil prices edge higher after Vance threatens Israel against violating ceasefire",
+      "summary": "",
+      "link": "https://timesofindia.indiatimes.com/business/international-business/oil-prices-edge-higher-after-vance-threatens-israel-against-violating-ceasefire/articleshow/131844583.cms",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T08:46:09.610661+05:00",
+      "age_min": 61.2
+    },
+    {
+      "hash": "4b3f33623297b7b940339fc411a5eb8f",
+      "title": "Circle Stock Price Forecast as US Bond Yields Jump and USDC Supply Falls - MEXC",
+      "summary": "Circle Stock Price Forecast as US Bond Yields Jump and USDC Supply Falls&nbsp;&nbsp;MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1VTEpSUEgtdnFQcERCZjZDWFRKY2dHay0tRkhGdmo3SUM5dXhlY21ONnlabDJEeUVpaWtMa1VnQ3VJdFFMMjAxag?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T08:47:46.217600+05:00",
+      "age_min": 44.4
+    },
+    {
+      "hash": "948eac6561d0bd2ab3dbb361c44bc026",
+      "title": "Mount Royal University responding to cyber attack , website down",
+      "summary": "",
+      "link": "https://www.cbc.ca/news/canada/calgary/mount-royal-university-cyber-incident-9.7240991",
+      "source": "GDELT/CYBER",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T08:46:49.974565+05:00",
+      "age_min": 61.8
+    },
+    {
       "hash": "31dee5fb42a3521dd4b67d9ed874e706",
       "title": "Circle Stock Price Forecast as US Bond Yields Jump and USDC Supply Falls - The Market Periodical",
       "summary": "Circle Stock Price Forecast as US Bond Yields Jump and USDC Supply Falls&nbsp;&nbsp;The Market Periodical",
@@ -540,6 +552,30 @@
       "status": "new",
       "ts": "2026-06-19T07:19:50.806844+05:00",
       "age_min": 17.0
+    },
+    {
+      "hash": "638a598c510e939ab60af0b934644d6f",
+      "title": "Oil drifts lower as Strait of Hormuz reopens, focus shifts to demand outlook",
+      "summary": "With immediate supply fears fading and tanker traffic returning to the Strait of Hormuz, traders are turning their attention back to oil demand and OPEC's outlook for the market.",
+      "link": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
+      "source": "CNBC",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T08:47:17.724306+05:00",
+      "age_min": 21.0
+    },
+    {
+      "hash": "350c0c15c6ec80950ac2ee4c864b6e65",
+      "title": "John Bolton calls PM Modi - Trump meeting at G7 Summit  important , criticises US tariff policy",
+      "summary": "",
+      "link": "https://aninews.in/news/world/us/john-bolton-calls-pm-modi-trump-meeting-at-g7-summit-important-criticises-us-tariff-policy20260619054154/",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T08:47:04.462461+05:00",
+      "age_min": 47.1
     },
     {
       "hash": "6775958a2a72215b15168df3f988457e",
