@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T06:35:00.774572+05:00",
+  "updated": "2026-06-19T06:48:17.130547+05:00",
   "items": [
     {
       "hash": "9d9b6cb230e0e0dc98fcc2ce0e98b1a5",
@@ -86,30 +86,6 @@
       "age_min": 47.2
     },
     {
-      "hash": "1d75d833d4669c6068e0749dd3a04249",
-      "title": "Average 30 - year U . S . mortgage rate falls to 6 . 47 %, tracking lower bond yields as Iran war winds down",
-      "summary": "",
-      "link": "https://www.newsday.com/business/mortgages-interest-rates-economy-housing-real-estate-f40510",
-      "source": "GDELT/FED_ECB",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T02:46:57.388553+05:00",
-      "age_min": 62.0
-    },
-    {
-      "hash": "ae8f7171ff441ea7e2f2071881fbbf5b",
-      "title": "Ukraine launches largest attack on Moscow since start of full - scale war",
-      "summary": "",
-      "link": "https://www.cbs58.com/news/ukraine-launches-largest-attack-on-moscow-since-start-of-full-scale-war",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T02:46:16.472036+05:00",
-      "age_min": 61.3
-    },
-    {
       "hash": "66ab86a1d79a1e1f8988304e1fd1c778",
       "title": "This Week Market Wrap : Oil Collapse , Fed Reset , and AI Growing Reach",
       "summary": "",
@@ -120,6 +96,18 @@
       "status": "new",
       "ts": "2026-06-19T06:17:31.602804+05:00",
       "age_min": 47.5
+    },
+    {
+      "hash": "f9686c5d75e2e64776a9531467d45081",
+      "title": "Residents return to war - ravaged southern Lebanon with hope and sorrow after the US - Iran deal",
+      "summary": "",
+      "link": "https://www.newsday.com/news/nation/lebanon-israel-hezbollah-iran-us-deal-o40521",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T06:46:11.457962+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "dd3d2d6dcb92736d13703eb7f016becf",
@@ -192,18 +180,6 @@
       "status": "new",
       "ts": "2026-06-19T03:16:24.242035+05:00",
       "age_min": 106.4
-    },
-    {
-      "hash": "160d65a1e51aa3c12fab2cc73e21db49",
-      "title": "Ukraine Latest : Russia Presses forward on the Front as the War Expands beyond the Battlefield",
-      "summary": "",
-      "link": "https://georgiatoday.ge/ukraine-latest-russia-presses-forward-on-the-front-as-the-war-expands-beyond-the-battlefield/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T02:46:16.472904+05:00",
-      "age_min": 31.3
     },
     {
       "hash": "7bd6dbbed9e5efc3c3a75b34b82b7dbb",
@@ -434,16 +410,28 @@
       "age_min": 12.3
     },
     {
-      "hash": "c480d332ad6e788aa6152f5d032bc208",
-      "title": "Student loan borrowers will get an interest rate cut if they sign up for auto pay",
+      "hash": "001e6dca79ad23ffc311f768e3fb5805",
+      "title": "India's private nuclear energy players warned over rushing into sector",
       "summary": "",
-      "link": "https://www.kmxt.org/2026-06-18/student-loan-borrowers-will-get-an-interest-rate-cut-if-they-sign-up-for-auto-pay",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
+      "link": "https://asia.nikkei.com/business/energy/india-s-private-nuclear-energy-players-warned-over-rushing-into-sector",
+      "source": "Nikkei Asia",
+      "score": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-19T02:46:57.395377+05:00",
-      "age_min": 77.0
+      "ts": "2026-06-19T06:47:24.040956+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "1ab79a485720077d351ca68bd0603734",
+      "title": "Iran - US Negotiations Collapse Before They Begin as Lebanon Strikes Spark Diplomatic Crisis",
+      "summary": "",
+      "link": "https://www.ibtimes.co.uk/iran-halts-us-negotiations-lebanon-strikes-1803651",
+      "source": "GDELT/SUMMITS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T06:47:12.631954+05:00",
+      "age_min": 77.2
     },
     {
       "hash": "30ab43370fab1220fad13e551ea6835b",
@@ -576,6 +564,18 @@
       "status": "new",
       "ts": "2026-06-19T04:22:38.154278+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "a4cf904beae5d257e1f379d7ce49d157",
+      "title": "Bitcoin Price Forecast as Goldman Sachs Predicts September Fed Rate Hikes - MEXC",
+      "summary": "Bitcoin Price Forecast as Goldman Sachs Predicts September Fed Rate Hikes&nbsp;&nbsp;MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9QYklhOHFoNUlSNHhRaEg0dFJQZzJUTUx6VG5rVXJVajFKT1E0Q25jbHhMazV0MW9LWEZ5X0ltVHVNUHgyTVl6bw?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T06:47:57.444894+05:00",
+      "age_min": 50.8
     },
     {
       "hash": "43f68364bf0c674dafe20e7b022cebb5",
