@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T20:48:11.458122+05:00",
+  "updated": "2026-06-19T21:04:19.894548+05:00",
   "items": [
     {
       "hash": "689680a011d3c0e268a71dc51d447a03",
@@ -74,18 +74,6 @@
       "age_min": 46.8
     },
     {
-      "hash": "59f86cb3afe81558439c5cdc4a260ec8",
-      "title": "Medallia’s collapse turns private credit into a private equity problem",
-      "summary": "Private lenders that once fancied themselves as ‘coupon clippers’ had better be prepared to run companies as equity owners",
-      "link": "https://www.ft.com/content/f2add1ea-ed58-4925-8904-340ad1117043",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T17:03:29.732975+05:00",
-      "age_min": 2.1
-    },
-    {
       "hash": "4f810e0e20cc029313884839fcd15058",
       "title": "US and Iran Delay Nuclear Talks as Lebanon Clashes Worsen",
       "summary": "",
@@ -108,6 +96,30 @@
       "status": "new",
       "ts": "2026-06-19T18:03:14.703818+05:00",
       "age_min": 33.2
+    },
+    {
+      "hash": "ef3a5e741c1f4c3a76cdf8a30c48e36b",
+      "title": "The costs of the Iran war : Thousands of lives and billions of dollars",
+      "summary": "",
+      "link": "https://indianexpress.com/article/world/us-iran-war-ends-peace-deal-trump-versailles-costs-oil-prices-10748197/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T21:01:05.517967+05:00",
+      "age_min": 76.1
+    },
+    {
+      "hash": "67cbcbb7fa21fe313e397c56d518932a",
+      "title": "Why Israel war on Iran marks the end of the Benjamin Netanyahu era",
+      "summary": "",
+      "link": "https://www.jpost.com/opinion/article-899671",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T21:01:05.513287+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "da316e94a54b88f5f666d27fe9be79c6",
@@ -242,28 +254,16 @@
       "age_min": 31.4
     },
     {
-      "hash": "f2f42233959aada43bacff3c12a20333",
-      "title": "« Слишком много людей погибает »: на Западе заговорили о завершении конфликта на Украине когда закончится СВО - БлокнотРУ - Когда закончится война на Украине ? Война на Украине . Удары по Украине сегодня . Новости Украины . Война на Украине последни...",
-      "summary": "",
-      "link": "https://bloknot.ru/politika/slishkom-mnogo-lyudej-pogibaet-na-zapade-zagovorili-o-zavershenii-konflikta-na-ukraine-kogda-zakonchitsya-svo-1522238.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "27d727357c9c69cab625e621699f6222",
+      "title": "Ukraine drone strike brings war to streets of Moscow: ‘this is the new reality’",
+      "summary": "In the Moscow district of Maryino on Friday, shopkeeper Andrei Kondratyev braced for more Ukrainian attacks and possible petrol shortages, saying Russians needed to “get used to” a new reality.\nA day earlier, Kyiv set an oil refinery ablaze in the nearby Kapotnya area in its biggest drone attack on Moscow in years, engulfing the Russian capital in smoke.\nSuch scenes were unthinkable when Moscow la",
+      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3357740/ukraine-drone-strike-brings-war-streets-moscow-new-reality?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-19T17:01:13.359013+05:00",
-      "age_min": 31.2
-    },
-    {
-      "hash": "09d9749da65a3563ce29282c7e433433",
-      "title": "« Отказ бить « ядеркой » по Европе - смертельный грех перед Богом »: ядерная война начнется уже в 2027 - м , предсказал Караганов , страшный человек по версии Путина",
-      "summary": "",
-      "link": "https://bloknot.ru/v-mire/otkaz-bit-yaderkoj-po-evrope-smertelnyj-greh-pered-bogom-yadernaya-vojna-nachnetsya-uzhe-v-2027-m-predskazal-karaganov-strashnyj-chelovek-po-versii-putina-1522263.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T17:01:13.358233+05:00",
-      "age_min": 31.2
+      "ts": "2026-06-19T21:03:37.029323+05:00",
+      "age_min": 5.6
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -348,6 +348,18 @@
       "status": "new",
       "ts": "2026-06-19T18:17:33.269792+05:00",
       "age_min": 2.4
+    },
+    {
+      "hash": "2e8b115bbbf4f54c0aacc03b3638df9c",
+      "title": "Goldman Sachs Cuts 2026 Gold Target by $500 to $4 , 900 on No Fed Rate Cuts",
+      "summary": "",
+      "link": "https://www.banklesstimes.com/articles/2026/06/19/goldman-sachs-cuts-2026-gold-target-by-500-to-4900-on-no-fed-rate-cuts/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T21:02:24.300389+05:00",
+      "age_min": 92.4
     },
     {
       "hash": "6b08cae22fb6547fe01a66801c33caae",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-19T19:47:21.252406+05:00",
       "age_min": 107.4
-    },
-    {
-      "hash": "3fe387100729ebb3200fcc99e182f044",
-      "title": "Private credit firms to begin stress - testing against deep global recession",
-      "summary": "",
-      "link": "https://www.lbc.co.uk/article/035842a619804bbc8a3716c8b0683b7e-5Hjdbpn_2/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T18:46:55.205686+05:00",
-      "age_min": 61.9
     }
   ]
 }
