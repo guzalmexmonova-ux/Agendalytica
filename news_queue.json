@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T12:03:44.293181+05:00",
+  "updated": "2026-06-19T12:18:23.738410+05:00",
   "items": [
     {
       "hash": "2a309311770acb075a844a29e4aa1e1e",
@@ -60,18 +60,6 @@
       "status": "new",
       "ts": "2026-06-19T08:32:11.600910+05:00",
       "age_min": 32.2
-    },
-    {
-      "hash": "60eccb3c7a1e2592921d9944a67f3650",
-      "title": "US launches trade investigation into Germany’s spending on new medicines",
-      "summary": "So-called Section 301 probe escalates Washington’s drug pricing war with Europe",
-      "link": "https://www.ft.com/content/ef3e7973-aa6f-454b-8a77-ae48de18aa34",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T08:17:31.213872+05:00",
-      "age_min": 31.8
     },
     {
       "hash": "1b90470ed3ec9298bd438342d5a60fff",
@@ -158,6 +146,18 @@
       "age_min": 46.5
     },
     {
+      "hash": "2e1e9715c772780a459a8e9f788171ac",
+      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
+      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
+      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
+      "source": "Crisis Group",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T12:17:39.918588+05:00",
+      "age_min": 0
+    },
+    {
       "hash": "7489c8598a47f3d0f860e30b2cb8f39d",
       "title": "Markets Stuck on Powell’s Fed as Warsh Builds a New Playbook - Coin Edition",
       "summary": "Markets Stuck on Powell’s Fed as Warsh Builds a New Playbook&nbsp;&nbsp;Coin Edition",
@@ -216,18 +216,6 @@
       "status": "new",
       "ts": "2026-06-19T09:17:46.635391+05:00",
       "age_min": 11.2
-    },
-    {
-      "hash": "f3732275527ecdcd830d235b6bbf2790",
-      "title": "US faces tough path to new Iran nuclear deal",
-      "summary": "",
-      "link": "https://dunyanews.tv/en/World/958049-us-faces-tough-path-to-new-iran-nuclear-deal",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-19T08:16:36.647146+05:00",
-      "age_min": 31.6
     },
     {
       "hash": "7d695041c36de85a966f592ceed8c3eb",
@@ -326,16 +314,52 @@
       "age_min": 17.1
     },
     {
-      "hash": "8d33f9cb986d70448a08dc02b0dae31e",
-      "title": "White House postpones sending Vance to Switzerland for talks with Iran on its nuclear program",
+      "hash": "001e6dca79ad23ffc311f768e3fb5805",
+      "title": "India's private nuclear energy players warned over rushing into sector",
       "summary": "",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/19/white-house-postpones-sending-vance-to-switzerland-for-talks-with-iran-on-its-nuclear-program",
-      "source": "GDELT/SANCTIONS",
+      "link": "https://asia.nikkei.com/business/energy/india-s-private-nuclear-energy-players-warned-over-rushing-into-sector",
+      "source": "Nikkei Asia",
       "score": 9,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-19T08:16:36.652111+05:00",
-      "age_min": 46.6
+      "ts": "2026-06-19T12:17:38.966378+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T12:17:39.918900+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T12:17:39.917801+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "e825217ab2e3a2a7716b8385c5f7c498",
+      "title": "Fed kicks off Warsh era by keeping rates on hold",
+      "summary": "",
+      "link": "http://global.chinadaily.com.cn/a/202606/19/WS6a349b7fa310986e2b460d56.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T12:16:48.331187+05:00",
+      "age_min": 76.8
     },
     {
       "hash": "f6263902ee565e2706111edf5872081e",
@@ -494,16 +518,28 @@
       "age_min": 31.5
     },
     {
-      "hash": "309dcb0b7d793487edd50f16b8d8b10e",
-      "title": "Read the full text of Trump preliminary U . S .- Iran agreement to end the war",
-      "summary": "",
-      "link": "https://www.kccu.org/u-s/2026-06-18/read-the-full-text-of-trumps-preliminary-u-s-iran-agreement-to-end-the-war",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
+      "hash": "8943b7224519c9c8cd124e813d20ce81",
+      "title": "U.S. Rate Hike Concerns and Postponed Talks Weigh on Asian Markets - 아시아경제",
+      "summary": "U.S. Rate Hike Concerns and Postponed Talks Weigh on Asian Markets&nbsp;&nbsp;아시아경제",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1UV3RwU0dYX2RkOGJaanZaR0UwVThFQm9OUFlER3QycEtIX0s2ZWtkeHl1SWxmMGRhMXpQb0h5djFKRXJCUGJUUC1ianp6M05DQXNuOE9ZZGlEWC1PTkJGaXJuZ3k?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-19T08:16:36.651798+05:00",
-      "age_min": 46.6
+      "ts": "2026-06-19T12:18:08.259077+05:00",
+      "age_min": 20.5
+    },
+    {
+      "hash": "638a598c510e939ab60af0b934644d6f",
+      "title": "Oil rebounds as postponed U.S.-Iran talks temper optimism over ceasefire progress",
+      "summary": "With immediate supply fears fading and tanker traffic returning to the Strait of Hormuz, traders are turning their attention back to oil demand and OPEC's outlook for the market.",
+      "link": "https://www.cnbc.com/2026/06/19/oil-prices-wti-brent-crude-us-iran-deal-strait-hormuz-shipping-recovery.html",
+      "source": "CNBC",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-19T12:17:38.827905+05:00",
+      "age_min": 39.4
     },
     {
       "hash": "7d7c25a8ae10e6c2f00d919551603972",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-19T09:03:35.269504+05:00",
       "age_min": 102.6
-    },
-    {
-      "hash": "49f497d48aa470a2dab3a4d68d7a56f8",
-      "title": "Silver Price Forecast: XAG/USD falls to near $70.50 due to Fed rate hike odds - FXStreet",
-      "summary": "Silver Price Forecast: XAG/USD falls to near $70.50 due to Fed rate hike odds&nbsp;&nbsp;FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOejBlc0oxZVIxTnh3SV9iQW5XdUVsN28zYmVWLXF0aVlMSmFZVVlIcnA4LU5ndzlFU18zbHlTMkNONS1EeEZSQWdSLThDVXpJTHJuaHlfdVZJenA0NVBYU05INERfSkxpc3liOXpRZ0VkZTlXZ1ZRXzQyU05faktoUWY5SDRwUjY0d1h5LVBvWjNqVzgxQ092aHVQTE85VEt2V1hTeGJEcWRFWUEyLWxQQ0dsNjBSc0N3?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-19T08:33:30.197735+05:00",
-      "age_min": 20.6
-    },
-    {
-      "hash": "faf71133cfe5a8bebb178206bc4e23d0",
-      "title": "[Live Updates] Today Breaking News, June 19: ‘Black rain’ over Russia’s Moscow after largest Ukrainian attack hits oil refinery - news24online.com",
-      "summary": "[Live Updates] Today Breaking News, June 19: ‘Black rain’ over Russia’s Moscow after largest Ukrainian attack hits oil refinery&nbsp;&nbsp;news24online.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxObDhxdzNhVXlVVHpkdk9ZYmMwUEtzcmFET21icU9WbjJYbzZfbmx3MWtWTTFhXzRxRUxmd25mM2J2NDVJbzdhbFZ2anM5cWRmUjN3Wm11aU5vbHlZMnltNTh2ak1wNmNkSmswUEEzVlB5ZGMzZlgydUhZNTBUT0lrV2pBUXZTZ1lpMWx3bzFYa1NUYmthTmVfeU9uSkFwT0VqbE9NQkV1YThqamRIbkh5QWF3bncwbS1ILWZpWFZRWjZUZHdZaFR4LWYwNDZZNEZkWFNoeDd5UHM2RHhsUjdBVGozSU5PQlBFdy1seWJ2WnkwYkNRZVVtN3VrTVQyUDNDVzF6Y19oV2h0LWo1Sl81dk12eHNTOERhbkM5bGZIaHNDa0JULVZJTHhEX3BjQzgxOWM3Znd0UU02ckdwOFJjWVlYMVFmYUMzRi1JdnA3eHowNkgyV1hxS2s2aFpsd9IB3gJBVV95cUxObDhxdzNhVXlVVHpkdk9ZYmMwUEtzcmFET21icU9WbjJYbzZfbmx3MWtWTTFhXzRxRUxmd25mM2J2NDVJbzdhbFZ2anM5cWRmUjN3Wm11aU5vbHlZMnltNTh2ak1wNmNkSmswUEEzVlB5ZGMzZlgydUhZNTBUT0lrV2pBUXZTZ1lpMWx3bzFYa1NUYmthTmVfeU9uSkFwT0VqbE9NQkV1YThqamRIbkh5QWF3bncwbS1ILWZpWFZRWjZUZHdZaFR4LWYwNDZZNEZkWFNoeDd5UHM2RHhsUjdBVGozSU5PQlBFdy1seWJ2WnkwYkNRZVVtN3VrTVQyUDNDVzF6Y19oV2h0LWo1Sl81dk12eHNTOERhbkM5bGZIaHNDa0JULVZJTHhEX3BjQzgxOWM3Znd0UU02ckdwOFJjWVlYMVFmYUMzRi1JdnA3eHowNkgyV1hxS2s2aFpsdw?oc=5",
-      "source": "GNews/Breaking",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-19T08:18:00.994347+05:00",
-      "age_min": 112.5
-    },
-    {
-      "hash": "28a54374bd8d0dfb3be0fd8e6120838b",
-      "title": "Oil prices fall as supply starts moving through Strait of Hormuz after US - Iran peace deal",
-      "summary": "",
-      "link": "https://www.hindustantimes.com/world-news/oil-prices-fall-as-supply-starts-moving-through-strait-of-hormuz-after-us-iran-peace-deal-101781835107107.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T11:32:18.114501+05:00",
-      "age_min": 47.3
     }
   ]
 }
