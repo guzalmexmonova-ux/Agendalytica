@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T14:04:00.001670+05:00",
+  "updated": "2026-06-19T14:17:58.963006+05:00",
   "items": [
     {
       "hash": "abf7dcd592a60420377e2573b2c960e1",
@@ -98,16 +98,16 @@
       "age_min": 8.7
     },
     {
-      "hash": "67cb0acdaa98553d9d2d0086ef9ae415",
-      "title": "Former Obama Diplomat: US-Iran Deal Favors Tehran",
-      "summary": "Former US Deputy National Security Adviser Mara Rudman says the Iran deal as “uneven,” saying that it does not prevent Tehran from continuing its nuclear enrichment activities. She says the agreement requires a robust inspection mechanism&mdash;something unlikely to be secured within the 60-day negotiation window. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-19/former-obama-diplomat-us-iran-deal-favors-tehran-video",
-      "source": "Bloomberg",
-      "score": 10,
+      "hash": "3b3b0fcb5f3925935d5e2358aaacaa28",
+      "title": "Iran - US war latest : Swiss peace talks abruptly cancelled after Trump boasts of Tehran  unconditional surrender",
+      "summary": "",
+      "link": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deal-strait-of-hormuz-supreme-leader-b2998873.html",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-19T10:17:09.292605+05:00",
-      "age_min": 14.5
+      "ts": "2026-06-19T14:16:09.026074+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "888313753bcb582834b1286959777cfe",
@@ -266,6 +266,18 @@
       "age_min": 29.4
     },
     {
+      "hash": "bb0f4d10f2cea723c464190afe95fb2a",
+      "title": "Goldman Sachs Cuts Gold target by $500 on Fed Rate Cut Delay",
+      "summary": "",
+      "link": "https://cointelegraph.com/news/goldman-sachs-cuts-year-end-gold-target-by-500-doubting-rate-cuts",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T14:16:38.311254+05:00",
+      "age_min": 46.6
+    },
+    {
       "hash": "7676c63bc6755441d39f45f113474353",
       "title": "Hormuz Traffic Thins Friday as Shipowners Err on Side of Safety",
       "summary": "Traffic through the Strait of Hormuz appeared to thin early on Friday, just a day after a burst of oil flows through the waterway as the US and Iran vowed to lift a dual blockade.",
@@ -350,18 +362,6 @@
       "age_min": 32.1
     },
     {
-      "hash": "3be7b87aebe6d1148382211d203a1a24",
-      "title": "Donald Trump made Iran’s stocks great again",
-      "summary": "Not the enriched uranium kind of stocks",
-      "link": "https://www.ft.com/content/ef857abe-d24c-449d-85c8-cf4d8cf9f968",
-      "source": "FT",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T10:17:09.642792+05:00",
-      "age_min": 17.0
-    },
-    {
       "hash": "072b5ace0db846f634e044e7420af441",
       "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
       "summary": "Russia has pledged to carry out frequent and \"massive group strikes\" against Ukraine shortly after Kyiv launched a barrage of drones on Moscow.",
@@ -408,6 +408,18 @@
       "status": "new",
       "ts": "2026-06-19T12:17:38.966378+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "c674ed512c0e462c8b04f3d6d6201664",
+      "title": "Kevin Warsh believes banks are too transparent here what greater secrecy could mean for mortgages and investments",
+      "summary": "",
+      "link": "https://finance.yahoo.com/economy/policy/articles/kevin-warsh-believes-banks-too-210000352.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-19T14:16:38.309526+05:00",
+      "age_min": 46.6
     },
     {
       "hash": "e7cd93ad91e4ee5ae7a1738c83a53c2a",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-19T11:04:02.875654+05:00",
       "age_min": 66.8
-    },
-    {
-      "hash": "e6338a8ca2aac65d38224e1b55779346",
-      "title": "Black Rain  Falls Over Moscow After Ukrainian Drone Strike Hits Oil Refinery 15km From Kremlin",
-      "summary": "",
-      "link": "https://www.ibtimes.co.uk/ukrainian-drone-strike-soot-fallout-moscow-1803681",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T11:01:43.756244+05:00",
-      "age_min": 31.7
     }
   ]
 }
