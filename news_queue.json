@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T02:35:49.897351+05:00",
+  "updated": "2026-06-20T02:47:53.548306+05:00",
   "items": [
     {
       "hash": "b891af9058489e9ab3a31a902e0d6da8",
@@ -50,18 +50,6 @@
       "age_min": 14.6
     },
     {
-      "hash": "7a693466dfab32c1e97356063e48204e",
-      "title": "Ukraine drone strike brings war to streets of Moscow :  this is the new reality",
-      "summary": "",
-      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3357740/ukraine-drone-strike-brings-war-streets-moscow-new-reality",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T22:46:04.323132+05:00",
-      "age_min": 76.1
-    },
-    {
       "hash": "f17503696d144d9fa48e04293a7c1b03",
       "title": "Ukraine - Krieg : Russland fürchtet Krim - Invasion und rüstet auf",
       "summary": "",
@@ -72,6 +60,18 @@
       "status": "new",
       "ts": "2026-06-20T02:16:05.834699+05:00",
       "age_min": 106.1
+    },
+    {
+      "hash": "e8945afd70ea6108e52c588b684306af",
+      "title": "Why Israel war on Iran marks the end of the Benjamin Netanyahu era",
+      "summary": "",
+      "link": "http://www.jpost.com/opinion/article-899671",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T02:45:48.577269+05:00",
+      "age_min": 105.8
     },
     {
       "hash": "94508cb293e7b64e540aada657ac64f8",
@@ -168,18 +168,6 @@
       "status": "new",
       "ts": "2026-06-19T23:03:45.148058+05:00",
       "age_min": 26.5
-    },
-    {
-      "hash": "e523ceae84d5484b2a92c72f51daead3",
-      "title": "EU leaders squabble over outreach to Moscow as Ukraine war rages on",
-      "summary": "",
-      "link": "https://www.naharnet.com/stories/en/320806-eu-leaders-squabble-over-outreach-to-moscow-as-ukraine-war-rages-on",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T22:46:04.319110+05:00",
-      "age_min": 76.1
     },
     {
       "hash": "39649ac66682bfd67103ad8a7b109230",
@@ -314,6 +302,18 @@
       "age_min": 61.6
     },
     {
+      "hash": "efc5a50d8437f0f8f39d1eb02eb89f73",
+      "title": "Scandal diplomatic între Kiev și Varșovia . Lui Zelenski i se retrage cea mai înaltă decorație a Poloniei",
+      "summary": "",
+      "link": "https://hotnews.ro/scandal-diplomatic-intre-kiev-si-varsovia-lui-zelenski-i-se-retrage-cea-mai-inalta-decoratie-a-poloniei-2278820",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T02:45:48.578949+05:00",
+      "age_min": 45.8
+    },
+    {
       "hash": "34cd2438553a488c95b887c7ebed0dbc",
       "title": "EU and NATO Members Grapple with War in Iran",
       "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
@@ -446,18 +446,6 @@
       "age_min": 31.1
     },
     {
-      "hash": "6f713cb5e4db0c900c76d095ee53add3",
-      "title": "Russia Vows  Massive Group Strikes  On Ukraine After Drone Swarm Attack On Refinery",
-      "summary": "",
-      "link": "https://www.zerohedge.com/geopolitical/russia-vows-massive-group-strikes-ukraine-after-drone-swarm-attack-refinery",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-19T22:46:04.320576+05:00",
-      "age_min": 31.1
-    },
-    {
       "hash": "ff0a21cf2feda77dcc82b7e646112b5a",
       "title": "Moscow Refinery Blast May Have Been Caused by Friendly Fire, Video Suggests",
       "summary": "Footage shows a Russian air defense missile traveling toward a fuel silo, which erupts in an explosion around the time of its arrival.",
@@ -468,6 +456,18 @@
       "status": "new",
       "ts": "2026-06-19T23:03:15.571734+05:00",
       "age_min": 6.3
+    },
+    {
+      "hash": "5f7146b413733572b1dcf04297ea0611",
+      "title": "Lebanon ceasefire takes effect as talks are delayed",
+      "summary": "",
+      "link": "https://www.pakistantoday.com.pk/2026/06/20/lebanon-ceasefire-takes-effect-as-switzerland-talks-are-postponed",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T02:45:48.578213+05:00",
+      "age_min": 60.8
     },
     {
       "hash": "a22cc4a14d5a3838a2707e92410d8faf",
