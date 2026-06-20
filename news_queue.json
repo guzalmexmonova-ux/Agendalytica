@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-20T22:04:03.349902+05:00",
+  "updated": "2026-06-20T22:18:13.088816+05:00",
   "items": [
+    {
+      "hash": "344e72be4731fafaec078a85197d1a48",
+      "title": "Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire",
+      "summary": "Setback for Donald Trump’s push to end war with the Islamic republic",
+      "link": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T22:17:27.160890+05:00",
+      "age_min": 120.3
+    },
     {
       "hash": "15d748b27976887944cac718df709361",
       "title": "Iran says Strait of Hormuz will be closed over Israel attacks on Lebanon",
@@ -70,44 +82,8 @@
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-20T22:03:21.849217+05:00",
-      "age_min": 32.7
-    },
-    {
-      "hash": "e68681865a534494d46c0e0e59802c14",
-      "title": "Россия « отказывается » от прекращения огня в Украине , ожидается ли всеевропейская война ?",
-      "summary": "",
-      "link": "https://nt.am/ru/news/355891/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T22:01:32.377326+05:00",
-      "age_min": 106.5
-    },
-    {
-      "hash": "f60b0d791fe248c051f64b79aa0cddc2",
-      "title": "Zelenskiy Backs Lula Peace Initiative as Ukraine Seeks New Diplomatic Path to End War",
-      "summary": "",
-      "link": "http://www.econotimes.com/Zelenskiy-Backs-Lulas-Peace-Initiative-as-Ukraine-Seeks-New-Diplomatic-Path-to-End-War-1744709",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T22:01:32.375586+05:00",
-      "age_min": 76.5
-    },
-    {
-      "hash": "9e300fc16686b1922f38210e0704e277",
-      "title": "Zelensky World War II Dispute Plays Into Putin Hands",
-      "summary": "",
-      "link": "https://www.newsweek.com/zelensky-poland-wwii-dispute-putin-12098853",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T22:01:32.374102+05:00",
-      "age_min": 31.5
+      "ts": "2026-06-20T22:04:05.674347+05:00",
+      "age_min": 33.4
     },
     {
       "hash": "cc1fa355ab27c051ba2ce4cd99f55356",
@@ -158,6 +134,30 @@
       "age_min": 31.1
     },
     {
+      "hash": "2e1e9715c772780a459a8e9f788171ac",
+      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
+      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
+      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
+      "source": "Crisis Group",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T22:17:29.496255+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "7e4b56fa0506c965a959e964ea5f75d5",
+      "title": "Iran reportedly closes Strait of Hormuz again, casting shadow over nuclear talks",
+      "summary": "Iran's joint military command said the closure was in response to continued Israeli military operations in Lebanon.",
+      "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T22:17:28.460098+05:00",
+      "age_min": 11.0
+    },
+    {
       "hash": "f9f9476eb0a222168115fa8e9f499e15",
       "title": "Israel and Hezbollah continue strikes despite ceasefire agreement",
       "summary": "Deaths are reported in southern Lebanon, with the IDF saying it hit Hezbollah targets after the group fired over 50 projectiles at Israeli forces.",
@@ -170,28 +170,40 @@
       "age_min": 83.3
     },
     {
-      "hash": "0f4b9a21852a5eb50142380739077baf",
-      "title": "Warsh gamble : A quieter Federal Reserve could mean volatile markets , higher rates – Sun Sentinel",
-      "summary": "",
-      "link": "https://www.sun-sentinel.com/2026/06/20/warshs-gamble-a-quieter-federal-reserve-could-mean-volatile-markets-higher-rates/",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T22:03:17.737042+05:00",
-      "age_min": 33.3
-    },
-    {
       "hash": "ce57946bb5e4c552946f962f90a8e3d2",
       "title": "Warsh decision to drop forward guidance may actually empower the Fed other policymakers",
       "summary": "",
       "link": "https://fortune.com/2026/06/20/fed-chair-kevin-warsh-forward-guidance-other-policymakers/",
-      "source": "GDELT/MACRO",
+      "source": "GDELT/FED_ECB",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-20T22:03:17.736233+05:00",
-      "age_min": 33.3
+      "ts": "2026-06-20T22:16:49.773487+05:00",
+      "age_min": 46.8
+    },
+    {
+      "hash": "0fe76f60ae63bb08edb4a7391c14a60b",
+      "title": "Warsh gamble : A quieter Federal Reserve could mean volatile markets , higher rates",
+      "summary": "",
+      "link": "https://www.therecord.com/business/warshs-gamble-a-quieter-federal-reserve-could-mean-volatile-markets-higher-rates/article_97c3895c-edd0-51aa-b083-5e8c74ee6373.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T22:16:49.770425+05:00",
+      "age_min": 31.8
+    },
+    {
+      "hash": "c53069dc0e50fdde43cc57ed6ff76f20",
+      "title": "Warsh Declares Fed Independence - The Daily Reckoning",
+      "summary": "",
+      "link": "https://dailyreckoning.com/warsh-declares-fed-independence/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T22:16:49.768438+05:00",
+      "age_min": 46.8
     },
     {
       "hash": "e44ae138359fb15a67971c4a9a9f8890",
@@ -202,8 +214,8 @@
       "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-20T22:03:02.315295+05:00",
-      "age_min": 33.0
+      "ts": "2026-06-20T22:03:53.569520+05:00",
+      "age_min": 33.9
     },
     {
       "hash": "abf8c57422d8b13059c18f09162e2035",
@@ -214,8 +226,20 @@
       "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-20T22:03:02.309430+05:00",
-      "age_min": 63.0
+      "ts": "2026-06-20T22:03:53.564021+05:00",
+      "age_min": 63.9
+    },
+    {
+      "hash": "f60b0d791fe248c051f64b79aa0cddc2",
+      "title": "Zelenskiy Backs Lula Peace Initiative as Ukraine Seeks New Diplomatic Path to End War",
+      "summary": "",
+      "link": "http://www.econotimes.com/Zelenskiy-Backs-Lulas-Peace-Initiative-as-Ukraine-Seeks-New-Diplomatic-Path-to-End-War-1744709",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T22:03:53.562378+05:00",
+      "age_min": 78.9
     },
     {
       "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
@@ -350,6 +374,18 @@
       "age_min": 33.3
     },
     {
+      "hash": "0e5e37153a571e41315654fe2faacbff",
+      "title": "Markets Price In Potential Fed Rate Hike by September 2026 - HOKANEWS.COM",
+      "summary": "Markets Price In Potential Fed Rate Hike by September 2026&nbsp;&nbsp;HOKANEWS.COM",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1nTlM1ckhERk0xd1RfT2dtRmwxa05JQTQ4Z0s5bFdiTU54S0dtUW82WGR1dnhKNHZONWpHb29mODVILWFsSy1xLUhjc1N2WERqZTE3RGFVUnprVUMzc0wwdDlzUy1rY216ZU1XR0NzT2VnbmV1UFpVSC1QX2hUUQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T22:17:57.540811+05:00",
+      "age_min": 8.0
+    },
+    {
       "hash": "10e5dcb36d6839604567c3c36eb99b5a",
       "title": "Bitcoin shrugged off Japan’s rate hike – The bigger liquidity test came from Washington - CryptoSlate",
       "summary": "Bitcoin shrugged off Japan’s rate hike – The bigger liquidity test came from Washington&nbsp;&nbsp;CryptoSlate",
@@ -358,8 +394,8 @@
       "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-20T22:03:48.876200+05:00",
-      "age_min": 48.2
+      "ts": "2026-06-20T22:04:40.625614+05:00",
+      "age_min": 49.1
     },
     {
       "hash": "fc0982baf7ac4ba1b1d6a1c1c21738f9",
@@ -444,30 +480,6 @@
       "status": "new",
       "ts": "2026-06-20T19:03:56.125386+05:00",
       "age_min": 57.7
-    },
-    {
-      "hash": "542bf416340668a8bc03767f31b42f21",
-      "title": "US - Iran talks to begin Sunday in Switzerland but Tehran closes the strait over Lebanon fighting",
-      "summary": "",
-      "link": "https://www.wpxi.com/news/local/iran-closes-strait-hormuz-again-says-its-negotiating-team-with-us-is-heading-switzerland/AGBAN4AV3FCZ5EEF3ZYJCQOJ7U/",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T22:01:47.194377+05:00",
-      "age_min": 61.8
-    },
-    {
-      "hash": "8ec8cf4cfd8835d6fa26055d20d5e75b",
-      "title": "Iran closes Strait of Hormuz again , stalls Switzerland talks with US",
-      "summary": "",
-      "link": "https://www.abc15.com/us-news/iran-war/iran-closes-strait-of-hormuz-again-stalls-switzerland-talks-with-us",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T22:01:47.192048+05:00",
-      "age_min": 46.8
     },
     {
       "hash": "0fce4f229e8c08d2e3200ab9ee08e326",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-20T21:33:33.625491+05:00",
       "age_min": 57.3
-    },
-    {
-      "hash": "811904a7183c1c1d15be50c483200a73",
-      "title": "Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates - Anchorage Daily News",
-      "summary": "Warsh’s gamble: A quieter Federal Reserve could mean volatile markets, higher rates&nbsp;&nbsp;Anchorage Daily News",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPb1VaNGJYQXBxM3ZqWGh4cVZoQU9WV1pmbF92RmNmNXFlcjFhTFhBTjFMT1ZKMzRNSWRIT3BwX0psdHc4STNPRElJSWdiNFA5eE42cnFGMktORl9Nd205STlwWHpGeXlRMFgxeTdISm9qQTlxaUZJLW9QeVNaaGlXV21US1pKdHdvZEwyMlhqSzZHYnlZTnloRXdvYzNzY1Nld29BRjdSZVdwUzBjSDNPV3F1ZFplUE1PU05JU2VXaUVzdW8?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-20T21:33:33.624874+05:00",
-      "age_min": 17.4
     }
   ]
 }
