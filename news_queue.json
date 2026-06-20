@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T02:47:59.747833+05:00",
+  "updated": "2026-06-21T03:03:50.391887+05:00",
   "items": [
     {
       "hash": "10966903f7d7c9131ba5bb5958fa1114",
@@ -86,6 +86,30 @@
       "age_min": 19.3
     },
     {
+      "hash": "07866d2222d8fc7aff63bf47e4750b4c",
+      "title": "Путин вече не може да скрие катастрофалните разходи за провалената си война",
+      "summary": "",
+      "link": "https://www.dnes.bg/a/581-voynata-v-ukrayna/725617-putin-veche-ne-mozhe-da-skrie-katastrofalnite-razhodi-za-provalenata-si-voyna",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T03:01:24.300619+05:00",
+      "age_min": 61.4
+    },
+    {
+      "hash": "c34376e674c7764adb006655bf8721e5",
+      "title": "Пушков объяснил , почему война орденов между Польшей и Украиной является символической",
+      "summary": "",
+      "link": "https://news.mail.ru/svo/71342823/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T03:01:24.300029+05:00",
+      "age_min": 31.4
+    },
+    {
       "hash": "5758e6da0ff6b609c6e4e23aaee8296f",
       "title": "Congress wonders as the Iran war draws to a close : Was it worth it ?",
       "summary": "",
@@ -168,6 +192,18 @@
       "status": "new",
       "ts": "2026-06-21T01:03:52.648760+05:00",
       "age_min": 7.5
+    },
+    {
+      "hash": "ce23111e48cadd2e505eb78257cddf03",
+      "title": "Trump and Meloni trade barbs as war of words heats up",
+      "summary": "",
+      "link": "https://torontosun.com/opinion/columnists/donald-trump-giorgia-meloni-war-of-words-heats-up",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-21T03:02:52.962994+05:00",
+      "age_min": 32.9
     },
     {
       "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
@@ -422,6 +458,18 @@
       "age_min": 57.5
     },
     {
+      "hash": "78648351c31618dec75998e59e0b7a10",
+      "title": "Iran says Strait of Hormuz shut as U . S .- Iran talks set for Sunday in Switzerland",
+      "summary": "",
+      "link": "https://www.apr.org/2026-06-20/iran-says-strait-of-hormuz-shut-as-u-s-iran-talks-set-for-sunday-in-switzerland",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T03:01:40.088693+05:00",
+      "age_min": 31.7
+    },
+    {
       "hash": "f96f2e2ffc880595758f8edafedc09a5",
       "title": "Iran says Strait of Hormuz shut as U . S .- Iran talks set for Sunday in Switzerland",
       "summary": "",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-21T01:18:37.208703+05:00",
       "age_min": 78.6
-    },
-    {
-      "hash": "e347d0c2b7e1cc8cb73cf7dbcf815c82",
-      "title": "Umstrittene Pläne für Lithium - Abbau im Erzgebirge",
-      "summary": "",
-      "link": "https://www.tagesschau.de/wirtschaft/energie/lithium-tschechien-erzgebirge-100.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T01:18:37.204561+05:00",
-      "age_min": 93.6
-    },
-    {
-      "hash": "aeb4098b20f1d20d525768368a7f7c3e",
-      "title": "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.' - MSN",
-      "summary": "Warsh Fed holds rates steady. Trump says 'It's all right. Whatever.'&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbkk0Yy10cHNDeXdTMVdKaUR4VUtBQUJJNmpuZDV2ZW9IYllUeGRxaVB6VS1hSENuM1ZpSldZVm1XVGw4TkZ0aXIySzdDSTFHOFlqN3psWDN1SmtjRThkaWM4RHBBN0NsVUlxM1NNcmFtOERLckRsalNYczA5dTVWZk92aE9VQWZGVk8zTUhNRndHRHFIejlVWEpEWHJEblhGWHlzUFZLeUdVMEp4WUZlUTJwa24?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T02:47:41.995387+05:00",
-      "age_min": 102.7
-    },
-    {
-      "hash": "7633157c346bc5f01d23480272bce0de",
-      "title": "Ukraine says Russian attack kills five people in Zaporizhzhia",
-      "summary": "During nightly address, Ukrainian President Volodymyr Zelenskyy warns that Russia is preparing for &#039;massive&#039; attack.",
-      "link": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T02:47:12.373283+05:00",
-      "age_min": 135.3
-    },
-    {
-      "hash": "1900c13d5c8a7db3b3d92078afd69c11",
-      "title": "Warsh holds rates steady as Polymarket lifts July no-change odds to 74.5% - blockchain.news",
-      "summary": "Warsh holds rates steady as Polymarket lifts July no-change odds to 74.5%&nbsp;&nbsp;blockchain.news",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaGUxZ2w3VkVaX0RKTTdORHYtRloyRmNrZ1BzZU5UVGJzUHU5Qnc0bko4UDhlNzNFM3R6U29Mc09OVkFiX3Z2bktlY2UyYmlnSVZkd0lhVkhqZUV5OXpEZ2V6R3NwYUlrN2psZmFWekFVQXBBTDNicEVQRVV2OEI3VllTYl9PUXpOeHVSNE9qM1lxQ2hHR211NGpoLUQzOHJuTTRuVnh3SVJTVVY4M2xQNThDZlg?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T02:33:41.661907+05:00",
-      "age_min": 14.0
     }
   ]
 }
