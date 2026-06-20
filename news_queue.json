@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T06:04:10.719485+05:00",
+  "updated": "2026-06-20T06:17:40.999874+05:00",
   "items": [
     {
       "hash": "e7f79220d597ccc8376e08c242cb18e4",
@@ -60,18 +60,6 @@
       "status": "new",
       "ts": "2026-06-20T03:02:32.061643+05:00",
       "age_min": 32.5
-    },
-    {
-      "hash": "f17503696d144d9fa48e04293a7c1b03",
-      "title": "Ukraine - Krieg : Russland fürchtet Krim - Invasion und rüstet auf",
-      "summary": "",
-      "link": "http://www.merkur.de/politik/krim-ukraine-krieg-russland-sieht-wachsende-landungsgefahr-auf-der-94359204.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T02:16:05.834699+05:00",
-      "age_min": 106.1
     },
     {
       "hash": "fc577c786f790c6e99e59dfb9d10fec7",
@@ -146,6 +134,18 @@
       "age_min": 105.8
     },
     {
+      "hash": "786c3be6a860dda08c00a7313b46206a",
+      "title": "Lebanon Emerges as Weak Link in U.S.-Iran Deal to End War",
+      "summary": "The conflict between Israel and Hezbollah, once seen as a secondary front to the American-Israeli war on Iran, has become one of the main obstacles to ending it.",
+      "link": "https://www.nytimes.com/2026/06/19/world/middleeast/lebanon-us-iran-deal-ceasefire.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T06:17:14.398547+05:00",
+      "age_min": 165.6
+    },
+    {
       "hash": "631a321b623028fdee2cee962321f72d",
       "title": "Nata alleges assassination plots during 2000 coup",
       "summary": "",
@@ -204,6 +204,18 @@
       "status": "new",
       "ts": "2026-06-20T02:32:59.425375+05:00",
       "age_min": 22.1
+    },
+    {
+      "hash": "610037a181c349a83a9effe3cf73e6e6",
+      "title": "На Украине допустили вторжение Зеленского в Белоруссию",
+      "summary": "",
+      "link": "https://lenta.ru/news/2026/06/20/na-ukraine-dopustili-vtorzhenie-zelenskogo-v-belorussiyu/",
+      "source": "Lenta.ru",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T06:17:18.178509+05:00",
+      "age_min": 10.3
     },
     {
       "hash": "e4a69094a08569f7650b51910a22b94f",
@@ -288,42 +300,6 @@
       "status": "new",
       "ts": "2026-06-20T02:45:48.578949+05:00",
       "age_min": 45.8
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-20T02:17:27.226531+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "fc44219512ed5641b779a58ed0b217c6",
-      "title": "Warsh is shaking things up at the Fed",
-      "summary": "",
-      "link": "https://www.proactiveinvestors.com/companies/news/1094206/warsh-is-shaking-things-up-at-the-fed-1094206.html",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T02:17:19.323655+05:00",
-      "age_min": 32.3
-    },
-    {
-      "hash": "e3c026bd023a947b04a61c87826bec76",
-      "title": "Investors brace for less predictable Fed as Warsh rewrites playbook",
-      "summary": "",
-      "link": "https://www.zawya.com/en/news/insights/investors-brace-for-less-predictable-fed-as-warsh-rewrites-playbook-ectno59x",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T02:17:19.320500+05:00",
-      "age_min": 32.3
     },
     {
       "hash": "3fdf4d981d6f2c8f5d63f9193d1f05ce",
@@ -540,6 +516,18 @@
       "status": "new",
       "ts": "2026-06-20T02:45:48.578213+05:00",
       "age_min": 60.8
+    },
+    {
+      "hash": "51848bbe765b4e5ca3090d5473b63f0c",
+      "title": "Fed’s Warsh Scraps Forward Guidance in New Policy Approach - Whalesbook",
+      "summary": "Fed’s Warsh Scraps Forward Guidance in New Policy Approach&nbsp;&nbsp;Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHU1Qk1PdERCUFFPd0VNblNXWExuMWV1a2JhNkdSeVJ1MC03V21wbWRPTVA3aUZFR3dGeDhFTnhSanNHU3pGdDgxdlh6eF9NcmtpcVB6Y2puNzVJanlabGdZTmdVUi1uZVRUdE5hM2JEQUs0eFZWRURjV0syT3pwXzdIdHdwVHFPMkRIbXNVZnQ0RXBpYnkySmRNNi1LMm1mdzdJejFiV0dOVWFjMDFLV1FGMVc1MFg4R0xrMUdXRy05RkN2d3RnZzFR?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-20T06:17:27.219853+05:00",
+      "age_min": 11.3
     },
     {
       "hash": "bb9a7b76bf33b9836e2ac1220366c029",
