@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T14:18:18.799069+05:00",
+  "updated": "2026-06-20T14:33:24.631490+05:00",
   "items": [
     {
       "hash": "6511776972f685e41453315a64c73968",
@@ -14,16 +14,28 @@
       "age_min": 90.9
     },
     {
-      "hash": "d5559864cc9cde5c2dfc2d0c26201cd8",
-      "title": "На Украине допустили , что Зеленский планирует вторжение ВСУ в Белоруссию",
+      "hash": "9b35d4986d2f919c23eb3bd56b5458ea",
+      "title": "Gulf airlines get back to business as flights near pre - war levels",
       "summary": "",
-      "link": "https://vm.ru/news/1336168-na-ukraine-dopustili-chto-zelenskij-planiruet-vtorzhenie-vsu-v-belorussiyu",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 9,
+      "link": "https://finance.yahoo.com/economy/articles/gulf-airlines-back-business-flights-050241025.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-20T10:31:25.225912+05:00",
-      "age_min": 61.4
+      "ts": "2026-06-20T14:30:53.106086+05:00",
+      "age_min": 60.9
+    },
+    {
+      "hash": "547a75b5608ad26c2a71541ac21f49dc",
+      "title": "Bill Press : Trump war is over . Iran won – Daily Freeman",
+      "summary": "",
+      "link": "https://www.dailyfreeman.com/2026/06/20/bill-press-trumps-war-is-over-iran-won/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-20T14:30:53.105779+05:00",
+      "age_min": 45.9
     },
     {
       "hash": "622e8371f8780cb937e17dd4e55a2a02",
@@ -84,18 +96,6 @@
       "status": "new",
       "ts": "2026-06-20T13:01:24.274758+05:00",
       "age_min": 31.4
-    },
-    {
-      "hash": "ccb2f49954c0cb081c272549ffeb8e43",
-      "title": "Ukraine war briefing : Zelenskyy to Belarus – remove Russian relay stations or  well do it  | Russia",
-      "summary": "",
-      "link": "https://www.theguardian.com/world/2026/jun/20/ukraine-war-briefing-zelenskyy-to-belarus-remove-russian-relay-stations-or-well-do-it",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T10:31:25.222996+05:00",
-      "age_min": 61.4
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -168,18 +168,6 @@
       "status": "new",
       "ts": "2026-06-20T11:47:16.324634+05:00",
       "age_min": 48.5
-    },
-    {
-      "hash": "f2c5ce1e75332558baffe5f7151ac7a2",
-      "title": "Ships Can Use Hormuz Southern Route With Signals On, JMIC Says",
-      "summary": "Ships can consider transiting the Strait of Hormuz along the southern route, day or night, with their transponder signals on, a key naval information group has said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-20/ships-can-use-hormuz-southern-route-with-signals-on-jmic-says",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T10:33:01.656555+05:00",
-      "age_min": 66.7
     },
     {
       "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
@@ -264,42 +252,6 @@
       "status": "new",
       "ts": "2026-06-20T10:47:05.447063+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "5830f1cb68d15e1a65ecbdc9c11cded0",
-      "title": "The window for peace in Ukraine won’t be open forever",
-      "summary": "There is an opportunity to freeze the conflict, but Putin’s fantasy of total victory could get in the way",
-      "link": "https://www.ft.com/content/7b1ff72b-5a67-46b9-81c6-9e3855b99a34",
-      "source": "FT",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T10:33:02.039111+05:00",
-      "age_min": 92.4
-    },
-    {
-      "hash": "3248de90c23c6cd4f6b73670f28a81c4",
-      "title": "Europe’s stocks offer a peace dividend their US peers can’t match",
-      "summary": "European companies have more to gain by way of recovery if energy shortages caused by the Iran conflict ease",
-      "link": "https://www.ft.com/content/13deea29-7603-4c6a-bbf1-1beb57f1d149",
-      "source": "FT",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T10:33:02.036957+05:00",
-      "age_min": 92.3
-    },
-    {
-      "hash": "37a27a2098c79aa02359f52dbd1c205f",
-      "title": "తమ్ముడి మరణాన్ని తట్టుకోలేక .. అన్నకు గుండెపోటు | Hyderabad Tragedy Elder Brother Dies of Heart Attack Hours After Younger Brothers Death",
-      "summary": "",
-      "link": "https://www.andhrajyothy.com/2026/crime/hyderabad-tragedy-elder-brother-dies-of-heart-attack-hours-after-younger-brothers-death-1534496.html",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-20T10:31:06.402270+05:00",
-      "age_min": 61.1
     },
     {
       "hash": "979ac30fc2dccc074cae09499516e107",
