@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-21T17:33:43.317769+05:00",
+  "updated": "2026-06-21T17:48:05.961002+05:00",
   "items": [
+    {
+      "hash": "3719fd88eee4dae7a3883281bdd89604",
+      "title": "War in Lebanon casts shadow over renewed Iran - US nuclear talks",
+      "summary": "",
+      "link": "https://www.livemint.com/global/war-in-lebanon-casts-shadow-over-renewed-iran-us-nuclear-talks-11782039844557.html",
+      "source": "GDELT/MIDEAST",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T17:46:10.873399+05:00",
+      "age_min": 31.2
+    },
     {
       "hash": "212906c5864af497e0f28892754a5204",
       "title": "Vance arrives in Switzerland for crunch US-Iran talks",
@@ -98,6 +110,18 @@
       "age_min": 31.0
     },
     {
+      "hash": "62b54c0207b9388a1ce7df4c1fd8b877",
+      "title": "Fuel Shortages in Russia Amid Ukraine Drone Attacks",
+      "summary": "Over 50 regions in Russia are currently experiencing severe fuel shortages. These shortages are attributed to long-range sanctions and targeted Ukrainian drone strikes on Russian oil refineries and ports, which have significantly reduced Russia's refining capacity by 20-30%. Bloomberg News Senior Writer Stephanie Baker joins Bloomberg This Weekend to discuss the situation the world's second-larges",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-21/fuel-shortages-in-russia-amid-ukraine-drone-attacks-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T17:47:25.712204+05:00",
+      "age_min": 17.9
+    },
+    {
       "hash": "e98b47d7d5e8e29d4a47d84e7bcb84a2",
       "title": "Stop  Greater Israel  to make peace | US - Israel war on Iran",
       "summary": "",
@@ -168,30 +192,6 @@
       "status": "new",
       "ts": "2026-06-21T16:15:48.069236+05:00",
       "age_min": 75.8
-    },
-    {
-      "hash": "f3f1df4cf76c7e48b775706f54d01dca",
-      "title": "Australian economy : Supermarkets and oil refiners made bank during the war in Iran but travel companies suffered .",
-      "summary": "",
-      "link": "https://www.smh.com.au/business/companies/these-businesses-made-a-buck-from-the-war-others-are-set-to-get-a-boost-20260616-p6077k.html",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T13:46:49.725388+05:00",
-      "age_min": 76.8
-    },
-    {
-      "hash": "4638068133240f69cfde135dd3e3cf3d",
-      "title": "Война ордеров : поляки в ярости от поступка Зеленского и требуют танки назад",
-      "summary": "",
-      "link": "https://aif.ru/politics/voyna-orderov-polyaki-v-yarosti-ot-postupka-zelenskogo-i-trebuyut-tanki-nazad",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T13:45:45.864816+05:00",
-      "age_min": 45.8
     },
     {
       "hash": "24c64afdaeb3be82f682bcef9c0cb87c",
@@ -278,18 +278,6 @@
       "age_min": 15.7
     },
     {
-      "hash": "19df7dce12c343e8009aea6e73ded65c",
-      "title": "U.S. and Iranian Officials to Meet for Peace Talks in Switzerland",
-      "summary": "The next phase of talks to end the war in Iran is expected to begin on Sunday amid fighting in Lebanon and renewed confusion over the Strait of Hormuz.",
-      "link": "https://www.nytimes.com/2026/06/20/world/middleeast/iran-peace-talks-switzerland.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T13:47:18.369469+05:00",
-      "age_min": 115.7
-    },
-    {
       "hash": "45f458f8c552fbe20352f5e62e460ef5",
       "title": "Goldman Sachs Cuts Gold Price Forecast to $4 , 900 on Fed Rate Hike Expectations – NaturalNews . com",
       "summary": "",
@@ -360,6 +348,18 @@
       "status": "new",
       "ts": "2026-06-21T15:23:08.575552+05:00",
       "age_min": 83.1
+    },
+    {
+      "hash": "f5facab7e51358f0382f9f27c4c32707",
+      "title": "Fed Got a New Chair . What Changing at the Central Bank Under Warsh",
+      "summary": "",
+      "link": "https://www.moneytalksnews.com/fed-got-a-new-chair-whats-changing-at-the-central-bank-under-warsh/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T17:46:43.733198+05:00",
+      "age_min": 31.7
     },
     {
       "hash": "7ca13c880f79314104448042f5b340de",
@@ -542,40 +542,28 @@
       "age_min": 106.4
     },
     {
-      "hash": "43c936f3b38dc99602be8aae01017b4f",
-      "title": "Just yesterday, Russian guided aerial bomb strikes on Zaporizhzhia killed 5 people and injured 26 others. In Poltava, tragically, 2 people were killed and 12 were injured as a result of the shelling, including 6 children. My condolences to their families and loved ones. The Dnipro, Kharkiv, Odesa, Sumy, Donetsk, Kirovohrad, and Rivne regions also came under attack. Our frontline and border communities are constantly targeted by drones. In total, this week alone, the Russians launched about 2,200 attack drones, more than 1,800 guided aerial bombs, and 87 missiles of various types against Ukraine. It truly matters that, against the backdrop of these attacks, the G7 and European Council summits and the UDCG meeting delivered results and secured new contributions to strengthen our defense. I am grateful to our partners for their unity. It is now equally important to implement everything quickly, above all the delivery of air defense missiles, so that these new contributions provide real protection for lives from constant Russian strikes. Thank you to everyone who is helping.",
-      "summary": "Just yesterday, Russian guided aerial bomb strikes on Zaporizhzhia killed 5 people and injured 26 others. In Poltava, tragically, 2 people were killed and 12 were injured as a result of the shelling, including 6 children. My condolences to their families and loved ones. \n\nThe Dnipro, Kharkiv, Odesa, Sumy, Donetsk, Kirovohrad, and Rivne regions also came under attack. Our frontline and border commu",
-      "link": "https://nitter.net/ZelenskyyUa/status/2068610805256401295#m",
-      "source": "Zelensky/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T13:47:46.889207+05:00",
-      "age_min": 24.1
-    },
-    {
-      "hash": "3b0a446a5cb75890d26afed93a0003ef",
-      "title": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
-      "summary": "Live Updates: War returns to Iran with Israel, US strikes&nbsp;&nbsp;Dawn",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-      "source": "GNews/Breaking",
-      "score": 8,
+      "hash": "871a1eedde5bee9ad31eb8ae14cc4f8d",
+      "title": "Gold's $500 Forecast Cut: Goldman Sachs Sees Headwinds as Rate Hike Bets Mount - InteractiveCrypto",
+      "summary": "Gold's $500 Forecast Cut: Goldman Sachs Sees Headwinds as Rate Hike Bets Mount&nbsp;&nbsp;InteractiveCrypto",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORC1aX21xa3hvRk1POE5tYVR5MG9QRENrNDI3amNQLW54QTFwbjZFYzV3YTVFR01VaHRVWFpoclB6M182bVdGZzZXbDM0cnNzblJLcWxqSWZ3U1U4dndDeFlfYmRIODdGVk9UYzNmSkxrMEhYS3V2YklDWkJER0szcnJOd3J3VHpwYnMxTDJsdHpxdk1lVW9GRnhnSHUxMm5Demt2d2JraEFIdjQyRGJ4bVNmd19NYW9vRUJN?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-21T13:47:44.137938+05:00",
-      "age_min": 54.9
+      "ts": "2026-06-21T17:47:51.746673+05:00",
+      "age_min": 4.9
     },
     {
-      "hash": "e63abae20d067ea3b10d167dd628e58e",
-      "title": "Warsh brings a skinny Fed approach to a complex , information - hungry world",
-      "summary": "",
-      "link": "https://www.thedailystar.net/business/news/warsh-brings-skinny-fed-approach-complex-information-hungry-world-4204131",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
+      "hash": "37600b0193cf78282013a97d09f64dcb",
+      "title": "Iran, US claims conflict over Hormuz as 3 Indian crude tankers emerge",
+      "summary": "Three fully laden India-linked supertankers have re-emerged in the Gulf of Oman, adding to increased reports of traffic moving both ways across the northern and southern routes of the Strait of Hormuz, while conflicting narratives over the status of transits persist.\nThe Desh Vibhor, Desh Vaibhav and Sanmar Herald were observed in the Gulf of Oman and the Arabian Sea on Sunday, after having been l",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3357824/iran-us-claims-conflict-over-hormuz-three-indian-crude-tankers-emerge?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-21T13:46:39.984872+05:00",
-      "age_min": 31.7
+      "ts": "2026-06-21T17:47:27.628207+05:00",
+      "age_min": 222.7
     },
     {
       "hash": "093097bfe899d421793d19cbb3ca53ac",
@@ -600,6 +588,18 @@
       "status": "new",
       "ts": "2026-06-21T16:32:58.779170+05:00",
       "age_min": 13.5
+    },
+    {
+      "hash": "62a84f07aaeb1698e7f5af8d2d8a94da",
+      "title": "Israel - Hezbollah fighting resumes despite latest ceasefire , putting US - Iran deal under fresh strain",
+      "summary": "",
+      "link": "https://www.moneycontrol.com/world/israel-hezbollah-fighting-resumes-despite-latest-ceasefire-putting-us-iran-deal-under-fresh-strain-article-13954959.html",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T17:46:10.873777+05:00",
+      "age_min": 106.2
     }
   ]
 }
