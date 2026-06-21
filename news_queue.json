@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T23:18:54.408700+05:00",
+  "updated": "2026-06-21T23:33:57.398343+05:00",
   "items": [
     {
       "hash": "8894ca95a16388422c00907b847ac61c",
@@ -350,6 +350,42 @@
       "age_min": 22.0
     },
     {
+      "hash": "4cb5bc8e0bdaa9a80d6ad74a5bc45d2c",
+      "title": "Война в Украине – Путин до сих пор публично молчит об ударе по Москве",
+      "summary": "",
+      "link": "https://www.unian.net/world/voyna-v-ukraine-putin-do-sih-por-publichno-molchit-ob-udare-po-moskve-13418673.html",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-21T23:32:00.469515+05:00",
+      "age_min": 92.0
+    },
+    {
+      "hash": "43268400fed47ad803e490d205198686",
+      "title": "В Польше прокомментировали скандал с Украиной",
+      "summary": "",
+      "link": "https://lenta.ru/news/2026/06/21/v-polshe-prokommentirovali-skandal-s-ukrainoy/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T23:31:22.972065+05:00",
+      "age_min": 76.4
+    },
+    {
+      "hash": "71f7c813e556cfc6eafa5ee4c6acd258",
+      "title": "Скандал із Польщею , удари по Криму , ультиматум Лукашенку . Стрим Голованова з Гордоном . Трансляція",
+      "summary": "",
+      "link": "https://gordonua.com/ukr/section-politics/news-skandal-iz-polshcheyu-udary-po-krymu-ultymatum-lukashenku-strym-holovanova-z-hordonom-translyatsiya-21-06-2026.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T23:31:22.966356+05:00",
+      "age_min": 46.4
+    },
+    {
       "hash": "86d72df2e8a318dc827a46148190d020",
       "title": "Sunday Summary : No Surprises at Kevin Warsh First Fed Meeting – Commercial Observer",
       "summary": "",
@@ -482,30 +518,6 @@
       "age_min": 28.1
     },
     {
-      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
-      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
-      "summary": "",
-      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T19:32:55.638182+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T19:32:55.637097+05:00",
-      "age_min": 0
-    },
-    {
       "hash": "843f6acfe44faffa7fb80ca11b60df9c",
       "title": "Uncertainty Remains Over the Strait of Hormuz",
       "summary": "The United States and Iranian militaries have offered conflicting accounts over whether the crucial waterway is open.",
@@ -542,6 +554,42 @@
       "age_min": 60.9
     },
     {
+      "hash": "d0552c6c16b15fa2ce2997e9e76d0fa1",
+      "title": "Названа причина роста атак беспилотников со стороны Украины",
+      "summary": "",
+      "link": "https://lenta.ru/news/2026/06/21/nazvana-prichina-rosta-atak-bespilotnikov-so-storony-ukrainy/",
+      "source": "Lenta.ru",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-21T23:33:07.683241+05:00",
+      "age_min": 98.1
+    },
+    {
+      "hash": "5151a656ed0e46f3be4ea06fcaba9896",
+      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
+      "summary": "The viral &#039;Cockroach&#039; movement&#039;s supporters occupy New Delhi&#039;s protest site, refusing to leave until minister resigns.",
+      "link": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-21T23:33:03.302670+05:00",
+      "age_min": 115.2
+    },
+    {
+      "hash": "5ae9de7ad7086c533c4c46e0bba05980",
+      "title": "Anthropic export ban shows need for AI regulation , experts say",
+      "summary": "",
+      "link": "https://www.cnn.com/2026/06/21/tech/anthropic-ai-regulation",
+      "source": "GDELT/SANCTIONS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-21T23:32:00.467900+05:00",
+      "age_min": 77.0
+    },
+    {
       "hash": "078e22259fd8e22debd82984c5d0c3d3",
       "title": "Warsh hints at quieter Fed as Polymarket keeps SpaceX 86.5% for top 2026 IPO - blockchain.news",
       "summary": "Warsh hints at quieter Fed as Polymarket keeps SpaceX 86.5% for top 2026 IPO&nbsp;&nbsp;blockchain.news",
@@ -552,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-21T23:10:26.778412+05:00",
       "age_min": 37.1
-    },
-    {
-      "hash": "4c9f2c19e82e7a45e3e524ada6d4cf8a",
-      "title": "Warsh drops forward guidance as Polymarket pegs 2026 zero cuts at 79.85% - blockchain.news",
-      "summary": "Warsh drops forward guidance as Polymarket pegs 2026 zero cuts at 79.85%&nbsp;&nbsp;blockchain.news",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRGc3bm5zR2RoNGVhZkZuOUkyUVRLNlY4TkFKS01OSTdDNnh5LTdPZDBTQmNxcGZzWDMxNHpScHVndGozMFBDUWhmb0cxOGg5b1BKeWdpYXBNUVpwTG9NaHYxaGx4OFA0LV9nRjVTUVZkSUtfQ0xOTDE3Z09XS1NRTDFXZFByZ2FpLURMR1ZwUEU4RlRUMHJtcmMxaWtZMWk4Sm9PT1J2UkNyaWtYdVdjcGkwMA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T23:10:26.777309+05:00",
-      "age_min": 37.1
-    },
-    {
-      "hash": "e8c4f68eefca455f53997ae158849905",
-      "title": "Warsh Fed to Liberate Gold? - GoldSeek",
-      "summary": "Warsh Fed to Liberate Gold?&nbsp;&nbsp;GoldSeek",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwdWNqOG5Ic0FTX1JPZzB0SHhMWXVvQkY5YmUyQ3ZCUDhfZEJ4cFJtN1N0RmJEdHNSTDBaTE9WWVFtNU1pUmptYnB1bU04MU1aZFVzLTItd0Q5RFN6Z1VuQWR3?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T22:47:48.030712+05:00",
-      "age_min": 14.8
     }
   ]
 }
