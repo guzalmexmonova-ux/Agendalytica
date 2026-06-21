@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T16:33:54.652382+05:00",
+  "updated": "2026-06-21T16:48:29.155933+05:00",
   "items": [
     {
       "hash": "b2e96ffd40f420e152a89de309b0649a",
@@ -24,18 +24,6 @@
       "status": "new",
       "ts": "2026-06-21T13:15:49.163958+05:00",
       "age_min": 30.8
-    },
-    {
-      "hash": "212906c5864af497e0f28892754a5204",
-      "title": "Vance arrives in Switzerland for crunch US-Iran talks",
-      "summary": "Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon",
-      "link": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T12:47:34.798675+05:00",
-      "age_min": 16.3
     },
     {
       "hash": "2f684a1039ddfa683ce4f580a3262b33",
@@ -72,6 +60,42 @@
       "status": "new",
       "ts": "2026-06-21T14:30:59.162889+05:00",
       "age_min": 31.0
+    },
+    {
+      "hash": "f7abf8ae787160fe484c9e18d0649d3e",
+      "title": "Zelensky Urges Belarus to Prove Anti - War Stance",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/78631",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T16:46:06.488346+05:00",
+      "age_min": 46.1
+    },
+    {
+      "hash": "a6f80f4c39cdf168c25edbbcb0a147eb",
+      "title": "Война дронов душит военную машину Путина в Украине – FT",
+      "summary": "",
+      "link": "https://war.obozrevatel.com/ukraina-dushit-voennuyu-mashinu-putina-ft.htm",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T16:46:06.485513+05:00",
+      "age_min": 31.1
+    },
+    {
+      "hash": "57ed7744da8161c8601cfeb1af3d9ec5",
+      "title": "Ukraine War , Day 1 , 579 : Trump Administration Insults of  Little F ***** Zelensky",
+      "summary": "",
+      "link": "https://eaworldview.com/2026/06/ukraine-war-zelensky-trump-administrations-insults/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T16:46:06.481679+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "3bf3931fa23390149eefada190479b08",
@@ -218,6 +242,18 @@
       "age_min": 77.1
     },
     {
+      "hash": "9a76525a7cbacb7b4261ed40257341d0",
+      "title": "❗️Иран не откроет Ормузский пролив, пока не будет установлено перемирие в Ливане и не будут с [...]",
+      "summary": "❗️Иран не откроет Ормузский пролив, пока не будет установлено перемирие в Ливане и не будут сняты ограничения на продажу иранской нефти, сообщает агентство Tasnim.",
+      "link": "https://t.me/bbbreaking/231899",
+      "source": "TG/Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T16:47:55.969837+05:00",
+      "age_min": 0.9
+    },
+    {
       "hash": "b96e4809c642e9ec4277e751447fc1d0",
       "title": "Student loan borrowers can get a 1 % interest rate cut with one simple change",
       "summary": "",
@@ -240,18 +276,6 @@
       "status": "new",
       "ts": "2026-06-21T16:15:48.068490+05:00",
       "age_min": 75.8
-    },
-    {
-      "hash": "5aef71fe2742d0f0dfdf722b1ac20fc8",
-      "title": "Three Indian Tankers Reemerge, Pointing to Hormuz Traffic Uptick",
-      "summary": "Three fully laden India-linked supertankers have re-emerged in the Gulf of Oman, adding to increased observed bi-directional traffic across the northern and southern routes of the Strait of Hormuz even as conflicting narratives over the status of transits persist.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/three-indian-tankers-reemerge-pointing-to-hormuz-traffic-uptick",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T12:47:34.348485+05:00",
-      "age_min": 22.3
     },
     {
       "hash": "821f00917dd43147efe0470828a1de7d",
@@ -506,16 +530,28 @@
       "age_min": 15.8
     },
     {
-      "hash": "a21fe16390ee594a3798477d8b07faf7",
-      "title": "Taiwan China Conflict News: Chinese Military Vessels Resurface in Strait of Taiwan Despite Repeated Warnings - The Sunday Guardian",
-      "summary": "Taiwan China Conflict News: Chinese Military Vessels Resurface in Strait of Taiwan Despite Repeated Warnings&nbsp;&nbsp;The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZUprdHoxWkYwOEZqWENhNjZzRUZWT1pOU01zTTNQemFEaGJ0czVTNmJtQUV3RXdYZHpWa1hnbmpDd0JreGFqeFhLZkhiY1EtUUstNlFXLUN2VEY5dlpuY25zT3l3WVNmXzlIX2JfSWZlOUw4aFdLV0huUlhDRlJDRG5ESU1WRzlyc29QR1R3SnpZX1RHeWdoWVBLcVB3ajZaeDRuRGlvamZ4MktNRnZrVXpreUVYQ3hMVGF2dkc2Z2dpN1dPdWxONGtrd19Hb1pmTmU0bUlHdE9KRDJwR3NqWW5wRG1fUm_SAewBQVVfeXFMTUxnRU9JaHd4TVZiLXAtYklmaVdHZzZSdlU2VGw2ZWw5UXRqMm5OSkYtTXJ4QTlETmhHdlNYUmM5bW1lUGtnSDNXdDBuelpqanlLUFp0WXhaLThULXBUTmZ3MnphRmFyZ3FzM21IcTd1TVhtbkhyQkNLLU1UZlRRdTBiTWJQd3BqUDJXeXMxZFpxRlJ1YzJGdWZFdDlnZzBuRzF6Y2E3R2lVeDJFdUxHaF9BT2NjSWJ6bFg0Y1c0ZzU0dGJzamExX2RDWHF1N3VBVUlEaFJKZFNWMU1vdm1vak1RYUVsdWNOMG45WnA?oc=5",
-      "source": "GNews/USA-China",
-      "score": 7,
-      "weight": 3,
+      "hash": "b5d92c3ba2984a5c9c0fdfb158d269f3",
+      "title": "Вибухи у Москві - Україна викрила слабкість російської ППО і використовує це на свою користь – Missile Matters",
+      "summary": "",
+      "link": "https://war.obozrevatel.com/ukr/ukraina-stvorila-rf-serjozni-problemi-z-yakimi-sama-borolasya-vid-pochatku-vijni-missile-matters.htm",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-21T12:48:01.779548+05:00",
-      "age_min": 10.0
+      "ts": "2026-06-21T16:46:06.487440+05:00",
+      "age_min": 76.1
+    },
+    {
+      "hash": "3365dc76cae890e24e33935d2422154b",
+      "title": "Time of decision for the West – The Russian missile advantage , the NATO impasse and the billion - dollar games of Poland",
+      "summary": "",
+      "link": "https://www.bankingnews.gr/diethni/articles/883254/time-of-decision-for-the-west-the-russian-missile-advantage-the-nato-impasse-and-the-billion-dollar-games-of-poland-ukraine",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T16:46:06.482631+05:00",
+      "age_min": 76.1
     },
     {
       "hash": "5804cbaefcc7d8aa84e9404bc037f896",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-21T14:16:21.703472+05:00",
       "age_min": 91.4
-    },
-    {
-      "hash": "31306ad735ef15e2ab49a6ada2659dde",
-      "title": "Israeli Strikes Kill 16 in Southern Lebanon Amid Fragile Ceasefire Efforts and Rising Regional Tensions",
-      "summary": "",
-      "link": "https://dailypioneer.com/news/fighting-persists-in-lebanon-as-us-iran-deal-is-under-threat",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T14:16:21.700915+05:00",
-      "age_min": 76.4
-    },
-    {
-      "hash": "610dd83edb20868a031ff59526084ce8",
-      "title": "Трамп заявил, что США могут начать взимать плату за проход судов через Ормузский пролив, если  [...]",
-      "summary": "Трамп заявил, что США могут начать взимать плату за проход судов через Ормузский пролив, если Вашингтон и Тегеран не достигнут окончательных договоренностей.",
-      "link": "https://t.me/bbbreaking/231884",
-      "source": "TG/Bloomberg",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T14:03:32.216784+05:00",
-      "age_min": 214.8
-    },
-    {
-      "hash": "6a7e7fd5cd56328685035a12eddc3805",
-      "title": "'Regime change but in a velvet glove': How Kevin Warsh has set out to remake the Fed",
-      "summary": "The first big announced changes point toward a quiet revolution, with task forces set up to rethink virtually everything done at the Fed.",
-      "link": "https://www.cnbc.com/2026/06/21/how-kevin-warsh-has-set-out-to-remake-the-fed.html",
-      "source": "CNBC",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T16:32:58.914806+05:00",
-      "age_min": 18.9
     }
   ]
 }
