@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T21:33:31.520268+05:00",
+  "updated": "2026-06-21T21:48:17.538483+05:00",
   "items": [
     {
       "hash": "19bcb66f6088e018e5c7e5ddce7092ce",
@@ -84,18 +84,6 @@
       "status": "new",
       "ts": "2026-06-21T19:02:41.820586+05:00",
       "age_min": 32.7
-    },
-    {
-      "hash": "3719fd88eee4dae7a3883281bdd89604",
-      "title": "War in Lebanon casts shadow over renewed Iran - US nuclear talks",
-      "summary": "",
-      "link": "https://www.livemint.com/global/war-in-lebanon-casts-shadow-over-renewed-iran-us-nuclear-talks-11782039844557.html",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T17:46:10.873399+05:00",
-      "age_min": 31.2
     },
     {
       "hash": "92689e6cdd7a7d1328e6178d2bb01b4a",
@@ -204,6 +192,18 @@
       "status": "new",
       "ts": "2026-06-21T20:47:48.443127+05:00",
       "age_min": 15.9
+    },
+    {
+      "hash": "0f048d0295cc7e611f28dbb2152c9436",
+      "title": "Crimea runs dry as Ukraine drone war chokes Russia occupied peninsula - London Business News",
+      "summary": "",
+      "link": "https://londonlovesbusiness.com/crimea-runs-dry-as-ukraines-drone-war-chokes-russias-occupied-peninsula/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T21:46:11.711668+05:00",
+      "age_min": 91.2
     },
     {
       "hash": "d2a260fbb2671e6d711325c1f7519823",
@@ -326,16 +326,16 @@
       "age_min": 46.7
     },
     {
-      "hash": "62b54c0207b9388a1ce7df4c1fd8b877",
-      "title": "Fuel Shortages in Russia Amid Ukraine Drone Attacks",
-      "summary": "Over 50 regions in Russia are currently experiencing severe fuel shortages. These shortages are attributed to long-range sanctions and targeted Ukrainian drone strikes on Russian oil refineries and ports, which have significantly reduced Russia's refining capacity by 20-30%. Bloomberg News Senior Writer Stephanie Baker joins Bloomberg This Weekend to discuss the situation the world's second-larges",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-21/fuel-shortages-in-russia-amid-ukraine-drone-attacks-video",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
+      "hash": "24c64afdaeb3be82f682bcef9c0cb87c",
+      "title": "Bitter Historical Feud Threatens Ukraine-Poland Alliance",
+      "summary": "President Volodymyr Zelensky of Ukraine signed a decree honoring World War II partisan fighters that has inflamed tensions with Warsaw.",
+      "link": "https://www.nytimes.com/2026/06/21/world/europe/ukraine-poland-alliance-russia.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-21T17:47:25.712204+05:00",
-      "age_min": 17.9
+      "ts": "2026-06-21T21:47:28.740124+05:00",
+      "age_min": 209.4
     },
     {
       "hash": "f7411f898f603f34b9348631da19f0e1",
@@ -408,6 +408,30 @@
       "status": "new",
       "ts": "2026-06-21T19:04:04.344207+05:00",
       "age_min": 45.5
+    },
+    {
+      "hash": "45c4f67b1d74e953168403418a07b38e",
+      "title": "Скандал Польща Україна Туск назвав втягування політиків стратегічною помилкою Політика",
+      "summary": "",
+      "link": "https://tsn.ua/politika/tusk-dav-suvore-poperedzennia-cherez-rozhortannia-konfliktu-ukrayiny-ta-polshchi-3111089.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T21:46:11.713127+05:00",
+      "age_min": 31.2
+    },
+    {
+      "hash": "d2c0afb1675aeb3aa713397a8b1e6d5b",
+      "title": "Zelensky Reports Russia Launched Nearly 2 , 200 Attack Drones Over Past Week",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/78642",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-21T21:46:11.712715+05:00",
+      "age_min": 61.2
     },
     {
       "hash": "99f7e72a4b4cb151d248952be613d7b3",
@@ -566,40 +590,16 @@
       "age_min": 88.6
     },
     {
-      "hash": "43268400fed47ad803e490d205198686",
-      "title": "В Польше прокомментировали скандал с Украиной",
-      "summary": "",
-      "link": "https://lenta.ru/news/2026/06/21/v-polshe-prokommentirovali-skandal-s-ukrainoy/",
-      "source": "Lenta.ru",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T21:32:55.667039+05:00",
-      "age_min": 3.1
-    },
-    {
-      "hash": "17933aec09c89d54e67ffa83c99fb782",
-      "title": "Why Lebanon may make or break the Iran-US deal",
-      "summary": "Israeli escalation in Lebanon threatens to undermine agreement between Tehran and Washington, analysts say.",
-      "link": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss",
+      "hash": "5151a656ed0e46f3be4ea06fcaba9896",
+      "title": "India’s ‘Cockroach’ movement camps out until education minister resigns",
+      "summary": "The viral &#039;Cockroach&#039; movement&#039;s supporters occupy New Delhi&#039;s protest site, refusing to leave until minister resigns.",
+      "link": "https://www.aljazeera.com/news/2026/6/21/indias-cockroach-movement-camps-out-until-education-minister-resigns?traffic_source=rss",
       "source": "Al Jazeera",
       "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-21T21:32:51.306695+05:00",
-      "age_min": 201.0
-    },
-    {
-      "hash": "4c9d71d3896988156232a9587d258787",
-      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - Northeast Mississippi Daily Journal",
-      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates&nbsp;&nbsp;Northeast Mississippi Daily Journal",
-      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNaGVYc2pnQ0JlcjdJZHl3RmVVc1Y2OXpHQmZKNndwbzJ3UUhCSTFVUU9SV0xTd2NvNmE0dC1YN1RSMlpicWt2U2s2VHhoZFNyVHdBWkZ3Qk5QWVlRa0FGTFpYMktMRE01Vk9KZ2NYR2JsQ0NNWWNBWVlGRkw2V2hEQzI0Y2NCOENmbk5SQVJrQ2gwcm9FZTFQN0VYVVpkcTNXN0ZLYkRSSFlMdkpvYzdoekN6Y2p5SG9CQzZCQmktRGdEdXNLVVVEVVQxV0RrMHhtblUzTXRBazFzd09JT0Z5N3VVUFNNZmoyM2NNV3Qzb2U4MXhpTU1xM3Qwd3Badw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-21T21:23:43.850875+05:00",
-      "age_min": 28.7
+      "ts": "2026-06-21T21:47:28.610977+05:00",
+      "age_min": 9.7
     }
   ]
 }
