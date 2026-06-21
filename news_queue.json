@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T12:18:10.408544+05:00",
+  "updated": "2026-06-21T12:33:47.700479+05:00",
   "items": [
     {
       "hash": "2dc8473015e2e8976dc7df3cc9014d31",
@@ -144,30 +144,6 @@
       "status": "new",
       "ts": "2026-06-21T10:16:18.692251+05:00",
       "age_min": 91.3
-    },
-    {
-      "hash": "a1bde0481d7b588fffabae47264c66d8",
-      "title": "Es startete mit einer Lüge - und Putin war von Anfang an mit dabei",
-      "summary": "",
-      "link": "https://www.derwesten.de/politik/putin-russland-sowjetunion-boris-jelzin-gorbatschow-anfang-id302080202.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T08:31:27.073082+05:00",
-      "age_min": 91.5
-    },
-    {
-      "hash": "33c3b8afe320e513674ce2df91e3d360",
-      "title": "Ukraine Drone Offensive Breaks Through Moscow War - Time Shield – Sri Lanka Guardian",
-      "summary": "",
-      "link": "https://slguardian.org/ukraines-drone-offensive-breaks-through-moscows-war-time-shield/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T08:31:27.071675+05:00",
-      "age_min": 91.5
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -422,18 +398,6 @@
       "age_min": 2.8
     },
     {
-      "hash": "3649957f7c7fd960159bbe9644494cf5",
-      "title": "Swiss Voters Set to Reject Stricter Neutrality, Early Poll Shows",
-      "summary": "Swiss voters are set to reject an initiative to strengthen neutrality, according to an early poll, a result that could support keeping up sanctions against Russia.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-21/swiss-voters-set-to-reject-stricter-neutrality-early-poll-shows",
-      "source": "Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-21T08:32:49.119802+05:00",
-      "age_min": 32.8
-    },
-    {
       "hash": "b1863adee0ddb78c8526c263a24710e2",
       "title": "Mideast Live Updates: New Round of U.S.-Iran Talks Set to Start in Switzerland",
       "summary": "Vice President JD Vance was expected to talk with Iranian negotiators. But the conflict in Lebanon threatens efforts to reach a broader peace and keep the Strait of Hormuz open.",
@@ -590,16 +554,28 @@
       "age_min": 62.0
     },
     {
-      "hash": "c561a874c85cb7884737b0807644de7c",
-      "title": "Блокада Криму : аналітик дав прогноз , скільки часу зможуть протриматися росіяни",
-      "summary": "",
-      "link": "https://uainfo.org/blognews/1781962880-blokada-krimu-analitik-dav-prognoz-skilki-chasu-zmozhut.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
+      "hash": "ee188e3f88d445162d8d832a9d536d75",
+      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - Dallas News",
+      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates&nbsp;&nbsp;Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMTZpa2taWXBoRFBsdjBvREo0Qzc4WkdCa3JvZHhFVW1ONEw5ckRvZFBrTnBkZEwzZWxJUWpLWHU0TlhWMWJiNnJBcjRSVENOR2lrdEExcjNfUkF3TlZZOEd5cUhheG4xenBiWW9kZGFCNmNpY2ZDSWVXUW82WDRrT2ZoUnBwSFpGWkk5ZUJkaEFNVnJNXy1wbVhibmN2ZHJfS3dVUDFZczdkdm5z?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-21T08:31:27.075191+05:00",
-      "age_min": 91.5
+      "ts": "2026-06-21T12:33:25.839843+05:00",
+      "age_min": 60.8
+    },
+    {
+      "hash": "7e4b56fa0506c965a959e964ea5f75d5",
+      "title": "Vance arrives in Switzerland for talks with Iranian negotiators amid rising Strait of Hormuz tensions",
+      "summary": "Iran's military said it had closed the Strait of Hormuz in response to continued Israeli military strikes in Lebanon; the U.S. said it remains open.",
+      "link": "https://www.cnbc.com/2026/06/20/iran-reportedly-closes-strait-of-hormuz-again-raising-doubt-over-talks.html",
+      "source": "CNBC",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-21T12:32:56.313894+05:00",
+      "age_min": 13.2
     }
   ]
 }
