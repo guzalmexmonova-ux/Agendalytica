@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T23:34:20.158614+05:00",
+  "updated": "2026-06-22T23:48:28.434440+05:00",
   "items": [
     {
       "hash": "8374b985e293ea6e41d89950d0aa016b",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-06-22T22:33:48.456207+05:00",
       "age_min": 23.1
+    },
+    {
+      "hash": "9bd0d101794dacc69424eeeae6563800",
+      "title": "War, Inflation Can’t Stop ETFs’ Trillion-Dollar Inflow Boom",
+      "summary": "Exchange-traded funds are attracting cash at a record-breaking trillion-dollar pace despite persistent inflation, war in the Middle East and bouts of market volatility &mdash; a testament to American households’ enduring buy-and-hold conviction.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-22/war-inflation-can-t-stop-etfs-trillion-dollar-inflow-boom",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T23:47:44.286014+05:00",
+      "age_min": 15.2
     },
     {
       "hash": "0c02feb75755c2815a1020d0bb75f967",
@@ -86,30 +98,6 @@
       "age_min": 17.4
     },
     {
-      "hash": "a8b8bbd2f6860dc8f6b633cabe45157e",
-      "title": "Vance Hails ‘Good Day’ of Iran Talks as US Waives Oil Sanctions",
-      "summary": "US Vice President JD Vance said talks with Iran over the weekend were “very, very good,” as the sides attempt to reach a peace deal within two months and formally end a war that’s reverberated through the global economy.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/iran-war-vance-hails-good-day-of-talks-as-us-waives-oil-sanctions",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-22T19:47:42.520090+05:00",
-      "age_min": 23.2
-    },
-    {
-      "hash": "96aacf302f85633b23db4852479712a1",
-      "title": "FACT FOCUS : Netanyahu claims about Iran nuclear program run counter to public evidence – Winnipeg Free Press",
-      "summary": "",
-      "link": "https://www.winnipegfreepress.com/world/2026/06/22/fact-focus-netanyahus-claims-about-irans-nuclear-program-run-counter-to-public-evidence",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-22T19:45:50.563792+05:00",
-      "age_min": 30.8
-    },
-    {
       "hash": "2cbd2e82c2367a1a0aa40d6d2e6bd5a6",
       "title": "U . S . Authorizes Iranian Oil Sales After JD Vance Says Tehran Will Allow Nuclear Inspectors",
       "summary": "",
@@ -170,16 +158,16 @@
       "age_min": 56.5
     },
     {
-      "hash": "ca0d583413b93a73fd8e7b673b76bd83",
-      "title": "Іран - США : Ядерні домовленості за 60 днів ?",
+      "hash": "74ab5d0db5e654badaf1046f41ddc79b",
+      "title": "U . S .- Iran war : JD Vance says  good foundation  set",
       "summary": "",
-      "link": "https://www.ukrinform.ua/rubric-world/4136358-iran-ssa-aderni-domovlenosti-za-60-dniv.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
+      "link": "https://www.cp24.com/news/world/2026/06/22/us-iran-talks-set-good-foundation-to-end-war-jd-vance/",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-22T19:45:50.561711+05:00",
-      "age_min": 45.8
+      "ts": "2026-06-22T23:46:28.177399+05:00",
+      "age_min": 76.5
     },
     {
       "hash": "425ac2f2434c063ae1b5eb8f8f1b2716",
@@ -326,6 +314,18 @@
       "age_min": 1.5
     },
     {
+      "hash": "be59a6ee15f2f6b5a44bc221f17523a8",
+      "title": "Vance Claims Progress in First Day of Iran Talks",
+      "summary": "Vice President JD Vance, the lead U.S. negotiator, said the two sides had agreed on technical issues and at least one substantive one, international inspection of Iranian nuclear sites, but an Iranian official said his country had made “no new commitments.”",
+      "link": "https://www.nytimes.com/2026/06/22/world/middleeast/vance-iran-talks-progress.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T23:47:45.422319+05:00",
+      "age_min": 11.7
+    },
+    {
       "hash": "d2a35229cbe0310b33dfe190d58db55e",
       "title": "Vance Says Iran Will Allow Nuclear Watchdog to Restart Inspections",
       "summary": "Vice President JD Vance said Iran had agreed to invite experts from the U.N. agency to resume operations in the country. Tehran and the nuclear watchdog have not commented.",
@@ -384,18 +384,6 @@
       "status": "new",
       "ts": "2026-06-22T20:47:29.837856+05:00",
       "age_min": 18.2
-    },
-    {
-      "hash": "866a3363b9aa784241eec285f1ba100e",
-      "title": "U.S. Temporarily Lifts Sanctions on Iranian Oil",
-      "summary": "In a sharp reversal of American policy, the Treasury announced a 60-day reprieve, permitting the sale of Iranian crude as part of the preliminary U.S.-Iran deal toward ending the war.",
-      "link": "https://www.nytimes.com/2026/06/22/world/middleeast/us-sanctions-reprieve-iran-oil.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T19:47:43.817763+05:00",
-      "age_min": 4.4
     },
     {
       "hash": "a75f73895ab77e9e1182e21db1f7648e",
@@ -494,6 +482,18 @@
       "age_min": 19.8
     },
     {
+      "hash": "b2715a6dd80b0ce79a87dff84dab4e0d",
+      "title": "Kneecap bids Starmer  Slán Keir  after resignation",
+      "summary": "",
+      "link": "https://www.echo-news.co.uk/news/national/26218207.kneecap-bids-starmer-slan-keir-resignation/",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T23:46:28.180139+05:00",
+      "age_min": 76.5
+    },
+    {
       "hash": "37acb7d3cbec093b1745c6a4e3dc5590",
       "title": "Warsh gamble : Quieter Fed could mean volatile markets , higher rates",
       "summary": "",
@@ -566,6 +566,18 @@
       "age_min": 32.4
     },
     {
+      "hash": "70a054fbe5709292e887f4a895ef7488",
+      "title": "U.S. Treasury yields rise as traders bet on Fed rate hikes By Investing.com - Investing.com India",
+      "summary": "U.S. Treasury yields rise as traders bet on Fed rate hikes By Investing.com&nbsp;&nbsp;Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTBfTkJDMTBycDByLWloMXZ6dGdsT0lBZGViek9WVGRiaUVqZEQzTEVWMl9zNVo1WmhTRGdSbWpGVFhuclJVNGViUmZjWFE4U1lCbmxpNGZ2OWY4QnZZRWNqS0NORUZaZWVXLWd5Wm4tR2xONXV2d3RMM2xWRkJ4X1RQYV9TNUZkajNhWXpJcGRvVllNRmVBYXMwbjRMZUgzLVdWQk9CdVZNXzRHRFdGMkZnOGFRUjZ4MllYR05XU3hmQlNONmpMdQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T23:48:13.462373+05:00",
+      "age_min": 89.3
+    },
+    {
       "hash": "bda8e5d30721e9038fcf8ae74c00b20e",
       "title": "U.S. Treasury yields rise as traders bet on Fed rate hikes By Investing.com - Investing.com South Africa",
       "summary": "U.S. Treasury yields rise as traders bet on Fed rate hikes By Investing.com&nbsp;&nbsp;Investing.com South Africa",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-22T23:17:54.925588+05:00",
       "age_min": 4.2
-    },
-    {
-      "hash": "f5c7668ca2f525eba95b3b281a385834",
-      "title": "Explosion at Qatar LNG plant",
-      "summary": "",
-      "link": "https://dailythepatriot.com/explosion-at-qatar-lng-plant/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-22T23:32:32.799686+05:00",
-      "age_min": 92.5
     }
   ]
 }
