@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T13:50:24.736342+05:00",
+  "updated": "2026-06-22T14:04:10.560090+05:00",
   "items": [
     {
       "hash": "5fb6e6a6de36f92eb6346ac30d60f096",
@@ -36,6 +36,18 @@
       "status": "new",
       "ts": "2026-06-22T12:46:18.143286+05:00",
       "age_min": 61.3
+    },
+    {
+      "hash": "fffd94b3fc585b062d712415c19b76ca",
+      "title": "How Starmer was undone by caution and no clear plan",
+      "summary": "Labour in ‘last chance saloon’ as party’s shortest-serving prime minister announces resignation",
+      "link": "https://www.ft.com/content/d926442e-5a86-48dd-b249-87219997cb77",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T14:03:16.274158+05:00",
+      "age_min": 26.6
     },
     {
       "hash": "1f72c4d87d291d38ce7dd1ba1d8bdf18",
@@ -110,16 +122,16 @@
       "age_min": 20.3
     },
     {
-      "hash": "5ff6810bfdba0ee362059e28e599e285",
-      "title": "How Mike Henry Reshaped the World's Largest Mining Company",
-      "summary": "As he prepares to step down after six years at the helm of BHP, Mike Henry joins Francine Lacqua to discuss the future of mining, the race for critical minerals and leadership lessons that shaped his tenure. Henry explains why copper has become one of the most strategic resources, how artificial intelligence and the energy transition are transforming demand and why BHP walked away from its pursuit",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-22/how-mike-henry-reshaped-the-world-s-largest-mining-company",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
+      "hash": "519d6a050112990d013e0182cd9ab5d3",
+      "title": "Explosion at Qatar Gas Plant Leaves at Least 54 Injured",
+      "summary": "The blast happened at a key site for natural gas production. The authorities blamed a technical malfunction while operations were being restarted after the U.S.-Israeli war against Iran.",
+      "link": "https://www.nytimes.com/2026/06/22/world/middleeast/qatar-explosion-gas.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-22T10:03:08.264356+05:00",
-      "age_min": 3.0
+      "ts": "2026-06-22T14:03:17.214164+05:00",
+      "age_min": 4.6
     },
     {
       "hash": "4b82b236be18da4a58c9104ac3aa36ca",
@@ -132,18 +144,6 @@
       "status": "new",
       "ts": "2026-06-22T10:33:11.070194+05:00",
       "age_min": 15.8
-    },
-    {
-      "hash": "2e1e9715c772780a459a8e9f788171ac",
-      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
-      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
-      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
-      "source": "Crisis Group",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T10:03:10.405174+05:00",
-      "age_min": 0
     },
     {
       "hash": "87e57c017410d830d7bbbe3c3c06d099",
@@ -350,18 +350,6 @@
       "age_min": 0.6
     },
     {
-      "hash": "7abba63cef07bf8a49eb826eb947d26f",
-      "title": "Акция \"Свеча памяти\" в день 85-й годовщины начала войны прошла в Приднестровье",
-      "summary": "Президент непризнанной республики Вадим Красносельский заявил, что Великая Отечественная война стала для советских граждан священной войной",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/27832367",
-      "source": "TASS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T10:03:11.903858+05:00",
-      "age_min": 10.3
-    },
-    {
       "hash": "886e97fe9ecb1eb0fa3513caa9ddbca4",
       "title": "Week Ahead for FX, Bonds : U.S. Inflation Data in Focus as Prospects of Fed Rate Hike Increase - marketscreener.com",
       "summary": "Week Ahead for FX, Bonds : U.S. Inflation Data in Focus as Prospects of Fed Rate Hike Increase&nbsp;&nbsp;marketscreener.com",
@@ -384,6 +372,54 @@
       "status": "new",
       "ts": "2026-06-22T10:18:08.268887+05:00",
       "age_min": 12.1
+    },
+    {
+      "hash": "899cdd47d9d8f04b7c8f25625793f43b",
+      "title": "Middle East News : Fifty - four injured and 18 missing after explosion at Qatar LNG site , authorities say",
+      "summary": "",
+      "link": "https://www.gdnonline.com:443/Details/1398377/Fifty-four-injured-and-18-missing-after-explosion-at-Qatar-LNG-site,-authorities-say",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T14:02:33.037333+05:00",
+      "age_min": 47.6
+    },
+    {
+      "hash": "4ca4faabaa8c5d40ca0fee62e70aa8f1",
+      "title": "Capital Clean Energy Carriers takes delivery of LNG carrier Agamemnon",
+      "summary": "",
+      "link": "https://www.inewsgr.com/3/Capital-Clean-Energy-Carriers-takes-delivery-of-LNG-carrier-Agamemnon.htm",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T14:02:33.036884+05:00",
+      "age_min": 47.6
+    },
+    {
+      "hash": "7cf2ab14f387b203da1eeacb26342d0e",
+      "title": "Qatar brings LNG tankers into Hormuz despite shipping slowdown",
+      "summary": "",
+      "link": "https://www.thehindu.com/news/international/qatar-brings-lng-tankers-into-hormuz-despite-shipping-slowdown/article71132240.ece",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T14:02:33.035531+05:00",
+      "age_min": 47.6
+    },
+    {
+      "hash": "6a1bdb838fd4764493575496e1b5d355",
+      "title": "На самом крупном мировом производстве СПГ в Катаре произошел мощный взрыв – много пострадавших",
+      "summary": "",
+      "link": "https://www.dialog.ua/world/na-samom-krupnom-mirovom-proizvodstve-spg-proizoshel-moshchnyy-vzryv.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T14:02:33.035192+05:00",
+      "age_min": 47.6
     },
     {
       "hash": "565621656e6c4f09e215f0243ab60acc",
@@ -432,6 +468,54 @@
       "status": "new",
       "ts": "2026-06-22T12:02:27.897788+05:00",
       "age_min": 62.5
+    },
+    {
+      "hash": "83e57bc6f4066ee4ece25b27a252c799",
+      "title": "Should Amazon Investors Be Concerned That New Fed Chair Kevin Warsh Isn't Cutting Interest Rates? - The Motley Fool",
+      "summary": "Should Amazon Investors Be Concerned That New Fed Chair Kevin Warsh Isn't Cutting Interest Rates?&nbsp;&nbsp;The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzhEcnFLN0h3NF9PQXBsbDk5YTEwLVBnWk1ZdHpXT1VEXzZqWGNQNGRCclpsRGJ6VjVIR0JGd2xlTzljYk9kYmN1RHdOc3F6VlVkcFNzNl9qY01ES0oyY3FKbGJ2WTg5VzgxeVcycVpaeUw0eHZTTjlqbV9DbFctMjR2dGJZVEFxeDE5UW1UOA?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T14:03:50.434177+05:00",
+      "age_min": 7.1
+    },
+    {
+      "hash": "70d9801d6be9cbfaa0467574348a0d8f",
+      "title": "The Fed, Kevin Warsh, and falling oil prices: What's driving stocks today - qz.com",
+      "summary": "The Fed, Kevin Warsh, and falling oil prices: What's driving stocks today&nbsp;&nbsp;qz.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE01YUc2c1h4aFVOeGVxRVp1MGhuOXNRUkZwZUJzb3FyR1JiTXAwamFJS3lwNGhUaW40VVhnaVJVX1FVNHE3Q242bnc2bXVjWmtHcnB3Tl9FRjhLYlhCV2wzSldDM2xMN3FZdGlPU3h3dE9BOWs?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T14:03:50.432731+05:00",
+      "age_min": 6.8
+    },
+    {
+      "hash": "3a2b8e45aa6781885bfb97f099ab6677",
+      "title": "Will New US Fed Chair Kevin Warsh Raise Interest Rates This Year? - Morningstar",
+      "summary": "Will New US Fed Chair Kevin Warsh Raise Interest Rates This Year?&nbsp;&nbsp;Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS1FNbzVqYmVtRGlCTGxnUHQ5b0ZXUUdIU0g3NUlDMWdFalYtbzlVSHBsaGpUTThkTWlQOVlUNnJQRm5qQVRPeUV2elhOS2pFQTRkeDNZbFN4TEo3SHVWdjRyYVMyc2NVSkRoMmlnaW14Tm85VHZOa181RjUxWjB4anZCYUI0RnpJYUZleFdESFZETW9SODJ2cFNNNUU1RWNGVFU3R1JUUzgyMXp0Wmc?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T14:03:50.432149+05:00",
+      "age_min": 7.7
+    },
+    {
+      "hash": "d8fb18faa896d95cb512cb18e98cd5d3",
+      "title": "UK Prime Minister Keir Starmer says he will resign",
+      "summary": "The British leader announced a timetable for his resignation as prime minister.",
+      "link": "https://www.aljazeera.com/news/2026/6/22/uks-starmer-announces-resignation-from-office-after-mounting-pressure?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T14:03:16.990142+05:00",
+      "age_min": 15.2
     },
     {
       "hash": "c005ace66eff8d1a3290760ca3813072",
@@ -516,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-22T12:47:55.997328+05:00",
       "age_min": 7.6
-    },
-    {
-      "hash": "6b17315b3b8fc5ab0e309cc9970c5e85",
-      "title": "ВСУ разместили три гексакоптера на крыше дома в центре Донецка для последующих атак",
-      "summary": "",
-      "link": "https://tass.ru/proisshestviya/27833975",
-      "source": "TASS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T12:47:54.883021+05:00",
-      "age_min": 12.4
-    },
-    {
-      "hash": "330c9f6857ed7151664fe8c617b59e30",
-      "title": "Сбит 301 БПЛА. Что известно об отражении атак на российские регионы",
-      "summary": "На подлете к Москве с начала суток сбили 80 беспилотников",
-      "link": "https://tass.ru/proisshestviya/27833431",
-      "source": "TASS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T12:33:15.036955+05:00",
-      "age_min": 10.2
-    },
-    {
-      "hash": "78a714ee809a50a81a42efa0970392e4",
-      "title": "Иран нарастил поставки нефти через Ормузский пролив до максимума",
-      "summary": "",
-      "link": "https://lenta.ru/news/2026/06/22/iran-narastil-postavki-nefti-cherez-ormuzskiy-proliv-do-maksimuma/",
-      "source": "Lenta.ru",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T13:32:57.720642+05:00",
-      "age_min": 7.0
-    },
-    {
-      "hash": "70534506e162c081326817f2670b8045",
-      "title": "China defends role in global supply chains amid Strait of Hormuz crisis",
-      "summary": "China’s proactive role in stabilising global energy and fertiliser markets amid the Strait of Hormuz crisis shows the country is a defender of global supply chains, rather than a disruptive force as “hyped” by the West, Vice-Premier Ding Xuexiang said on Monday.\n“The fact that Chinese manufacturing never falters or fails at critical moments fully proves that China is a participant, a builder and a",
-      "link": "https://www.scmp.com/economy/china-economy/article/3357890/china-defends-role-global-supply-chains-amid-strait-hormuz-crisis?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T13:03:21.123651+05:00",
-      "age_min": 103.3
     }
   ]
 }
