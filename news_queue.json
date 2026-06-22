@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T03:04:12.392519+05:00",
+  "updated": "2026-06-23T03:08:23.262058+05:00",
   "items": [
     {
       "hash": "4a38f89a6575926905d480d282c98194",
@@ -84,6 +84,18 @@
       "status": "new",
       "ts": "2026-06-23T01:17:28.026470+05:00",
       "age_min": 92.5
+    },
+    {
+      "hash": "cc5228e7aaa4d9402a1bcdd534b3a2a1",
+      "title": "Vance says talks with Iranian officials set  good foundation  for a deal to end the war",
+      "summary": "",
+      "link": "https://www.timesleader.com/news/1746607/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T03:06:23.986098+05:00",
+      "age_min": 36.4
     },
     {
       "hash": "61a4f7b4c527e4e2ca8b682011f01638",
@@ -338,6 +350,30 @@
       "age_min": 124.2
     },
     {
+      "hash": "f4686757b954783c330237e07d194fac",
+      "title": "União dos mercados de capitais é crucial para euro ser reserva global , diz Lagarde",
+      "summary": "",
+      "link": "https://pt.euronews.com/business/2026/06/22/uniao-dos-mercados-de-capitais-e-crucial-para-euro-ser-reserva-global-diz-lagarde",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T03:06:55.760663+05:00",
+      "age_min": 51.9
+    },
+    {
+      "hash": "d7d9f8fad7cf0341422e7d643d01a5d5",
+      "title": "Europa pregătește ofensiva euro . Christine Lagarde cere reducerea dependenței de sistemele financiare americane",
+      "summary": "",
+      "link": "https://www.capital.ro/europa-pregateste-ofensiva-euro-christine-lagarde-cere-reducerea-dependentei-de-sistemele-financiare-americane.html",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T03:06:55.759143+05:00",
+      "age_min": 66.9
+    },
+    {
       "hash": "e9da0c20b853c87d592eb08237a3bd6a",
       "title": "РФ нанесла авиаудар по Сумам : есть пострадавшие",
       "summary": "",
@@ -506,6 +542,30 @@
       "age_min": 15.2
     },
     {
+      "hash": "ff347f0e0d77f509c299d6d0f774e1f3",
+      "title": "Kneecap bids Starmer  Slán Keir  after resignation",
+      "summary": "",
+      "link": "https://www.edp24.co.uk/news/national/26218207.kneecap-bids-starmer-slan-keir-resignation/",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T03:06:23.987059+05:00",
+      "age_min": 96.4
+    },
+    {
+      "hash": "ee43b8dc952cdf7c720f832bf57330de",
+      "title": "2 injured in drone attack on Turkish - owned vessel off Ukraine coast",
+      "summary": "",
+      "link": "https://www.dailysabah.com/politics/diplomacy/2-injured-in-drone-attack-on-turkish-owned-vessel-off-ukraine-coast",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T03:06:11.249788+05:00",
+      "age_min": 36.2
+    },
+    {
       "hash": "682f4c2de968d2001f4d42b254b2000e",
       "title": "Edinburgh  knife attack  victims  deeply traumatised , says John Swinney",
       "summary": "",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-06-23T03:01:23.905900+05:00",
       "age_min": 91.4
-    },
-    {
-      "hash": "96450fd901129ee47354dd7c35e891e7",
-      "title": "Troops respond to terrorist attack , secure Zamfara road",
-      "summary": "",
-      "link": "https://dailypost.ng/2026/06/22/troops-respond-to-terrorist-attack-secure-zamfara-road/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T03:01:23.905492+05:00",
-      "age_min": 46.4
-    },
-    {
-      "hash": "7690df07a6770760d5c242d24270515d",
-      "title": "Exclusive | Inside the insurance racket Iran wants to run in the Strait of Hormuz",
-      "summary": "",
-      "link": "https://nypost.com/2026/06/22/business/inside-the-quiet-insurance-racket-iran-is-running-in-the-strait-of-hormuz/",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T03:01:07.867834+05:00",
-      "age_min": 31.1
-    },
-    {
-      "hash": "51e31eb2e07d929539043a8367e8722e",
-      "title": "US Refiners Get Rare Chance to Buy Iranian Crude Again",
-      "summary": "The Trump administration has temporarily eased some sanctions on Iranian oil, pausing hostilities that have defined US-Iran relations since the 1979 hostage crisis.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/easing-of-us-oil-sanctions-opens-brief-window-for-iran-imports",
-      "source": "Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T02:47:20.725380+05:00",
-      "age_min": 232.7
-    },
-    {
-      "hash": "f7287e4716e4c418a162149b0345e6e6",
-      "title": "RT by @elonmusk: Multiculturalism is sold as neutral cultures peacefully coexisting side by side. That’s deliberate propaganda. Some cultures are not neutral. They are openly hostile, teaching that outsiders, especially white Christians, are filthy heathens and subhumans to be used, exploited, or replaced. The grooming gang scandals weren’t random crime. Victims were repeatedly called “white slags,” “kuffar whores,” and worse while being raped and trafficked by organised groups who viewed them with religious and racial contempt. This was the ideology in action. When one population is imported en masse, refuses to assimilate, builds parallel societies, and pursues demographic and cultural dominance, the result is not “diversity.” It’s conquest by other means with all the social breakdown, loss of trust, and long term subjugation that comes from losing a war without a single battle. The West was never asked. The West can still choose not to surrender.",
-      "summary": "Multiculturalism is sold as neutral cultures peacefully coexisting side by side.\n\nThat’s deliberate propaganda.\n\nSome cultures are not neutral. They are openly hostile, teaching that outsiders, especially white Christians, are filthy heathens and subhumans to be used, exploited, or replaced.\n\nThe grooming gang scandals weren’t random crime. Victims were repeatedly called “white slags,” “kuffar who",
-      "link": "https://nitter.net/Rothmus/status/2069154715145818243#m",
-      "source": "Musk/X",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-23T02:33:45.407465+05:00",
-      "age_min": 68.7
-    },
-    {
-      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
-      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
-      "summary": "",
-      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-23T02:18:07.376009+05:00",
-      "age_min": 0
     }
   ]
 }
