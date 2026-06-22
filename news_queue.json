@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T21:13:52.402794+05:00",
+  "updated": "2026-06-22T21:18:27.596595+05:00",
   "items": [
     {
       "hash": "71e731b5be8f1ec7dcb8d267f0cd6f71",
@@ -314,6 +314,18 @@
       "age_min": 46.5
     },
     {
+      "hash": "0ff04f25b54e8402df1dedf49dba8f14",
+      "title": "US suspends sanctions on Iranian oil until August 21 amid negotiations to end West Asia war",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/industry/energy/oil-gas/us-suspends-sanctions-on-iranian-oil-until-august-21-amid-negotiations-to-end-west-asia-war/articleshow/131911561.cms",
+      "source": "GDELT/SANCTIONS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-22T21:16:45.691437+05:00",
+      "age_min": 106.8
+    },
+    {
       "hash": "39945ea0cf48ad3245be8949a099668d",
       "title": "How Will Colombia’s New President Fuel Trump’s Drug War?",
       "summary": "Abelardo De La Espriella, who has vowed to destroy traffickers with military power, appears set to be the country’s next president.",
@@ -518,16 +530,40 @@
       "age_min": 3.4
     },
     {
-      "hash": "7a6cdfa6d537da59b90acd67e45d036b",
-      "title": "Copper Rallies as Peace-Talk Progress Eases Inflation Fears",
-      "summary": "Copper prices rose after Iran said there had been “major progress” in peace talks with the US, boosting expectations that traffic through the Strait of Hormuz may recover and ease inflation pressures.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/copper-rallies-as-peace-talk-progress-eases-inflation-fears",
-      "source": "Bloomberg",
-      "score": 7,
+      "hash": "e34d2355aead47fe3648bb6bbc93d608",
+      "title": "Morgan Stanley afirma que Kevin Warsh consolida la credibilidad de la Fed , pero ve riesgos de liquidez",
+      "summary": "",
+      "link": "https://www.ambito.com/economia/morgan-stanley-afirma-que-kevin-warsh-consolida-la-fed-riesgos-liquidez-n6291348",
+      "source": "GDELT/MACRO",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-22T17:17:56.881290+05:00",
-      "age_min": 9.0
+      "ts": "2026-06-22T21:17:36.335378+05:00",
+      "age_min": 32.6
+    },
+    {
+      "hash": "fd003f2d1c6923535f6403988cb76f93",
+      "title": "Орден Орла - впливова польська газета розкритикувала Навроцького за скандал з Україною",
+      "summary": "",
+      "link": "https://www.unian.ua/world/orden-orla-vplivova-polska-gazeta-rozkritikuvala-navrockogo-za-skandal-z-ukrajinoyu-13419570.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T21:16:14.515360+05:00",
+      "age_min": 76.2
+    },
+    {
+      "hash": "bf74aaacf2aaef3f5d1b787e73311060",
+      "title": "Скандал навколо Ордену Білого Орла : хто винен і що робити",
+      "summary": "",
+      "link": "https://ua.korrespondent.net/articles/4888406-skandal-navkolo-ordenu-biloho-orla-khto-vynen-i-scho-robyty",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-22T21:16:14.508892+05:00",
+      "age_min": 61.2
     },
     {
       "hash": "2a9e4d5297189bbf2273b04c51b7acb9",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-06-22T21:02:25.804364+05:00",
       "age_min": 32.4
-    },
-    {
-      "hash": "07a37436c74ecbf750c0043b7e21991a",
-      "title": "Football, war and solidarity: Why Gaza fans turned to Spain this World Cup",
-      "summary": "Football fans in Gaza showed overwhelming support for Spain against Saudi Arabia during Sunday&#039;s World Cup clash.",
-      "link": "https://www.aljazeera.com/features/2026/6/22/football-war-and-solidarity-why-gaza-fans-turned-to-spain-this-world-cup?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-22T20:47:29.690633+05:00",
-      "age_min": 20.9
-    },
-    {
-      "hash": "08e3243cfa5f1f7df87891ac966ecd05",
-      "title": "A Russian drone strike in Ukraine kills 3 from one family , including a 13 - year - old boy",
-      "summary": "",
-      "link": "https://www.news4jax.com/news/world/2026/06/22/a-russian-drone-strike-in-ukraine-kills-3-from-one-family-including-a-13-year-old-boy/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-22T20:31:31.859113+05:00",
-      "age_min": 46.5
-    },
-    {
-      "hash": "8bad572621cd85260ef8e8e1f697755a",
-      "title": "Drone Strike on Moscow Refinery Causes  Oil Rain  in Russian Capital",
-      "summary": "",
-      "link": "https://www.shtfplan.com/war/drone-strike-on-moscow-refinery-causes-oil-rain-in-russian-capital",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-22T20:31:31.855605+05:00",
-      "age_min": 31.5
     }
   ]
 }
