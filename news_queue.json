@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T17:36:31.385779+05:00",
+  "updated": "2026-06-23T17:48:49.108729+05:00",
   "items": [
     {
       "hash": "0dfb6b869078bf135e13ab6aaca27c66",
@@ -168,6 +168,18 @@
       "status": "new",
       "ts": "2026-06-23T14:01:17.885974+05:00",
       "age_min": 106.3
+    },
+    {
+      "hash": "82aea590b94ba818ff9083835faa2a7e",
+      "title": "HEATH MUCHENA | Iran war has exposed the limits of US power in the Middle East",
+      "summary": "",
+      "link": "https://www.timeslive.co.za/opinion/2026-06-23-heath-muchena-iran-war-has-exposed-the-limits-of-us-power-in-the-middle-east/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T17:45:56.266378+05:00",
+      "age_min": 30.9
     },
     {
       "hash": "6fb80c4b8e17c6cdb515b8b0d3d763fb",
@@ -350,6 +362,30 @@
       "age_min": 0
     },
     {
+      "hash": "ff12168604e3424c0a409076fa5a785c",
+      "title": "North Sea Crude Weakens as Mideast Oil Floods Back to Market",
+      "summary": "Key indicators in the North Sea crude market are showing signs of weakness as a wave of Middle Eastern oil heads to Europe, fueling concerns about a supply glut following the reopening of the Strait of Hormuz.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-23/north-sea-crude-weakens-as-mideast-oil-floods-back-to-market",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T17:48:02.004409+05:00",
+      "age_min": 12.6
+    },
+    {
+      "hash": "04e1d502b0637ef695c3a3f66918c789",
+      "title": "Silver Futures Tumble Over Rs 8 , 000 on Strong Dollar , Fed Rate Hike Concerns",
+      "summary": "",
+      "link": "https://www.deccanchronicle.com/nation/silver-futures-tumble-over-rs-8000-on-strong-dollar-fed-rate-hike-concerns-1965669",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T17:47:04.512437+05:00",
+      "age_min": 47.1
+    },
+    {
       "hash": "985efdd61e3a9f1aca461d0de1ab828f",
       "title": "Asia shares slip as fed rate hikes ; oil recovers",
       "summary": "",
@@ -360,6 +396,30 @@
       "status": "new",
       "ts": "2026-06-23T14:32:39.468622+05:00",
       "age_min": 47.7
+    },
+    {
+      "hash": "9d902606379aab6f79a7494f24148512",
+      "title": "Iran says wont allow UN inspectors at bombed nuclear sites",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/news/defence/iran-says-wont-allow-un-inspectors-at-bombed-nuclear-sites/articleshow/131936199.cms",
+      "source": "GDELT/SUMMITS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-23T17:47:48.333896+05:00",
+      "age_min": 32.8
+    },
+    {
+      "hash": "cca36b6ad3282dcbdda9f315e5054e91",
+      "title": "Kim Jong Un defends North Korea nuclear status , blames US for global conflicts",
+      "summary": "",
+      "link": "https://www.thenews.com.pk/latest/1406925-kim-jong-un-defends-north-koreas-nuclear-status-blames-us-for-global-conflicts",
+      "source": "GDELT/SUMMITS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-23T17:47:48.330758+05:00",
+      "age_min": 32.8
     },
     {
       "hash": "17dd23330ca891c851e6aa536f5db9db",
@@ -386,16 +446,28 @@
       "age_min": 91.7
     },
     {
-      "hash": "3603afb6db28a2dc71a57f12052032bd",
-      "title": "IAEA launches follow - up review of Uzbekistan nuclear infrastructure",
+      "hash": "412e77a92a0c2a6248963f954e369a44",
+      "title": "Iranian president lands in Pakistan as US - Iran teams work to finalize a war - ending deal",
       "summary": "",
-      "link": "https://www.trend.az/business/4200701.html",
-      "source": "GDELT/CENTRAL_ASIA",
-      "score": 9,
+      "link": "https://www.wral.com/news/ap/e9271-irans-foreign-ministry-says-no-visit-scheduled-for-un-inspectors-to-visit-bombed-nuclear-sites/",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-23T13:47:19.666935+05:00",
-      "age_min": 32.3
+      "ts": "2026-06-23T17:47:48.334758+05:00",
+      "age_min": 62.8
+    },
+    {
+      "hash": "b60f90a525f5da5d5f47e8587b8f24f3",
+      "title": "US - Iran war headed for the gray zone - Worldnews . com",
+      "summary": "",
+      "link": "https://article.wn.com/view/2026/06/23/USIran_war_headed_for_the_gray_zone/",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-23T17:47:48.329752+05:00",
+      "age_min": 47.8
     },
     {
       "hash": "40265d6f3061464560191f3157edbf8c",
@@ -518,52 +590,16 @@
       "age_min": 61.2
     },
     {
-      "hash": "69fcf9ae305170e663197eb386ca8b38",
-      "title": "Fire near Dubai airport under control after drone attack, flights suspended - DD News",
-      "summary": "Fire near Dubai airport under control after drone attack, flights suspended&nbsp;&nbsp;DD News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWJ4TGJfYjZncVdFcVJuaU1DRVRQLVNxN2pEaVJ1UkQ3RDIxMjc5ZlZ3Rk1waUV2alhfTERvSnlhcGNDQ0FpbmlLdWdWOHdJdzllSFl4b2pMNTlDbmF6SW96VDR0eVg5akthUXNRX2JOa0xZM3k3NFlLd2lrQ0Fid2tIeXNOUjNSOXZEckFDMHRVM3pFOXJPbk1kd3llTC1fWlE?oc=5",
-      "source": "GNews/Breaking",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-23T17:36:17.129537+05:00",
-      "age_min": 28.9
-    },
-    {
-      "hash": "288daaa8dc62ddc423cff97751752968",
-      "title": "The First Crypto-Native Fed Chair Kevin Warsh to face Congress on July 14 - The Crypto Times",
-      "summary": "The First Crypto-Native Fed Chair Kevin Warsh to face Congress on July 14&nbsp;&nbsp;The Crypto Times",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUF5OGF2VVYtWk1zMGxrcVdaMkdJSHZTMUdSX0U3ZllRelBQTzJaNDkxUGdtX1VqSWhOcjBHeXFYUTkxeE4wUndHa25oNnQzaFV1TzVRYmJaUTA1REt4ZHJwRFpYZ05qZTI5aWJZQ25RNlc1YkpSQWNxQldMQWhGRXo0UmxOdjVnSnZqbGpoMUF2OXhIN3hCSXpubWo1OVVfRVFnT1diazROam9wbVR1NnBB?oc=5",
+      "hash": "006567edf10ad5ab028c50004203f197",
+      "title": "Gold and Silver Prices Fall on MCX as Fed Rate Hike Bets Rise - Whalesbook",
+      "summary": "Gold and Silver Prices Fall on MCX as Fed Rate Hike Bets Rise&nbsp;&nbsp;Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDdXQ1czYklSdkgtcGtGQlZ0bHZ1dGtKLWJUVmhsbjlLUUc0b2xWUGo3Q3h0M2VRNGowSzJzSE9yd0swX2Q5NFJoMTJzbTEtcmd3Sjlwa3djX1NUQnY0cDBGb00ybENHVVZ0WjFlOTJuVTNqLUQwZjhpUEk3SW9DNk93NnJCLTJ1ZG9FYmxQaFZ6dmhuZjBfTWdtU0hQb1Q2XzhWUmxMSHM3LTlHcDZnc3RRT1NXT3RZTGxENllpbUJycTF0eG04UlF6aTNKZUpMQ0d0Wg?oc=5",
       "source": "GNews/CentralBanks",
-      "score": 6,
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-23T17:36:15.442144+05:00",
-      "age_min": 22.2
-    },
-    {
-      "hash": "bc47ee2b28db065bb8ca155d655b4b4b",
-      "title": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates - theheraldreview.com",
-      "summary": "Warsh's gamble: A quieter Federal Reserve could mean volatile markets, higher rates&nbsp;&nbsp;theheraldreview.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGI3NHRDaFpJNW5UVVQ1LVd6SUk5M1BXY3NydXhacDFuZEIzOUpGT21KOTAtNjlLQ3ZQSDJydFRCR3k2MTNFR0Vqd2d2QW11R0sySF90bVU0REZrMEpnWDVNZndsNEhPNmpKbzU2SmZzNTVVNENxNTVFZWVwVTVBMFFpSnZUMjZlZWkyWnJDVUJPVlNGYTBTdjJXaHlQaEhuV0xnLXhLaFJodGtmUDlyVUZ4NA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-23T17:36:15.433428+05:00",
-      "age_min": 113.1
-    },
-    {
-      "hash": "d60dc24ceba0574e873ae5f1609d20f3",
-      "title": "Israeli fire kills two in Lebanon as Hezbollah slams truce ‘violation’",
-      "summary": "Lebanese armed group Hezbollah denounced the &#039;treacherous attack&#039;, saying it was a &#039;blatant&#039; violation of the truce.",
-      "link": "https://www.aljazeera.com/news/2026/6/23/israeli-fire-kills-two-in-lebanon-as-hezbollah-slams-truce-violation?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-23T17:33:36.592005+05:00",
-      "age_min": 10.4
+      "ts": "2026-06-23T17:48:31.962523+05:00",
+      "age_min": 83.3
     }
   ]
 }
