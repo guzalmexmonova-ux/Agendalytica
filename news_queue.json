@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T07:04:28.438635+05:00",
+  "updated": "2026-06-23T07:18:11.442910+05:00",
   "items": [
     {
       "hash": "748e3bfdf872cebeb3d73c043e4e6a80",
@@ -38,16 +38,40 @@
       "age_min": 16.7
     },
     {
-      "hash": "9ae064393cca630aa0399cbc808c4262",
-      "title": "Oil Steadies as Iran Sales Waiver Signals Peace Talks Progress",
-      "summary": "Oil steadied as traders weighed early progress in peace talks over the Iran war, which included a US waiver allowing some sales of barrels from the Islamic Republic.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-22/latest-oil-market-news-and-analysis-for-july-23",
-      "source": "Bloomberg",
-      "score": 10,
+      "hash": "0eebeab325fb587c1f3b9b31ff4dd95d",
+      "title": "Kim Jong - Un garante que Coreia do Norte vai exercer a sua condio de Estado nuclear",
+      "summary": "",
+      "link": "https://www.publico.pt/2026/06/23/mundo/noticia/kim-jongun-coreia-norte-vai-exercer-condicao-estado-nuclear-2179132",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-23T03:17:43.292911+05:00",
-      "age_min": 15.3
+      "ts": "2026-06-23T07:15:51.767685+05:00",
+      "age_min": 90.9
+    },
+    {
+      "hash": "cf4cf5c0f07bdef1390a03b9e3947bfd",
+      "title": "North Korea will exercise its position as nuclear state",
+      "summary": "",
+      "link": "https://www.perthnow.com.au/news/conflict/north-korea-will-exercise-its-position-as-nuclear-state-c-22470043",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T07:15:51.767132+05:00",
+      "age_min": 30.9
+    },
+    {
+      "hash": "538d54fbc4cbd76328972bd10bbef2e6",
+      "title": "N . Korea Kim calls for expanding nuclear arsenal to  overtake the world",
+      "summary": "",
+      "link": "https://www.koreaherald.com/article/10784793",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T07:15:51.764605+05:00",
+      "age_min": 45.9
     },
     {
       "hash": "25b44739e12b24ab6406e6c2e77810dd",
@@ -134,16 +158,28 @@
       "age_min": 30.8
     },
     {
-      "hash": "cc5228e7aaa4d9402a1bcdd534b3a2a1",
-      "title": "Vance says talks with Iranian officials set  good foundation  for a deal to end the war",
-      "summary": "",
-      "link": "https://www.timesleader.com/news/1746607/vance-says-talks-with-iranian-officials-set-good-foundation-for-a-deal-to-end-the-war",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
+      "hash": "de7f738b0f026da8585cde098bc42373",
+      "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
+      "summary": "Iran’s chief negotiator said the Strait will never return to the way it was before the war.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-23T03:06:23.986098+05:00",
-      "age_min": 36.4
+      "ts": "2026-06-23T07:17:28.712565+05:00",
+      "age_min": 31.8
+    },
+    {
+      "hash": "afa2762c91ee742e0efe39b6d5739255",
+      "title": "Trump responds to never - ending spin war with threat to take over Strait of Hormuz",
+      "summary": "",
+      "link": "https://worldtribune.com/trump-responds-to-never-ending-spin-war-with-threat-to-take-over-strait-of-hormuz/",
+      "source": "GDELT/SANCTIONS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-23T07:16:40.480776+05:00",
+      "age_min": 46.7
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -240,30 +276,6 @@
       "status": "new",
       "ts": "2026-06-23T04:03:16.347597+05:00",
       "age_min": 25.4
-    },
-    {
-      "hash": "f4686757b954783c330237e07d194fac",
-      "title": "União dos mercados de capitais é crucial para euro ser reserva global , diz Lagarde",
-      "summary": "",
-      "link": "https://pt.euronews.com/business/2026/06/22/uniao-dos-mercados-de-capitais-e-crucial-para-euro-ser-reserva-global-diz-lagarde",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T03:06:55.760663+05:00",
-      "age_min": 51.9
-    },
-    {
-      "hash": "d7d9f8fad7cf0341422e7d643d01a5d5",
-      "title": "Europa pregătește ofensiva euro . Christine Lagarde cere reducerea dependenței de sistemele financiare americane",
-      "summary": "",
-      "link": "https://www.capital.ro/europa-pregateste-ofensiva-euro-christine-lagarde-cere-reducerea-dependentei-de-sistemele-financiare-americane.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T03:06:55.759143+05:00",
-      "age_min": 66.9
     },
     {
       "hash": "74362beba9ea7bb29c2186dc6719f23b",
@@ -506,30 +518,6 @@
       "age_min": 17.5
     },
     {
-      "hash": "ff347f0e0d77f509c299d6d0f774e1f3",
-      "title": "Kneecap bids Starmer  Slán Keir  after resignation",
-      "summary": "",
-      "link": "https://www.edp24.co.uk/news/national/26218207.kneecap-bids-starmer-slan-keir-resignation/",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T03:06:23.987059+05:00",
-      "age_min": 96.4
-    },
-    {
-      "hash": "ee43b8dc952cdf7c720f832bf57330de",
-      "title": "2 injured in drone attack on Turkish - owned vessel off Ukraine coast",
-      "summary": "",
-      "link": "https://www.dailysabah.com/politics/diplomacy/2-injured-in-drone-attack-on-turkish-owned-vessel-off-ukraine-coast",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T03:06:11.249788+05:00",
-      "age_min": 36.2
-    },
-    {
       "hash": "6a4d96eaf6ce0dd99afee6b901315e1a",
       "title": "Bitcoin may rebound if Fed pauses rate hikes, says Grayscale - Dimsum Daily",
       "summary": "Bitcoin may rebound if Fed pauses rate hikes, says Grayscale&nbsp;&nbsp;Dimsum Daily",
@@ -552,6 +540,18 @@
       "status": "new",
       "ts": "2026-06-23T06:17:49.778195+05:00",
       "age_min": 6.8
+    },
+    {
+      "hash": "65805bfc6eb10d7ef578871b4c77aea0",
+      "title": "Циркон ракета - аналітик розповів нові дані",
+      "summary": "",
+      "link": "https://www.unian.ua/weapons/cirkon-raketa-analitik-rozpoviv-novi-dani-13419897.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T07:15:51.770519+05:00",
+      "age_min": 90.9
     },
     {
       "hash": "ae136bbe3fc9e83b76f383db672b0a0f",
