@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-23T13:48:16.351168+05:00",
+  "updated": "2026-06-23T14:04:08.339237+05:00",
   "items": [
+    {
+      "hash": "da3d5e434ce746c2f337db13f3dcf7dd",
+      "title": "Live updates : Iran war , Strait of Hormuz traffic increasing , Israel - Lebanon talks to begin",
+      "summary": "",
+      "link": "https://us.cnn.com/2026/06/23/world/live-news/iran-war-trump-lebanon-israel",
+      "source": "GDELT/ENERGY",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T14:02:31.575578+05:00",
+      "age_min": 62.5
+    },
     {
       "hash": "2be550b571a3f8594f5bf70376a94f3e",
       "title": "Euro-Zone Business Activity Shows Resilience to Iran War Fallout",
@@ -60,6 +72,18 @@
       "status": "new",
       "ts": "2026-06-23T10:47:52.368358+05:00",
       "age_min": 8.6
+    },
+    {
+      "hash": "b4e11ac2500ccefb68cf15516cd31455",
+      "title": "Покушение на теракт в Пятигорске : что известно о задержанных женщинах и их кураторах",
+      "summary": "",
+      "link": "https://news.mail.ru/incident/71367740/",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T14:01:17.885974+05:00",
+      "age_min": 106.3
     },
     {
       "hash": "397829ff68052153c46b178605fc883d",
@@ -132,6 +156,18 @@
       "status": "new",
       "ts": "2026-06-23T11:16:19.774915+05:00",
       "age_min": 31.3
+    },
+    {
+      "hash": "453be9db3c88842f799815eaad0146ac",
+      "title": "Война в Украине - в Крыму прилетело по ТЭЦ - половина полуострова осталась без света",
+      "summary": "",
+      "link": "https://www.unian.net/war/voyna-v-ukraine-v-krymu-priletelo-po-tec-polovina-poluostrova-ostalas-bez-sveta-13420074.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T14:01:30.527828+05:00",
+      "age_min": 46.5
     },
     {
       "hash": "77814ec809c6a9cb1579c51e3663a2fc",
@@ -264,30 +300,6 @@
       "status": "new",
       "ts": "2026-06-23T10:47:46.924820+05:00",
       "age_min": 47.8
-    },
-    {
-      "hash": "991a1858d7890ba1bef29c9027200fae",
-      "title": "Kevin Warsh is throwing the reaction-function baby out with the dot-plot bathwater",
-      "summary": "A Delphic Fed is a dangerous Fed",
-      "link": "https://www.ft.com/content/8d6ab8b6-e4ce-4103-9f99-6cb2cb63a3fe",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T10:03:20.433392+05:00",
-      "age_min": 3.2
-    },
-    {
-      "hash": "d784f1e811ad608840df38527b8e9063",
-      "title": "Asian shares are trading mixed amid caution about the war in Iran",
-      "summary": "",
-      "link": "https://finance.yahoo.com/markets/world-indices/articles/asian-shares-trading-mixed-amid-023847622.html",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T10:03:15.258671+05:00",
-      "age_min": 108.3
     },
     {
       "hash": "a942e838ed109fadf2180b04f51ec3c1",
@@ -458,6 +470,42 @@
       "age_min": 92.5
     },
     {
+      "hash": "e20c76e481be206af496ecd6dd80a353",
+      "title": "Скандал між Польщею та Україною - медіа обох країн виступили зі спільною заявою",
+      "summary": "",
+      "link": "https://zn.ua/ukr/europe/spilne-zavdannja-zupiniti-rosiju-vidannja-ukrajini-ta-polshchi-vistupili-iz-zajavoju-na-foni-krizi.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T14:01:30.523670+05:00",
+      "age_min": 31.5
+    },
+    {
+      "hash": "1832ae913758fe2de890d27d0aecac1d",
+      "title": "Suspected Herdsmen Kill 25 in Plateau Bokkos Community Attack – THISDAYLIVE",
+      "summary": "",
+      "link": "https://www.thisdaylive.com/2026/06/23/suspected-herdsmen-kill-25-in-plateaus-bokkos-community-attack/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T14:01:17.888600+05:00",
+      "age_min": 31.3
+    },
+    {
+      "hash": "551014fa02a69ccf799306b77fbf62dd",
+      "title": "Pahalgam Attack –  ह्युमन इंटेलिजन्स  ची कमतरता , ड्रोनद्वारे पुरवण्यात आली शस्त्रास्त्रे ; NIA च्या चार्जशीटमधून महत्त्वाची माहिती समोर",
+      "summary": "",
+      "link": "https://www.saamana.com/pahalgam-attack-nia-chargesheet-reveals-weapons-dropped-via-drone-pakistan/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T14:01:17.884354+05:00",
+      "age_min": 61.3
+    },
+    {
       "hash": "49fe9ae8d30241240b27c32731eebd03",
       "title": "How Trumponomics Influenced Oil Price Volatility in the Iran War - Mitrade",
       "summary": "How Trumponomics Influenced Oil Price Volatility in the Iran War&nbsp;&nbsp;Mitrade",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-23T12:48:13.246617+05:00",
       "age_min": 7.0
-    },
-    {
-      "hash": "cdf7f7e881e2c92819e6e74dbc107d57",
-      "title": "Депутат Ивлев сравнил Зеленского с Гитлером из - за атак по регионам РФ",
-      "summary": "",
-      "link": "https://life.ru/p/1890876",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T12:46:04.730926+05:00",
-      "age_min": 61.1
-    },
-    {
-      "hash": "583e13656d7a6105facb60e45fce1003",
-      "title": "Скандал з орденом Білого Орла – нагорода зберігатиметься у спеціальному депо | Новини України",
-      "summary": "",
-      "link": "https://news.liga.net/ua/politics/news/vidibranyy-u-zelenskoho-orden-dovichno-zberihatymetsia-u-spetsialnomu-depo-rechnyk-navrotskoho",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T12:46:04.725723+05:00",
-      "age_min": 106.1
-    },
-    {
-      "hash": "a5eb1a95796690bef429a20e568cd0db",
-      "title": "US bond yields back to  normal ; AI needs a reality check , says Ed Yardeni",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-bond-yields-back-to-normal-ai-needs-a-reality-check-says-ed-yardeni/articleshow/131926775.cms",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T12:32:06.000639+05:00",
-      "age_min": 62.1
-    },
-    {
-      "hash": "db1c194c6393f583c97fcf50c6da8d39",
-      "title": "Why Iran’s President Pezeshkian is heading to Pakistan after US talks",
-      "summary": "This is Pezeshkian&#039;s first overseas trip since Iran war began, and comes a day after the high-stakes Switzerland talks.",
-      "link": "https://www.aljazeera.com/news/2026/6/23/why-irans-president-pezeshkian-is-heading-to-pakistan-after-us-iran-talks?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-23T12:17:46.596429+05:00",
-      "age_min": 39.9
     }
   ]
 }
