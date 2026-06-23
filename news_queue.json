@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T05:04:25.425823+05:00",
+  "updated": "2026-06-23T05:18:18.460683+05:00",
   "items": [
     {
       "hash": "748e3bfdf872cebeb3d73c043e4e6a80",
@@ -48,30 +48,6 @@
       "status": "new",
       "ts": "2026-06-23T03:17:43.292911+05:00",
       "age_min": 15.3
-    },
-    {
-      "hash": "3daa46e4ae9656ed871173beeaa39263",
-      "title": "JIJ report urges prosecution of Iranian missile strikes as war crimes",
-      "summary": "",
-      "link": "http://www.jpost.com/international/article-900169",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T01:16:07.500038+05:00",
-      "age_min": 46.1
-    },
-    {
-      "hash": "a2a4ffa11e3a06744144efd88061dde0",
-      "title": "Más allá de las baterías : Estudio proyecta  segunda ola de demanda de litio  impulsada por la IA , robótica y energía nuclear",
-      "summary": "",
-      "link": "https://www.df.cl/mas-alla-de-las-baterias-estudio-anticipa-la-segunda-ola-de-la-demanda-de",
-      "source": "GDELT/ENERGY",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-23T01:17:28.026470+05:00",
-      "age_min": 92.5
     },
     {
       "hash": "14da59581c036973bb82bde4cc357134",
@@ -158,16 +134,16 @@
       "age_min": 7.5
     },
     {
-      "hash": "cd434db6b4944637d30b2adde7ee872f",
-      "title": "MAGA base fractures over how Trump ended the Iran war : Poll",
-      "summary": "",
-      "link": "https://nypost.com/2026/06/22/us-news/maga-base-fractures-over-how-trump-ended-the-iran-war-poll/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "f9893b303956aa98a0c0d1ead5006b35",
+      "title": "Mideast Live Updates: U.S. Eases Sanctions on Iranian Oil, but Progress on Nuclear Issues Is Muddy",
+      "summary": "Vice President JD Vance said Iran had agreed to invite U.N. nuclear inspectors into the country, but the Iranian side said it had made “no new commitments.” Inspections had been limited since President Trump tore up an Obama-era deal in 2018.",
+      "link": "https://www.nytimes.com/live/2026/06/22/world/iran-us-trump-lebanon",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-23T01:16:07.497623+05:00",
-      "age_min": 31.1
+      "ts": "2026-06-23T05:17:28.696167+05:00",
+      "age_min": 18.2
     },
     {
       "hash": "d7e5006e6d423be5991166cb5b81a955",
@@ -374,16 +350,28 @@
       "age_min": 15.1
     },
     {
-      "hash": "8161ae5e1ed3553274964b2ef19ca6f1",
-      "title": "President Trump Signs Executive Orders, Jun. 22, 2026 https://x.com/i/broadcasts/1DxLddaAmZMxm",
-      "summary": "President Trump Signs Executive Orders, Jun. 22, 2026 nitter.net/i/broadcasts/1DxLddaAm…\n\nLink\n\n\n\nThe White House\n\nPresident Trump Signs Executive Orders, Jun. 22, 2026\nhttps://nitter.net/i/broadcasts/1DxLddaAmZMxm",
-      "link": "https://nitter.net/WhiteHouse/status/2069145708813320362#m",
-      "source": "WhiteHouse/X",
-      "score": 5,
-      "weight": 5,
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-23T01:04:25.986820+05:00",
-      "age_min": 15.2
+      "ts": "2026-06-23T05:17:30.288812+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-23T05:17:30.287612+05:00",
+      "age_min": 0
     },
     {
       "hash": "d17f58449bdbecc2f8427cb7cd450f2b",
@@ -542,6 +530,54 @@
       "age_min": 91.4
     },
     {
+      "hash": "ae136bbe3fc9e83b76f383db672b0a0f",
+      "title": "Трамп доволен обстановкой в Ормузском проливе&quot;У нас все очень хорошо относительно Ормузск [...]",
+      "summary": "Трамп доволен обстановкой в Ормузском проливе&quot;У нас все очень хорошо относительно Ормузского пролива, вчера мы получили больше нефти, чем через него когда-либо проходило (...) Пролив полностью открыт&quot;, - сказал президент США Дональд Трамп журналистам в Белом доме.  Трамп также заявил, что переговоры с Ираном идут &quot;очень хорошо&quot;",
+      "link": "https://t.me/bbbreaking/231970",
+      "source": "TG/Bloomberg",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T05:17:52.968923+05:00",
+      "age_min": 229.2
+    },
+    {
+      "hash": "e78e7ee0d9dd5c79dd5775caf90756fd",
+      "title": "$3 - billion Red Chris copper and gold mine approval advances B . C . critical mineral strategy",
+      "summary": "",
+      "link": "https://theprovince.com/business/3-billion-red-chris-copper-and-gold-mine-approval-advances-b-c-s-critical-mineral-strategy/wcm/487f7b96-5e9e-40f4-b3b0-27a344b063e5",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T05:16:51.152476+05:00",
+      "age_min": -1408.1
+    },
+    {
+      "hash": "7aca71bc54e1f57405b5769ec797a3c3",
+      "title": "Gần 80 người thương vong trong vụ nổ LNG tại Quatar",
+      "summary": "",
+      "link": "https://baomoi.com/gan-80-nguoi-thuong-vong-trong-vu-no-lng-tai-quatar-c55455097.epi",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T05:16:51.149620+05:00",
+      "age_min": -1408.1
+    },
+    {
+      "hash": "b2a55188aa4300aa5abe0108b5e4b4e4",
+      "title": "Pakistanis , Indians among 13 dead , dozens injured after blast at Qatar LNG site",
+      "summary": "",
+      "link": "https://dunyanews.tv/en/World/958653-pakistanis-indians-among-13-dead-dozens-injured-after-blast-at-qatar",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-23T05:16:51.146238+05:00",
+      "age_min": -1378.1
+    },
+    {
       "hash": "74dbd6626658eeea304fb5c68b01d8a5",
       "title": "Gradient Geothermal and T5 Smackover Partners Collaborate to Advance Integrated Geothermal and Lithium Production in East Texas",
       "summary": "",
@@ -552,6 +588,18 @@
       "status": "new",
       "ts": "2026-06-23T04:44:12.319642+05:00",
       "age_min": 89.2
+    },
+    {
+      "hash": "1b91221ab4df83f28f7c6987b2230c13",
+      "title": "Kevin Warsh Blames Predecessor for Inflation at First FOMC Meeting - HarianBasis.co",
+      "summary": "Kevin Warsh Blames Predecessor for Inflation at First FOMC Meeting&nbsp;&nbsp;HarianBasis.co",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9mdGE2RUtyaXJOak5CdkRKaHlaVkZtWHFqcTluYmoydkRrWFdoVkh5U25VT2ZDdVpzNmYtWmVISzYzcGpwaGRLdzVfNGVKSHdDc1RCRGRDZ3pWbTlpSXVUM1BVYjBjaTlBS202Q2JGazhtdmxSVXpiUE5B?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-23T05:18:02.543014+05:00",
+      "age_min": 105.0
     }
   ]
 }
