@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T11:48:47.556808+05:00",
+  "updated": "2026-06-24T12:04:01.082264+05:00",
   "items": [
     {
       "hash": "203161180c24cb810fd0b4c0ba123cbc",
@@ -72,6 +72,18 @@
       "status": "new",
       "ts": "2026-06-24T09:02:33.973431+05:00",
       "age_min": 32.6
+    },
+    {
+      "hash": "82badb97c2283e6b66c6dec901c53aa0",
+      "title": "RBA Cites Phillips Curve in Bet Its Rate Hikes Won’t Hammer Jobs",
+      "summary": "Australia’s central bank is betting the interaction between prices and jobs along the Phillips Curve mean its rapid-fire interest rate hikes will damp inflation without pushing unemployment too high, according to Deputy Governor Andrew Hauser.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-24/rba-cites-phillips-curve-in-bet-its-rate-hikes-won-t-hammer-jobs",
+      "source": "Bloomberg",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-24T12:03:12.306436+05:00",
+      "age_min": 33.2
     },
     {
       "hash": "ffd0ce7ab507554a2bdcb6bef509ef24",
@@ -326,16 +338,16 @@
       "age_min": 94.1
     },
     {
-      "hash": "efeb5cd5b05b3e041b0076b32299be8d",
-      "title": "US workers lose buying power after war drives up prices",
-      "summary": "",
-      "link": "https://www.pilotonline.com/2026/06/23/us-workers-buying-power/",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
+      "hash": "ea276b087b3048f7c1cee13cbb9e826d",
+      "title": "U.S. and Iran Offer Conflicting Accounts of Nuclear Discussions",
+      "summary": "President Trump said Iran had agreed to the “highest level” inspections, hours after an Iranian official said there were “no detailed discussions on the nuclear issue,” as the two sides continued to present different narratives of their latest talks.",
+      "link": "https://www.nytimes.com/live/2026/06/23/world/iran-us-trump-lebanon",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-24T08:03:09.803661+05:00",
-      "age_min": 63.2
+      "ts": "2026-06-24T12:03:13.973318+05:00",
+      "age_min": 14.7
     },
     {
       "hash": "6f64b5920937ab14ed4e2abe42af70f0",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-24T10:34:52.415804+05:00",
       "age_min": 2.5
-    },
-    {
-      "hash": "79b8b8139ed9e4add401ec59051ab1bc",
-      "title": "Ukraine is raising the cost of war for Russia — and testing Putin's resolve",
-      "summary": "A string of political victories and deep-strike successes has bolstered confidence in Ukraine amid its long-running war with Russia.",
-      "link": "https://www.cnbc.com/2026/06/24/ukraine-russia-drone-strikes-moscow-escalation.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-24T10:17:39.599276+05:00",
-      "age_min": 17.6
     }
   ]
 }
