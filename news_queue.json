@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T15:04:28.657177+05:00",
+  "updated": "2026-06-24T15:18:46.650780+05:00",
   "items": [
     {
       "hash": "f94364fe2bc6a8789a39dc41c015ab09",
@@ -86,6 +86,30 @@
       "age_min": 31.9
     },
     {
+      "hash": "20e0e48107c8dd7bb0ca8336753aff65",
+      "title": "North Korea Kim claims progress on nuclear - armed navy as new warship is placed into service",
+      "summary": "",
+      "link": "https://www.arabnews.com/node/2648397/world",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-24T15:15:51.202480+05:00",
+      "age_min": 30.9
+    },
+    {
+      "hash": "e313831e1877268223b749171c61d7e2",
+      "title": "North Korea Kim unveils plans for 10 , 000 - tonne warships , nuclear navy - Asia & Pacific",
+      "summary": "",
+      "link": "http://www.thejakartapost.com/world/2026/06/24/north-koreas-kim-unveils-plans-for-10000-tonne-warships-nuclear-navy",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-24T15:15:51.196391+05:00",
+      "age_min": 30.9
+    },
+    {
       "hash": "e8fe7763ba703ec044720ef674c3eb83",
       "title": "BOJ’s Ueda Reiterates Risk of Inflation Exceeding 2% Target",
       "summary": "The Bank of Japan sees the risk of inflation exceeding its 2% target and will conduct additional interest-rate hikes appropriately, Governor Kazuo Ueda said in speech Wednesday that reiterated policymakers’ recent messaging.",
@@ -146,40 +170,16 @@
       "age_min": 9.5
     },
     {
-      "hash": "898b8817f438c5af92e3b574908626ad",
-      "title": "US , Iran disagree over nuclear inspections | News , Sports , Jobs",
+      "hash": "056bcbb0c0815714cd1af5eb94f2a9b2",
+      "title": "Ukraine recovery to be deliberated in Poland amid Kyiv - Warsaw spat | Russia - Ukraine war News",
       "summary": "",
-      "link": "https://www.ironmountaindailynews.com/news/2026/06/us-iran-disagree-over-nuclear-inspections/",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
+      "link": "https://www.aljazeera.com/news/2026/6/24/ukraines-recovery-to-be-deliberated-in-poland-amid-kyiv-warsaw-spat",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-24T11:15:43.383420+05:00",
-      "age_min": 75.7
-    },
-    {
-      "hash": "d5f6f9a233c5b4246fd4386a42d48f2c",
-      "title": "North Korea Kim claims progress on nuclear - armed navy with new warship",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/world/north-korea-s-kim-claims-progress-on-nuclear-armed-navy-with-new-warship-article-13957240.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T11:15:43.379798+05:00",
-      "age_min": 105.7
-    },
-    {
-      "hash": "5d07f93666b701ea4d549e1463ec9445",
-      "title": "Kim Jong Un deploys nuclear destroyer , ordering fleet of 10 , 000 - ton warships",
-      "summary": "",
-      "link": "https://www.israelnationalnews.com/news/429104",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T11:15:43.377384+05:00",
-      "age_min": 105.7
+      "ts": "2026-06-24T15:16:13.718445+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "2b478148e4901d6380d36c93f4f28449",
@@ -278,40 +278,16 @@
       "age_min": 106.6
     },
     {
-      "hash": "3b6c3314870761e28d10ae76b902732c",
-      "title": "Senate approves a war powers resolution in a rebuke to Trump | News , Sports , Jobs",
-      "summary": "",
-      "link": "https://www.ironmountaindailynews.com/news/2026/06/senate-approves-a-war-powers-resolution-in-a-rebuke-to-trump/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "35af484bfffc50f596f421be152b6025",
+      "title": "Rubio Seeks to Reassure Persian Gulf Allies on Iran Deal",
+      "summary": "Secretary of State Marco Rubio was scheduled to meet with leaders in Abu Dhabi, Kuwait and Bahrain, which were targeted by Iranian attacks during the war.",
+      "link": "https://www.nytimes.com/2026/06/24/world/middleeast/middle-east-iran-us-rubio.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-24T11:15:43.383149+05:00",
-      "age_min": 75.7
-    },
-    {
-      "hash": "bf4efaf85e72f173d53c59ad783a67a4",
-      "title": "Menaces de Kiev envers Minsk , dangereuse escalade ou simple coup de pression  ?  Les Biélorusses ne se plieront jamais à cet ultimatum",
-      "summary": "",
-      "link": "https://www.lalibre.be/international/europe/guerre-ukraine-russie/2026/06/24/menaces-de-kiev-envers-minsk-dangereuse-escalade-ou-simple-coup-de-pression-les-bielorusses-ne-se-plieront-jamais-a-cet-ultimatum-USMG4GYIMBFQZB5PVKGSVP3MRE/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T11:15:43.382106+05:00",
-      "age_min": 75.7
-    },
-    {
-      "hash": "7351299b99240d6cbd4b664d0f23b450",
-      "title": "Senate backs resolution to end Trump Iran war , delivering fresh rebuke to White House",
-      "summary": "",
-      "link": "https://www.newindianexpress.com/world/2026/Jun/24/senate-backs-resolution-to-end-trumps-iran-war-delivering-fresh-rebuke-to-white-house",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T11:15:43.380683+05:00",
-      "age_min": 75.7
+      "ts": "2026-06-24T15:17:52.513332+05:00",
+      "age_min": 18.5
     },
     {
       "hash": "436a40a26422253023c5e00ed7e07ff0",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-06-24T13:33:33.854134+05:00",
       "age_min": 13.1
+    },
+    {
+      "hash": "6e552c88b160ad978bd312578729cd72",
+      "title": "Euro Extends Decline Against US Dollar As Firm Fed Rate Hike Bets Persist - Bitcoin World",
+      "summary": "Euro Extends Decline Against US Dollar As Firm Fed Rate Hike Bets Persist&nbsp;&nbsp;Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdzNkSHNDRUgyb3VfeGtWdXVBMlRGcGtLUTdQZWdnNnRKOHFxNXM4S1dJVnhXcFQyV25YM0FLZWF6dU1DS0tLTkZMeHpyT3VSdzZFLUJnVk5KSUYyTjZDbU5wVWozclA4OW5qOHJ0VVZ0ZnBmQS1YeXNVaVBJM3BmM3RRVQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-24T15:18:25.812415+05:00",
+      "age_min": 38.2
+    },
+    {
+      "hash": "6564fbf5a158135c3fe8cd75eafc72f0",
+      "title": "Yield outlook – New chair cements outlook for rate hikes - FXStreet",
+      "summary": "Yield outlook – New chair cements outlook for rate hikes&nbsp;&nbsp;FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTNhdDlCZW1objhhS2dRbDcxZVNRSkhvaGZ2Z1RTeUtqMzhHd21VbVg3cEhVeC1zUEdOZThJLVVLbkZVTmlCMlVPSzNmVlFqT1h5cFh5RFdVWXBlcXRsSXd5WFpSaDBLa0lMbkl5TTVPcTVCWHVQeGlaRS1NLS0xTEx0UXd2bFdnQ1RscFEzZkZPb3pITzVFNnlLUm1pUG0xbzJZ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-24T15:18:25.805520+05:00",
+      "age_min": 7.7
     }
   ]
 }
