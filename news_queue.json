@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T13:34:03.455380+05:00",
+  "updated": "2026-06-24T13:48:35.132573+05:00",
   "items": [
     {
       "hash": "68e5ce01b894cfae1cec951070fd34b5",
@@ -182,30 +182,6 @@
       "age_min": 77.2
     },
     {
-      "hash": "b5ce736748e258742889033440a65d71",
-      "title": "North Korea Kim Jong Un unveils plans for 10 , 000 - ton warships , nuclear navy",
-      "summary": "",
-      "link": "https://www.newstalkzb.co.nz/news/world/north-korea-s-kim-jong-un-unveils-plans-for-10-000-ton-warships-nuclear-navy/",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T09:41:31.094585+05:00",
-      "age_min": 41.5
-    },
-    {
-      "hash": "e0a8af405cd4936cf6892988346ff24b",
-      "title": "India’s RBI Governor Says Premature to Discuss Rate Hike",
-      "summary": "India’s central bank Governor Sanjay Malhotra said it’s still “premature” to talk about an interest rate hike given ongoing geopolitical uncertainties, noting future decisions will be guided by incoming data.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-24/rbi-in-wait-and-watch-mode-as-us-iran-talk-peace-governor-says",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T09:34:52.161156+05:00",
-      "age_min": 21.9
-    },
-    {
       "hash": "793a40368d186733e862d4e43e7c3fc7",
       "title": "Corée du Nord  : Kim Jong - un remet un énième coup de pression avec ses armes nucléaires",
       "summary": "",
@@ -374,16 +350,28 @@
       "age_min": 19.5
     },
     {
-      "hash": "3e21fd3313e5849ad89417db46f02a90",
-      "title": "Myanmar’s Civil War Has Become an Apocalypse",
-      "summary": "Overshadowed by conflicts in Ukraine, Gaza and Lebanon, the fighting in Myanmar’s isolated heartland has reached new depths.",
-      "link": "https://www.nytimes.com/2026/06/24/world/asia/myanmar-civil-war-rebels-airstrikes.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
+      "hash": "c68c7541952e207354f37e2af578b478",
+      "title": "RBI governor Sanjay Malhotra calls rate hike talks premature",
+      "summary": "",
+      "link": "https://www.livemint.com/economy/rbi-governor-sanjay-malhotra-calls-rate-hike-talks-premature-11782279946816.html",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-24T09:34:53.493419+05:00",
-      "age_min": 33.5
+      "ts": "2026-06-24T13:46:56.616262+05:00",
+      "age_min": 61.9
+    },
+    {
+      "hash": "2ae3c1971bb3b1e036894840a81d0c24",
+      "title": "Interest rate hikes remain on cards as Australia underlying inflation climbs , economists warn | Interest rates",
+      "summary": "",
+      "link": "https://www.theguardian.com/australia-news/2026/jun/24/interest-rate-hikes-remain-on-cards-as-underlying-inflation-climbs-economists-warn",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-24T13:46:56.611266+05:00",
+      "age_min": 31.9
     },
     {
       "hash": "8ede1eb49de836c6aa2d97d155c3cbe4",
@@ -446,18 +434,6 @@
       "age_min": 26.1
     },
     {
-      "hash": "044ec9c59d064c91cf14edc780591410",
-      "title": "Dollar at 13 - month high as rate hike bets , stock rout boost demand",
-      "summary": "",
-      "link": "https://www.zawya.com/en/business/currencies/dollar-at-13-month-high-as-rate-hike-bets-stock-rout-boost-demand-omt0h27e",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T09:46:42.314464+05:00",
-      "age_min": 31.7
-    },
-    {
       "hash": "a92b4459857ce5f4406e7ba86831390b",
       "title": "Adani sets 10 GW nuclear goal as it expands data center capacity",
       "summary": "",
@@ -492,6 +468,30 @@
       "status": "new",
       "ts": "2026-06-24T13:07:55.050335+05:00",
       "age_min": 48.5
+    },
+    {
+      "hash": "a02d8e8d9dbfdaf4a2d8c9e1344767ab",
+      "title": "British General Says AI Cut War Planning Cycle From 72 Hours to One",
+      "summary": "",
+      "link": "https://www.businessinsider.com/british-army-head-war-planning-cycle-asgard-cut-72-hours-2026-6",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-24T13:47:13.765641+05:00",
+      "age_min": 92.2
+    },
+    {
+      "hash": "6cf57c7ac18cb851f72498efb7ba8bd9",
+      "title": "Taiwan says warning time for any China attack is shortening",
+      "summary": "",
+      "link": "https://www.ksl.com:443/article/51538421/taiwan-says-warning-time-for-any-china-attack-is-shortening",
+      "source": "GDELT/TAIWAN",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-24T13:46:35.255178+05:00",
+      "age_min": 31.6
     },
     {
       "hash": "b19ca165a23813f006fde7b36211e22b",
