@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T19:34:01.147787+05:00",
+  "updated": "2026-06-24T19:49:55.100262+05:00",
   "items": [
     {
       "hash": "9ac2727890224f30646565e1c29ca72f",
@@ -218,6 +218,18 @@
       "age_min": 93.3
     },
     {
+      "hash": "df6dac9ee2c288b3bc596dd62e0a2fc0",
+      "title": "Brent crude falls below $74 for first time since start of the Iran war",
+      "summary": "",
+      "link": "https://www.euronews.com/business/2026/06/24/brent-crude-falls-below-74-for-first-time-since-start-of-the-iran-war",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-24T19:49:11.382561+05:00",
+      "age_min": 34.2
+    },
+    {
       "hash": "54118915dc5cdbf77000f1a4152bbd3f",
       "title": "Stranded Hormuz seafarers begin mass evacuation operation",
       "summary": "As the UN International Maritime Organization (IMO) released more details of its plan to evacuate more than 11,000 seafarers stranded in the Strait of Hormuz, one mariner caught up in the emergency has described the ever-present fear of coming under attack.",
@@ -324,42 +336,6 @@
       "status": "new",
       "ts": "2026-06-24T16:03:30.012208+05:00",
       "age_min": 18.5
-    },
-    {
-      "hash": "acffdfba4563a382f546159d3cc2f127",
-      "title": "Gaza War ; Israel Palestine Children Target Killing",
-      "summary": "",
-      "link": "https://www.bhaskar.com/g/international/news/israel-palestinian-children-killed-un-report-targeting-138275202.html",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T15:46:32.136721+05:00",
-      "age_min": 31.5
-    },
-    {
-      "hash": "f7839696e67b4b3d630ececb8fd0b63d",
-      "title": "Ukraine - Russia war latest : Putin claims he is ready for peace talks after Kyiv refinery strikes spark fuel shortages",
-      "summary": "",
-      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-trump-zelensky-peace-talks-b3001811.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T15:46:18.677920+05:00",
-      "age_min": 46.3
-    },
-    {
-      "hash": "e8fcc4052cd5798ca05db5ee3763bb72",
-      "title": "The US Senate passes a war powers bill to block military action against Iran",
-      "summary": "",
-      "link": "https://www.sbs.com.au/news/podcast-episode/the-us-senate-passes-a-war-powers-bill-to-block-military-action-against-iran/hy4kky46w",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-24T15:45:52.830099+05:00",
-      "age_min": 45.9
     },
     {
       "hash": "35af484bfffc50f596f421be152b6025",
@@ -600,6 +576,30 @@
       "status": "new",
       "ts": "2026-06-24T19:17:57.216286+05:00",
       "age_min": 122.2
+    },
+    {
+      "hash": "5d2a52dfd362fd5ecc37d6217ba66038",
+      "title": "Bessent Backs Warsh's Fed Communication Overhaul, Endorses Dot Plot Removal - IndexBox",
+      "summary": "Bessent Backs Warsh's Fed Communication Overhaul, Endorses Dot Plot Removal&nbsp;&nbsp;IndexBox",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmdvSkQySlhCUUdjQVdJaC1jTnZ3NnRwazk1M1NLeUVqaXBUR2lrbEgybHVWQ0Q0b0RKRDAxLWR0TUpScVJkSEFBQXZzeDJHeWpNalJyb1ZSQzhzdmZoenVJY2tLUEVvRzd0UW0zbGZ3d0VKQ0VMRnBPWUlwYlVBNHZHb1dOUTlmYmdaYjNBaTcxTmR5VnhlWE5YalNBanNiWXpYdHFR?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-24T19:49:38.092289+05:00",
+      "age_min": 37.6
+    },
+    {
+      "hash": "573be0484ca410c80d558dfa0cdcd4e8",
+      "title": "Rubio says Iran cannot charge tolls in Hormuz: What we know",
+      "summary": "Tehran says the strait &#039;will never return&#039; to its prewar conditions and claims it can charge fees for services.",
+      "link": "https://www.aljazeera.com/news/2026/6/24/rubio-says-iran-cannot-charge-tolls-in-hormuz-what-we-know?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-24T19:49:16.243066+05:00",
+      "age_min": 21.4
     }
   ]
 }
