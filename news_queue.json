@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T21:04:21.521716+05:00",
+  "updated": "2026-06-25T21:18:45.963253+05:00",
   "items": [
     {
       "hash": "d71c2b84a1208e98c8c9a636461d8dee",
@@ -12,6 +12,30 @@
       "status": "new",
       "ts": "2026-06-25T18:18:56.968680+05:00",
       "age_min": 20.6
+    },
+    {
+      "hash": "ec4b04c3c8c5fb94ec5bf9e0484ecdf5",
+      "title": "US Consumer Spending Picks Up as Inflation Hits Three-Year High",
+      "summary": "US consumer spending accelerated in May even as prices rose at the fastest pace in more than three years, suggesting Americans are powering through the fallout from the Iran war.\nRob Sockin, Chief US Economist at PGIM Credit, reacts to the PCE data and explains how the Fed might react to the numbers. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/us-consumer-spending-picks-up-despite-higher-inflation-video",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T21:17:51.099060+05:00",
+      "age_min": 16.8
+    },
+    {
+      "hash": "13cf81b9319a19e816adaca2237bb20d",
+      "title": "SpaceX Credit Derivatives Start to Trade After Debut Bond Sale",
+      "summary": "Credit-default swaps tied to Elon Musk’s SpaceX have begun actively trading after the company sold high-grade bonds this week for the first time, according to people familiar with the matter, allowing investors to hedge against potential losses or to speculate on the creditworthiness of the firm.",
+      "link": "https://www.bloomberg.com/news/articles/2026-06-25/spacex-credit-derivatives-start-to-trade-after-debut-bond-sale",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T21:17:51.098238+05:00",
+      "age_min": 12.4
     },
     {
       "hash": "3e680dcf5d95971f0b31b9a472a257da",
@@ -96,6 +120,18 @@
       "status": "new",
       "ts": "2026-06-25T18:17:51.987183+05:00",
       "age_min": 26.7
+    },
+    {
+      "hash": "85c9911ad70a9c166d1bf080d44b65a9",
+      "title": "Europe pushes back against Washington chip war",
+      "summary": "",
+      "link": "https://www.samaa.tv/2087352592-europe-pushes-back-against-washington-s-chip-war",
+      "source": "GDELT/TAIWAN",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T21:16:32.912297+05:00",
+      "age_min": 76.5
     },
     {
       "hash": "74e7203bb8086e7ce47b1cd08e649c14",
@@ -218,42 +254,6 @@
       "age_min": 10.3
     },
     {
-      "hash": "1359644d9bff2be56e17e174ec6590a7",
-      "title": "As Ukraine seizes  first chance to win , war horrors come home to Russia | Russia - Ukraine war News",
-      "summary": "",
-      "link": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T17:16:08.611827+05:00",
-      "age_min": 31.1
-    },
-    {
-      "hash": "6619cc1bdf1c179953c8aef0c2a41e1d",
-      "title": "Donald Trump and Republican senator engage in shouting match over Iran war",
-      "summary": "",
-      "link": "https://www.irishtimes.com/world/us/2026/06/25/donald-trump-and-republican-senator-engage-in-shouting-match-over-iran-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T17:15:46.532135+05:00",
-      "age_min": 90.8
-    },
-    {
-      "hash": "08efb7b24c5e7cc5853b678bf390b05d",
-      "title": "Iran War Supplemental : Pentagon Requests $87 . 6B as Munitions Stockpiles Run Low",
-      "summary": "",
-      "link": "https://www.techtimes.com/articles/319033/20260625/iran-war-supplemental-pentagon-requests-876b-munitions-stockpiles-run-low.htm",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T17:15:46.528291+05:00",
-      "age_min": 45.8
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -314,18 +314,6 @@
       "age_min": 1.9
     },
     {
-      "hash": "c1bbad44e3bb8005b72f8448dd4689d5",
-      "title": "Chinese door-to-door logistics networks grow in US to counter trade war",
-      "summary": "",
-      "link": "https://asia.nikkei.com/economy/trade-war/chinese-door-to-door-logistics-networks-grow-in-us-to-counter-trade-war",
-      "source": "Nikkei Asia",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T17:08:08.991710+05:00",
-      "age_min": 0
-    },
-    {
       "hash": "e9e49badcdfddb47c127214c0f35d06e",
       "title": "Ships Appear to U-Turn While Trying to Exit Hormuz by Oman Route",
       "summary": "At least three ships, including two oil supertankers, appeared to turn around while attempting to cross the Strait of Hormuz using a route that hugs Oman’s coastline.",
@@ -348,6 +336,18 @@
       "status": "new",
       "ts": "2026-06-25T20:03:39.586015+05:00",
       "age_min": 24.6
+    },
+    {
+      "hash": "85152f73e5ded011f7842ff02334e00a",
+      "title": "WTI Crude Falls Below $70; Iraq Pressures OPEC With \"Retreat to Advance,\" Collapse Risk Surges - TradingKey",
+      "summary": "WTI Crude Falls Below $70; Iraq Pressures OPEC With \"Retreat to Advance,\" Collapse Risk Surges&nbsp;&nbsp;TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ09OcWU5UGtpM2VDaHY0U295RDZONWdRNjlxMC1KY3BuaHV6d0VNUlQ1dmdfT1BseEpUSXBwX0gtUXJOQ0JKbHhRUVpQRXdpNU9ObHdBWjlGM2NhWE51S2l1SmFyYU1HRFVCZGU2ZG1hUGw0TkhlTTJuOVRneTkzLWcwMnVPODdZaGlSNXdPcHNxcGZ4bS1yRllR?oc=5",
+      "source": "GNews/Oil",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-25T21:18:25.118340+05:00",
+      "age_min": 108.6
     },
     {
       "hash": "a6f310af98133dcad28779e14f48691f",
@@ -384,6 +384,30 @@
       "status": "new",
       "ts": "2026-06-25T18:03:36.075237+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "d4b169eb77ca6bfde57b27ae86bbb5ee",
+      "title": "Oil price back at prewar levels as Gulf flows pick up",
+      "summary": "Brent crude drops below the $72.48 a barrel it traded at in late February before Iran conflict erupted",
+      "link": "https://www.ft.com/content/7a05c821-491f-41a7-8d03-53183fbbb719",
+      "source": "FT",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T21:17:51.488431+05:00",
+      "age_min": 7.4
+    },
+    {
+      "hash": "3c1b42bc8c4fe2a8b8a340e387baa8d3",
+      "title": "2 people killed in Israeli drone strike on car in South Lebanon",
+      "summary": "",
+      "link": "https://www.cbc.ca/news/world/israeli-strike-south-lebanon-9.7248434",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T21:15:44.079543+05:00",
+      "age_min": 45.7
     },
     {
       "hash": "eac0ede5f7e050e43240518164fb1bee",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-25T17:34:00.087675+05:00",
       "age_min": 99.0
-    },
-    {
-      "hash": "c1bc58baeed1fcb5685900fad5b3f993",
-      "title": "За последние три месяца Кения столкнулась с более чем 3 миллиардами попыток кибератак, направл [...]",
-      "summary": "За последние три месяца Кения столкнулась с более чем 3 миллиардами попыток кибератак, направленных на цифровую инфраструктуру, облачные сервисы и государственные учреждения. Об этом пишет газета The Star со ссылкой на доклад Национального координационного комитета по вопросам компьютерных и киберпреступлений Кении.",
-      "link": "https://t.me/bbbreaking/232154",
-      "source": "TG/Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T17:33:50.805487+05:00",
-      "age_min": 83.5
-    },
-    {
-      "hash": "4d8b3b6a038c28001ebc5051d62d62aa",
-      "title": "Rubio tells Gulf allies no deal to allow Strait of Hormuz fees",
-      "summary": "",
-      "link": "https://www.samaa.tv/2087352583-rubio-tells-gulf-allies-no-deal-to-allow-strait-of-hormuz-fees",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T20:45:43.474827+05:00",
-      "age_min": 45.7
     }
   ]
 }
