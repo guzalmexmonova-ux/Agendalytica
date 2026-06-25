@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T02:33:54.797655+05:00",
+  "updated": "2026-06-26T02:48:51.582057+05:00",
   "items": [
     {
       "hash": "211dd3b688fc59395504865e06cc7e35",
@@ -98,18 +98,6 @@
       "age_min": 26.8
     },
     {
-      "hash": "4fa6e678830986e10569f724506a2e05",
-      "title": "Oil price falls to pre - Iran war levels as more tankers exit strait of Hormuz",
-      "summary": "",
-      "link": "https://www.aol.co.uk/articles/oil-price-falls-pre-iran-073913000.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T22:47:47.075979+05:00",
-      "age_min": 77.8
-    },
-    {
       "hash": "b9414f2e4fc7db896ab2f3a33cf232a8",
       "title": "Treasuries Volatility Will Go Higher: Marden",
       "summary": "Adam Marden, co-portfolio manager of the dynamic global bond strategy at T. Rowe Price, and Deirdre Dunn, head of global rates at Citi, join Katie Greifeld on \"Bloomberg Real Yield.\" Treasuries gained after the Federal Reserve’s favored inflation gauge rose less than estimated, damping expectations for an interest-rate hike in the months ahead. (Source: Bloomberg)",
@@ -120,6 +108,18 @@
       "status": "new",
       "ts": "2026-06-25T23:47:44.076650+05:00",
       "age_min": 11.2
+    },
+    {
+      "hash": "7c88d939675702e3258eaaa130153d0c",
+      "title": "Tras 25 años , la Argentina cerró el último capítulo del default de 2001",
+      "summary": "",
+      "link": "https://www.lanacion.com.ar/economia/tras-25-anos-la-argentina-cerro-el-ultimo-capitulo-del-default-de-2001-nid25062026/",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T02:47:57.402231+05:00",
+      "age_min": 48.0
     },
     {
       "hash": "62ea3214bc626f319f554803edb74878",
@@ -276,30 +276,6 @@
       "status": "new",
       "ts": "2026-06-25T23:01:14.745031+05:00",
       "age_min": 106.2
-    },
-    {
-      "hash": "4a687b0f500a22fcfb3b33676bdbb7ff",
-      "title": "Gillibrand takes Trump to task on Iran War deal , housing act",
-      "summary": "",
-      "link": "https://www.oneidadispatch.com/2026/06/25/gillibrand-takes-trump-to-task-on-iran-war-deal-housing-act/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T22:47:47.075125+05:00",
-      "age_min": 32.8
-    },
-    {
-      "hash": "e43c002e284b0b4d4bf5ab30a93dae2a",
-      "title": "Trump , Republican senator in shouting match over unpopular Iran war - Marianas Variety News & Views",
-      "summary": "",
-      "link": "https://www.mvariety.com/news/national/national-trump-republican-senator-in-shouting-match-over-unpopular-iran-war/article_27c39499-9ec3-487d-824d-4a40befbdc14.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T22:47:47.071736+05:00",
-      "age_min": 32.8
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -576,6 +552,54 @@
       "status": "new",
       "ts": "2026-06-26T00:17:57.943861+05:00",
       "age_min": 187.5
+    },
+    {
+      "hash": "83c4b23059a367c5849fa1a1dd6291e8",
+      "title": "Lithium Prices Tumble As Traders Brace For CATL Supply Surge",
+      "summary": "",
+      "link": "https://oilprice.com/Metals/Commodities/Lithium-Prices-Tumble-As-Traders-Brace-For-CATL-Supply-Surge.html",
+      "source": "GDELT/MACRO",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T02:47:57.404143+05:00",
+      "age_min": 93.0
+    },
+    {
+      "hash": "17ba160c8cae6f1048f0ae27083ea030",
+      "title": "DPP slammed for stoking tensions across Taiwan Strait",
+      "summary": "",
+      "link": "http://www.taiwansun.com/news/279147100/dpp-slammed-for-stoking-tensions-across-taiwan-strait",
+      "source": "GDELT/TAIWAN",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T02:46:34.206716+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "f52d6049392277a2330200f29d03239d",
+      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+      "summary": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days&nbsp;&nbsp;LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+      "source": "GNews/Gold",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-26T02:48:32.071518+05:00",
+      "age_min": 11.9
+    },
+    {
+      "hash": "d3c83300cbbd62ec8c82f2339489c10b",
+      "title": "EU pitches Brazil a ‘more beneficial’ rare earths deal than US or China",
+      "summary": "The European Union is offering Brazil a “more beneficial” partnership on critical minerals than the United States or China, the bloc’s international partnerships commissioner said on Thursday, promising investment in domestic refining and technology as Brussels works to cut its dependence on Chinese supply chains.\nEuropean Commissioner for International Partnerships Jozef Sikela made the case duri",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3358405/eu-pitches-brazil-more-beneficial-rare-earths-deal-us-or-china?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-26T02:48:03.920288+05:00",
+      "age_min": 10.9
     }
   ]
 }
