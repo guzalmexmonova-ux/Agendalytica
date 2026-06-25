@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T00:31:12.831643+05:00",
+  "updated": "2026-06-26T00:48:38.699881+05:00",
   "items": [
     {
       "hash": "ceb3365303aa76bd409c219059fac7c6",
@@ -182,28 +182,28 @@
       "age_min": 7.3
     },
     {
-      "hash": "ab9ac40b172552111d74779b92bfb6a5",
-      "title": "Initial Probe Reveals IED Used in Journalist Assassination in Mukalla",
-      "summary": "",
-      "link": "https://www.khabaragency.net/news248992.html",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T20:31:14.937172+05:00",
-      "age_min": 31.2
-    },
-    {
-      "hash": "b72c79419e03c1242b8697d8c089f9ad",
-      "title": "THE IRAN WAR -- REFRAMED – The Moderate Voice",
-      "summary": "",
-      "link": "https://themoderatevoice.com/the-iran-war-reframed/",
-      "source": "GDELT/MIDEAST",
+      "hash": "79784d353a7e5135d13ef9439c573dfe",
+      "title": "Attack in Strait of Hormuz halts evacuation plan for stranded ships",
+      "summary": "International Maritime Organization calls a halt after container ship was hit by ‘unknown projectile’",
+      "link": "https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c",
+      "source": "FT",
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-26T00:28:58.943413+05:00",
-      "age_min": 29.0
+      "ts": "2026-06-26T00:47:49.053878+05:00",
+      "age_min": 6.0
+    },
+    {
+      "hash": "9f726e6172b820cbef245ba1781350e3",
+      "title": "Война в Украине – Путин не переживет потерю Крыма",
+      "summary": "",
+      "link": "https://www.unian.net/world/voyna-v-ukraine-putin-ne-perezhivet-poteryu-kryma-13423116.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T00:46:09.602334+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "8987db70afe3e2b004dd9e3776e9582a",
@@ -334,7 +334,7 @@
       "score": 10,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-26T00:30:25.930921+05:00",
+      "ts": "2026-06-26T00:47:51.261524+05:00",
       "age_min": 0
     },
     {
@@ -394,8 +394,8 @@
       "score": 7,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-26T00:30:24.336370+05:00",
-      "age_min": 11.2
+      "ts": "2026-06-26T00:33:18.668500+05:00",
+      "age_min": 14.1
     },
     {
       "hash": "96fed969ce827f0cf1d5401df0713bba",
@@ -458,6 +458,18 @@
       "age_min": 0
     },
     {
+      "hash": "da919e1b951dd0dbca018c8428979d76",
+      "title": "Удары по России - Зеленский одобрил 40 - дневную операцию новых атак",
+      "summary": "",
+      "link": "https://gazeta.ua/ru/articles/politics/_stimulirovanie-okonchaniya-vojny-zelenskij-odobril-40dnevnuyu-operaciyu-po-naneseniyu-udarov-po-rossii/1253429",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T00:46:09.607270+05:00",
+      "age_min": 31.2
+    },
+    {
       "hash": "a3d3f4c4c834728fb2e6c9f279019013",
       "title": "Iran behind attack on cargo vessel near Oman in Strait of Hormuz, U.S. official tells MS NOW",
       "summary": "\"The only crop we're harvesting is what you planted: decades of mistrust,\" Iranian parliament speaker Mohammad Bagher Ghalibaf said in a social media post.",
@@ -466,8 +478,20 @@
       "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-26T00:30:24.630553+05:00",
-      "age_min": 5.3
+      "ts": "2026-06-26T00:33:19.250232+05:00",
+      "age_min": 2.5
+    },
+    {
+      "hash": "679430b82a5e55c2c0bc7e6a74042327",
+      "title": "Война России против Украины - в НАТО заявили о создании окна возможностей",
+      "summary": "",
+      "link": "https://gazeta.ua/ru/articles/politics/_eto-ne-budet-dlitsya-vechno-v-nato-zayavili-chto-ukraina-sozdala-okno-vozmozhnostej-v-vojne-protiv-rf-cenoj-bolshih-zhertv/1253421",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-26T00:31:52.322501+05:00",
+      "age_min": 91.9
     },
     {
       "hash": "ef3b85f4509664ea2b2716f79cb0c570",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-26T00:01:09.531333+05:00",
       "age_min": 46.2
-    },
-    {
-      "hash": "81674e3204891110bc0ea764bb43bab4",
-      "title": "💬 #Zakharova: The sums being donated to Ukraine to continue hostilities against Russia clearly show that it's Europe that has in essence 👉 become the main obstacle to peace. Kiev is seeking escalation to push NATO & the EU into a direct military clash with Russia.",
-      "summary": "💬 #Zakharova: The sums being donated to Ukraine to continue hostilities against Russia clearly show that it's Europe that has in essence 👉 become the main obstacle to peace.\n\nKiev is seeking escalation to push NATO &amp; the EU into a direct military clash with Russia.",
-      "link": "https://nitter.net/mfa_russia/status/2070160088535650540#m",
-      "source": "RussiaMFA/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T23:48:22.182608+05:00",
-      "age_min": 228.4
-    },
-    {
-      "hash": "9c7b8cab2cd8aa66949c02cd17571826",
-      "title": "Russia Halts Refinery After Drone Strike",
-      "summary": "",
-      "link": "https://athens-times.com/russia-halts-operations-at-fourth-largest-refinery-after-ukrainian-drone-strike/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T23:16:09.942569+05:00",
-      "age_min": 61.2
     }
   ]
 }
