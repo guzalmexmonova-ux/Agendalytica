@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T05:18:28.234136+05:00",
+  "updated": "2026-06-25T05:33:54.800393+05:00",
   "items": [
     {
       "hash": "c125d0f8c61a6b90aeaa138350e1e3e0",
@@ -350,6 +350,30 @@
       "age_min": 0
     },
     {
+      "hash": "0c9549463bdff648dab2861d0e49bc1b",
+      "title": "OSFI rate cut may impact monetary policy - Investment Executive",
+      "summary": "",
+      "link": "https://www.investmentexecutive.com/news/economy/osfis-rate-cut-may-impact-monetary-policy/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T05:32:10.345144+05:00",
+      "age_min": -1377.8
+    },
+    {
+      "hash": "28a1541ba5066b41524c8da94de29e51",
+      "title": "Three more rate hikes now on the cards - realestate . com . au",
+      "summary": "",
+      "link": "https://www.realestate.com.au/news/three-more-rate-hikes-now-on-the-cards/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T05:32:10.344614+05:00",
+      "age_min": 32.2
+    },
+    {
       "hash": "89a019d23e41c15a8cc611b63e6ab07b",
       "title": "Manitoba Public Insurance seeks 2 % rate hike for 2027",
       "summary": "",
@@ -374,16 +398,28 @@
       "age_min": 30.7
     },
     {
-      "hash": "34315d1bf286b581cecc67063a81df75",
-      "title": "Nigeria Uncovers World - class Platinum , Lithium , Rare Earth Deposits In Kaduna",
-      "summary": "",
-      "link": "https://leadership.ng/nigeria-uncovers-world-class-platinum-lithium-rare-earth-deposits-in-kaduna/",
-      "source": "GDELT/ENERGY",
-      "score": 7,
-      "weight": 4,
+      "hash": "fc310ddce88fa5b88f19d9eeb97d29ac",
+      "title": "В Приморье мужчину осудили за покушение на убийство из-за цветов на клумбе",
+      "summary": "Его приговорили к семи годам и трем месяцам",
+      "link": "https://tass.ru/proisshestviya/27854253",
+      "source": "TASS",
+      "score": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-25T01:32:22.081914+05:00",
-      "age_min": 32.4
+      "ts": "2026-06-25T05:33:12.840158+05:00",
+      "age_min": 17.0
+    },
+    {
+      "hash": "563dbc6e2ecedbb99ed01b2347643474",
+      "title": "Buildings collapse in Venezuelan capital after powerful earthquakes hit",
+      "summary": "Buildings collapse in Venezuelan capital after powerful earthquakes hit.",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/buildings-collapse-in-venezuelan-capital-after-powerful-earthquakes-hit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-25T05:33:10.020286+05:00",
+      "age_min": 14.7
     },
     {
       "hash": "3132afbfc2a9da9c48bea721b31431d6",
@@ -432,6 +468,54 @@
       "status": "new",
       "ts": "2026-06-25T02:17:49.494245+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-25T05:33:11.589139+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "d55772ffabdbdd0571863e785de39de5",
+      "title": "Внешний госдолг России упал до минимума с лета 2025 года :: Новости дня / ВЗГЛЯД",
+      "summary": "",
+      "link": "https://vz.ru/news/2026/6/25/1429907.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T05:31:24.581060+05:00",
+      "age_min": -1333.6
+    },
+    {
+      "hash": "e65565d863d6f76e2ec2d4fa7926da78",
+      "title": "Ukraine Launches Major Drone Attack on Russia , Killing Four Civilians and Knocking Out Power in Sevastopol",
+      "summary": "",
+      "link": "https://news.antiwar.com/2026/06/24/ukraine-launches-major-drone-attack-on-russia-killing-four-civilians-and-knocking-out-power-in-sevastopol/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T05:31:24.576247+05:00",
+      "age_min": 31.4
+    },
+    {
+      "hash": "d8fee774012ab1eed389ee3d01be6648",
+      "title": "Завершення війни : Україна досягнне миру після атак на ВПК РФ та Крим",
+      "summary": "",
+      "link": "https://focus.ua/uk/voennye-novosti/758796-zavershennya-viyni-ukrajina-dosyagnne-miru-pislya-atak-na-vpk-rf-ta-krim",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T05:31:24.573711+05:00",
+      "age_min": -1363.6
     },
     {
       "hash": "26acc4d26956171e911c59065e7940bd",
@@ -516,90 +600,6 @@
       "status": "new",
       "ts": "2026-06-25T03:31:09.300858+05:00",
       "age_min": 46.2
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T03:03:32.590528+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "fea8d5b3ca9996c0496a7fc243b724a8",
-      "title": "White House requests $87.6 billion supplemental spending for Iran war, farm aid",
-      "summary": "",
-      "link": "https://www.cnbc.com/2026/06/24/iran-war-supplemental-trump-congress.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T02:03:25.368415+05:00",
-      "age_min": 2.1
-    },
-    {
-      "hash": "fc062da4f06eed9d0eb8329769fabcb1",
-      "title": "Росія просить у Казахстану бензин після українських атак на НПЗ",
-      "summary": "",
-      "link": "https://zaxid.net/rosiya_zvernulasya_do_kazahstanu_z_prohannyam_pro_postavki_palnogo_shhob_prihovati_defitsit_n1640059",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T02:01:33.420123+05:00",
-      "age_min": 61.6
-    },
-    {
-      "hash": "8597442f25fc9aa6da1aecc25a48bb5a",
-      "title": "DOJ says it will continue to dismantle Antifa networks following anti - ICE attack in Texas",
-      "summary": "",
-      "link": "https://myfox28columbus.com/news/nation-world/doj-says-it-will-continue-to-dismantle-antifa-networks-following-anti-ice-attack-in-texas-kash-patel-todd-blanche",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T01:31:13.908036+05:00",
-      "age_min": 91.2
-    },
-    {
-      "hash": "8fb8b17b47a3252cc5f6255145d2dd9e",
-      "title": "The US Dollar Index hits a 13-month high as expectations for Fed rate hikes persist. - Bitget",
-      "summary": "The US Dollar Index hits a 13-month high as expectations for Fed rate hikes persist.&nbsp;&nbsp;Bitget",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1aaE9YTTlEa3hiaUZaTmZUNnNmVUQxREJ2LWV2REg3N3U5S1B6c29NQ0ZnWGQzZnBsWVlFSHZSbzFvMFFJeDhDMDVxN296R1dYOW9tYWFOSVhqZzZRcXp3VXBGa9IBY0FVX3lxTE1aaE9YTTlEa3hiaUZaTmZUNnNmVUQxREJ2LWV2REg3N3U5S1B6c29NQ0ZnWGQzZnBsWVlFSHZSbzFvMFFJeDhDMDVxN296R1dYOW9tYWFOSVhqZzZRcXp3VXBGaw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T05:18:09.675334+05:00",
-      "age_min": 44.1
-    },
-    {
-      "hash": "34604652980d9c28acf3d8f610593230",
-      "title": "Japanese Yen Falls Despite Bank Of Japan Rate Hike: What Traders Missed - Bitcoin World",
-      "summary": "Japanese Yen Falls Despite Bank Of Japan Rate Hike: What Traders Missed&nbsp;&nbsp;Bitcoin World",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xQ0stdUFVUjdQZm40dlhfd25IblNvLTRZVjVWbnk4Wkoxa1BTdEc1QVNDclBfU0d0X2JWbFhXS2VvZFBvc2tSY1U0TWV6VlZnRjhIOUZrWUlySFVuMHA4Rjl5REUzc21xSk9DLQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T04:48:08.870397+05:00",
-      "age_min": 68.0
-    },
-    {
-      "hash": "890a99c5e8d1aa1abc6e72cecccfaa58",
-      "title": "Warsh shakes up Fed analysis, maintains interest rates - AOL.com",
-      "summary": "Warsh shakes up Fed analysis, maintains interest rates&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY2F5MWdmQVFtXzI4M3ZtekkwdVhSc1JQdkJKUFZRcVRKTk1LdXZMSHdRSjE4dHZEazVET0hKQkhpM1ZGbFZ3UnpXbDg2Mmpjc01EZTN2bGhNeTRkVlNtd0lfRXBCQ25WUXJxSlBXNkQtVFFEaEZUbUx6N0hrRGQ1MWhydW9MZw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T05:03:59.768736+05:00",
-      "age_min": 109.9
     }
   ]
 }
