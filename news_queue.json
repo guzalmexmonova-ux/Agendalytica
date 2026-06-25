@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T20:18:37.985114+05:00",
+  "updated": "2026-06-25T20:33:59.188000+05:00",
   "items": [
     {
       "hash": "d71c2b84a1208e98c8c9a636461d8dee",
@@ -14,6 +14,18 @@
       "age_min": 20.6
     },
     {
+      "hash": "7f479c81bc85a432d2bd8f081c5a2a7e",
+      "title": "Iran war updates : Oil tankers pass through Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.bnnbloomberg.ca/markets/oil/2026/06/25/oil-tankers-use-new-route-through-strait-of-hormuz-despite-iranian-threats/",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T20:30:59.886948+05:00",
+      "age_min": 61.0
+    },
+    {
       "hash": "5cdc027d3049c9db22570e44b8009534",
       "title": "Our intelligence has obtained important findings regarding the situation in Crimea and in our other territories currently under Russian occupation. Ukraine’s Foreign Intelligence Service has obtained data indicating that the crisis with fuel, military logistics, and governance in Crimea is deepening on a virtually daily basis. The Russian occupation administration quite clearly and unequivocally acknowledges its inability to resolve the problems created by our mid-range sanctions against the occupier, as well as by the implementation of our long-range sanctions plan, primarily against Russian oil refining. A similar situation is unfolding in other Russian regions as well. We have also obtained internal Russian documents assessing the public mood among citizens of the aggressor state. At present, the level of anxiety among Russians is already higher than it was during our Kursk operation: more than 50 percent. Already, 66 percent of Russians consider their financial situation difficult. More than 80 percent of Russians believe a large-scale economic crisis in Russia is inevitable. These are absolutely clear indicators that reflect the failure of Putin’s war policy. Separately, Oleh Luhovskyi reported on measures being carried out in Belarus, under obvious Russian influence, to prepare for a potential expansion of aggression against Ukraine. Along our state border in Belarus, the construction of road infrastructure and storage bases for ammunition and fuel and lubricants is nearing completion. These facilities have no purpose other than a military one. These are the border directions of Kobryn–Kovel, Ivanava–Manevychi, Luninets–Sarny, Rečyca–Korosten, and Homieĺ–Chernihiv. We know that Russian documents describe this specifically in the context of the tasks of the so-called “SVO.” Belarus has received the necessary signals from Ukraine regarding this activity, as well as regarding all other formats of its collaboration with Russia in the interests of prolonging and scaling up the war. Belarus knows what steps it must take for peace. The development of border infrastructure for aggression from Belarus must be stopped. It is the Belarusian side that must take steps toward de-escalation and peace. Thank you to everyone who helps us protect lives and our independence! Glory to Ukraine!",
       "summary": "Our intelligence has obtained important findings regarding the situation in Crimea and in our other territories currently under Russian occupation. Ukraine’s Foreign Intelligence Service has obtained data indicating that the crisis with fuel, military logistics, and governance in Crimea is deepening on a virtually daily basis. The Russian occupation administration quite clearly and unequivocally a",
@@ -22,20 +34,8 @@
       "score": 10,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-25T20:18:22.491368+05:00",
-      "age_min": 21.1
-    },
-    {
-      "hash": "7f479c81bc85a432d2bd8f081c5a2a7e",
-      "title": "Iran war updates : Oil tankers pass through Strait of Hormuz",
-      "summary": "",
-      "link": "https://www.bnnbloomberg.ca/markets/oil/2026/06/25/oil-tankers-use-new-route-through-strait-of-hormuz-despite-iranian-threats/",
-      "source": "GDELT/MIDEAST",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T20:16:25.657864+05:00",
-      "age_min": 46.4
+      "ts": "2026-06-25T20:18:32.585583+05:00",
+      "age_min": 21.3
     },
     {
       "hash": "b3e6bdc4d12060d8cbe7de7b38e3c169",
@@ -98,6 +98,18 @@
       "age_min": 191.9
     },
     {
+      "hash": "ab9ac40b172552111d74779b92bfb6a5",
+      "title": "Initial Probe Reveals IED Used in Journalist Assassination in Mukalla",
+      "summary": "",
+      "link": "https://www.khabaragency.net/news248992.html",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T20:31:14.937172+05:00",
+      "age_min": 31.2
+    },
+    {
       "hash": "cbbdfe25ca181aba498279f19cc1050b",
       "title": "Treasuries Climb as Benign US Inflation Eases Bets on a Fed Hike",
       "summary": "Short-term Treasuries jumped as a benign reading of the Federal Reserve’s favored inflation gauge slightly dragged on traders’ expectations for an interest-rate hike in the months ahead.",
@@ -114,12 +126,24 @@
       "title": "Exposing Trump Iran War critics",
       "summary": "",
       "link": "https://www.renewamerica.com/columns/kincaid/260625",
-      "source": "GDELT/MIDEAST",
+      "source": "GDELT/CONFLICTS",
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-25T20:16:25.662503+05:00",
-      "age_min": 46.4
+      "ts": "2026-06-25T20:30:59.892066+05:00",
+      "age_min": 61.0
+    },
+    {
+      "hash": "20a574f0973523dbae135bc3b5d9cad4",
+      "title": "Pakistan Military - Linked Think Tank Estimates 59 . 32 % Probability of India - Pakistan War Within 12 – 24 Months",
+      "summary": "",
+      "link": "https://idrw.org/pakistan-military-linked-think-tank-estimates-59-32-probability-of-india-pakistan-war-within-12-24-months/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T20:30:59.886427+05:00",
+      "age_min": 31.0
     },
     {
       "hash": "a591cf44d36d4724c85abe1e9a9e8ab8",
@@ -278,18 +302,6 @@
       "age_min": 31.7
     },
     {
-      "hash": "4e75482bb3df81bd33f346fc4be74e27",
-      "title": "Palm oil posts biggest drop in a month as crude erases war gains",
-      "summary": "",
-      "link": "https://www.thestar.com.my/business/business-news/2026/06/25/palm-oil-posts-biggest-drop-in-a-month-as-crude-erases-war-gains",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T16:32:21.492138+05:00",
-      "age_min": 107.4
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -298,7 +310,7 @@
       "score": 10,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-25T20:17:49.034058+05:00",
+      "ts": "2026-06-25T20:18:01.056693+05:00",
       "age_min": 0
     },
     {
@@ -382,8 +394,8 @@
       "score": 7,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-25T20:17:46.886812+05:00",
-      "age_min": 29.1
+      "ts": "2026-06-25T20:17:57.379649+05:00",
+      "age_min": 29.3
     },
     {
       "hash": "79784d353a7e5135d13ef9439c573dfe",
@@ -396,30 +408,6 @@
       "status": "new",
       "ts": "2026-06-25T20:03:39.586015+05:00",
       "age_min": 24.6
-    },
-    {
-      "hash": "970f7bfeb723aae07947ad63217cf64c",
-      "title": "Duke Energy Carolinas lowers proposed rate hike after objections",
-      "summary": "",
-      "link": "https://www.wect.com/2026/06/22/duke-energy-carolinas-lowers-proposed-rate-hike-after-objections/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T16:32:08.510588+05:00",
-      "age_min": 47.1
-    },
-    {
-      "hash": "5bfe80576c7eb21d3e811a1f377bcdf9",
-      "title": "Gold Subdued Below $4 , 000 On Inflation And Rate Hike Concerns",
-      "summary": "",
-      "link": "https://www.finanzen.ch/nachrichten/aktien/gold-subdued-below-$4-000-on-inflation-and-rate-hike-concerns-1036275164",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T16:32:08.506074+05:00",
-      "age_min": 62.1
     },
     {
       "hash": "f26b0a39be0f4f7db1eb18dd48c09212",
@@ -444,6 +432,30 @@
       "status": "new",
       "ts": "2026-06-25T18:03:36.075237+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "b8eda4b2f00d2bf592b1f98dc81a093d",
+      "title": "Futures Jump As Micron Revives AI Euphoria, Oil Erases War Gains - MEXC",
+      "summary": "Futures Jump As Micron Revives AI Euphoria, Oil Erases War Gains&nbsp;&nbsp;MEXC",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhWDJjY2lRX09QcG5zQWtJSDdlQjJWa2NRMDhJR1I1RTRKS0ZKWGVxLUEySWJydTZZa2VNb09RRDM0RmRQNjhHMg?oc=5",
+      "source": "GNews/Oil",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-25T20:33:45.050363+05:00",
+      "age_min": 97.2
+    },
+    {
+      "hash": "08166200235e19bfb2410e3af00abe43",
+      "title": "Zelenskyy says Russia is shifting air defenses to Moscow and other key sites after drone strikes",
+      "summary": "",
+      "link": "https://lancasteronline.com/news/world/zelenskyy-says-russia-is-shifting-air-defenses-to-moscow-and-other-key-sites-after-drone/article_47547e04-1718-5e7a-89a5-5759be874fd0.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T20:30:59.887316+05:00",
+      "age_min": 31.0
     },
     {
       "hash": "81674e3204891110bc0ea764bb43bab4",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-25T17:33:50.805487+05:00",
       "age_min": 83.5
-    },
-    {
-      "hash": "59d59201e1301cf5702e876bc7b7369b",
-      "title": "As Ukraine seizes ‘first chance to win’, war horrors come home to Russia",
-      "summary": "President Putin has hinted at peace talks as the economy fails, people flee cities and toxic &#039;oil rains&#039; fall.",
-      "link": "https://www.aljazeera.com/news/2026/6/25/as-ukraine-seizes-first-chance-to-win-war-horrors-come-home-to-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T17:33:34.405274+05:00",
-      "age_min": 103.4
     }
   ]
 }
