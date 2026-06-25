@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T10:18:40.970749+05:00",
+  "updated": "2026-06-25T10:34:02.117463+05:00",
   "items": [
     {
       "hash": "35f3c2dbfca538c7a3560fd28ab2f04d",
@@ -48,6 +48,18 @@
       "status": "new",
       "ts": "2026-06-25T07:17:34.086660+05:00",
       "age_min": 61.5
+    },
+    {
+      "hash": "57f5e9551fc4eed67cdc337f9464f182",
+      "title": "Shiite Muslims mark holy day of Ashoura after months of war in Iran and Lebanon – Winnipeg Free Press",
+      "summary": "",
+      "link": "https://www.winnipegfreepress.com/arts-and-life/life/faith/2026/06/24/shiite-muslims-mark-holy-day-of-ashoura-after-months-of-war-in-iran-and-lebanon",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T10:31:30.423825+05:00",
+      "age_min": 31.5
     },
     {
       "hash": "334547a65d357155bc2f4970c3bb88cd",
@@ -146,40 +158,16 @@
       "age_min": 30.8
     },
     {
-      "hash": "f52e2018e814cfec77b647bc5d26c094",
-      "title": "Trump Says Zelensky Doing Well in Ukraine War Against Russia",
+      "hash": "06df977b5cfc52b7e3170734c7db44ac",
+      "title": "Iran Labels Nuclear Deal  US Defeat  As Trump Threatens To Halt Talks Over Strait Of Hormuz Tolls",
       "summary": "",
-      "link": "https://www.kyivpost.com/post/78909",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
+      "link": "https://jp.ibtimes.com/iran-labels-nuclear-deal-us-defeat-trump-threatens-halt-talks-over-strait-hormuz-tolls-101935",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-25T06:27:35.774903+05:00",
-      "age_min": 27.6
-    },
-    {
-      "hash": "7c436501204bf76f3d9e87b1ec9dfb5a",
-      "title": "Война в Украине в Госдепе США заговорили о переломе в пользу ВСУ",
-      "summary": "",
-      "link": "https://focus.ua/voennye-novosti/758797-voyna-v-ukraine-v-gosdepe-ssha-zagovorili-o-perelome-v-polzu-vsu",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T06:27:35.773002+05:00",
-      "age_min": 27.6
-    },
-    {
-      "hash": "9291a0903985b20e0be8d5d2c111a80c",
-      "title": "US State Department : Ukraine is  Winning the War for Now",
-      "summary": "",
-      "link": "https://www.kyivpost.com/post/78907",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T06:27:35.772320+05:00",
-      "age_min": 27.6
+      "ts": "2026-06-25T10:32:53.768163+05:00",
+      "age_min": 32.9
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -204,6 +192,18 @@
       "status": "new",
       "ts": "2026-06-25T07:03:30.204900+05:00",
       "age_min": 11.0
+    },
+    {
+      "hash": "d97ad2816b5a50ec11cca28e6a9654a8",
+      "title": "Oil Erases Wartime Gains as Hormuz Stockpiles Hit Market",
+      "summary": "Goldman economist Farouk Soussa talks about why the Strait of Hormuz doesn't need to come back to 100% for the full amount of oil from the Gulf to come back into the market, and the longer-term outlook for crude amid the US-Iran negotiations. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-06-25/oil-erases-wartime-gains-as-hormuz-stockpiles-hit-market-video",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T10:33:08.168009+05:00",
+      "age_min": 9.8
     },
     {
       "hash": "25fafc2964ad725f37ffce2b4a414eb5",
@@ -482,30 +482,6 @@
       "age_min": 106.5
     },
     {
-      "hash": "1dc81e9c8e8bbde2422f6f3c0587efb0",
-      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-      "summary": "",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T06:31:55.374385+05:00",
-      "age_min": 46.9
-    },
-    {
-      "hash": "c3f86b35772f1f2edee2ffa0421f4134",
-      "title": "Brent falls below US$75 as Nasdaq drops for 3rd straight day",
-      "summary": "",
-      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/25/brent-falls-below-us75-as-nasdaq-drops-for-3rd-straight-day",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T06:28:52.101477+05:00",
-      "age_min": 43.9
-    },
-    {
       "hash": "96a8e605e1b845c9a095bc2efd389a97",
       "title": "New on Polymarket: “Number of Fed Rate Hikes in 2026” - Bitget",
       "summary": "New on Polymarket: “Number of Fed Rate Hikes in 2026”&nbsp;&nbsp;Bitget",
@@ -600,6 +576,18 @@
       "status": "new",
       "ts": "2026-06-25T08:02:28.067742+05:00",
       "age_min": 92.5
+    },
+    {
+      "hash": "fc526a332fde6267137aa6067fea9fa5",
+      "title": "Ukraine , huge drone attack on Russia : 555 shot down , Moscow refinery on fire",
+      "summary": "",
+      "link": "https://www.odnako.org/ukraine-huge-drone-attack-on-russia-555-shot-down-moscow-refinery-on-fire/",
+      "source": "GDELT/SUMMITS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-25T10:32:53.763146+05:00",
+      "age_min": 47.9
     }
   ]
 }
