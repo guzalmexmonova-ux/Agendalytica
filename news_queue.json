@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T06:18:24.153084+05:00",
+  "updated": "2026-06-25T06:29:50.403743+05:00",
   "items": [
     {
       "hash": "c125d0f8c61a6b90aeaa138350e1e3e0",
@@ -120,6 +120,42 @@
       "status": "new",
       "ts": "2026-06-25T02:30:55.504199+05:00",
       "age_min": 45.9
+    },
+    {
+      "hash": "f52e2018e814cfec77b647bc5d26c094",
+      "title": "Trump Says Zelensky Doing Well in Ukraine War Against Russia",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/78909",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T06:27:35.774903+05:00",
+      "age_min": 27.6
+    },
+    {
+      "hash": "7c436501204bf76f3d9e87b1ec9dfb5a",
+      "title": "Война в Украине в Госдепе США заговорили о переломе в пользу ВСУ",
+      "summary": "",
+      "link": "https://focus.ua/voennye-novosti/758797-voyna-v-ukraine-v-gosdepe-ssha-zagovorili-o-perelome-v-polzu-vsu",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T06:27:35.773002+05:00",
+      "age_min": 27.6
+    },
+    {
+      "hash": "9291a0903985b20e0be8d5d2c111a80c",
+      "title": "US State Department : Ukraine is  Winning the War for Now",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/78907",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T06:27:35.772320+05:00",
+      "age_min": 27.6
     },
     {
       "hash": "3082167f1d2c5e99b8b05b6d196bf307",
@@ -494,6 +530,18 @@
       "age_min": 46.6
     },
     {
+      "hash": "c3f86b35772f1f2edee2ffa0421f4134",
+      "title": "Brent falls below US$75 as Nasdaq drops for 3rd straight day",
+      "summary": "",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/06/25/brent-falls-below-us75-as-nasdaq-drops-for-3rd-straight-day",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-25T06:28:52.101477+05:00",
+      "age_min": 43.9
+    },
+    {
       "hash": "76b0105b2340dbfc21ecac5926581f41",
       "title": "Leader of free world taking responsibility beyond US, says NATO Secy Gen on US war on Iran - The Tribune",
       "summary": "Leader of free world taking responsibility beyond US, says NATO Secy Gen on US war on Iran&nbsp;&nbsp;The Tribune",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-25T05:31:24.576247+05:00",
       "age_min": 31.4
-    },
-    {
-      "hash": "d8fee774012ab1eed389ee3d01be6648",
-      "title": "Завершення війни : Україна досягнне миру після атак на ВПК РФ та Крим",
-      "summary": "",
-      "link": "https://focus.ua/uk/voennye-novosti/758796-zavershennya-viyni-ukrajina-dosyagnne-miru-pislya-atak-na-vpk-rf-ta-krim",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-25T05:31:24.573711+05:00",
-      "age_min": -1363.6
-    },
-    {
-      "hash": "26acc4d26956171e911c59065e7940bd",
-      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-      "summary": "Rubio promises to protect Gulf interests in talks with Iran, as Israel says it will not withdraw from southern Lebanon.",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T05:17:43.844804+05:00",
-      "age_min": 17.7
-    },
-    {
-      "hash": "16eca43c8ceaea75b3b8a07b7bcc8f3d",
-      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-      "summary": "NATO chief Mark Rutte points to use of US bases in Europe as he stresses support for US war on Iran.",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T05:03:29.714449+05:00",
-      "age_min": 15.7
-    },
-    {
-      "hash": "e7002060be419e29335c1f66e3214f12",
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "summary": "The request is likely to face an uphill battle in Congress, which voted a day earlier to rein in Trump&#039;s war powers.",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-25T04:33:11.768372+05:00",
-      "age_min": 8.2
     }
   ]
 }
