@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T00:33:40.847876+05:00",
+  "updated": "2026-06-27T00:48:32.398653+05:00",
   "items": [
     {
       "hash": "a58265aac478aed9a26a91cc28b6ea3d",
@@ -74,16 +74,28 @@
       "age_min": 90.7
     },
     {
-      "hash": "d2417d97f52a82de2542957d93a45fa4",
-      "title": "The future of nuclear non - proliferation after recent U . S .– Iran negotiations",
+      "hash": "8ff9794a5ee2d0665e71cafafedff5bf",
+      "title": "Trump accuses Iran of ceasefire breach after ship attack | Honolulu Star - Advertiser",
       "summary": "",
-      "link": "https://www.middleeastmonitor.com/20260626-the-future-of-nuclear-non-proliferation-after-recent-u-s-iran-negotiations/",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
+      "link": "https://www.staradvertiser.com/2026/06/26/breaking-news/trump-accuses-iran-of-ceasefire-breach-after-ship-attack/",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-06-26T20:45:45.523100+05:00",
-      "age_min": 30.8
+      "ts": "2026-06-27T00:46:19.128135+05:00",
+      "age_min": 31.3
+    },
+    {
+      "hash": "f50eb77f6948a50ced3ba7ec8ef2a7aa",
+      "title": "Israel  campaign between the war : How strategy to contain Iran and its allies risks further straining ties with US",
+      "summary": "",
+      "link": "https://theconversation.com/israels-campaign-between-the-wars-how-strategy-to-contain-iran-and-its-allies-risks-further-straining-ties-with-us-284697",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T00:46:19.122579+05:00",
+      "age_min": 46.3
     },
     {
       "hash": "401427e3b91f9ef97109826acf144d36",
@@ -350,6 +362,30 @@
       "age_min": 0
     },
     {
+      "hash": "3255b2a062f3fee5be0eccc779a6e200",
+      "title": "How Nationwide new rate cuts will help new and existing customers",
+      "summary": "",
+      "link": "https://www.swindonadvertiser.co.uk/news/26230752.nationwides-new-rate-cuts-will-help-new-existing-customers/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T00:46:45.724977+05:00",
+      "age_min": 31.8
+    },
+    {
+      "hash": "346ec781b729060f32d0a5519f9e3772",
+      "title": "Minneapolis Fed president now expects a rate hike this year",
+      "summary": "",
+      "link": "https://www.mpamag.com/us/mortgage-industry/market-updates/minneapolis-fed-president-now-expects-a-rate-hike-this-year/580486",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T00:46:45.719534+05:00",
+      "age_min": 46.8
+    },
+    {
       "hash": "2d24fe863a115c6f94245f0cb4618d0b",
       "title": "Gold Soars As Falling Crude Oil Prices Reduces U . S . Fed Interest Rate Hike Concerns",
       "summary": "",
@@ -446,18 +482,6 @@
       "age_min": 0
     },
     {
-      "hash": "a1e44b24b24c076901149bf71aa4d765",
-      "title": "El riesgo de una catástrofe nuclear es peor que nunca I - Últimas Noticias : El Chubut",
-      "summary": "",
-      "link": "https://www.elchubut.com.ar/carta-del-lector/2026-6-26-9-4-0-el-riesgo-de-una-catastrofe-nuclear-es-peor-que-nunca-i",
-      "source": "GDELT/CYBER",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T20:47:03.588580+05:00",
-      "age_min": 32.1
-    },
-    {
       "hash": "a46da9013ef5fe09d169a40e5c0aae70",
       "title": "\"Obviously, this is a foolish violation of our Ceasefire Agreement.\" - President Donald J. Trump",
       "summary": "\"Obviously, this is a foolish violation of our Ceasefire Agreement.\" - President Donald J. Trump",
@@ -468,6 +492,30 @@
       "status": "new",
       "ts": "2026-06-26T21:04:19.560193+05:00",
       "age_min": 11.1
+    },
+    {
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-27T00:47:34.395003+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-27T00:47:34.393961+05:00",
+      "age_min": 0
     },
     {
       "hash": "8e7f4daca5a9583cb1f27ddeea2d7fde",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-06-26T22:47:39.564963+05:00",
       "age_min": 42.3
-    },
-    {
-      "hash": "65929f0601b9f74209bbe4ceac84352d",
-      "title": "C2K : New warning to parents over schools cyber attack",
-      "summary": "",
-      "link": "https://www.bbc.co.uk/news/articles/cjrg0gl03n1o",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T22:47:08.742226+05:00",
-      "age_min": 92.1
-    },
-    {
-      "hash": "79f225e734b6bf899f2595958374106c",
-      "title": "Trump says Iran struck ship in Hormuz, calls it ‘foolish violation’ of ceasefire",
-      "summary": "US President Donald Trump on Friday blamed Iran for carrying out a drone strike on a cargo ship in the Strait of Hormuz, calling it a “foolish violation” of the ceasefire agreement with the US.\nOne drone damaged the upper deck of the ship but the ship was able to proceed, Trump said. The US shot down three other drones aimed at the ship, he said.\nHis post on social media did not identify the ship ",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3358568/trump-says-iran-struck-ship-hormuz-calls-it-foolish-ceasefire-violation?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T22:17:49.285034+05:00",
-      "age_min": 7.7
-    },
-    {
-      "hash": "b0e05f95eb8205697aa92070c3f721ce",
-      "title": "In Viral Post , Russian Veteran Warns Putin Of Mutiny , Then Walks Back Threat",
-      "summary": "",
-      "link": "https://www.rferl.org/a/war-viral-post-putin-rebellion-threat-ukraine/33789561.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T22:16:12.361663+05:00",
-      "age_min": 46.2
-    },
-    {
-      "hash": "a4860aa2b67da648113c1cb349791ed4",
-      "title": "The AI cold war needs a nonalignment movement",
-      "summary": "",
-      "link": "https://asia.nikkei.com/opinion/the-ai-cold-war-needs-a-nonalignment-movement",
-      "source": "Nikkei Asia",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T21:47:26.788552+05:00",
-      "age_min": 0
     }
   ]
 }
