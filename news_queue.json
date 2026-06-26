@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T04:48:27.046727+05:00",
+  "updated": "2026-06-26T05:04:28.597014+05:00",
   "items": [
     {
       "hash": "211dd3b688fc59395504865e06cc7e35",
@@ -26,18 +26,6 @@
       "age_min": 45.9
     },
     {
-      "hash": "b6a3748f3400c8e8542769f84aa8fb5f",
-      "title": "What Donald Trump would have to achieve to better Barack Obama Iran nuclear deal",
-      "summary": "",
-      "link": "https://www.abc.net.au/news/2026-06-26/donald-trump-barack-obama-iran-jcpoa-nuclear-deal/106832164",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T01:01:08.888264+05:00",
-      "age_min": 31.1
-    },
-    {
       "hash": "918e019f95785ccaaf48b41155bf5e1f",
       "title": "The Quest for Modernizing Nuclear Arsenals Makes No Sense",
       "summary": "",
@@ -48,6 +36,18 @@
       "status": "new",
       "ts": "2026-06-26T03:45:41.199293+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "79784d353a7e5135d13ef9439c573dfe",
+      "title": "Attack in Strait of Hormuz halts evacuation plan for stranded ships",
+      "summary": "International Maritime Organization announces pause after container ship was hit by ‘unknown projectile’",
+      "link": "https://www.ft.com/content/5abcb3c1-8ce8-470f-8a37-f47af58b2f7c",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T05:03:43.547203+05:00",
+      "age_min": 87.6
     },
     {
       "hash": "4f83eb11f3eb2b599e687c22e54a9c73",
@@ -218,40 +218,16 @@
       "age_min": 91.6
     },
     {
-      "hash": "a80ad4e5dc36844df11490713405c02a",
-      "title": "Война в Украине - существует ли реальная ядерная угроза со стороны РФ",
-      "summary": "",
-      "link": "https://glavred.info/war/yadernyy-blef-putina-provalilsya-ekspert-obyasnil-k-chemu-teper-mozhet-pribegnut-kreml-10775723.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "2e1e9715c772780a459a8e9f788171ac",
+      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
+      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
+      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
+      "source": "Crisis Group",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-26T01:01:08.888807+05:00",
-      "age_min": 61.1
-    },
-    {
-      "hash": "00c2a7ba57d1e27e7c93377b3cc531bc",
-      "title": "Majority of US voters think Iran war  not worth it , new poll finds",
-      "summary": "",
-      "link": "https://www.middleeasteye.net/news/majority-us-voters-think-iran-war-not-worth-it-new-poll-finds",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T01:01:08.888529+05:00",
-      "age_min": 46.1
-    },
-    {
-      "hash": "b6ea8e687796822441fdf3c62753c887",
-      "title": "Lockheed Martin Gets $35 Billion THAAD Contract as Arms Makers Cash In on Iran War",
-      "summary": "",
-      "link": "https://news.antiwar.com/2026/06/25/lockheed-martin-gets-35-billion-thaad-contract-as-arms-makers-cash-in-on-iran-war/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T01:01:08.886518+05:00",
-      "age_min": 46.1
+      "ts": "2026-06-26T05:03:45.208192+05:00",
+      "age_min": 0
     },
     {
       "hash": "7a804527aeb994b654d5071a49b42df6",
@@ -302,16 +278,16 @@
       "age_min": 0
     },
     {
-      "hash": "4dd04ee18ca5bb43aec09264a08e05ad",
-      "title": "Toshiba's lost crown jewels: Kioxia, US nuclear power soar in AI era",
-      "summary": "",
-      "link": "https://asia.nikkei.com/business/tech/semiconductors/toshiba-s-lost-crown-jewels-kioxia-us-nuclear-power-soar-in-ai-era",
-      "source": "Nikkei Asia",
-      "score": 9,
+      "hash": "d0232813517e2fdf53df26919828e205",
+      "title": "North Korea’s border build-up opens a Seoul-UN Command rift",
+      "summary": "A public row between Seoul and the US-led United Nations Command (UNC) has revealed a fresh fault line over how the two interpret North Korea’s recent border fortification activities.\nSouth Korea views its arch-rival’s actions as a violation of the 1953 Korean war armistice agreement. The UNC does not.\nThe dispute follows a separate disagreement over which authority should govern access to the dem",
+      "link": "https://www.scmp.com/week-asia/politics/article/3358328/north-koreas-border-build-opens-seoul-un-command-rift?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-26T01:03:32.455133+05:00",
-      "age_min": 0
+      "ts": "2026-06-26T05:03:44.871270+05:00",
+      "age_min": 3.5
     },
     {
       "hash": "a3d3f4c4c834728fb2e6c9f279019013",
@@ -468,18 +444,6 @@
       "status": "new",
       "ts": "2026-06-26T01:31:38.678186+05:00",
       "age_min": 76.6
-    },
-    {
-      "hash": "a19a3ec6bc375126baa59eabfda46f6f",
-      "title": "Pragmatic choice: Israel’s war backfires as Gulf backs US-Iran deal",
-      "summary": "A war meant to isolate Iran instead deepened Gulf pragmatism and strengthened support for diplomacy.",
-      "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T01:03:32.044043+05:00",
-      "age_min": 172.0
     },
     {
       "hash": "93766f90cb5644de5206aa4a04870386",
