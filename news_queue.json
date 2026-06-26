@@ -1,6 +1,18 @@
 {
-  "updated": "2026-06-27T03:33:44.610251+05:00",
+  "updated": "2026-06-27T03:47:55.115214+05:00",
   "items": [
+    {
+      "hash": "10db3b3f6a1ed7179ed4e22efcc0d8ac",
+      "title": "Russia intercepts over 600 drones as Ukraine launches largest attack in four years of war",
+      "summary": "",
+      "link": "https://morningstaronline.co.uk/article/russia-intercepts-over-600-drones-ukraine-launches-largest-attack-four-years-war",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:45:38.639460+05:00",
+      "age_min": 105.6
+    },
     {
       "hash": "373aa355080f1a3b4bc059f3a62ddd90",
       "title": "RT by @WhiteHouse: U.S. Strikes Iran in Response to Attack on Commercial Vessel",
@@ -48,6 +60,54 @@
       "status": "new",
       "ts": "2026-06-27T01:46:05.321348+05:00",
       "age_min": 31.1
+    },
+    {
+      "hash": "a215112821409dadc0508e3ea3cef157",
+      "title": "US strikes Iran after Trump calls attack in Strait of Hormuz a  foolish  ceasefire breach",
+      "summary": "",
+      "link": "https://www.abc.net.au/news/2026-06-27/us-strikes-iran-after-trump-slams-hormuz-attack/106850280",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:46:32.573850+05:00",
+      "age_min": 46.5
+    },
+    {
+      "hash": "28c5c290eecabd05720bc493e86923e5",
+      "title": "The Iran war is accelerating the EV transition faster than any climate policy ever did but it still just not that much",
+      "summary": "",
+      "link": "https://finance.yahoo.com/energy/articles/iran-war-accelerating-ev-transition-140654071.html",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:46:32.571294+05:00",
+      "age_min": 46.5
+    },
+    {
+      "hash": "02b169cbdc98cffde1cb0aa1018a52d5",
+      "title": "US strikes Iran to respond to drone attack on ship Trump said violated ceasefire",
+      "summary": "",
+      "link": "https://www.salisburyjournal.co.uk/news/national/26233328.us-strikes-iran-respond-drone-attack-ship-trump-said-violated-ceasefire/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:45:38.640955+05:00",
+      "age_min": 30.6
+    },
+    {
+      "hash": "758b478b33f64b8a8e2d9c77341a34d3",
+      "title": "Trump Blames Iran for Drone Strike on Cargo Ship in Strait of Hormuz Amid Fragile Ceasefire",
+      "summary": "",
+      "link": "https://www.oneindia.com/international/trump-blames-iran-for-drone-strike-on-cargo-ship-in-strait-of-hormuz-amid-fragile-ceasefire-8130585.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:45:38.637076+05:00",
+      "age_min": 60.6
     },
     {
       "hash": "672905672bb997ef62edec7b681451b7",
@@ -194,18 +254,6 @@
       "age_min": 76.6
     },
     {
-      "hash": "5fdb0bb70ea42c06903ded2aac343f45",
-      "title": "Putin , Lukashenko hold talks on Friday at tense point in Ukraine war",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/world/putin-lukashenko-hold-talks-on-friday-at-tense-point-in-ukraine-war-article-13959796.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T23:46:06.856238+05:00",
-      "age_min": 46.1
-    },
-    {
       "hash": "f1102a63bfdfffe96eae1594f12a552a",
       "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
       "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
@@ -350,30 +398,6 @@
       "age_min": 32.4
     },
     {
-      "hash": "3b3dd38b1328780a4b2ca2c03a1b6596",
-      "title": "Powell Industries ( NASDAQ : POWL ) Trading Down 8 . 8 % – Time to Sell ?",
-      "summary": "",
-      "link": "https://www.themarketsdaily.com/2026/06/26/powell-industries-nasdaqpowl-trading-down-8-8-time-to-sell.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T23:46:51.932090+05:00",
-      "age_min": 61.9
-    },
-    {
-      "hash": "c305beaedffcffea5dfd3e133d8a09de",
-      "title": "Guam utilities commission approves power rate hike - Marianas Variety News & Views",
-      "summary": "",
-      "link": "https://www.mvariety.com/regional/regional-guam-utilities-commission-approves-power-rate-hike/article_109dc72e-6d77-4a04-b43f-4d799e677ddb.html",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T23:46:51.926837+05:00",
-      "age_min": 61.9
-    },
-    {
       "hash": "e7e73bd6aadbd947d796b88c7e48e499",
       "title": "Breaking News: The U.S. military said it launched strikes on Iran in retaliation for an Iranian attack on Thursday in the Strait of Hormuz. Follow live updates. - facebook.com",
       "summary": "Breaking News: The U.S. military said it launched strikes on Iran in retaliation for an Iranian attack on Thursday in the Strait of Hormuz. Follow live updates.&nbsp;&nbsp;facebook.com",
@@ -420,18 +444,6 @@
       "status": "new",
       "ts": "2026-06-27T01:47:33.594388+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "24b953a9efe54bde145c53e78b35409a",
-      "title": "India Emerging As Global Force In AI , Quantum , Space And Nuclear Technologie : Union Minister Jitendra Singh",
-      "summary": "",
-      "link": "https://www.freepressjournal.in/tech/india-emerging-as-global-force-in-ai-quantum-space-and-nuclear-technologies-union-minister-jitendra-singh",
-      "source": "GDELT/CYBER",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T23:47:13.989588+05:00",
-      "age_min": 47.2
     },
     {
       "hash": "3b0a446a5cb75890d26afed93a0003ef",
@@ -564,6 +576,30 @@
       "status": "new",
       "ts": "2026-06-27T00:53:50.994828+05:00",
       "age_min": 163.8
+    },
+    {
+      "hash": "dd3168867588d5ddf2e53655c2bf8b19",
+      "title": "Exports from Omani copper mine total nearly 11 , 000 tonnes",
+      "summary": "",
+      "link": "https://www.omanobserver.om/article/1191885/business/exports-from-omani-copper-mine-total-nearly-11000-tonnes",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:46:32.572834+05:00",
+      "age_min": 106.5
+    },
+    {
+      "hash": "294b22d8fd9f93541dad5454f06f1174",
+      "title": "U . S . oil plunges below $70 as ships keep crossing Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.latimes.com/business/story/2026-06-26/u-s-oil-plunges-below-70-as-ships-keep-crossing-strait-of-hormuz",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T03:46:32.570667+05:00",
+      "age_min": 91.5
     }
   ]
 }
