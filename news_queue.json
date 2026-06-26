@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T22:53:45.084788+05:00",
+  "updated": "2026-06-26T23:04:15.699521+05:00",
   "items": [
     {
       "hash": "b369d51b0ddad99851125bd99b6e8927",
@@ -60,18 +60,6 @@
       "status": "new",
       "ts": "2026-06-26T20:30:55.896489+05:00",
       "age_min": 60.9
-    },
-    {
-      "hash": "e09d6021b939211e6b04b7539824e4c3",
-      "title": "Saudi Arabia Is Ramping Up Oil Exports as Gulf Ports Restart",
-      "summary": "Saudi Arabia is boosting crude shipments, opening up its Persian Gulf ports that were shuttered by the Iran war while also increasing loadings at Red Sea outlets that it has used to bypass the Strait of Hormuz.",
-      "link": "https://www.bloomberg.com/news/articles/2026-06-26/saudi-arabia-is-ramping-up-oil-exports-as-gulf-ports-restart",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T19:03:29.894207+05:00",
-      "age_min": 6.4
     },
     {
       "hash": "d2417d97f52a82de2542957d93a45fa4",
@@ -254,18 +242,6 @@
       "age_min": 31.7
     },
     {
-      "hash": "e6d0e755cb54e49444a3616c82adae2f",
-      "title": "Massive Shiite crowds mark Ashoura amid fresh Iran - Israel - US war fallout",
-      "summary": "",
-      "link": "http://www.cecildaily.com/ap/world/massive-shiite-crowds-mark-ashoura-amid-fresh-iran-israel-us-war-fallout/article_db12bec1-c198-55a9-8e08-866b8510d5cb.html",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-26T19:01:42.338864+05:00",
-      "age_min": 46.7
-    },
-    {
       "hash": "ab0c013b11ff1ad1f65a10f2700065d3",
       "title": "Iran’s Long World Cup Journey Defined by War and Political Tension",
       "summary": "A win or draw against Egypt on Friday, and the team’s unusual journey will continue.",
@@ -326,6 +302,18 @@
       "age_min": 19.9
     },
     {
+      "hash": "5ff45f4ebfbca0a5efc410adc018baf4",
+      "title": "Nine people killed in building collapse in Lagos, Nigeria",
+      "summary": "Twenty seven people were rescued with injuries of varying severity; governor orders safety checks on surrounding area.",
+      "link": "https://www.aljazeera.com/news/2026/6/26/nine-people-killed-in-building-collapse-in-lagos-nigeria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-26T23:03:28.553380+05:00",
+      "age_min": 22.9
+    },
+    {
       "hash": "129ab58b2d95121a0e58831f2bf1e03a",
       "title": "IAEA chief reports initial exchanges with Iran over nuclear inspections",
       "summary": "",
@@ -360,18 +348,6 @@
       "status": "new",
       "ts": "2026-06-26T20:17:22.297906+05:00",
       "age_min": 47.4
-    },
-    {
-      "hash": "1b6a7565511b6a3f1891047f6306abc9",
-      "title": "Diretor da AIEA diz que Irã precisará de verificao nuclear  muito avançada",
-      "summary": "",
-      "link": "https://jornaldebrasilia.com.br/noticias/mundo/diretor-da-aiea-diz-que-ira-precisara-de-verificacao-nuclear-muito-avancada/",
-      "source": "GDELT/CYBER",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-26T19:02:53.445196+05:00",
-      "age_min": 47.9
     },
     {
       "hash": "a46da9013ef5fe09d169a40e5c0aae70",
@@ -590,16 +566,40 @@
       "age_min": 7.3
     },
     {
-      "hash": "6938f41e7e9e7f3e8241684c31a18bb0",
-      "title": "Путин подписал закон об особых мерах для противодействия атакам БПЛА",
-      "summary": "Документ предусматривает особый порядок применения отдельных положений российских законов для пресечения воздушных атак",
-      "link": "https://tass.ru/armiya-i-opk/27861295",
-      "source": "TASS",
-      "score": 8,
-      "weight": 3,
+      "hash": "699066c46f032eeb98013194bedbe38a",
+      "title": "Optimalisasi Sumber Energi Domestik , Bahlil Resmikan Mini LNG Plant Tuban",
+      "summary": "",
+      "link": "https://surabaya.bisnis.com/read/20260626/532/1983609/optimalisasi-sumber-energi-domestik-bahlil-resmikan-mini-lng-plant-tuban",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-26T19:03:33.668892+05:00",
-      "age_min": 13.1
+      "ts": "2026-06-26T23:02:31.042619+05:00",
+      "age_min": 92.5
+    },
+    {
+      "hash": "6bb03bbd2c39e84db476d06bab6e7575",
+      "title": "Will the latest strike in the Strait of Hormuz impact the US - Iran deal ?",
+      "summary": "",
+      "link": "https://www.kcra.com/article/will-latest-strike-in-strait-of-hormuz-impact-us-iran-deal/71740155",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T23:02:31.041552+05:00",
+      "age_min": 92.5
+    },
+    {
+      "hash": "f675500fee8da69eca1ad8f3a584a15c",
+      "title": "Alsace du Nord . Après Schwabwiller , Lithium de France met désormais le cap sur Durrenbach",
+      "summary": "",
+      "link": "https://www.dna.fr/economie/2026/06/26/apres-schwabwiller-lithium-de-france-met-desormais-le-cap-sur-durrenbach",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-26T23:02:31.040716+05:00",
+      "age_min": 92.5
     }
   ]
 }
