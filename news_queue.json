@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T00:33:44.130207+05:00",
+  "updated": "2026-06-28T00:48:07.051021+05:00",
   "items": [
     {
       "hash": "51345daa1d1588e5e17f897125773c51",
@@ -48,6 +48,18 @@
       "status": "new",
       "ts": "2026-06-28T00:00:58.058422+05:00",
       "age_min": 46.0
+    },
+    {
+      "hash": "0630fdd75f76745e06eac13c96f23792",
+      "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran",
+      "summary": "",
+      "link": "https://www.kltv.com/2026/06/27/tanker-struck-strait-hormuz-iran-us-launch-attacks-region/",
+      "source": "GDELT/TERRORISM",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-28T00:45:47.788985+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "da951c52259508b72b981e099a467f4e",
@@ -170,18 +182,6 @@
       "age_min": 31.9
     },
     {
-      "hash": "47777dc85d0232192e7c0a9d890bdb85",
-      "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes on Iran",
-      "summary": "",
-      "link": "https://www.wctv.tv/2026/06/27/tanker-struck-strait-hormuz-iran-us-launch-attacks-region/",
-      "source": "GDELT/TERRORISM",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-27T20:45:55.868166+05:00",
-      "age_min": 75.9
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -228,6 +228,18 @@
       "status": "new",
       "ts": "2026-06-27T21:45:41.257439+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "37aeaaa7de66c526c4745d96fa2d4aea",
+      "title": "Israeli drone strike kills Palestinian siblings in a Gaza tent camp",
+      "summary": "",
+      "link": "https://www.winknews.com/news/international/israeli-drone-strike-kills-palestinian-siblings-in-a-gaza-tent-camp/article_8a003e45-9744-519c-97e6-c951338b507f.html",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-28T00:46:07.978313+05:00",
+      "age_min": 76.1
     },
     {
       "hash": "09ae3af0f2db319f366defe0dabc0617",
@@ -350,54 +362,6 @@
       "age_min": 30.7
     },
     {
-      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
-      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
-      "summary": "",
-      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T20:47:35.190367+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T20:47:35.189301+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "0620fa472d49b62bd7557863868f8704",
-      "title": "Opinion : Ukraine May Be on the Cusp of a Turning Point in Its War Against Russia",
-      "summary": "",
-      "link": "https://www.kyivpost.com/opinion/78685",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T20:46:31.076901+05:00",
-      "age_min": 76.5
-    },
-    {
-      "hash": "6f67f148e11f9a64ebaf0581c4b6e8e3",
-      "title": "The Coming Famine : How war and empire are starving the world – NaturalNews . com",
-      "summary": "",
-      "link": "https://www.naturalnews.com/2026-06-27-the-coming-famine-war-empire-starving-world.html",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T20:46:31.072543+05:00",
-      "age_min": 76.5
-    },
-    {
       "hash": "13de2ad8cb41c7413d23ff68701e97d9",
       "title": "Tanker struck in Strait of Hormuz as U.S.-Iran tensions escalate",
       "summary": "The attacks come as the United States and Iran are supposed to be engaging in a 60-day ceasefire as they attempt to work toward a resolution.",
@@ -410,16 +374,40 @@
       "age_min": 12.7
     },
     {
-      "hash": "872eb1e65bee2d6380a541e71577a871",
-      "title": "U.S.-Iran Deal’s Vague Language Comes Back to Haunt Peace Efforts",
-      "summary": "The deal called for Iran to “make arrangements” for the passage of ships through the Strait of Hormuz. Iran has interpreted that to mean it can designate which routes ships take.",
-      "link": "https://www.nytimes.com/2026/06/27/world/middleeast/us-iran-deal-vague-language.html",
-      "source": "NYT World",
-      "score": 7,
-      "weight": 3,
+      "hash": "1c79e36d33e81c68d5a9b8320c3c586a",
+      "title": "Iran Drone Attacks on Bahrain Raise Fears for Fragile Ceasefire",
+      "summary": "",
+      "link": "https://time.com/article/2026/06/27/Iran-Bahrain-attack-Strait-of-Hormuz-drone-strikes/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-27T20:47:33.641294+05:00",
-      "age_min": 136.6
+      "ts": "2026-06-28T00:46:48.157025+05:00",
+      "age_min": 76.8
+    },
+    {
+      "hash": "29f4c011a0613fa542e1f579ad625a83",
+      "title": "B . C . premier visiting China to pitch LNG project as province  really big fish  – Winnipeg Free Press",
+      "summary": "",
+      "link": "https://www.winnipegfreepress.com/canada/2026/06/27/b-c-premier-visiting-china-to-pitch-lng-project-as-provinces-really-big-fish",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-28T00:46:48.153043+05:00",
+      "age_min": 31.8
+    },
+    {
+      "hash": "256f17c18a47e74e5c0aa972d359c456",
+      "title": "America LNG warning exposes Europe new energy dependence",
+      "summary": "",
+      "link": "https://weeklyblitz.net/2026/06/28/americas-lng-warning-exposes-europes-new-energy-dependence/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-28T00:46:48.149706+05:00",
+      "age_min": 31.8
     },
     {
       "hash": "5d7baaf624473d35ee7f44d6febcbbac",
@@ -492,30 +480,6 @@
       "status": "new",
       "ts": "2026-06-27T21:31:07.290596+05:00",
       "age_min": 46.1
-    },
-    {
-      "hash": "5ea0d2e7d42a7f034490459804d4f508",
-      "title": "Inflation surges , Apple raises prices , and mortgage rate climbs",
-      "summary": "",
-      "link": "https://www.bostonglobe.com/2026/06/27/business/inflation-surges-apple-prices/",
-      "source": "GDELT/FED_ECB",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-27T20:46:42.601606+05:00",
-      "age_min": 31.7
-    },
-    {
-      "hash": "1ac6c77f26f9da2e7e66ad8adcba9663",
-      "title": "« Насилие встретит насилие »: США и Иран обменялись мощными ударами , несмотря на перемирие шесть истребителей и 90 минут бомбёжек",
-      "summary": "",
-      "link": "https://runews24.ru/politics/27/06/2026/nasilie-vstretit-nasilie-ssha-i-iran-obmenyalis-moshhnyimi-udarami-nesmotrya-na-peremirie-shest-istrebitelej-i-90-minut-bombyozhek",
-      "source": "GDELT/TERRORISM",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-27T20:45:55.863037+05:00",
-      "age_min": 90.9
     },
     {
       "hash": "76c048fd676963cea0b8f3ed677044eb",
