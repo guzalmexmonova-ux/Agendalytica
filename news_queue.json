@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T10:04:05.020069+05:00",
+  "updated": "2026-06-27T10:17:52.262473+05:00",
   "items": [
     {
       "hash": "514d021c9c3730add7017fd83e06a784",
@@ -14,6 +14,18 @@
       "age_min": 46.1
     },
     {
+      "hash": "f154ce31e1ca311f264e84c6dc87d1a0",
+      "title": "Nuclear Weapons : How Much Have They Changed Warfare ?",
+      "summary": "",
+      "link": "https://www.antiwar.com/blog/2026/06/26/nuclear-weapons-how-much-have-they-changed-warfare/",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T10:15:42.219285+05:00",
+      "age_min": 60.7
+    },
+    {
       "hash": "17161028a3ca85fa3810aa76b6fc23e4",
       "title": "Charlie bloody coat was returned to Erika : Candace Owens releases unseen SUV photos after Charlie Kirk assassination , raises new questions",
       "summary": "",
@@ -24,6 +36,42 @@
       "status": "new",
       "ts": "2026-06-27T09:31:07.635166+05:00",
       "age_min": 76.1
+    },
+    {
+      "hash": "f0bdc07fe901fbb4d26644c4216dc129",
+      "title": "US strikes Iran in response to drone attack on ship that Trump says violated ceasefire",
+      "summary": "",
+      "link": "https://www.koreatimes.co.kr/world/20260627/us-strikes-iran-in-response-to-drone-attack-on-ship-that-trump-says-violated-ceasefire",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T10:16:07.656278+05:00",
+      "age_min": 46.1
+    },
+    {
+      "hash": "6105da282d96c06e3ae13e9c1b383e2c",
+      "title": "US Strikes Iran After Strait of Hormuz Attack as Ceasefire Tensions Escalate",
+      "summary": "",
+      "link": "http://www.econotimes.com/US-Strikes-Iran-After-Strait-of-Hormuz-Attack-as-Ceasefire-Tensions-Escalate-1745298",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T10:16:07.655374+05:00",
+      "age_min": 46.1
+    },
+    {
+      "hash": "c1245fbb3cd9bc59daef91ac3cc4e937",
+      "title": "US - Iran War Latest Update : IRGC Claims Retaliatory Strikes on US Military Sites After US Attacks Iran",
+      "summary": "",
+      "link": "https://www.newsx.com/world/us-iran-war-latest-update-irgc-claims-retaliatory-strikes-on-us-military-sites-after-us-attacks-iran-241540/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T10:15:42.219831+05:00",
+      "age_min": 60.7
     },
     {
       "hash": "4c3c4fc951c0b18593ef9d221bf0615e",
@@ -542,40 +590,16 @@
       "age_min": 85.8
     },
     {
-      "hash": "69fcf9ae305170e663197eb386ca8b38",
-      "title": "Fire near Dubai airport under control after drone attack, flights suspended - DD News",
-      "summary": "Fire near Dubai airport under control after drone attack, flights suspended&nbsp;&nbsp;DD News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWJ4TGJfYjZncVdFcVJuaU1DRVRQLVNxN2pEaVJ1UkQ3RDIxMjc5ZlZ3Rk1waUV2alhfTERvSnlhcGNDQ0FpbmlLdWdWOHdJdzllSFl4b2pMNTlDbmF6SW96VDR0eVg5akthUXNRX2JOa0xZM3k3NFlLd2lrQ0Fid2tIeXNOUjNSOXZEckFDMHRVM3pFOXJPbk1kd3llTC1fWlE?oc=5",
-      "source": "GNews/Breaking",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T10:03:45.058968+05:00",
-      "age_min": 67.3
-    },
-    {
-      "hash": "bd9e66ab5767defc5c92eca52e75b7e8",
-      "title": "Divya Bhaskar Morning News Brief Champat rai resigns ram mandir",
+      "hash": "d2f96cd1428feb20f0b648a57a3bb043",
+      "title": "US says Iran , Iran says US : Who really broke ceasefire this time ?",
       "summary": "",
-      "link": "https://www.divyabhaskar.co.in/local/gujarat/news/divya-bhaskar-morning-news-brief-champat-rai-resigns-ram-mandir-138296122.html",
-      "source": "GDELT/SANCTIONS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T08:46:26.725963+05:00",
-      "age_min": 31.4
-    },
-    {
-      "hash": "36dbaee0598eecdb178a0d44444ae5ad",
-      "title": "US strikes on Iran test fragile ceasefire",
-      "summary": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
-      "source": "Al Jazeera",
+      "link": "https://timesofindia.indiatimes.com/world/middle-east/us-says-iran-iran-says-us-who-really-broke-ceasefire-this-time/articleshow/132028110.cms",
+      "source": "GDELT/CONFLICTS",
       "score": 5,
-      "weight": 3,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-06-27T09:19:11.752238+05:00",
-      "age_min": 5.3
+      "ts": "2026-06-27T10:15:42.226270+05:00",
+      "age_min": 45.7
     }
   ]
 }
