@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T06:33:40.917007+05:00",
+  "updated": "2026-06-27T06:48:19.516566+05:00",
   "items": [
     {
       "hash": "04f4e710454c60d300eb2804fc994802",
@@ -12,6 +12,42 @@
       "status": "new",
       "ts": "2026-06-27T04:03:45.223486+05:00",
       "age_min": 55.6
+    },
+    {
+      "hash": "2cdce3d9a078bdd59d1d7c47167f4faa",
+      "title": "US conducts strikes on Iran after attack on cargo ship",
+      "summary": "US Central Command says it has struck missile and drone storage facilities and coastal radar positions.",
+      "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T06:47:25.405532+05:00",
+      "age_min": 73.3
+    },
+    {
+      "hash": "7c40b7df9aa2c5a5cb699885961f459a",
+      "title": "US launches strikes on Iran after Tehran’s attack on container ship",
+      "summary": "Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries",
+      "link": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T06:47:25.252073+05:00",
+      "age_min": 207.9
+    },
+    {
+      "hash": "2bb12f13dd396ef32639ceb4f27c2817",
+      "title": "US strikes Iran to respond to attack Trump says violated ceasefire",
+      "summary": "",
+      "link": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/us-strikes-iran-to-respond-to-attack-trump-says-violated-ceasefire",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-27T06:45:47.328668+05:00",
+      "age_min": 90.8
     },
     {
       "hash": "b2fcb125c14877d1300e0d1b29c4d94e",
@@ -206,18 +242,6 @@
       "age_min": 18.3
     },
     {
-      "hash": "f1102a63bfdfffe96eae1594f12a552a",
-      "title": "U.S. strikes Iran after Trump accuses Tehran of ceasefire violation in Strait of Hormuz",
-      "summary": "The attack comes as the United States and Iran are supposed to be engaging in a 60-period of no hostilities as they hold talks to end their war.",
-      "link": "https://www.cnbc.com/2026/06/26/us-strikes-iran-strait-of-hormuz-ceasefire.html",
-      "source": "CNBC",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T02:47:32.257913+05:00",
-      "age_min": 12.6
-    },
-    {
       "hash": "8ab738006e4c30ab970ce8a068ba0488",
       "title": "Invesco’s Kriskey: Oil Price Freefall Is ‘Overdone'",
       "summary": "Kathy Kriskey, Invesco's Alterative ETF Strategy Head, helps make sense of oil's drop as ships continue to cross through the Strait of Hormuz despite attacks.  She speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
@@ -240,6 +264,18 @@
       "status": "new",
       "ts": "2026-06-27T03:03:08.465233+05:00",
       "age_min": 3.6
+    },
+    {
+      "hash": "6d131112e888df3556c19060f6105ec7",
+      "title": "Brent Erases Iran War Premium as Hormuz Flows Recover - Discovery Alert",
+      "summary": "Brent Erases Iran War Premium as Hormuz Flows Recover&nbsp;&nbsp;Discovery Alert",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU1NQUm1OUjNtenplMWJSYnNySFlYbTZqMGttdTJ5TWkzeXVxQ3FIcGxmaTdoc0VrWUQ1dDh0UUVXajZTcUN0Q1dJQ3lpSXpSZGtrS3ZKck9BdWVibHc3LUY0QXFpUU5oWE1nRHd3eUZra0NWNGFQa0Q5YW80eXhJbFFscmZ3eFp1bEE?oc=5",
+      "source": "GNews/Oil",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-27T06:47:59.291279+05:00",
+      "age_min": 7.8
     },
     {
       "hash": "d63ad692b53bc2b752fdd19c4a9780ed",
@@ -446,54 +482,6 @@
       "age_min": 0
     },
     {
-      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
-      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
-      "summary": "",
-      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T02:47:33.569981+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T02:47:33.568844+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "8e7f4daca5a9583cb1f27ddeea2d7fde",
-      "title": "U.S. Says It Struck Iran in Retaliation for Attack on Vessel in Strait of Hormuz",
-      "summary": "President Trump on Friday called Iran’s attack on a container ship transiting the Strait of Hormuz a day earlier a “foolish” act.",
-      "link": "https://www.nytimes.com/2026/06/26/world/middleeast/strait-of-hormuz-iran-attack.html",
-      "source": "NYT World",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T02:47:32.178003+05:00",
-      "age_min": 13.9
-    },
-    {
-      "hash": "ca30d4baf961e06eebe6ccff25bc0dcb",
-      "title": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
-      "summary": "US Central Command forces conduct strikes against Iran in &#039;response&#039; to attack on commercial ship, Ever Lovely.",
-      "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-27T02:47:32.054703+05:00",
-      "age_min": 141.3
-    },
-    {
       "hash": "ffa64d8ace8acef1df1600d1945a7230",
       "title": "Gold Consolidates Below $4,050 As Fed Rate Hike Bets Counter Weaker Dollar - Bitcoin World",
       "summary": "Gold Consolidates Below $4,050 As Fed Rate Hike Bets Counter Weaker Dollar&nbsp;&nbsp;Bitcoin World",
@@ -528,6 +516,42 @@
       "status": "new",
       "ts": "2026-06-27T05:46:07.721790+05:00",
       "age_min": 46.1
+    },
+    {
+      "hash": "f52d6049392277a2330200f29d03239d",
+      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+      "summary": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days&nbsp;&nbsp;LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+      "source": "GNews/Gold",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-27T06:47:58.996044+05:00",
+      "age_min": 59.1
+    },
+    {
+      "hash": "b61e432cd74227b53e087a7b1607f12f",
+      "title": "LNG prices slow to normalize despite Iran deal, Qatar production restart",
+      "summary": "",
+      "link": "https://asia.nikkei.com/business/energy/lng-prices-slow-to-normalize-despite-iran-deal-qatar-production-restart2",
+      "source": "Nikkei Asia",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-27T06:47:25.947279+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "2e54f09c063adedcefe78b68cd0327bc",
+      "title": "Keir Starmer says united kingdom will  play full part  in reopening Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.whtimes.co.uk/news/national/26198880.keir-starmer-says-uk-will-play-full-part-reopening-strait-hormuz/",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-27T06:47:12.952207+05:00",
+      "age_min": 107.2
     }
   ]
 }
