@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T04:17:53.850224+05:00",
+  "updated": "2026-06-28T04:33:35.256163+05:00",
   "items": [
     {
       "hash": "1e5cca0680ca5252ef66020dc7508d3f",
@@ -146,18 +146,6 @@
       "age_min": 30.8
     },
     {
-      "hash": "da951c52259508b72b981e099a467f4e",
-      "title": "Iranian drones attack Bahrain and a ship is struck in the strait after US airstrikes",
-      "summary": "",
-      "link": "https://www.local10.com/news/2026/06/27/iranian-drones-attack-bahrain-and-a-ship-is-struck-in-the-strait-after-us-airstrikes/",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-28T00:32:05.479881+05:00",
-      "age_min": 47.1
-    },
-    {
       "hash": "be24f5a5f16e49b72e10e6481dd5f048",
       "title": "Fed rate cuts: Payrolls will weaken, inflation will plunge, and Warsh was 'largely performative' - Fortune",
       "summary": "Fed rate cuts: Payrolls will weaken, inflation will plunge, and Warsh was 'largely performative'&nbsp;&nbsp;Fortune",
@@ -216,6 +204,18 @@
       "status": "new",
       "ts": "2026-06-28T03:33:12.094455+05:00",
       "age_min": 5.0
+    },
+    {
+      "hash": "f962e6452a4b71a2f8ae844fc81f3895",
+      "title": "Live Updates: Hostilities Flare Between U.S. and Iran, Testing Truce",
+      "summary": "U.S. forces carried out retaliatory airstrikes on Iran for the second straight night, after Bahrain said it had been targeted by Iranian drones and a ship came under attack in the Strait of Hormuz for the second time in recent days.",
+      "link": "https://www.nytimes.com/live/2026/06/27/world/us-iran-strikes-hormuz",
+      "source": "NYT World",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-28T04:32:48.303057+05:00",
+      "age_min": 4.8
     },
     {
       "hash": "a4634960ed3b593ef0776a41efa4acbc",
@@ -326,28 +326,16 @@
       "age_min": 76.1
     },
     {
-      "hash": "09ae3af0f2db319f366defe0dabc0617",
-      "title": "Why is Crimea critical to the Russia–Ukraine war?",
-      "summary": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
+      "hash": "d761182e6855d729964bbf268c5796c0",
+      "title": "Federal Reserve faces contrarian views on rate cuts amid economic shifts - Crypto Briefing",
+      "summary": "Federal Reserve faces contrarian views on rate cuts amid economic shifts&nbsp;&nbsp;Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Bbjh3NzhFSXZuUm9VU0pKNWlpV3ZjLUZTbHAxLXJkMTVRUlpyVkJBWkRQN183aXF4Y05tX3dhTHI1UVM5dXZ5dW1yUTFraGcxajRoeDBZQkdtbkxaRG1jdnE4Wmw5WVdpb3FkNlBINzRpZE92SjFfQUt3?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-28T00:32:49.351392+05:00",
-      "age_min": 10.8
-    },
-    {
-      "hash": "c94455cdbaa313b829ba8059740fe03f",
-      "title": "2026 - 06 - 27 | INVESTOR ALERT : Pomerantz Law Firm Investigates Claims On Behalf of Investors of Sigma Lithium Corporation - SGML | TSXV : SGML",
-      "summary": "",
-      "link": "https://stockhouse.com/news/press-releases/2026/06/27/investor-alert-pomerantz-law-firm-investigates-claims-on-behalf-of-investors-23",
-      "source": "GDELT/ENERGY",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-28T00:32:05.477161+05:00",
-      "age_min": 107.1
+      "ts": "2026-06-28T04:33:18.901041+05:00",
+      "age_min": 34.3
     },
     {
       "hash": "13de2ad8cb41c7413d23ff68701e97d9",
@@ -446,16 +434,16 @@
       "age_min": 31.8
     },
     {
-      "hash": "5d7baaf624473d35ee7f44d6febcbbac",
-      "title": "This U . S . Uranium Miner Just Became a Critical Minerals Play . But Is the Stock a Buy ?",
-      "summary": "",
-      "link": "https://www.fool.com/investing/2026/06/27/this-us-uranium-miner-just-became-a-critical-miner/?source=iedfolrf0000001",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
+      "hash": "bcfb0b191097fb6b87a9b1668063a9a6",
+      "title": "Iran attacks Bahrain as US forces shoot down nine drones in latest Gulf escalation - Crypto Briefing",
+      "summary": "Iran attacks Bahrain as US forces shoot down nine drones in latest Gulf escalation&nbsp;&nbsp;Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9TeGRrcWttNmlQaDc1WC1DVm9KdlZrdGJZSE92LWNFMTJVd3VmUlMxeldNUkZlZVVEdjhLN2tNczdIdnRXcnZDdERVNTk4cUZUMnJ5UUFJcE9UTTVKOE9EbjlfWG44by1QZUo2cXhreUNLR2g0UGRRQWJR?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-28T00:32:05.478052+05:00",
-      "age_min": 107.1
+      "ts": "2026-06-28T04:33:18.902058+05:00",
+      "age_min": 17.3
     },
     {
       "hash": "cbad75cf691c3e6e5cd35dca0f38f2c9",
