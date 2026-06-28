@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T23:18:18.533330+05:00",
+  "updated": "2026-06-28T23:33:44.222375+05:00",
   "items": [
     {
       "hash": "0b8f6ead0b3a6cfc73c6b327161f8467",
@@ -108,6 +108,30 @@
       "status": "new",
       "ts": "2026-06-28T23:17:36.867899+05:00",
       "age_min": 1.4
+    },
+    {
+      "hash": "54014e950743844b6aa2ddedcbc47185",
+      "title": "Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation",
+      "summary": "President Trump and Iran’s Revolutionary Guards exchanged threats and U.S. allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "source": "NYT World",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-28T23:32:55.422512+05:00",
+      "age_min": 4.9
+    },
+    {
+      "hash": "b3e48ad24ddaaceca139ca2e9fd80445",
+      "title": "Война в Украине - баланс войны смещается в пользу Киева",
+      "summary": "",
+      "link": "https://www.unian.net/war/voyna-v-ukraine-balans-voyny-smeshchaetsya-v-polzu-kieva-13425300.html",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-28T23:31:50.478456+05:00",
+      "age_min": 91.8
     },
     {
       "hash": "5bc0a735343f7afbf3cd31f2722d30c8",
@@ -252,18 +276,6 @@
       "status": "new",
       "ts": "2026-06-28T19:53:23.144801+05:00",
       "age_min": 87.7
-    },
-    {
-      "hash": "8205fb93944d7c126663f3bdea5b1676",
-      "title": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability - The Guardian",
-      "summary": "Shadow war: how use of proxy forces by Iran, Israel and US is driving Middle East instability&nbsp;&nbsp;The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNmtkbkRsT00wbzRHUjIzMTBmZXdrdkY4V1JhaVlZbDZmTWl1MWVDVWRwVGdScVhlcUhwMjhRSnRheUZyVEF2TjRxbVZmVmpDQ19KRzZJbE5WcTRnUDJ1eFlzSzVmcWtRUTFsZFdvLWM2NDVKclozX0FUUmFsNTBXNHl6YTE3QjhwM0E?oc=5",
-      "source": "GNews/Mideast",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-28T19:33:19.794279+05:00",
-      "age_min": 37.3
     },
     {
       "hash": "83378adbaecdb8fe7a38402d5290c3cc",
@@ -434,6 +446,18 @@
       "age_min": 37.7
     },
     {
+      "hash": "d1bc21cbeefd1f36ea971ed1ccd8e8c7",
+      "title": "Iran launches drone and missile attacks on Bahrain and Kuwait after new U . S . strikes",
+      "summary": "",
+      "link": "https://upnorthlive.com/news/nation-world/iran-launches-drone-and-missile-attacks-on-bahrain-and-kuwait-after-new-us-strikes-president-donald-trump-tehran-nuclear-strait-of-hormuz-uranium-oman-islamic-republic-foreign-minister-abbas-araghchi",
+      "source": "GDELT/SANCTIONS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-28T23:31:50.481587+05:00",
+      "age_min": 61.8
+    },
+    {
       "hash": "1a2e9de2a91c7f04d04d7a5cbb34d7e9",
       "title": "US Missile Moves in Japan Send China Clear Message about the Arrival of A New Era - daily-sun.com",
       "summary": "US Missile Moves in Japan Send China Clear Message about the Arrival of A New Era&nbsp;&nbsp;daily-sun.com",
@@ -480,42 +504,6 @@
       "status": "new",
       "ts": "2026-06-28T20:02:57.071614+05:00",
       "age_min": 33.0
-    },
-    {
-      "hash": "ed49588868de5f698a0c903e45221ca4",
-      "title": "Saudi Aramco helicopter crash kills 14",
-      "summary": "A ⁠helicopter belonging ⁠to Saudi ⁠oil giant Aramco crashed on Sunday in Ras Tanura on Saudi Arabia’s eastern coast west ‌of the Strait of Hormuz, killing 14 nationals, the state news agency reported, adding that the cause was unknown.\nAramco had resumed crude ⁠oil loadings on Friday at its ‌Ras Tanura terminal in the Gulf after they were ‌halted for nearly four months.\n“The relevant authorities h",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3358664/saudi-aramco-helicopter-crash-kills-14?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-28T19:32:55.593014+05:00",
-      "age_min": 133.5
-    },
-    {
-      "hash": "c91dfd4a76b332cf7e287b47c5177f24",
-      "title": "Trump again threatens Iran with annihilation as Kuwait and Bahrain report attacks",
-      "summary": "Iran says it targeted U.S. military facilities in Kuwait and Bahrain following U.S. strikes on targets in and around the Strait of Hormuz.",
-      "link": "https://www.cnbc.com/2026/06/28/trump-threatens-iran-with-annihilation-kuwait-bahrain-report-attacks.html",
-      "source": "CNBC",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-28T19:32:54.850506+05:00",
-      "age_min": 84.3
-    },
-    {
-      "hash": "1a72f75cf4d527838ea5d15cad6fb134",
-      "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-      "summary": "Iran’s foreign minister has urged ‘all parties not to interfere’ in the management of the Strait of Hormuz.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-28T19:32:54.323426+05:00",
-      "age_min": 114.4
     }
   ]
 }
