@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T22:18:04.976172+05:00",
+  "updated": "2026-06-28T22:33:43.577280+05:00",
   "items": [
     {
       "hash": "0b8f6ead0b3a6cfc73c6b327161f8467",
@@ -62,18 +62,6 @@
       "age_min": 31.7
     },
     {
-      "hash": "39ee88dd9496cce6aed8b4d484d5803e",
-      "title": "Iran attacks Bahrain and Kuwait following US strikes and threatens to halt talks to end the war",
-      "summary": "",
-      "link": "https://abc7news.com/post/iran-attacks-bahrain-kuwait-following-us-strikes-threatens-halt-talks-end-war/19403300/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-28T18:31:25.052553+05:00",
-      "age_min": 91.4
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -120,6 +108,18 @@
       "status": "new",
       "ts": "2026-06-28T18:47:25.971393+05:00",
       "age_min": 167.0
+    },
+    {
+      "hash": "26662ac0f47308a85baac33839168271",
+      "title": "2 Dividend Stocks to Buy Even as New Fed Chair Kevin Warsh Holds Interest Rates Steady",
+      "summary": "",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/2-dividend-stocks-buy-even-152700897.html",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-28T22:32:45.813644+05:00",
+      "age_min": 92.8
     },
     {
       "hash": "2cef6db5a26bfad3c03b4ee7b4c7e60e",
@@ -290,18 +290,6 @@
       "age_min": 28.0
     },
     {
-      "hash": "4c8a6b9d29845a1c5aaa2a2759cd92c8",
-      "title": "Ущерб США от атак Ирана на базы на Ближнем Востоке превысил $5 млрд – СМИ",
-      "summary": "",
-      "link": "https://vestikavkaza.ru/news/userb-ssa-ot-atak-irana-na-bazy-bliznem-vostoke-prevysil-5-mlrd-smi.html",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-28T18:31:25.057718+05:00",
-      "age_min": 61.4
-    },
-    {
       "hash": "83378adbaecdb8fe7a38402d5290c3cc",
       "title": "Helicopter Crash Near Major Saudi Oil Refinery Kills 14 People",
       "summary": "The incident occurred near the Ras Tanura facility in the east of the country, a key export hub for oil transported through the Strait of Hormuz.",
@@ -444,30 +432,6 @@
       "status": "new",
       "ts": "2026-06-28T19:52:39.470953+05:00",
       "age_min": 37.7
-    },
-    {
-      "hash": "452ef8c5938bd45f6ed346a694ecddd1",
-      "title": "New Fed chair Kevin Warsh says there's a huge problem with financial markets right now. His solution could be bad news for stock investors - MSN",
-      "summary": "New Fed chair Kevin Warsh says there's a huge problem with financial markets right now. His solution could be bad news for stock investors&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNTm84WTZyTTFnQlRFanVhcUhOem5CeU9STVliTXlLQ0VOZEs1VTBQYnQyS2tvQWJEOVdXek9uRU9nMHlaU2xiZnpUcXlPZGFvRU05N0s1RkFNeUpPY3J1QVhfcWxnU1lMMU1qakFZUXVjOFZkX1QxelhMRzFGTVNoejk2cDV3NVlOM1RNRU10eGN2d0hJYTgxZ1ZVSkpqdVE5ZnRxc2RoUkoySXlmNENXWFZWcGdRbExST2dLM19kT2ZOX0JBYXA1MGRqZzFGOVdjdHNtWjRpZ3hSdDJLZ2VQS3M5UXRCcE94THNNV21PMWg1MXBCZmNTS1h4X0dUUXBYM0poOUEweXIyYk5nbFc2Zmd1bG5EaDR4X2hEU3NqWFBzTlBTT1lCM29SVXdXaUJXOUdsMUJicE5Wcm8?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-28T18:33:14.780580+05:00",
-      "age_min": 92.6
-    },
-    {
-      "hash": "a34db8206f69beef63ae8bfacbd69356",
-      "title": "Greenspan Is Dead. Now Warsh Has to Decide If the Trick Still Works. - The Eastern Herald",
-      "summary": "Greenspan Is Dead. Now Warsh Has to Decide If the Trick Still Works.&nbsp;&nbsp;The Eastern Herald",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFpVV3g4Q18wZkFDOUdoUFVOa2lQUnNlTUxtdUZYbkk2eGcxdUpUV3gyRU55LTdYVzlVU2ZLNldDcG1QUTFGdHFHUXg0YWZ0Q2RPUHhaOV9tcWwzSlhHcDNGYmg5MGdGcUxhQ3VPN3RpQ0lBTFZzWFJQRTE4TXZPTmtpYzFVcmplcEVBVkpTWERpazV0bXVj?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-28T18:18:07.786227+05:00",
-      "age_min": 2.1
     },
     {
       "hash": "1a2e9de2a91c7f04d04d7a5cbb34d7e9",
