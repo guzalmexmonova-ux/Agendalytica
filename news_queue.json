@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T01:01:20.751284+05:00",
+  "updated": "2026-06-30T01:16:24.723931+05:00",
   "items": [
     {
       "hash": "e4ee10c26c3fdcd67c46217782238150",
@@ -60,18 +60,6 @@
       "status": "new",
       "ts": "2026-06-29T21:30:53.608215+05:00",
       "age_min": 45.9
-    },
-    {
-      "hash": "bf135ee5fac39383ccda84661df479cd",
-      "title": "June Payrolls Expected to Boost Rate-Hike Bets",
-      "summary": "The FOMC’s tone at the June meeting, together with Chairman Kevin Warsh’s news conference, has raised the prospect of a near-term rate hike. \nAditya Bhave, Head: US Economics at Bank of America, discusses the Fed and his interest rate outlook for the remainder of 2026. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-06-29/june-payrolls-expected-to-boost-rate-hike-bets-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-29T21:04:10.371709+05:00",
-      "age_min": 10.6
     },
     {
       "hash": "4fc54e92d565a794514ec8ec934b3b4d",
@@ -230,6 +218,18 @@
       "age_min": 45.9
     },
     {
+      "hash": "05a51a9b260a444d3b1848a37b6d6303",
+      "title": "Whatever You Do in Russia, Don’t Talk About the War",
+      "summary": "As Ukraine brings the war home to Russia, officials hesitate to designate shelters and blast sirens, downplaying the conflict’s consequences with euphemisms.",
+      "link": "https://www.nytimes.com/2026/06/29/world/europe/russia-ukraine-rhetoric.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-30T01:15:36.213983+05:00",
+      "age_min": 13.4
+    },
+    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -240,18 +240,6 @@
       "status": "new",
       "ts": "2026-06-29T22:03:30.248760+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "092c3dc0c1174eb2b3481d2ba2ee157e",
-      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-      "summary": "The US-Iran MoU acts as a state-to-state framework managing mutual pain, not a definitive end to regional conflict.",
-      "link": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T21:04:11.724591+05:00",
-      "age_min": 13.1
     },
     {
       "hash": "b5d26ff0fc6aa7b0c70c6003d91957bc",
@@ -422,30 +410,6 @@
       "age_min": 23.2
     },
     {
-      "hash": "a3f8e1c46cdaae79d26d99cf62c58945",
-      "title": "Afghan Diplomat summoned as Pakistan lodges Demarche over Karachi Terror Attack",
-      "summary": "",
-      "link": "https://en.dailypakistan.com.pk/29-Jun-2026/afghan-diplomat-summoned-as-pakistan-lodges-demarche-over-karachi-terror-attack",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-29T21:15:54.996000+05:00",
-      "age_min": 30.9
-    },
-    {
-      "hash": "a088ccd437ad0973024d9c3fc7441403",
-      "title": "Op-ed: If you think China needs to dethrone U.S. dollar, you don't understand how it is waging global currency war",
-      "summary": "It's misguided to focus on China's renminbi replacing the U.S. dollar. Beijing is already successfully reducing dependence on a dollar-centric global system.",
-      "link": "https://www.cnbc.com/2026/06/28/china-doesnt-need-to-de-throne-dollar-to-win-global-currency-war.html",
-      "source": "CNBC",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T21:04:12.121437+05:00",
-      "age_min": 3.7
-    },
-    {
       "hash": "cdb5166046f86e1d393759beb923e09e",
       "title": "European Central Bank raises rates again as Lagarde doubles down on traditional inflation tools - Crypto Briefing",
       "summary": "European Central Bank raises rates again as Lagarde doubles down on traditional inflation tools&nbsp;&nbsp;Crypto Briefing",
@@ -516,6 +480,30 @@
       "status": "new",
       "ts": "2026-06-29T21:45:57.221023+05:00",
       "age_min": 46.0
+    },
+    {
+      "hash": "4ec55bbfd2d1f07e53e868aa2f648b97",
+      "title": "Постпредство РФ: Киев пытается шантажировать регион риском ядерной катастрофы",
+      "summary": "Москва серьезно озабочена резкой активизацией террористических атак против ЗАЭС и города-спутника Энергодара, заявила исполняющая обязанности постоянного представителя России при ООН Анна Евстигнеева",
+      "link": "https://tass.ru/politika/27869351",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-30T01:15:38.877722+05:00",
+      "age_min": 43.2
+    },
+    {
+      "hash": "07ae4625fd787b5884da79ce581dce0c",
+      "title": "КНР осудила удар ВСУ по автобусу с белорусскими гражданами",
+      "summary": "Ни при каких обстоятельствах гражданские не должны становиться целью атак, заявил заместитель постпреда Китая при ООН Сунь Лэй",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27869379",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-30T01:15:38.874553+05:00",
+      "age_min": 27.8
     },
     {
       "hash": "477025f9cbdbfd34c8523105881cdf9d",
