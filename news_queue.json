@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T16:48:21.057328+05:00",
+  "updated": "2026-06-29T17:04:31.049069+05:00",
   "items": [
     {
       "hash": "50964d413412c6bcc74e01d63fc62114",
@@ -72,18 +72,6 @@
       "status": "new",
       "ts": "2026-06-29T14:13:05.349592+05:00",
       "age_min": 16.8
-    },
-    {
-      "hash": "b02eeb3ac036610bc12b91499fdbbae6",
-      "title": "Top South African police officer survives assassination attempt",
-      "summary": "Deputy crime intelligence boss Maj-Gen Feroz Khan was due to appear before an inquiry into police corruption this week.",
-      "link": "https://www.bbc.co.uk/news/articles/c9v2x700l8vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-29T13:03:26.760544+05:00",
-      "age_min": 13.3
     },
     {
       "hash": "b670a46e8b33518c26fde90aa1daf46c",
@@ -182,18 +170,6 @@
       "age_min": 10.4
     },
     {
-      "hash": "2e1e9715c772780a459a8e9f788171ac",
-      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
-      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
-      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
-      "source": "Crisis Group",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T13:03:29.025213+05:00",
-      "age_min": 0
-    },
-    {
       "hash": "6cdcc4644b2c907dae024fa05886e6db",
       "title": "Mercuria Signs First Uranium Financing Deal With Malawi Miner",
       "summary": "Trading house Mercuria Energy Group Ltd. signed its first prepayment agreement with a uranium miner, striking a deal with the owner of an operation in Malawi.",
@@ -242,16 +218,40 @@
       "age_min": 18.0
     },
     {
-      "hash": "741839b17ab56bc5bdeb28be3cad6f3f",
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 7,
-      "weight": 4,
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-06-29T13:03:26.759386+05:00",
-      "age_min": 191.2
+      "ts": "2026-06-29T17:03:44.327522+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-29T17:03:44.326667+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "1e37a80bdcc04747d10a6bd1adf949c9",
+      "title": "China conducts ground test of hypersonic ramjet that can change shape in flight",
+      "summary": "At a test facility in China, a hypersonic engine that reshapes its internal airflow channel – much like a throat tightening and relaxing – has operated continuously from a relatively modest Mach 1.8 (nearly twice the speed of sound) all the way to Mach 6 without failing.\nAnd the material that kept superheated gases from escaping? Essentially the same black mineral found inside a pencil: graphite.\n",
+      "link": "https://www.scmp.com/news/china/science/article/3358738/china-conducts-ground-test-hypersonic-ramjet-can-change-shape-flight?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-29T17:03:43.894003+05:00",
+      "age_min": 3.5
     },
     {
       "hash": "b070b7613f96707d52cbf6e981a2e6a1",
@@ -410,6 +410,18 @@
       "age_min": 31.9
     },
     {
+      "hash": "43570d278d4c95800d1c00fe6213c460",
+      "title": "Investment Outlook: Rate Hikes Back in Focus - Davy",
+      "summary": "Investment Outlook: Rate Hikes Back in Focus&nbsp;&nbsp;Davy",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaHhobzFHYjFiVmhJNTVUUzYzLUFfNGdtYXNtZ08wM19JbnJKZUUtNGNXVXFfMUxtUW10Q3NYVFRIRGlicWkxTWVkQl9rYVVOS091Wm04cWd4WWFIWGFqeDFVNVhTMFVtSEN1S216TExUS0tSelBidjFGR0dMUEJibzlnM2Jod2JkcDhLU0x5NFU1MlI3VTBaZEtNRWl1WWc?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-29T17:04:10.968423+05:00",
+      "age_min": 3.2
+    },
+    {
       "hash": "c5f53d725b601dd1d0ad7979c0ba2261",
       "title": "Iran Risks Peace Talks With U.S. to Maintain Leverage Over Strait",
       "summary": "Iran sees its control over the Strait of Hormuz as critical leverage in peace talks with the United States. It seems willing to risk the cease-fire to maintain that power.",
@@ -420,18 +432,6 @@
       "status": "new",
       "ts": "2026-06-29T15:05:04.630704+05:00",
       "age_min": 42.0
-    },
-    {
-      "hash": "cf03b82fd553e2b607d29a2bb7e73c95",
-      "title": "Gold prices fall 0.69 percent to $4,053 as oil surge, Fed rate hike bets weigh on bullion - Economy Middle East",
-      "summary": "Gold prices fall 0.69 percent to $4,053 as oil surge, Fed rate hike bets weigh on bullion&nbsp;&nbsp;Economy Middle East",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYV9TOHZJTE80T0VlRkhhUXhYRVNlNGlpVUZ4ZTV4cU5yMlN2enAwSzAwYVdOMUFnakpBWmlkTjNpbElzTVRFR2c5UHdfYUpnTXlvY1lRVFFoVkVmeUJvNHBlQm8yLVBsalZ2TmxKUnlpUWVvSlVsWEVoQms1LXRpY29IQnN1T2p1V3d4bU8wM0JvYjlTc3NydExqc1dqN1VYRkVOQ25Yb1BpbUdkVDhFWDdGZUNRN3pkWUJQYUFZcw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T13:03:55.018271+05:00",
-      "age_min": 115.7
     },
     {
       "hash": "9e5b0931b4fb2848a04728875a45bcef",
@@ -542,6 +542,18 @@
       "age_min": 61.9
     },
     {
+      "hash": "477025f9cbdbfd34c8523105881cdf9d",
+      "title": "Pakistan Attacks Afghanistan, Killing More Than 30",
+      "summary": "The Taliban said that airstrikes left 36 civilians dead, while Pakistan claimed that its assault killed 32 militants, in the latest in a monthslong conflict.",
+      "link": "https://www.nytimes.com/2026/06/29/world/asia/pakistan-afghanistan-strikes.html",
+      "source": "NYT World",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-29T17:03:42.744227+05:00",
+      "age_min": 139.9
+    },
+    {
       "hash": "f19843230f5034040a942134b57907a6",
       "title": "Панические атаки : мошенники создают фейковые сайты - радары атак БПЛА для имитации взлома личных кабинетов",
       "summary": "",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-06-29T15:18:06.672014+05:00",
       "age_min": 11.1
-    },
-    {
-      "hash": "3d17eeef1c6545c2f3ab0514b33a6f2c",
-      "title": "President Trump will not get what he wants from Kevin Warsh, a source tells us, as inflation will force the Fed upwards - Fortune",
-      "summary": "President Trump will not get what he wants from Kevin Warsh, a source tells us, as inflation will force the Fed upwards&nbsp;&nbsp;Fortune",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY1JHN1p3enhHSG90VXE3dXdkckVCWTJTZGlxaEk3eUtzOXdQQ0l0NzFqZ1FZQ2pyNFg0djFLY25OSzdJMzVqdnVFSDl5aW13OUVYNWR1bXBsblVJLUUwc0MtOFBCNjdRUm5yT29uRnN1SC16aEZsU1NXX3kxSGdaX0xRcHpSdw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T15:05:28.659728+05:00",
-      "age_min": 13.5
     }
   ]
 }
