@@ -1,18 +1,6 @@
 {
-  "updated": "2026-06-29T12:04:13.158804+05:00",
+  "updated": "2026-06-29T12:18:45.072490+05:00",
   "items": [
-    {
-      "hash": "7f415a0de8a33a0c5893c723da46d216",
-      "title": "Trump is threatening a new trade war . The EU should call his bluff",
-      "summary": "",
-      "link": "https://www.theage.com.au/business/the-economy/trump-is-threatening-a-new-trade-war-the-eu-should-call-his-bluff-20260629-p60ato.html",
-      "source": "GDELT/FED_ECB",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-06-29T08:16:48.136183+05:00",
-      "age_min": 61.8
-    },
     {
       "hash": "4589209dbc275753c420a38ba0a971da",
       "title": "Bursting Of AI Bubble , Collapse Of Circular Deals Are Among Top Risks To Global Financial System , BIS Warns",
@@ -146,18 +134,6 @@
       "age_min": 0
     },
     {
-      "hash": "73da26d4a477547970f85b3fec5b0afd",
-      "title": "AI Demand , War , & Climate Pressure Push World Back To Nuclear",
-      "summary": "",
-      "link": "https://www.zerohedge.com/energy/ai-demand-war-climate-pressure-push-world-back-nuclear",
-      "source": "GDELT/SANCTIONS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T08:16:38.333298+05:00",
-      "age_min": 61.6
-    },
-    {
       "hash": "2d83fd7fec8a223aa1db8c89584cdb20",
       "title": "US says it has agreed deal with Iran to halt strikes and resume talks",
       "summary": "Tehran yet to confirm end of tit-for-tat attacks that threaten fragile truce in Strait of Hormuz",
@@ -242,16 +218,16 @@
       "age_min": 74.2
     },
     {
-      "hash": "9448c337c11c486304da96dd593b3558",
-      "title": "China widens Japan export curbs, targeting drone makers, nuclear firms and defense institutes",
-      "summary": "China blacklisted four of Japan's government defense research institutes and placed dozens more Japanese firms under tightened export restrictions Monday.",
-      "link": "https://www.cnbc.com/2026/06/29/china-japan-export-controls-watch-list-defense-entities.html",
-      "source": "CNBC",
-      "score": 9,
+      "hash": "54014e950743844b6aa2ddedcbc47185",
+      "title": "U.S. Indicates a Deal to Suspend Attacks in Strait but Iran Hasn’t Confirmed",
+      "summary": "A U.S. official said the U.S. and Iran agreed to halt attacks in the Strait of Hormuz and allow vessels to move freely. Hostilities in recent days have threatened a two-week-old cease-fire.",
+      "link": "https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz",
+      "source": "NYT World",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-06-29T08:17:34.057565+05:00",
-      "age_min": 34.9
+      "ts": "2026-06-29T12:17:53.906993+05:00",
+      "age_min": 12.1
     },
     {
       "hash": "f4391955f8fd6b28bd8746946cf88c60",
@@ -458,6 +434,30 @@
       "age_min": 110.1
     },
     {
+      "hash": "35ee58c9be2d52164af2f9ba97982475",
+      "title": "Oil prices rise as US , Iranian strikes threaten Strait of Hormuz reopening",
+      "summary": "",
+      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-29T12:17:09.150420+05:00",
+      "age_min": 47.2
+    },
+    {
+      "hash": "c72876b66f2b9cdfa64dbcc58287bdc6",
+      "title": "Agni deters , Pralay disrupts , BrahMos strikes : India missile power explained",
+      "summary": "",
+      "link": "https://timesofindia.indiatimes.com/defence/news/agni-deters-pralay-disrupts-brahmos-strikes-indias-missile-power-explained/articleshow/132064068.cms",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-06-29T12:15:49.578587+05:00",
+      "age_min": 45.8
+    },
+    {
       "hash": "1e163bf15078ce73977bb911f73b84ef",
       "title": "How much damage did Iran missile and drone attacks cause to US bases ?",
       "summary": "",
@@ -504,6 +504,30 @@
       "status": "new",
       "ts": "2026-06-29T09:02:51.113003+05:00",
       "age_min": 32.9
+    },
+    {
+      "hash": "4bf336f55e9808cfde429b1dc59de2b9",
+      "title": "Сбили 209 БПЛА. Главное об отражении атак на российские регионы",
+      "summary": "В частности, в Севастополе уничтожили 29 БПЛА",
+      "link": "https://tass.ru/proisshestviya/27866961",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-29T12:17:56.956245+05:00",
+      "age_min": 4.6
+    },
+    {
+      "hash": "ad8cafb3bf580dd11d6712c558bb5ec9",
+      "title": "Stealing from the gods: India’s Ram Temple hit by corruption scandal",
+      "summary": "The temple is mired in embezzlement allegations before crucial state elections, embarrassing PM Modi&#039;s government.",
+      "link": "https://www.aljazeera.com/features/2026/6/29/stealing-from-the-gods-indias-ram-temple-hit-by-corruption-scandal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-06-29T12:17:53.786972+05:00",
+      "age_min": 13.0
     },
     {
       "hash": "712efda4d8deafeece5c6e4d583c7628",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-06-29T11:47:46.641767+05:00",
       "age_min": 233.8
-    },
-    {
-      "hash": "fd996c598eaa078161f75b9eddddfbe8",
-      "title": "Oil prices rise as US, Iranian strikes threaten Strait of Hormuz reopening",
-      "summary": "Brent crude edges up as tit-for-tat strikes hinder return to normality in key waterway.",
-      "link": "https://www.aljazeera.com/economy/2026/6/29/oil-prices-rise-as-us-iranian-strikes-threaten-strait-of-hormuz-reopening?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T11:47:46.141345+05:00",
-      "age_min": 172.7
-    },
-    {
-      "hash": "5cb45b90d91392dac9033dfc3b5d55f3",
-      "title": "Gold Prices and U.S.-Iran Strikes: Why Conflict Suppresses Gold - Discovery Alert",
-      "summary": "Gold Prices and U.S.-Iran Strikes: Why Conflict Suppresses Gold&nbsp;&nbsp;Discovery Alert",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdDh6MVVZN2s3V1Z5M0l3RWxYclFGRFhQZXkxRU1pUTc5ZGN4U0g0eWg1S0JXVE1KQTZITk5HemNhUWNYZFp4czlJWVQycXo2M0dhUUpQbGJMcDcxWG5valctejE1UXpOajJic3g4ZDA3NllGMm9fODZaT25sOWQ4Ym9BRG4?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-06-29T10:18:12.231578+05:00",
-      "age_min": 19.8
     }
   ]
 }
