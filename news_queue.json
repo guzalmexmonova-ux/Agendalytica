@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T11:18:59.636883+05:00",
+  "updated": "2026-07-03T11:34:13.870580+05:00",
   "items": [
     {
       "hash": "a855016e0603de9f605c711602a785ba",
@@ -216,6 +216,18 @@
       "status": "new",
       "ts": "2026-07-03T09:48:16.502647+05:00",
       "age_min": 80.0
+    },
+    {
+      "hash": "9595bfe841c990c6892d85db629dfe4c",
+      "title": "RT by @elonmusk: Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements Release Notes: v0.2.84 — 2026-07-03 Features: • Announcements now update live during active sessions without restart or /new. • Hiding an announcement no longer suppresses later criticals; new ones reappear automatically. • run_terminal_cmd now requires a one-sentence description rationale in every invocation. • ask_user_question timeout policy is now configurable in config.toml and /settings. • Ask-Question timeout can now be toggled from /settings (Agent & Approval). • Thinking/reasoning blocks are now shown by default while the model is working. • Critical announcements now show a red title with a clickable [hide] button and aligned message. • Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments. Bug Fixes: • Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation. • Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count. • Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name. • Copy now succeeds when running inside containers even when the terminal brand cannot be detected. • Tool result previews no longer paint opaque panels in grok --minimal. • grok wrap now correctly handles quoted strings and shell aliases. • Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain. • Fixed a freeze that could occur when editing and sending the last message in the queue. • Fixed a startup crash on minimal Linux systems lacking system CA certificates. Performance: • Grep now stops early on broad searches, returning faster results with far less memory use. • Idle CPU and memory usage after long sessions or resume is now dramatically lower.",
+      "summary": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now requires a one-senten",
+      "link": "https://nitter.net/XFreeze/status/2072891163502080053#m",
+      "source": "Musk/X",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-03T11:34:11.562935+05:00",
+      "age_min": 161.9
     },
     {
       "hash": "3e69d855e1c10663e529a55cfab7a2b4",
