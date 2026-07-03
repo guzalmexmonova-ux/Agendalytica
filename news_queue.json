@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-03T12:33:58.133320+05:00",
+  "updated": "2026-07-03T12:48:40.458727+05:00",
   "items": [
+    {
+      "hash": "a9dc5a6fa1ab5c3d65713fd8af4fc8d1",
+      "title": "Emergency and rescue operations are still ongoing in Kyiv at three sites of last night’s Russian strikes. First responders have already managed to clear a significant part of the rubble, but 10 people are still missing. The search operation will continue for as long as needed. As of now, it is known that 30 people were killed in yesterday’s attack on Kyiv. My condolences to all their families and loved ones. Nearly one hundred people were wounded, including children. Yesterday evening, the Russians attacked Kryvyi Rih, striking the territory of an ordinary garage cooperative. Seven people were wounded. Residential buildings and two schools were damaged. A private home in the Kharkiv region was attacked overnight. Six people were injured, three of them children. Yesterday afternoon, the Russians launched missile strikes on the regional hospital in Kherson. They knew exactly what they were targeting and that there was no military purpose in it. Sadly, a doctor was killed, and a nurse was also wounded. Overnight in the Sumy region, a drone strike on an apartment building killed four people, including a mother and her daughter. My condolences to their families and loved ones. Every day and every night, the Russians strike ordinary civilian infrastructure, and terror is the only argument they have left for not stopping the war. Reliable protection of Ukraine’s skies is needed as a prerequisite for diplomacy. We count on the support of our partners, above all with anti-ballistic capabilities. I am grateful to everyone who is already helping.",
+      "summary": "Emergency and rescue operations are still ongoing in Kyiv at three sites of last night’s Russian strikes. First responders have already managed to clear a significant part of the rubble, but 10 people are still missing. The search operation will continue for as long as needed. As of now, it is known that 30 people were killed in yesterday’s attack on Kyiv. My condolences to all their families and ",
+      "link": "https://nitter.net/ZelenskyyUa/status/2072945606012625083#m",
+      "source": "Zelensky/X",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-03T12:48:25.917323+05:00",
+      "age_min": 19.8
+    },
     {
       "hash": "a855016e0603de9f605c711602a785ba",
       "title": "'Most massive' Russian attack on Kyiv kills at least 30",
@@ -48,18 +60,6 @@
       "status": "new",
       "ts": "2026-07-03T09:47:50.649925+05:00",
       "age_min": 30.2
-    },
-    {
-      "hash": "2e1e9715c772780a459a8e9f788171ac",
-      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
-      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
-      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
-      "source": "Crisis Group",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-03T08:47:45.725745+05:00",
-      "age_min": 0
     },
     {
       "hash": "c4bc41dcb93f3fd0dcb82f58e0f1448c",
@@ -122,18 +122,6 @@
       "age_min": 17.3
     },
     {
-      "hash": "4329326bffe1184619cbeae214580cb4",
-      "title": "Vietnam Growth Tops Estimates Despite Trade Risks, Oil Shock",
-      "summary": "Vietnam’s economic growth beat estimates in the second quarter, while trade grew faster than expected in June and inflation slowed, as one of Asia’s fastest-growing economies continues to defy tariff risks and higher energy prices.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-03/vietnam-s-quarterly-growth-surges-june-trade-beats-estimates",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-03T08:47:42.649275+05:00",
-      "age_min": 104.2
-    },
-    {
       "hash": "83448c2a2e7cacc638d87c891d9fd865",
       "title": "Gold Rate Today: MCX Gold Falls to ₹1.47 Lakh as Silver Crashes by ₹5,000 per kg Amid Fed Rate Hike Across Delhi, Mumbai, Chennai, Kerala, Surat, Pune & More | Check City-Wise Rates of 24K, 22K, 18K - The Sunday Guardian",
       "summary": "Gold Rate Today: MCX Gold Falls to ₹1.47 Lakh as Silver Crashes by ₹5,000 per kg Amid Fed Rate Hike Across Delhi, Mumbai, Chennai, Kerala, Surat, Pune & More | Check City-Wise Rates of 24K, 22K, 18K&nbsp;&nbsp;The Sunday Guardian",
@@ -158,6 +146,18 @@
       "age_min": 80.0
     },
     {
+      "hash": "a3cdbdd67b27a3fb8bd4df0262ff90ac",
+      "title": "Khamenei’s coffin placed in Tehran religious complex as Iran begins days-long funeral",
+      "summary": "The body of Iran’s supreme leader, killed in US-Israeli strikes that triggered the Middle East war, arrived at Tehran’s Grand Mosalla on Friday ahead of his funeral, state media reported.\nMillions of people and a coterie of foreign dignitaries were expected to attend Saturday’s official ceremony for Ali Khamenei, with Tehran’s chief negotiator calling for a massive turnout to avenge his death.\nPho",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3359300/khameneis-coffin-placed-tehran-religious-complex-iran-begins-days-long-funeral?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-03T12:47:54.308813+05:00",
+      "age_min": 2.3
+    },
+    {
       "hash": "9595bfe841c990c6892d85db629dfe4c",
       "title": "RT by @elonmusk: Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements Release Notes: v0.2.84 — 2026-07-03 Features: • Announcements now update live during active sessions without restart or /new. • Hiding an announcement no longer suppresses later criticals; new ones reappear automatically. • run_terminal_cmd now requires a one-sentence description rationale in every invocation. • ask_user_question timeout policy is now configurable in config.toml and /settings. • Ask-Question timeout can now be toggled from /settings (Agent & Approval). • Thinking/reasoning blocks are now shown by default while the model is working. • Critical announcements now show a red title with a clickable [hide] button and aligned message. • Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments. Bug Fixes: • Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation. • Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count. • Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name. • Copy now succeeds when running inside containers even when the terminal brand cannot be detected. • Tool result previews no longer paint opaque panels in grok --minimal. • grok wrap now correctly handles quoted strings and shell aliases. • Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain. • Fixed a freeze that could occur when editing and sending the last message in the queue. • Fixed a startup crash on minimal Linux systems lacking system CA certificates. Performance: • Grep now stops early on broad searches, returning faster results with far less memory use. • Idle CPU and memory usage after long sessions or resume is now dramatically lower.",
       "summary": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now requires a one-senten",
@@ -180,30 +180,6 @@
       "status": "new",
       "ts": "2026-07-03T11:18:06.240952+05:00",
       "age_min": 13.4
-    },
-    {
-      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
-      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
-      "summary": "",
-      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-03T08:47:45.726055+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-03T08:47:45.724914+05:00",
-      "age_min": 0
     },
     {
       "hash": "d0eaafc6844bb55bb1b17f41140f1c68",
@@ -278,18 +254,6 @@
       "age_min": 27.2
     },
     {
-      "hash": "3c912bb8dbd4434ad7b1a867b53fe03a",
-      "title": "Asian Stocks Mixed As US Jobs Data Eases Fed Rate Hike Bets - Whalesbook",
-      "summary": "Asian Stocks Mixed As US Jobs Data Eases Fed Rate Hike Bets&nbsp;&nbsp;Whalesbook",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUFZkazcyU1JpU0V6OXgtaUQ4QXBNOWduU3pCNmxoYlZzRkIwbHg2UW5TdnRxOE1oUVpiT2xUekhrQlJhenM4MlR4UUU2aGpfVmVOdC1ndE1VNlhsQzVCZFZ1WGMyek11eWZYbXA0ZDYzdUpaZTBmZGo3bjIyMzZZc1RYenhFUTlUZUxOUTU4RDlxNk94YldxTmJhcjRSUzlTRkhNVVhGRGN2T1otMjhfZzZqaUV1WWdEYjJ3SlFsQVlLajlGYkxSYTdWaDk?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-03T08:48:13.099634+05:00",
-      "age_min": 20.1
-    },
-    {
       "hash": "2d9bf877a36805ef6c94090016ffd447",
       "title": "Pound wobbles as Starmer resigns, US dollar strengthened by hawkish Fed repricing - Euro Weekly News",
       "summary": "Pound wobbles as Starmer resigns, US dollar strengthened by hawkish Fed repricing&nbsp;&nbsp;Euro Weekly News",
@@ -348,18 +312,6 @@
       "status": "new",
       "ts": "2026-07-03T11:48:47.369249+05:00",
       "age_min": 14.5
-    },
-    {
-      "hash": "445d8c9d2fd004ebb1b8b8712476fb8f",
-      "title": "Трампа уличили в скупке обвалившихся из-за его пошлин акций",
-      "summary": "",
-      "link": "https://lenta.ru/news/2026/07/03/trampa-ulichili-v-skupke-obvalivshihsya-iz-za-ego-poshlin-aktsiy/",
-      "source": "Lenta.ru",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-03T08:47:48.469987+05:00",
-      "age_min": 2.7
     }
   ]
 }
