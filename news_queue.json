@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T15:34:01.728345+05:00",
+  "updated": "2026-07-03T15:48:29.481619+05:00",
   "items": [
     {
       "hash": "a9dc5a6fa1ab5c3d65713fd8af4fc8d1",
@@ -36,6 +36,30 @@
       "status": "new",
       "ts": "2026-07-03T13:33:18.111639+05:00",
       "age_min": 14.1
+    },
+    {
+      "hash": "6598aef2e9efde38ab216d611a2a8002",
+      "title": "Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion - BreakingNews.ie",
+      "summary": "Inside Taiwan's nightmare scenario: Chinese blockade, earthquake, sabotage and invasion&nbsp;&nbsp;BreakingNews.ie",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOOFNRa0pMX2JiVFlZV3FlcFhDTG04TzJmRVhxTFlDendxSXU2dDdHZXlVUlhGVXdLN1lEdnB1QWVOWm0wVmZWR0Q3RXpPcnZkQXJJYnRNSWtOV2ZXaks0TFBEZ0tRQndtTXowYU9LREtCeDFhdWg0dENnZjFtYUQ1S2FRWVBDU3FHODd5ZkNnYVExYngzemZqZ1VpNmNnYTFNWnpremlQWU1PU3R6cUluc1BqMEhFVkNvS2U5RzVKbEVOTUZRV0prTTAtOXhMOWFsSmRKNDMzZw?oc=5",
+      "source": "GNews/Breaking",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-03T15:48:13.803549+05:00",
+      "age_min": 17.6
+    },
+    {
+      "hash": "ceaa8e0a5a0dd011a2687f3d23db6690",
+      "title": "Christine Lagarde Says ECB Made the Right Call on Rate Hike - HOKANEWS.COM",
+      "summary": "Christine Lagarde Says ECB Made the Right Call on Rate Hike&nbsp;&nbsp;HOKANEWS.COM",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUENGVHlBbS1YM25Nd25PcXFXYmFUUUdjZC1vdmFtQUdndm90cG5zNXB1VTIxU2FpMFp0VFJlclBBbnYxUEh6S1dVU3V6TG9FVkJyRkpCT1lHb2EyRXZHUFF4SUpDTnFPVGNIZzd6a0lDZlJ4NHFjN3B4ZjNvN0xydA?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-03T15:48:12.311330+05:00",
+      "age_min": 96.2
     },
     {
       "hash": "7ef426c300d9a7fa4385ee1328664b59",
@@ -218,18 +242,6 @@
       "age_min": 2.3
     },
     {
-      "hash": "9595bfe841c990c6892d85db629dfe4c",
-      "title": "RT by @elonmusk: Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements Release Notes: v0.2.84 — 2026-07-03 Features: • Announcements now update live during active sessions without restart or /new. • Hiding an announcement no longer suppresses later criticals; new ones reappear automatically. • run_terminal_cmd now requires a one-sentence description rationale in every invocation. • ask_user_question timeout policy is now configurable in config.toml and /settings. • Ask-Question timeout can now be toggled from /settings (Agent & Approval). • Thinking/reasoning blocks are now shown by default while the model is working. • Critical announcements now show a red title with a clickable [hide] button and aligned message. • Added remote_fetch option under [features] in config.toml to disable all backend catalog and settings fetches for air-gapped environments. Bug Fixes: • Images pasted or read from GIF, BMP or TIFF files are now automatically converted so they work with image generation. • Queue panel now shows action buttons on hover and the status bar displays a compact done/total task count. • Hook matchers now correctly see the real MCP tool name instead of the internal dispatcher name. • Copy now succeeds when running inside containers even when the terminal brand cannot be detected. • Tool result previews no longer paint opaque panels in grok --minimal. • grok wrap now correctly handles quoted strings and shell aliases. • Text selection settings now correctly honor explicit keep_text_selection values even when legacy keys remain. • Fixed a freeze that could occur when editing and sending the last message in the queue. • Fixed a startup crash on minimal Linux systems lacking system CA certificates. Performance: • Grep now stops early on broad searches, returning faster results with far less memory use. • Idle CPU and memory usage after long sessions or resume is now dramatically lower.",
-      "summary": "Another major Grok Build update just landed, packed with new features, extensive bug fixes, and meaningful performance improvements\n\nRelease Notes: v0.2.84 — 2026-07-03\n\nFeatures:\n• Announcements now update live during active sessions without restart or /new.\n• Hiding an announcement no longer suppresses later criticals; new ones reappear automatically.\n• run_terminal_cmd now requires a one-senten",
-      "link": "https://nitter.net/XFreeze/status/2072891163502080053#m",
-      "source": "Musk/X",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-03T11:34:11.562935+05:00",
-      "age_min": 161.9
-    },
-    {
       "hash": "529423ed82b7eb657475022cf4d7b01f",
       "title": "Could Fed's rate hike spoil Dalal Street's rally? - NewsBytes",
       "summary": "Could Fed's rate hike spoil Dalal Street's rally?&nbsp;&nbsp;NewsBytes",
@@ -312,6 +324,18 @@
       "status": "new",
       "ts": "2026-07-03T13:03:34.058718+05:00",
       "age_min": 0.8
+    },
+    {
+      "hash": "45b53297100d38a05f7e59eb2c05e427",
+      "title": "Take Five: Warsh and peace By Reuters - Investing.com",
+      "summary": "Take Five: Warsh and peace By Reuters&nbsp;&nbsp;Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDhrWkZQTVdicm5rbHEzdEY1U0JaT2xiUDdfYkVPWFkzcXhrN2h6MHRnX29YRXFZSHpmY2swaWJ6aE1QLWdwMzMyWVZabGdINW5TLUNuT0VFcDZFcTh3cERqNTN6UnBqV2xBUVJGeVNpYU1KbWJEbzVVaVZ3bXVMZFJHSQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-03T15:48:12.308247+05:00",
+      "age_min": 96.0
     },
     {
       "hash": "f30afe345a8e7dba3b4a15fa89b2b3ae",
