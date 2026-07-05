@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T13:04:25.999795+05:00",
+  "updated": "2026-07-05T13:18:27.053975+05:00",
   "items": [
     {
       "hash": "f166872dbd8165c3e1445e8b94f3c1fb",
@@ -26,18 +26,6 @@
       "age_min": 46.2
     },
     {
-      "hash": "43d5fc983db77fa3b4d7930675260ea6",
-      "title": "Israel  Death Mark  aimed at Iran new leadership reveals a war with no end , only escalation – NaturalNews . com",
-      "summary": "",
-      "link": "https://www.naturalnews.com/2026-07-04-israels-death-mark-aimed-at-irans-new-leadership-reveals-a-war-with-no-end-only-escalation.html",
-      "source": "GDELT/TERRORISM",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-05T09:15:51.218104+05:00",
-      "age_min": 15.9
-    },
-    {
       "hash": "3a6547aaf4ba66acba974cc6dbc5c5ff",
       "title": "Ukraine Invasion Day 1 , 592 : Putin makes exaggerated claims of RU advances",
       "summary": "",
@@ -48,6 +36,18 @@
       "status": "new",
       "ts": "2026-07-05T11:16:04.025749+05:00",
       "age_min": 16.1
+    },
+    {
+      "hash": "56eba95c9f0596f0a912744557cee79d",
+      "title": "India eyes oil exploration expansion after Middle East war shortages",
+      "summary": "",
+      "link": "https://www.freemalaysiatoday.com/category/business/2026/07/05/india-eyes-oil-exploration-expansion-after-middle-east-war-shortages",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.806587+05:00",
+      "age_min": 61.9
     },
     {
       "hash": "14995ee0185494c3fc8b1b1560b76794",
@@ -122,18 +122,6 @@
       "age_min": 46.2
     },
     {
-      "hash": "dd476e556b594a1cdf4e16596471b69d",
-      "title": "Iran begins dayslong funeral for Supreme Leader Ayatollah Ali Khamenei , killed in war - Las Vegas Sun News",
-      "summary": "",
-      "link": "https://lasvegassun.com/news/2026/jul/03/iran-begins-dayslong-funeral-for-supreme-leader-ay/",
-      "source": "GDELT/TERRORISM",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-05T09:15:51.221574+05:00",
-      "age_min": 15.9
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -144,6 +132,18 @@
       "status": "new",
       "ts": "2026-07-05T12:32:56.440798+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "a7d4f3e4391a08c4e964f94d98575b28",
+      "title": "West Asia conflict : Govt lifts emergency gas curbs as LNG supplies normalise",
+      "summary": "",
+      "link": "https://www.rediff.com/news/report/west-asia-conflict-govt-lifts-emergency-gas-curbs-as-lng-supplies-normalise/20260705.htm",
+      "source": "GDELT/ENERGY",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.802462+05:00",
+      "age_min": 46.9
     },
     {
       "hash": "9543132eba93823a10b5f798ed21cfa7",
@@ -168,6 +168,42 @@
       "status": "new",
       "ts": "2026-07-05T10:47:26.511809+05:00",
       "age_min": 23.4
+    },
+    {
+      "hash": "3603bc9d4945126f46a00e4f2a00af40",
+      "title": "OPEC+ Agrees in Principle on 188K B/D Hike, Delegates Say",
+      "summary": "OPEC+ has a preliminary agreement for another modest oil quota increase in August, delegates said, raising the prospect of more supply eventually hitting the market again if a US-Iran peace pact can stick.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-05/opec-agrees-in-principle-on-188k-b-d-quota-hike-delegates-say",
+      "source": "Bloomberg",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:17:33.701131+05:00",
+      "age_min": 29.6
+    },
+    {
+      "hash": "a86a23a24065cf2afab6b6d21d23dd6a",
+      "title": "US Federal Reserve first minutes under Kevin Warsh this week will inform investors about interest rates direction",
+      "summary": "",
+      "link": "https://www.afr.com/markets/equity-markets/asx-to-fall-as-traders-prepare-for-look-inside-warsh-s-fed-reserve-20260705-p60cnv",
+      "source": "GDELT/ENERGY",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.809425+05:00",
+      "age_min": 106.9
+    },
+    {
+      "hash": "fd436ff16a95ecca88a27ad734d5dd4d",
+      "title": "PSX climbs 3 . 23 % on easing oil , ME de - escalation",
+      "summary": "",
+      "link": "https://tribune.com.pk/story/2616514/psx-climbs-323-on-easing-oil-me-de-escalation",
+      "source": "GDELT/ENERGY",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.804002+05:00",
+      "age_min": 31.9
     },
     {
       "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
@@ -230,6 +266,42 @@
       "age_min": 82.3
     },
     {
+      "hash": "b7e5af719a81b586071abc88f2516909",
+      "title": "Canada LNG : Mark Carney pivots back to oil and gas in net zero retreat",
+      "summary": "",
+      "link": "https://www.afr.com/world/north-america/mark-carney-pivots-canada-back-to-oil-and-gas-in-net-zero-retreat-20260705-p60cqh",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.808124+05:00",
+      "age_min": 106.9
+    },
+    {
+      "hash": "678a42e2e270f5dd7a7365bfa69d8360",
+      "title": "US - Iran Truce : Hormuz Shipments Resume | Industry Relief & LNG Supply Boost",
+      "summary": "",
+      "link": "https://www.divyabhaskar.co.in/business/news/us-iran-war-ceasefire-hormuz-shipments-resume-industry-relief-138365500.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.805320+05:00",
+      "age_min": 31.9
+    },
+    {
+      "hash": "b27390f3d6f1bdcbff824cf7ce6e82c7",
+      "title": "Hormuz back on track : Govt withdraws emergency gas curbs as LNG supplies resume",
+      "summary": "",
+      "link": "https://www.businesstoday.in/india/story/hormuz-back-on-track-govt-withdraws-emergency-gas-curbs-as-lng-supplies-resume-541031-2026-07-05",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T13:16:52.803200+05:00",
+      "age_min": 61.9
+    },
+    {
       "hash": "451f4e865bec1329beac136fbf4f9972",
       "title": "North Korea test - fires strategic cruise missile , other weapons from Kang Kon naval destroyer",
       "summary": "",
@@ -242,15 +314,27 @@
       "age_min": 31.2
     },
     {
-      "hash": "bcb48d76d95f0c8ef46797ee38484369",
-      "title": "Masood Azhar Leaked Letters , भारतीय हमले ने तोड़ी रीढ़ , ऑपरेशन सिंदूर पर पहली बार मसूद अजहर की चिट्ठियां आई सामने , लिखा - पूरा परिवार खत्म - jaish e mohammed masood azhar letters operation sindoor india missile strike bahawalpur markaz masjid - Pa...",
-      "summary": "",
-      "link": "https://navbharattimes.indiatimes.com/world/pakistan/jaish-e-mohammed-masood-azhar-letters-operation-sindoor-india-missile-strike-bahawalpur-markaz-masjid/articleshow/132190269.cms",
-      "source": "GDELT/TERRORISM",
-      "score": 5,
-      "weight": 4,
+      "hash": "1702f32b9ed2aac87426c4ea1d4754a1",
+      "title": "Houthi Threat Video Released After Eilat Attack Warning - JFeed",
+      "summary": "Houthi Threat Video Released After Eilat Attack Warning&nbsp;&nbsp;JFeed",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91bjlSSDhzMmFrM0w1NVFxRzl2NUI0RXBXY2Fjd0VidEVRZVItYWNYd2JYRDdMNzBra05FbTAxSjJicmE4RnFEYmNIQjIyYjVGMTNMc2pxX2szdEVJbUNQLU5idzBHUFdTU1hydGVLejBWUGkzeGt3Q28tREVKRTg?oc=5",
+      "source": "GNews/Mideast",
+      "score": 6,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-05T09:15:51.219148+05:00",
+      "ts": "2026-07-05T13:18:07.175231+05:00",
+      "age_min": 18.1
+    },
+    {
+      "hash": "4f7bc9e915bf3a41c39ad3b1ed1b19c7",
+      "title": "Attack by Yemen’s Houthis kills 14 government troops: official - Arab News PK",
+      "summary": "Attack by Yemen’s Houthis kills 14 government troops: official&nbsp;&nbsp;Arab News PK",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Xc3ZCLVFObjZ2Z0JLbENwOVJ0NUxLSU44MmxfV1hGSUp0RW1nZ2NyQnF2TDBVeUYxeGFtNDlFb0lZV3JaRjhMUGRZMmdaMng4b2hnWmVVMGtMYVdv?oc=5",
+      "source": "GNews/Mideast",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-05T13:18:07.174165+05:00",
       "age_min": 15.9
     },
     {
@@ -300,18 +384,6 @@
       "status": "new",
       "ts": "2026-07-05T11:34:00.081063+05:00",
       "age_min": 2.3
-    },
-    {
-      "hash": "69fcf9ae305170e663197eb386ca8b38",
-      "title": "Fire near Dubai airport under control after drone attack, flights suspended - DD News",
-      "summary": "Fire near Dubai airport under control after drone attack, flights suspended&nbsp;&nbsp;DD News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWWJ4TGJfYjZncVdFcVJuaU1DRVRQLVNxN2pEaVJ1UkQ3RDIxMjc5ZlZ3Rk1waUV2alhfTERvSnlhcGNDQ0FpbmlLdWdWOHdJdzllSFl4b2pMNTlDbmF6SW96VDR0eVg5akthUXNRX2JOa0xZM3k3NFlLd2lrQ0Fid2tIeXNOUjNSOXZEckFDMHRVM3pFOXJPbk1kd3llTC1fWlE?oc=5",
-      "source": "GNews/Breaking",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-05T09:18:09.639949+05:00",
-      "age_min": 12.9
     },
     {
       "hash": "2a09611bbc7dc77f1fbe3c61e89b70a3",
