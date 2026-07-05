@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-05T18:18:31.002366+05:00",
+  "updated": "2026-07-05T18:34:10.968714+05:00",
   "items": [
+    {
+      "hash": "4dae413cc8ba90c6fa5c244815ad9734",
+      "title": "US voters say Trump’s Iran war not worth the cost — FT poll",
+      "summary": "Survey shows conflict is dragging down president’s approval ratings ahead of November midterms",
+      "link": "https://www.ft.com/content/f1fe0dae-d22b-4284-b0f9-fa10f717af1c",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T18:33:18.707593+05:00",
+      "age_min": 93.3
+    },
     {
       "hash": "daf506241c19c5285651726b1ae567d0",
       "title": "Iran War Looms Over NATO Summit",
@@ -50,16 +62,16 @@
       "age_min": 17.1
     },
     {
-      "hash": "f166872dbd8165c3e1445e8b94f3c1fb",
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
+      "hash": "159b4d60b20fa313e77f82cb4303186a",
+      "title": "Aoun defends Israel peace framework , says he waiting for solution to avoid war",
+      "summary": "",
+      "link": "https://www.jpost.com/middle-east/article-901432",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-05T14:33:07.900802+05:00",
-      "age_min": 68.6
+      "ts": "2026-07-05T18:31:51.010195+05:00",
+      "age_min": 31.9
     },
     {
       "hash": "95cf0dbf2b3f1fd3f285bb8261da6a07",
@@ -84,18 +96,6 @@
       "status": "new",
       "ts": "2026-07-05T15:31:10.926860+05:00",
       "age_min": 61.2
-    },
-    {
-      "hash": "7597bf479611885c4ff109b4343daecd",
-      "title": "Putin not worried by hits on refineries , says war will continue",
-      "summary": "",
-      "link": "http://www.haitisun.com/news/279165288/putin-says-war-will-continue-shrugs-off-fuel-shortages",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-05T14:31:22.092588+05:00",
-      "age_min": 46.4
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -180,6 +180,66 @@
       "status": "new",
       "ts": "2026-07-05T16:32:11.160474+05:00",
       "age_min": 62.2
+    },
+    {
+      "hash": "e113540d1f1ba0ec7da0553a6101fc64",
+      "title": "Lithuania Moves to Lift Constitutional Ban on Hosting Nuclear Weapons",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/79622",
+      "source": "GDELT/SANCTIONS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-05T18:32:18.758343+05:00",
+      "age_min": 47.3
+    },
+    {
+      "hash": "c394046bc6b5fc1be50dc27e301975df",
+      "title": "British military says cargo ship reports being under attack in the Red Sea off the coast of Yemen",
+      "summary": "",
+      "link": "https://www.nsnews.com/world-news/british-military-says-cargo-ship-reports-being-under-attack-in-the-red-sea-off-the-coast-of-yemen-12510707",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T18:31:51.005981+05:00",
+      "age_min": 46.9
+    },
+    {
+      "hash": "72c856150b27f6578bfc429e4583b1b1",
+      "title": "Cargo ship comes under attack off Yemen Red Sea coast",
+      "summary": "",
+      "link": "https://www.siasat.com/cargo-ship-comes-under-attack-off-yemens-red-sea-coast-3501850/",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T18:31:51.004511+05:00",
+      "age_min": 46.9
+    },
+    {
+      "hash": "54a08eb68ddc6a737c97124772a03d48",
+      "title": "Attack by Yemen Houthis kills 14 government troops",
+      "summary": "",
+      "link": "https://www.freemalaysiatoday.com/category/world/2026/07/05/attack-by-yemens-houthis-kills-14-government-troops",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T18:31:51.004217+05:00",
+      "age_min": 106.9
+    },
+    {
+      "hash": "bac9cfc7d394c9d8da732c64f2d49895",
+      "title": "Hamas urged Hezbollah not to  disappoint  Palestinians before October 7 attack",
+      "summary": "",
+      "link": "https://www.jpost.com/middle-east/article-901448",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-05T18:31:51.003914+05:00",
+      "age_min": 31.9
     },
     {
       "hash": "f2faa0cb83dbe823a0eaad088d2605e2",
@@ -326,28 +386,16 @@
       "age_min": 27.7
     },
     {
-      "hash": "21703cd9bb085be0ebf1c0351c9c56f1",
-      "title": "Ukraine war drone threat : Aid worker recounts terrifying escape near Kharkiv frontline",
+      "hash": "3228e3594fe50a4b3f859374fcbcf164",
+      "title": "Bodies lie unclaimed and rats run rampant as months on Gaza ceasefire remains unfulfilled - LocalNews8 . com",
       "summary": "",
-      "link": "https://www.smh.com.au/world/europe/how-dodging-drones-and-death-became-daily-life-in-eastern-ukraine-20260703-p60c7a.html",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-05T14:32:33.126139+05:00",
-      "age_min": 92.6
-    },
-    {
-      "hash": "8f0d18d45623f3500e40ff3abe1812f3",
-      "title": "1 killed in attack on Crimea as Putin and Zelenskyy hold separate Trump calls",
-      "summary": "",
-      "link": "https://www.dailygazette.com/leader_herald/ap/national/1-killed-in-attack-on-crimea-as-putin-and-zelenskyy-hold-separate-trump-calls/article_f47240a1-7a6f-5c55-b5c3-f79c9480d698.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
+      "link": "https://localnews8.com/news/national-world/cnn-world/2026/07/05/bodies-lie-unclaimed-and-rats-run-rampant-as-months-on-gazas-ceasefire-remains-unfulfilled/",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-05T14:31:22.091408+05:00",
-      "age_min": 31.4
+      "ts": "2026-07-05T18:31:51.007090+05:00",
+      "age_min": 46.9
     },
     {
       "hash": "f43a5c38d66b71622c9646175ec2216b",
@@ -506,16 +554,16 @@
       "age_min": 14.1
     },
     {
-      "hash": "2d7b4fe196fb5560e68d882829c0cfce",
-      "title": "Cargo ship reports attack off Yemen - Breakingthenews.net",
-      "summary": "Cargo ship reports attack off Yemen&nbsp;&nbsp;Breakingthenews.net",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMnBERHJ1eG15NFNod1JzTlc2alhfVnFoYnpVYWZsUkFlczB3SHliRXZSQWtIQ3JDR2ZQNlVFdEZBbW9TR0p6eHF2ODNrOHhnS0EybTZwOF94ODF4enBlbUdaMVdPTWVuZGZOaDdaU0NDOGQ5TWZ5TXhrcG9DbllnYVFUWjNwMjA?oc=5",
-      "source": "GNews/Breaking",
-      "score": 6,
+      "hash": "0204853998e350a82a6174867d4612f7",
+      "title": "Iran’s new Supreme Leader Mojtaba Khamenei holds ‘positive’ view of China, ambassador says",
+      "summary": "Iran’s new supreme leader shares his late father’s “positive” view of relations with China, Tehran’s ambassador told a security forum in Beijing.\nAbdolreza Rahmani Fazli also suggested that while Tehran would charge “service fees” for vessels using the Strait of Hormuz, China might receive “special” treatment because it was a “friendly” nation.\n“[Supreme Leader Mojtaba Khamenei’s] view, as well as",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3359478/irans-new-supreme-leader-mojtaba-khamenei-holds-positive-view-china-ambassador-says?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-05T14:33:39.655711+05:00",
-      "age_min": 12.7
+      "ts": "2026-07-05T18:33:19.913381+05:00",
+      "age_min": 181.7
     },
     {
       "hash": "2a09611bbc7dc77f1fbe3c61e89b70a3",
