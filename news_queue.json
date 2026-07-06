@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-06T15:20:25.132370+05:00",
+  "updated": "2026-07-06T15:35:57.645676+05:00",
   "items": [
+    {
+      "hash": "26a010f194708f800ec856205cae9d24",
+      "title": "FirstFT: US voters say Trump’s Iran war not worth the cost — FT poll",
+      "summary": "Also in today’s newsletter: China launches a ballistic missile into the Pacific Ocean and England defeat World Cup co-hosts Mexico",
+      "link": "https://www.ft.com/content/d653e868-086c-4b15-a140-23081ac562a2",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T15:35:08.755959+05:00",
+      "age_min": 7.3
+    },
     {
       "hash": "4d658ee4cbdbcc19bc19cc191e891485",
       "title": "Has the Iran war changed the world order? Submit a question to Gideon Rachman",
@@ -74,16 +86,16 @@
       "age_min": 21.5
     },
     {
-      "hash": "d76b8fbc5bf41be0e803c12ebda1c9f1",
-      "title": "Johannesburg Sees Path to Ratings Upgrade From Moody’s Outlook",
-      "summary": "The City of Johannesburg, which is on the verge of financial collapse, said Moody’s Ratings’ positive outlook on the municipality’s credit assessment provides a path to an upgrade that the authorities will seek to achieve through better governance.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/johannesburg-sees-path-to-ratings-upgrade-from-moody-s-outlook",
-      "source": "Bloomberg",
-      "score": 10,
+      "hash": "fc08bcdf70ab7583a2205994e9e25d2e",
+      "title": "Russian missile and drone attack on Ukraine capital kills at least 11",
+      "summary": "",
+      "link": "https://www.hppr.org/npr-news/2026-07-06/russian-missile-and-drone-attack-on-ukraines-capital-kills-at-least-11",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-06T11:34:19.145622+05:00",
-      "age_min": 15.8
+      "ts": "2026-07-06T15:31:43.823373+05:00",
+      "age_min": 46.7
     },
     {
       "hash": "dd505c30fcef980cd9cc9b80c8c433b3",
@@ -314,6 +326,18 @@
       "age_min": 33.2
     },
     {
+      "hash": "abb6f7d8e9d37212eb9bf8ff1a544727",
+      "title": "Second Russian attack on Kyiv in less than a week kills 11 , wrecks apartments",
+      "summary": "",
+      "link": "https://dunyanews.tv/en/World/961074-second-russian-attack-on-kyiv-in-less-than-a-week-kills-11-wrecks-apa",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T15:31:43.827814+05:00",
+      "age_min": 46.7
+    },
+    {
       "hash": "34cd2438553a488c95b887c7ebed0dbc",
       "title": "EU and NATO Members Grapple with War in Iran",
       "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
@@ -530,6 +554,18 @@
       "age_min": 34.3
     },
     {
+      "hash": "d133747214b6d4a38e8067eaaecbeb48",
+      "title": "Pakistan Buys Second Spot LNG Cargo as Supply Crunch Persists",
+      "summary": "",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Buys-Second-Spot-LNG-Cargo-as-Supply-Crunch-Persists.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T15:33:58.855231+05:00",
+      "age_min": 49.0
+    },
+    {
       "hash": "6bb0500364705eee84061a09f4bccab7",
       "title": "Russian missile and drone attacks on Kyiv kill at least nine people",
       "summary": "",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-06T13:48:39.486595+05:00",
       "age_min": 33.7
-    },
-    {
-      "hash": "0aa3372028fa15fad5be5360079f3d1d",
-      "title": "China Conducts Missile Test in Pacific Ocean",
-      "summary": "",
-      "link": "https://punchng.com/china-conducts-missile-test-in-pacific-ocean/",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T13:46:40.938742+05:00",
-      "age_min": 91.7
-    },
-    {
-      "hash": "67bc4e2fa229737f6bb183d77265d438",
-      "title": "China tests long - range missile in South Pacific in move Australia condemns as  destabilising to region  | China",
-      "summary": "",
-      "link": "https://www.theguardian.com/world/2026/jul/06/china-missile-test-south-pacific",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T13:31:14.478771+05:00",
-      "age_min": 91.2
-    },
-    {
-      "hash": "82ec5229d043277ce8e5658031f01a9f",
-      "title": "Fed Chairman Kevin Warsh Just Said 6 Words That Completely Shifted Investor Expectations - The Motley Fool",
-      "summary": "Fed Chairman Kevin Warsh Just Said 6 Words That Completely Shifted Investor Expectations&nbsp;&nbsp;The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaGlIWkNnWkR4Q3d1RkpvaFRPUUFDTkJMZl93Rm9jLWRWa0Q5VERVWXptaHpmeE14QWVaTDlHVWFkenI0TE1iX2FtVXp5OXRaYkQ5cnBxNVk4ZWUyME9jYXJNeDBkV2NLQ2o4U1lEdEpVYmlIMkxFN1RsUTJ6QmVCZ3RXVGJLcFFtVDRIczBrWERQMkxucjByeQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T15:04:09.261963+05:00",
-      "age_min": 20.4
     }
   ]
 }
