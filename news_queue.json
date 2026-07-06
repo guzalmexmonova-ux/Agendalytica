@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T12:34:09.831607+05:00",
+  "updated": "2026-07-06T12:50:09.806793+05:00",
   "items": [
     {
       "hash": "310f5c9e762f3297279b524fbfa8f470",
@@ -62,16 +62,28 @@
       "age_min": 79.0
     },
     {
-      "hash": "6b4ef5d43e5938999193acdc0ba7d3a9",
-      "title": "Copper and Aluminum Advance on Fading Expectations for Rate Hike",
-      "summary": "Copper rose for a third day and aluminum extended a rebound from a four-month low, supported by fading expectations that the Federal Reserve will raise interest rates.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/copper-and-aluminum-advance-on-fading-expectations-for-rate-hike",
-      "source": "Bloomberg",
-      "score": 9,
+      "hash": "eab5bf0842502cc5126c80d06ce169e8",
+      "title": "China test - launches ballistic missile from sub in South Pacific , drawing protests",
+      "summary": "",
+      "link": "https://www.cbsnews.com/news/china-ballistic-missile-test-launch-submarine-south-pacific/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-06T08:48:39.618427+05:00",
-      "age_min": 11.6
+      "ts": "2026-07-06T12:46:58.331215+05:00",
+      "age_min": 32.0
+    },
+    {
+      "hash": "9de91ef209fe54eba38cfadb5851ec1c",
+      "title": "Destabalising : Australia criticises China after ballistic missile test launch in the Pacific",
+      "summary": "",
+      "link": "https://www.sbs.com.au/news/article/china-pacific-missile-test-successful/1pbuoqwyr",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T12:46:58.327390+05:00",
+      "age_min": 77.0
     },
     {
       "hash": "5a385d8f334430f7ec72dfbca4f3c32e",
@@ -230,6 +242,18 @@
       "age_min": 61.4
     },
     {
+      "hash": "76205985ad1a4c1f3ca89038f753c568",
+      "title": "6 killed in Mumbai building collapse as monsoon rains batter India",
+      "summary": "Six people including five children were killed when a building collapsed in Mumbai, officials said on Monday, as monsoon rains pounded India’s financial capital, flooding roads and leading to school closures.\nA dilapidated residential building collapsed on Sunday in the megacity’s east, trapping residents under the debris, Mumbai Mayor Ritu Tawde said in a statement.\nThe deaths came as heavy rainf",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3359573/6-killed-mumbai-building-collapse-monsoon-rains-batter-india?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T12:49:26.945909+05:00",
+      "age_min": 9.2
+    },
+    {
       "hash": "95eb03e554b875a60aa98ce6825b271d",
       "title": "Islamabad Emerges as Likely Venue for US - Iran Technical Talks on Nuclear Deal",
       "summary": "",
@@ -240,6 +264,42 @@
       "status": "new",
       "ts": "2026-07-06T12:33:10.562433+05:00",
       "age_min": 33.2
+    },
+    {
+      "hash": "3b0a446a5cb75890d26afed93a0003ef",
+      "title": "Live Updates: War returns to Iran with Israel, US strikes - Dawn",
+      "summary": "Live Updates: War returns to Iran with Israel, US strikes&nbsp;&nbsp;Dawn",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
+      "source": "GNews/Mideast",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T12:49:54.387072+05:00",
+      "age_min": 56.0
+    },
+    {
+      "hash": "032a80128182bc733b1eb9f925bfcc1c",
+      "title": "Trump’s war means higher global interest rates for years to come - Moneyweb",
+      "summary": "Trump’s war means higher global interest rates for years to come&nbsp;&nbsp;Moneyweb",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX1pEN3VRbjFjTGdwODl6a0EwdzNvN1BnSFYtWTZYWUl5NnBZNk5xc2xWNUtwOWpaUDJIU3VCQ3NVMUh0YnlmQVRUWUk1V0dsRk8yel9Tck5jYl9DVFpRNTlaLThDTV9TVU9TdGZaVk4wUTNob3hLa3BGNDMxSy13WF9qQTdyRG9ENHVhZjd3QUdPZkVpNFRYVERGOWJSZ20yalFXTUpYOV93UjF1ZFBUcm9qV28xOEFCQ18zYXBSdXBCSXVoSEg2TzViQ0M?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T12:49:53.127603+05:00",
+      "age_min": 117.2
+    },
+    {
+      "hash": "10237a6b86eca339611bb6c135cc1e59",
+      "title": "Attack by Yemen Houthis kills 14 government troops",
+      "summary": "",
+      "link": "https://www.surinametimes.com/artikel/attack-by-yemens-houthis-kills-14-government-troops",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T12:48:05.107504+05:00",
+      "age_min": 78.1
     },
     {
       "hash": "84dd910a2a93f41a1f6366a6dbc40ff8",
@@ -458,6 +518,18 @@
       "age_min": 111.3
     },
     {
+      "hash": "c614d635c753731a8acf9e45eacfaa83",
+      "title": "China says successfully conducted test missile launch in Pacific Ocean",
+      "summary": "",
+      "link": "https://www.freemalaysiatoday.com/category/world/2026/07/06/china-says-successfully-conducted-test-missile-launch-in-pacific-ocean",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T12:46:58.328843+05:00",
+      "age_min": 77.0
+    },
+    {
       "hash": "913e390cddd328e5c1fb766c4d351bb7",
       "title": "Govt withdraws emergency natural gas supply curbs as Strait",
       "summary": "",
@@ -528,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-06T11:34:41.470920+05:00",
       "age_min": 13.2
-    },
-    {
-      "hash": "ad61b4c900e4218cfc0526a3fd8fbdcc",
-      "title": "Take Five: Warsh and peace By Reuters - Investing.com Canada",
-      "summary": "Take Five: Warsh and peace By Reuters&nbsp;&nbsp;Investing.com Canada",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYkVYUllSZ2gzTjJtc29QRTFlZWlIa0M1Q0xKQjMwVXRmdXkxVXZWUTBHWnB6dy04ZjRITERNMzc1WmFFdTRGTkVlc1dEVjVHZTVkbEFfRlQwMjB4bHU1QjZJWGt4eFh5cHNSN2NaRkhlUzJ6bGo0aVFIS2JZZTA4d0tB?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T11:18:15.620493+05:00",
-      "age_min": 3.4
-    },
-    {
-      "hash": "1dd9bd5ef9b421dc3ef245f573a50d07",
-      "title": "Kim Jong Un Oversees Missile Tests on North Korea New 5 , 000 - Ton Destroyer Kang Kon",
-      "summary": "",
-      "link": "https://dailypioneer.com/news/kim-oversees-weapons-tests-on-new-destroyer",
-      "source": "GDELT/CYBER",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T12:32:47.436569+05:00",
-      "age_min": 32.8
-    },
-    {
-      "hash": "127b71bffc3d603b91bde789f5ea83c9",
-      "title": "Govt to hold settlement talks with Norwegian firm over missile deal",
-      "summary": "",
-      "link": "https://www.freemalaysiatoday.com/category/nation/2026/07/06/govt-to-hold-settlement-talks-with-norwegian-firm-over-missile-deal",
-      "source": "GDELT/SANCTIONS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T12:32:13.752981+05:00",
-      "age_min": 62.2
     }
   ]
 }
