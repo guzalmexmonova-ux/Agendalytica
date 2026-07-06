@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:05:35.456487+05:00",
+  "updated": "2026-07-06T20:18:44.319436+05:00",
   "items": [
     {
       "hash": "1f38632620b32d87bac263cebd73017b",
@@ -108,18 +108,6 @@
       "status": "new",
       "ts": "2026-07-06T16:47:38.496494+05:00",
       "age_min": 12.9
-    },
-    {
-      "hash": "675dcd19e33365228d0e20c2f88b1792",
-      "title": "Ukraine - Russia war latest : Putin hits Kyiv with ballistic missiles hours after Zelensky said attack  imminent",
-      "summary": "",
-      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-kyiv-attack-putin-zelensky-st-petersburg-b3009466.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T16:16:10.161614+05:00",
-      "age_min": 31.2
     },
     {
       "hash": "cb94988f130fc39c1ff64481f4ab4329",
@@ -278,16 +266,16 @@
       "age_min": 32.2
     },
     {
-      "hash": "974e1ed445f6c7f3fffdca41baaa9e94",
-      "title": "Russian missile and drone attack on Ukraine capital kills at least 11 : NPR",
-      "summary": "",
-      "link": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-kills-at-least-11",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
+      "hash": "ff2e82a80e10fdd467ad1499fc019a30",
+      "title": "Fed chief Kevin Warsh says inflation risks have dipped – but keeps quiet on rate hikes - AOL.com",
+      "summary": "Fed chief Kevin Warsh says inflation risks have dipped – but keeps quiet on rate hikes&nbsp;&nbsp;AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vd3o5YUxGWWNtSm9sbk0tbk5PVkdtdkpJSnZwNTBTeWEyNzY0ZFZCTUE5VDh4Y3JfUXRyajNkTVdzSXM4bWRId0c1Y1UwSEkxQjBPSHNJOWZORmZTa0JUTTFwdDM5NUdXVmVjRlpGU3NCelYyMWFXZzNR?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-06T16:16:10.162811+05:00",
-      "age_min": 31.2
+      "ts": "2026-07-06T20:18:24.952216+05:00",
+      "age_min": 50.4
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -408,6 +396,54 @@
       "status": "new",
       "ts": "2026-07-06T17:03:54.668852+05:00",
       "age_min": 9.4
+    },
+    {
+      "hash": "788024f1576f2b60b8dabecc7389dce9",
+      "title": "China Tests Ballistic Missile in Pacific Ocean Sparking Regional Criticism - asatunews.co.id",
+      "summary": "China Tests Ballistic Missile in Pacific Ocean Sparking Regional Criticism&nbsp;&nbsp;asatunews.co.id",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9udDNSclVWNFpYRlRiUzVRM2FHSkdWYlBJeE5ad3VLdWN6OTBOTzJwQXFRWW1OR3duUjFTcW9aR3I3Z0VVUTJaamF5TjF6TlFWRDVIS0tQTWR0U1NaX2R0OWxlOV9FMjlvd0puYmFvb3I1OVFDOVVn?oc=5",
+      "source": "GNews/USA-China",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T20:18:24.570195+05:00",
+      "age_min": 95.7
+    },
+    {
+      "hash": "da7865de6b6e4ece80f4bdf9e60413f1",
+      "title": "EU should think twice before weaponising its market against China",
+      "summary": "For much of the post-Cold-War era, the European Union understood economic interdependence as a source of mutual prosperity. Open markets, free trade and multilateral rules were regarded not merely as economic principles but as the foundations of European normative influence. That assumption is rapidly giving way to a different logic.\nIn an era of intensifying geopolitical rivalry, Brussels increas",
+      "link": "https://www.scmp.com/opinion/world-opinion/article/3359021/eu-should-think-twice-weaponising-its-market-against-china?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T20:17:48.811098+05:00",
+      "age_min": 167.7
+    },
+    {
+      "hash": "7bb67928b0967a0558c79ecaa2f89bd2",
+      "title": "UNICEF reports over 300 child casualties over 6 months in Sudan war",
+      "summary": "",
+      "link": "https://www.dailysabah.com/world/africa/unicef-reports-over-300-child-casualties-over-6-months-in-sudan-war",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T20:17:10.351669+05:00",
+      "age_min": 107.2
+    },
+    {
+      "hash": "cdb9331ce0a01c0769d661964519785c",
+      "title": "More than 300 children killed or injured in Sudan war in 6 months , UNICEF says",
+      "summary": "",
+      "link": "https://www.thehindu.com/news/international/more-than-300-children-killed-or-injured-in-sudan-war-in-6-months-unicef-says/article71189410.ece",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T20:17:10.350944+05:00",
+      "age_min": 107.2
     },
     {
       "hash": "8bed8c43046e42b24168d6cd8e1a2c4f",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-06T18:16:13.413760+05:00",
       "age_min": 106.2
-    },
-    {
-      "hash": "bff9170959a53e8edb2e11f221b14824",
-      "title": "NIA names LeT founder Hafiz Saeed in supplementary chargesheet on Pahalgam terror attack",
-      "summary": "",
-      "link": "https://theshillongtimes.com/2026/07/06/nia-names-let-founder-hafiz-saeed-in-supplementary-chargesheet-on-pahalgam-terror-attack/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T18:16:13.413217+05:00",
-      "age_min": 61.2
-    },
-    {
-      "hash": "48eaa923f092db2171fd7214917a8b70",
-      "title": "NIA Names Hafiz Saeed In Pahalgam Terror Attack Case",
-      "summary": "",
-      "link": "https://www.deccanchronicle.com/nation/crime/nia-names-hafiz-saeed-in-pahalgam-terror-attack-case-1968776",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T18:16:13.409032+05:00",
-      "age_min": 106.2
-    },
-    {
-      "hash": "877011b5840001d4dbf3ca65697d26b9",
-      "title": "Trump’s war means higher global interest rates for years to come - MSN",
-      "summary": "Trump’s war means higher global interest rates for years to come&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXNlQ3pzZ21SaFpCYWJxcVZfc1AzT0dWenNjTGVnZlpNN00yYmRFRmRBMWNPUDRNSEk1WkRIOWVFbk05bTVMR2ZpeTNVekhkQmFDMEhKMW5vTU5yUVVBNS00d05qVmstekR5bGMyN0w4ajdpUDNlNHNjSmlvNUpLLVFYck9IWFhfUlZjWlJ6RzZFMTgyTXpsbVhWRTRwdERZY0dBeEMxVVFxQXdUbFBGcVJXcjJEaC1lVy03WEJhRGRfX2ZjaGpZcDRSVXBaVGVHeWR5YnRZUktLdw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T18:04:44.730399+05:00",
-      "age_min": 76.0
     }
   ]
 }
