@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T03:43:49.286126+05:00",
+  "updated": "2026-07-07T03:50:02.660257+05:00",
   "items": [
     {
       "hash": "9cf7539da73e3202286868a0e4737038",
@@ -62,16 +62,28 @@
       "age_min": 61.6
     },
     {
-      "hash": "5096f04cf110b0afb989ec049dfbca54",
-      "title": "Monitoramento nuclear do Irã é viável , mas incerto",
+      "hash": "3069adb749c838d6cc715d3660df4485",
+      "title": "Gaza war forcing a political shift in US",
       "summary": "",
-      "link": "https://www.dw.com/pt-br/monitoramento-nuclear-do-ir%C3%A3-%C3%A9-vi%C3%A1vel-mas-incerto/a-77852929",
-      "source": "GDELT/ENERGY",
-      "score": 9,
+      "link": "https://www.arabnews.com/node/2649874",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-06T23:47:32.075125+05:00",
-      "age_min": 32.5
+      "ts": "2026-07-07T03:47:44.403399+05:00",
+      "age_min": 92.7
+    },
+    {
+      "hash": "edae2428f95b4d769e66eea69c569236",
+      "title": "Deadly Russian missile and drone attack on Ukrainian capital kills at least 22",
+      "summary": "",
+      "link": "https://www.thisisoxfordshire.co.uk/news/national/26256134.deadly-russian-missile-drone-attack-ukrainian-capital-kills-least-22/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T03:47:19.735769+05:00",
+      "age_min": 32.3
     },
     {
       "hash": "583e55a179da3d8b753de56d6d256cce",
@@ -362,6 +374,42 @@
       "age_min": 39.3
     },
     {
+      "hash": "468d24c928038660c6e02f3ca4052db3",
+      "title": "Israeli drone strike kills four people in southern Lebanon , Lebanese state media reports",
+      "summary": "",
+      "link": "https://www.thehindu.com/news/international/israeli-drone-strike-kills-four-people-in-southern-lebanon-lebanese-state-media-reports/article71190848.ece",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T03:47:44.399174+05:00",
+      "age_min": 47.7
+    },
+    {
+      "hash": "297877bc37544c26fbe6a0534cb00743",
+      "title": "Second Russian attack on Kyiv in less than a week kills dozens on eve of NATO summit",
+      "summary": "",
+      "link": "https://www.abc.net.au/news/2026-07-06/russian-attack-on-kyiv-ukraine-kills-dozens-eve-of-nato-summit/106886188",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T03:47:19.737827+05:00",
+      "age_min": 62.3
+    },
+    {
+      "hash": "52e6d34f2ceb4271fbe4450048636209",
+      "title": "Zelensky slams world  absurd  lack of interceptor missiles after deadly Russian attack on Kyiv",
+      "summary": "",
+      "link": "https://nypost.com/2026/07/06/world-news/zelensky-slams-worlds-absurd-lack-of-interceptor-missiles-after-deadly-russian-attack-on-kyiv/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T03:47:19.731386+05:00",
+      "age_min": 62.3
+    },
+    {
       "hash": "9ccf7e84497bdd17784b1ded40805440",
       "title": "NIA chargesheets Lashkar founder Hafiz Saeed in Pahalgam attack",
       "summary": "",
@@ -518,18 +566,6 @@
       "age_min": 66.7
     },
     {
-      "hash": "d6d1bc180fc4bd7766cf81f29f01e63b",
-      "title": "All six Kalibr missiles were shot down last night, and 31 out of 33 cruise missiles were intercepted, meaning whenever the necessary capabilities are available, our warriors deliver truly high interception rates. That is the only explanation for the problem with ballistic missiles – insufficient number of interceptors. This is especially true for Patriots. We have proven to all our partners both the need, and more importantly, the possibility of providing greater protection of lives. It is simply nonsensical that, in today’s world, production has still not been scaled up to the level that is actually needed to protect people from ballistic terror. We have long made the case that we are capable of producing such defensive weapons ourselves. If Ukraine were granted U.S. licenses to produce Patriots, our own production would be sufficient both to protect Ukraine and to help partners in need. We are in contact with everyone around the world who can provide air defense missiles now. This is our top priority.",
-      "summary": "All six Kalibr missiles were shot down last night, and 31 out of 33 cruise missiles were intercepted, meaning whenever the necessary capabilities are available, our warriors deliver truly high interception rates. That is the only explanation for the problem with ballistic missiles – insufficient number of interceptors. This is especially true for Patriots.\n\nWe have proven to all our partners both ",
-      "link": "https://nitter.net/ZelenskyyUa/status/2074200350240969021#m",
-      "source": "Zelensky/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T23:49:00.669613+05:00",
-      "age_min": 14.4
-    },
-    {
       "hash": "829ec644f6f42e1b22c104881da00669",
       "title": "US Fed Meeting March 2026: When & Where To Watch Jerome Powell Speech LIVE Today; FOMC Decision Time in India - Goodreturns",
       "summary": "US Fed Meeting March 2026: When & Where To Watch Jerome Powell Speech LIVE Today; FOMC Decision Time in India&nbsp;&nbsp;Goodreturns",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-07T02:35:07.903865+05:00",
       "age_min": 62.3
-    },
-    {
-      "hash": "03809e63f59435a32060c65c1f052ee1",
-      "title": "US Dollar Index Trims Gains As Fed Rate Hike Bets Fade - Bitcoin World",
-      "summary": "US Dollar Index Trims Gains As Fed Rate Hike Bets Fade&nbsp;&nbsp;Bitcoin World",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeTdQTTJqLXhOdV9iZnFWM3lVSHVNd1pLSTVaNTF6cUR1azNxMVZOWmhlbzlMbEVqbzRyZWxhMkFhQWRzeTMycHIwQ0JvdUhBdXFSWXhaSDRVcUE2YlJFbmI4Q2dtZWtYbHR4bEJhWk5KTVlQalEwLTBfRk0tMDdYd0FQcnVIZw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T02:18:22.520574+05:00",
-      "age_min": 113.2
-    },
-    {
-      "hash": "7a6630f5e63e1307db31a5490a6c8316",
-      "title": "United States Dollar Index trims gains as fading Fed rate hike bets cap upside - TMGM",
-      "summary": "United States Dollar Index trims gains as fading Fed rate hike bets cap upside&nbsp;&nbsp;TMGM",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMDlUbS0taWhGdXpyWEcwdzZYWjNWbjdDNVljMWl0a0Fxd011N3MzTy1SY01UQ0hHMXM3d1dMdDJadTMyR3hmQURHd2QzYVljMktYZmVFbmhJQXl6UjBwZXJQTHpYaDZHN1NsSU95Q2tybzlnUWI2S19KV3BLZUlrOUhUbTBXRUs4NFJZMUExdnl0VlJMUUxWYURvaG9UemhJOU8yQVd3bzB5UnI5Y2U2YUotaEtqVGUxcVJYamc2bUJCNi1JU2J0T0JtbGRkMXM0T3ZjTnZ0My1qeFpR?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T01:48:11.907107+05:00",
-      "age_min": 116.9
-    },
-    {
-      "hash": "23085c50e5a37171d782adde015eec55",
-      "title": "Dow Jones, Nasdaq, US Stock Market Today LIVE Updates: Check Latest Move in Futures, S&P and Nasdaq Surges as AI Stocks Rebound, Oil Fall & Bitcoin Crash After Fed Rate Hike | Why are Stocks Up Today - The Sunday Guardian",
-      "summary": "Dow Jones, Nasdaq, US Stock Market Today LIVE Updates: Check Latest Move in Futures, S&amp;P and Nasdaq Surges as AI Stocks Rebound, Oil Fall & Bitcoin Crash After Fed Rate Hike | Why are Stocks Up Today&nbsp;&nbsp;The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQZUtuemREdWNTQ0NweXhJdWk5TW50QkJJUVEwZVdiWGlWV2oxbVJEdGQtNTNla19NdTV0R1ZVck00cVItNEhheTRUaXE5SGxJSkZXZDF0c3BRaTZzc1B5WFI5dTNWeGZwTFR0enJWbkpVcXZoX0JodkZjUnlHbHJkbjZCQ05ZZkFzcHNVMnBRSmxzNzlmTGxRRHdQWExROEluUk1xLVY3RDVXSDV2YkZoRW1zSzUyWFR6VmxjSWJ3bmlKcEtuek1lNjJaRVlXQjBEMHF0SHh1SUg0Y25XMDR4dFRxOVZTbHNHeEpTNi1PX1N1RGh3UzhtMDFXY1F4YjVfNWNyWXd4SkRzSXlBYkN3Q0FwcWlJeUZ1bGM3Z3ZhYWREeEhkM1hzQXpFV0d5SWtiT2hjaWN0aFQ5Ml8xeWIycEtSeGVjalZPUmxuSHNvRklWSTN5bzg2cdIB3gJBVV95cUxOa3FUaVN6U0dfLURBZ1VhSGZEMi1RYzBoX2g4OEowQ3NEc2JoNmlVUDlMdWUxYWVsa0VrXzJ3eTJjZ1hfYkNLSm80aC1iWUZiYVY3RFZYbVVjdDA4dmFuRk5ISF9vd3VTWFlBV2RPcUhuU0V5YnUwcHQxZG10cWd0TThqaERrTE82YzgtaWhiQ2ZubHVlZFMwWm1aN1k3eUQxMHhaTUVhdmkxaU1remxHZzBHdXBLSGJ5VXlVQVlFYld5a0puaWVFNVB5b2dDWHhhaERIa2xSV1ZOTkZOazUtZ2s1X2Z4U3l5WHptQm94aE9OWFNiVE9vOTktTlRBVTh4UllYbWEzSmgzeWcyT3loQlJOQW16WjEzTGVmRHVEd0VDdWVHTXdmWWptODlKeXBDSUhLR2JJV1d1T3Y0RGZfUEMzWVV0V2tMam90dExoZ1FXR25tMjg4YU5xOTlXZw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T01:19:09.021605+05:00",
-      "age_min": 7.5
     }
   ]
 }
