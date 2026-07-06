@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-06T21:34:45.883778+05:00",
+  "updated": "2026-07-06T21:48:29.793728+05:00",
   "items": [
+    {
+      "hash": "ddfcdccf606d83cf3fba128b2e55e92d",
+      "title": "Zelenskyy says ‘battle in the sky’ will decide outcome of war with Russia",
+      "summary": "Ukrainian leader says Donald Trump has changed his mind about the conflict",
+      "link": "https://www.ft.com/content/6ca8de40-15e4-470e-a258-6dd2d8d9d83e",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T21:47:45.014064+05:00",
+      "age_min": 10.0
+    },
     {
       "hash": "f3ae031bb90521087104f80c78c812b0",
       "title": "Judge rules insurers do not need to pay out over Nord Stream pipeline blasts",
@@ -146,6 +158,18 @@
       "age_min": 75.8
     },
     {
+      "hash": "194ac05d5fe0b3b1670e9caf1a34cad5",
+      "title": "Top Fed official urges rethink of bank’s reliance on ‘forward guidance’",
+      "summary": "Chris Waller sides with Kevin Warsh in call for revamping how rate-setters communicate with investors",
+      "link": "https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T21:47:45.014673+05:00",
+      "age_min": 15.3
+    },
+    {
       "hash": "e4a38585906b30aa2fce4a77adf0b76c",
       "title": "Iran War News Live Updates : Top Revolutionary Guards Commanders Make Rare Public Appearance At Khamenei Funeral",
       "summary": "",
@@ -230,40 +254,16 @@
       "age_min": 46.9
     },
     {
-      "hash": "fac8487764d09cec34dc7121ed67b008",
-      "title": "Russia missile and drone attack on Ukraine kills at least 18",
+      "hash": "1ad59f6559e9c8b37d30daa7e8554b09",
+      "title": "Russia claims united kingdom is reviving Crimean war in extraordinary propaganda escalation - London Business News",
       "summary": "",
-      "link": "https://economictimes.indiatimes.com/news/defence/russias-missile-and-drone-attack-on-ukraine-kills-at-least-18/articleshow/132215814.cms",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
+      "link": "https://londonlovesbusiness.com/russia-claims-uk-is-reviving-crimean-war-in-extraordinary-propaganda-escalation/",
+      "source": "GDELT/CYBER",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-06T17:47:18.369756+05:00",
-      "age_min": 32.3
-    },
-    {
-      "hash": "ac34cab75eb1826f5268e2439e0e191d",
-      "title": "China test - launches a ballistic missile in the South Pacific",
-      "summary": "",
-      "link": "https://www.wlky.com/article/china-test-launches-ballistic-missile/71830655",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T17:46:41.068574+05:00",
-      "age_min": 31.7
-    },
-    {
-      "hash": "bd245b9db4264fc9460137371e8ade9f",
-      "title": "Russian missile and drone attack on Kyiv kills 10 , injures 46",
-      "summary": "",
-      "link": "https://dailypioneer.com/news/russian-missile-and-drone-attack-on-kyiv-kills-10-injures-46",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T17:46:41.067116+05:00",
-      "age_min": 106.7
+      "ts": "2026-07-06T21:47:11.048278+05:00",
+      "age_min": 47.2
     },
     {
       "hash": "ff2e82a80e10fdd467ad1499fc019a30",
@@ -326,30 +326,6 @@
       "age_min": 32.4
     },
     {
-      "hash": "c10508f6f424b2e1287d087e9d1dd978",
-      "title": "South African rand inches lower as easing Fed rate hike bets weigh on dollar",
-      "summary": "",
-      "link": "https://www.cnbcafrica.com/2026/south-african-rand-inches-lower-as-easing-fed-rate-hike-bets-weigh-on-dollar",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T17:48:23.525109+05:00",
-      "age_min": 33.4
-    },
-    {
-      "hash": "703733b63e4ebdf041ddd1d903480a11",
-      "title": "EZB : Lagarde vor Abschied ? Spekulationen und sinkende Zinserwartungen bewegen die Märkte",
-      "summary": "",
-      "link": "https://www.finanznachrichten.de/nachrichten-2026-07/68951508-ezb-lagarde-vor-abschied-spekulationen-und-sinkende-zinserwartungen-bewegen-die-maerkte-349.htm",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T17:48:23.523539+05:00",
-      "age_min": 33.4
-    },
-    {
       "hash": "8d59940bf7a1725285c63bf508b26de5",
       "title": "Lebanon latest: Teacher killed by Israeli airstrike",
       "summary": "Al Jazeera’s Heidi Pett brings you the latest from Lebanon, where Israeli strikes continue despite a ‘ceasefire’.",
@@ -384,6 +360,42 @@
       "status": "new",
       "ts": "2026-07-06T18:04:20.438744+05:00",
       "age_min": 147.7
+    },
+    {
+      "hash": "953cd3a35d4d7b0cab79834fd17fdda5",
+      "title": "⚡️ On July 6, Ambassador of Sweden to Moscow was summoned to @mfa_russia & was issued a strong protest over another attack by two UAVs on @RusEmbSwe, which took place overnight on July 2. Sweden was urged to prevent such incidents from recurring. https://t.me/MFARussia/30845",
+      "summary": "⚡️ On July 6, Ambassador of Sweden to Moscow was summoned to @mfa_russia &amp; was issued a strong protest over another attack by two UAVs on @RusEmbSwe, which took place overnight on July 2.\n\nSweden was urged to prevent such incidents from recurring.\n\nt.me/MFARussia/30845\n\nVideo",
+      "link": "https://nitter.net/mfa_russia/status/2074124311980376407#m",
+      "source": "RussiaMFA/X",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T21:48:21.891354+05:00",
+      "age_min": 195.9
+    },
+    {
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T21:47:47.425081+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T21:47:47.423951+05:00",
+      "age_min": 0
     },
     {
       "hash": "ae4fe8a91143c15c32e806838fc67ba3",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-07-06T19:02:18.461103+05:00",
       "age_min": 32.3
-    },
-    {
-      "hash": "f2fd48f9e802986917f06ce04977a9e8",
-      "title": "RT by @UN: Days after the last attack, another strike hit Kyiv, causing loss and destruction. \"Attacks that tear apart homes and take innocent lives must not be accepted\", says the Humanitarian Coordinator for Ukraine, @matzschmale. Read more: https://bit.ly/3SIEeVD",
-      "summary": "Days after the last attack, another strike hit Kyiv, causing loss and destruction.\n\n\"Attacks that tear apart homes and take innocent lives must not be accepted\", says the Humanitarian Coordinator for Ukraine, @matzschmale. \n\nRead more: bit.ly/3SIEeVD",
-      "link": "https://nitter.net/OCHA_Ukraine/status/2074084511046865359#m",
-      "source": "UN/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T18:55:33.984874+05:00",
-      "age_min": 181.3
     }
   ]
 }
