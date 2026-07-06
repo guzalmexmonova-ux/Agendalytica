@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T22:32:03.333215+05:00",
+  "updated": "2026-07-06T22:48:19.108728+05:00",
   "items": [
     {
       "hash": "1a6943b68af88674dfb513a989b181c9",
@@ -98,16 +98,16 @@
       "age_min": 29.4
     },
     {
-      "hash": "fd5eaa1f26dba63a029b44894d63a2b0",
-      "title": "Saudis Slash Main Oil Price to Rare Discount as Market Dives",
-      "summary": "Saudi Arabia made big reductions to its main crude oil prices for buyers in Asia, selling barrels at a discount for the first time since it embarked on a price war in 2020, as a surge of global supply heightens competition to find buyers.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/saudis-make-biggest-oil-price-cut-in-decades-as-market-weakens",
-      "source": "Bloomberg",
-      "score": 10,
+      "hash": "d34bb6ca438ca6cefdc7bf48e287f860",
+      "title": "China lanza desde un submarino nuclear un misil estratégico hacia aguas del Pacífico",
+      "summary": "",
+      "link": "https://www.diariodejerez.es/espana/china-lanza-submarino-nuclear-misil_0_2007328829.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-06T18:33:42.291972+05:00",
-      "age_min": 71.1
+      "ts": "2026-07-06T22:32:00.287094+05:00",
+      "age_min": 62.0
     },
     {
       "hash": "8e8f3eeff9623c5daa6c46bc59f57010",
@@ -156,6 +156,18 @@
       "status": "new",
       "ts": "2026-07-06T19:45:50.710691+05:00",
       "age_min": 75.8
+    },
+    {
+      "hash": "f8bbffc0b3a6987495452b71b49b26b7",
+      "title": "JIJ attorney : Iran targeted civilians as war tactic , report seeks accountability",
+      "summary": "",
+      "link": "http://www.jpost.com/middle-east/article-901643",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T22:32:00.290977+05:00",
+      "age_min": 62.0
     },
     {
       "hash": "194ac05d5fe0b3b1670e9caf1a34cad5",
@@ -312,6 +324,18 @@
       "status": "new",
       "ts": "2026-07-06T21:04:00.187089+05:00",
       "age_min": 9.9
+    },
+    {
+      "hash": "b9793aa86d8a4fc446ef7b5396eb6e73",
+      "title": "UK sanctions Russian scientists and research labs linked to Salisbury attack",
+      "summary": "",
+      "link": "https://www.breakingnews.ie/world/uk-sanctions-russian-scientists-and-research-labs-linked-to-salisbury-attack-1923066.html",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T22:33:01.207112+05:00",
+      "age_min": 63.0
     },
     {
       "hash": "953cd3a35d4d7b0cab79834fd17fdda5",
@@ -554,6 +578,18 @@
       "age_min": 32.3
     },
     {
+      "hash": "f1797ebcc06f4702be2c5abd2fbcc58c",
+      "title": "Australian Dollar Steadies As Softer Inflation Data Fuels Rate Cut Bets - Bitcoin World",
+      "summary": "Australian Dollar Steadies As Softer Inflation Data Fuels Rate Cut Bets&nbsp;&nbsp;Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YeTdGb1AwNzRXVXczUDlxZ1R6V1RXRklBYVg1Y3lSSjlaZ1Z6b09xQjc0NU1jYkVPWkt5cFNxMVczaHNoOHViRVEyREN0Y3FrcEJlSXNnblgxci1zWldkOEFKaTl5cTFZMVd6dldTdmpOdjVBN0NLcQ?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T22:34:57.560661+05:00",
+      "age_min": 39.8
+    },
+    {
       "hash": "2061008f0cead1d68d4349797062ac6d",
       "title": "Could the ECB be done with rate hikes? - FXStreet",
       "summary": "Could the ECB be done with rate hikes?&nbsp;&nbsp;FXStreet",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-06T22:18:12.101102+05:00",
       "age_min": 4.2
-    },
-    {
-      "hash": "9f50b6c5ec9e37d402ee85ece5050f27",
-      "title": "Russia missile and drone attacks on Ukraine kill at least 22",
-      "summary": "",
-      "link": "http://www.rockymounttelegram.com/news/world/russias-missile-and-drone-attacks-on-ukraine-kill-at-least-22/article_bdc69a95-1fdf-5484-9693-8d06051eff53.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T22:29:18.393066+05:00",
-      "age_min": 59.3
-    },
-    {
-      "hash": "bf6aa08e2f04915914af2849be323cc4",
-      "title": "Trump’s Intervention in Balogun’s World Cup Suspension Adds to Conflict With Europe",
-      "summary": "The decision to reverse a one-game ban landed badly in Europe, at a moment of already-heightened geopolitical tension with the United States.",
-      "link": "https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html",
-      "source": "NYT World",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T22:31:10.060619+05:00",
-      "age_min": 59.6
-    },
-    {
-      "hash": "89df7227013fd53263f7783db040c288",
-      "title": "China Missile Launch Triggers Backlash From Pacific Neighbors - mb.ntd.com",
-      "summary": "China Missile Launch Triggers Backlash From Pacific Neighbors&nbsp;&nbsp;mb.ntd.com",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOUJRVUttbTl2TUJvVVk3MHdlb3pfUUhZYnRUQ0EtMkllSXdDZ1dqaDM2TldhLUVLU2N0Y0JBZEZwb3RvM3hOXzVXUnR2aTQ4Z3RWRFBLNS01Wk5LTnpzV2NZUGQtRVp4M0s0WEdvOHJqOTkwM1JNMjRmdjBzSFctSnB4Y2pCTElkOWdheWxaUmZ4OFFzbnhHdA?oc=5",
-      "source": "GNews/USA-China",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T22:31:43.099158+05:00",
-      "age_min": 11.0
     }
   ]
 }
