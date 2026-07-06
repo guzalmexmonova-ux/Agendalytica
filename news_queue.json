@@ -1,6 +1,30 @@
 {
-  "updated": "2026-07-06T17:50:33.502029+05:00",
+  "updated": "2026-07-06T18:05:05.496559+05:00",
   "items": [
+    {
+      "hash": "1a6943b68af88674dfb513a989b181c9",
+      "title": "Lukashenko says Belarus will not join Putin’s war in Ukraine",
+      "summary": "Kyiv feared that Moscow was pressuring its closest ally to support war effort",
+      "link": "https://www.ft.com/content/003c581a-0d93-4fa2-a6b1-76bff5a3d9c0",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T18:04:20.015948+05:00",
+      "age_min": 33.0
+    },
+    {
+      "hash": "09f33207bf711d1703ad735fc0ac11ef",
+      "title": "China test - launches a ballistic missile in a South Pacific nuclear - free zone – KTBB News , Weather , Talk",
+      "summary": "",
+      "link": "https://ktbb.com/post/?p=1521349",
+      "source": "GDELT/CONFLICTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T18:01:53.645577+05:00",
+      "age_min": 46.9
+    },
     {
       "hash": "3c7df21678794d222cd57183f5f8ac82",
       "title": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
@@ -120,6 +144,18 @@
       "status": "new",
       "ts": "2026-07-06T16:18:47.005835+05:00",
       "age_min": 20.0
+    },
+    {
+      "hash": "fdfc2778ce85d3f323fbec54d6af6269",
+      "title": "China conducts rare submarine - launched ballistic missile test , angering Pacific neighbors",
+      "summary": "",
+      "link": "https://www.egyptindependent.com/china-conducts-rare-submarine-launched-ballistic-missile-test-angering-pacific-neighbors/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-06T18:01:53.646190+05:00",
+      "age_min": 46.9
     },
     {
       "hash": "fac8487764d09cec34dc7121ed67b008",
@@ -254,42 +290,6 @@
       "age_min": 46.1
     },
     {
-      "hash": "7434cfd9877bade58cf4577d0869bd31",
-      "title": "Anissa Helou new cookbook highlights Lebanese villages scarred by war",
-      "summary": "",
-      "link": "https://www.wsbradio.com/news/world/anissa-helous-new/WBQL4PK24Q623D6BIHRPNJQRZI/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T14:02:03.276280+05:00",
-      "age_min": 62.1
-    },
-    {
-      "hash": "cbccfa3fc5ad618447f56eef45019f30",
-      "title": "Russian missile and drone attack on Ukraine capital kills at least 10",
-      "summary": "",
-      "link": "https://www.asiaone.com:443/world/russian-missile-and-drone-attack-ukraines-capital-kills-least-10",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T14:01:49.193924+05:00",
-      "age_min": 61.8
-    },
-    {
-      "hash": "72d787e6643267cd8b0f4a0c9453f281",
-      "title": "Russia launches massive missile attack killing at least 11 , injuring 46",
-      "summary": "",
-      "link": "https://www.albawaba.net/news/russia-launches-massive-missile-attack-1632214",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-06T14:01:49.192263+05:00",
-      "age_min": 61.8
-    },
-    {
       "hash": "ec7b4439f003b8fa5f860b4be414c6a4",
       "title": "OPEC+ Raises Output for Fifth Month as Post-War Hormuz Recovery Gathers Pace - The Eastern Herald",
       "summary": "OPEC+ Raises Output for Fifth Month as Post-War Hormuz Recovery Gathers Pace&nbsp;&nbsp;The Eastern Herald",
@@ -410,6 +410,18 @@
       "age_min": 19.7
     },
     {
+      "hash": "69dd3e189194b4c36f4ea916de27bdeb",
+      "title": "Deadly Russian Strikes Rock Kyiv on Eve of NATO Summit",
+      "summary": "Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 12 people were killed, officials said.",
+      "link": "https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html",
+      "source": "NYT World",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-06T18:04:20.438744+05:00",
+      "age_min": 147.7
+    },
+    {
       "hash": "3ed055283ed19adccc9557a6ff7b0732",
       "title": "Симоньян простила осужденных за покушение на нее",
       "summary": "",
@@ -422,16 +434,16 @@
       "age_min": 9.4
     },
     {
-      "hash": "5e976c543ea9bbb97192d29b71fbd9f2",
-      "title": "China dam collapse: hundreds evacuated after typhoon rains breach Guangxi reservoir",
-      "summary": "Floodwater breached a reservoir in southern China and threatened others, as heavy rain pounded the region, leading to the evacuation of hundreds of people in the area.\nChinese authorities urged caution and called for rescue and evacuation, with bad weather predicted to continue under the influence of Typhoon Maysak.\nOn Monday, breaches and flooding were spotted at multiple reservoirs in the city o",
-      "link": "https://www.scmp.com/news/china/politics/article/3359586/china-dam-collapse-hundreds-evacuated-after-typhoon-rains-breach-guangxi-reservoir?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 9,
+      "hash": "877011b5840001d4dbf3ca65697d26b9",
+      "title": "Trump’s war means higher global interest rates for years to come - MSN",
+      "summary": "Trump’s war means higher global interest rates for years to come&nbsp;&nbsp;MSN",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNdXNlQ3pzZ21SaFpCYWJxcVZfc1AzT0dWenNjTGVnZlpNN00yYmRFRmRBMWNPUDRNSEk1WkRIOWVFbk05bTVMR2ZpeTNVekhkQmFDMEhKMW5vTU5yUVVBNS00d05qVmstekR5bGMyN0w4ajdpUDNlNHNjSmlvNUpLLVFYck9IWFhfUlZjWlJ6RzZFMTgyTXpsbVhWRTRwdERZY0dBeEMxVVFxQXdUbFBGcVJXcjJEaC1lVy03WEJhRGRfX2ZjaGpZcDRSVXBaVGVHeWR5YnRZUktLdw?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-06T14:03:43.178835+05:00",
-      "age_min": 5.3
+      "ts": "2026-07-06T18:04:44.730399+05:00",
+      "age_min": 76.0
     },
     {
       "hash": "f9a2d364e68775d8058b8d68e0173a04",
@@ -554,16 +566,16 @@
       "age_min": 0
     },
     {
-      "hash": "fe31c57ba34c1253716e07cf626239bc",
-      "title": "A new European security architecture is needed to end war in Ukraine",
-      "summary": "",
-      "link": "https://asia.nikkei.com/opinion/a-new-european-security-architecture-is-needed-to-end-war-in-ukraine",
-      "source": "Nikkei Asia",
-      "score": 8,
+      "hash": "cf9310739686b41dc3ce3470a428da95",
+      "title": "Gold steady, silver slips as Fed rate hike expectations ease - MSN",
+      "summary": "Gold steady, silver slips as Fed rate hike expectations ease&nbsp;&nbsp;MSN",
+      "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQRnNKZUtKV04xcGpkejlGa29mNW5lSkJvV1BXX2NybVRSWU1LLTlOSzVjUEx2cUdkbldQMjlqTVA3QTZGamFpSl9TRENfaHowcUVTUmRwdnpTbG1GdHlnbHZkVnNMWkFOWWRPZG5aQXZuVGZxZ3d1cUN1YTYyVnB4REJITGlBdFVEYkpTVVpyeTRoM3JmUVBoRHhOSENNLUU0R3Q3Sl8tYU5xMmxSV1JRYXdnNVcwY2dBVzl6NHlBd21Pb3dKd0pyNlJwbmp5Y09qV3hWRFhoT0RVSW5YUHVoLXppNDJfeTUzdkE3MDRUNUxZMEpYdF9kd2hNMzNTZzA0Y2k3T0VtQXVaVGtjUFdCSzQ3SXZGdXVHRGRPNzd0WEJaQzdpMnRac2d4MllEM0V2b3pDanFzOUE3dzFpdko1bWFQMENtOHliTW5R?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-06T14:03:42.563295+05:00",
-      "age_min": 0
+      "ts": "2026-07-06T18:04:44.734618+05:00",
+      "age_min": 117.1
     },
     {
       "hash": "06ef45432f8df13bf6f0d9418d7c1294",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-07-06T15:20:00.311394+05:00",
       "age_min": 15.2
-    },
-    {
-      "hash": "fc04a6fbc6a0cad3c8a966187996f27b",
-      "title": "Gold steady, silver slips as Fed rate hike expectations ease - MSN",
-      "summary": "Gold steady, silver slips as Fed rate hike expectations ease&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFRVSklhSmtGdnlxQWZ2OUZ5OVdRdC1zc0VRT2pMeXJFR1VWdEMxVmJwMEJCelAtQ0RtNFNwMEIzWUI3d2c0Zlo3U2IwaEtydmo3eFZNLUh1VFVpbTVRaVJBTjFXWjAtQmxmZzJ1YTFscGhJTDZtQXNTVXN6SzJaY0JTNDVzTjl3SkxkTk14XzgwQkZJWTdPSmJDRVlhNWlrbmt3NVdaa1BOa2VEZTVtbHdyZUY?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-06T14:19:58.496303+05:00",
-      "age_min": 93.9
     }
   ]
 }
