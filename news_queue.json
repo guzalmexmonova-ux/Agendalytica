@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T09:21:25.205833+05:00",
+  "updated": "2026-07-07T09:34:06.459583+05:00",
   "items": [
     {
       "hash": "ab2f5737efd1bdf78fa7464e4b23c01f",
@@ -12,18 +12,6 @@
       "status": "new",
       "ts": "2026-07-07T07:47:21.968533+05:00",
       "age_min": 17.4
-    },
-    {
-      "hash": "222de49a75bcf269056eb9eb8f808488",
-      "title": "China fires ballistic missile into Pacific nuclear-free zone",
-      "summary": "Submarine-launched projectile carrying dummy warhead draws condemnation from Japan, Australia and New Zealand",
-      "link": "https://www.ft.com/content/c52f0a98-2e6a-4acc-a668-d4ce442c4aba",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T05:33:21.823995+05:00",
-      "age_min": 27.1
     },
     {
       "hash": "a04a00f7962d098464e9f745da2c7337",
@@ -564,6 +552,30 @@
       "status": "new",
       "ts": "2026-07-07T09:03:59.186751+05:00",
       "age_min": 79.7
+    },
+    {
+      "hash": "d38b5b4dc3d10255ce8721b17166deff",
+      "title": "Отключения света из-за атак ВСУ затронули 1,27 млн абонентов ДНР, Крыма и Белгородчины",
+      "summary": "",
+      "link": "https://tass.ru/obschestvo/27892415",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-07T09:33:23.740820+05:00",
+      "age_min": 4.2
+    },
+    {
+      "hash": "7adc2415420b59e09b897e1394647116",
+      "title": "Tanker on fire off coast of Oman after being hit by projectile",
+      "summary": "Iran&#039;s TV claims the tanker ignored warnings, but no direct responsibility for the attack has been declared.",
+      "link": "https://www.aljazeera.com/news/2026/7/7/tanker-on-fire-off-coast-of-oman-after-being-hit-by-projectile?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-07T09:33:21.295472+05:00",
+      "age_min": 27.3
     }
   ]
 }
