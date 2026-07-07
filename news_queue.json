@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-07T07:35:11.442576+05:00",
+  "updated": "2026-07-07T07:49:59.196793+05:00",
   "items": [
+    {
+      "hash": "ab2f5737efd1bdf78fa7464e4b23c01f",
+      "title": "Pahalgam terror attack : NIA charges LeT chief Hafiz Saeed with waging war against India",
+      "summary": "",
+      "link": "https://theshillongtimes.com/2026/07/07/pahalgam-terror-attack-nia-charges-let-chief-hafiz-saeed-with-waging-war-against-india/",
+      "source": "GDELT/TERRORISM",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T07:47:21.968533+05:00",
+      "age_min": 17.4
+    },
     {
       "hash": "222de49a75bcf269056eb9eb8f808488",
       "title": "China fires ballistic missile into Pacific nuclear-free zone",
@@ -50,18 +62,6 @@
       "age_min": -1393.8
     },
     {
-      "hash": "9cf7539da73e3202286868a0e4737038",
-      "title": "China launches ballistic missile from nuclear submarine in Pacific",
-      "summary": "",
-      "link": "https://www.foxnews.com/politics/china-launches-rare-submarine-ballistic-missile-pacific-allies-strengthen-defense-ties-nato-summit",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T03:40:51.250145+05:00",
-      "age_min": 55.9
-    },
-    {
       "hash": "5b2ebc9fb1af13fddf87a213940f9008",
       "title": "China realizó una inusual prueba de misil nuclear desde un submarino y genera preocupación por su capacidad para alcanzar EE . UU .",
       "summary": "",
@@ -86,16 +86,40 @@
       "age_min": -1393.8
     },
     {
-      "hash": "93e95a98ecca07ddd3c4324aff2fa925",
-      "title": "China desafia Ocidente com teste inédito com submarino nuclear",
+      "hash": "842aa899eca9ae89c9937e44ce382fad",
+      "title": "Iran regime survived the war and is now savvier , ruthless and more hard - line",
       "summary": "",
-      "link": "https://www.gazetadopovo.com.br/mundo/china-desafia-ocidente-com-teste-inedito-de-missil-balistico-lancado-por-submarino-nuclear/",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
+      "link": "https://www.adn.com/nation-world/2026/07/06/irans-regime-survived-the-war-and-is-now-savvier-ruthless-and-more-hard-line/",
+      "source": "GDELT/TERRORISM",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T03:40:51.251770+05:00",
-      "age_min": 25.9
+      "ts": "2026-07-07T07:47:21.972844+05:00",
+      "age_min": 107.4
+    },
+    {
+      "hash": "c85ed365729d7c6b86296d765c7eee1b",
+      "title": "World War II soldier returns home to Georgia for final rest",
+      "summary": "",
+      "link": "https://www.wrdw.com/2026/07/06/world-war-ii-soldier-returns-home-georgia-final-rest/",
+      "source": "GDELT/TERRORISM",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T07:47:21.971971+05:00",
+      "age_min": 107.4
+    },
+    {
+      "hash": "5e3e6f02ccf1ee975775d36fe6107221",
+      "title": "China test - launches a ballistic missile in the South Pacific and raises regional concerns , Australia says this is destabilizing to the region",
+      "summary": "",
+      "link": "https://www.fijivillage.com/news/china-test-launches-a-ballistic-missile-in-the-south-pacific-and-raises-regional-concerns-australia-says-this-is-destabilizing-to-the-region-fe9120/",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T07:46:40.626790+05:00",
+      "age_min": 16.7
     },
     {
       "hash": "c0fc248b6a6e520ad542bbf19bc46684",
@@ -242,42 +266,6 @@
       "age_min": 31.9
     },
     {
-      "hash": "3069adb749c838d6cc715d3660df4485",
-      "title": "Gaza war forcing a political shift in US",
-      "summary": "",
-      "link": "https://www.arabnews.com/node/2649874",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T03:47:44.403399+05:00",
-      "age_min": 92.7
-    },
-    {
-      "hash": "edae2428f95b4d769e66eea69c569236",
-      "title": "Deadly Russian missile and drone attack on Ukrainian capital kills at least 22",
-      "summary": "",
-      "link": "https://www.thisisoxfordshire.co.uk/news/national/26256134.deadly-russian-missile-drone-attack-ukrainian-capital-kills-least-22/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T03:47:19.735769+05:00",
-      "age_min": 32.3
-    },
-    {
-      "hash": "583e55a179da3d8b753de56d6d256cce",
-      "title": "Deadly Russian missile and drone attack on Ukrainian capital kills at least 22",
-      "summary": "",
-      "link": "https://www.echo-news.co.uk/news/national/26256134.deadly-russian-missile-drone-attack-ukrainian-capital-kills-least-22/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T03:40:51.256508+05:00",
-      "age_min": 40.9
-    },
-    {
       "hash": "3efa3a5b72b1e25b9498a8b502169b0b",
       "title": "Chinese nuclear missile tests  destabilising  Pacific",
       "summary": "",
@@ -338,16 +326,16 @@
       "age_min": 181.0
     },
     {
-      "hash": "2e1e9715c772780a459a8e9f788171ac",
-      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
-      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
-      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
-      "source": "Crisis Group",
-      "score": 10,
-      "weight": 3,
+      "hash": "002a39e39e7b890707f8b38b483a1311",
+      "title": "Gold Slips for Second Day as Hormuz Tensions Fan Inflation Fears",
+      "summary": "Gold fell for a second day after renewed attacks on shipping in the Strait of Hormuz, a reminder of the risks faced by vessels carrying oil and natural gas via the waterway.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-06/gold-steadies-as-traders-look-to-fed-for-interest-rate-outlook",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T03:42:58.567446+05:00",
-      "age_min": 0
+      "ts": "2026-07-07T07:49:10.247775+05:00",
+      "age_min": 210.0
     },
     {
       "hash": "c6191516b3eabfc1799c00b2ee11ef58",
@@ -372,6 +360,18 @@
       "status": "new",
       "ts": "2026-07-07T06:01:42.152977+05:00",
       "age_min": 16.7
+    },
+    {
+      "hash": "49586980ff6441da9167a0ef8651c18c",
+      "title": "World News : Israel carries out deadly drone attack",
+      "summary": "",
+      "link": "https://www.gdnonline.com:443/Details/1399899/Israel-carries-out-deadly-drone-attack",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T07:46:40.631154+05:00",
+      "age_min": 106.7
     },
     {
       "hash": "41d185f52c7fb2b9a625c551ac200986",
@@ -554,52 +554,52 @@
       "age_min": 2.1
     },
     {
-      "hash": "468d24c928038660c6e02f3ca4052db3",
-      "title": "Israeli drone strike kills four people in southern Lebanon , Lebanese state media reports",
-      "summary": "",
-      "link": "https://www.thehindu.com/news/international/israeli-drone-strike-kills-four-people-in-southern-lebanon-lebanese-state-media-reports/article71190848.ece",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
+      "hash": "2234c804b7766f646dc95a13f3df49a3",
+      "title": "Tanker set ablaze after hit by projectile in Strait of Hormuz region",
+      "summary": "An “unknown projectile” struck and caused a fire on an oil tanker off the coast of Oman near the Strait of Hormuz on Monday, British maritime security agency UKMTO said.\nThe incident occurred near one of the world’s most important energy shipping routes, despite a ceasefire between the United States and Iran and ongoing efforts to secure a lasting peace agreement.\nThe United Kingdom Maritime Trade",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3359666/tanker-set-ablaze-after-hit-projectile-strait-hormuz-region?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-07T03:47:44.399174+05:00",
-      "age_min": 47.7
+      "ts": "2026-07-07T07:49:12.163302+05:00",
+      "age_min": 10.3
     },
     {
-      "hash": "297877bc37544c26fbe6a0534cb00743",
-      "title": "Second Russian attack on Kyiv in less than a week kills dozens on eve of NATO summit",
+      "hash": "fcc58f7b98e66ebbae35947acdc6fd9e",
+      "title": "Russia missile and drone attacks on Ukraine kill at least 22",
       "summary": "",
-      "link": "https://www.abc.net.au/news/2026-07-06/russian-attack-on-kyiv-ukraine-kills-dozens-eve-of-nato-summit/106886188",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
+      "link": "https://isp.netscape.com:443/news/world/story/0001/20260707/0280e3d86022720fd5fa0236122ad90e",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T03:47:19.737827+05:00",
-      "age_min": 62.3
+      "ts": "2026-07-07T07:46:40.632369+05:00",
+      "age_min": 16.7
     },
     {
-      "hash": "52e6d34f2ceb4271fbe4450048636209",
-      "title": "Zelensky slams world  absurd  lack of interceptor missiles after deadly Russian attack on Kyiv",
+      "hash": "5b05adc2023d43599353e256fe1161e5",
+      "title": "China missile test , joint drills with Russia not aimed at any country : Kremlin",
       "summary": "",
-      "link": "https://nypost.com/2026/07/06/world-news/zelensky-slams-worlds-absurd-lack-of-interceptor-missiles-after-deadly-russian-attack-on-kyiv/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
+      "link": "https://aa.com.tr/en/asia-pacific/china-s-missile-test-joint-drills-with-russia-not-aimed-at-any-country-kremlin/3987957",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T03:47:19.731386+05:00",
-      "age_min": 62.3
+      "ts": "2026-07-07T07:46:40.631769+05:00",
+      "age_min": 16.7
     },
     {
-      "hash": "9ccf7e84497bdd17784b1ded40805440",
-      "title": "NIA chargesheets Lashkar founder Hafiz Saeed in Pahalgam attack",
+      "hash": "c5290fe81a682e176edfe2aa149cb545",
+      "title": "Regional powers alarmed over China missile test",
       "summary": "",
-      "link": "https://www.tribuneindia.com/news/top-headlines/nia-chargesheets-lashkar-founder-hafiz-saeed-in-pahalgam-attack/",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
+      "link": "https://www.standard.net.au/story/9305841/regional-powers-alarmed-over-chinas-missile-test/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T03:41:04.335320+05:00",
-      "age_min": 56.1
+      "ts": "2026-07-07T07:46:40.629682+05:00",
+      "age_min": 16.7
     }
   ]
 }
