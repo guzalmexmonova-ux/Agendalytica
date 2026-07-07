@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T07:05:38.100432+05:00",
+  "updated": "2026-07-07T07:18:26.285204+05:00",
   "items": [
     {
       "hash": "222de49a75bcf269056eb9eb8f808488",
@@ -96,6 +96,30 @@
       "status": "new",
       "ts": "2026-07-07T03:40:51.251770+05:00",
       "age_min": 25.9
+    },
+    {
+      "hash": "c0fc248b6a6e520ad542bbf19bc46684",
+      "title": "Fifa’s red card scandal crosses ‘Rubicon’ on to the pitch",
+      "summary": "The football body was once riven by bribery and corruption claims. Now it faces accusations of interference in the game itself",
+      "link": "https://www.ft.com/content/aae94a36-1d3a-435f-bfd9-e059e5789ea0",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T07:17:45.269398+05:00",
+      "age_min": 2.0
+    },
+    {
+      "hash": "4a050fe331858f3bec1307d2d072ee44",
+      "title": "Russia - Ukraine war escalates before NATO summit",
+      "summary": "",
+      "link": "https://www.wfae.org/world/2026-07-06/russia-ukraine-war-escalates-before-nato-summit",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T07:16:06.440785+05:00",
+      "age_min": 76.1
     },
     {
       "hash": "9008da5f1e2bbffb4c00678bbe1d02d0",
@@ -254,6 +278,18 @@
       "age_min": 40.9
     },
     {
+      "hash": "3efa3a5b72b1e25b9498a8b502169b0b",
+      "title": "Chinese nuclear missile tests  destabilising  Pacific",
+      "summary": "",
+      "link": "https://www.dungogchronicle.com.au/story/9305891/chinese-nuclear-missile-tests-destabilising-pacific/",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-07T07:17:31.672035+05:00",
+      "age_min": 77.5
+    },
+    {
       "hash": "5b621f8be4ee03869acc8f8851d0b2df",
       "title": "US-Iran War Breaking News: Iran Resumes Missile Attacks in Strait of Hormuz; Will Fractured Truce Spark a Global Shipping and Energy Crisis? - The Sunday Guardian",
       "summary": "US-Iran War Breaking News: Iran Resumes Missile Attacks in Strait of Hormuz; Will Fractured Truce Spark a Global Shipping and Energy Crisis?&nbsp;&nbsp;The Sunday Guardian",
@@ -338,16 +374,16 @@
       "age_min": 16.7
     },
     {
-      "hash": "21e644d466350de946aac8d0d47a81a3",
-      "title": "Oil Holds Drop as Saudi Arabian Price Cut Amplifies Glut Concern",
-      "summary": "Oil held a drop on signs of growing global oversupply, with Saudi Arabia slashing prices of its main grade to Asia and maritime traffic through the Strait of Hormuz picking up.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-06/latest-oil-market-news-and-analysis-for-july-7",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
+      "hash": "0b4d718d16cd4ecd1fef8529d8938339",
+      "title": "Trump ramps up war on regulations with 702 cuts in pipeline",
+      "summary": "",
+      "link": "https://www.columbian.com/news/2026/jul/06/trump-ramps-up-war-on-regulations-with-702-cuts-in-pipeline/",
+      "source": "GDELT/SUMMITS",
+      "score": 8,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-07T03:17:57.141719+05:00",
-      "age_min": 16.7
+      "ts": "2026-07-07T07:17:31.670729+05:00",
+      "age_min": 77.5
     },
     {
       "hash": "8976af62bffc91a34d355ea8c4ec4719",
@@ -564,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-07T03:18:31.853475+05:00",
       "age_min": 9.5
-    },
-    {
-      "hash": "2fb44d2a8b6d968684dcd6bec57bae54",
-      "title": "Ukraine stored depleted uranium munitions in populated area",
-      "summary": "",
-      "link": "http://www.europesun.com/news/279170954/ukraine-stored-depleted-uranium-munitions-in-populated-area-ex-mp",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T07:02:57.719674+05:00",
-      "age_min": 78.0
-    },
-    {
-      "hash": "a121efad8bd695f74b94866900ab8e2b",
-      "title": "DEADLY STRIKE : Russian Missile and Drone Barrage on Kyiv Kills at Least 11 Ahead of Trump - Zelensky Meeting",
-      "summary": "",
-      "link": "https://www.theyeshivaworld.com/news/general/2571490/deadly-strike-russian-missile-and-drone-barrage-on-kyiv-kills-at-least-11-ahead-of-trump-zelensky-meeting.html",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T07:02:57.713429+05:00",
-      "age_min": 63.0
-    },
-    {
-      "hash": "cbd8e3da85ca8633aa2f65df713508a3",
-      "title": "Взрывы и уран под Киевом : Зеленский требует объяснений после детонации на складе ГСМ",
-      "summary": "",
-      "link": "https://runews24.ru/politics/07/07/2026/vzryivyi-i-uran-pod-kievom-zelenskij-trebuet-obyasnenij-posle-detonaczii-na-sklade-gsm",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T06:47:13.772242+05:00",
-      "age_min": 107.2
     }
   ]
 }
