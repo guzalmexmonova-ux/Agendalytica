@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T11:04:39.791500+05:00",
+  "updated": "2026-07-07T11:22:03.196226+05:00",
   "items": [
     {
       "hash": "9dc5a96a3983286162edceded4d62f8d",
@@ -24,6 +24,18 @@
       "status": "new",
       "ts": "2026-07-07T07:47:21.968533+05:00",
       "age_min": 17.4
+    },
+    {
+      "hash": "ba2137467bdf3a27fe8f41d03ab1b7b0",
+      "title": "Яичный коллапс в Германии : Netzо вводит жесткие лимиты , Rewe теряет ассортимент",
+      "summary": "",
+      "link": "https://runews24.ru/world/07/07/2026/yaichnyij-kollaps-v-germanii-netzo-vvodit-zhestkie-limityi-rewe-teryaet-assortiment",
+      "source": "GDELT/MACRO",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T11:19:48.444760+05:00",
+      "age_min": 64.8
     },
     {
       "hash": "dfe04e88a76cb8167c6325ae05554091",
@@ -60,6 +72,30 @@
       "status": "new",
       "ts": "2026-07-07T08:01:45.921575+05:00",
       "age_min": 31.8
+    },
+    {
+      "hash": "6ff9ae4192b4f91a9e891ce0d0ade625",
+      "title": "US Debt Exceeds 100 % Of GDP For The First Time Since World War II",
+      "summary": "",
+      "link": "https://www.armstrongeconomics.com/world-news/sovereign-debt-crisis/us-debt-exceeds-100-of-gdp-for-the-first-time-since-world-war-ii/",
+      "source": "GDELT/MACRO",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T11:19:48.440031+05:00",
+      "age_min": 34.8
+    },
+    {
+      "hash": "227c08e05d198a2c67c65986b74afd0b",
+      "title": "China conducts rare submarine - launched ballistic missile test",
+      "summary": "",
+      "link": "http://www.jamaicantimes.com/news/279171720/china-conducts-rare-submarine-launched-ballistic-missile-test",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T11:15:45.603876+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "cb90dcf19e35dad484e8ba58880f8f43",
@@ -206,30 +242,6 @@
       "age_min": 16.7
     },
     {
-      "hash": "c0fc248b6a6e520ad542bbf19bc46684",
-      "title": "Fifa’s red card scandal crosses ‘Rubicon’ on to the pitch",
-      "summary": "The football body was once riven by bribery and corruption claims. Now it faces accusations of interference in the game itself",
-      "link": "https://www.ft.com/content/aae94a36-1d3a-435f-bfd9-e059e5789ea0",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T07:17:45.269398+05:00",
-      "age_min": 2.0
-    },
-    {
-      "hash": "4a050fe331858f3bec1307d2d072ee44",
-      "title": "Russia - Ukraine war escalates before NATO summit",
-      "summary": "",
-      "link": "https://www.wfae.org/world/2026-07-06/russia-ukraine-war-escalates-before-nato-summit",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T07:16:06.440785+05:00",
-      "age_min": 76.1
-    },
-    {
       "hash": "936d9679685481cdecd64f406e020f83",
       "title": "Palestine weekly: One thousand days of genocide in Gaza",
       "summary": "Gaza marks 1,000 days of Israel&#039;s genocidal war, with at least 1,072 killed since October &#039;ceasefire&#039;.",
@@ -324,42 +336,6 @@
       "status": "new",
       "ts": "2026-07-07T08:04:00.799525+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "3efa3a5b72b1e25b9498a8b502169b0b",
-      "title": "Chinese nuclear missile tests  destabilising  Pacific",
-      "summary": "",
-      "link": "https://www.dungogchronicle.com.au/story/9305891/chinese-nuclear-missile-tests-destabilising-pacific/",
-      "source": "GDELT/SUMMITS",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T07:17:31.672035+05:00",
-      "age_min": 77.5
-    },
-    {
-      "hash": "5b621f8be4ee03869acc8f8851d0b2df",
-      "title": "US-Iran War Breaking News: Iran Resumes Missile Attacks in Strait of Hormuz; Will Fractured Truce Spark a Global Shipping and Energy Crisis? - The Sunday Guardian",
-      "summary": "US-Iran War Breaking News: Iran Resumes Missile Attacks in Strait of Hormuz; Will Fractured Truce Spark a Global Shipping and Energy Crisis?&nbsp;&nbsp;The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNeWpHZnlmcXFiYTVOb1BhaHVPeFJlY1E3WGtOZFllWElQRi1xV29Tamh0bzlKWE51OHEwam94WW1PRVI0d1RfenRwSm5xcDdUQ2NvNzhtNkZYdkZSd195cklQN1kzTmpyZGhuNjlnOUc5bXdBZldHSGo0dWRHTy0tMVFIVzJSSlhhVmJVY3VtUXhTcHNKRUg0ODd2YVlqUXM5aG5TdEItRnhpUEt4aGNQOE42clZoOFVTNEhzaHV3a1AyUnZFRUsxcDM5VU5rTTFpSkd3WTNKZ3Q2MURGYXdrU0sxMEtwSjhNYzZiclh4R3B1bzE1dXQ2ZW9MQU1leHBlOVNsYkRwbWNuRW9lbWtn?oc=5",
-      "source": "GNews/Breaking",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T07:05:19.981847+05:00",
-      "age_min": 9.0
-    },
-    {
-      "hash": "6435520e410efa90a8b04578e0694b05",
-      "title": "Crude war premium fades as OPEC+ raises output and US supply surges, pressuring prices lower - VT Markets",
-      "summary": "Crude war premium fades as OPEC+ raises output and US supply surges, pressuring prices lower&nbsp;&nbsp;VT Markets",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRHlybzB6R3FHMGllTWNpVFd0RmtCckc3VGdvWk9SbUpDUndKak45eGhMRjdTNEVERDZPTHNIdDFVN1dzd2VucmdfWTVxQ2FWcWJka3hiemowaTBpUGw5ZFJHT1NYQ3FTazhrSnA5VHNqTVV0NTdxczEzeTNsMXZTN1V5ZXJsTU5DcElMYmJJYjdoNVBoa3Frc0FsU0w1bGd6TzVkeGFKVG81RlRjSUpGMGtvMXdwQzlPSVM0RzU2aG1NOE9hX0xaZHlycUluVVp2Z2c?oc=5",
-      "source": "GNews/Oil",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T07:05:18.916994+05:00",
-      "age_min": 50.7
     },
     {
       "hash": "acd07a22f716c9c5ef7beb15037522d1",
@@ -600,6 +576,18 @@
       "status": "new",
       "ts": "2026-07-07T07:46:40.631154+05:00",
       "age_min": 106.7
+    },
+    {
+      "hash": "1c8fdf4d137dffe7acbf87d5c4d12ee5",
+      "title": "Russia Oreshnik Missile Matters More For Deterrence Than Destruction",
+      "summary": "",
+      "link": "https://www.forbes.com/sites/davidkirichenko/2026/07/06/russias-oreshnik-missile-matters-more-for-deterrence-than-destruction/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T11:15:45.601997+05:00",
+      "age_min": 105.8
     }
   ]
 }
