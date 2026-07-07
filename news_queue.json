@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T14:18:49.327149+05:00",
+  "updated": "2026-07-07T14:35:32.036860+05:00",
   "items": [
     {
       "hash": "4d658ee4cbdbcc19bc19cc191e891485",
@@ -122,16 +122,40 @@
       "age_min": 64.8
     },
     {
-      "hash": "dfe04e88a76cb8167c6325ae05554091",
-      "title": "Estados Unidos expresó su  preocupación  tras el lanzamiento de prueba de un misil con capacidad nuclear por parte de China",
+      "hash": "badb7c22da1c33a9c0b7349a9def6cee",
+      "title": "CCP Ballistic Missile Test Draws Condemnation From Global Leaders",
       "summary": "",
-      "link": "https://www.infobae.com/america/mundo/2026/07/07/estados-unidos-expreso-su-preocupacion-tras-el-lanzamiento-de-prueba-de-un-misil-con-capacidad-nuclear-por-parte-de-china/",
+      "link": "https://www.theepochtimes.com/world/ccps-ballistic-missile-test-draws-condemnation-from-global-leaders-6058305",
       "source": "GDELT/CONFLICTS",
-      "score": 9,
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T10:32:30.258123+05:00",
-      "age_min": 92.5
+      "ts": "2026-07-07T14:32:05.553782+05:00",
+      "age_min": 47.1
+    },
+    {
+      "hash": "ce8e49a06a7f8a6a2bb49dd71157a646",
+      "title": "China test - launches a ballistic missile in the South Pacific and raises regional concerns",
+      "summary": "",
+      "link": "https://wnyc.org/npr/nx-s1-5884537",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T14:32:05.552836+05:00",
+      "age_min": 47.1
+    },
+    {
+      "hash": "861d849e9167762801291740c1fdb1c1",
+      "title": "Why the next few months could reshape the Ukraine war , according to NATO",
+      "summary": "",
+      "link": "https://www.moneycontrol.com/world/why-the-next-few-months-could-reshape-the-ukraine-war-according-to-nato-article-13967949.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T14:32:05.551472+05:00",
+      "age_min": 47.1
     },
     {
       "hash": "6dc393bfe31b5acdd35c9dc71df9ac40",
@@ -278,18 +302,6 @@
       "age_min": 45.8
     },
     {
-      "hash": "cb90dcf19e35dad484e8ba58880f8f43",
-      "title": "China test - launches a ballistic missile in the South Pacific and raises regional concerns",
-      "summary": "",
-      "link": "https://www.local10.com/news/2026/07/06/china-test-launches-a-ballistic-missile-in-the-south-pacific-and-raises-regional-concerns/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T10:32:30.261424+05:00",
-      "age_min": 47.5
-    },
-    {
       "hash": "d1fd51ba4aaa31c184624a2b77f38f94",
       "title": "Estonia Won the War on Fentanyl. What Came Next Was Even Worse.",
       "summary": "By 2018, fentanyl overdoses in Estonia had plummeted. But powerful new drugs are appearing fast, with the authorities racing to respond.",
@@ -324,18 +336,6 @@
       "status": "new",
       "ts": "2026-07-07T11:03:45.956461+05:00",
       "age_min": 15.1
-    },
-    {
-      "hash": "497b6c376f036abe20827ac8a2cbae2f",
-      "title": "NATO Needs Turkey",
-      "summary": "The war in Ukraine and Trump’s disregard for the alliance have generated a new appreciation of what Turkey brings to the table.",
-      "link": "https://www.nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-07T10:34:59.404590+05:00",
-      "age_min": 60.9
     },
     {
       "hash": "b288b1b6bfba49b889e104b2cbabaf09",
@@ -396,6 +396,18 @@
       "status": "new",
       "ts": "2026-07-07T11:33:34.874381+05:00",
       "age_min": 9.1
+    },
+    {
+      "hash": "8d261d04529305bf565d6350b4275e1d",
+      "title": "Saudi Arabia mulls big new plan , eyes post - war oil route reset to bypass volatile Hormuz",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/news/international/saudi-arabia/saudi-arabia-mulls-big-new-plan-eyes-post-war-oil-route-reset-to-bypass-volatile-hormuz/articleshow/132233409.cms",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-07T14:33:28.625757+05:00",
+      "age_min": 93.5
     },
     {
       "hash": "241aed723ff6a4d1f46c6bd62c82b1d8",
@@ -566,6 +578,18 @@
       "age_min": 6.0
     },
     {
+      "hash": "d7eafc5ea2f96478b4a1a5f87ea129a7",
+      "title": "Tanker set ablaze after being struck by projectile in the Strait of Hormuz",
+      "summary": "",
+      "link": "https://wnyc.org/npr/g-s1-132265",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T14:32:05.554107+05:00",
+      "age_min": 47.1
+    },
+    {
       "hash": "ac70a92c62dc3fdc427625f0dd12fc09",
       "title": "Iran fires missiles at commercial ships in Strait of Hormuz : report",
       "summary": "",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-07T14:17:20.058492+05:00",
       "age_min": 92.3
-    },
-    {
-      "hash": "55a65c64fc99ffcea6e7373f4c6a77be",
-      "title": "Petrolio e gas rimbalzano : incidente nave LNG neutralizza effetto Arabia",
-      "summary": "",
-      "link": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/petrolio-e-gas-rimbalzano-incidente-nave-lng-neutralizza-effetto-arabia-41_2026-07-07_TLB.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T14:17:20.057279+05:00",
-      "age_min": 77.3
-    },
-    {
-      "hash": "a64ce06cbf450ffd1e5c0cca4a91f420",
-      "title": "Qatari LNG Carrier Struck in Hormuz",
-      "summary": "",
-      "link": "https://www.rigzone.com/news/wire/qatari_lng_carrier_struck_in_hormuz-07-jul-2026-184072-article/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T14:17:20.051964+05:00",
-      "age_min": 77.3
     }
   ]
 }
