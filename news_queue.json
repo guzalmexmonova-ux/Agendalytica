@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T08:43:08.181508+05:00",
+  "updated": "2026-07-07T08:50:31.206672+05:00",
   "items": [
     {
       "hash": "ab2f5737efd1bdf78fa7464e4b23c01f",
@@ -96,6 +96,30 @@
       "status": "new",
       "ts": "2026-07-07T05:16:09.322530+05:00",
       "age_min": -1393.8
+    },
+    {
+      "hash": "a4d960f7ec9efd88824e06f93c9209a0",
+      "title": "Ahead of NATO summit , Trump says a resolution to Ukraine war is  getting closer",
+      "summary": "",
+      "link": "https://www.hindustantimes.com/world-news/ahead-of-nato-summit-trump-says-a-resolution-to-ukraine-war-is-getting-closer-101783390121189.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T08:47:35.713619+05:00",
+      "age_min": 17.6
+    },
+    {
+      "hash": "03bdab153520fafac1f7b99dd09dd32f",
+      "title": "Trump says resolution in Ukraine war closer after talks",
+      "summary": "",
+      "link": "https://www.dailyadvertiser.com.au/story/9305827/trump-says-resolution-in-ukraine-war-closer-after-talks/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-07T08:47:35.712874+05:00",
+      "age_min": 17.6
     },
     {
       "hash": "1e0f3f8b7e70d1b3e386f5dc7bacbc19",
@@ -216,42 +240,6 @@
       "status": "new",
       "ts": "2026-07-07T05:16:09.323304+05:00",
       "age_min": -1408.8
-    },
-    {
-      "hash": "194ac05d5fe0b3b1670e9caf1a34cad5",
-      "title": "Top Fed official backs Kevin Warsh’s rethink of forward guidance",
-      "summary": "Christopher Waller sides with central bank’s new chair in call for revamping communication to market",
-      "link": "https://www.ft.com/content/52030e91-cac4-4ea9-b518-35a50bb8273d",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T04:49:33.628360+05:00",
-      "age_min": 1.9
-    },
-    {
-      "hash": "5623e6781541f87821a6073959bf0919",
-      "title": "Deadly Russian missile and drone attack on Ukrainian capital kills at least 22",
-      "summary": "",
-      "link": "https://www.thetelegraphandargus.co.uk/news/national/26256134.deadly-russian-missile-drone-attack-ukrainian-capital-kills-least-22/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T04:47:00.995443+05:00",
-      "age_min": 47.0
-    },
-    {
-      "hash": "8a49883fd4e459b53fe7adcd1f38759d",
-      "title": "China test - launches a ballistic missile in the South Pacific and raises regional concerns",
-      "summary": "",
-      "link": "https://www.timesfreepress.com/news/2026/jul/06/china-test-launches-a-ballistic-missile-in-the-south-pacific-and-raises-regional-concerns/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-07T04:47:00.992389+05:00",
-      "age_min": 107.0
     },
     {
       "hash": "05cafa116045e0d4fe8cd22ed6048b8a",
@@ -590,16 +578,16 @@
       "age_min": 20.5
     },
     {
-      "hash": "2cd6a13ca86c942e3fd68623f142e71b",
-      "title": "Iran envoy to Houthis signals Tehran backed escalation in Yemen",
+      "hash": "2fbcf9d0ed07eaa641198793da9e69a2",
+      "title": "Russia missile and drone attacks on Ukraine kill at least 22",
       "summary": "",
-      "link": "http://www.jpost.com/middle-east/iran-news/article-901657",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
+      "link": "https://www.union-bulletin.com/news/world/russias-missile-and-drone-attacks-on-ukraine-kill-at-least-22/article_95b0ff28-f307-5ab3-952c-4d90a735fb3a.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-07T04:48:08.754541+05:00",
-      "age_min": 48.1
+      "ts": "2026-07-07T08:47:35.712053+05:00",
+      "age_min": 17.6
     }
   ]
 }
