@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T10:19:10.420837+05:00",
+  "updated": "2026-07-09T10:36:38.695336+05:00",
   "items": [
     {
       "hash": "ce6fceaf4b57eb33c96708d7e2d68de5",
@@ -60,18 +60,6 @@
       "status": "new",
       "ts": "2026-07-09T08:02:39.357605+05:00",
       "age_min": 32.7
-    },
-    {
-      "hash": "563280d4e332aedd2aae510283a4e64b",
-      "title": "Ceasefire collapse is reinforcing the higher - for - longer rate case , economist says",
-      "summary": "",
-      "link": "https://www.mpamag.com/us/mortgage-industry/market-updates/ceasefire-collapse-is-reinforcing-the-higher-for-longer-rate-case-economist-says/581769",
-      "source": "GDELT/FED_ECB",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T06:33:37.331303+05:00",
-      "age_min": 78.6
     },
     {
       "hash": "4d3aadefa3e528227bb22724f2983cd6",
@@ -218,18 +206,6 @@
       "age_min": 46.2
     },
     {
-      "hash": "d2dee244a67d7097da89c4e339b5fcb0",
-      "title": "US Launches Strikes on Iran for Second Straight Day",
-      "summary": "The US military said it struck Iran for the second straight day, an escalation of violence that threatens to strain an already fragile ceasefire. Bloomberg's Jeff Mason has the latest developments. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-07-09/us-launches-strikes-on-iran-for-second-straight-day-video",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T06:34:34.421309+05:00",
-      "age_min": 26.5
-    },
-    {
       "hash": "b7c0659636687bd497338431a55c7928",
       "title": "Ukraine’s drone playbook is wreaking havoc in Russia — and upending where NATO wants to invest",
       "summary": "Ukraine’s deep drone strikes on Russian refineries are reshaping the war and pushing NATO toward a $40 billion counter-drone plan.",
@@ -288,6 +264,30 @@
       "status": "new",
       "ts": "2026-07-09T08:03:50.976071+05:00",
       "age_min": 33.8
+    },
+    {
+      "hash": "e7920ff25a75debca779bd90fb5e4e30",
+      "title": "China’s Top Solar Firm Makes Switch From Silver to Copper",
+      "summary": "China’s biggest solar maker has begun producing cells that replace silver with copper, in response to soaring prices of the precious metal that have rattled the industry since last year.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-09/china-s-top-solar-firm-makes-switch-from-silver-to-copper",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T10:35:45.326279+05:00",
+      "age_min": 41.1
+    },
+    {
+      "hash": "87933d1653ad22e7cc0b2991b9393fa1",
+      "title": "Australia Agrees to Sell Uranium to India During Modi Visit",
+      "summary": "Australia has agreed to sell uranium to India for power generation in a landmark deal signed between the two nations during a visit to Melbourne by Prime Minister Narendra Modi.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-09/australia-agrees-to-sell-uranium-to-india-during-modi-visit",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T10:35:45.324512+05:00",
+      "age_min": 26.5
     },
     {
       "hash": "64ba06bfe34dd683e3de075bf1f19cc3",
@@ -384,18 +384,6 @@
       "status": "new",
       "ts": "2026-07-09T07:17:59.799368+05:00",
       "age_min": 12.4
-    },
-    {
-      "hash": "d3ad3d583b3091480dcb043fd50aeba5",
-      "title": "Town of Inuvik to fight natural gas rate hike",
-      "summary": "",
-      "link": "https://www.cbc.ca/news/canada/north/town-of-inuvik-to-fight-natural-gas-rate-hike-9.7263240",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T06:33:37.332408+05:00",
-      "age_min": 33.6
     },
     {
       "hash": "228786253388a52e27b30b2e33cc5bb2",
@@ -542,40 +530,16 @@
       "age_min": 107.4
     },
     {
-      "hash": "c1239ae1c584b5fcb7853419e0178e81",
-      "title": "Asian stocks today: Kospi, Nikkei rally up to 3% led by semiconductor stocks despite US-Iran war tensions - livemint.com",
-      "summary": "Asian stocks today: Kospi, Nikkei rally up to 3% led by semiconductor stocks despite US-Iran war tensions&nbsp;&nbsp;livemint.com",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPb0JqdUhkYVlVcTcxZUFHX1duRTczbkZXTlR0MmRlVTk4Tm95T2l6MTVMTTE5UGczbFpuS2ZoemloV2MxaEtLWXpQZWNEMnd2Mlh3OXdPa2ZZTDdJMWxPTV80RXVvNnZCbEt1TUZtc0xpeHoybmtnbzY1X0VYQ3RpdHlFMEZoNlNrZHlmQUJZUXowUGd2c0V4V2JKQ2o3aUQ4aWl5VUpoS0M2Sk0wQWRuQ0lKZG1aNVRHMERrcmJ3QUkwZV9IcjJmWnNNZGNUc2xyeEl0S2h4NnNQUHA4djB6QXBYSVpxT1JBenl2eURFLUpNVkN0ZW15bFVoVjdxdXRXSWfSAYcCQVVfeXFMT1hlM2xBZFlsZm5YRmZWZ2lMSWs1cnpKVVZaLVRmRUhWMWNSNmd0b01WczI1V2lXcVl2ZzRUSFUtNVRnLWFSZTZ2czRTeWkzQVRLdXF4RzJTTGZGOEpjS2U2SWR4bWx4cVZHZ1p6U1l5NWM2dzE4Z2E2YV92WEVHc2FiOTI2Yi1SLVpSMXN1NXZ0TUlZeVh5dTNCSDloUWtPQU1RWV9Ub095ZDN0VHVVajNFT2k3SjN3UzBJeWc3b095MzBHSzJ3TFRnN3pmVEFHUHpoUjhGbW5rU3Vuejd2RU5DVUtOVV9WQXp4Qjhpbjh4ZEhRdFpZSmhXQkVzci1laFhPQVpucUk?oc=5",
+      "hash": "8fc2ea62940d561678924423be03c158",
+      "title": "Fed Chair Jerome Powell Just Defied President Donald Trump -- and He's Poised to Do So Again in His Final Meeting as Chair - AOL.com",
+      "summary": "Fed Chair Jerome Powell Just Defied President Donald Trump -- and He's Poised to Do So Again in His Final Meeting as Chair&nbsp;&nbsp;AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZUTE1MDZLbWNoQ1djakoyZ29FR2pJUjVPeW9lWU9sdXBoUWJzcDUxcmFRTGM1T2tGc0oySnpTTC11dlZxdnd6QkFVaElrVWJoTnRuSHlGRGNLVnFmblZxYkJJbFFPQnRlZldfZWc2VnE?oc=5",
       "source": "GNews/CentralBanks",
-      "score": 8,
+      "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-09T06:35:04.933348+05:00",
-      "age_min": 4.0
-    },
-    {
-      "hash": "978cf4ab2b7990c21dd4a7935a403c9a",
-      "title": "6 Words From Fed Chair Kevin Warsh That Will Define This Era of Wall Street",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/6-words-fed-chair-kevin-155000741.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T06:33:37.329699+05:00",
-      "age_min": 93.6
-    },
-    {
-      "hash": "d016dac77c8027a256fee4135d11ce4f",
-      "title": "Inside Kevin Warsh shortest Fed statement yet : five words with no caveats",
-      "summary": "",
-      "link": "https://fortune.com/2026/07/08/laura-ullrich-fed-reserve-kevin-warsh-minutes-fomc/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T06:33:37.328978+05:00",
-      "age_min": -1331.4
+      "ts": "2026-07-09T10:36:17.338939+05:00",
+      "age_min": 39.4
     },
     {
       "hash": "cf71f265d08519a0eec99c495107d5b0",
@@ -600,6 +564,42 @@
       "status": "new",
       "ts": "2026-07-09T09:48:25.159239+05:00",
       "age_min": 7.2
+    },
+    {
+      "hash": "79bc3e594d68ecfed89f27c1986b4e78",
+      "title": "Nigerian regulators move Chariot lithium prize a step closer",
+      "summary": "",
+      "link": "https://www.smh.com.au/business/companies/nigerian-regulators-move-chariot-lithium-prize-a-step-closer-20260709-p60e0s.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T10:34:41.671530+05:00",
+      "age_min": 79.7
+    },
+    {
+      "hash": "5856d4dd856772f2413f9a1184699245",
+      "title": "Democrat Graham Platner exits key US Senate race, but denies rape allegation",
+      "summary": "Graham Platner, a scandal-plagued Democratic Senate nominee whose insurgent rise had drawn comparisons to Donald Trump, ended his campaign on Wednesday after a rape allegation threatened to derail one of his party’s best chances of flipping a Republican-held seat.\nPlatner, a Marine veteran, oysterman and political newcomer, won last month’s Democratic primary in the northeastern state of Maine to ",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3359919/democrat-graham-platner-exits-key-us-senate-race-denies-rape-allegation?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-09T10:35:46.782870+05:00",
+      "age_min": 167.3
+    },
+    {
+      "hash": "7e05fcc1a60795270bf0c4da2f0d4fb6",
+      "title": "Russia fuel crisis spills over to Central Asia as drone strikes bite",
+      "summary": "",
+      "link": "https://asia.nikkei.com/business/energy/russia-fuel-crisis-spills-over-to-central-asia-as-drone-strikes-bite",
+      "source": "Nikkei Asia",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-09T10:35:46.146356+05:00",
+      "age_min": 0
     }
   ]
 }
