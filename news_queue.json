@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T16:19:49.366970+05:00",
+  "updated": "2026-07-09T16:41:02.228140+05:00",
   "items": [
     {
       "hash": "58c8896c2525ce6ee696fbf8353e4e19",
@@ -62,6 +62,18 @@
       "age_min": 24.9
     },
     {
+      "hash": "60236789629b513f5bd1650a80f74ed4",
+      "title": "ФСБ предотвратила новое покушение агентов Киева на военного : что известно",
+      "summary": "",
+      "link": "https://iz.ru/2129643/2026-07-09/v-krasnodare-zaderzhali-planirovavshego-pokushenie-na-vysokopostavlennogo-voennogo",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T16:35:57.313334+05:00",
+      "age_min": 111.0
+    },
+    {
       "hash": "2bdc6973b7c47673ae1c550321d471ad",
       "title": "ФСБ предотвратила покушение на офицера Минобороны в Москве с использованием БПЛА",
       "summary": "",
@@ -84,6 +96,18 @@
       "status": "new",
       "ts": "2026-07-09T14:01:52.997362+05:00",
       "age_min": 91.9
+    },
+    {
+      "hash": "8309f153732f00ed368fbeb0c9d820e4",
+      "title": "As Iran war persists , Ukraine peace is harder to reach",
+      "summary": "",
+      "link": "https://www.csmonitor.com/Perspectives/Essays/2026/0709/nato-summit-ukraine-iran-war-trump-zelenskyy-russia",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T16:19:46.443814+05:00",
+      "age_min": 34.8
     },
     {
       "hash": "06186030eb85ecd153248473c6f92f4e",
@@ -254,18 +278,6 @@
       "age_min": 8.4
     },
     {
-      "hash": "2e1e9715c772780a459a8e9f788171ac",
-      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
-      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
-      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
-      "source": "Crisis Group",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-09T12:27:57.042677+05:00",
-      "age_min": 0
-    },
-    {
       "hash": "fdcbbff025ae5a290a4f0f72f8180118",
       "title": "US and Iran trade strikes for second night in a row",
       "summary": "Traffic through the Strait of Hormuz has dropped 'dramatically' since the lastest attacks began.",
@@ -324,6 +336,42 @@
       "status": "new",
       "ts": "2026-07-09T13:47:33.073743+05:00",
       "age_min": 62.6
+    },
+    {
+      "hash": "4e01943828889f692d91b53ae967bd85",
+      "title": "Ukraine Russia war latest : यूक्रेन का रूस पर बड़ा हमला ; फ्रंटलाइन से 500 किमी दूर दो तेल डिपो को बनाया निशाना , जेलेंस्की का दावा | Ukraine Strikes Russian Oil Depots 500km Inside Russia",
+      "summary": "",
+      "link": "https://www.patrika.com/world-news/ukraine-strikes-russian-oil-depots-500km-inside-russia-20733536",
+      "source": "GDELT/SANCTIONS",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-09T16:36:43.515573+05:00",
+      "age_min": 51.7
+    },
+    {
+      "hash": "79d57078476efe17d5d6cf194b4dc87e",
+      "title": "Troops rescue abductees , repel ISWAP attack , arrest terror suspects in North - East",
+      "summary": "",
+      "link": "https://dailypost.ng/2026/07/09/troops-rescue-abductees-repel-iswap-attack-arrest-terror-suspects-in-north-east/",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T16:35:57.313008+05:00",
+      "age_min": 51.0
+    },
+    {
+      "hash": "f6ca4ffdc564e8eb92a9694952794dd8",
+      "title": "Ukraine drone strikes hit 21 vessels as Russia fuel shortages grow",
+      "summary": "",
+      "link": "https://www.foxnews.com/world/drone-offensive-hits-russian-oil-tankers-refineries-industrial-scale-moscow-bans-diesel-exports",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-09T16:19:46.446485+05:00",
+      "age_min": 49.8
     },
     {
       "hash": "5f777681acaa42fd637d512be6cb7626",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-07-09T12:47:23.399071+05:00",
       "age_min": 32.4
-    },
-    {
-      "hash": "78b87d662c9e02e8ce375de258a8d410",
-      "title": "Iran and US trade fire and Trump calls the ceasefire into question",
-      "summary": "",
-      "link": "https://www.timesleaderonline.com/news/local-news/2026/07/iran-and-us-trade-fire-and-trump-calls-the-ceasefire-into-question/",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T16:01:34.809399+05:00",
-      "age_min": 46.6
-    },
-    {
-      "hash": "032bac2629460f93b56fcdbf59c4ac8f",
-      "title": "Totalenergies Ships First ECA LNG Cargo From Mexico To",
-      "summary": "",
-      "link": "https://www.marinelink.com/news/totalenergies-ships-first-eca-lng-cargo-541069",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-09T15:34:41.105012+05:00",
-      "age_min": 79.7
-    },
-    {
-      "hash": "58429edf14afa7360b4a3b392996b773",
-      "title": "Germany jails man 10 years for fatal attack on train conductor",
-      "summary": "A German court on Thursday handed down a 10-year prison sentence to a 26-year-old man who fatally assaulted a train conductor during a ticket inspection in the western state of Rhineland-Palatinate five months ago.\nThe court sitting in Zweibrücken found that the man had attacked the conductor after being found without a ticket, hitting the conductor so hard that he later died of a brain haemorrhag",
-      "link": "https://www.scmp.com/news/world/europe/article/3360005/germany-jails-man-10-years-fatal-attack-train-conductor?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-09T16:17:53.961535+05:00",
-      "age_min": 7.2
-    },
-    {
-      "hash": "3349edf2f2dfce94bf3968071ed63b66",
-      "title": "US strikes Iran for second night – is the peace process all over now?",
-      "summary": "Neither side has officially called off the interim peace agreement, despite the escalation.",
-      "link": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-09T16:17:52.699626+05:00",
-      "age_min": 28.2
     }
   ]
 }
