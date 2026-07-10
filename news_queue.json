@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T23:18:38.426944+05:00",
+  "updated": "2026-07-10T23:35:42.381794+05:00",
   "items": [
     {
       "hash": "7cc7d39a3d7997ee93d881d0a748a8c6",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-07-10T20:19:41.516578+05:00",
       "age_min": 18.5
+    },
+    {
+      "hash": "c46ebd4117729a66829bf0a5be9429d4",
+      "title": "Trump says he will defer to Fed Chairman Kevin Warsh on rate hike",
+      "summary": "",
+      "link": "https://www.washingtonexaminer.com/watch/2727762/",
+      "source": "GDELT/FED_ECB",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-10T23:33:41.279417+05:00",
+      "age_min": 48.7
     },
     {
       "hash": "e7b6fa8358ca6160c770b1839997041b",
@@ -84,6 +96,30 @@
       "status": "new",
       "ts": "2026-07-10T20:15:57.114426+05:00",
       "age_min": 46.0
+    },
+    {
+      "hash": "f54a9834d0675230f1987534094aaeb8",
+      "title": "Matières premières : lor accuse le coup , le cacao et le cuivre profitent",
+      "summary": "",
+      "link": "https://www.lesaffaires.com/bourse/economie/matieres-premieres-lor-accuse-le-coup-le-cacao-et-le-cuivre-profitent/",
+      "source": "GDELT/ENERGY",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-10T23:33:58.695712+05:00",
+      "age_min": 94.0
+    },
+    {
+      "hash": "7095f29582198cf25b4c8408705ae550",
+      "title": "Китай выжидает – зачем Пекину затяжная война в Украине и почему это опасно для мира",
+      "summary": "",
+      "link": "https://unn.ua/ru/news/kitai-vizhidaet-zachem-pekinu-zatyazhnaya-voina-v-ukraine-i-pochemu-eto-opasno-dlya-mira",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-10T23:31:59.141185+05:00",
+      "age_min": 32.0
     },
     {
       "hash": "d2759d1618c5fca0fd9e76ff07cebea8",
@@ -194,18 +230,6 @@
       "age_min": 61.4
     },
     {
-      "hash": "39f8a5ef0f9e0ee576b38577ef1444ca",
-      "title": "US - Iran war : Will peace talks resume , and when ? - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "summary": "",
-      "link": "https://dominicanrepublicpost.com/us-iran-war-will-peace-talks-resume-and-when/",
-      "source": "GDELT/MIDEAST",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T19:32:12.351550+05:00",
-      "age_min": 62.2
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -264,6 +288,42 @@
       "status": "new",
       "ts": "2026-07-10T20:03:59.903493+05:00",
       "age_min": 79.0
+    },
+    {
+      "hash": "49a046b7be55ba91eb348edd2e55558d",
+      "title": "Trump Says Ceasefire With Iran Is Over",
+      "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over. James Jeffrey, former US ambassador to Iraq and Turkey, talks about Trump's objectives in Iran and why the US is targeting infrastructure. He speaks on \"Balance of Power.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-ceasefire-with-iran-is-over-video",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-10T23:35:00.724053+05:00",
+      "age_min": 8.7
+    },
+    {
+      "hash": "93adbd23fa35398009af6d6af4f78a82",
+      "title": "Претседателката на ЕЦБ , Кристин Лагард , ги отфрли шпекулациите за нејзина кандидатура на изборите во Франција",
+      "summary": "",
+      "link": "https://libertas.mk/pretsedatelkata-na-ecb-kristin-lagard-gi-otfrli-shpekulaciite-za-ne-zina-kandidatura-na-izborite-vo-franci-a/",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-10T23:33:41.285586+05:00",
+      "age_min": 33.7
+    },
+    {
+      "hash": "941fe27d232d57842f07694dc3bf3ec3",
+      "title": "Gold and Silver Fall for Week , Market  Over Pricing  Fed Rate Hikes",
+      "summary": "",
+      "link": "https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-fed-rates-071020261",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-10T23:33:41.283159+05:00",
+      "age_min": 33.7
     },
     {
       "hash": "dca6bf86fc3e161a15ebfdfb2fc12990",
@@ -506,6 +566,18 @@
       "age_min": 31.1
     },
     {
+      "hash": "69636708d5ab7badec61763044a8f32a",
+      "title": "Gold Holds Near $4,100 but Remains Vulnerable as USD Strengthens on Fed Rate Hike Bets and Iran Tensions - Bitcoin World",
+      "summary": "Gold Holds Near $4,100 but Remains Vulnerable as USD Strengthens on Fed Rate Hike Bets and Iran Tensions&nbsp;&nbsp;Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUmVMTl9NSlRaNzFtT3hXN1RQWEdqdmRUUEN3OXR5TDdlMmNXS1dfZUJzMzRZaGJ3Skt1OXgtSzVVRl8tZUMwZmU0Qk1PV282ZW12ZzllQjFuWnpEWkZHekhScm1KUVBZVm1OVmsyNmNOZThBSURiNnNEZFdkUVRCc3NvOEVJbnc?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-10T23:35:28.355034+05:00",
+      "age_min": 45.3
+    },
+    {
       "hash": "365cbadc9431e6e32c23b0fd76351892",
       "title": "Gold Heads for Weekly Loss as Middle East Uncertainty and Fed Rate Hike Fears Cap Recovery - Bitcoin World",
       "summary": "Gold Heads for Weekly Loss as Middle East Uncertainty and Fed Rate Hike Fears Cap Recovery&nbsp;&nbsp;Bitcoin World",
@@ -528,78 +600,6 @@
       "status": "new",
       "ts": "2026-07-10T23:18:23.574542+05:00",
       "age_min": 33.2
-    },
-    {
-      "hash": "2902740f043550ae7863323104e5aa8a",
-      "title": "Consumers Rack Up Credit Card Debt Amid Rising Prices and Looming Interest Rate Hikes - AOL.com",
-      "summary": "Consumers Rack Up Credit Card Debt Amid Rising Prices and Looming Interest Rate Hikes&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzBzZWNGUlEyd2ZBTVVsTTdoRmtvZDd0emdBOXVrVjNuTzFMNk1QTHNhTzRkTkFZQ1huVDRBYWlCbVNaV2Z2R3g3Z2xzTmlMQ25SQkpwUlEtZGRqZWNzZExHclFZcXdQbWhHeTIzRlk4c2xqdWV6OW1DaHdKWUFyTA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-10T20:36:19.541463+05:00",
-      "age_min": 77.4
-    },
-    {
-      "hash": "fe08ea5ac8a1290aab6048db3be26e73",
-      "title": "Trump says Iran wants to resume talks with US despite ceasefire breaches",
-      "summary": "US President Donald Trump said on Friday that Washington had agreed to resume discussions with Iran despite declaring an end to the fragile truce that had halted months of conflict between the two countries.\n“The Islamic Republic of Iran has asked us to continue ‘talks.’ We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!” Trump wr",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3360184/trump-says-iran-wants-resume-talks-us-despite-ceasefire-breaches?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-10T20:19:00.712978+05:00",
-      "age_min": 4.3
-    },
-    {
-      "hash": "4dd71ea40280b8337c917ac33759fbef",
-      "title": "Consumers rack up credit card debt amid rising prices and looming interest rate hikes - MSN",
-      "summary": "Consumers rack up credit card debt amid rising prices and looming interest rate hikes&nbsp;&nbsp;MSN",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWGtVMlo4U1V6NEJOazZ4Rm9mZ2QyVms4Qllrbm1CemJpOGkxU04tZXhFNGZjLXMtZDhaNzV2dzV3Wklxc2VmbEpBSlFsdFZJN3BaUzVvOUxwWFBLNm9TbkdpcHJjMzRfa1d5aXhKT1RpZXlaUjB5QXB0YTNYaTc5cThEZDZmbHBUOW1lTDQ1c0xXQzBYUXlhblpmVmNUQkZYaGtnTWZvVHJQUUktc002NnZzbHdQMmNxS0ZIZ3ZvYXhhbGFsNERydEdzTGtfZ0hBSzROOW5XclRGOUZfVXk4d05ZanBTRHFHYkRjejQwVHNHUQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-10T19:34:55.710042+05:00",
-      "age_min": 1.2
-    },
-    {
-      "hash": "2412437a7113dd5f432541625fcd3e9e",
-      "title": "9 months into a ceasefire , Israel now controls nearly 70 % of Gaza",
-      "summary": "",
-      "link": "https://www.kgou.org/world/2026-07-10/9-months-into-a-ceasefire-israel-now-controls-nearly-70-of-gaza",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T23:02:52.390116+05:00",
-      "age_min": 32.9
-    },
-    {
-      "hash": "10725485b57cf8e796affeabd98a66ce",
-      "title": "Trump Appointed Kevin Warsh as the Federal Reserve Chairman. Now He's Assembling an AI Taskforce - International Business Times",
-      "summary": "Trump Appointed Kevin Warsh as the Federal Reserve Chairman. Now He's Assembling an AI Taskforce&nbsp;&nbsp;International Business Times",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPSExtZnpxQWlSSFJ1WFZ4d3AydFlBU1BZeVFjRjFsYVlGb25sMFYwdmx4V2V0Tksxd3pJOW1VeHdyNnI3TVRzbWhnVVBfUnhRT1lTSjNFN05WaEFNRDVydjBuVVFvaDdzNFY3OGRxNEpyUFpIM1NrR0tvdVpFektneU5oR1E5RElMM0x0LVlzdXVhMlFId2pRbmJSQi1sNGxySjR5bWoxcWQ5Q2NOM3p3dVpRQW5PY3c?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-10T23:18:23.574055+05:00",
-      "age_min": 11.4
-    },
-    {
-      "hash": "91fdb91a24ac7a829aff2b7e6236c953",
-      "title": "British Pound Holds Ground As Trump Ceasefire Announcement Shakes USD - Bitcoin World",
-      "summary": "British Pound Holds Ground As Trump Ceasefire Announcement Shakes USD&nbsp;&nbsp;Bitcoin World",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBFdjRrNno2T0FtY0lDSnZULV91YXo3VTRRMzdsTUUzak1lSzVVRWg1YkRrRmROQW0zOEo4RHFNM0NvbHA3d2h0QWRYRE95Nkl5OTY4ajlXeEZMdUt6aHFpQjQyRlhpU05Zd2dMZ0FBaXNVeEpZRXU0UzVJLUc?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-10T23:18:23.576494+05:00",
-      "age_min": 78.2
     }
   ]
 }
