@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T06:15:41.299439+05:00",
+  "updated": "2026-07-10T06:34:51.203046+05:00",
   "items": [
     {
       "hash": "6996f3daf91c1161215269c67bcadb6d",
@@ -36,30 +36,6 @@
       "status": "new",
       "ts": "2026-07-10T02:46:49.216697+05:00",
       "age_min": 31.8
-    },
-    {
-      "hash": "c05be05a1b09415276d6daf834bd5b97",
-      "title": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
-      "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
-      "link": "https://www.bbc.co.uk/news/articles/cwylznzjk04o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T02:20:00.299804+05:00",
-      "age_min": 15.9
-    },
-    {
-      "hash": "2d6f30c27250c7e0eb70dc9dd611effa",
-      "title": "Is the US at war ? Answering your questions about the US - Iran conflict",
-      "summary": "",
-      "link": "https://www.kcra.com/article/is-us-at-war-iran-again/71886606",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T02:17:03.098567+05:00",
-      "age_min": 47.1
     },
     {
       "hash": "b6f7700690b86cc2592e239f7d8b6d33",
@@ -194,6 +170,18 @@
       "age_min": 46.8
     },
     {
+      "hash": "4cb25b09e842dd95c3b060e7a6622a85",
+      "title": "Iran War Updates: U.S. and Iran Sink Into Violent Cycle After Latest Strikes",
+      "summary": "As Iranians buried their slain leader, Ayatollah Ali Khamenei, prospects for a long-term peace deal appeared to be dimming.",
+      "link": "https://www.nytimes.com/live/2026/07/09/world/iran-war-us-trump",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-10T06:18:01.068958+05:00",
+      "age_min": 4.5
+    },
+    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -266,16 +254,16 @@
       "age_min": -1407.6
     },
     {
-      "hash": "d7207b742eb4db8a9120a014ee94bfbd",
-      "title": "You followed our lead : Pauline Hanson calls out Angus Taylor for embracing One Nation agenda after attack on her party",
+      "hash": "d2ac99b1afd44a07e4ac8cb12634aad8",
+      "title": "8 indicted on murder , terrorism conspiracy charges for planned attack on White House UFC event",
       "summary": "",
-      "link": "https://www.skynews.com.au/australia-news/politics/you-followed-our-lead-pauline-hanson-hits-back-at-angus-taylor-after-eternity-of-pain-comments-on-one-nation/news-story/fff35ff064664dd7a3c56232b892dbe6?nk=7d96daacb6e042df41745cae511023d2-1783638988",
-      "source": "GDELT/MACRO",
+      "link": "https://www.cbc.ca/news/world/8-indicted-planned-attack-ufc-white-house-9.7264998",
+      "source": "GDELT/TERRORISM",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-10T06:14:44.513535+05:00",
-      "age_min": -1335.3
+      "ts": "2026-07-10T06:15:55.541695+05:00",
+      "age_min": -1349.1
     },
     {
       "hash": "72d1ba4d75db4ec1e78d4fada163ed31",
@@ -422,18 +410,6 @@
       "age_min": 237.4
     },
     {
-      "hash": "aad82a9a0217be63bbc61a086198fa53",
-      "title": "Mortgage Rates Rise as Iran Ceasefire Crumbles",
-      "summary": "",
-      "link": "https://www.the-messenger.com/news/national/article_ff6f9a03-a3d6-5031-a48c-cb1b40861208.html",
-      "source": "GDELT/MACRO",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T06:14:44.514108+05:00",
-      "age_min": -1350.3
-    },
-    {
       "hash": "96d5500e3379017785159d63966f7770",
       "title": "Strait of Hormuz traffic plummets after renewed strikes , says united kingdom monitor",
       "summary": "",
@@ -518,16 +494,28 @@
       "age_min": 77.9
     },
     {
-      "hash": "d3d20c41ec3682861a89e074c5554822",
-      "title": "CoPF backs tariff policy measures , phased Customs reforms",
-      "summary": "",
-      "link": "https://www.ft.lk/front-page/CoPF-backs-tariff-policy-measures-phased-Customs-reforms/44-794445",
-      "source": "GDELT/SANCTIONS",
+      "hash": "67262c5e1290e707d763a2a807038cc6",
+      "title": "U.S. to continue 'technical talks' with Iran after Trump said ceasefire was 'over'",
+      "summary": "The ceasefire signed last month came under serious strain in recent days as the U.S. and Iranian forces exchanged attacks for consecutive days this week.",
+      "link": "https://www.cnbc.com/2026/07/10/us-iran-war-strikes-strait-of-hormuz-technical-talks-progress-.html",
+      "source": "CNBC",
       "score": 5,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-10T06:13:38.858298+05:00",
-      "age_min": -1321.4
+      "ts": "2026-07-10T06:34:15.501118+05:00",
+      "age_min": 4.8
+    },
+    {
+      "hash": "9d5cf8aeaaafc7413c36cbc05f9badaf",
+      "title": "Uranium , energy pacts with Australia to charge up India",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/news/economy/foreign-trade/uranium-energy-pacts-with-australia-to-charge-up-india/articleshow/132297390.cms",
+      "source": "GDELT/CYBER",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-10T06:33:36.995439+05:00",
+      "age_min": 33.6
     },
     {
       "hash": "f52d6049392277a2330200f29d03239d",
