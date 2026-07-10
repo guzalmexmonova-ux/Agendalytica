@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T01:06:27.112107+05:00",
+  "updated": "2026-07-11T01:19:08.185559+05:00",
   "items": [
     {
       "hash": "c46ebd4117729a66829bf0a5be9429d4",
@@ -84,6 +84,18 @@
       "status": "new",
       "ts": "2026-07-10T21:32:52.719527+05:00",
       "age_min": 92.9
+    },
+    {
+      "hash": "d124108abece15c58edb9ff6347428f8",
+      "title": "Graham : War can end in coming months if everything done right",
+      "summary": "",
+      "link": "https://en.interfax.com.ua/news/general/1184039.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T01:16:13.115011+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "7735dc843ca4bf50f639ff3ebbb85dbc",
@@ -192,18 +204,6 @@
       "status": "new",
       "ts": "2026-07-10T22:02:29.861594+05:00",
       "age_min": 47.5
-    },
-    {
-      "hash": "5fa2f6e33a17d0261e5508a43ef0db1c",
-      "title": "US - Iran war leaves shipping at near - standstill in Hormuz again",
-      "summary": "",
-      "link": "https://www.globalsecurity.org/wmd/library/news/iran/2026/07/iran-260709-unnews01.htm",
-      "source": "GDELT/ENERGY",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T21:17:12.676757+05:00",
-      "age_min": 62.2
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -338,18 +338,6 @@
       "age_min": 49.1
     },
     {
-      "hash": "14095d5d874263d4e8ccf24296c9be7c",
-      "title": "Trump says ceasefire with Iran is over , but questions loom about conflict future",
-      "summary": "",
-      "link": "https://www.wlwt.com/article/president-trump-iran-ceasefire-over-questions-future-of-conflict/71894643",
-      "source": "GDELT/ENERGY",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T21:17:12.672990+05:00",
-      "age_min": 32.2
-    },
-    {
       "hash": "2fd2355403a9574538a5b752755ef0fd",
       "title": "US , Iran likely to hold new nuclear talks in Switzerland next week : Report",
       "summary": "",
@@ -372,6 +360,18 @@
       "status": "new",
       "ts": "2026-07-11T00:18:42.028409+05:00",
       "age_min": 32.4
+    },
+    {
+      "hash": "9833308d668615f3b220a2f26167179c",
+      "title": "Ukrainian drone strikes hit southern Russian refineries and Azov port , officials say",
+      "summary": "",
+      "link": "https://www.euronews.com/my-europe/2026/07/10/ukrainian-drone-strikes-hit-southern-russian-refineries-and-azov-port-officials-say",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T01:16:13.112015+05:00",
+      "age_min": 31.2
     },
     {
       "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
@@ -516,30 +516,6 @@
       "status": "new",
       "ts": "2026-07-10T21:35:02.237500+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "7a9624db7700ca188911ea14af5e7368",
-      "title": "Who is on Fed Chair Kevin Warsh monetary policy review task forces ?",
-      "summary": "",
-      "link": "https://www.thehindubusinessline.com/money-and-banking/who-is-on-fed-chair-kevin-warshs-monetary-policy-review-task-forces/article71206950.ece",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-10T21:18:00.065142+05:00",
-      "age_min": 93.0
-    },
-    {
-      "hash": "0a8e742c961313cd5cdf7e017737b031",
-      "title": "The loudest voices in US-China trade talks? Christmas tree growers",
-      "summary": "It’s not yet the winter holiday season, but Christmas trees are back in the spotlight, caught in the geopolitical tug of war between Washington and Beijing.\nAs the United States and China work to stabilise ties through a newly proposed bilateral trade mechanism, one of the most vocal groups weighing in is not the technology industry or manufacturers, but American Christmas tree growers determined ",
-      "link": "https://www.scmp.com/news/us/article/3360189/loudest-voices-us-china-trade-talks-christmas-tree-growers?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-10T21:11:06.876506+05:00",
-      "age_min": 2.3
     },
     {
       "hash": "69636708d5ab7badec61763044a8f32a",
