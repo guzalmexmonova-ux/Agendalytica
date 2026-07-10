@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T04:18:45.315715+05:00",
+  "updated": "2026-07-11T04:35:22.706393+05:00",
   "items": [
     {
       "hash": "eff00b72edb69f3fb8396d5935bebd0b",
@@ -122,18 +122,6 @@
       "age_min": 23.4
     },
     {
-      "hash": "e0cbabd79e4cbb8656a1faf865b6954a",
-      "title": "Irán tacha de  políticamente motivadas  declaraciones de la OTAN sobre su programa nuclear",
-      "summary": "",
-      "link": "https://www.ultimahora.com/iran-tacha-de-politicamente-motivadas-declaraciones-de-la-otan-sobre-su-programa-nuclear",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T00:32:45.235807+05:00",
-      "age_min": 47.8
-    },
-    {
       "hash": "1bc847f358d361fcbf86da2964fdcf55",
       "title": "Iran war , higher yields , and flailing momentum in tech heighten market risk",
       "summary": "",
@@ -206,18 +194,6 @@
       "age_min": 51.5
     },
     {
-      "hash": "fde2468e22caeb2f016ad0b0269825bc",
-      "title": "Trump admin . to support heavy tariffs on Russian oil in effort to end Ukraine war , sources say",
-      "summary": "",
-      "link": "https://www.cbsnews.com/news/trump-admin-to-support-heavy-tariffs-on-russian-oil-in-effort-to-end-ukraine-war/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T00:33:10.667297+05:00",
-      "age_min": 93.2
-    },
-    {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
       "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
       "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
@@ -252,6 +228,18 @@
       "status": "new",
       "ts": "2026-07-11T01:49:36.663023+05:00",
       "age_min": 34.6
+    },
+    {
+      "hash": "5bd3bdbe7f9eebd52a43670f77cb4a88",
+      "title": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire",
+      "summary": "Lebanese president calls for ‘pressure’ on Israel to start pulling back forces",
+      "link": "https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff",
+      "source": "FT",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T04:34:33.475714+05:00",
+      "age_min": 177.9
     },
     {
       "hash": "0a4bd83bf8d2bdb8d56bd2c2e768a603",
@@ -374,40 +362,16 @@
       "age_min": 0
     },
     {
-      "hash": "319388fab8a87a4c2fe621d8d6d341bb",
-      "title": "No Forward - Looking Guidance Needed : Fed Chair Kevin Warsh Just Dropped an Unmistakable Clue About Interest Rates",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/no-forward-looking-guidance-needed-082600489.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
+      "hash": "c49053808fb301b0907de4c03423bab8",
+      "title": "PCE Inflation & Fed Rate Hikes: September Policy Path Analyzed - equiti.com",
+      "summary": "PCE Inflation & Fed Rate Hikes: September Policy Path Analyzed&nbsp;&nbsp;equiti.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQi02TzhjUy1UR3l4VnlRX1BFdnkwUTVSbkJxVzV6RXNqTWcyTHJQRmRLajdkZGtSU285VVNQLUhZQk02YmdIT0RKSXMwY1RxcjFyYy1mVWpWbjhDYkJfM0k2b3AxdW9CU0JRSk5peE9jcjlVdU9zWXoxT1d2bkFQc0NvZzhGRmg0SDFmZEFHTlpzOW9JUDVyMG1RMUhGMjg2M296b3p0T1FYUnl6OVE?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-11T00:34:35.683955+05:00",
-      "age_min": 49.6
-    },
-    {
-      "hash": "1f6fe370871921a049fd541ae47b8435",
-      "title": "Hospital workers wounded in Israeli drone attack on Gaza Kamal Adwan - Dominican Republic Post – Caribbean News , Business , Travel & Culture",
-      "summary": "",
-      "link": "https://dominicanrepublicpost.com/hospital-workers-wounded-in-israeli-drone-attack-on-gazas-kamal-adwan/",
-      "source": "GDELT/MIDEAST",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T00:33:41.106326+05:00",
-      "age_min": 48.7
-    },
-    {
-      "hash": "367188f325c49bda3372bf7d22848dd2",
-      "title": "Murder , terror charges for suspects in Trump cage fight attack plot",
-      "summary": "",
-      "link": "https://www.channelnewsasia.com/world/murder-terror-charges-suspects-in-trump-cage-fight-attack-plot-6247031",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T00:32:45.235243+05:00",
-      "age_min": 47.8
+      "ts": "2026-07-11T04:35:03.137747+05:00",
+      "age_min": 119.6
     },
     {
       "hash": "926ba0c1ffd4c1a8248946791d353100",
@@ -506,6 +470,18 @@
       "age_min": 45.8
     },
     {
+      "hash": "b4e2da61eb82792c88e939962a59aeb0",
+      "title": "Apple sues OpenAI for stealing trade secrets",
+      "summary": "Apple on Friday sued OpenAI, accusing the artificial intelligence company of orchestrating a campaign to steal the iPhone maker’s trade secrets as it tries to develop its own consumer hardware device.\nThe lawsuit – filed in a federal court in San Jose, California – paints a picture of an aggressive effort by OpenAI to poach Apple employees and extract confidential information to build its own devi",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3360196/apple-sues-openai-stealing-trade-secrets?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T04:34:35.787304+05:00",
+      "age_min": 67.6
+    },
+    {
       "hash": "70c0828fbe6e5dfdf4f09b4730b055f3",
       "title": "Dollar's Recovery Faces Key Test: US CPI And Warsh Testimony In Focus - Bitcoin World",
       "summary": "Dollar's Recovery Faces Key Test: US CPI And Warsh Testimony In Focus&nbsp;&nbsp;Bitcoin World",
@@ -516,6 +492,30 @@
       "status": "new",
       "ts": "2026-07-11T04:04:20.326735+05:00",
       "age_min": 54.2
+    },
+    {
+      "hash": "f52d6049392277a2330200f29d03239d",
+      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
+      "summary": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days&nbsp;&nbsp;LiteFinance",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T04:35:03.135748+05:00",
+      "age_min": 112.0
+    },
+    {
+      "hash": "ad7468094d5a38ee5befa474ceac0a0b",
+      "title": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
+      "summary": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
+      "link": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T04:34:34.352275+05:00",
+      "age_min": 16.4
     }
   ]
 }
