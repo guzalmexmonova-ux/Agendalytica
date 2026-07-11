@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T14:34:22.986840+05:00",
+  "updated": "2026-07-11T14:50:15.726069+05:00",
   "items": [
     {
       "hash": "dbd2961871a64fa03fc64a83a0dedc86",
@@ -24,6 +24,18 @@
       "status": "new",
       "ts": "2026-07-11T11:03:56.750684+05:00",
       "age_min": 123.6
+    },
+    {
+      "hash": "95455d340ae28d1d734fdf304c49c86e",
+      "title": "Покушение на Ермолаева в Монако - в каком состоянии находятся пострадавшие после теракта",
+      "summary": "",
+      "link": "https://24tv.ua/ru/pokushenie-ermolaeva-monako-kakom-sostojanii-nahodjatsja-postradavshie_n3103821",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T14:46:44.613264+05:00",
+      "age_min": 46.7
     },
     {
       "hash": "72e80da3119fb355be473d0190ada8db",
@@ -168,6 +180,30 @@
       "status": "new",
       "ts": "2026-07-11T11:01:21.684855+05:00",
       "age_min": 76.4
+    },
+    {
+      "hash": "17cb336b957252b1e056ddb9773e3f64",
+      "title": "10 injured in overnight Russian missile and drone strikes on Kyiv",
+      "summary": "",
+      "link": "https://lancasteronline.com/news/world/10-injured-in-overnight-russian-missile-and-drone-strikes-on-kyiv/article_3a1fb41a-6fbe-5f88-94bd-036d789e540e.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T14:47:38.211323+05:00",
+      "age_min": 32.6
+    },
+    {
+      "hash": "c42046ba81e3296d2486a7b432c37bb3",
+      "title": "The war in Ukraine is shifting against Putin but he isnt giving in",
+      "summary": "",
+      "link": "https://www.livemint.com/global/russia-ukraine-war-putin-zelensky-nato-11783752589780.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T14:47:38.206150+05:00",
+      "age_min": 32.6
     },
     {
       "hash": "9a4b8f8087dd49cceae583f67fc5aeb0",
@@ -350,18 +386,6 @@
       "age_min": 123.3
     },
     {
-      "hash": "8a420c0e24d7f637ce531cfaf532d06a",
-      "title": "Fed officials fret over inflation risk , weigh rate hikes",
-      "summary": "",
-      "link": "https://economictimes.indiatimes.com/markets/us-stocks/news/fed-officials-fret-over-inflation-risk-weigh-rate-hikes/articleshow/132324219.cms",
-      "source": "GDELT/MACRO",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T10:49:27.447988+05:00",
-      "age_min": 34.5
-    },
-    {
       "hash": "864b2702d1940e035e19b7e2de2624a8",
       "title": "Column : Enhanced NATO nuclear sharing will lead to higher proliferation risks",
       "summary": "",
@@ -398,16 +422,28 @@
       "age_min": 15.7
     },
     {
-      "hash": "a3d1cd17d4901b3f01a7789ba066a402",
-      "title": "Тръмп издаде заповеди , ако Иран направи опит за покушение срещу него",
+      "hash": "b1ff21fccf2249733e5500889802f01b",
+      "title": "Скандал між Україною та Польщею - Туск нагадав про фактор Росії - новини Україна",
       "summary": "",
-      "link": "https://www.dnes.bg/a/2-svyat/728107-tramp-izdade-zapovedi-ako-iran-napravi-opit-za-pokushenie-sreshtu-nego",
-      "source": "GDELT/SUMMITS",
-      "score": 9,
-      "weight": 3,
+      "link": "https://zn.ua/ukr/POLITICS/tusk-pro-krizu-mizh-varshavoju-ta-kijevom-spodivajus-shcho-ukrajintsi-prozrijut-a-poljaki-strimajutsja-.html",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-11T10:49:11.918765+05:00",
-      "age_min": 34.2
+      "ts": "2026-07-11T14:47:38.208624+05:00",
+      "age_min": 62.6
+    },
+    {
+      "hash": "23584338e04294d282d3d74b56df8537",
+      "title": "Ukraine is under attack but defiant",
+      "summary": "",
+      "link": "https://www.prospectmagazine.co.uk/world/europe/ukraine/74066/ukraine-under-attack-defiant",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T14:47:38.206803+05:00",
+      "age_min": 32.6
     },
     {
       "hash": "0113910fcb49a534df54b172165c5e31",
@@ -468,18 +504,6 @@
       "status": "new",
       "ts": "2026-07-11T13:33:36.483988+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "ed9f63381982c6f229fa7ca1537ba3de",
-      "title": "Berlin CDU - SPD government turns German capital into a centre of war production",
-      "summary": "",
-      "link": "https://www.wsws.org/en/articles/2026/07/11/iukm-j11.html",
-      "source": "GDELT/CYBER",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T10:48:49.976392+05:00",
-      "age_min": 33.8
     },
     {
       "hash": "e33c6086735b9cfac59f1156acd9d417",
@@ -566,40 +590,16 @@
       "age_min": 31.4
     },
     {
-      "hash": "4d0305127c623483255b3ee99643ccc3",
-      "title": "China imposes temporary export ban on helium - People Daily Online",
-      "summary": "",
-      "link": "http://en.people.cn/n3/2026/0711/c90000-20476695.html",
-      "source": "GDELT/SANCTIONS",
+      "hash": "00831d0dfc7681335b2aa73185e43df4",
+      "title": "How overlapping US and China sanctions are complicating business in Africa",
+      "summary": "US-imposed sanctions targeting other countries and a growing list of Chinese laws aimed at countering the measures are creating a compliance minefield for African businesses dealing with the world’s top two economies.\nAt risk is a broad range of industries including mining, banking, telecommunications, technology, energy, infrastructure and others in which African businesses are simultaneously exp",
+      "link": "https://www.scmp.com/news/china/diplomacy/article/3360121/how-overlapping-us-and-china-sanctions-are-complicating-business-africa?utm_source=rss_feed",
+      "source": "SCMP",
       "score": 6,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-11T14:18:34.728163+05:00",
-      "age_min": 33.6
-    },
-    {
-      "hash": "4057e3e008a56017be45694c34c75282",
-      "title": "Russia Diesel Export Ban : Russia Diesel Export Ban Triggers Global Supply Crisis and Price Surge , ETAuto",
-      "summary": "",
-      "link": "https://auto.economictimes.indiatimes.com/news/oil-and-lubes/russias-diesel-export-ban-deepens-global-supply-crunch/132324008",
-      "source": "GDELT/SANCTIONS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T14:02:24.996339+05:00",
-      "age_min": 32.4
-    },
-    {
-      "hash": "49ade1504df9fc8698f5d70a593868d4",
-      "title": "В Ростовской области потушили пожары после атак ВСУ",
-      "summary": "Эвакуированные жители Таганрога и Азова могут вернуться домой",
-      "link": "https://tass.ru/obschestvo/27908101",
-      "source": "TASS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T13:50:02.213246+05:00",
-      "age_min": 4.1
+      "ts": "2026-07-11T14:49:27.562348+05:00",
+      "age_min": 229.3
     }
   ]
 }
