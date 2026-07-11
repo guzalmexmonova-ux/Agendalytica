@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T19:20:26.068247+05:00",
+  "updated": "2026-07-11T19:34:44.653650+05:00",
   "items": [
     {
       "hash": "7caf0b4aef05a3b96edb870ed28c10fc",
@@ -84,6 +84,18 @@
       "status": "new",
       "ts": "2026-07-11T16:20:06.483343+05:00",
       "age_min": 20.1
+    },
+    {
+      "hash": "8aaae320e200d7028f8f9da278266456",
+      "title": "Nuclear agreement :  అణు  బంధం",
+      "summary": "",
+      "link": "https://vaartha.com/editorial/nuclear-agreement-anu-bandham/740374/",
+      "source": "GDELT/ENERGY",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T19:33:03.794113+05:00",
+      "age_min": 63.1
     },
     {
       "hash": "aa19445958598196876199055879d80b",
@@ -350,6 +362,18 @@
       "age_min": 64.2
     },
     {
+      "hash": "4434e5fee55a0c61e120a7940ca7f2e6",
+      "title": "Fed Chair Warsh will be in the hot seat as lawmakers press for his read on the economy",
+      "summary": "",
+      "link": "https://www.morningstar.com/news/marketwatch/20260711116/fed-chair-warsh-will-be-in-the-hot-seat-as-lawmakers-press-for-his-read-on-the-economy",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T19:32:45.080749+05:00",
+      "age_min": 62.8
+    },
+    {
       "hash": "84edd558bb50591de7fd0924cbacf950",
       "title": "From proxy war to Gulf rivalry: Yemen’s new battle for influence - Middle East Monitor",
       "summary": "From proxy war to Gulf rivalry: Yemen’s new battle for influence&nbsp;&nbsp;Middle East Monitor",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-11T17:31:10.244212+05:00",
       "age_min": 61.2
-    },
-    {
-      "hash": "d08abdcc29439e2316f8de596c16c857",
-      "title": "Germany once led missile innovation . Why is it now buying America Tomahawks ?",
-      "summary": "",
-      "link": "https://timesofindia.indiatimes.com/defence/international/germany-once-led-missile-innovation-why-is-it-now-buying-americas-tomahawks/articleshow/132329104.cms",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T17:31:10.239596+05:00",
-      "age_min": 46.2
-    },
-    {
-      "hash": "8fbad70d8bd51a96f54977c7952deb5d",
-      "title": "Trump : Talks to continue but ceasefire over",
-      "summary": "",
-      "link": "https://www.omanobserver.om/article/1192621/world/region/trump-talks-to-continue-but-ceasefire-over",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T17:31:10.239251+05:00",
-      "age_min": 46.2
     }
   ]
 }
