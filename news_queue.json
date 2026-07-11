@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:33:44.756731+05:00",
+  "updated": "2026-07-11T16:50:32.826076+05:00",
   "items": [
     {
       "hash": "4cf48571149e7807ffe74d72d27d6a33",
@@ -36,6 +36,18 @@
       "status": "new",
       "ts": "2026-07-11T13:04:09.052055+05:00",
       "age_min": 25.8
+    },
+    {
+      "hash": "98c28fca78c3efda7a1f3a277037c7c9",
+      "title": "Russia strikes Kyiv with ballistic missiles , leaving 10 wounded in latest attack",
+      "summary": "",
+      "link": "https://nypost.com/2026/07/11/world-news/russia-strikes-kyiv-with-ballistic-missiles-leaving-10-wounded-in-latest-attack/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:47:49.757874+05:00",
+      "age_min": 77.8
     },
     {
       "hash": "55c2ac999091a7fab12340ad84a88c0c",
@@ -110,15 +122,15 @@
       "age_min": 31.2
     },
     {
-      "hash": "df2d2fb73e60f3d7af6dd3059ef06abc",
-      "title": "Хиляда ракети ще полетят към Иран : Тръмп с предупреждение в случай на покушение срещу него",
+      "hash": "787783f88792cd6fa3253d7991c40c02",
+      "title": "Russian missile , drone strikes on Kyiv",
       "summary": "",
-      "link": "https://www.focus-news.net/novini/mejdunarodni/Hilyada-raketi-shte-poletyat-kum-Iran-Trump-s-preduprezhdenie-v-sluchai-na-pokushenie-sreshtu-nego-2993891",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
+      "link": "https://www.bostonglobe.com/2026/07/11/world/russian-missile-drone-strikes-on-kyiv/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-11T12:47:45.450649+05:00",
+      "ts": "2026-07-11T16:47:49.758428+05:00",
       "age_min": 32.8
     },
     {
@@ -218,16 +230,16 @@
       "age_min": 34.7
     },
     {
-      "hash": "b8f80b2b8fbb8021bdca1fc8b4a5acdf",
-      "title": "Ukraine War , Day 1 , 599 : Zelensky Announces Command for Long - Range Strikes Inside Russia",
-      "summary": "",
-      "link": "https://eaworldview.com/2026/07/ukraine-war-strikes-zelensky-announces-command-for-long-range-inside-russia/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
+      "hash": "886471aa791cf07a4067899fdf59b793",
+      "title": "Ukraine presses allies for resupply as Russia launches ballistic missiles",
+      "summary": "Russia attacked Ukraine with missiles and drones on Saturday, killing two and wounding 19 others, officials said, as Kyiv awaits supplies of air defence munitions after a shortage has ‌left it exposed to Russian attacks.\nEleven people were wounded in the capital, Kyiv, by an attack that used ballistic and cruise missiles as well as drones.\n“Civilian infrastructure was hit even before the air raid ",
+      "link": "https://www.scmp.com/news/world/europe/article/3360232/ukraine-presses-allies-resupply-russia-launches-ballistic-missiles?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-11T12:48:06.109288+05:00",
-      "age_min": 33.1
+      "ts": "2026-07-11T16:49:49.579762+05:00",
+      "age_min": 1.5
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -266,6 +278,18 @@
       "age_min": 3.5
     },
     {
+      "hash": "ad66cae816bc8e09d88fb86caf57b0b8",
+      "title": "US wants Iran to pledge to stop shooting at ships in Strait of Hormuz",
+      "summary": "Vice-President JD Vance is among US officials expected to take part in negotiations resuming on Saturday in Oman.",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:49:48.474872+05:00",
+      "age_min": 7.0
+    },
+    {
       "hash": "361eb8eed1633859822fab0e45c68035",
       "title": "Trump Announces Fresh Negotiations with Iranian Govt , Declares US - Iran Ceasefire Is Over",
       "summary": "",
@@ -288,6 +312,18 @@
       "status": "new",
       "ts": "2026-07-11T14:32:43.973659+05:00",
       "age_min": 47.7
+    },
+    {
+      "hash": "cda22fb585d2e0f9fbbc8383a581a804",
+      "title": "Finnish President Says China Convinced Russia Wont Use Nuclear Weapons",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/80057",
+      "source": "GDELT/CYBER",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T16:49:09.292511+05:00",
+      "age_min": 64.2
     },
     {
       "hash": "292cc362c5046fc6f50ec7a12c335dd9",
@@ -564,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-11T15:32:54.494746+05:00",
       "age_min": 77.9
-    },
-    {
-      "hash": "e33c6086735b9cfac59f1156acd9d417",
-      "title": "Chinese Long March rocket uses new LNG - derived fuel , achieves breakthrough - Xinhua",
-      "summary": "",
-      "link": "https://english.news.cn/20260711/2d56bfe3e1fc4816a5e9fd861a55a586/c.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T14:32:43.976542+05:00",
-      "age_min": 32.7
-    },
-    {
-      "hash": "338987b08fd2fc7b262e1ad3d1451ca5",
-      "title": "USTDA Deploys US LNG Technology In Nigeria",
-      "summary": "",
-      "link": "https://leadership.ng/ustda-deploys-us-lng-technology-in-nigeria/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T12:49:04.870066+05:00",
-      "age_min": 49.1
     }
   ]
 }
