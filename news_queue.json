@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:50:19.216894+05:00",
+  "updated": "2026-07-11T22:04:31.215741+05:00",
   "items": [
     {
       "hash": "7caf0b4aef05a3b96edb870ed28c10fc",
@@ -182,18 +182,6 @@
       "age_min": 45.8
     },
     {
-      "hash": "75b3597dc1377623b38ea029abc1b883",
-      "title": "Trump says US ready to  destroy  Iran after Israeli intelligence warns of   assassination plot",
-      "summary": "",
-      "link": "https://www.middleeasteye.net/news/trump-says-us-ready-destroy-iran-after-israeli-intelligence-warns-assassination-plot",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T18:01:19.443709+05:00",
-      "age_min": 46.3
-    },
-    {
       "hash": "3c316bfbd3256fd2735375c4c26d708f",
       "title": "11 wounded in overnight Russian missile and drone strikes on Kyiv ; Ukraine attacks Russian vessels",
       "summary": "",
@@ -350,6 +338,18 @@
       "age_min": 7.2
     },
     {
+      "hash": "7951e275a8ef1746a56fa80d1f654bed",
+      "title": "Interest Rate Hike : इस साल के आखिर तक बढ़ेगा बोझ , ब्‍याज दरों में बदलाव का हिंट",
+      "summary": "",
+      "link": "https://navbharattimes.indiatimes.com/business/business-news/interest-rates-to-rise-0-5-per-cent-hike-expected-by-end-of-2026-rising-inflation-risk/articleshow/132333882.cms",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T22:02:31.854329+05:00",
+      "age_min": 32.5
+    },
+    {
       "hash": "e07cd2a08fe842f1337e868d5530fd89",
       "title": "McCaul Backs Deeper US Ukraine Defense Ties",
       "summary": "Rep. Michael McCaul says Ukraine is gaining momentum on the battlefield but urgently needs more Patriot interceptors and stronger air defenses to counter Russia's escalating missile attacks. He urges deeper US-Ukraine defense cooperation, including licensed Patriot production and joint drone development, while arguing sustained military pressure offers the best path to negotiations with Russia. (S",
@@ -398,18 +398,6 @@
       "age_min": 63.8
     },
     {
-      "hash": "bb929dd7a2332989f22a33f7ddd577af",
-      "title": "Talks continue as the US seeks Iranian pledge to free up the Strait of Hormuz , but the ceasefire is over",
-      "summary": "",
-      "link": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/11/talks-continue-as-the-us-seeks-iranian-pledge-to-free-up-the-strait-of-hormuz-but-the-ceasefire-is-over",
-      "source": "GDELT/CONFLICTS",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T18:01:19.449538+05:00",
-      "age_min": 31.3
-    },
-    {
       "hash": "39695bc07bcd4a76d0dc5662e88ffc45",
       "title": "Satellite Imagery Reveals Iran Rebuilding Nuclear Infrastructure Amid US Ultimatum",
       "summary": "",
@@ -432,6 +420,18 @@
       "status": "new",
       "ts": "2026-07-11T21:18:40.869152+05:00",
       "age_min": 48.7
+    },
+    {
+      "hash": "9e186ee475d354178e09b7291ad613c2",
+      "title": "One killed and four wounded in Israeli attack on central Gaza",
+      "summary": "",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/one-killed-and-four-wounded-israeli-attack-central-gaza",
+      "source": "GDELT/MIDEAST",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T22:01:55.457272+05:00",
+      "age_min": 61.9
     },
     {
       "hash": "2afbbdaff39dd694f0ccdb1c94db6df2",
@@ -554,40 +554,16 @@
       "age_min": 107.1
     },
     {
-      "hash": "bb6f4926a13baae5f6469ccfd6260e44",
-      "title": "❗️Представители посольств Литвы, Латвии и Эстонии в Москве отрицают предоставление своего воз [...]",
-      "summary": "❗️Представители посольств Литвы, Латвии и Эстонии в Москве отрицают предоставление своего воздушного пространства Украине для атак на Россию. Об этом говорится в переданном в МИД РФ совместном заявлении временных поверенных стран Балтии, сообщило литовское внешнеполитическое ведомство.",
-      "link": "https://t.me/bbbreaking/233308",
-      "source": "TG/Bloomberg",
-      "score": 6,
+      "hash": "27074d9a4a372bc936f1a47e9fe15267",
+      "title": "Радий Хабиров посетил площадки фестиваля « Медь » в селе Воскресенское",
+      "summary": "",
+      "link": "https://www.bashinform.ru/news/social/2026-07-11/radiy-habirov-posetil-ploschadki-festivalya-med-v-sele-voskresenskoe-4658908",
+      "source": "GDELT/ENERGY",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-11T17:50:55.408693+05:00",
-      "age_min": 4.9
-    },
-    {
-      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
-      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
-      "summary": "",
-      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T17:50:40.810039+05:00",
-      "age_min": 0
-    },
-    {
-      "hash": "34cd2438553a488c95b887c7ebed0dbc",
-      "title": "EU and NATO Members Grapple with War in Iran",
-      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
-      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
-      "source": "Crisis Group",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T17:50:40.808953+05:00",
-      "age_min": 0
+      "ts": "2026-07-11T22:02:48.433297+05:00",
+      "age_min": 32.8
     }
   ]
 }
