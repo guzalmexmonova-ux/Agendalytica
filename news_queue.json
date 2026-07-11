@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T12:20:13.617507+05:00",
+  "updated": "2026-07-11T12:35:18.547534+05:00",
   "items": [
     {
       "hash": "0ed9f8ded36028703ab4d402ccd804a3",
@@ -12,6 +12,18 @@
       "status": "new",
       "ts": "2026-07-11T11:03:56.750684+05:00",
       "age_min": 123.6
+    },
+    {
+      "hash": "79e23af592cd2531537b6039eb5dad0b",
+      "title": "Donald Trump warns Iran against pursuing any assassination attempt",
+      "summary": "",
+      "link": "https://www.edp24.co.uk/news/national/26271953.donald-trump-warns-iran-pursuing-assassination-attempt/",
+      "source": "GDELT/MIDEAST",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T12:31:45.298362+05:00",
+      "age_min": 31.8
     },
     {
       "hash": "aed1710ceae643a6ea46fef77f55722f",
@@ -98,16 +110,16 @@
       "age_min": 32.0
     },
     {
-      "hash": "00c560f2cf1683b6f39f1a61b61837f5",
-      "title": "Iran Trump Assassination Plot ? Israel Intel & US Airstrikes",
+      "hash": "8c8619b3c4d01aeeb12de4239242aee8",
+      "title": "Gaza after war : Hamas intimidation , tent schools and weddings in ruins",
       "summary": "",
-      "link": "https://www.divyabhaskar.co.in/bhaskar-khaas/bhaskar-explainer/news/iran-trump-assassination-plot-israel-us-airstrike-138409228.html",
+      "link": "https://www.ynetnews.com/magazine/article/sjlqh8s7fe",
       "source": "GDELT/MIDEAST",
-      "score": 9,
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-11T08:31:51.816907+05:00",
-      "age_min": 31.9
+      "ts": "2026-07-11T12:31:45.298074+05:00",
+      "age_min": 46.8
     },
     {
       "hash": "117e2e3ec0d669cb92366a45afea8973",
@@ -180,6 +192,18 @@
       "status": "new",
       "ts": "2026-07-11T09:18:15.856573+05:00",
       "age_min": 63.3
+    },
+    {
+      "hash": "b82879abddce0da7fccab0c6ecfe4350",
+      "title": "IRAN WAR WEEK 20 , Ceasefire Day # 27 *: Iran admits it made a mistake , talks resume",
+      "summary": "",
+      "link": "https://www.dailykos.com/stories/2026/7/10/800068107/community/iww-20-ceasef/",
+      "source": "GDELT/SUMMITS",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T12:33:10.283291+05:00",
+      "age_min": 48.2
     },
     {
       "hash": "2e1e9715c772780a459a8e9f788171ac",
@@ -314,18 +338,6 @@
       "age_min": 0
     },
     {
-      "hash": "12f2edb05d52ac18bbad61a62b523f3b",
-      "title": "Дым окутал всю Украину : сокрушительный удар настиг ВСУ после атак на РФ",
-      "summary": "",
-      "link": "https://news.mail.ru/society/71594845/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T08:31:36.810456+05:00",
-      "age_min": 31.6
-    },
-    {
       "hash": "7286ebba781d6aa4af474fab19d304b6",
       "title": "Cambodian villagers fear US$43 million tiger reintroduction plan",
       "summary": "Pan Sok still remembers his relative screaming as a tiger dragged him away one night, deep inside the Cambodian rainforest where they were tapping trees for resin.\nSo he is “not happy” about a plan to reintroduce the big cats, a decade after they were declared extinct in Cambodia.\n“I saw the tiger take him with my own eyes,” he said, describing the attack that took place over 30 years ago. “He was",
@@ -458,66 +470,6 @@
       "age_min": 33.5
     },
     {
-      "hash": "716e1573cd86854fa4da71723abb66db",
-      "title": "IDEX finds tungsten in Idaho copper drilling",
-      "summary": "",
-      "link": "https://www.mining.com/idex-finds-tungsten-in-idaho-copper-drilling/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T08:32:39.653957+05:00",
-      "age_min": 32.7
-    },
-    {
-      "hash": "b5d84e7ac250bcdf17db82776b9a841d",
-      "title": "India trade deal reignites Australia uranium wars",
-      "summary": "",
-      "link": "https://www.bendigoadvertiser.com.au/story/9308720/india-trade-deal-reignites-australias-uranium-wars/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T08:32:39.653101+05:00",
-      "age_min": 77.7
-    },
-    {
-      "hash": "c537a53c3d73f5d387ef3c09b5443ac4",
-      "title": "Copper One Resources Reports High - Grade Copper up to 10 . 5 % Cu and 188 g / t Silver from Majuba Hill Underground Sampling",
-      "summary": "",
-      "link": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2824-cse/cexy/207151-copper-one-reports-high-grade-copper-up-to-10-5-cu-and-188-g-t-silver-from-majuba-hill-underground-sampling.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T08:32:39.651054+05:00",
-      "age_min": 32.7
-    },
-    {
-      "hash": "9d4ec6bff09264847dbf3bf0ec37dbe3",
-      "title": "Giustra : Copper market needs six new mines a year to 2050",
-      "summary": "",
-      "link": "https://www.mining.com/giustra-copper-market-needs-six-new-mines-a-year-to-2050/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T08:32:39.650361+05:00",
-      "age_min": 32.7
-    },
-    {
-      "hash": "a10ea047df1e7d58fb3448430e6444f6",
-      "title": "US demands Iran publicly guarantees Strait of Hormuz is open and safe for ships",
-      "summary": "",
-      "link": "https://www.eppingforestguardian.co.uk/news/national/26271913.us-demands-iran-publicly-guarantees-strait-hormuz-open-safe-ships/",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T08:31:51.821703+05:00",
-      "age_min": 31.9
-    },
-    {
       "hash": "48992c0313af9ce9258a15a6f458196b",
       "title": "Russia’s diesel export ban deals fresh blow to strained energy market",
       "summary": "Russia’s decision to ban diesel exports this week has roiled global energy markets, exacerbating shortages of the industrial fuel and sending prices soaring, even in countries that no longer buy the fuel from Moscow.\nDiesel accounts for the largest share of global oil consumption and soaring prices can ripple through the global economy given its wide range ‌of uses, from industrial machinery and f",
@@ -552,6 +504,30 @@
       "status": "new",
       "ts": "2026-07-11T09:19:13.405355+05:00",
       "age_min": 64.2
+    },
+    {
+      "hash": "6a9c63da5973f04003f374c2f440f4a5",
+      "title": "Trump says US , Iran agree to continue talks but ceasefire over",
+      "summary": "",
+      "link": "https://www.internazionale.it/ultime-notizie-reuters/2026/07/11/trump-says-us-iran-agree-to-continue-talks-but-ceasefire-over",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T12:33:10.284439+05:00",
+      "age_min": 33.2
+    },
+    {
+      "hash": "100a0f58116aa49aacf243d648aabfcb",
+      "title": "Live updates : Iran foreign minister to head to Oman to discuss Strait of Hormuz",
+      "summary": "",
+      "link": "https://us.cnn.com/2026/07/11/world/live-news/iran-war-trump",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T12:33:10.280834+05:00",
+      "age_min": 63.2
     },
     {
       "hash": "f52d6049392277a2330200f29d03239d",
