@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:04:26.028222+05:00",
+  "updated": "2026-07-11T16:20:41.509469+05:00",
   "items": [
     {
       "hash": "aa5dc9af0c687d1d604fedd1ad54007e",
@@ -24,6 +24,18 @@
       "status": "new",
       "ts": "2026-07-11T13:04:09.052055+05:00",
       "age_min": 25.8
+    },
+    {
+      "hash": "cda22fb585d2e0f9fbbc8383a581a804",
+      "title": "Finnish President Says China Convinced Russia Wont Use Nuclear Weapons",
+      "summary": "",
+      "link": "https://www.kyivpost.com/post/80057",
+      "source": "GDELT/CONFLICTS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:15:41.085980+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "55c2ac999091a7fab12340ad84a88c0c",
@@ -120,6 +132,18 @@
       "status": "new",
       "ts": "2026-07-11T12:31:45.298362+05:00",
       "age_min": 31.8
+    },
+    {
+      "hash": "83211705e395e3e3a6d1cb2c7cb760bf",
+      "title": "Fed report cites  stepped - up  inflation due to tariffs , Iran war , AI buildout",
+      "summary": "",
+      "link": "https://www.thedailystar.net/business/news/fed-report-cites-stepped-inflation-due-tariffs-iran-war-ai-buildout-4221166",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:18:51.551929+05:00",
+      "age_min": 48.9
     },
     {
       "hash": "45c0a5642df44a85ca9de00b96c0bbe3",
@@ -252,18 +276,6 @@
       "status": "new",
       "ts": "2026-07-11T12:33:10.283291+05:00",
       "age_min": 48.2
-    },
-    {
-      "hash": "2e1e9715c772780a459a8e9f788171ac",
-      "title": "With a Fragile Ceasefire under Threat, What Future for the Strait of Hormuz?",
-      "summary": "The U.S.-Israeli war with Iran prompted Tehran to close the Strait of Hormuz, allowing only selected ships to pass through. In this Q&amp;A, Crisis Group experts Yasmine Farouk, Chris Newton and Ali Vaez consider what could come next in this vital maritime trade corridor.",
-      "link": "https://www.crisisgroup.org/qna/global/iran-israelpalestine-united-states/fragile-ceasefire-under-threat-what-future-strait-hormuz",
-      "source": "Crisis Group",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T12:19:31.066390+05:00",
-      "age_min": 0
     },
     {
       "hash": "361eb8eed1633859822fab0e45c68035",
@@ -482,6 +494,18 @@
       "age_min": 13.7
     },
     {
+      "hash": "a4798aa8b46013fb73b448435a3bb007",
+      "title": "US urges Iran commit to ending strait strikes | The Arkansas Democrat - Gazette",
+      "summary": "",
+      "link": "https://www.arkansasonline.com/news/2026/jul/11/us-urges-iran-commit-to-ending-strait-strikes/",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:18:18.983696+05:00",
+      "age_min": 48.3
+    },
+    {
       "hash": "3767d95802fee95310ae513c259744bd",
       "title": "Salar de Uyuni is the world largest salt flat , and beneath it lies one of the planet biggest lithium reserves",
       "summary": "",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-11T12:49:04.870066+05:00",
       "age_min": 49.1
-    },
-    {
-      "hash": "7f864117efbe01a07b14f8e3d49bd0b0",
-      "title": "Donald Trump says he believes the ceasefire with Iran is over",
-      "summary": "",
-      "link": "https://www.wbaltv.com/article/what-comes-next-iran-war/71874383",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T12:45:44.902035+05:00",
-      "age_min": 30.7
-    },
-    {
-      "hash": "4d0305127c623483255b3ee99643ccc3",
-      "title": "China imposes temporary export ban on helium - People Daily Online",
-      "summary": "",
-      "link": "http://en.people.cn/n3/2026/0711/c90000-20476695.html",
-      "source": "GDELT/SANCTIONS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T15:04:46.191089+05:00",
-      "age_min": 79.8
     }
   ]
 }
