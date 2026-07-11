@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T08:20:04.849662+05:00",
+  "updated": "2026-07-11T08:34:13.036598+05:00",
   "items": [
     {
       "hash": "9931abb46ee439d1348936a1b9657e7f",
@@ -36,6 +36,18 @@
       "status": "new",
       "ts": "2026-07-11T05:01:20.120320+05:00",
       "age_min": -1393.7
+    },
+    {
+      "hash": "00c560f2cf1683b6f39f1a61b61837f5",
+      "title": "Iran Trump Assassination Plot ? Israel Intel & US Airstrikes",
+      "summary": "",
+      "link": "https://www.divyabhaskar.co.in/bhaskar-khaas/bhaskar-explainer/news/iran-trump-assassination-plot-israel-us-airstrike-138409228.html",
+      "source": "GDELT/MIDEAST",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:31:51.816907+05:00",
+      "age_min": 31.9
     },
     {
       "hash": "9199ec9fe0924f9b70be61828bc5efdd",
@@ -338,6 +350,18 @@
       "age_min": 9.8
     },
     {
+      "hash": "12f2edb05d52ac18bbad61a62b523f3b",
+      "title": "Дым окутал всю Украину : сокрушительный удар настиг ВСУ после атак на РФ",
+      "summary": "",
+      "link": "https://news.mail.ru/society/71594845/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:31:36.810456+05:00",
+      "age_min": 31.6
+    },
+    {
       "hash": "5ac219d837acc09d7c30680d4296419c",
       "title": "Television Q & A : Is there news from the front about  The Undeclared War ?",
       "summary": "",
@@ -482,6 +506,66 @@
       "age_min": 10.8
     },
     {
+      "hash": "716e1573cd86854fa4da71723abb66db",
+      "title": "IDEX finds tungsten in Idaho copper drilling",
+      "summary": "",
+      "link": "https://www.mining.com/idex-finds-tungsten-in-idaho-copper-drilling/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:32:39.653957+05:00",
+      "age_min": 32.7
+    },
+    {
+      "hash": "b5d84e7ac250bcdf17db82776b9a841d",
+      "title": "India trade deal reignites Australia uranium wars",
+      "summary": "",
+      "link": "https://www.bendigoadvertiser.com.au/story/9308720/india-trade-deal-reignites-australias-uranium-wars/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:32:39.653101+05:00",
+      "age_min": 77.7
+    },
+    {
+      "hash": "c537a53c3d73f5d387ef3c09b5443ac4",
+      "title": "Copper One Resources Reports High - Grade Copper up to 10 . 5 % Cu and 188 g / t Silver from Majuba Hill Underground Sampling",
+      "summary": "",
+      "link": "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2824-cse/cexy/207151-copper-one-reports-high-grade-copper-up-to-10-5-cu-and-188-g-t-silver-from-majuba-hill-underground-sampling.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:32:39.651054+05:00",
+      "age_min": 32.7
+    },
+    {
+      "hash": "9d4ec6bff09264847dbf3bf0ec37dbe3",
+      "title": "Giustra : Copper market needs six new mines a year to 2050",
+      "summary": "",
+      "link": "https://www.mining.com/giustra-copper-market-needs-six-new-mines-a-year-to-2050/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:32:39.650361+05:00",
+      "age_min": 32.7
+    },
+    {
+      "hash": "a10ea047df1e7d58fb3448430e6444f6",
+      "title": "US demands Iran publicly guarantees Strait of Hormuz is open and safe for ships",
+      "summary": "",
+      "link": "https://www.eppingforestguardian.co.uk/news/national/26271913.us-demands-iran-publicly-guarantees-strait-hormuz-open-safe-ships/",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T08:31:51.821703+05:00",
+      "age_min": 31.9
+    },
+    {
       "hash": "addce176c9fd2cd8bdd776fcbe3eeacb",
       "title": "Последняя ракета Зеленского взорвёт Киев : главная новость СВО 11 июля",
       "summary": "",
@@ -516,90 +600,6 @@
       "status": "new",
       "ts": "2026-07-11T07:32:23.364236+05:00",
       "age_min": 32.4
-    },
-    {
-      "hash": "9a27fe387d8efc394a99052a12cf3522",
-      "title": "CENTCOM sends 20 US warships and two aircraft carriers toward Iran after Trump threatens to reinstate naval blockade",
-      "summary": "",
-      "link": "https://freerepublic.com/focus/f-news/4387521/posts",
-      "source": "GDELT/FED_ECB",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T07:19:12.119296+05:00",
-      "age_min": 19.2
-    },
-    {
-      "hash": "ee1965241c9e5606a4e333d81504913b",
-      "title": "ஹார்முஸ் நீரிணை பதற்றம் : கப்பல் போக்குவரத்துக்கு திறந்துவைக்க ஈரானுக்கு அமெரிக்கா கடும் அழுத்தம் . Hormuz Strait Tensions : US presses Iran to keep shipping lane open and safe",
-      "summary": "",
-      "link": "https://www.maalaimalar.com/news/world/us-demand-iran-to-publicly-declare-hormuz-open-wont-attack-ships",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T06:32:24.799703+05:00",
-      "age_min": 32.4
-    },
-    {
-      "hash": "82509f9fd144e7de6c7d8f7db9690a43",
-      "title": "US demands Iran publicly guarantees Strait of Hormuz is open and safe for ships",
-      "summary": "",
-      "link": "https://www.countytimes.co.uk/news/national/26271913.us-demands-iran-publicly-guarantees-strait-hormuz-open-safe-ships/",
-      "source": "GDELT/MIDEAST",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T06:32:24.796721+05:00",
-      "age_min": 32.4
-    },
-    {
-      "hash": "461a157c877144f2bd246210acbc257b",
-      "title": "India trade deal reignites Australia uranium wars",
-      "summary": "",
-      "link": "https://www.illawarramercury.com.au/story/9308720/india-trade-deal-reignites-australias-uranium-wars/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T06:20:07.896122+05:00",
-      "age_min": 20.1
-    },
-    {
-      "hash": "c87cd75033e4ff9bb3eb4f1765917c51",
-      "title": "2026 - 07 - 10 | Copper One Reports High - Grade Copper up to 10 . 5 % Cu and 188 g / t Silver from Majuba Hill Underground Sampling | CSE : CEXY",
-      "summary": "",
-      "link": "https://stockhouse.com/news/press-releases/2026/07/10/copper-one-reports-high-grade-copper-up-to-10-5-cu-and-188-g-t-silver-from",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T06:20:07.894697+05:00",
-      "age_min": 20.1
-    },
-    {
-      "hash": "abe42f267bdc5347c684e951ef5b2847",
-      "title": "Official absence delays tariff decision",
-      "summary": "",
-      "link": "https://tribune.com.pk/story/2617603/officials-absence-delays-tariff-decision",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T06:20:07.894183+05:00",
-      "age_min": 20.1
-    },
-    {
-      "hash": "e27af529691f2ac69391c9710d88b147",
-      "title": "Business leaders seek tariff relief at solar expo",
-      "summary": "",
-      "link": "https://tribune.com.pk/story/2617604/business-leaders-seek-tariff-relief-at-solar-expo",
-      "source": "GDELT/FED_ECB",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T06:19:43.812483+05:00",
-      "age_min": 19.7
     }
   ]
 }
