@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T06:15:14.387741+05:00",
+  "updated": "2026-07-11T06:24:51.050591+05:00",
   "items": [
     {
       "hash": "eff00b72edb69f3fb8396d5935bebd0b",
@@ -218,18 +218,6 @@
       "age_min": 79.5
     },
     {
-      "hash": "685ca0eb3aff6c141fa973df69d78531",
-      "title": "Fed report cites  stepped - up  inflation due to tariffs , Iran war , AI buildout | WSAU News / Talk 550 AM · 99 . 9 FM",
-      "summary": "",
-      "link": "https://wsau.com/2026/07/10/fed-report-cites-stepped-up-inflation/",
-      "source": "GDELT/FED_ECB",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T02:19:17.060298+05:00",
-      "age_min": 49.3
-    },
-    {
       "hash": "725aa49709020b8481191b667e86874e",
       "title": "Iran war live: US demands Iran publicly state Strait of Hormuz open for all",
       "summary": "US said to be pushing for public statement that Iran will not fire at commercial ships passing through Strait of Hormuz",
@@ -324,6 +312,18 @@
       "status": "new",
       "ts": "2026-07-11T03:17:02.879568+05:00",
       "age_min": 32.0
+    },
+    {
+      "hash": "1c3f3418f6b05a8edcf0d386932606dd",
+      "title": "Wall Street Review : Tech Stocks Regain Market Lead Amid Rising Oil Prices and Bond Yields",
+      "summary": "",
+      "link": "https://www.theepochtimes.com/business/wall-street-review-tech-stocks-regain-market-lead-amid-rising-oil-prices-and-bond-yields-6060353",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T06:19:43.806322+05:00",
+      "age_min": 19.7
     },
     {
       "hash": "245c6ed4622835651a19fe602a251de1",
@@ -422,18 +422,6 @@
       "age_min": 34.5
     },
     {
-      "hash": "d7cbb7a15da328652d096abacac2125c",
-      "title": "Gold struggles around $4 , 100 as markets await CPI and Warsh Capitol Hill debut",
-      "summary": "",
-      "link": "http://www.kitco.com/news/article/2026-07-10/gold-struggles-around-4100-markets-await-cpi-and-warshs-capitol-hill-debut",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T02:19:17.059272+05:00",
-      "age_min": 34.3
-    },
-    {
       "hash": "fa781e757f4ad052a28b40697aaed883",
       "title": "Bank of Korea Poised for First Rate Hike in 3.5 Years; Pace of Further Tightening in Focus - finance.biggo.com",
       "summary": "Bank of Korea Poised for First Rate Hike in 3.5 Years; Pace of Further Tightening in Focus&nbsp;&nbsp;finance.biggo.com",
@@ -468,6 +456,66 @@
       "status": "new",
       "ts": "2026-07-11T03:20:07.247784+05:00",
       "age_min": 53.9
+    },
+    {
+      "hash": "461a157c877144f2bd246210acbc257b",
+      "title": "India trade deal reignites Australia uranium wars",
+      "summary": "",
+      "link": "https://www.illawarramercury.com.au/story/9308720/india-trade-deal-reignites-australias-uranium-wars/",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T06:20:07.896122+05:00",
+      "age_min": 20.1
+    },
+    {
+      "hash": "c87cd75033e4ff9bb3eb4f1765917c51",
+      "title": "2026 - 07 - 10 | Copper One Reports High - Grade Copper up to 10 . 5 % Cu and 188 g / t Silver from Majuba Hill Underground Sampling | CSE : CEXY",
+      "summary": "",
+      "link": "https://stockhouse.com/news/press-releases/2026/07/10/copper-one-reports-high-grade-copper-up-to-10-5-cu-and-188-g-t-silver-from",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T06:20:07.894697+05:00",
+      "age_min": 20.1
+    },
+    {
+      "hash": "abe42f267bdc5347c684e951ef5b2847",
+      "title": "Official absence delays tariff decision",
+      "summary": "",
+      "link": "https://tribune.com.pk/story/2617603/officials-absence-delays-tariff-decision",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T06:20:07.894183+05:00",
+      "age_min": 20.1
+    },
+    {
+      "hash": "e27af529691f2ac69391c9710d88b147",
+      "title": "Business leaders seek tariff relief at solar expo",
+      "summary": "",
+      "link": "https://tribune.com.pk/story/2617604/business-leaders-seek-tariff-relief-at-solar-expo",
+      "source": "GDELT/FED_ECB",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T06:19:43.812483+05:00",
+      "age_min": 19.7
+    },
+    {
+      "hash": "12ce328dc11e02eb6a83dc8377c7be1a",
+      "title": "US agrees to resume Iran talks , says Trump ; declares ceasefire  over",
+      "summary": "",
+      "link": "https://www.rediff.com/news/report/us-agrees-to-resume-iran-talks-says-trump-declares-ceasefire-over/20260711.htm",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T06:15:44.889859+05:00",
+      "age_min": 75.7
     },
     {
       "hash": "a64eb34f5e31587fdf8637e11ea84f31",
@@ -552,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-11T04:48:43.194785+05:00",
       "age_min": 33.7
-    },
-    {
-      "hash": "dd5ba04f995a506879fe28587f9e4c26",
-      "title": "International Business: Warsh gives Fed a new look - Gulf Daily News (Bahrain)",
-      "summary": "International Business: Warsh gives Fed a new look&nbsp;&nbsp;Gulf Daily News (Bahrain)",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE84akhlZzNmZFRJdDFSNlpYLUxrekdwOXpTbi0wdlB5YUd6VDJ2MnJhSnpvQk4tcmNCV205eDBmVUlHcV9rV3d3S1JvVWUybEVCMTc5aGVOZi1waDQ1U3QycVJJN1pMeFNrUDRqLVR2VUdBMXJlWkVZ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T06:05:01.163252+05:00",
-      "age_min": 4.3
-    },
-    {
-      "hash": "45ff989acb1332006a800e6c753cb57d",
-      "title": "Forecasting the upcoming week: US CPI and Warsh testimony to test the Dollar’s recovery - TMGM",
-      "summary": "Forecasting the upcoming week: US CPI and Warsh testimony to test the Dollar’s recovery&nbsp;&nbsp;TMGM",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQanhqQVd4c2lHVEJaMmlwYVByOEpwUnVlT3pWSDZtZVkzc3ZwcTRoZlZqQUlUM3JlNEYzX3RRQzdQVFFtZFY0Ukp0aVhYblJWTGZmV0diclpXaklSWHR2aS1QNkVNN0Y5M3oyX0o2OHlTLUtLYmhNQjR6NzZzRHo0VlNudHBDcElPUy1STjVqNkh6Y3VZaDdJZWUzMUsxbGRIM3VDZ0JuWThmM3JndWZFb3BMMmJldHFjbVdEQXBqRFEyT09MdFRoMGgxUWNHbWluNkR1VkpXWm93Z2d2aWZTaGZhdDVvUQ?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T05:52:53.834430+05:00",
-      "age_min": 102.1
-    },
-    {
-      "hash": "f52d6049392277a2330200f29d03239d",
-      "title": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days - LiteFinance",
-      "summary": "Gold (XAU/USD) Price Forecast for Today, Tomorrow, Next Week, and the Next 30 Days&nbsp;&nbsp;LiteFinance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ1BXeVdPR08tTmQ4MHdZMkloUzlsNjRjSE5VVmxyeVRrdDZqbDI3Tm5VVUdfYTdZM0dOYjkzVFBuMGhJUzZEM3E0RDBkc0RTUXd2VFdMdm5uenpPXzJobUNvRklvRkt0S0pfYkZ0UWRXaWRDc09MR1pBUkVDRXN2Y2FINkVmUDBlRkZHNGhzZkNyNk5LUzZrM2VUV1pVOV9N?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T05:52:53.832677+05:00",
-      "age_min": 5.6
     }
   ]
 }
