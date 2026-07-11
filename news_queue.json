@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T15:51:10.486645+05:00",
+  "updated": "2026-07-11T16:04:26.028222+05:00",
   "items": [
     {
       "hash": "aa5dc9af0c687d1d604fedd1ad54007e",
@@ -216,18 +216,6 @@
       "status": "new",
       "ts": "2026-07-11T12:31:45.298074+05:00",
       "age_min": 46.8
-    },
-    {
-      "hash": "117e2e3ec0d669cb92366a45afea8973",
-      "title": "Fed report cites  stepped - up  inflation due to tariffs , Iran war , AI buildout",
-      "summary": "",
-      "link": "https://www.ksl.com:443/article/51596357/fed-report-cites-stepped-up-inflation-due-to-tariffs-iran-war-ai-buildout",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-11T12:03:48.335493+05:00",
-      "age_min": 48.8
     },
     {
       "hash": "e0831ee9a898224e92da3969189b6535",
@@ -482,6 +470,66 @@
       "age_min": 0
     },
     {
+      "hash": "bd62401a0a8fc8baa64ed7becc524998",
+      "title": "Iran’s Top Diplomat in Oman for Talks on Strait of Hormuz",
+      "summary": "The Iranian foreign minister landed in Muscat on Saturday. A standoff over the strait this week set off heavy clashes between the U.S. and Iran.",
+      "link": "https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html",
+      "source": "NYT World",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-11T16:03:37.655194+05:00",
+      "age_min": 13.7
+    },
+    {
+      "hash": "3767d95802fee95310ae513c259744bd",
+      "title": "Salar de Uyuni is the world largest salt flat , and beneath it lies one of the planet biggest lithium reserves",
+      "summary": "",
+      "link": "https://timesofindia.indiatimes.com/world/rest-of-world/salar-de-uyuni-is-the-worlds-largest-salt-flat-and-beneath-it-lies-one-of-the-planets-biggest-lithium-reserves/articleshow/132326850.cms",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:02:46.958868+05:00",
+      "age_min": 32.8
+    },
+    {
+      "hash": "b030c98026259221739dbcb059ba272c",
+      "title": "Chinese Long March rocket uses new LNG - derived fuel , achieves breakthrough",
+      "summary": "",
+      "link": "http://thepeninsulaqatar.com/article/11/07/2026/chinese-long-march-rocket-uses-new-lng-derived-fuel-achieves-breakthrough",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:02:46.953737+05:00",
+      "age_min": 32.8
+    },
+    {
+      "hash": "62f3f6684ad2494d11590ce64537efd1",
+      "title": "Oil prices settle lower on hopes for smoother shipping in Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.thedailystar.net/business/news/oil-prices-settle-lower-hopes-smoother-shipping-strait-hormuz-4221161",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:01:15.037873+05:00",
+      "age_min": 31.3
+    },
+    {
+      "hash": "57345750dc318518aa2837fcd60457da",
+      "title": "Trump issues fresh warning as US demands Iran secure Strait of Hormuz",
+      "summary": "",
+      "link": "https://www.theweek.in/news/middle-east/2026/07/11/trump-issues-fresh-warning-as-us-demands-iran-secure-strait-of-hormuz.html",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-11T16:01:15.035588+05:00",
+      "age_min": 31.3
+    },
+    {
       "hash": "0b4af02fe44e5500c5946b880be51500",
       "title": "Shock Price Hike : Tata Steel and Tata Steel UISL Propose Up To 17 % Power Tariff Hike",
       "summary": "",
@@ -552,54 +600,6 @@
       "status": "new",
       "ts": "2026-07-11T15:04:46.191089+05:00",
       "age_min": 79.8
-    },
-    {
-      "hash": "4057e3e008a56017be45694c34c75282",
-      "title": "Russia Diesel Export Ban : Russia Diesel Export Ban Triggers Global Supply Crisis and Price Surge , ETAuto",
-      "summary": "",
-      "link": "https://auto.economictimes.indiatimes.com/news/oil-and-lubes/russias-diesel-export-ban-deepens-global-supply-crunch/132324008",
-      "source": "GDELT/SANCTIONS",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T15:04:46.188336+05:00",
-      "age_min": 94.8
-    },
-    {
-      "hash": "00831d0dfc7681335b2aa73185e43df4",
-      "title": "How overlapping US and China sanctions are complicating business in Africa",
-      "summary": "US-imposed sanctions targeting other countries and a growing list of Chinese laws aimed at countering the measures are creating a compliance minefield for African businesses dealing with the world’s top two economies.\nAt risk is a broad range of industries including mining, banking, telecommunications, technology, energy, infrastructure and others in which African businesses are simultaneously exp",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3360121/how-overlapping-us-and-china-sanctions-are-complicating-business-africa?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T14:49:27.562348+05:00",
-      "age_min": 229.3
-    },
-    {
-      "hash": "4b887752d2745f77abd515a8230d5498",
-      "title": "Araghchi arrives in Muscat for talks on Strait of Hormuz , regional developments",
-      "summary": "",
-      "link": "https://www.presstv.ir/Detail/2026/07/11/772014/Araghchi-arrives-Muscat-Strait-Hormuz,-regional-developments",
-      "source": "GDELT/SUMMITS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T15:49:55.286481+05:00",
-      "age_min": 34.9
-    },
-    {
-      "hash": "7f8946e21fcaacff8176e42b97b1d48e",
-      "title": "Yemeni resistance shatters blockade with Iranian backing and issues severe warnings to Saudi Arabia - Bankingnews",
-      "summary": "Yemeni resistance shatters blockade with Iranian backing and issues severe warnings to Saudi Arabia&nbsp;&nbsp;Bankingnews",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa3dPTEktVXNFRHVPNWJoYmVpWjNxVmVvLU5GZ1h4WlEtSUg5MERjTkM5U2R5RmFKTlY3ak1WdVV5T1J4a1JoU3FDMmhaelF4WlF5V1p3MXhOdGFodmZLZDgzRFdzY19fMUw3bGJDdklUenVhRGFnLTQ1YklYaGFTSDViajBlVEJKbFVYMFJIem1BclNRaU90czRNQXR5dFRuTU5BMkt3aXZKYWxfRVNwSTA1REw5WklvNVc2MVRsSW5XZ1FSd1hqYzdDc0wzNGNmOXU5cWlhMVhWYXVMU0d5bmFDSE13enRIMGpIMGMwMkY?oc=5",
-      "source": "GNews/Mideast",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-11T15:08:18.258940+05:00",
-      "age_min": 104.0
     }
   ]
 }
