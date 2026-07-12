@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T06:34:18.346835+05:00",
+  "updated": "2026-07-12T06:51:18.552939+05:00",
   "items": [
     {
       "hash": "08bf53240247bf09a5e3e692e822370d",
@@ -26,6 +26,18 @@
       "age_min": 113.4
     },
     {
+      "hash": "6c33e98cc0ccf2463ff6754d8b215152",
+      "title": "US Ambassador to Israel confirms Israel warned of Iran assassination plan",
+      "summary": "",
+      "link": "http://www.jpost.com/middle-east/iran-news/article-902178",
+      "source": "GDELT/TERRORISM",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T06:47:44.693304+05:00",
+      "age_min": 32.7
+    },
+    {
       "hash": "e849efe6e731271d8602be47c90b0975",
       "title": "Russia threatens nuclear weapon use if existence is endangered",
       "summary": "",
@@ -36,18 +48,6 @@
       "status": "new",
       "ts": "2026-07-12T03:17:00.039385+05:00",
       "age_min": 17.0
-    },
-    {
-      "hash": "eeb93aa40aaf5123770e158d6cb92639",
-      "title": "Приговор за покушение на теракт , критика ОБСЕ и раскол в оппозиции – Грузия за неделю",
-      "summary": "",
-      "link": "https://sputnik-georgia.ru/20260711/prigovor-za-pokushenie-na-terakt-kritika-obse-i-raskol-v-oppozitsii--gruziya-za-nedelyu-299585696.html",
-      "source": "GDELT/TERRORISM",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-12T02:47:04.314659+05:00",
-      "age_min": 62.1
     },
     {
       "hash": "f0adf040fa0d5b5f417a96d40eee1768",
@@ -194,6 +194,30 @@
       "age_min": 77.7
     },
     {
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
+      "summary": "",
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-12T06:50:27.374952+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-12T06:50:27.373923+05:00",
+      "age_min": 0
+    },
+    {
       "hash": "550a2305eaa029d908e69470618076c9",
       "title": "Trump suggests massive immediate attack if he is assassinated | News , Sports , Jobs",
       "summary": "",
@@ -278,18 +302,6 @@
       "age_min": 37.6
     },
     {
-      "hash": "b9a9026d0a5dca37bbf5c3f0fe16d8f2",
-      "title": "Israel Police arrest four settlers for attack on CNN crew in West Bank",
-      "summary": "",
-      "link": "http://www.jpost.com/israel-news/article-902170",
-      "source": "GDELT/TERRORISM",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-12T02:47:04.314336+05:00",
-      "age_min": 62.1
-    },
-    {
       "hash": "6ec784c00f4bd5b85c8a409b6074b0c5",
       "title": "Bitcoin Faces Pressure Amid Fed Rate Hike Speculation and Geopolitical Risks, Yet ETF Flows Signal Cautious Optimism - InteractiveCrypto",
       "summary": "Bitcoin Faces Pressure Amid Fed Rate Hike Speculation and Geopolitical Risks, Yet ETF Flows Signal Cautious Optimism&nbsp;&nbsp;InteractiveCrypto",
@@ -312,6 +324,54 @@
       "status": "new",
       "ts": "2026-07-12T04:50:40.388797+05:00",
       "age_min": 110.6
+    },
+    {
+      "hash": "c82537881f8e20fa096cd91609abb2e3",
+      "title": "Iran elite fears losing Strait of Hormuz if Israel joins IMEC project",
+      "summary": "",
+      "link": "http://www.jpost.com/middle-east/iran-news/article-902182",
+      "source": "GDELT/MIDEAST",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T06:48:16.785842+05:00",
+      "age_min": 33.3
+    },
+    {
+      "hash": "5696bc8d832f64c7b012e299f3816313",
+      "title": "Mass Protests Erupt in Sweden Over Israeli Strikes and Ceasefire Violations in Gaza",
+      "summary": "",
+      "link": "https://www.islamicinvitationturkey.com/mass-protests-erupt-in-sweden-over-israeli-strikes-and-ceasefire-violations-in-gaza/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T06:45:48.654412+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "fe576152cf9a94a062e6648995b0f21f",
+      "title": "Trump Strikes Back At Iran After Strait of Hormuz Is Closed",
+      "summary": "",
+      "link": "https://www.mediaite.com/media/news/trump-strikes-back-at-iran-after-irgc-declares-strait-of-hormuz-is-closed-again/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T06:45:48.652740+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "7d05a46b018f293943e13fdd1476010e",
+      "title": "Iran attacks ship in Strait of Hormuz , declares waterway  closed until further notice",
+      "summary": "",
+      "link": "https://www.ynetnews.com/article/s1fgn8enme",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T06:45:48.650534+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "8e5cc3a353e6ef9f5b5b21fdee66fe1e",
@@ -494,6 +554,30 @@
       "age_min": 9.5
     },
     {
+      "hash": "4f42a5d34386f5a968290c6908972f6c",
+      "title": "Iran tells US attacks in Strait of Hormuz were misstep , signals willingness to continue talks : Report",
+      "summary": "",
+      "link": "http://www.southeastasiapost.com/news/279181695/iran-tells-us-attacks-in-strait-of-hormuz-were-misstep-signals-willingness-to-continue-talks-report",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-12T06:50:05.207497+05:00",
+      "age_min": 35.1
+    },
+    {
+      "hash": "64b76688ff868bff9781b679aa871693",
+      "title": "Iran , Oman hold talks in Muscat , discuss Strait of Hormuz security and bilateral ties",
+      "summary": "",
+      "link": "http://www.southeastasiapost.com/news/279181587/iran-oman-hold-talks-in-muscat-discuss-strait-of-hormuz-security-and-bilateral-ties",
+      "source": "GDELT/SUMMITS",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-12T06:50:05.205483+05:00",
+      "age_min": 35.1
+    },
+    {
       "hash": "3c54cbc4dae207c38b1fbbec888cf0e3",
       "title": "Fed Interest Rate Outlook July 2026: Hawkish Turn & Inflation Surge - Intellectia AI",
       "summary": "Fed Interest Rate Outlook July 2026: Hawkish Turn & Inflation Surge&nbsp;&nbsp;Intellectia AI",
@@ -516,42 +600,6 @@
       "status": "new",
       "ts": "2026-07-12T05:49:37.721451+05:00",
       "age_min": 19.6
-    },
-    {
-      "hash": "fa649838358447a65c6159e984bb72fe",
-      "title": "Iran , Oman hold talks in Muscat , discuss Strait of Hormuz security and bilateral ties",
-      "summary": "",
-      "link": "http://www.russiaherald.com/news/279181587/iran-oman-hold-talks-in-muscat-discuss-strait-of-hormuz-security-and-bilateral-ties",
-      "source": "GDELT/SUMMITS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-12T05:49:37.720718+05:00",
-      "age_min": 19.6
-    },
-    {
-      "hash": "02c0958b29ef039afbc1715007cea7a0",
-      "title": "Iran declares Strait of Hormuz closed, US launches new strikes",
-      "summary": "Iran on Sunday said ⁠it closed the Strait of Hormuz after a vessel travelled on an unapproved route and was struck, warning that any retaliation over the incident would be met with a “severe response”.\n“A vessel that had jeopardised maritime security by switching off its systems was struck and brought to a halt,” the Navy of Iran’s Islamic Revolutionary Guard Corps said in a statement, without giv",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3360254/iran-declares-strait-hormuz-closed-us-launches-new-strikes?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-12T05:03:41.072840+05:00",
-      "age_min": 3.3
-    },
-    {
-      "hash": "f6c7d6414adae8e2877dae3520111556",
-      "title": "Iran tells US attacks in Strait of Hormuz were misstep , signals willingness to continue talks : Report",
-      "summary": "",
-      "link": "https://aninews.in/news/world/us/iran-tells-us-attacks-in-strait-of-hormuz-were-misstep-signals-willingness-to-continue-talks-report20260712035316/",
-      "source": "GDELT/SUMMITS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-12T03:54:39.735825+05:00",
-      "age_min": 9.7
     }
   ]
 }
