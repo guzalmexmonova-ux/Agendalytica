@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T11:20:36.817319+05:00",
+  "updated": "2026-07-12T11:24:13.886823+05:00",
   "items": [
     {
       "hash": "16d279ce98abd8d8f58434371ecbc066",
@@ -26,6 +26,18 @@
       "age_min": 107.9
     },
     {
+      "hash": "1bdf780207eba06610afb8c4758eef67",
+      "title": "How an assassination by Trump and Netanyahu became a victory for their enemy",
+      "summary": "",
+      "link": "https://www.watoday.com.au/world/middle-east/how-an-assassination-by-trump-and-netanyahu-became-a-victory-for-their-enemy-20260712-p60elz.html",
+      "source": "GDELT/MIDEAST",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T11:22:01.849961+05:00",
+      "age_min": 22.0
+    },
+    {
       "hash": "bca8b677f85b39d388b4a7dfb5282729",
       "title": "Kim Jong - un Leads Meeting on Growing  Quality and Quantity  of North Korea Nuclear Force",
       "summary": "",
@@ -36,6 +48,18 @@
       "status": "new",
       "ts": "2026-07-12T09:46:22.328482+05:00",
       "age_min": 106.4
+    },
+    {
+      "hash": "74addedd8b7a9d5efb1b5282a7060d86",
+      "title": "IDF reveals operational orders to launch Second Lebanon War 20 years later",
+      "summary": "",
+      "link": "http://www.jpost.com/middle-east/article-902189",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-12T11:22:01.847720+05:00",
+      "age_min": 22.0
     },
     {
       "hash": "c4ab6f2d677d810d8549f4d39788dd95",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-12T09:03:41.912906+05:00",
       "age_min": 63.7
-    },
-    {
-      "hash": "1d594eaa55f476136cd6314517df7b0b",
-      "title": "Oman , Iran agree to continue talks on Hormuz Strait navigation",
-      "summary": "",
-      "link": "https://www.prokerala.com/news/articles/a1786880.html",
-      "source": "GDELT/SUMMITS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-12T08:49:23.703014+05:00",
-      "age_min": 49.4
-    },
-    {
-      "hash": "caef575c9374e52ce113507b98e9df2a",
-      "title": "Iran tells US attacks in Strait of Hormuz were misstep , signals willingness to continue talks : Report",
-      "summary": "",
-      "link": "http://www.kenyastar.com/news/279181695/iran-tells-us-attacks-in-strait-of-hormuz-were-misstep-signals-willingness-to-continue-talks-report",
-      "source": "GDELT/SUMMITS",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-12T07:49:47.258044+05:00",
-      "age_min": 49.8
     }
   ]
 }
