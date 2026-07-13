@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T12:21:13.029523+05:00",
+  "updated": "2026-07-13T12:34:25.737037+05:00",
   "items": [
     {
       "hash": "ffd1a5bfa7f879056a8017831fb7b702",
@@ -170,18 +170,6 @@
       "age_min": 32.5
     },
     {
-      "hash": "4de3a3d5796027cff0222aeaf66a982a",
-      "title": "US hits Iran after Strait of Hormuz attack ; Tehran strikes Arab states",
-      "summary": "",
-      "link": "https://theshillongtimes.com/2026/07/13/us-hits-iran-after-strait-of-hormuz-attack-tehran-strikes-arab-states/",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-13T08:31:16.214451+05:00",
-      "age_min": 31.3
-    },
-    {
       "hash": "43791143edfd330071f8ec01926ddae3",
       "title": "China Fires Hypersonic DF-17 Missile in Rare Public Launch Video. Upgraded ‘Guam Killer’ DF-26 Also Shown - EurAsian Times",
       "summary": "China Fires Hypersonic DF-17 Missile in Rare Public Launch Video. Upgraded ‘Guam Killer’ DF-26 Also Shown&nbsp;&nbsp;EurAsian Times",
@@ -290,16 +278,28 @@
       "age_min": 0.5
     },
     {
-      "hash": "787aa33ce9a3d7288e95501217346527",
-      "title": "US - Iran conflict : Heavy missile and drone exchanges escalate across the Gulf as Strait of Hormuz remains closed",
-      "summary": "",
-      "link": "https://www.watoday.com.au/world/middle-east/us-launches-more-strikes-on-iran-escalating-clashes-over-strait-of-hormuz-20260713-p60eqk.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 7,
-      "weight": 4,
+      "hash": "f1898ce0d88a676f54eda7042edeb34e",
+      "title": "Using Grok agents in background mode",
+      "summary": "Using Grok agents in background mode\n\n\nAndrew Milich (@milichab)\n\n1) Yes! Use `.grok/agents` or config.toml (see below), adding to the docs site right now. \n\n2) Yes: Agents can spawn background subagents, or try /dashboard, to move your agent to the background and create another. I've been using /dashboard as my default.\n\n\n\n\n\n— https://nitter.net/milichab/status/2076388813581258818#m",
+      "link": "https://nitter.net/elonmusk/status/2076563677319209094#m",
+      "source": "Musk/X",
+      "score": 8,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-13T08:31:16.217000+05:00",
-      "age_min": 31.3
+      "ts": "2026-07-13T12:34:23.229085+05:00",
+      "age_min": 28.8
+    },
+    {
+      "hash": "371be56d8c4ca989eed913fa358645a1",
+      "title": "U.S. and Iran exchange strikes as Strait of Hormuz standoff escalates",
+      "summary": "Iran responded to a fresh wave of strikes by U.S. forces by launching an attack on American military bases in several Gulf states.",
+      "link": "https://www.cnbc.com/2026/07/13/us-iran-war-hormuz-oil-trump.html",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-13T12:33:40.256337+05:00",
+      "age_min": 15.1
     },
     {
       "hash": "385f82e2316f9d03df9573b1831bcf40",
@@ -588,6 +588,18 @@
       "status": "new",
       "ts": "2026-07-13T10:31:12.118394+05:00",
       "age_min": 31.2
+    },
+    {
+      "hash": "41c3cef2be89748fa5e2a13926a13627",
+      "title": "Срыв атак БПЛА на военные аэродромы в Амурской и Челябинской областях. Что известно",
+      "summary": "В ходе операции сотрудники ФСБ изъяли 24 FPV-дрона, оснащенные устойчивыми к средствам радиоэлектронной борьбы нейросетевыми модулями управления британского, американского, канадского и шведского производства, снаряженные боевыми частями",
+      "link": "https://tass.ru/proisshestviya/27911291",
+      "source": "TASS",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-13T12:33:43.285853+05:00",
+      "age_min": 6.8
     }
   ]
 }
