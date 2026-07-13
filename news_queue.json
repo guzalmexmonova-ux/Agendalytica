@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T10:06:40.540386+05:00",
+  "updated": "2026-07-13T10:20:42.038737+05:00",
   "items": [
     {
       "hash": "a128c8ac591fe5211139741fe09b7849",
@@ -26,18 +26,6 @@
       "age_min": 32.9
     },
     {
-      "hash": "0a2ab90f85fcb687d2cf89086a975713",
-      "title": "China Navy test fires nuclear - capable missile into Micronesia",
-      "summary": "",
-      "link": "https://www.guampdn.com/news/chinas-navy-test-fires-nuclear-capable-missile-into-micronesia/article_c9b07a4c-ba4e-4639-b844-bc1c5e84736d.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-13T06:15:43.762158+05:00",
-      "age_min": 15.7
-    },
-    {
       "hash": "afc28bb8846f272b65938dda6d191516",
       "title": "Охота на Нетаньяху : на премьера Израиля готовится покушение",
       "summary": "",
@@ -48,18 +36,6 @@
       "status": "new",
       "ts": "2026-07-13T08:47:31.228579+05:00",
       "age_min": 32.5
-    },
-    {
-      "hash": "52d241e2db9052a1fe4a3e28d8d59ac2",
-      "title": "[ Lee Kyong - hee ] North Korean nuclear arms : A long , tangled history",
-      "summary": "",
-      "link": "https://www.koreaherald.com/article/10806406",
-      "source": "GDELT/CONFLICTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-13T06:15:43.763989+05:00",
-      "age_min": 15.7
     },
     {
       "hash": "ac6c9779a98ac016ff89b399d882a58a",
@@ -302,6 +278,30 @@
       "age_min": 221.3
     },
     {
+      "hash": "bcf5440e9b0c1c961f49ee397d92702d",
+      "title": "Banks Likely to Report MTM Gains in Q1 FY27 as Bond Yields Decline",
+      "summary": "",
+      "link": "https://dailypioneer.com/news/banks-treasury-gains-to-improve-in-q1",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:19:43.772101+05:00",
+      "age_min": 34.7
+    },
+    {
+      "hash": "eec72adaabfe0f33ee109216d8835cf4",
+      "title": "India Condemns Attack on GFS Galaxy Off Oman ; 10 Indian Seafarers Rescued , One Missing",
+      "summary": "",
+      "link": "https://dailypioneer.com/news/india-condemns-ship-attack-one-seafarer-still-missing",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:16:38.269631+05:00",
+      "age_min": 31.6
+    },
+    {
       "hash": "e35ff214841cbda52da2bcf19c4206bc",
       "title": "The path to a ‘one-and-done’ rate rise at the ECB",
       "summary": "Europe’s central bankers will want to see lower energy prices and few signs of indirect effects of ongoing conflict in the Gulf",
@@ -422,6 +422,66 @@
       "age_min": 5.1
     },
     {
+      "hash": "8df7409e18f376d2f9dc3c5391fa493c",
+      "title": "Israeli Strikes Kill Five Palestinians in Gaza as Ceasefire Faces Fresh Strain",
+      "summary": "",
+      "link": "https://dailypioneer.com/news/israeli-fire-in-gaza-kills-5-including-a-girl-child-health-officials",
+      "source": "GDELT/TERRORISM",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:17:19.601717+05:00",
+      "age_min": 32.3
+    },
+    {
+      "hash": "d3d7d446c03b110e7ef5afbdc99d57a5",
+      "title": "China officials warned over  provocative  missile test",
+      "summary": "",
+      "link": "https://pina.com.fj/2026/07/13/china-officials-warned-over-provocative-missile-test/",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:16:38.272542+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "0f833a4d85d11f9bcb8950d028a56c55",
+      "title": "Iran , US exchange fresh missile and drone attacks across Gulf",
+      "summary": "",
+      "link": "https://www.geo.tv/latest/672764-iran-us-exchange-fresh-missile-and-drone-attacks-across-gulf",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:16:38.271811+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "a3aad397b647eef29eed0a3900b7f308",
+      "title": "US and Iran vie for Strait of Hormuz , waterway key to global energy supplies , in latest attacks",
+      "summary": "",
+      "link": "https://economictimes.indiatimes.com/news/international/world-news/us-and-iran-vie-for-strait-of-hormuz-waterway-key-to-global-energy-supplies-in-latest-attacks/articleshow/132355809.cms",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:16:38.267564+05:00",
+      "age_min": 31.6
+    },
+    {
+      "hash": "deba5be91ffb9d4a9b449145c04aaee7",
+      "title": "US and Iran vie for Strait of Hormuz in latest attacks",
+      "summary": "",
+      "link": "https://www.kcra.com/article/iran-us-attacks-strait-of-hormuz-middle-east/71912194",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-13T10:16:38.267209+05:00",
+      "age_min": 31.6
+    },
+    {
       "hash": "7f1d69fe9987897f401893d7abafe424",
       "title": "US Launches More Strikes on Iran as the Standoff over the Strait of Hormuz Escalates",
       "summary": "",
@@ -468,18 +528,6 @@
       "status": "new",
       "ts": "2026-07-13T06:47:49.584092+05:00",
       "age_min": 17.8
-    },
-    {
-      "hash": "8302d828a3c7398b9b06ff111265779e",
-      "title": "Iran expands attacks on Gulf states after US strikes , says Strait of Hormuz closed - World",
-      "summary": "",
-      "link": "https://www.dawn.com/news/2014807/iran-expands-attacks-on-gulf-states-after-us-strikes-says-strait-of-hormuz-closed",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-13T06:15:43.769795+05:00",
-      "age_min": 15.7
     },
     {
       "hash": "01ab2f35d34eb8d10a3d9213313dc13c",
