@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T07:04:31.477612+05:00",
+  "updated": "2026-07-14T07:20:05.949071+05:00",
   "items": [
     {
       "hash": "94e22763f832f167b5b0dca1de23b93c",
@@ -84,6 +84,18 @@
       "status": "new",
       "ts": "2026-07-14T05:04:10.741301+05:00",
       "age_min": 15.1
+    },
+    {
+      "hash": "32cc062f4ab6e30f276a50a446c8b397",
+      "title": "Lindsey Graham legacy : Israel advocate , Trump ally , Iran war supporter | Politics News",
+      "summary": "",
+      "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T07:15:45.570277+05:00",
+      "age_min": 75.8
     },
     {
       "hash": "fd974f1eb974312c23f5cbbfe5f9cf50",
@@ -302,6 +314,18 @@
       "age_min": 47.2
     },
     {
+      "hash": "ebd3886a7992323ed9d78f7049777a06",
+      "title": "Motorists to pay price for US blockade , toll in strait",
+      "summary": "",
+      "link": "https://www.perthnow.com.au/news/politics/motorists-to-pay-price-for-us-blockade-toll-in-strait-c-22573520",
+      "source": "GDELT/CONFLICTS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T07:15:45.570759+05:00",
+      "age_min": 75.8
+    },
+    {
       "hash": "e51cb84d293c8386b325b0c473b2701a",
       "title": "Lake Powell reaching critically low elevation levels , nearing  dead power pool , experts say",
       "summary": "",
@@ -348,30 +372,6 @@
       "status": "new",
       "ts": "2026-07-14T03:32:39.173774+05:00",
       "age_min": 32.7
-    },
-    {
-      "hash": "56b89b7126c3e187f45b77759e1656d1",
-      "title": "Oil Holds Jump After Trump Reinstates Blockade on Iranian Ships",
-      "summary": "Oil held its biggest gain since April, after US President Donald Trump said he would reimpose a blockade on Iranian ships transiting the Strait of Hormuz and demand payment for all other cargo moving through the waterway.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T03:18:09.672592+05:00",
-      "age_min": 16.6
-    },
-    {
-      "hash": "166543ce2049146a8fc4740618b7dab7",
-      "title": "Illinois Tollway Proposes Highest Rate Hike In History",
-      "summary": "",
-      "link": "https://www.wjol.com/illinois-tollway-proposes-highest-rate-hike-in-history/",
-      "source": "GDELT/FED_ECB",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T03:16:57.644486+05:00",
-      "age_min": 32.0
     },
     {
       "hash": "5de289ca40e96cd341c0de092df7791f",
@@ -590,16 +590,16 @@
       "age_min": 10.2
     },
     {
-      "hash": "8ae2b709ae76c711157386ea695cb7a2",
-      "title": "S . Korean refiners in spotlight as Russia diesel export ban tightens global supply",
+      "hash": "4bee6c1d6daed71ba4a968b22814c7fc",
+      "title": "Iran blockade returns as Trump threatens to seize Hormuz",
       "summary": "",
-      "link": "https://www.koreaherald.com/article/10807785",
-      "source": "GDELT/SANCTIONS",
-      "score": 6,
-      "weight": 3,
+      "link": "https://tribune.com.pk/story/2618105/iran-blockade-returns-as-trump-threatens-to-seize-hormuz",
+      "source": "GDELT/CONFLICTS",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-14T06:46:45.130107+05:00",
-      "age_min": 46.8
+      "ts": "2026-07-14T07:15:45.566689+05:00",
+      "age_min": 75.8
     }
   ]
 }
