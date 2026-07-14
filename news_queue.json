@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T01:48:55.138985+05:00",
+  "updated": "2026-07-15T02:05:01.471104+05:00",
   "items": [
     {
       "hash": "8515ff4e1cf8cb9d6db52eca57a3c627",
@@ -62,18 +62,6 @@
       "age_min": 17.5
     },
     {
-      "hash": "84d9bbcd9ac32875ce6f05f24bbd8800",
-      "title": "US inflation fell more than expected to 3.5% in June as petrol prices tumbled",
-      "summary": "Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war",
-      "link": "https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T22:03:49.227385+05:00",
-      "age_min": 33.4
-    },
-    {
       "hash": "d825dcaa83c47ed65a7d42db89f7de8b",
       "title": "Modi stopped Putin from using nuclear weapons on Ukraine in 2022 : Polish min",
       "summary": "",
@@ -108,6 +96,30 @@
       "status": "new",
       "ts": "2026-07-14T22:17:20.859685+05:00",
       "age_min": 47.3
+    },
+    {
+      "hash": "ff1c7f2e1425c69c6dcbb4a54344e00b",
+      "title": "US attacks Iran and Tehran retaliates across the Middle East , threatening a return to all - out war",
+      "summary": "",
+      "link": "https://www.wishtv.com/news/international/us-launches-strikes-iran-blockade/",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T02:02:10.595279+05:00",
+      "age_min": 62.2
+    },
+    {
+      "hash": "ead4f547d89275aa5a1948dc2d3e0f50",
+      "title": "Police say Ann Widdecombe killed in  targeted attack  as motive investigated",
+      "summary": "",
+      "link": "https://www.bbc.co.uk/news/articles/c0ryr74zjzvo",
+      "source": "GDELT/TERRORISM",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T02:01:42.360605+05:00",
+      "age_min": 76.7
     },
     {
       "hash": "67b3e4d5cc096942b74bc87b80f0ee32",
@@ -206,18 +218,6 @@
       "age_min": 76.3
     },
     {
-      "hash": "c434a704279fe06e7683defd2280a923",
-      "title": "Warsh does not hint at July tightening in Congress testimony",
-      "summary": "Fed chair suggests inflation was his main concern but stopped short of signalling imminent tightening",
-      "link": "https://www.ft.com/content/60c4ed49-216f-4f90-9bf9-94f305296f02",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T22:03:49.226932+05:00",
-      "age_min": 11.2
-    },
-    {
       "hash": "82882b8b4a5936cdab4dcd00e7ac3a06",
       "title": "Why Yemen’s long ‘no war, no peace’ deadlock may be ending",
       "summary": "Mobilisation of fighters and attacks signal the collapse of Yemen&#039;s fragile peace, with regional implications looming.",
@@ -314,6 +314,18 @@
       "age_min": 79.4
     },
     {
+      "hash": "141873e191805c3331d507bb4da9675a",
+      "title": "Dollar slides as rate hike prospects ease , oil gains moderate",
+      "summary": "",
+      "link": "https://www.al-monitor.com/originals/2026/07/dollar-slides-rate-hike-prospects-ease-oil-gains-moderate",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T02:02:51.152997+05:00",
+      "age_min": 62.9
+    },
+    {
       "hash": "0244ffef02c84ef7bafd67b04ee44ec3",
       "title": "Trump says US to abandon proposed Strait of Hormuz cargo fee",
       "summary": "US military launches seventh wave of strikes after the president said he will ‘replace’ fees plan with Gulf investment",
@@ -384,6 +396,30 @@
       "status": "new",
       "ts": "2026-07-14T23:02:37.581956+05:00",
       "age_min": 62.6
+    },
+    {
+      "hash": "f0d3ddf113a37126183ec26fb674ce36",
+      "title": "USA . Szef Fed Kevin Warsh : będę wykonywał swoją pracę mimo presji Donalda Trumpa",
+      "summary": "",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-szef-fed-kevin-warsh-bede-wykonywal-swoja-prace-mimo-presji-donalda-trumpa-st9142750",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T02:02:51.157825+05:00",
+      "age_min": 62.9
+    },
+    {
+      "hash": "86717d72229ba626230381f5cc985930",
+      "title": "Warsh says Fed has  no tolerance  for high inflation but provides no hints on next move",
+      "summary": "",
+      "link": "https://www.wfmj.com/news/consumer/warsh-says-fed-has-no-tolerance-for-high-inflation-but-provides-no-hints-on-next/article_50ff1040-9cd7-55e5-be54-04ca86c5ade9.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T02:02:51.153516+05:00",
+      "age_min": 47.9
     },
     {
       "hash": "601ed41b4c746351e280ffcb114b054e",
@@ -554,52 +590,16 @@
       "age_min": 201.9
     },
     {
-      "hash": "1bfa82558eba06030c7f3955c48e546e",
-      "title": "U.S. strikes Iran before Hormuz Strait blockade restarts",
-      "summary": "President Donald Trump has said the U.S.-Iran ceasefire is over following multiple flare-ups of hostilities in the region.",
-      "link": "https://www.cnbc.com/2026/07/14/iran-strikes-hormuz-strait-blockade-trump-tolls.html",
-      "source": "CNBC",
+      "hash": "6ff651f4a59f5f9eadfd014ed79e6815",
+      "title": "Stunning CPI Miss Kills July Rate Hike, But Hormuz Puts September Back on Table - Tech Times",
+      "summary": "Stunning CPI Miss Kills July Rate Hike, But Hormuz Puts September Back on Table&nbsp;&nbsp;Tech Times",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFlydTV5QTZrVmFYZ0w2YXlLZ1hpQnZEYXdQRml5cUNwSFpha04zb25TYUpLU05iemF2UFFoeVhVRC1BdGFGY2pmd3hkVXpDb1lkM0FBUkszcWlNcW4tLW9ka3RLd3dKSVNiZnRkM2xvUldZWVlPRDNCSnVDUmxtMVJ1S3RHTkQwWEN3WGpxMzhsckc0T1RaSEZQcVJqbkN0ZnNWUGt4M2RHSWRCYmRxQWhGTzRtTzdVVm9nS3FaWjg3Y0xv?oc=5",
+      "source": "GNews/CentralBanks",
       "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-15T01:48:12.418602+05:00",
-      "age_min": 29.2
-    },
-    {
-      "hash": "806cae18e4fc0af06d3423f7c2639335",
-      "title": "Kevin Warsh says Fed has ‘no tolerance’ for inflation in first testimony as chairman on Capitol Hill - AOL.com",
-      "summary": "Kevin Warsh says Fed has ‘no tolerance’ for inflation in first testimony as chairman on Capitol Hill&nbsp;&nbsp;AOL.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hcTQ4YzZnNWRjX0toWkEzcFFreWZfeV95Ri1CYmpmTlVyNy1TVVVzLXlMUzJwamhNWF9xdklXdzFPaG9DejJyYkpfVnZfWVM3MWxrQXJyb1BsYzFTQ3RfYkFITnJ3VTNPMm9vb1lMX2hDUldhTkE?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-15T01:48:38.965653+05:00",
-      "age_min": 113.2
-    },
-    {
-      "hash": "7da36b5595192bd5c4e7d9a3d8fbb795",
-      "title": "Fed Chair Kevin Warsh vows to uphold independence amid Trump pressure - Crypto Briefing",
-      "summary": "Fed Chair Kevin Warsh vows to uphold independence amid Trump pressure&nbsp;&nbsp;Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43ZkkwUzZIbFdJQk9sREI5YUtyMDdadTlaT25SQWx4WTNIYkZ6WUNEOW1NNktadW9TbXhiWTl1d2tPQllpak0tcnp1Y2pmbXBxbGowZjk4VmNaSlh1Q3hrSTBqcHk1UEcyZDhrQWtSNmVmSlVYMGllRnBjdw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-15T01:48:38.961637+05:00",
-      "age_min": 5.4
-    },
-    {
-      "hash": "2201de965f485d0e155cbafeb1675fa1",
-      "title": "Fed Chair Warsh Vows to Reject Stubborn Inflation - Briefs Finance",
-      "summary": "Fed Chair Warsh Vows to Reject Stubborn Inflation&nbsp;&nbsp;Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wdGw3N2NHNm5SdGhHWVJpeGxOXzBQWWRubzhTdEFLdTRfZFNwUTFWLVFNYV9CMjRHckk3dG9YY1NPb1J2Z0xLXzJ2NkRIS0NJaldsdVk4NHRXQXd0ckgxZXlWS2gwQ2t5ZFgtSDVjTzdJdUlucmRKVVdrX3NnSTg?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-15T01:48:38.961052+05:00",
-      "age_min": 33.5
+      "ts": "2026-07-15T02:04:35.340542+05:00",
+      "age_min": 18.5
     }
   ]
 }
