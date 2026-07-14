@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T22:04:40.241805+05:00",
+  "updated": "2026-07-14T22:18:54.482977+05:00",
   "items": [
     {
       "hash": "114e0196b7e9433175998073ad4ce56a",
@@ -14,6 +14,18 @@
       "age_min": 13.2
     },
     {
+      "hash": "6f81c7f18b49476db95972ffc0241a48",
+      "title": "European defence groups plan interceptor system to destroy missiles in space",
+      "summary": "Programme intended to plug gaps in air defence and will draw on lessons from war in Ukraine",
+      "link": "https://www.ft.com/content/8280d5cf-a117-4dd2-bf69-dbe3ac199a18",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T22:18:10.922678+05:00",
+      "age_min": 17.5
+    },
+    {
       "hash": "84d9bbcd9ac32875ce6f05f24bbd8800",
       "title": "US inflation fell more than expected to 3.5% in June as petrol prices tumbled",
       "summary": "Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war",
@@ -24,6 +36,18 @@
       "status": "new",
       "ts": "2026-07-14T22:03:49.227385+05:00",
       "age_min": 33.4
+    },
+    {
+      "hash": "c96447429c89dbbe6a7198d5abc4ac46",
+      "title": "India inaugurates nuclear - heated hydrogen plant",
+      "summary": "",
+      "link": "https://cen.acs.org/energy/nuclear-power/nuclear-energy-power-hydrogen-india/104/web/2026/07",
+      "source": "GDELT/ENERGY",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T22:17:20.859685+05:00",
+      "age_min": 47.3
     },
     {
       "hash": "dc68149806cb559130e40fd3c5b46e57",
@@ -72,6 +96,30 @@
       "status": "new",
       "ts": "2026-07-14T19:04:01.425045+05:00",
       "age_min": 210.3
+    },
+    {
+      "hash": "01347510de832c6aef5512922fc9366b",
+      "title": "Thousand - day war - Newspaper",
+      "summary": "",
+      "link": "https://www.dawn.com/news/2014978/thousand-day-war",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T22:16:19.025640+05:00",
+      "age_min": 76.3
+    },
+    {
+      "hash": "fa9af58add7ffb9a65fcfaebcd0be7b9",
+      "title": "Leading Houthi threatens  siege  on Saudi Arabia after Yemen airport attack | Conflict News",
+      "summary": "",
+      "link": "https://www.aljazeera.com/news/2026/7/14/leading-houthi-threatens-siege-on-saudi-arabia-after-yemen-airport-attack",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T22:16:19.023037+05:00",
+      "age_min": 76.3
     },
     {
       "hash": "c434a704279fe06e7683defd2280a923",
@@ -350,16 +398,16 @@
       "age_min": 18.4
     },
     {
-      "hash": "0659cce7d61ad11cdb5e232d82334c3e",
-      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
-      "summary": "The two countries slid back to open war over the waterway, as the U.S. planned to reinstate a blockade on Iranian ports on Tuesday. Iran said it had attacked two tankers and fired at U.S. military sites.",
-      "link": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
-      "source": "NYT World",
-      "score": 10,
-      "weight": 3,
+      "hash": "1c2daf6a927a84929ca4173216da585b",
+      "title": "June CPI cools sharply , but the path to a rate cut stays rocky",
+      "summary": "",
+      "link": "https://www.mpamag.com/us/mortgage-industry/industry-trends/june-cpi-cools-sharply-but-the-path-to-a-rate-cut-stays-rocky/582327",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-14T18:18:48.781112+05:00",
-      "age_min": 7.6
+      "ts": "2026-07-14T22:17:06.913887+05:00",
+      "age_min": 32.1
     },
     {
       "hash": "63fbe89222381032c4acad9758c79677",
@@ -482,124 +530,76 @@
       "age_min": 88.2
     },
     {
-      "hash": "cc320032e6054cdf3ba07ca580df1249",
-      "title": "June Inflation Falls To 3 . 5 %, First Monthly Price Drop In 6 Years , As Fed Warsh Testifies",
-      "summary": "",
-      "link": "https://www.hngn.com/articles/272069/20260714/june-inflation-falls-35-first-monthly-price-drop-6-years-feds-warsh-testifies.htm",
-      "source": "GDELT/FED_ECB",
+      "hash": "1d604ab16a4e4a400b0d2f28ff52b167",
+      "title": "The outcome of my talks with Emmanuel and the work of our teams is an important agreement between Ukraine and France – a step that reflects France’s true leadership in defense cooperation with Ukraine, in the interest of all of Europe. The key points: Ukraine will receive licenses to produce very powerful weapons – SCALP missiles, AASM bombs, and Aster 30 missiles in cooperation with Italy. France will also work with us and with other partners on the FREYJA anti-ballistic program – our unique future strength. Ukraine will be the first to receive the new enhanced Franco-Italian SAMP/T NG systems. These are highly effective anti-ballistic systems. France will also provide two SAMP/T batteries to strengthen our defenses already this year. France and Italy will also accelerate deliveries of Aster 30 missiles by October this year. Additionally, Ukraine will procure the first 16 Rafale fighter jets for our combat aviation, along with their weapons package. Training for our pilots and maintenance crews in France is set to begin already this year. After that, the first four Rafale aircraft will be delivered to the Armed Forces of Ukraine. We are systematically developing Ukraine's combat capabilities. Thank you, Emmanuel! Thank you, France! Glory to Ukraine! @EmmanuelMacron",
+      "summary": "The outcome of my talks with Emmanuel and the work of our teams is an important agreement between Ukraine and France – a step that reflects France’s true leadership in defense cooperation with Ukraine, in the interest of all of Europe.\n\nThe key points:\n\nUkraine will receive licenses to produce very powerful weapons – SCALP missiles, AASM bombs, and Aster 30 missiles in cooperation with Italy. Fran",
+      "link": "https://nitter.net/ZelenskyyUa/status/2077030235699098070#m",
+      "source": "Zelensky/X",
       "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-14T22:02:44.651335+05:00",
-      "age_min": 32.7
+      "ts": "2026-07-14T22:18:42.800079+05:00",
+      "age_min": 199.2
     },
     {
-      "hash": "b787d5da2503cfaf6b5ed78949cfb173",
-      "title": "Warsh says Fed has  no tolerance  for high inflation but provides no hints on next move",
-      "summary": "",
-      "link": "https://www.adn.com/nation-world/2026/07/14/warsh-says-fed-has-no-tolerance-for-high-inflation-but-provides-no-hints-on-next-move/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T22:02:44.649049+05:00",
-      "age_min": 32.7
-    },
-    {
-      "hash": "aa7968b8de9035a4cab9505144a6237b",
-      "title": "Warsh tells Congress the Fed has  no tolerance for persistently elevated inflation",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/article/warsh-tells-congress-the-fed-has-no-tolerance-for-persistently-elevated-inflation-123000475.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:32:33.062995+05:00",
-      "age_min": 92.6
-    },
-    {
-      "hash": "7f55d066f744fea8c0a9fe3e3171f23c",
-      "title": "Fed Warsh :  No Tolerance  for High Inflation , but Avoids Policy Signals",
-      "summary": "",
-      "link": "https://www.actionforex.com/live-comments/647222-feds-warsh-no-tolerance-for-high-inflation-but-avoids-policy-signals/",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:32:33.059082+05:00",
-      "age_min": 32.6
-    },
-    {
-      "hash": "42f6a45465b8e8659733237c704b73eb",
-      "title": "Fed Chair Kevin Warsh Just Got Great News",
-      "summary": "",
-      "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-just-152901333.html",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:32:33.057162+05:00",
-      "age_min": 32.6
-    },
-    {
-      "hash": "2cfdd34f1ba4553f78fdce5791606220",
-      "title": "Warsh vows to tackle inflation in first congressional testimony as Fed chairman",
-      "summary": "",
-      "link": "https://www.cbsnews.com/news/kevin-warsh-fed-testimony/",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:18:14.405173+05:00",
-      "age_min": 78.2
-    },
-    {
-      "hash": "e414d213b7d143152f4b7469a7bf3d4f",
-      "title": "Federal Reserve Chairman Kevin Warsh says Fed has  no tolerance  for elevated inflation",
-      "summary": "",
-      "link": "https://www.moneycontrol.com/news/business/markets/federal-reserve-chairman-kevin-warsh-says-fed-has-no-tolerance-for-elevated-inflation-13973852.html",
-      "source": "GDELT/MACRO",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:18:14.404824+05:00",
-      "age_min": 78.2
-    },
-    {
-      "hash": "80488d6b571992ac07c84c78bb3d1e43",
-      "title": "Prime Minister Netanyahu, today, at the Negev Conference in Dimona - in a message to Iran's leaders: \"We are prepared for any scenario. I can tell you only one thing, and I will say this to the leaders of Iran: Do not count on it being quiet if you attack us. Do not count on a rerun. Because it will not be a rerun, and that was already powerful enough. This will be a different event, much more powerful. The days when someone hurts us and we do not strike them back twofold are over. We did this to the Axis of Evil in Iran, and we will continue to do so to anyone who harms us. That is what we do.\"",
-      "summary": "Prime Minister Netanyahu, today, at the Negev Conference in Dimona - in a message to Iran's leaders:\n\"We are prepared for any scenario. I can tell you only one thing, and I will say this to the leaders of Iran: Do not count on it being quiet if you attack us. Do not count on a rerun. Because it will not be a rerun, and that was already powerful enough. This will be a different event, much more pow",
-      "link": "https://nitter.net/IsraeliPM/status/2077038885507416413#m",
-      "source": "Israel PM/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:04:30.559206+05:00",
-      "age_min": 90.6
-    },
-    {
-      "hash": "37ac40011039c41d979e9fd5987058dc",
-      "title": "Trump scraps Hormuz toll plan but presses ahead with Iran blockade",
-      "summary": "US President Donald Trump on Tuesday abandoned plans to impose a 20 per cent charge on commercial cargo passing through the Strait of Hormuz, less than a day after unveiling the proposal, while pressing ahead with a naval blockade targeting Iranian trade.\nTrump said the proposed fee would be replaced by trade and investment agreements with Gulf states following discussions with regional leaders.\n“",
-      "link": "https://www.scmp.com/news/us/diplomacy/article/3360574/trump-scraps-hormuz-toll-plan-presses-ahead-iran-blockade?utm_source=rss_feed",
-      "source": "SCMP",
-      "score": 7,
+      "hash": "9cac713d63e1d415964f267835d2b929",
+      "title": "U.S. Airstrikes Target Iran's Energy Hubs, Risking Broader War - 조선일보",
+      "summary": "U.S. Airstrikes Target Iran's Energy Hubs, Risking Broader War&nbsp;&nbsp;조선일보",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNm1CTDY3eG44N0pHLTRLS0s0NUM3OWF5dEN5eDBGcW85YTNGLThGVTNJUmFYWUh0TG13RHVxTkJsQm5qcl9wcmlyeXJoZUxFOURUWEp3RER3Q3FrR3VpTzZFNWRUMTVXNFVFa2pLSWZXd19XVFhJM0s3UGJmbjlEZ0ZWWFg?oc=5",
+      "source": "GNews/Mideast",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-14T21:48:11.830872+05:00",
-      "age_min": 10.7
+      "ts": "2026-07-14T22:18:39.684439+05:00",
+      "age_min": 87.2
     },
     {
-      "hash": "bd5b24aabdc895609bb36300f80f2df3",
-      "title": "Why it so difficult for the US to fully reopen the Strait of Hormuz",
+      "hash": "5b7d5ef17e30dcc4aedcd0f865527cd5",
+      "title": "A Long Gulf War Can Starve the World. A Hormuz Transit Deal Could Save Millions.",
       "summary": "",
-      "link": "https://www.kcci.com/article/reopen-strait-of-hormuz-iran-united-states/71929114",
-      "source": "GDELT/CONFLICTS",
-      "score": 5,
+      "link": "https://www.crisisgroup.org/opd/global/iran-israelpalestine-united-states/long-gulf-war-can-starve-world-hormuz-transit-deal-could-save-millions",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-14T22:18:12.818224+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "34cd2438553a488c95b887c7ebed0dbc",
+      "title": "EU and NATO Members Grapple with War in Iran",
+      "summary": "This week on War &amp; Peace, Olga speaks with Crisis Group’s head of EU Affairs, Lisa Musiol, about how the EU, its members and European members of NATO have responded to the U.S.-Israeli war with Iran and what it reveals about EU foreign policy and its constraints.",
+      "link": "https://www.crisisgroup.org/pod/europe/eu-and-nato-members-grapple-war-iran",
+      "source": "Crisis Group",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-14T22:18:12.817128+05:00",
+      "age_min": 0
+    },
+    {
+      "hash": "e00e78e6873512e48f8dea282698c9c3",
+      "title": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
+      "summary": "To prepare, the world needs to focus on building energy independence through renewables and decentralisation.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-14T22:18:11.611491+05:00",
+      "age_min": 141.8
+    },
+    {
+      "hash": "b4b5bd16532af6f16c6cdf4edf842cc1",
+      "title": "Кевин Уорш : Инфлацията ще остане в миналото",
+      "summary": "",
+      "link": "https://www.investor.bg/a/539-banki-i-zastrahovateli/433544-kevin-uorsh-inflatsiyata-shte-ostane-v-minaloto",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-14T21:45:45.456788+05:00",
-      "age_min": 45.8
+      "ts": "2026-07-14T22:17:06.916383+05:00",
+      "age_min": 32.1
     }
   ]
 }
