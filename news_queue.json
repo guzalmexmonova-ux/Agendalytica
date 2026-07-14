@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T17:04:47.088881+05:00",
+  "updated": "2026-07-14T17:18:56.965420+05:00",
   "items": [
     {
       "hash": "9be3e6cc8bc71d230affd2ec35d7e0ca",
@@ -98,16 +98,28 @@
       "age_min": 90.9
     },
     {
-      "hash": "eb7ba9fd9d810215f407aeed4136dd4b",
-      "title": "Traders Boost BOE and ECB Rate-Hike Bets After Oil Price Surge",
-      "summary": "Traders boosted wagers on Bank of England and European Central Bank interest-rate hikes after surging oil prices reignited inflation fears.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-14/traders-boost-boe-ecb-rate-hike-bets-after-oil-price-surge",
+      "hash": "ba88eb99f40455b05ac3ab070426f717",
+      "title": "S&amp;P 500 Futures Steady Ahead of Inflation Data, Warsh Testimony",
+      "summary": "US stocks held steady before the bell on Tuesday as investors awaited inflation data and Federal Reserve Chairman Kevin Warsh’s testimony, while also assessing hostilities in the Middle East and a slate of corporate earnings.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-14/s-p-500-futures-steady-ahead-of-inflation-data-warsh-testimony",
       "source": "Bloomberg",
-      "score": 9,
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-14T13:18:12.376871+05:00",
-      "age_min": 18.0
+      "ts": "2026-07-14T17:18:06.610039+05:00",
+      "age_min": 12.5
+    },
+    {
+      "hash": "3157a229c68b3f03a9b1e96ac25cd7fd",
+      "title": "US Attacks Iran and Tehran Retaliates Across the Middle East , Threatening a Return to All - Out War",
+      "summary": "",
+      "link": "https://www.military.com/us-attacks-iran-and-tehran-retaliates-across-the-middle-east-threatening-a-return-to-all-out-war",
+      "source": "GDELT/MIDEAST",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T17:16:25.017881+05:00",
+      "age_min": 61.4
     },
     {
       "hash": "8cb851c8cac1bfb7dc7e1602de288dc3",
@@ -288,6 +300,18 @@
       "status": "new",
       "ts": "2026-07-14T14:18:25.272582+05:00",
       "age_min": 3.8
+    },
+    {
+      "hash": "e3e645fc4ffbcf2b081badba0b0682d7",
+      "title": "Missile Fire Ends Saudi - Houthi Truce as Iran Warns U . S . Strait of Hormuz Will Stay Closed",
+      "summary": "",
+      "link": "https://slguardian.org/missile-fire-ends-saudi-houthi-truce-as-iran-warns-u-s-strait-of-hormuz-will-stay-closed/",
+      "source": "GDELT/MIDEAST",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T17:16:25.012030+05:00",
+      "age_min": 61.4
     },
     {
       "hash": "63fbe89222381032c4acad9758c79677",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-14T15:18:14.549403+05:00",
       "age_min": 0
-    },
-    {
-      "hash": "9628b0d9c19794d223a0ad3afa3c0aec",
-      "title": "Argentina war vets urge focus on football for England World Cup semifinal",
-      "summary": "One of sport&#039;s great rivalries sees Argentina face England in an ever feisty encounter in the 2026 edition&#039;s semifinal.",
-      "link": "https://www.aljazeera.com/sports/2026/7/14/argentina-war-vets-urge-focus-on-football-for-england-world-cup-semifinal?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-14T15:18:13.067389+05:00",
-      "age_min": 25.5
-    },
-    {
-      "hash": "ecb9f831e82eee703de245b1fd9f22f6",
-      "title": "Bitcoin 14 . Juli 2026 : CPI - Daten 14 : 30 Uhr , Warsh - Testimony 16 Uhr , BTC fällt auf 62 . 380 Dollar",
-      "summary": "",
-      "link": "https://www.finanzen.net/nachricht/devisen/kryptomarkt-bitcoin-faellt-vor-cpi-daten-auf-62-000-dollar-alles-auf-dem-pruefstand-am-14-juli-00-15796407",
-      "source": "GDELT/FED_ECB",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T15:17:04.745809+05:00",
-      "age_min": 107.1
     }
   ]
 }
