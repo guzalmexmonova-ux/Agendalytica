@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T21:19:15.325401+05:00",
+  "updated": "2026-07-14T21:34:34.952829+05:00",
   "items": [
     {
       "hash": "114e0196b7e9433175998073ad4ce56a",
@@ -96,6 +96,18 @@
       "status": "new",
       "ts": "2026-07-14T17:45:42.677711+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "37c3d24c95bc5b8992fc75f5584ce447",
+      "title": "Falling gas prices likely cut inflation last month but renewal of Iran war could undo progress",
+      "summary": "",
+      "link": "https://www.thetrucker.com/trucking-news/business/falling-gas-prices-likely-cut-inflation-last-month-but-renewal-of-iran-war-could-undo-progress",
+      "source": "GDELT/FED_ECB",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T21:32:33.063636+05:00",
+      "age_min": 32.6
     },
     {
       "hash": "a97659b7d39555087b1a9e334937f766",
@@ -314,54 +326,6 @@
       "age_min": 30.7
     },
     {
-      "hash": "eb48b330a806d17cea15e0a3a76dc417",
-      "title": "Warsh Says Fed Has ‘No Tolerance’ for Elevated Inflation",
-      "summary": "Federal Reserve Chairman Kevin Warsh said policymakers at the central bank have no tolerance for high inflation, reiterating a vow to tame price growth that has been elevated for five years.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-14/warsh-says-fed-has-no-tolerance-for-elevated-inflation",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T17:33:46.863975+05:00",
-      "age_min": 3.8
-    },
-    {
-      "hash": "724791a228ae8781bdf3ffeab6158f83",
-      "title": "Как будет идти война в Иране после срыва переговоров и когда наступит мир ?",
-      "summary": "",
-      "link": "https://www.amic.ru/news/eksperty-nazvali-novyy-scenariy-voyny-v-irane-587943",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T17:31:10.672923+05:00",
-      "age_min": 76.2
-    },
-    {
-      "hash": "3157a229c68b3f03a9b1e96ac25cd7fd",
-      "title": "US Attacks Iran and Tehran Retaliates Across the Middle East , Threatening a Return to All - Out War",
-      "summary": "",
-      "link": "https://www.military.com/us-attacks-iran-and-tehran-retaliates-across-the-middle-east-threatening-a-return-to-all-out-war",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T17:31:10.671151+05:00",
-      "age_min": 76.2
-    },
-    {
-      "hash": "5e7b8866d3f232a6d44032f6d1e754dd",
-      "title": "Совет двадцатый раз продлил военное положение и общую мобилизацию",
-      "summary": "",
-      "link": "https://politics.comments.ua/news/rada/do-kakogo-chisla-prodolzhili-voennoe-polozhenie-i-vseobschuyu-mobilizaciyu-detali-golosovaniya-rady-811101.html",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T17:31:10.669203+05:00",
-      "age_min": 46.2
-    },
-    {
       "hash": "4dee7a7e1ed33c09c30e039568e98948",
       "title": "Israel and Lebanon Meet to Advance Peace Talks, as Broader Truce Unravels",
       "summary": "Expectations are low for the latest round of U.S.-mediated talks, aimed at ending months of war between Israel and t Hezbollah.",
@@ -506,6 +470,18 @@
       "age_min": 23.8
     },
     {
+      "hash": "b87259acdcd9543192a7f26d9ea20894",
+      "title": "\"Украинская правда\": подозреваемые в убийстве Березовской готовили покушение на Ермолаева",
+      "summary": "Это экс-сотрудник СБУ Виталий Жикович и офицер Главного управления разведки Владислав Реут",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27917019",
+      "source": "TASS",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-14T21:33:47.886913+05:00",
+      "age_min": 2.0
+    },
+    {
       "hash": "a0b83b72f6d7adc09c28971a7b90de78",
       "title": "US inflation cools on brief ceasefire but Fed keeps rate hike option",
       "summary": "US consumer inflation slowed more than expected in June as energy prices retreated, but the moderation was insufficient to convince financial markets to take an interest-rate increase from the Federal Reserve this year off the table against the backdrop of renewed conflict in the Middle East.\nThe Consumer Price Index (CPI) from the Labour Department on Tuesday also showed underlying inflation subs",
@@ -554,6 +530,42 @@
       "age_min": 88.2
     },
     {
+      "hash": "aa7968b8de9035a4cab9505144a6237b",
+      "title": "Warsh tells Congress the Fed has  no tolerance for persistently elevated inflation",
+      "summary": "",
+      "link": "https://finance.yahoo.com/economy/policy/article/warsh-tells-congress-the-fed-has-no-tolerance-for-persistently-elevated-inflation-123000475.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T21:32:33.062995+05:00",
+      "age_min": 92.6
+    },
+    {
+      "hash": "7f55d066f744fea8c0a9fe3e3171f23c",
+      "title": "Fed Warsh :  No Tolerance  for High Inflation , but Avoids Policy Signals",
+      "summary": "",
+      "link": "https://www.actionforex.com/live-comments/647222-feds-warsh-no-tolerance-for-high-inflation-but-avoids-policy-signals/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T21:32:33.059082+05:00",
+      "age_min": 32.6
+    },
+    {
+      "hash": "42f6a45465b8e8659733237c704b73eb",
+      "title": "Fed Chair Kevin Warsh Just Got Great News",
+      "summary": "",
+      "link": "https://finance.yahoo.com/economy/policy/articles/fed-chair-kevin-warsh-just-152901333.html",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-14T21:32:33.057162+05:00",
+      "age_min": 32.6
+    },
+    {
       "hash": "2cfdd34f1ba4553f78fdce5791606220",
       "title": "Warsh vows to tackle inflation in first congressional testimony as Fed chairman",
       "summary": "",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-07-14T21:04:30.559206+05:00",
       "age_min": 90.6
-    },
-    {
-      "hash": "1d604ab16a4e4a400b0d2f28ff52b167",
-      "title": "The outcome of my talks with Emmanuel and the work of our teams is an important agreement between Ukraine and France – a step that reflects France’s true leadership in defense cooperation with Ukraine, in the interest of all of Europe. The key points: Ukraine will receive licenses to produce very powerful weapons – SCALP missiles, AASM bombs, and Aster 30 missiles in cooperation with Italy. France will also work with us and with other partners on the FREYJA anti-ballistic program – our unique future strength. Ukraine will be the first to receive the new enhanced Franco-Italian SAMP/T NG systems. These are highly effective anti-ballistic systems. France will also provide two SAMP/T batteries to strengthen our defenses already this year. France and Italy will also accelerate deliveries of Aster 30 missiles by October this year. Additionally, Ukraine will procure the first 16 Rafale fighter jets for our combat aviation, along with their weapons package. Training for our pilots and maintenance crews in France is set to begin already this year. After that, the first four Rafale aircraft will be delivered to the Armed Forces of Ukraine. We are systematically developing Ukraine's combat capabilities. Thank you, Emmanuel! Thank you, France! Glory to Ukraine! @EmmanuelMacron",
-      "summary": "The outcome of my talks with Emmanuel and the work of our teams is an important agreement between Ukraine and France – a step that reflects France’s true leadership in defense cooperation with Ukraine, in the interest of all of Europe.\n\nThe key points:\n\nUkraine will receive licenses to produce very powerful weapons – SCALP missiles, AASM bombs, and Aster 30 missiles in cooperation with Italy. Fran",
-      "link": "https://nitter.net/ZelenskyyUa/status/2077030235699098070#m",
-      "source": "Zelensky/X",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-14T21:04:28.815294+05:00",
-      "age_min": 124.9
     }
   ]
 }
