@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T04:04:40.818101+05:00",
+  "updated": "2026-07-15T04:15:51.867600+05:00",
   "items": [
     {
       "hash": "8515ff4e1cf8cb9d6db52eca57a3c627",
@@ -434,6 +434,30 @@
       "age_min": 8.2
     },
     {
+      "hash": "fa590402e09ee9d8cda7527aa00d8429",
+      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
+      "summary": "The Senate votes 50-46 to block debate on the annual defence bill over war funding and defence cooperation with Israel.",
+      "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-15T04:15:00.771108+05:00",
+      "age_min": 182.9
+    },
+    {
+      "hash": "54d7994126291bb0bb33e9db8f19712b",
+      "title": "Kevin Warsh says inflation fight Fed biggest challenge",
+      "summary": "",
+      "link": "http://www.srilankasource.com/news/279187631/kevin-warsh-says-inflation-fight-fed-biggest-challenge",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T04:14:03.294508+05:00",
+      "age_min": 44.1
+    },
+    {
       "hash": "533e2c245f73768c8293145f474611ba",
       "title": "Netanyahu warns Iran :  Attack us , and we will hit you harder than last time",
       "summary": "",
@@ -576,30 +600,6 @@
       "status": "new",
       "ts": "2026-07-15T02:17:06.853257+05:00",
       "age_min": 62.1
-    },
-    {
-      "hash": "446d9224671c737a0c8a866a958eb105",
-      "title": "Ukroboronprom General Director Resigns Following Explosion in Vyshneve",
-      "summary": "",
-      "link": "https://www.kyivpost.com/post/80266",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-15T02:16:09.147937+05:00",
-      "age_min": 76.2
-    },
-    {
-      "hash": "accf1c380f84c5eb05ced5f4e8739862",
-      "title": "Ukrainian air defenses intercept Russian ballistic missiles",
-      "summary": "",
-      "link": "https://www.wsbradio.com/news/world/ukraine-downs-5/OYDU2S7QOIYORGFGF4XIU6XRHE/",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-15T02:16:09.147404+05:00",
-      "age_min": 91.2
     }
   ]
 }
