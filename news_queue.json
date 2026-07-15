@@ -1,6 +1,18 @@
 {
-  "updated": "2026-07-16T04:18:15.656096+05:00",
+  "updated": "2026-07-16T04:34:28.135885+05:00",
   "items": [
+    {
+      "hash": "74a9744ec45da994b48a6e03c1d030f3",
+      "title": "Iran War Drives New Investment in US LNG, S&P Global Says",
+      "summary": "The Iran war, and its disruptions across global energy markets, is spurring investments for new US liquefied natural gas export infrastructure, according to consulting firm S&amp;P Global.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-15/iran-war-drives-new-investment-in-us-lng-s-p-global-says",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T04:33:33.954671+05:00",
+      "age_min": 15.3
+    },
     {
       "hash": "d47c54348cdf2e069f1bd8a5b6d4633a",
       "title": "Gold Steadies as Soft Inflation, War Risk Cloud Fed Rate Outlook",
@@ -10,8 +22,8 @@
       "score": 10,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T04:17:18.484082+05:00",
-      "age_min": 19.7
+      "ts": "2026-07-16T04:18:07.252231+05:00",
+      "age_min": 20.5
     },
     {
       "hash": "08d1fb2fec9c4881bb6b8dd76cf0bb7f",
@@ -48,18 +60,6 @@
       "status": "new",
       "ts": "2026-07-16T03:02:24.791292+05:00",
       "age_min": 77.4
-    },
-    {
-      "hash": "7b2b6946a934569c5544ccaeeb79efe1",
-      "title": "घर में समारोह दौरान अचानक गिर गई छत , 11 लोगों की मौत व कई घायल - 11 people killed in roof collapse in pakistan s khyber pakhtunkhwa",
-      "summary": "",
-      "link": "https://www.punjabkesari.in/international/news/11-people-killed-in-roof-collapse-in-pakistan-s-khyber-pakhtunkhwa-2357687",
-      "source": "GDELT/MACRO",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T00:33:54.465300+05:00",
-      "age_min": 108.9
     },
     {
       "hash": "2fbe15ad0c0715754e1905095d91b205",
@@ -194,16 +194,16 @@
       "age_min": 98.2
     },
     {
-      "hash": "6195a69a68a5b21c4a309704bf984e2d",
-      "title": "Will the housing market crash in 2026 ? Here what experts say",
+      "hash": "f26760de3f0ac9998f1dbc4947f6ab1a",
+      "title": "Ransomware Attack at India Nuclear Plant",
       "summary": "",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/will-the-housing-market-crash-in-2026-heres-what-experts-say-170038540.html",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
+      "link": "https://www.isssource.com/ransomware-attack-at-india-nuclear-plant/",
+      "source": "GDELT/CYBER",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-16T00:33:54.459201+05:00",
-      "age_min": 108.9
+      "ts": "2026-07-16T04:17:25.989870+05:00",
+      "age_min": 77.4
     },
     {
       "hash": "2ed88a6ae1d329ac32421f1d0272fac0",
@@ -386,6 +386,66 @@
       "age_min": 18.0
     },
     {
+      "hash": "b0bf58fd1bd03656ecb6b4abd6025742",
+      "title": "RT by @elonmusk: I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local): Core (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI. Everything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple version GET you can disable in config. Purely local stuff (crash reports, debug logs, secret redaction, auth) never touches the network. All telemetry paths also scrub secrets before anything is sent. Full details 👇",
+      "summary": "I've inspected the open-sourced Grok Build so you don't have to. Here's exactly what data it sends (and what stays local):\n\nCore (unavoidable)→ Your prompts/conversations + tool calls go to xAI's inference API. That's the whole point of the CLI.\n\nEverything else is off by default — no Mixpanel, no Sentry, no product telemetry unless you explicitly turn it on. Even the auto-update check is a simple",
+      "link": "https://nitter.net/MiaAI_lab/status/2077512540431466565#m",
+      "source": "Musk/X",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T04:34:25.506739+05:00",
+      "age_min": 98.4
+    },
+    {
+      "hash": "8f06e78af53564ada440464c2ee0874c",
+      "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Daily Bonik Barta",
+      "summary": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade&nbsp;&nbsp;Daily Bonik Barta",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rankycmM1NUtkdC1tZnVlcDlOMHZRbWRpX2NUbWZnc1VPdDR1YVNHMWZjYTFGRHVldmR5cnlHOFd6UzBFYUp1YWdDMDlXVVNPTnIwNHJUdnh5T3NleFRTLU0tdUlacTQ?oc=5",
+      "source": "GNews/Mideast",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T04:34:07.044035+05:00",
+      "age_min": 43.1
+    },
+    {
+      "hash": "e58eb9035a3cdca018ae32832d5b1aeb",
+      "title": "Intel Officials Predict the Pentagon Bill for the Iran War Will Exceed $100 Billion",
+      "summary": "",
+      "link": "https://www.wired.com/story/pentagons-bill-for-iran-war-exceed-100-billion/",
+      "source": "GDELT/CYBER",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T04:17:25.989211+05:00",
+      "age_min": 32.4
+    },
+    {
+      "hash": "ce16317add8d802a97fe1283204fee98",
+      "title": "As Fed Chair Warsh sticks to policy silence , colleagues voice their views",
+      "summary": "",
+      "link": "https://whtc.com/2026/07/15/as-fed-chair-warsh-sticks-to-policy-silence-colleagues-voice-their-views/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T04:16:57.198742+05:00",
+      "age_min": 47.0
+    },
+    {
+      "hash": "62c77cb1cf69c418f6e4d466cf207921",
+      "title": "Warsh sidesteps Senate questions on inflation , AI , contact with Trump",
+      "summary": "",
+      "link": "https://www.sun-sentinel.com/2026/07/15/federal-reserve-kevin-warsh-senate/",
+      "source": "GDELT/FED_ECB",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T04:16:57.193765+05:00",
+      "age_min": 47.0
+    },
+    {
       "hash": "b9cbcc4173c943d86a8ab31c835ff5b9",
       "title": "US launches fresh strikes against Iran as escalation threatens shipping",
       "summary": "",
@@ -540,66 +600,6 @@
       "status": "new",
       "ts": "2026-07-16T01:31:28.453579+05:00",
       "age_min": 91.5
-    },
-    {
-      "hash": "d48caca10679c0d02ed659ad8662aa99",
-      "title": "Russia pounds Ukraine with missile, drone strikes",
-      "summary": "Footage shows firefighters extinguishing a massive fire after Russia launched air strikes on Ukraine.",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/russia-pounds-ukraine-with-missile-drone-strikes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T01:17:57.219080+05:00",
-      "age_min": 18.2
-    },
-    {
-      "hash": "3c15978b7d94344ae2d1ff9888b8838a",
-      "title": "War On Iran : Oil Supplies Will Again Be In Trouble – This Time For Real – Moon of Alabama",
-      "summary": "",
-      "link": "https://www.moonofalabama.org/2026/07/war-on-iran-oil-supplies-will-again-be-in-trouble-this-time-for-real.html/comment-page-4",
-      "source": "GDELT/SANCTIONS",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T00:46:39.346050+05:00",
-      "age_min": 46.7
-    },
-    {
-      "hash": "b046e33816bf03fb80b6f017d23b5adb",
-      "title": "Back-to-Back Inflation Surprise Collapses July Rate-Hike Odds as War Threatens Reversal - Tech Times",
-      "summary": "Back-to-Back Inflation Surprise Collapses July Rate-Hike Odds as War Threatens Reversal&nbsp;&nbsp;Tech Times",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWm1mSkVERTZkM3d4ZDlSLUxVdk1zUmpXTTVhUktCTURkTm82d0YtaHZLdzA3TEpmZEwwcjFjV0NHbGdSeUREYWVaT1JjSHo2Q1IxQl80a1NlUjlQcDJHM05iNnVmTnF5TE5kSVpLZDN6RHNyOHRMQTFFdFlKSThWakQzZFVsVW4wVkpDYVFjS21Ha1RkbkZkaTR2cmVBMVNCZUdhTmZuUHhpa0xjTzBIMC1ra1p0T1lPWklXNXJUb19hTk9tM0tTQkh6MHZmZnVFRFE?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T00:36:35.691007+05:00",
-      "age_min": 1.4
-    },
-    {
-      "hash": "5039908d8b29642e359334fd34101183",
-      "title": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade - Ada Derana",
-      "summary": "Iran threatens to block more vital seaways as Trump orders renewed Iran blockade&nbsp;&nbsp;Ada Derana",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vTFV4b0sxQm9SUF9HN1gzVm5wNE9qM1VBWDV4TWVwR0tyeGNOS3U1ZVlPdnRtM1kxQ3dZWnduWWpwellZVDZldXhUcG90VnVWb29iZEQtemFzWHhaRjFObA?oc=5",
-      "source": "GNews/Mideast",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T00:18:27.611431+05:00",
-      "age_min": 87.9
-    },
-    {
-      "hash": "1bf4fe5765db5005c6ae987d9a0ffdb5",
-      "title": "US strikes Iran again as Tehran warns of 'existential war' with America - The Standard (HK)",
-      "summary": "US strikes Iran again as Tehran warns of 'existential war' with America&nbsp;&nbsp;The Standard (HK)",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOUIyeV9MU0J2LWp4MlVheVVJaTZNUHZycks2RmJxcU9PNWVXSGN4NnBGMDViU3RDelNLZWE4SHpKaUFVRWxqc1pYRVl5NEp0VXVnbWE3TVBQWXpSUzdlM1VNbWhfc1hBYkdUZmpqV1BIbmd6YzFIUlN3OC1idVBHaEpMelNnNldaX1VDZTZBRnlLNW9Fc3JzeDJJSG1QcE9PMmFPTTVVdUxyYmdCMjc0ZDJ1Y1pDX1A2MDEtb3BR?oc=5",
-      "source": "GNews/Mideast",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T00:18:27.610550+05:00",
-      "age_min": 25.0
     }
   ]
 }
