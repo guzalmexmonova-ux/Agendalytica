@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T22:04:55.306730+05:00",
+  "updated": "2026-07-15T22:18:48.867674+05:00",
   "items": [
     {
       "hash": "71ee3f12f326e182c83d0c503b9f2739",
@@ -98,18 +98,6 @@
       "age_min": 31.0
     },
     {
-      "hash": "92628fb49360159e1b0a834c643c14e5",
-      "title": "China economic growth falls sharply, missing target",
-      "summary": "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports.",
-      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-15T18:18:01.760542+05:00",
-      "age_min": 176.2
-    },
-    {
       "hash": "e8e82891aa6eaa98fe0219b7156ff896",
       "title": "💬 #Zakharova: The Kingdom of Tonga has joined the Comprehensive Nuclear-Test-Ban Treaty (#CTBT), becoming its 179th ratifying state. Russia will continue working with responsible international partners to strengthen the Treaty & ensure its sustainability.",
       "summary": "💬 #Zakharova: The Kingdom of Tonga has joined the Comprehensive Nuclear-Test-Ban Treaty (#CTBT), becoming its 179th ratifying state.\n\nRussia will continue working with responsible international partners to strengthen the Treaty &amp; ensure its sustainability.",
@@ -179,6 +167,30 @@
       "weight": 4,
       "status": "new",
       "ts": "2026-07-15T18:46:09.756796+05:00",
+      "age_min": 31.2
+    },
+    {
+      "hash": "453ded0fd25ce8268e971c5dceac0b18",
+      "title": "Ukraine war : Belarus highwire act teeters under Russian pressure",
+      "summary": "",
+      "link": "https://theconversation.com/ukraine-war-belaruss-highwire-act-teeters-under-russian-pressure-287324",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T22:16:11.079188+05:00",
+      "age_min": 46.2
+    },
+    {
+      "hash": "2c0f09dcedf0e17b1d0f1a1a0e944322",
+      "title": "Ukraine and EU aim for a weapons production partnership as war grinds on",
+      "summary": "",
+      "link": "https://www.theargus.co.uk/news/national/26283808.ukraine-eu-aim-weapons-production-partnership-war-grinds/",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T22:16:11.078620+05:00",
       "age_min": 31.2
     },
     {
@@ -554,52 +566,40 @@
       "age_min": 81.5
     },
     {
-      "hash": "a72c4a0f7e254159fe5c958be14ffd6f",
-      "title": "The U . S . and Iran standoff over the Strait of Hormuz intensifies",
+      "hash": "511aec417789a391d14ad5147a7a781c",
+      "title": "Global LNG trade volumes reach record high in 2025 , driven by surge in US exports : US EIA",
       "summary": "",
-      "link": "https://www.wvtf.org/2026-07-15/the-u-s-and-iran-standoff-over-the-strait-of-hormuz-intensifies",
-      "source": "GDELT/MIDEAST",
+      "link": "http://www.beijingbulletin.com/news/279188731/global-lng-trade-volumes-reach-record-high-in-2025-driven-by-surge-in-us-exports-us-eia",
+      "source": "GDELT/ENERGY",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-15T22:02:11.729199+05:00",
-      "age_min": 32.2
+      "ts": "2026-07-15T22:17:07.822195+05:00",
+      "age_min": 32.1
     },
     {
-      "hash": "ef194f6263b9f8cb5fb1b41452405f89",
-      "title": "Kevin Warsh draws a line between the White House and the Fed - Crypto Briefing",
-      "summary": "Kevin Warsh draws a line between the White House and the Fed&nbsp;&nbsp;Crypto Briefing",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA2OTBSS0luZjhOM3poNmFqT19HUFhEblpCbnZJcFV4V0RvazJFbThWd0YxM1dPdkdyNXVGTFBRV3ZLZF9GU2RhN1I5dnJucDJiYWZmZXpYVG15a3lnZjFtQ3cwS2htaHRsS0hVcEdPOA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-15T22:04:30.876223+05:00",
-      "age_min": 55.6
-    },
-    {
-      "hash": "c8d1a8d73f6ef3854a22f09f59939302",
-      "title": "Fed's Kevin Warsh says interested in probe of Bowman bank meeting, won't prejudge outcome - The Economic Times",
-      "summary": "Fed's Kevin Warsh says interested in probe of Bowman bank meeting, won't prejudge outcome&nbsp;&nbsp;The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPZTYzSGhBd1h4UVl1RktSRi1sWFBzbG5kTmcwQjhBTm9yVEhybDExU0JDeWsxbGFRVmVrLVNtbVU4eWRhamxPS0tyY0dENU41eWI1azdQWDRBRnJPVmhxZ2prVHBPTjVFc0k1cFFYOERBcW0yMWdQY19kZ1FlcEFVcmVhcHRQOWtEYXJHWWFveVFweDFxSFRLbFgyQkd0T2w2ZkdUXzc4LXU2WFBOT2N2ekdSTFRudVh6TFIyWEFIemwtdm1lVWczRUVxLUZQSnpzdWhaYUdyM0R0MFlOT1BvY2lFQTBsUUtKZmNtU0pwaWhGWGVTbC1aR2EtZ9IB-wFBVV95cUxPZTYzSGhBd1h4UVl1RktSRi1sWFBzbG5kTmcwQjhBTm9yVEhybDExU0JDeWsxbGFRVmVrLVNtbVU4eWRhamxPS0tyY0dENU41eWI1azdQWDRBRnJPVmhxZ2prVHBPTjVFc0k1cFFYOERBcW0yMWdQY19kZ1FlcEFVcmVhcHRQOWtEYXJHWWFveVFweDFxSFRLbFgyQkd0T2w2ZkdUXzc4LXU2WFBOT2N2ekdSTFRudVh6TFIyWEFIemwtdm1lVWczRUVxLUZQSnpzdWhaYUdyM0R0MFlOT1BvY2lFQTBsUUtKZmNtU0pwaWhGWGVTbC1aR2EtZw?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-15T22:04:30.870749+05:00",
-      "age_min": 98.5
-    },
-    {
-      "hash": "a7e68184d39075f7b663abf744d6c9ff",
-      "title": "Red Security SOC зафиксировал почти трехкратный рост атак на здравоохранение в первом полугодии 2026 года",
+      "hash": "480c93b93ef0609485db14d4f05ef7d3",
+      "title": "Adriatic Lng ha coperto il 14 % della domanda di gas in 6 mesi - Energia & Energie",
       "summary": "",
-      "link": "https://www.cnews.ru/news/line/2026-07-15_red_security_soc_zafiksiroval_pochti",
-      "source": "GDELT/CYBER",
-      "score": 6,
-      "weight": 3,
+      "link": "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/07/15/adriatic-lng-ha-coperto-il-14-della-domanda-di-gas-in-6-mesi_ccb89043-2c2c-4f02-a03b-f69babf71051.html",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-15T22:03:14.517317+05:00",
-      "age_min": 93.2
+      "ts": "2026-07-15T22:17:07.816532+05:00",
+      "age_min": 47.1
+    },
+    {
+      "hash": "744fc9cef6a7cb120566c9e50f9b8137",
+      "title": "Strait of Hormuz disruption sends US oil prices rising",
+      "summary": "",
+      "link": "https://www.wlwt.com/article/oil-prices-rise-us-iran-ceasefire/71931283",
+      "source": "GDELT/ENERGY",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T22:17:07.816194+05:00",
+      "age_min": 32.1
     }
   ]
 }
