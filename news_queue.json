@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T08:34:41.240260+05:00",
+  "updated": "2026-07-15T08:39:24.913520+05:00",
   "items": [
     {
       "hash": "8aecc84a4b5e6ec6bbad649c6ebe293c",
@@ -168,6 +168,18 @@
       "status": "new",
       "ts": "2026-07-15T05:33:47.719392+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "770c5193d5f5de222844de308f7a3c4c",
+      "title": "Gold holds gain as soft US inflation data reduces rate hike bets",
+      "summary": "",
+      "link": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/gold-holds-gain-soft-us-inflation-data-reduces-rate-hike-bets",
+      "source": "GDELT/FED_ECB",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-15T08:37:21.880528+05:00",
+      "age_min": 22.4
     },
     {
       "hash": "55cbd58505e478b4b828f75eca62a91f",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-07-15T05:01:32.014251+05:00",
       "age_min": -1393.5
-    },
-    {
-      "hash": "e05aebf8f4fb0ed969a86c525ecaee25",
-      "title": "Oil rises as U.S. continues to strike Tehran, reinstates blockade of Iranian ports",
-      "summary": "Oil prices rose Wednesday after U.S. forces struck Tehran and Washington reinstated its naval blockade of Iranian ports near the Strait of Hormuz.",
-      "link": "https://www.cnbc.com/2026/07/15/oil-prices-today-brent-wti-hormuz-blockade.html",
-      "source": "CNBC",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-15T08:04:19.091082+05:00",
-      "age_min": 5.5
     }
   ]
 }
