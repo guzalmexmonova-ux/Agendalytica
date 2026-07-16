@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:34:31.986126+05:00",
+  "updated": "2026-07-16T19:48:53.233542+05:00",
   "items": [
     {
       "hash": "190ca61422524fb782284c8db6b3251e",
@@ -10,8 +10,8 @@
       "score": 10,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T19:33:51.171073+05:00",
-      "age_min": 82.0
+      "ts": "2026-07-16T19:35:58.007293+05:00",
+      "age_min": 84.1
     },
     {
       "hash": "04fd25271634a7ea2beacc331ee593ac",
@@ -70,20 +70,32 @@
       "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T19:31:15.662646+05:00",
-      "age_min": 31.3
+      "ts": "2026-07-16T19:45:50.602793+05:00",
+      "age_min": 45.8
+    },
+    {
+      "hash": "142154f08a0040800841ecc750583be6",
+      "title": "Inside Ukraine War Robot Revolution - Business Insider",
+      "summary": "",
+      "link": "https://www.businessinsider.com/inside-ukraines-war-robot-revolution-2026-7",
+      "source": "GDELT/RUSSIA_UA",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T19:34:02.543902+05:00",
+      "age_min": 49.0
     },
     {
       "hash": "266c50a4d913a80cb3d177efa466849d",
       "title": "Despite Ukraine Victories , False Narratives About The War Persist",
       "summary": "",
       "link": "https://www.forbes.com/sites/marktemnycky/2026/07/16/despite-ukraines-victories-false-narratives-about-the-war-persist/",
-      "source": "GDELT/CONFLICTS",
+      "source": "GDELT/RUSSIA_UA",
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T19:31:15.659635+05:00",
-      "age_min": 46.3
+      "ts": "2026-07-16T19:34:02.538241+05:00",
+      "age_min": 49.0
     },
     {
       "hash": "645e1131ec4826776c2dddfc62d82197",
@@ -146,28 +158,16 @@
       "age_min": 21.4
     },
     {
-      "hash": "d6e60b3a360d6a668c9bb20bc7766a5d",
-      "title": "Oil prices will skyrocket : Experts warn of a new major war in the Persian Gulf",
-      "summary": "",
-      "link": "https://news.am/en/news/1050034",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
+      "hash": "8c0098e8e33716260fea5cca2c4d2749",
+      "title": "Highway Executive Given 12-Year Sentence Over Deadly Bridge Collapse in Italy",
+      "summary": "Giovanni Castellucci oversaw a company that managed the Morandi Bridge in Genoa when it fell down in 2018, killing 43 people.",
+      "link": "https://www.nytimes.com/2026/07/16/world/europe/italy-bridge-verdict-morandi-collapse.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-16T15:45:43.926291+05:00",
-      "age_min": 75.7
-    },
-    {
-      "hash": "19ed127b6fa0ed7c440cec20b553e350",
-      "title": "Back to war - Newspaper - DAWN . COM",
-      "summary": "",
-      "link": "https://www.dawn.com/news/2015552/back-to-war",
-      "source": "GDELT/CONFLICTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T15:45:43.924920+05:00",
-      "age_min": 30.7
+      "ts": "2026-07-16T19:35:58.324609+05:00",
+      "age_min": 5.2
     },
     {
       "hash": "23f54aaf95e53b3753ddf64e16ca25ce",
@@ -350,6 +350,18 @@
       "age_min": 16.6
     },
     {
+      "hash": "82793fa8a191682ca361f26d05554f2a",
+      "title": "Kanishka : The terror attack that buried the myth of  peaceful  Khalistan",
+      "summary": "",
+      "link": "https://www.prokerala.com/news/articles/a1788797.html",
+      "source": "GDELT/TERRORISM",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T19:46:05.634609+05:00",
+      "age_min": 31.1
+    },
+    {
       "hash": "20d7610c927ac54242e9dc9acdd142a4",
       "title": "Федоров против Сырского и Гнатова. Конфликт между главами военных структур на Украине",
       "summary": "Издание \"Страна\" выразило мнение, что и.о. министра обороны страны во время брифинга устроил прямой мятеж против власти Владимира Зеленского",
@@ -358,8 +370,20 @@
       "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-16T19:33:54.516832+05:00",
-      "age_min": 9.2
+      "ts": "2026-07-16T19:36:01.497803+05:00",
+      "age_min": 11.3
+    },
+    {
+      "hash": "bf278244b426ef490131487c27d63c8d",
+      "title": "US or Iran — Who needs a new truce deal more?",
+      "summary": "Both sides face pressure points that could make a protracted war painful.",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T19:35:58.221135+05:00",
+      "age_min": 22.8
     },
     {
       "hash": "1ed0af7c1b6c2d46884fe831ad2b0c4f",
@@ -518,30 +542,6 @@
       "age_min": 92.4
     },
     {
-      "hash": "3589dfc959618390e14f33757b80ba9b",
-      "title": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
-      "summary": "The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.",
-      "link": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou?traffic_source=rss",
-      "source": "Al Jazeera",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T15:48:17.852567+05:00",
-      "age_min": 20.3
-    },
-    {
-      "hash": "bf6fe13840087f08ae0d3a3142dea5b8",
-      "title": "Brent Holds Below $90 as Markets Wait for the Next Escalation Trigger . Is $100 Next ?",
-      "summary": "",
-      "link": "https://www.actionforex.com/action-insight/market-overview/647411-brent-holds-below-90-as-markets-wait-for-the-next-escalation-trigger-is-100-next/",
-      "source": "GDELT/CONFLICTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T15:45:43.926871+05:00",
-      "age_min": 30.7
-    },
-    {
       "hash": "6c6c9612456644370574a37aa63a1e3a",
       "title": "LIVE | US-Iran Ceasefire Broken? Missile Alerts In Israel, Dubai After Trump's Announcement Val-d'or (epbVX7f4IY) - Mshale",
       "summary": "LIVE | US-Iran Ceasefire Broken? Missile Alerts In Israel, Dubai After Trump's Announcement Val-d'or (epbVX7f4IY)&nbsp;&nbsp;Mshale",
@@ -586,20 +586,20 @@
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T19:31:15.665210+05:00",
-      "age_min": 46.3
+      "ts": "2026-07-16T19:45:50.605474+05:00",
+      "age_min": 60.8
     },
     {
-      "hash": "355339eff30f1a76ae97af5f9dd0b06a",
-      "title": "Inpex Starts Construction of Indonesia Abadi LNG Project",
-      "summary": "",
-      "link": "https://www.oedigital.com/news/541280-inpex-starts-construction-of-indonesia-s-abadi-lng-project",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
+      "hash": "549cd490dcdcecd94d1b07229cfb2726",
+      "title": "Fed leadership signals steady rate stance as Warsh wins backing from Sen. Rounds - Traders Union",
+      "summary": "Fed leadership signals steady rate stance as Warsh wins backing from Sen. Rounds&nbsp;&nbsp;Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTGdVNFA1WXNiclV4ODZNaEVLUm1OYWc3ZHhMa21SWi1SaGNTQWEwZWQ2RzlLYlRFUlNRY2RxelRsU0lkT0pYdTRMajdIRUpYek5ua28xUU9PWFpUT1NCRnBWc2t5eGJ1VjQ2RnVyOWpibmtMQ2JWVGU2WnNObWREZXRiS3VGcEF4c1Y0UFhUSldsbnZp?oc=5",
+      "source": "GNews/CentralBanks",
+      "score": 6,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-16T19:03:05.230890+05:00",
-      "age_min": 93.1
+      "ts": "2026-07-16T19:48:31.679579+05:00",
+      "age_min": 35.1
     }
   ]
 }
