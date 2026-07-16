@@ -1,6 +1,7 @@
-feedparser==6.0.11
-requests==2.32.3
-httpx==0.28.1
-beautifulsoup4==4.12.3
-newspaper4k==0.9.3
-lxml==5.3.0
+feedparser
+requests
+httpx
+beautifulsoup4
+nltk
+newspaper4k
+lxml[html_clean]
