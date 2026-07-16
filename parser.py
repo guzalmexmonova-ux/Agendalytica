@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v5.2 (FULL CONTENT & TRANSLATED)
+AGENDALYTICA — PARSER v5.3 (FULL CONTENT & TRANSLATED)
 Добавлен сбор полных текстов статей через Newspaper4k и HTTPX + BeautifulSoup.
 Все собранные материалы автоматически переводятся на русский язык.
+Интегрированы RSS-ленты Yahoo News & AOL News.
 """
 
 import feedparser
@@ -94,6 +95,16 @@ RSS_FEEDS = [
     {"url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",                                                                                     "source": "GNews/Home-US",     "weight": 4},
     {"url": "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en",                         "source": "GNews/World-US",    "weight": 4},
     {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",                         "source": "GNews/Business-US", "weight": 4},
+
+    # ── ИСТОЧНИКИ YAHOO NEWS (вес 4) ──────────────────────────────────────
+    {"url": "https://news.yahoo.com/rss/",                                                                                                               "source": "Yahoo/Home",        "weight": 4},
+    {"url": "https://news.yahoo.com/rss/world",                                                                                                          "source": "Yahoo/World",       "weight": 4},
+    {"url": "https://news.yahoo.com/rss/politics",                                                                                                       "source": "Yahoo/Politics",    "weight": 4},
+    {"url": "https://finance.yahoo.com/rss/",                                                                                                            "source": "Yahoo/Finance",     "weight": 4},
+
+    # ── ИСТОЧНИКИ AOL NEWS (вес 4) ────────────────────────────────────────
+    {"url": "https://www.aol.com/rss/",                                                                                                                  "source": "AOL/Home",          "weight": 4},
+    {"url": "https://www.aol.com/news/rss/",                                                                                                             "source": "AOL/News",          "weight": 4},
 
     # ── УРОВЕНЬ 2: Институциональные первоисточники (вес 5) ──────────────
     {"url": "https://www.federalreserve.gov/feeds/press_all.xml",           "source": "FED",              "weight": 5},
@@ -564,7 +575,7 @@ def fetch_all() -> list:
             print(f"  ⚠ GDELT [{source_name}]: {e}")
     print(f"  ✓ GDELT: {gdelt_ok} статей")
 
-    # ── RSS (+ Google News новые) ────────────────────────────
+    # ── RSS (+ Google News / Yahoo / AOL новые) ──────────────
     rss_ok = 0
     rss_fail = 0
     for cfg in RSS_FEEDS:
@@ -734,7 +745,7 @@ def get_or_create_gist():
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def main():
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.2 — {now_str} TASHKENT")
+    print(f"🔄 Parser v5.3 — {now_str} TASHKENT")
     print(f"    Источников RSS: {len(RSS_FEEDS)} | GDELT срезов: {len(GDELT_FEEDS)}")
 
     gist_id = get_or_create_gist()
