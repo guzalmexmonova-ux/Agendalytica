@@ -1,11 +1,15 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v5.1 (TRANSLATED)
-Добавлены новые топики Google News + автоперевод заголовков на русский язык.
+AGENDALYTICA — PARSER v5.2 (FULL CONTENT & TRANSLATED)
+Добавлен сбор полных текстов статей через Newspaper4k и HTTPX + BeautifulSoup.
+Все собранные материалы автоматически переводятся на русский язык.
 """
 
 import feedparser
 import requests
+import httpx
+from bs4 import BeautifulSoup
+from newspaper import Article
 import hashlib
 import json
 import re
@@ -374,10 +378,6 @@ def _has(kw: str, text: str) -> bool:
 
 # ── ФУНКЦИЯ АВТОПЕРЕВОДА ЧЕРЕЗ GOOGLE TRANSLATE WEB API ──────────
 def translate_to_ru(text: str) -> str:
-    """
-    Бесплатный перевод строк на русский язык с использованием Google Translate Web API.
-    Если строка уже содержит достаточно кириллицы, возвращается без изменений.
-    """
     if not text:
         return ""
     
@@ -404,6 +404,44 @@ def translate_to_ru(text: str) -> str:
         print(f"  ⚠ Ошибка перевода для '{text[:30]}...': {e}")
     
     return text
+
+
+# ── ИЗВЛЕЧЕНИЕ ПОЛНОГО ТЕКСТА СТАТЬИ (NEWSPAPER4K + HTTPX/BS4) ──
+def extract_full_text(url: str) -> str:
+    """
+    Скачивает и очищает веб-страницу, извлекая чистый текст новости.
+    Применяется Newspaper4k, с откатом на HTTPX + BeautifulSoup.
+    """
+    try:
+        # Пробуем через Newspaper4k
+        article = Article(url)
+        article.download()
+        article.parse()
+        if article.text and len(article.text.strip()) > 150:
+            return article.text.strip()
+    except Exception as e:
+        print(f"  ⚠ Ошибка Newspaper4k для {url}: {e}")
+
+    # Резервный ручной парсинг (HTTPX + BeautifulSoup)
+    try:
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+        with httpx.Client(headers=headers, timeout=10, follow_redirects=True) as client:
+            response = client.get(url)
+            if response.status_code == 200:
+                soup = BeautifulSoup(response.text, "html.parser")
+                # Избавляемся от мусора на странице
+                for tag in soup(["script", "style", "nav", "header", "footer", "form", "aside"]):
+                    tag.decompose()
+                
+                clean_text = soup.get_text(separator="\n")
+                lines = [line.strip() for line in clean_text.splitlines() if line.strip()]
+                restored_text = "\n".join(lines)
+                if len(restored_text) > 150:
+                    return restored_text[:4000]  # ограничиваем разумным объемом для LLM
+    except Exception as e:
+        print(f"  ⚠ Ошибка резервного парсера (HTTPX+BS4) для {url}: {e}")
+    
+    return ""
 
 
 def score_article(title: str, summary: str = "", domain: str = "") -> int:
@@ -465,7 +503,7 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  ПАРСИНГ И АВТОМАТИЧЕСКИЙ ПЕРЕВОД
+#  ПАРСИНГ, СБОР КОНТЕНТА И ПЕРЕВОД
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def fetch_all() -> list:
     articles = []
@@ -503,12 +541,21 @@ def fetch_all() -> list:
                 seen_hashes.add(h)
                 gdelt_ok += 1
                 
-                # Автоперевод на русский
+                # Автоперевод заголовка
                 title_ru = translate_to_ru(title)
 
+                # Выгрузка полного текста статьи по ссылке
+                full_text_en = extract_full_text(link)
+                full_text_ru = translate_to_ru(full_text_en) if full_text_en else ""
+
                 articles.append({
-                    "hash": h, "title": title_ru, "original_title": title, "summary": "",
-                    "link": link, "source": source_name,
+                    "hash": h, 
+                    "title": title_ru, 
+                    "original_title": title, 
+                    "summary": full_text_ru[:1500] if full_text_ru else "",  # Сохраняем перевод полного тела статьи в summary для Claude
+                    "original_full_text": full_text_en,
+                    "link": link, 
+                    "source": source_name,
                     "score": sc, "weight": weight, "status": "new",
                     "ts": datetime.now(TZ).isoformat(),
                     "age_min": age_min,
@@ -554,13 +601,22 @@ def fetch_all() -> list:
                 seen_hashes.add(h)
                 rss_ok += 1
 
-                # Автоперевод на русский
+                # Извлечение полного текста и его локализация
+                full_text_en = extract_full_text(link)
+                if not full_text_en and summary:
+                    full_text_en = summary
+                full_text_ru = translate_to_ru(full_text_en) if full_text_en else ""
+
                 title_ru = translate_to_ru(title)
-                summary_ru = translate_to_ru(summary) if summary else ""
 
                 articles.append({
-                    "hash": h, "title": title_ru, "original_title": title, "summary": summary_ru[:400],
-                    "link": link, "source": cfg["source"],
+                    "hash": h, 
+                    "title": title_ru, 
+                    "original_title": title, 
+                    "summary": full_text_ru[:1500] if full_text_ru else "",
+                    "original_full_text": full_text_en,
+                    "link": link, 
+                    "source": cfg["source"],
                     "score": sc, "weight": cfg["weight"], "status": "new",
                     "ts": datetime.now(TZ).isoformat(),
                     "age_min": age_min,
@@ -678,7 +734,7 @@ def get_or_create_gist():
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def main():
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.1 — {now_str} TASHKENT")
+    print(f"🔄 Parser v5.2 — {now_str} TASHKENT")
     print(f"    Источников RSS: {len(RSS_FEEDS)} | GDELT срезов: {len(GDELT_FEEDS)}")
 
     gist_id = get_or_create_gist()
@@ -697,9 +753,9 @@ def main():
     queue_items = queue.get("items", [])
     queue_hashes = {a["hash"] for a in queue_items}
 
-    print("📡 Парсинг источников...")
+    print("📡 Парсинг источников и сбор контента...")
     articles = fetch_all()
-    print(f"✅ Найдено {len(articles)} статей (score ≥ {MIN_SCORE})")
+    print(f"✅ Обработано {len(articles)} статей (score ≥ {MIN_SCORE})")
 
     added = 0
     fresh_to_send = []
