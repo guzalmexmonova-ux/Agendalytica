@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T15:34:20.765840+05:00",
+  "updated": "2026-07-16T15:49:07.189067+05:00",
   "items": [
     {
       "hash": "d55edbd36c0023817465e425d249ac54",
@@ -50,16 +50,28 @@
       "age_min": 30.8
     },
     {
-      "hash": "b985a6435fcf8c07e927dc6ce5f1cdaa",
-      "title": "Blasts heard in Kyiv during ballistic missile alert : AFP",
+      "hash": "d6e60b3a360d6a668c9bb20bc7766a5d",
+      "title": "Oil prices will skyrocket : Experts warn of a new major war in the Persian Gulf",
       "summary": "",
-      "link": "https://www.bssnews.net/international/406112",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 9,
+      "link": "https://news.am/en/news/1050034",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T11:46:09.332995+05:00",
-      "age_min": 91.2
+      "ts": "2026-07-16T15:45:43.926291+05:00",
+      "age_min": 75.7
+    },
+    {
+      "hash": "19ed127b6fa0ed7c440cec20b553e350",
+      "title": "Back to war - Newspaper - DAWN . COM",
+      "summary": "",
+      "link": "https://www.dawn.com/news/2015552/back-to-war",
+      "source": "GDELT/CONFLICTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T15:45:43.924920+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "01e102fcde091b70e380a9bb0e4952e9",
@@ -156,18 +168,6 @@
       "status": "new",
       "ts": "2026-07-16T13:48:12.905362+05:00",
       "age_min": 1.0
-    },
-    {
-      "hash": "734d711110f7591963cbc86d0f91f3e3",
-      "title": "Ukraine and EU aim for a weapons production partnership as war with Russia grinds on",
-      "summary": "",
-      "link": "https://dunyanews.tv/en/World/962833-ukraine-and-eu-aim-for-a-weapons-production-partnership-as-war-with-ru",
-      "source": "GDELT/RUSSIA_UA",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T11:46:09.331249+05:00",
-      "age_min": 31.2
     },
     {
       "hash": "498d39d1124b3cdc95630798193d75a4",
@@ -386,6 +386,30 @@
       "age_min": 33.1
     },
     {
+      "hash": "3589dfc959618390e14f33757b80ba9b",
+      "title": "‘Safe passage’: The fatal ambiguity at the heart of the Hormuz MoU",
+      "summary": "The vague language of the US-Iran MoU made the present escalation in the Strait of Hormuz all but inevitable.",
+      "link": "https://www.aljazeera.com/opinions/2026/7/16/safe-passage-the-fatal-ambiguity-at-the-heart-of-the-hormuz-mou?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T15:48:17.852567+05:00",
+      "age_min": 20.3
+    },
+    {
+      "hash": "bf6fe13840087f08ae0d3a3142dea5b8",
+      "title": "Brent Holds Below $90 as Markets Wait for the Next Escalation Trigger . Is $100 Next ?",
+      "summary": "",
+      "link": "https://www.actionforex.com/action-insight/market-overview/647411-brent-holds-below-90-as-markets-wait-for-the-next-escalation-trigger-is-100-next/",
+      "source": "GDELT/CONFLICTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T15:45:43.926871+05:00",
+      "age_min": 30.7
+    },
+    {
       "hash": "ab28d39188d916632bc9dbf4cef91030",
       "title": "Fadlallah says Hezbollah pinning hope on Iran - US talks despite escalation",
       "summary": "",
@@ -542,64 +566,40 @@
       "age_min": 9.1
     },
     {
-      "hash": "216b67c0d6af2c7b9223b010b197fbad",
-      "title": "LNG - Boom : Europas Industrie zahlt den Preis",
+      "hash": "7ccd1b5b78f708f86591c53a219a6c00",
+      "title": "BlackSeaNews | FT : Греція заблокувала новий пакет санкцій проти РФ через компанію Dynagas , яка перевозить російський СПГ",
       "summary": "",
-      "link": "https://deutsche-wirtschafts-nachrichten.de/721380/lng-importe-der-eu-amerika-kassiert-europas-industrie-zahlt",
+      "link": "https://www.blackseanews.net/read/246153",
       "source": "GDELT/ENERGY",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T14:47:17.506183+05:00",
-      "age_min": 47.3
+      "ts": "2026-07-16T15:47:23.699002+05:00",
+      "age_min": 32.4
     },
     {
-      "hash": "12cd6d90d9e58d57a1cba068ce1cda97",
-      "title": "Indonesia kickstarts long - delayed US$21 billion Abadi Masela LNG project",
+      "hash": "10417f4725cd308a421ba74bdb35982a",
+      "title": "Евросоюз нарастил импорт СПГ из России до максимума с начала 2025 года",
       "summary": "",
-      "link": "https://www.businesstimes.com.sg/international/asean/indonesia-kickstarts-long-delayed-us21-billion-abadi-masela-lng-project",
+      "link": "https://1prime.ru/20260716/spg-871554257.html",
       "source": "GDELT/ENERGY",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T14:47:17.503425+05:00",
-      "age_min": 32.3
+      "ts": "2026-07-16T15:47:23.695648+05:00",
+      "age_min": 32.4
     },
     {
-      "hash": "e7535eb8aef116049da160e91f6091fc",
-      "title": "FT : Греція блокує 21 - й пакет санкцій ЄС проти російського СПГ",
+      "hash": "94a2f4d3d46731c2489525ef78bab208",
+      "title": "FT : Греция заблокировала 21 - й пакет санкций ЕС из - за российского СПГ",
       "summary": "",
-      "link": "https://lb.ua/news/2026/07/16/752286_ft_gretsiya_blokuie_21-y_paket.html",
+      "link": "https://www.svoboda.org/a/ft-gretsiya-zablokirovala-21-y-paket-sanktsiy-es-iz-za-rossiyskogo-spg/33804895.html",
       "source": "GDELT/ENERGY",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T14:47:17.501987+05:00",
-      "age_min": 47.3
-    },
-    {
-      "hash": "0a4e53dfbfb8021dc2263b050dc91c78",
-      "title": "FT : Η Ελλάδα μπλοκάρει τις νέες κυρώσεις της ΕΕ στο ρωσικό LNG στηρίζοντας την Dynagas του Γιώργου Προκοπίου",
-      "summary": "",
-      "link": "https://www.newsit.gr/oikonomia/megales-epixeiriseis/ft-i-ellada-mplokarei-tis-nees-kyroseis-tis-ee-sto-rosiko-lng-stirizontas-tin-dynagas-tou-giorgou-prokopiou/4729688/",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T14:17:11.622568+05:00",
-      "age_min": 32.2
-    },
-    {
-      "hash": "bfbfbaf5858f6724a73bb8565468b059",
-      "title": "Erste US - LNG - Ladung seit 2025 : US - Gas erreicht China – doch landet die Ladung wirklich im Netz ? | wallstreetONLINE",
-      "summary": "",
-      "link": "https://www.wallstreet-online.de/nachricht/21116380-us-lng-ladung-2025-us-gas-erreicht-china-landet-ladung-netz",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T14:17:11.620981+05:00",
-      "age_min": 77.2
+      "ts": "2026-07-16T15:47:23.691600+05:00",
+      "age_min": 47.4
     }
   ]
 }
