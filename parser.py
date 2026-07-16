@@ -1,20 +1,7 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v4.0 (FULL)
-Все источники из parsing_skill.md + Парсинг.docx
-GitHub Actions → Gist → Claude читает raw URL → анализирует
-
-Источники:
-  • GDELT (12 срезов, timespan=2h)
-  • Институциональные (FED, IMF, BIS, ECB, IEA, WTO, NATO, UN, Pentagon)
-  • Ведущие СМИ (Reuters, AP, Bloomberg, FT, WSJ, BBC, AJ, NYT, CNBC, Nikkei, SCMP, TASS, Lenta, ZeroHedge, Crisis Group, Foreign Affairs, The Diplomat, Eurasianet)
-  • Telegram каналы via tg.i-c-a.su RSS (25 каналов)
-  • Google News EN + RU (8 срезов)
-  • X/Nitter — лидеры, МИД, военные, организации (22 аккаунта)
-  • Truth Social — Трамп (прямой RSS)
-
-Скоринг: 6-10 баллов из Парсинг.docx (полная таблица)
-Хранение: GitHub Gist (secret) → raw URL для Claude
+AGENDALYTICA — PARSER v5.1 (TRANSLATED)
+Добавлены новые топики Google News + автоперевод заголовков на русский язык.
 """
 
 import feedparser
@@ -23,6 +10,7 @@ import hashlib
 import json
 import re
 import os
+import urllib.parse
 from datetime import datetime, timezone, timedelta
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -31,18 +19,17 @@ from datetime import datetime, timezone, timedelta
 GIST_TOKEN    = os.environ.get("GIST_TOKEN", "")
 GIST_ID       = os.environ.get("GIST_ID", "")
 
-HOURS_WINDOW  = 4        # окно свежести в часах (4ч = нет слепых зон между 3 сессиями)
-MIN_SCORE     = 5        # минимальный балл (из 10) — пограничный свежак проходит, мусор в 0
+HOURS_WINDOW  = 4        # окно свежести в часах
+MIN_SCORE     = 5        # минимальный балл (из 10)
 TOP_N         = 50       # топ статей в очереди
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  УРОВЕНЬ 1 — GDELT (12 срезов из parsing_skill.md)
+#  УРОВЕНЬ 1 — GDELT (12 срезов)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GDELT_FEEDS = [
-    # (url, source_name, weight)
     (
         "https://api.gdeltproject.org/api/v2/doc/doc?query=(conflict+OR+war+OR+military+OR+invasion+OR+airstrike+OR+missile+OR+nuclear+OR+escalation+OR+coup+OR+mobilization)&mode=artlist&maxrecords=75&format=rss&timespan=2h",
         "GDELT/CONFLICTS", 4
@@ -95,9 +82,14 @@ GDELT_FEEDS = [
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  УРОВЕНЬ 2-4 — RSS (институциональные + СМИ + Telegram + Google + Nitter)
+#  УРОВЕНЬ 2-4 — RSS (+ Новые Google News линки)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 RSS_FEEDS = [
+
+    # ── НОВЫЕ ТРЕБУЕМЫЕ ИСТОЧНИКИ GOOGLE NEWS (вес 4) ──────────────────────
+    {"url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en",                                                                                     "source": "GNews/Home-US",     "weight": 4},
+    {"url": "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en",                         "source": "GNews/World-US",    "weight": 4},
+    {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en",                         "source": "GNews/Business-US", "weight": 4},
 
     # ── УРОВЕНЬ 2: Институциональные первоисточники (вес 5) ──────────────
     {"url": "https://www.federalreserve.gov/feeds/press_all.xml",           "source": "FED",              "weight": 5},
@@ -132,34 +124,30 @@ RSS_FEEDS = [
     {"url": "https://www.zerohedge.com/fullrss2.xml",                       "source": "ZeroHedge",        "weight": 2},
 
     # ── УРОВЕНЬ 4: Telegram каналы via RSS bridge (вес 4/3) ──────────────
-    # Breaking/Wire
-    {"url": "https://tg.i-c-a.su/rss/bbbreaking",                          "source": "TG/Bloomberg",     "weight": 4},
-    {"url": "https://tg.i-c-a.su/rss/ReutersWorld",                        "source": "TG/Reuters",       "weight": 4},
-    {"url": "https://tg.i-c-a.su/rss/ftnews",                              "source": "TG/FT",            "weight": 4},
-    {"url": "https://tg.i-c-a.su/rss/tass_agency",                         "source": "TG/TASS",          "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rian_ru",                             "source": "TG/RIA",           "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rbc_news",                            "source": "TG/RBC",           "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/interfaxonline",                      "source": "TG/Interfax",      "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/market_twits",                        "source": "TG/Markets",       "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/centralasian",                        "source": "TG/CentralAsia",   "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/militarynews",                        "source": "TG/Military",      "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/oilgas",                              "source": "TG/OilGas",        "weight": 3},
-    # Геополитика
-    {"url": "https://tg.i-c-a.su/rss/geopolitics_live",                    "source": "TG/Geopolitics",   "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/war_monitor",                         "source": "TG/WarMonitor",    "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/intelslava",                          "source": "TG/IntelSlava",    "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rybar",                               "source": "TG/Rybar",         "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/grey_zone",                           "source": "TG/GreyZone",      "weight": 3},
-    # Экономика
-    {"url": "https://tg.i-c-a.su/rss/macronomics",                         "source": "TG/Macro",         "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/cbonds_news",                         "source": "TG/CBonds",        "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/investing",                           "source": "TG/Investing",     "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/federalreserve",                      "source": "TG/FedWatch",      "weight": 3},
-    # Ближний Восток / Азия
-    {"url": "https://tg.i-c-a.su/rss/mideastspectrum",                     "source": "TG/Mideast",       "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/iranintl",                            "source": "TG/IranIntl",      "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/chinaobservers",                      "source": "TG/China",         "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/nknewsorg",                           "source": "TG/NKNews",        "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/bbbreaking",                           "source": "TG/Bloomberg",     "weight": 4},
+    {"url": "https://tg.i-c-a.su/rss/ReutersWorld",                         "source": "TG/Reuters",       "weight": 4},
+    {"url": "https://tg.i-c-a.su/rss/ftnews",                               "source": "TG/FT",            "weight": 4},
+    {"url": "https://tg.i-c-a.su/rss/tass_agency",                          "source": "TG/TASS",          "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/rian_ru",                              "source": "TG/RIA",           "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/rbc_news",                             "source": "TG/RBC",           "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/interfaxonline",                       "source": "TG/Interfax",      "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/market_twits",                         "source": "TG/Markets",       "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/centralasian",                         "source": "TG/CentralAsia",   "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/militarynews",                         "source": "TG/Military",      "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/oilgas",                               "source": "TG/OilGas",        "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/geopolitics_live",                     "source": "TG/Geopolitics",   "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/war_monitor",                          "source": "TG/WarMonitor",    "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/intelslava",                           "source": "TG/IntelSlava",    "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/rybar",                                "source": "TG/Rybar",         "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/grey_zone",                            "source": "TG/GreyZone",      "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/macronomics",                          "source": "TG/Macro",         "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/cbonds_news",                          "source": "TG/CBonds",        "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/investing",                            "source": "TG/Investing",     "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/federalreserve",                       "source": "TG/FedWatch",      "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/mideastspectrum",                      "source": "TG/Mideast",       "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/iranintl",                             "source": "TG/IranIntl",      "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/chinaobservers",                       "source": "TG/China",         "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/nknewsorg",                            "source": "TG/NKNews",        "weight": 3},
 
     # ── Google News EN (when:2h) ──────────────────────────────────────────
     {"url": "https://news.google.com/rss/search?q=USA+China+Taiwan+military+Strait+when:2h&hl=en-US",            "source": "GNews/USA-China",  "weight": 3},
@@ -294,13 +282,11 @@ SCORES_MAP = {
     6:  SCORE_6,
 }
 
-# Breaking-маркеры — повышают балл на +1 (но не выше 10)
 BREAKING_MARKERS = [
     "breaking", "just in", "confirmed", "urgent", "alert", "flash", "exclusive",
     "срочно", "только что", "сейчас", "экстренно", "подтверждено", "молния", "флэш",
 ]
 
-# Anchor keywords — если есть хотя бы один, статья получает +2
 ANCHOR_KEYWORDS = [
     "nuclear", "ядерн", "nato article 5", "invasion", "вторжение",
     "assassination", "покушение", "war", "война", "coup", "переворот",
@@ -314,16 +300,14 @@ ANCHOR_KEYWORDS = [
     "brent falls", "gold surges",
 ]
 
-# Tier-1 домены — надёжные первоисточники (+1 балл)
 TIER1_DOMAINS = {
     "reuters.com", "bloomberg.com", "ft.com", "wsj.com", "apnews.com",
     "federalreserve.gov", "imf.org", "bis.org", "ecb.europa.eu",
     "nato.int", "defense.gov", "un.org", "iea.org", "wto.org",
     "nytimes.com", "bbc.com", "bbc.co.uk",
-    "truthsocial.com",  # Трамп
+    "truthsocial.com",
 }
 
-# Мусорные домены — игнорировать
 NOISE_DOMAINS = {
     "msn.com", "buzzfeed.com", "huffpost.com", "dailymail.co.uk",
     "fxstreet.com", "fxempire.com", "investopedia.com", "seekingalpha.com",
@@ -334,26 +318,18 @@ NOISE_DOMAINS = {
     "people.com", "cosmopolitan.com", "vogue.com",
 }
 
-# Шумовые паттерны — нерелевантный контент
 NOISE_PATTERNS = [
-    # Еда
     "whiskey", "виски", "coffee", "кофе", "barista", "restaurant", "ресторан",
     "recipe", "рецепт", "food", "beer", "пиво", "wine", "вино", "chef",
-    # Туризм
     "vacation", "отпуск", "tourism", "hotel", "resort", "курорт",
-    # Спорт
     "soccer", "football goal", "basketball", "баскетбол",
     "nba draft", "nfl draft", "transfer fee", "трансфер игрок",
-    # Шоу-бизнес
     "celebrity", "знаменитость", "hollywood", "box office",
     "music video", "grammy", "oscar", "emmy", "album release", "red carpet",
-    # Маркетинг
     "seo tips", "digital marketing", "influencer", "инфлюенсер",
     "smartphone launch", "smartwatch", "gaming laptop",
-    # Здоровье/личное
     "diet tips", "weight loss", "похудение", "yoga", "meditation",
     "horoscope", "гороскоп", "zodiac",
-    # Аналитические форматы — не оперативные новости
     "week in review", "monthly roundup", "annual report", "year in review",
     "everything you need to know", "deep dive into", "a brief history",
     "итоги недели", "годовой отчёт", "история вопроса", "всё что нужно знать",
@@ -362,7 +338,6 @@ NOISE_PATTERNS = [
     "мнение:", "колонка:", "the case for", "the case against",
 ]
 
-# Аналитические маркеры в заголовке — снижают балл до 0
 ANALYTICAL_MARKERS = [
     "week in review", "monthly roundup", "annual report", "year in review",
     "everything you need to know", "deep dive into", "a brief history",
@@ -384,7 +359,6 @@ def extract_domain(url):
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
-# Жёсткий вето-фильтр: спорт/быт прорывается с высоким баллом из-за слова "war"
 VETO_PATTERNS = [
     " vs ", " vs.", "overtime", "stabbing", "pleads guilty", "win prize",
     "awards", "box office", "red carpet", "world cup call", "draft pick",
@@ -393,22 +367,49 @@ VETO_PATTERNS = [
 ]
 
 def _has(kw: str, text: str) -> bool:
-    """Совпадение по ГРАНИЦЕ слова: 'war' не сработает в 'warrior'/'award'/'forward'."""
-    # для фраз с пробелом — обычное вхождение; для слов — граница \b
     if " " in kw:
         return kw in text
     return re.search(r"(?<![a-zа-яё0-9])" + re.escape(kw) + r"(?![a-zа-яё0-9])", text) is not None
 
 
+# ── ФУНКЦИЯ АВТОПЕРЕВОДА ЧЕРЕЗ GOOGLE TRANSLATE WEB API ──────────
+def translate_to_ru(text: str) -> str:
+    """
+    Бесплатный перевод строк на русский язык с использованием Google Translate Web API.
+    Если строка уже содержит достаточно кириллицы, возвращается без изменений.
+    """
+    if not text:
+        return ""
+    
+    # Регулярка для детекта кириллицы: если >15% текста русские буквы, перевод не нужен
+    cyrillic_chars = len(re.findall(r'[а-яА-ЯёЁ]', text))
+    if len(text) > 0 and (cyrillic_chars / len(text)) > 0.15:
+        return text
+
+    try:
+        url = "https://translate.googleapis.com/translate_a/single"
+        params = {
+            "client": "gtx",
+            "sl": "auto",
+            "tl": "ru",
+            "dt": "t",
+            "q": text
+        }
+        r = requests.get(url, params=params, timeout=10)
+        if r.status_code == 200:
+            result = r.json()
+            translated_sentences = [sentence[0] for sentence in result[0] if sentence[0]]
+            return "".join(translated_sentences).strip()
+    except Exception as e:
+        print(f"  ⚠ Ошибка перевода для '{text[:30]}...': {e}")
+    
+    return text
+
+
 def score_article(title: str, summary: str = "", domain: str = "") -> int:
-    """
-    Скоринг Вариант C: счёт совпадений + штраф за одно случайное слово.
-    GDELT и не-Tier1 режутся. Поиск по границам слова. Разброс 0-10.
-    """
     tl = (title + " " + summary).lower()
     title_lower = title.lower()
 
-    # ── Вето: спорт / быт / шоу-бизнес → сразу 0 ──────────────
     for v in VETO_PATTERNS:
         if v in tl:
             return 0
@@ -421,10 +422,9 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
         if am in title_lower:
             return 0
 
-    # ── Базовый балл + СЧЁТ совпадений (по границам слова) ──────
     base = 0
-    total_hits = 0           # сколько вообще ключей сработало
-    strong_hits = 0          # сколько сильных (балл ≥ 8) сработало
+    total_hits = 0
+    strong_hits = 0
     for pts, kw_list in SCORES_MAP.items():
         for kw in kw_list:
             if _has(kw, tl):
@@ -436,46 +436,36 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
     if base == 0:
         return 0
 
-    is_gdelt = domain.startswith("GDELT/")        # только GDELT-срезы
+    is_gdelt = domain.startswith("GDELT/")
     is_tier1 = domain in TIER1_DOMAINS
 
     score = base
 
-    # ── ШТРАФЫ НЕ СУММИРУЮТСЯ: берём ОДИН максимальный −2 ──────
-    # Иначе реальный свежак (одно сильное слово + GDELT) терял сразу 4 балла.
     penalty = 0
     if total_hits == 1 and not is_tier1:
-        penalty = 2                       # зацепился одним словом
+        penalty = 2
     if is_gdelt:
-        penalty = max(penalty, 2)         # GDELT (не суммируем с предыдущим)
-    # мягкий пол 4: мусор без ключей уже отсечён вето/base==0,
-    # а реальная новость с одним словом получит 4-5 и может пройти
+        penalty = max(penalty, 2)
     score = max(4, score - penalty) if penalty else score
 
-    # ── Бонус за плотность сигналов (несколько сильных ключей) ──
     if strong_hits >= 2:
         score = min(10, score + 1)
 
-    # ── Breaking marker → +1 ──
     for bm in BREAKING_MARKERS:
         if _has(bm, tl):
             score = min(10, score + 1)
             break
 
-    # ── Anchor keyword → +1 ──
     for ak in ANCHOR_KEYWORDS:
         if _has(ak, tl):
             score = min(10, score + 1)
             break
 
-    # ── Tier-1 домен бонус УБРАН: домен не должен задирать пустую новость ──
-    # (FT-проходняк больше не лезет в 10/10 только из-за домена)
-
     return max(0, min(10, score))
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  ПАРСИНГ ВСЕХ ИСТОЧНИКОВ
+#  ПАРСИНГ И АВТОМАТИЧЕСКИЙ ПЕРЕВОД
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def fetch_all() -> list:
     articles = []
@@ -501,7 +491,6 @@ def fetch_all() -> list:
                 sc = score_article(title, "", domain)
                 if sc < MIN_SCORE:
                     continue
-                # GDELT отдаёт pubDate — берём реальный возраст
                 pub = e.get("published_parsed") or e.get("updated_parsed")
                 age_min = None
                 ts_utc = datetime.now(timezone.utc)
@@ -513,18 +502,22 @@ def fetch_all() -> list:
                     ts_utc = pub_dt
                 seen_hashes.add(h)
                 gdelt_ok += 1
+                
+                # Автоперевод на русский
+                title_ru = translate_to_ru(title)
+
                 articles.append({
-                    "hash": h, "title": title, "summary": "",
+                    "hash": h, "title": title_ru, "original_title": title, "summary": "",
                     "link": link, "source": source_name,
                     "score": sc, "weight": weight, "status": "new",
                     "ts": datetime.now(TZ).isoformat(),
-                    "age_min": age_min,   # реальный возраст или None
+                    "age_min": age_min,
                 })
         except Exception as e:
             print(f"  ⚠ GDELT [{source_name}]: {e}")
     print(f"  ✓ GDELT: {gdelt_ok} статей")
 
-    # ── RSS (все остальные уровни) ────────────────────────────
+    # ── RSS (+ Google News новые) ────────────────────────────
     rss_ok = 0
     rss_fail = 0
     for cfg in RSS_FEEDS:
@@ -543,7 +536,6 @@ def fetch_all() -> list:
                 domain = extract_domain(link)
                 if domain in NOISE_DOMAINS:
                     continue
-                # Проверка свежести
                 pub = e.get("published_parsed") or e.get("updated_parsed")
                 age_min = 0
                 if pub:
@@ -561,8 +553,13 @@ def fetch_all() -> list:
                     continue
                 seen_hashes.add(h)
                 rss_ok += 1
+
+                # Автоперевод на русский
+                title_ru = translate_to_ru(title)
+                summary_ru = translate_to_ru(summary) if summary else ""
+
                 articles.append({
-                    "hash": h, "title": title, "summary": summary[:400],
+                    "hash": h, "title": title_ru, "original_title": title, "summary": summary_ru[:400],
                     "link": link, "source": cfg["source"],
                     "score": sc, "weight": cfg["weight"], "status": "new",
                     "ts": datetime.now(TZ).isoformat(),
@@ -570,16 +567,13 @@ def fetch_all() -> list:
                 })
         except Exception as ex:
             rss_fail += 1
-            # Не спамим логами по каждому фиду
-    print(f"  ✓ RSS/TG/Nitter: {rss_ok} статей ({rss_fail} фидов с ошибками)")
+    print(f"  ✓ RSS/TG/Nitter/GNews: {rss_ok} статей ({rss_fail} фидов с ошибками)")
 
-    # ── Сортировка: score × weight, свежие приоритетнее ─────────
     articles.sort(
         key=lambda x: (x["score"] * x["weight"], -x.get("age_min", 999)),
         reverse=True
     )
 
-    # ── Дедупликация по смыслу (один сюжет от разных доменов) ────
     import unicodedata
     STOP = {"the","a","an","of","in","on","to","for","and","is","as","at","по","в","на","и",
             "о","с","за","из","что","как","says","said","after","amid","over","with"}
@@ -587,14 +581,13 @@ def fetch_all() -> list:
         t = unicodedata.normalize("NFKD", title.lower())
         words = re.findall(r"[a-zа-я0-9]+", t)
         words = [w for w in words if w not in STOP and len(w) > 2]
-        return frozenset(words[:8])   # ключевые сущности заголовка
+        return frozenset(words[:8])
 
     unique, seen_sigs = [], []
     for a in articles:
         s = sig(a["title"])
         dup = False
         for prev in seen_sigs:
-            # пересечение ≥60% ключевых слов = тот же сюжет
             if s and prev and len(s & prev) / max(len(s), 1) >= 0.6:
                 dup = True
                 break
@@ -633,11 +626,6 @@ def gist_write(gist_id, filename, data):
         return False
 
 def get_raw_url(gist_id, filename):
-    """
-    Возвращает прямой raw URL для чтения файла из Gist БЕЗ токена.
-    Формат: https://gist.githubusercontent.com/USER/GIST_ID/raw/FILENAME
-    Работает для secret gists — URL секретный, но авторизация не нужна.
-    """
     try:
         r = requests.get(f"https://api.github.com/gists/{gist_id}", headers=HEADERS(), timeout=10)
         if r.status_code == 200:
@@ -646,13 +634,11 @@ def get_raw_url(gist_id, filename):
                 return files[filename].get("raw_url", "")
     except:
         pass
-    # Fallback: собираем URL вручную
     return f"https://gist.githubusercontent.com/guzalmexmonova-ux/{gist_id}/raw/{filename}"
 
 def get_or_create_gist():
     if GIST_ID:
         return GIST_ID
-    # Ищем существующий
     try:
         r = requests.get("https://api.github.com/gists", headers=HEADERS(), timeout=10)
         if r.status_code == 200:
@@ -661,14 +647,13 @@ def get_or_create_gist():
                     return g["id"]
     except:
         pass
-    # Создаём новый (secret)
     try:
         r = requests.post(
             "https://api.github.com/gists",
             headers=HEADERS(),
             json={
                 "description": "agendalytica_data",
-                "public": False,   # SECRET gist — URL знает только ты
+                "public": False,
                 "files": {
                     "queue.json":    {"content": json.dumps({"updated": "", "items": []})},
                     "analyzed.json": {"content": json.dumps({})},
@@ -681,7 +666,7 @@ def get_or_create_gist():
         if r.status_code == 201:
             gid = r.json()["id"]
             print(f"✅ Создан новый Gist: {gid}")
-            print(f"   Добавь в Secrets: GIST_ID = {gid}")
+            print(f"    Добавь в Secrets: GIST_ID = {gid}")
             return gid
     except:
         pass
@@ -693,53 +678,45 @@ def get_or_create_gist():
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def main():
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.0 — {now_str} TASHKENT")
-    print(f"   Источников RSS: {len(RSS_FEEDS)} | GDELT срезов: {len(GDELT_FEEDS)}")
+    print(f"🔄 Parser v5.1 — {now_str} TASHKENT")
+    print(f"    Источников RSS: {len(RSS_FEEDS)} | GDELT срезов: {len(GDELT_FEEDS)}")
 
     gist_id = get_or_create_gist()
     if not gist_id:
         print("❌ Не удалось получить Gist ID. Добавь GIST_TOKEN в Secrets.")
         return
 
-    # Получаем raw URL для queue.json (для Claude)
     raw_url = get_raw_url(gist_id, "queue.json")
     print(f"\n📎 RAW URL для Claude (сохрани один раз):")
     print(f"   {raw_url}\n")
 
-    # Читаем уже отправленные
     sent = gist_read(gist_id, "sent.json")
     sent_hashes = set(sent.get("hashes", []))
 
-    # Читаем очередь
     queue = gist_read(gist_id, "queue.json")
     queue_items = queue.get("items", [])
     queue_hashes = {a["hash"] for a in queue_items}
 
-    # Парсим
     print("📡 Парсинг источников...")
     articles = fetch_all()
     print(f"✅ Найдено {len(articles)} статей (score ≥ {MIN_SCORE})")
 
-    # Добавляем только новые + копим список того что отправим СЕЙЧАС
     added = 0
-    fresh_to_send = []          # только реально новые статьи для этой отправки
+    fresh_to_send = []
     for a in articles:
         if a["hash"] not in sent_hashes and a["hash"] not in queue_hashes:
             queue_items.append(a)
             fresh_to_send.append(a)
             added += 1
 
-    # Фильтруем: оставляем только статьи за последние 4 часа (нет слепых зон)
     cutoff_queue = datetime.now(TZ) - timedelta(hours=4)
     queue_items = [
         a for a in queue_items
         if datetime.fromisoformat(a["ts"]) >= cutoff_queue
     ]
-    # Сортируем по свежести + баллу
     queue_items.sort(key=lambda x: (x["score"] * x["weight"], x["ts"]), reverse=True)
     queue_items = queue_items[:50]
 
-    # Записываем в Gist
     ok = gist_write(gist_id, "queue.json", {
         "updated": datetime.now(TZ).isoformat(),
         "raw_url": raw_url,
@@ -749,37 +726,32 @@ def main():
 
     if ok:
         print(f"✅ Gist обновлён: +{added} новых, всего {len(queue_items)} в очереди")
-        print(f"\n🏆 ТОП-5:")
+        print(f"\n🏆 ТОП-5 (Переведено):")
         for i, a in enumerate(queue_items[:5], 1):
             age = f"T+{a['age_min']}мин" if a.get('age_min') else "GDELT"
-            print(f"  [{i}] {a['score']}/10 | {age} | [{a['source']}] {a['title'][:80]}")
+            print(f"   [{i}] {a['score']}/10 | {age} | [{a['source']}] {a['title'][:80]}")
         print(f"\n📎 Для Claude — читать queue.json:")
         print(f"   {raw_url}")
     else:
         print("❌ Ошибка записи в Gist")
 
-    # ── Сохраняем свежую очередь (4ч) ──────────────────────
     with open("news_queue.json", "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(TZ).isoformat(), "items": queue_items}, f, ensure_ascii=False, indent=2)
     print(f"✅ news_queue.json сохранён ({len(queue_items)} статей)")
 
-    # ── Обновляем лучшие за день (не удаляем старые) ────────
     today = datetime.now(TZ).strftime("%Y-%m-%d")
     from pathlib import Path
     daily_file = Path("daily_best.json")
     daily = json.loads(daily_file.read_text(encoding="utf-8")) if daily_file.exists() else {"date": today, "items": []}
 
-    # Сбрасываем если новый день
     if daily.get("date") != today:
         daily = {"date": today, "items": []}
 
-    # Добавляем только новые статьи
     daily_hashes = {a["hash"] for a in daily["items"]}
     for a in queue_items:
         if a["hash"] not in daily_hashes:
             daily["items"].append(a)
 
-    # Топ-20 за день по баллу
     daily["items"].sort(key=lambda x: x["score"] * x["weight"], reverse=True)
     daily["items"] = daily["items"][:20]
     daily["updated"] = datetime.now(TZ).isoformat()
@@ -787,10 +759,8 @@ def main():
     daily_file.write_text(json.dumps(daily, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"✅ daily_best.json обновлён ({len(daily['items'])} лучших за {today})")
 
-    # ── Обновляем sent.json: помечаем отправленное, чистим >24ч ──
     now_iso = datetime.now(TZ).isoformat()
     sent_records = sent.get("records", [])
-    # старый формат (только hashes) — мигрируем
     existing = {r["h"] for r in sent_records}
     for a in fresh_to_send:
         if a["hash"] not in existing:
@@ -800,9 +770,7 @@ def main():
         r for r in sent_records
         if datetime.fromisoformat(r["ts"]) >= cutoff_sent
     ]
-    # ── Флаг саммари: ПЕРВЫЙ запуск после 18:30 TSH за день ──
-    # Надёжно: не зависит от точной минуты запуска (cron-job.org плавает).
-    # Запоминаем дату последнего саммари в sent.json.
+    
     now_tsh = datetime.now(TZ)
     last_summary_date = sent.get("last_summary_date", "")
     is_summary = (
@@ -819,12 +787,10 @@ def main():
     gist_write(gist_id, "sent.json", gist_payload)
     print(f"💾 sent.json: {len(sent_records)} хэшей (24ч) | саммари сегодня: {'да' if is_summary else 'нет'}")
 
-    # ── Отправка: только НОВОЕ; раз в день после 18:30 — саммари ──
     send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
 
 
 def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summary: bool = False):
-    """Шлёт только новые статьи. В 18:30 — добавляет саммари дня."""
     token   = os.environ.get("TELEGRAM_TOKEN", "")
     chat_id = os.environ.get("TELEGRAM_CHAT_ID", "")
     if not token or not chat_id:
@@ -855,7 +821,6 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
             return "GDELT"
         return f"T+{am}м"
 
-    # ── Только новые статьи ──────────────────────────────────
     if fresh_items:
         header = (
             f"🔄 <b>СВЕЖЕЕ — {now_str} TSH</b>\n"
@@ -866,7 +831,7 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
         for i, a in enumerate(fresh_items, 1):
             lines.append(
                 f"<b>[{i}] {a['score']}/10</b> | {fmt_age(a)} | {a['source']}\n"
-                f"📰 {a['title'][:120]}\n"
+                f"📰 {a['title'][:150]}\n"
                 f"👉 <a href='{a['link']}'>Читать ({a['source']})</a>\n"
             )
         for idx, batch in enumerate(chunks(lines, 10)):
@@ -875,23 +840,22 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
             if len(msg) > 4000:
                 msg = msg[:4000] + "..."
             ok = tg_send(msg)
-            print(f"  📤 СВЕЖЕЕ часть {idx+1}: {'✅' if ok else '❌'}")
+            print(f"   📤 СВЕЖЕЕ часть {idx+1}: {'✅' if ok else '❌'}")
     else:
-        print("  ✓ Новых статей нет — отправка пропущена")
+        print("   ✓ Новых статей нет — отправка пропущена")
 
-    # ── Саммари дня (только в 18:30) ─────────────────────────
     if is_summary and daily_items:
         top1 = daily_items[0]
         header2 = (
             f"⭐ <b>САММАРИ ДНЯ — {today}</b>\n"
-            f"🏆 Главное за день: {top1['title'][:90]}\n"
+            f"🏆 Главное за день: {top1['title'][:120]}\n"
             f"━━━━━━━━━━━━━━━━━━━━━━\n\n"
         )
         lines2 = []
         for i, a in enumerate(daily_items, 1):
             lines2.append(
                 f"<b>[{i}] {a['score']}/10</b> | {a['source']}\n"
-                f"📰 {a['title'][:120]}\n"
+                f"📰 {a['title'][:150]}\n"
                 f"👉 <a href='{a['link']}'>Читать ({a['source']})</a>\n"
             )
         for idx, batch in enumerate(chunks(lines2, 10)):
@@ -900,7 +864,7 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
             if len(msg) > 4000:
                 msg = msg[:4000] + "..."
             ok = tg_send(msg)
-            print(f"  📤 САММАРИ часть {idx+1}: {'✅' if ok else '❌'}")
+            print(f"   📤 САММАРИ часть {idx+1}: {'✅' if ok else '❌'}")
 
     print("✅ Telegram отправка завершена")
 
