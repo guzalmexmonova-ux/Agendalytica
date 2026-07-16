@@ -1,9 +1,14 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v5.4 (STABLE & PRODUCTION READY)
-- Добавлена превентивная инициализация NLTK для стабильной работы Newspaper4k.
-- Интегрирована валидация окружения и отказоустойчивые таймауты.
-- Глобальный трейсинг ошибок на верхнем уровне.
+AGENDALYTICA — PARSER v5.5 (FIXED)
+Исправления против exit code 1 в GitHub Actions:
+1. Импорт newspaper обёрнут в try/except — на Python 3.12 newspaper3k падает
+   с ImportError (lxml.html.clean вынесен в отдельный пакет). Теперь скрипт
+   не умирает, а переключается на резервный парсер HTTPX+BS4.
+2. Убраны backslash-экранирования внутри f-строк (SyntaxError на Python <= 3.11).
+3. NLTK: докачивается punkt_tab (нужен новым версиям nltk/newspaper4k).
+4. Таймауты Article через config, чтобы job не зависал.
+requirements.txt: feedparser requests httpx beautifulsoup4 nltk newspaper4k lxml[html_clean]
 """
 
 import os
@@ -14,13 +19,17 @@ import hashlib
 import traceback
 from datetime import datetime, timezone, timedelta
 
-# Автоматическое скачивание ресурсов NLTK для Newspaper4k (исправляет зависание)
+# NLTK: punkt + punkt_tab (новые версии требуют punkt_tab)
 try:
     import nltk
-    try:
-        nltk.data.find('tokenizers/punkt')
-    except LookupError:
-        nltk.download('punkt', quiet=True)
+    for res in ("punkt", "punkt_tab"):
+        try:
+            nltk.data.find(f"tokenizers/{res}")
+        except LookupError:
+            try:
+                nltk.download(res, quiet=True)
+            except Exception:
+                pass
 except Exception as e:
     print(f"⚠ Предупреждение при настройке NLTK: {e}")
 
@@ -28,7 +37,15 @@ import feedparser
 import requests
 import httpx
 from bs4 import BeautifulSoup
-from newspaper import Article
+
+# ГЛАВНЫЙ ФИКС: newspaper падает на импорте в новых окружениях —
+# оборачиваем, скрипт продолжает работу на резервном парсере
+HAS_NEWSPAPER = False
+try:
+    from newspaper import Article
+    HAS_NEWSPAPER = True
+except Exception as e:
+    print(f"⚠ newspaper недоступен ({e}) — работаем через HTTPX+BS4")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  КОНФИГ И КРИТИЧЕСКАЯ ВАЛИДАЦИЯ
@@ -45,7 +62,7 @@ TOP_N = 50              # топ статей в очереди
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  ИСТОЧНИКИ ДАННЫХ
+#  ИСТОЧНИКИ ДАННЫХ (без изменений)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GDELT_FEEDS = [
     ("https://api.gdeltproject.org/api/v2/doc/doc?query=(conflict+OR+war+OR+military+OR+invasion+OR+airstrike+OR+missile+OR+nuclear+OR+escalation+OR+coup+OR+mobilization)&mode=artlist&maxrecords=75&format=rss&timespan=2h", "GDELT/CONFLICTS", 4),
@@ -165,7 +182,7 @@ RSS_FEEDS = [
 ]
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  СКОРИНГ И КЛЮЧЕВЫЕ СЛОВА
+#  СКОРИНГ И КЛЮЧЕВЫЕ СЛОВА (без изменений)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SCORE_10 = ["nuclear", "ядерн", "nato article 5", "invasion", "вторжение", "assassination", "покушение", "collapse", "коллапс"]
 SCORE_9 = ["war", "война", "coup", "переворот", "hypersonic", "гиперзвук", "martial law", "военное положение", "impeached", "импичмент", "default", "дефолт", "market crash", "обвал рынка", "oil crash", "нефть упала", "tsmc ban", "iran nuclear", "иран ядерн"]
@@ -195,12 +212,12 @@ def extract_domain(url):
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
-def _has(kw: str, text: str) -> bool:
+def _has(kw, text):
     if " " in kw:
         return kw in text
     return re.search(r"(?<![a-zа-яё0-9])" + re.escape(kw) + r"(?![a-zа-яё0-9])", text) is not None
 
-def translate_to_ru(text: str) -> str:
+def translate_to_ru(text):
     if not text:
         return ""
     cyrillic_chars = len(re.findall(r'[а-яА-ЯёЁ]', text))
@@ -215,19 +232,20 @@ def translate_to_ru(text: str) -> str:
             translated_sentences = [sentence[0] for sentence in result[0] if sentence[0]]
             return "".join(translated_sentences).strip()
     except Exception as e:
-        print(f"  ⚠ Ошибка перевода для '{text[:30]}...': {e}")
+        print(f"  ⚠ Ошибка перевода: {e}")
     return text
 
-def extract_full_text(url: str) -> str:
-    """Извлекает полный очищенный текст новости с поддержкой резервных вариантов и таймаутов."""
-    try:
-        article = Article(url)
-        article.download()
-        article.parse()
-        if article.text and len(article.text.strip()) > 150:
-            return article.text.strip()
-    except Exception as e:
-        print(f"  ⚠ Ошибка Newspaper4k для {url}: {e}")
+def extract_full_text(url):
+    """Полный текст новости: newspaper (если доступен) → HTTPX+BS4."""
+    if HAS_NEWSPAPER:
+        try:
+            article = Article(url, fetch_images=False, request_timeout=15)
+            article.download()
+            article.parse()
+            if article.text and len(article.text.strip()) > 150:
+                return article.text.strip()
+        except Exception:
+            pass
 
     try:
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
@@ -242,11 +260,11 @@ def extract_full_text(url: str) -> str:
                 restored_text = "\n".join(lines)
                 if len(restored_text) > 150:
                     return restored_text[:4000]
-    except Exception as e:
-        print(f"  ⚠ Ошибка резервного парсера (HTTPX+BS4) для {url}: {e}")
+    except Exception:
+        pass
     return ""
 
-def score_article(title: str, summary: str = "", domain: str = "") -> int:
+def score_article(title, summary="", domain=""):
     tl = (title + " " + summary).lower()
     title_lower = title.lower()
     for v in VETO_PATTERNS:
@@ -289,12 +307,11 @@ def score_article(title: str, summary: str = "", domain: str = "") -> int:
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  ОСНОВНОЙ АЛГОРИТМ СБОРА ФИДОВ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-def fetch_all() -> list:
+def fetch_all():
     articles = []
     cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
     seen_hashes = set()
 
-    # Сбор GDELT
     gdelt_ok = 0
     for url, source_name, weight in GDELT_FEEDS:
         try:
@@ -317,7 +334,7 @@ def fetch_all() -> list:
                     age_min = round((datetime.now(timezone.utc) - pub_dt).total_seconds() / 60, 1)
                 seen_hashes.add(h)
                 gdelt_ok += 1
-                
+
                 title_ru = translate_to_ru(title)
                 full_text_en = extract_full_text(link)
                 full_text_ru = translate_to_ru(full_text_en) if full_text_en else ""
@@ -333,7 +350,6 @@ def fetch_all() -> list:
             print(f"  ⚠ GDELT [{source_name}]: {e}")
     print(f"  ✓ GDELT: {gdelt_ok} статей")
 
-    # Сбор RSS
     rss_ok = 0
     rss_fail = 0
     for cfg in RSS_FEEDS:
@@ -377,7 +393,7 @@ def fetch_all() -> list:
             rss_fail += 1
     print(f"  ✓ RSS/TG/Nitter/GNews: {rss_ok} статей ({rss_fail} фидов с ошибками)")
 
-    articles.sort(key=lambda x: (x["score"] * x["weight"], -x.get("age_min", 999)), reverse=True)
+    articles.sort(key=lambda x: (x["score"] * x["weight"], -x.get("age_min", 999) if x.get("age_min") is not None else -999), reverse=True)
 
     import unicodedata
     STOP = {"the","a","an","of","in","on","to","for","and","is","as","at","по","в","на","и","о","с","за","из","что","как","says","said","after","amid","over","with"}
@@ -476,7 +492,18 @@ def get_or_create_gist():
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  ТЕЛЕГРАМ ТРАНСПОРТ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summary: bool = False):
+def format_line(i, a, with_age=True):
+    """ФИКС: без backslash внутри f-строк (SyntaxError на Python <= 3.11)."""
+    age = a.get("age_min")
+    age_label = f"T+{age}м" if age else "GDELT"
+    parts = [f"<b>[{i}] {a['score']}/10</b>"]
+    if with_age:
+        parts.append(age_label)
+    parts.append(a["source"])
+    head = " | ".join(parts)
+    return f"{head}\n📰 {a['title'][:150]}\n👉 <a href='{a['link']}'>Читать</a>\n"
+
+def send_to_telegram(fresh_items, daily_items, today, is_summary=False):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         print("⚠ TELEGRAM_TOKEN/CHAT_ID не настроены — пропуск отправки")
         return
@@ -484,12 +511,14 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     now_str = datetime.now(TZ).strftime("%d.%m.%Y %H:%M")
 
-    def tg_send(text: str):
+    def tg_send(text):
         try:
             r = requests.post(url, json={
                 "chat_id": TELEGRAM_CHAT_ID, "text": text,
                 "parse_mode": "HTML", "disable_web_page_preview": True,
             }, timeout=20)
+            if r.status_code != 200:
+                print(f"  ⚠ TG HTTP {r.status_code}: {r.text[:200]}")
             return r.status_code == 200
         except Exception as e:
             print(f"  ⚠ TG Error: {e}")
@@ -500,7 +529,7 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
 
     if fresh_items:
         header = f"🔄 <b>СВЕЖЕЕ — {now_str} TSH</b>\n📦 Новых статей: {len(fresh_items)}\n━━━━━━━━━━━━━━━━━━━━━━\n\n"
-        lines = [f"<b>[{i}] {a['score']}/10</b> | {f'T+{a.get(\'age_min\')}м' if a.get('age_min') else 'GDELT'} | {a['source']}\n📰 {a['title'][:150]}\n👉 <a href='{a['link']}'>Читать</a>\n" for i, a in enumerate(fresh_items, 1)]
+        lines = [format_line(i, a, with_age=True) for i, a in enumerate(fresh_items, 1)]
         for idx, batch in enumerate(chunks(lines, 10)):
             msg = (header if idx == 0 else f"<b>СВЕЖЕЕ (продолжение {idx+1})</b>\n\n") + "\n".join(batch)
             tg_send(msg[:4000])
@@ -509,7 +538,7 @@ def send_to_telegram(fresh_items: list, daily_items: list, today: str, is_summar
 
     if is_summary and daily_items:
         header2 = f"⭐ <b>САММАРИ ДНЯ — {today}</b>\n🏆 Главное: {daily_items[0]['title'][:120]}\n━━━━━━━━━━━━━━━━━━━━━━\n\n"
-        lines2 = [f"<b>[{i}] {a['score']}/10</b> | {a['source']}\n📰 {a['title'][:150]}\n👉 <a href='{a['link']}'>Читать</a>\n" for i, a in enumerate(daily_items, 1)]
+        lines2 = [format_line(i, a, with_age=False) for i, a in enumerate(daily_items, 1)]
         for idx, batch in enumerate(chunks(lines2, 10)):
             msg = (header2 if idx == 0 else f"<b>САММАРИ (продолжение {idx+1})</b>\n\n") + "\n".join(batch)
             tg_send(msg[:4000])
@@ -523,7 +552,7 @@ def main():
         sys.exit(1)
 
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.4 — {now_str} TASHKENT")
+    print(f"🔄 Parser v5.5 — {now_str} TASHKENT | newspaper={'ON' if HAS_NEWSPAPER else 'OFF (fallback)'}")
 
     gist_id = get_or_create_gist()
     if not gist_id:
@@ -550,7 +579,14 @@ def main():
             added += 1
 
     cutoff_queue = datetime.now(TZ) - timedelta(hours=4)
-    queue_items = [a for a in queue_items if datetime.fromisoformat(a["ts"]) >= cutoff_queue]
+    kept = []
+    for a in queue_items:
+        try:
+            if datetime.fromisoformat(a["ts"]) >= cutoff_queue:
+                kept.append(a)
+        except Exception:
+            pass
+    queue_items = kept
     queue_items.sort(key=lambda x: (x["score"] * x["weight"], x["ts"]), reverse=True)
     queue_items = queue_items[:50]
 
@@ -558,14 +594,16 @@ def main():
         "updated": datetime.now(TZ).isoformat(), "raw_url": raw_url, "total": len(queue_items), "items": queue_items
     })
 
-    # Синхронизация локальных файлов
     with open("news_queue.json", "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(TZ).isoformat(), "items": queue_items}, f, ensure_ascii=False, indent=2)
 
     today = datetime.now(TZ).strftime("%Y-%m-%d")
     from pathlib import Path
     daily_file = Path("daily_best.json")
-    daily = json.loads(daily_file.read_text(encoding="utf-8")) if daily_file.exists() else {"date": today, "items": []}
+    try:
+        daily = json.loads(daily_file.read_text(encoding="utf-8")) if daily_file.exists() else {"date": today, "items": []}
+    except Exception:
+        daily = {"date": today, "items": []}
     if daily.get("date") != today: daily = {"date": today, "items": []}
 
     daily_hashes = {a["hash"] for a in daily["items"]}
@@ -577,15 +615,22 @@ def main():
     daily["updated"] = datetime.now(TZ).isoformat()
     daily_file.write_text(json.dumps(daily, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    # Контроль отправки
     now_iso = datetime.now(TZ).isoformat()
     sent_records = sent.get("records", [])
     existing = {r["h"] for r in sent_records}
     for a in fresh_to_send:
         if a["hash"] not in existing: sent_records.append({"h": a["hash"], "ts": now_iso})
-        
-    sent_records = [r for r in sent_records if datetime.fromisoformat(r["ts"]) >= (datetime.now(TZ) - timedelta(hours=24))]
-    
+
+    keep_records = []
+    limit = datetime.now(TZ) - timedelta(hours=24)
+    for r in sent_records:
+        try:
+            if datetime.fromisoformat(r["ts"]) >= limit:
+                keep_records.append(r)
+        except Exception:
+            pass
+    sent_records = keep_records
+
     now_tsh = datetime.now(TZ)
     last_summary_date = sent.get("last_summary_date", "")
     is_summary = (18 <= now_tsh.hour < 24) and last_summary_date != today
