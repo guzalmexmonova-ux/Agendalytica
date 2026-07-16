@@ -35,8 +35,20 @@ except Exception as e:
 
 import feedparser
 import requests
-import httpx
-from bs4 import BeautifulSoup
+
+# Защита: workflow может не установить httpx/bs4 — скрипт всё равно работает
+HAS_HTTPX = False
+HAS_BS4 = False
+try:
+    import httpx
+    HAS_HTTPX = True
+except Exception:
+    print("⚠ httpx не установлен — резервный парсер через requests")
+try:
+    from bs4 import BeautifulSoup
+    HAS_BS4 = True
+except Exception:
+    print("⚠ beautifulsoup4 не установлен — извлечение полного текста отключено")
 
 # ГЛАВНЫЙ ФИКС: newspaper падает на импорте в новых окружениях —
 # оборачиваем, скрипт продолжает работу на резервном парсере
@@ -45,7 +57,7 @@ try:
     from newspaper import Article
     HAS_NEWSPAPER = True
 except Exception as e:
-    print(f"⚠ newspaper недоступен ({e}) — работаем через HTTPX+BS4")
+    print(f"⚠ newspaper недоступен ({e}) — включён резервный парсер")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  КОНФИГ И КРИТИЧЕСКАЯ ВАЛИДАЦИЯ
@@ -247,10 +259,16 @@ def extract_full_text(url):
         except Exception:
             pass
 
+    if not HAS_BS4:
+        return ""
     try:
         headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        with httpx.Client(headers=headers, timeout=20, follow_redirects=True) as client:
-            response = client.get(url)
+        if HAS_HTTPX:
+            with httpx.Client(headers=headers, timeout=20, follow_redirects=True) as client:
+                response = client.get(url)
+        else:
+            response = requests.get(url, headers=headers, timeout=20, allow_redirects=True)
+        if True:
             if response.status_code == 200:
                 soup = BeautifulSoup(response.text, "html.parser")
                 for tag in soup(["script", "style", "nav", "header", "footer", "form", "aside"]):
