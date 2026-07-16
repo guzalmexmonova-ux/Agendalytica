@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T10:18:40.658974+05:00",
+  "updated": "2026-07-16T10:35:00.819089+05:00",
   "items": [
     {
       "hash": "707c6b0e6089302ac24d29956d9e2331",
@@ -12,18 +12,6 @@
       "status": "new",
       "ts": "2026-07-16T07:04:20.025357+05:00",
       "age_min": 181.9
-    },
-    {
-      "hash": "decadc20c35121b01af220038d80613f",
-      "title": "India Raises Export Levies on Diesel and Jet Fuel",
-      "summary": "India increased taxes on exports of ‌diesel and aviation turbine fuel as the collapse of the US-Iran interim peace deal and renewed hostilities have choked oil flows again tightening global fuel markets.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-16/india-raises-export-levies-on-diesel-and-jet-fuel",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T06:33:46.014891+05:00",
-      "age_min": 17.9
     },
     {
       "hash": "58f101ec2901ff154dce2eb7a6476e00",
@@ -158,18 +146,6 @@
       "age_min": 75.7
     },
     {
-      "hash": "352fb969050202ce142163409a6909a8",
-      "title": "Publié par Fostine CarracilloCet agriculteur révèle le geste le plus fiable pour choisir des tomates bien mûres du premier coup",
-      "summary": "",
-      "link": "https://www.topsante.com/nutrition_et_recettes/bien_choisir_ses_aliments/publie-par-fostine-carracillocet-agriculteur-revele-le-geste-le-plus-fiable-pour-choisir-des-tomates-bien-mures-du-premier-coup-974323",
-      "source": "GDELT/MACRO",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T06:33:41.582980+05:00",
-      "age_min": 78.7
-    },
-    {
       "hash": "105ef026f96dea0464c187942ef8351b",
       "title": "The Coming Clash Between China and Europe",
       "summary": "Why a trade war can’t be avoided.",
@@ -252,6 +228,30 @@
       "status": "new",
       "ts": "2026-07-16T07:18:20.133425+05:00",
       "age_min": 0
+    },
+    {
+      "hash": "8ba0dfa70ecc520a2cb175fdf8a356bf",
+      "title": "IEA Sees $6.5 Trillion At Risk if China Imposes Rare-Earth Curbs",
+      "summary": "China’s rare earth export curbs could put $6.5 trillion of downstream production outside the country at risk each year if fully implemented, the International Energy Agency warned in a report on rare earths and critical minerals.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-16/iea-risk-china-rare-earth-curbs",
+      "source": "Bloomberg",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T10:34:04.052294+05:00",
+      "age_min": 34.1
+    },
+    {
+      "hash": "75e80ad09ed27e6117a3effffe12fe08",
+      "title": "Standard Chartered Warns Of Slower Nigerian Rate Cuts As Inflation Risks Linger",
+      "summary": "",
+      "link": "https://naija247news.com/standard-chartered-sees-slower-nigeria-rate-cuts-as-inflation-risks-linger/",
+      "source": "GDELT/MACRO",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-16T10:33:58.979734+05:00",
+      "age_min": 34.0
     },
     {
       "hash": "63cdd64c7e82461037fad7bb717e39ec",
@@ -396,6 +396,18 @@
       "status": "new",
       "ts": "2026-07-16T08:35:40.008625+05:00",
       "age_min": 10.4
+    },
+    {
+      "hash": "eae58c44317a11cc2646e535ecbe53e9",
+      "title": "Rohingya refugees among over 500 feared dead after Myanmar boats capsize",
+      "summary": "The UN warned on Thursday that more than 500 people were feared dead following reports of two large shipwrecks off Myanmar since late June.\nThe UN’s International Organization for Migration and its refugee agency UNHCR voiced alarm in a joint statement at reports “that two boats carrying more than 500 people may have capsized off the coast of Myanmar in recent days”.\nPreliminary information indica",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3360768/rohingya-refugees-among-over-500-feared-dead-after-myanmar-boats-capsize?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T10:34:06.211431+05:00",
+      "age_min": 14.0
     },
     {
       "hash": "e2b6f24a1fb2a30656af9e276c64dc31",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-07-16T10:04:34.597244+05:00",
       "age_min": 39.6
-    },
-    {
-      "hash": "121d1f7f48261c92d1c66d59e13e665c",
-      "title": "Gold falls as Fed fears return: can the $4,000 support level hold this time? - Invezz",
-      "summary": "Gold falls as Fed fears return: can the $4,000 support level hold this time?&nbsp;&nbsp;Invezz",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSWo0UzBMVFFwSldUX1FxMmZNTXhOR2s4MXBrWFNPMGhYWjFYcC05OTdudTlacGdwWlBhUktGaGtJNlM2RWNDTGoyNEx0RXpIZ0pRenlZT1BnT0lfZE5mekZKT1lWRGZVbDhrTGw1Q0dHcm5FSk1adkJYY2s5WHg0YWtaT2Y2ZjlvbXNUZFN6TGpNYWxwdWdHUDYzTzl3OUxOS2dPdlppTzM5N1RsbV9TUnpIR2NsRmFD?oc=5",
-      "source": "GNews/Gold",
-      "score": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-16T10:18:22.127931+05:00",
-      "age_min": 3.7
     }
   ]
 }
