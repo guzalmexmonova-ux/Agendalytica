@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T15:49:07.189067+05:00",
+  "updated": "2026-07-16T16:05:10.681559+05:00",
   "items": [
     {
       "hash": "d55edbd36c0023817465e425d249ac54",
@@ -168,6 +168,18 @@
       "status": "new",
       "ts": "2026-07-16T13:48:12.905362+05:00",
       "age_min": 1.0
+    },
+    {
+      "hash": "559d848b560eed97f9da5a27597698e2",
+      "title": "Pakistan, a mediator in the war, struggles to make itself heard.",
+      "summary": "",
+      "link": "https://www.nytimes.com/live/2026/07/16/world/iran-war-trump-hormuz/pakistan-a-mediator-in-the-war-struggles-to-make-itself-heard",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-16T16:04:14.902664+05:00",
+      "age_min": 17.0
     },
     {
       "hash": "498d39d1124b3cdc95630798193d75a4",
@@ -362,28 +374,28 @@
       "age_min": 20.3
     },
     {
-      "hash": "4113128d3c02ee23c463f13f29981dbd",
-      "title": "Kudankulam Leak Tests India Nuclear Security – Sri Lanka Guardian",
+      "hash": "546197234051b26b439239b3406bce12",
+      "title": "India non - sovereign debt may rise to 150 pc of GDP by 2047 : Crisil",
       "summary": "",
-      "link": "https://slguardian.org/kudankulam-leak-tests-indias-nuclear-security/",
-      "source": "GDELT/CYBER",
-      "score": 9,
-      "weight": 3,
+      "link": "https://economictimes.indiatimes.com/news/economy/indicators/indias-non-sovereign-debt-may-rise-to-150-pc-of-gdp-by-2047-crisil/articleshow/132435286.cms",
+      "source": "GDELT/MACRO",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T12:03:06.047574+05:00",
-      "age_min": 33.1
+      "ts": "2026-07-16T16:03:57.097798+05:00",
+      "age_min": 49.0
     },
     {
-      "hash": "415f42e8792bd7d28faf68419f9dda70",
-      "title": "Alarm over alleged data leak linked to Kudankulam Nuclear Project - News Today",
+      "hash": "c394ed6a97cf4d7a6600effd770309f0",
+      "title": "Few united kingdom citizens support aiding Taiwan in attack : survey",
       "summary": "",
-      "link": "https://newstodaynet.com/2026/07/16/alarm-over-alleged-data-leak-linked-to-kudankulam-nuclear-project/",
-      "source": "GDELT/CYBER",
-      "score": 9,
-      "weight": 3,
+      "link": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/16/2003860855",
+      "source": "GDELT/TAIWAN",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-16T12:03:06.046753+05:00",
-      "age_min": 33.1
+      "ts": "2026-07-16T16:02:23.351330+05:00",
+      "age_min": 92.4
     },
     {
       "hash": "3589dfc959618390e14f33757b80ba9b",
@@ -588,18 +600,6 @@
       "status": "new",
       "ts": "2026-07-16T15:47:23.695648+05:00",
       "age_min": 32.4
-    },
-    {
-      "hash": "94a2f4d3d46731c2489525ef78bab208",
-      "title": "FT : Греция заблокировала 21 - й пакет санкций ЕС из - за российского СПГ",
-      "summary": "",
-      "link": "https://www.svoboda.org/a/ft-gretsiya-zablokirovala-21-y-paket-sanktsiy-es-iz-za-rossiyskogo-spg/33804895.html",
-      "source": "GDELT/ENERGY",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-16T15:47:23.691600+05:00",
-      "age_min": 47.4
     }
   ]
 }
