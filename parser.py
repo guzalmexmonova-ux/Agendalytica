@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v5.8
-Исправления против exit code 1 в GitHub Actions:
-1. Импорт newspaper обёрнут в try/except — на Python 3.12 newspaper3k падает
-   с ImportError (lxml.html.clean вынесен в отдельный пакет). Теперь скрипт
-   не умирает, а переключается на резервный парсер HTTPX+BS4.
-2. Убраны backslash-экранирования внутри f-строк (SyntaxError на Python <= 3.11).
-3. NLTK: докачивается punkt_tab (нужен новым версиям nltk/newspaper4k).
-4. Таймауты Article через config, чтобы job не зависал.
-requirements.txt: feedparser requests httpx beautifulsoup4 nltk newspaper4k lxml[html_clean]
+AGENDALYTICA — PARSER v6.0 (LIGHT)
+Задача: найти НОВУЮ новость → первоисточник, дата, переведённый заголовок, ссылка.
+Полный текст статей больше не качается — это и давало 11 минут и таймауты.
+Убраны: newspaper4k, BeautifulSoup, httpx, nltk. Нужны только feedparser + requests.
 """
 
 import os
@@ -19,45 +14,8 @@ import hashlib
 import traceback
 from datetime import datetime, timezone, timedelta
 
-# NLTK: punkt + punkt_tab (новые версии требуют punkt_tab)
-try:
-    import nltk
-    for res in ("punkt", "punkt_tab"):
-        try:
-            nltk.data.find(f"tokenizers/{res}")
-        except LookupError:
-            try:
-                nltk.download(res, quiet=True)
-            except Exception:
-                pass
-except Exception as e:
-    print(f"⚠ Предупреждение при настройке NLTK: {e}")
-
 import feedparser
 import requests
-
-# Защита: workflow может не установить httpx/bs4 — скрипт всё равно работает
-HAS_HTTPX = False
-HAS_BS4 = False
-try:
-    import httpx
-    HAS_HTTPX = True
-except Exception:
-    print("⚠ httpx не установлен — резервный парсер через requests")
-try:
-    from bs4 import BeautifulSoup
-    HAS_BS4 = True
-except Exception:
-    print("⚠ beautifulsoup4 не установлен — извлечение полного текста отключено")
-
-# ГЛАВНЫЙ ФИКС: newspaper падает на импорте в новых окружениях —
-# оборачиваем, скрипт продолжает работу на резервном парсере
-HAS_NEWSPAPER = False
-try:
-    from newspaper import Article
-    HAS_NEWSPAPER = True
-except Exception as e:
-    print(f"⚠ newspaper недоступен ({e}) — включён резервный парсер")
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  КОНФИГ И КРИТИЧЕСКАЯ ВАЛИДАЦИЯ
@@ -67,10 +25,15 @@ GIST_ID = os.environ.get("GIST_ID", "")
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
-HOURS_WINDOW = 2        # окно свежести в часах (было 4 — слишком старое)
+# Скользящее окно: берём период от прошлого запуска до сейчас, а не жёсткие N часов.
+# Если GitHub пропустил запуск (а он пропускает) — окно само растянется, ничего не потеряем.
+OVERLAP_MIN = 20        # нахлёст: RSS часто отдаёт статью на 10-15 мин позже публикации
+MIN_WINDOW_H = 1        # минимум окна
+MAX_WINDOW_H = 6        # потолок, чтобы после долгого простоя не тянуть сутки
+HOURS_WINDOW = 2        # запасное значение, если нет данных о прошлом запуске
 MIN_SCORE = 5           # минимальный балл (из 10)
 TOP_N = 50              # топ статей в очереди
-ENRICH_LIMIT = 15       # для скольких статей качать полный текст + переводить
+ENRICH_LIMIT = 30       # сколько заголовков переводить за запуск
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
 
@@ -81,18 +44,12 @@ SIM_THRESHOLD = 0.45    # порог схожести заголовков
 #  ИСТОЧНИКИ ДАННЫХ (без изменений)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GDELT_FEEDS = [
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(conflict+OR+war+OR+military+OR+invasion+OR+airstrike+OR+missile+OR+nuclear+OR+escalation+OR+coup+OR+mobilization)&mode=artlist&maxrecords=75&format=rss&timespan=2h", "GDELT/CONFLICTS", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(terrorist+attack+OR+explosion+OR+bombing+OR+assassination+OR+hostage)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/TERRORISM", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Ukraine+OR+Russia+OR+Kyiv+OR+Donbas+OR+Crimea+OR+Zelensky+OR+Putin)&mode=artlist&maxrecords=75&format=rss&timespan=2h", "GDELT/RUSSIA_UA", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Israel+OR+Gaza+OR+Iran+OR+Houthi+OR+Hezbollah+OR+Red+Sea)&mode=artlist&maxrecords=75&format=rss&timespan=2h", "GDELT/MIDEAST", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Taiwan+OR+Taiwan+Strait+OR+South+China+Sea+OR+semiconductor+OR+chip+ban+OR+TSMC+OR+ASML)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/TAIWAN", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(sanctions+OR+embargo+OR+export+ban+OR+blockade+OR+NATO+OR+BRICS)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/SANCTIONS", 3),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Federal+Reserve+OR+Powell+OR+ECB+OR+Lagarde+OR+rate+hike+OR+rate+cut+OR+recession)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/FED_ECB", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(gold+OR+oil+OR+brent+OR+OPEC+OR+gas+OR+uranium+OR+LNG+OR+copper+OR+lithium)&mode=artlist&maxrecords=75&format=rss&timespan=2h", "GDELT/ENERGY", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(cyberattack+OR+hack+OR+ransomware+OR+cyber+warfare)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/CYBER", 3),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Uzbekistan+OR+Kazakhstan+OR+Kyrgyzstan+OR+Tajikistan+OR+Turkmenistan+OR+SCO+OR+CSTO+OR+Tashkent)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/CENTRAL_ASIA", 3),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(summit+OR+state+visit+OR+bilateral+talks+OR+diplomatic+meeting+OR+G7+OR+G20)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/SUMMITS", 3),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(inflation+OR+default+OR+market+crash+OR+collapse+OR+sovereign+debt+OR+bond+yields)&mode=artlist&maxrecords=50&format=rss&timespan=2h", "GDELT/MACRO", 4),
+    # 12 узких запросов душились по 429 (GitHub Actions сидит на общих IP).
+    # 4 широких по 250 записей = меньше стуков, больше данных.
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(war+OR+conflict+OR+invasion+OR+airstrike+OR+missile+OR+nuclear+OR+escalation+OR+coup+OR+mobilization+OR+ceasefire+OR+sanctions+OR+assassination)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/GEOPOLITICS", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Ukraine+OR+Russia+OR+Israel+OR+Gaza+OR+Iran+OR+Houthi+OR+Hezbollah+OR+Putin+OR+Zelensky)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/HOTSPOTS", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Federal+Reserve+OR+ECB+OR+rate+hike+OR+rate+cut+OR+recession+OR+inflation+OR+default+OR+market+crash+OR+brent+OR+OPEC+OR+gold)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/MARKETS", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Taiwan+OR+South+China+Sea+OR+semiconductor+OR+TSMC+OR+chip+ban+OR+Uzbekistan+OR+Kazakhstan+OR+SCO+OR+CSTO+OR+cyberattack)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/ASIA_TECH", 4),
 ]
 
 RSS_FEEDS = [
@@ -177,6 +134,13 @@ TIER1_DOMAINS = {"reuters.com", "bloomberg.com", "ft.com", "wsj.com", "apnews.co
 NOISE_DOMAINS = {"msn.com", "buzzfeed.com", "huffpost.com", "dailymail.co.uk", "fxstreet.com", "fxempire.com", "investopedia.com", "seekingalpha.com", "yahoo.com", "tmz.com", "espn.com", "bleacherreport.com", "kp.ru", "mk.ru", "spletnik.ru", "sports.ru", "championat.com", "starhit.ru", "varindia.com", "asiaone.com", "eturbonews.com", "benzinga.com", "ndtv.com", "entertainmentweekly.com", "people.com", "cosmopolitan.com", "vogue.com"}
 NOISE_PATTERNS = ["whiskey", "виски", "coffee", "кофе", "barista", "restaurant", "ресторан", "recipe", "рецепт", "food", "beer", "пиво", "wine", "вино", "chef", "vacation", "отпуск", "tourism", "hotel", "resort", "курорт", "soccer", "football goal", "basketball", "баскетбол", "nba draft", "nfl draft", "transfer fee", "трансфер игрок", "celebrity", "знаменитость", "hollywood", "box office", "music video", "grammy", "oscar", "emmy", "album release", "red carpet", "seo tips", "digital marketing", "influencer", "инфлюенсер", "smartphone launch", "smartwatch", "gaming laptop", "diet tips", "weight loss", "похудение", "yoga", "meditation", "horoscope", "гороскоп", "zodiac", "week in review", "monthly roundup", "annual report", "year in review", "everything you need to know", "deep dive into", "a brief history", "итоги недели", "годовой отчёт", "история вопроса", "всё что нужно знать", "on our radar", "prioritising peace", "prioritizing peace", "how to ", "guide to", "what is ", "explainer:", "explained:", "opinion:", "мнение:", "колонка:", "the case for", "the case against"]
 ANALYTICAL_MARKERS = ["week in review", "monthly roundup", "annual report", "year in review", "everything you need to know", "deep dive into", "a brief history", "итоги недели", "годовой отчёт", "история вопроса", "on our radar"]
+# Локальный шум: "rate hike" от коммуналки Огайо проходил как 7/10
+LOCAL_NOISE = [
+    "aes ohio", "utility rate", "utility bill", "electric bill", "water rate",
+    "city council", "county board", "school board", "local residents",
+    "rupee", "rupees", "₹", "per 10 gram", "per kg",
+]
+
 VETO_PATTERNS = [" vs ", " vs.", "overtime", "stabbing", "pleads guilty", "win prize", "awards", "box office", "red carpet", "world cup call", "draft pick", "transfer fee", "bauer sucht", "sucht frau", "tv-show", "tv show", "reality show", "knicks", "lakers", "cavs", "neymar"]
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -188,8 +152,8 @@ from urllib.parse import urlparse
 # Троттлинг по хостам: GDELT и tg.i-c-a.su жёстко режут частые запросы (429).
 # Без этого парсер терял 9 из 12 GDELT и 24 из 25 TG на КАЖДОМ запуске.
 HOST_DELAY = {
-    "api.gdeltproject.org": 6.0,
-    "tg.i-c-a.su": 4.0,
+    "api.gdeltproject.org": 12.0,
+    "tg.i-c-a.su": 6.0,
     "nitter.net": 2.0,
     "news.google.com": 1.5,
 }
@@ -235,6 +199,29 @@ def domain_in(domain, domain_set):
     if not domain:
         return False
     return any(domain == d or domain.endswith("." + d) for d in domain_set)
+
+def extract_publisher(title, source):
+    """Google News прячет реального издателя в хвосте заголовка после ' - '.
+    Показываем 'Oneindia', а не 'GNews/Breaking' — сразу видно, кто написал."""
+    if not title:
+        return source, title
+    m = re.match(r"^(.*?)\s+[-–—]\s+([^-–—]{2,40})$", title.strip())
+    if m:
+        clean_title, publisher = m.group(1).strip(), m.group(2).strip()
+        # Отсекаем ложняки: "Gold prices dip - what next - analysts say"
+        # Имя издания всегда с заглавной и не содержит глаголов/вопросов.
+        bad = {"say", "says", "said", "next", "what", "why", "how", "here",
+               "report", "reports", "analysts", "sources", "more", "update",
+               "live", "watch", "video", "photos", "opinion"}
+        words = publisher.split()
+        looks_like_name = (
+            publisher[:1].isupper()
+            and len(words) <= 5
+            and not any(w.lower().strip(".,!?") in bad for w in words)
+        )
+        if looks_like_name and len(clean_title) > 15:
+            return publisher, clean_title
+    return source, title
 
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
@@ -289,46 +276,13 @@ def translate_to_ru(text):
         print(f"  ⚠ Ошибка перевода: {e}")
     return text
 
-def extract_full_text(url):
-    """Полный текст новости: newspaper (если доступен) → HTTPX+BS4."""
-    if HAS_NEWSPAPER:
-        try:
-            article = Article(url, fetch_images=False, request_timeout=15)
-            article.download()
-            article.parse()
-            if article.text and len(article.text.strip()) > 150:
-                return article.text.strip()
-        except Exception:
-            pass
-
-    if not HAS_BS4:
-        return ""
-    try:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-        if HAS_HTTPX:
-            with httpx.Client(headers=headers, timeout=20, follow_redirects=True) as client:
-                response = client.get(url)
-        else:
-            response = requests.get(url, headers=headers, timeout=20, allow_redirects=True)
-        if True:
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.text, "html.parser")
-                for tag in soup(["script", "style", "nav", "header", "footer", "form", "aside"]):
-                    tag.decompose()
-                clean_text = soup.get_text(separator="\n")
-                lines = [line.strip() for line in clean_text.splitlines() if line.strip()]
-                restored_text = "\n".join(lines)
-                if len(restored_text) > 150:
-                    return restored_text[:4000]
-    except Exception:
-        pass
-    return ""
-
 def score_article(title, summary="", domain=""):
     tl = (title + " " + summary).lower()
     title_lower = title.lower()
     for v in VETO_PATTERNS:
         if v in tl: return 0
+    for ln in LOCAL_NOISE:
+        if ln in tl: return 0
     for p in NOISE_PATTERNS:
         if p in tl: return 0
     if domain_in(domain, NOISE_DOMAINS): return 0
@@ -354,6 +308,7 @@ def score_article(title, summary="", domain=""):
     if is_gdelt: penalty = max(penalty, 2)
     score = max(4, score - penalty) if penalty else score
     if strong_hits >= 2: score = min(10, score + 1)
+    if is_tier1: score = min(10, score + 1)   # авторитетный источник — вверх
     for bm in BREAKING_MARKERS:
         if _has(bm, tl):
             score = min(10, score + 1)
@@ -367,9 +322,10 @@ def score_article(title, summary="", domain=""):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  ОСНОВНОЙ АЛГОРИТМ СБОРА ФИДОВ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-def fetch_all():
+def fetch_all(cutoff=None):
     articles = []
-    cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
+    if cutoff is None:
+        cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
     seen_hashes = set()
 
     gdelt_ok = 0
@@ -400,8 +356,7 @@ def fetch_all():
                 # БЕЗ сети: перевод и полный текст — позже, только для новых
                 articles.append({
                     "hash": h, "title": title, "original_title": title,
-                    "summary": "", "original_full_text": "",
-                    "link": link, "source": source_name,
+                                        "link": link, "source": source_name,
                     "score": sc, "weight": weight, "status": "new",
                     "ts": datetime.now(TZ).isoformat(), "age_min": age_min,
                 })
@@ -439,11 +394,15 @@ def fetch_all():
                 if sc < MIN_SCORE: continue
                 seen_hashes.add(h)
                 rss_ok += 1
-                # БЕЗ сети: перевод и полный текст — позже, только для новых
+                # Для Google News подменяем имя фида на реального издателя
+                src = cfg["source"]
+                if "news.google.com" in cfg["url"]:
+                    src, title = extract_publisher(title, src)
+                # БЕЗ сети: перевод — позже, только для новых
                 articles.append({
                     "hash": h, "title": title, "original_title": title,
-                    "summary": "", "original_full_text": summary,
-                    "link": link, "source": cfg["source"],
+                    "rss_summary": summary,
+                    "link": link, "source": src,
                     "score": sc, "weight": cfg["weight"], "status": "new",
                     "ts": datetime.now(TZ).isoformat(), "age_min": age_min,
                 })
@@ -559,7 +518,8 @@ def get_or_create_gist():
 def format_line(i, a, with_age=True):
     """ФИКС: без backslash внутри f-строк (SyntaxError на Python <= 3.11)."""
     age = a.get("age_min")
-    age_label = f"T+{age}м" if age else "GDELT"
+    # Раньше при отсутствии даты писалось "GDELT" — врало (напр. Nikkei без дат)
+    age_label = f"T+{age}м" if age is not None else "без даты"
     parts = [f"<b>[{i}] {a['score']}/10</b>"]
     if with_age:
         parts.append(age_label)
@@ -607,20 +567,18 @@ def send_to_telegram(fresh_items, daily_items, today, is_summary=False):
             msg = (header2 if idx == 0 else f"<b>САММАРИ (продолжение {idx+1})</b>\n\n") + "\n".join(batch)
             tg_send(msg[:4000])
 
+def _enrich_one(a):
+    """Только перевод заголовка. Полный текст не нужен — нужна сама новость."""
+    try:
+        a["title"] = translate_to_ru(a["original_title"])
+    except Exception as e:
+        print(f"  ⚠ Перевод: {e}")
+    return a
+
 def enrich(items):
-    """Дорогая часть: полный текст + перевод. Только для новых статей,
-    которые реально уйдут в Telegram. Раньше это делалось для ВСЕХ
-    статей до дедупа — отсюда таймаут в 14 минут."""
-    for i, a in enumerate(items, 1):
-        try:
-            a["title"] = translate_to_ru(a["original_title"])
-            full_en = extract_full_text(a["link"])
-            if not full_en:
-                full_en = a.get("original_full_text") or ""
-            a["original_full_text"] = full_en
-            a["summary"] = translate_to_ru(full_en)[:1500] if full_en else ""
-        except Exception as e:
-            print(f"  ⚠ Обогащение [{i}]: {e}")
+    import concurrent.futures as cf
+    with cf.ThreadPoolExecutor(max_workers=6) as ex:
+        list(ex.map(_enrich_one, items))
     return items
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -632,7 +590,7 @@ def main():
         sys.exit(1)
 
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.8 — {now_str} TASHKENT | newspaper={'ON' if HAS_NEWSPAPER else 'OFF (fallback)'}")
+    print(f"🔄 Parser v6.0 — {now_str} TASHKENT ")
 
     gist_id = get_or_create_gist()
     if not gist_id:
@@ -647,8 +605,27 @@ def main():
     queue_items = queue.get("items", [])
     queue_hashes = {a["hash"] for a in queue_items}
 
+    # Скользящее окно от прошлого запуска
+    now_utc = datetime.now(timezone.utc)
+    last_run_raw = sent.get("last_run", "")
+    cutoff = None
+    if last_run_raw:
+        try:
+            last_run = datetime.fromisoformat(last_run_raw)
+            cutoff = last_run - timedelta(minutes=OVERLAP_MIN)
+        except Exception:
+            cutoff = None
+    floor_ = now_utc - timedelta(hours=MAX_WINDOW_H)
+    ceil_ = now_utc - timedelta(hours=MIN_WINDOW_H)
+    if cutoff is None:
+        cutoff = now_utc - timedelta(hours=HOURS_WINDOW)
+    cutoff = max(cutoff, floor_)
+    cutoff = min(cutoff, ceil_)
+    span = round((now_utc - cutoff).total_seconds() / 60)
+    print(f"🪟 Окно: последние {span} мин (с нахлёстом {OVERLAP_MIN} мин)")
+
     print("📡 Парсинг источников и сбор контента...")
-    articles = fetch_all()
+    articles = fetch_all(cutoff)
 
     # Память сюжетов за 24ч: [{"s": [слова], "ts": "..."}]
     story_log = sent.get("stories", [])
@@ -690,7 +667,7 @@ def main():
         print(f"✂ Обогащаю топ-{ENRICH_LIMIT} из {len(fresh_to_send)}")
         fresh_to_send = fresh_to_send[:ENRICH_LIMIT]
     if fresh_to_send:
-        print(f"📖 Качаю тексты и перевожу: {len(fresh_to_send)}")
+        print(f"🌐 Перевожу заголовки: {len(fresh_to_send)}")
         enrich(fresh_to_send)
 
     cutoff_queue = datetime.now(TZ) - timedelta(hours=4)
@@ -754,6 +731,7 @@ def main():
         "hashes": [r["h"] for r in sent_records],
         "records": sent_records,
         "stories": story_log[-400:],
+        "last_run": now_utc.isoformat(),
         "last_summary_date": today if is_summary else last_summary_date
     })
 
