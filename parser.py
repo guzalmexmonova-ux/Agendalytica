@@ -31,8 +31,8 @@ OVERLAP_MIN = 20        # нахлёст: RSS часто отдаёт стать
 MIN_WINDOW_H = 1        # минимум окна
 MAX_WINDOW_H = 6        # потолок, чтобы после долгого простоя не тянуть сутки
 HOURS_WINDOW = 2        # запасное значение, если нет данных о прошлом запуске
-MIN_SCORE = 5           # минимальный балл (из 10)
-TOP_N = 50              # топ статей в очереди
+MIN_SCORE = 4           # минимальный балл (было 5 — резало слишком много)
+TOP_N = 80              # топ статей в очереди
 ENRICH_LIMIT = 30       # сколько заголовков переводить за запуск
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
@@ -173,7 +173,13 @@ SCORE_10 = ["nuclear", "ядерн", "nato article 5", "invasion", "вторже
 SCORE_9 = ["war", "война", "coup", "переворот", "hypersonic", "гиперзвук", "martial law", "военное положение", "impeached", "импичмент", "default", "дефолт", "market crash", "обвал рынка", "oil crash", "нефть упала", "tsmc ban", "iran nuclear", "иран ядерн"]
 SCORE_8 = ["strikes", "strike", "удары", "наносит удар", "shelling", "обстрел", "bombardment", "attack", "атак", "escalation", "эскалац", "ballistic", "баллистическ", "airstrike", "авиаудар", "drone strike", "удар дрона", "mobilization", "мобилизац", "mutiny", "мятеж", "resigns", "отставк", "resignation", "step down", "scandal", "скандал", "rate hike", "rate cut", "повышение ставки", "снижение ставки", "recession", "рецессия", "gold surges", "золото выросло", "xauusd", "opec cut", "опек сокращ", "chip ban", "export ban", "запрет экспорта", "cyberattack", "кибератак", "cyber warfare", "кибервойна", "sovereign debt", "госдолг", "bond yields", "доходность облигаций", "powell", "пауэлл", "warsh", "уорш", "lagarde", "лагард", "bank run"]
 SCORE_7 = ["missile", "ракета", "ceasefire", "перемирие", "blockade", "блокада", "strait", "пролив", "uranium", "уран", "lng", "спг", "rare earth", "редкоземельн", "copper", "медь", "lithium", "литий", "trade war", "торговая война", "tariff", "пошлин", "middle corridor", "срединный коридор", "gold hits", "gold falls", "brent falls", "xau", "inflation surge", "инфляция выросла", "fed decision"]
-SCORE_6 = ["sanctions", "санкци", "conflict", "конфликт", "embargo", "эмбарго", "froze assets", "заморозил активы", "brics summit", "саммит брикс", "trump signs", "трамп подписал", "trump announces", "трамп объявил", "trump orders", "трамп ввёл", "putin orders", "путин приказал", "putin signs", "путин подписал", "xi jinping warns", "си цзиньпин", "mirziyoyev", "мирзиёев", "tokayev", "токаев", "csto", "одкб", "sco", "шос", "expelled ambassador", "отозвал посла", "cut diplomatic ties", "разорвал дипотношения", "issued ultimatum", "выдвинул ультиматум", "signed treaty", "подписал договор", "imposed sanctions", "ввёл санкции", "merz", "мерц", "opec+", "опек+", "seized assets", "изъял активы", "parliament voted", "конгресс проголосовал", "дума приняла", "no-confidence vote", "вотум недоверия", "cabinet reshuffle", "перестановки в правительстве"]
+SCORE_6 = ["summit", "саммит", "talks", "переговор", "agreement", "соглашение",
+    "president", "президент", "minister", "министр", "chancellor", "канцлер",
+    "election", "выборы", "vote", "голосование", "protest", "протест",
+    "border", "граница", "treaty", "договор", "alliance", "альянс",
+    "military aid", "военная помощь", "weapons", "оружие", "troops", "войска",
+    "central bank", "центробанк", "gdp", "ввп", "budget", "бюджет",
+    "sanctions", "санкци", "conflict", "конфликт", "embargo", "эмбарго", "froze assets", "заморозил активы", "brics summit", "саммит брикс", "trump signs", "трамп подписал", "trump announces", "трамп объявил", "trump orders", "трамп ввёл", "putin orders", "путин приказал", "putin signs", "путин подписал", "xi jinping warns", "си цзиньпин", "mirziyoyev", "мирзиёев", "tokayev", "токаев", "csto", "одкб", "sco", "шос", "expelled ambassador", "отозвал посла", "cut diplomatic ties", "разорвал дипотношения", "issued ultimatum", "выдвинул ультиматум", "signed treaty", "подписал договор", "imposed sanctions", "ввёл санкции", "merz", "мерц", "opec+", "опек+", "seized assets", "изъял активы", "parliament voted", "конгресс проголосовал", "дума приняла", "no-confidence vote", "вотум недоверия", "cabinet reshuffle", "перестановки в правительстве"]
 
 SCORES_MAP = {10: SCORE_10, 9: SCORE_9, 8: SCORE_8, 7: SCORE_7, 6: SCORE_6}
 BREAKING_MARKERS = ["breaking", "just in", "confirmed", "urgent", "alert", "flash", "exclusive", "срочно", "только что", "сейчас", "экстренно", "подтверждено", "молния", "флэш"]
@@ -397,7 +403,7 @@ def fetch_all(cutoff=None):
             if err:
                 print(f"  ⚠ GDELT [{source_name}]: {err} после ретраев")
                 continue
-            for e in feed.entries[:30]:
+            for e in feed.entries[:60]:
                 link = (e.get("link") or "").strip()
                 if not link: continue
                 h = make_hash(link)
@@ -439,7 +445,7 @@ def fetch_all(cutoff=None):
             if err:
                 rss_fail += 1
                 continue
-            for e in feed.entries[:20]:
+            for e in feed.entries[:40]:
                 link = (e.get("link") or "").strip()
                 if not link: continue
                 h = make_hash(link)
