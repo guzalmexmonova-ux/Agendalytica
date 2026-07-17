@@ -32,6 +32,7 @@ MIN_WINDOW_H = 1        # минимум окна
 MAX_WINDOW_H = 6        # потолок, чтобы после долгого простоя не тянуть сутки
 HOURS_WINDOW = 2        # запасное значение, если нет данных о прошлом запуске
 MIN_SCORE = 4           # минимальный балл (было 5 — резало слишком много)
+MIN_SCORE_UNDATED = 7   # без даты свежесть непроверяема — пускаем только крупное
 TOP_N = 80              # топ статей в очереди
 ENRICH_LIMIT = 30       # сколько заголовков переводить за запуск
 
@@ -193,6 +194,15 @@ NOISE_DOMAINS = {"msn.com", "buzzfeed.com", "huffpost.com", "dailymail.co.uk", "
 NOISE_PATTERNS = ["whiskey", "виски", "coffee", "кофе", "barista", "restaurant", "ресторан", "recipe", "рецепт", "food", "beer", "пиво", "wine", "вино", "chef", "vacation", "отпуск", "tourism", "hotel", "resort", "курорт", "soccer", "football goal", "basketball", "баскетбол", "nba draft", "nfl draft", "transfer fee", "трансфер игрок", "celebrity", "знаменитость", "hollywood", "box office", "music video", "grammy", "oscar", "emmy", "album release", "red carpet", "seo tips", "digital marketing", "influencer", "инфлюенсер", "smartphone launch", "smartwatch", "gaming laptop", "diet tips", "weight loss", "похудение", "yoga", "meditation", "horoscope", "гороскоп", "zodiac", "week in review", "monthly roundup", "annual report", "year in review", "everything you need to know", "deep dive into", "a brief history", "итоги недели", "годовой отчёт", "история вопроса", "всё что нужно знать", "on our radar", "prioritising peace", "prioritizing peace", "how to ", "guide to", "what is ", "explainer:", "explained:", "opinion:", "мнение:", "колонка:", "the case for", "the case against"]
 ANALYTICAL_MARKERS = ["week in review", "monthly roundup", "annual report", "year in review", "everything you need to know", "deep dive into", "a brief history", "итоги недели", "годовой отчёт", "история вопроса", "on our radar"]
 # Локальный шум: "rate hike" от коммуналки Огайо проходил как 7/10
+# Не новости, а болтовня: "Речь на вручении дипломов", "Назад к основам в ООН"
+FORMAT_NOISE = [
+    "commencement", "graduation", "diploma", "ceremony", "церемони",
+    "speech at", "remarks at", "keynote", "выступление на", "речь на",
+    "podcast", "подкаст", "webinar", "вебинар", "back to basics",
+    "in conversation with", "q&a with", "interview with", "интервью с",
+    "our podcast", "episode", "эпизод", "watch:", "listen:",
+]
+
 LOCAL_NOISE = [
     "aes ohio", "utility rate", "utility bill", "electric bill", "water rate",
     "city council", "county board", "school board", "local residents",
@@ -336,13 +346,21 @@ def translate_to_ru(text):
         print(f"  ⚠ Ошибка перевода: {e}")
     return text
 
-def score_article(title, summary="", domain="", source=""):
+# URL-шаблоны нередакционных материалов (подкасты, справки)
+URL_NOISE = ["/pod/", "/podcast/", "/video/", "/multimedia/", "/events/"]
+
+def score_article(title, summary="", domain="", source="", link=""):
     tl = (title + " " + summary).lower()
     title_lower = title.lower()
+    ll = (link or "").lower()
+    for un in URL_NOISE:
+        if un in ll: return 0
     for v in VETO_PATTERNS:
         if v in tl: return 0
     for ln in LOCAL_NOISE:
         if ln in tl: return 0
+    for fn in FORMAT_NOISE:
+        if fn in title_lower: return 0
     for p in NOISE_PATTERNS:
         if p in tl: return 0
     if domain_in(domain, NOISE_DOMAINS): return 0
@@ -411,7 +429,7 @@ def fetch_all(cutoff=None):
                 title = clean_html(e.get("title", "")).strip()
                 domain = extract_domain(link)
                 if not title or domain_in(domain, NOISE_DOMAINS): continue
-                sc = score_article(title, "", domain)
+                sc = score_article(title, "", domain, "", link)
                 if sc < MIN_SCORE: continue
                 pub = e.get("published_parsed") or e.get("updated_parsed")
                 age_min = None
@@ -419,6 +437,8 @@ def fetch_all(cutoff=None):
                     pub_dt = datetime(*pub[:6], tzinfo=timezone.utc)
                     if pub_dt < cutoff: continue
                     age_min = round((datetime.now(timezone.utc) - pub_dt).total_seconds() / 60, 1)
+                elif sc < MIN_SCORE_UNDATED:
+                    continue  # без даты — только крупное
                 seen_hashes.add(h)
                 gdelt_ok += 1
                 # БЕЗ сети: перевод и полный текст — позже, только для новых
@@ -463,15 +483,17 @@ def fetch_all(cutoff=None):
                 title = clean_html(e.get("title", "")).strip()
                 summary = clean_html(e.get("summary", ""))[:500]
                 if not title: continue
-                sc = score_article(title, summary, domain)
+                sc = score_article(title, summary, domain, cfg["source"], link)
                 if sc < MIN_SCORE: continue
+                if age_min is None and sc < MIN_SCORE_UNDATED:
+                    continue  # без даты — только крупное
                 seen_hashes.add(h)
                 rss_ok += 1
                 # Для Google News подменяем имя фида на реального издателя
                 src = cfg["source"]
                 if "news.google.com" in cfg["url"]:
                     src, title = extract_publisher(title, src)
-                    sc = max(sc, score_article(title, summary, domain, src))
+                    sc = max(sc, score_article(title, summary, domain, src, link))
                 # БЕЗ сети: перевод — позже, только для новых
                 articles.append({
                     "hash": h, "title": title, "original_title": title,
