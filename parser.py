@@ -106,6 +106,54 @@ RSS_FEEDS = [
     {"url": "https://nitter.net/ZelenskyyUa/rss", "source": "Zelensky/X", "weight": 4},
     {"url": "https://nitter.net/elonmusk/rss", "source": "Musk/X", "weight": 3},
 
+
+    # ═══ ВОЗВРАЩЁННЫЕ АВТОРИТЕТНЫЕ (проверено candidates.py 17.07.2026) ═══
+    # Reuters и AP закрыли прямой RSS — берём через поиск Google News.
+    # Издатель вытаскивается из хвоста заголовка, в ленте видно "Reuters", а не "GNews".
+    {"url": "https://news.google.com/rss/search?q=site:reuters.com+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "Reuters", "weight": 5},
+    {"url": "https://news.google.com/rss/search?q=site:apnews.com+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "AP", "weight": 5},
+    {"url": "https://news.google.com/rss/search?q=site:afp.com+OR+site:barrons.com/afp+when:12h&hl=en-US", "source": "AFP", "weight": 4},
+
+    # Bloomberg — прямые фиды живые
+    {"url": "https://feeds.bloomberg.com/politics/news.rss", "source": "Bloomberg Politics", "weight": 4},
+    {"url": "https://feeds.bloomberg.com/technology/news.rss", "source": "Bloomberg Tech", "weight": 3},
+
+    # WSJ — рабочий URL (старый feeds.a.dj.com отдавал 1.5-летнее старьё)
+    {"url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews", "source": "WSJ", "weight": 4},
+
+    # Свежие издания (10-16 мин на проверке)
+    {"url": "https://www.cnbc.com/id/100727362/device/rss/rss.html", "source": "CNBC World", "weight": 3},
+    {"url": "https://www.france24.com/en/rss", "source": "France24", "weight": 3},
+    {"url": "https://feeds.npr.org/1004/rss.xml", "source": "NPR World", "weight": 3},
+    {"url": "https://www.theguardian.com/world/rss", "source": "Guardian", "weight": 3},
+    {"url": "https://rss.dw.com/rdf/rss-en-world", "source": "DW", "weight": 3},
+
+    # Ближний Восток / Центральная Азия
+    {"url": "https://www.al-monitor.com/rss", "source": "Al-Monitor", "weight": 4},
+    {"url": "https://news.google.com/rss/search?q=site:eurasianet.org+when:24h&hl=en-US", "source": "EurasiaNet", "weight": 3},
+
+    # Закулисье Вашингтона и Брюсселя
+    {"url": "https://rss.politico.com/politics-news.xml", "source": "Politico US", "weight": 4},
+    {"url": "https://rss.politico.com/congress.xml", "source": "Politico Congress", "weight": 3},
+    {"url": "https://www.politico.eu/feed/", "source": "Politico EU", "weight": 3},
+    {"url": "https://api.axios.com/feed/", "source": "Axios", "weight": 4},
+
+    # Аналитика
+    {"url": "https://geopoliticalfutures.com/feed/", "source": "Geopolitical Futures", "weight": 3},
+    {"url": "https://foreignpolicy.com/feed/", "source": "Foreign Policy", "weight": 3},
+
+    # Официальные — редко, но первоисточник
+    {"url": "https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=1&Site=945&max=20", "source": "Pentagon", "weight": 5},
+    {"url": "https://ec.europa.eu/commission/presscorner/api/rss?language=en&pagesize=20", "source": "EU Commission", "weight": 4},
+    {"url": "https://www.iaea.org/feeds/topnews", "source": "IAEA", "weight": 5},
+    {"url": "https://www.eia.gov/rss/todayinenergy.xml", "source": "EIA", "weight": 4},
+    {"url": "https://www.bankofengland.co.uk/rss/news", "source": "BoE", "weight": 4},
+
+    # ═══ НЕ ПРОШЛИ ПРОВЕРКУ (403/404) ═══
+    # Stratfor, Chatham House, RUSI, CSIS, ISW, Carnegie — блокируют ботов
+    # OFAC, Treasury, White House, State Dept, NATO, IMF, BIS, OPEC, World Bank — 403/404
+    # Kyiv Independent, Times of Israel, Eurasianet direct — 403/404
+
     # ═══ УДАЛЕНО ПО ИТОГАМ ДИАГНОСТИКИ ═══
     # 404/403/401 — фиды закрыты или сменили URL:
     #   Reuters, Reuters World (Reuters закрыл RSS), AP News, BIS, NATO, Pentagon,
@@ -130,6 +178,10 @@ SCORE_6 = ["sanctions", "санкци", "conflict", "конфликт", "embargo
 SCORES_MAP = {10: SCORE_10, 9: SCORE_9, 8: SCORE_8, 7: SCORE_7, 6: SCORE_6}
 BREAKING_MARKERS = ["breaking", "just in", "confirmed", "urgent", "alert", "flash", "exclusive", "срочно", "только что", "сейчас", "экстренно", "подтверждено", "молния", "флэш"]
 ANCHOR_KEYWORDS = ["nuclear", "ядерн", "nato article 5", "invasion", "вторжение", "assassination", "покушение", "war", "война", "coup", "переворот", "hypersonic", "гиперзвук", "martial law", "военное положение", "default", "дефолт", "market crash", "oil crash", "airstrike", "авиаудар", "mobilization", "мобилизац", "rate hike", "rate cut", "collapse", "коллапс", "trump signs", "трамп подписал", "trump orders", "putin orders", "путин приказал", "powell", "пауэлл", "lagarde", "лагард", "brent falls", "gold surges"]
+TIER1_SOURCES = {"reuters", "ap", "afp", "bloomberg", "bloomberg politics", "bloomberg tech",
+    "wsj", "ft", "pentagon", "iaea", "eia", "boe", "eu commission", "axios",
+    "politico us", "politico eu", "politico congress", "al-monitor", "guardian",
+    "france24", "npr world", "dw", "the new york times", "the economist"}
 TIER1_DOMAINS = {"reuters.com", "bloomberg.com", "ft.com", "wsj.com", "apnews.com", "federalreserve.gov", "imf.org", "bis.org", "ecb.europa.eu", "nato.int", "defense.gov", "un.org", "iea.org", "wto.org", "nytimes.com", "bbc.com", "bbc.co.uk", "truthsocial.com"}
 NOISE_DOMAINS = {"msn.com", "buzzfeed.com", "huffpost.com", "dailymail.co.uk", "fxstreet.com", "fxempire.com", "investopedia.com", "seekingalpha.com", "yahoo.com", "tmz.com", "espn.com", "bleacherreport.com", "kp.ru", "mk.ru", "spletnik.ru", "sports.ru", "championat.com", "starhit.ru", "varindia.com", "asiaone.com", "eturbonews.com", "benzinga.com", "ndtv.com", "entertainmentweekly.com", "people.com", "cosmopolitan.com", "vogue.com"}
 NOISE_PATTERNS = ["whiskey", "виски", "coffee", "кофе", "barista", "restaurant", "ресторан", "recipe", "рецепт", "food", "beer", "пиво", "wine", "вино", "chef", "vacation", "отпуск", "tourism", "hotel", "resort", "курорт", "soccer", "football goal", "basketball", "баскетбол", "nba draft", "nfl draft", "transfer fee", "трансфер игрок", "celebrity", "знаменитость", "hollywood", "box office", "music video", "grammy", "oscar", "emmy", "album release", "red carpet", "seo tips", "digital marketing", "influencer", "инфлюенсер", "smartphone launch", "smartwatch", "gaming laptop", "diet tips", "weight loss", "похудение", "yoga", "meditation", "horoscope", "гороскоп", "zodiac", "week in review", "monthly roundup", "annual report", "year in review", "everything you need to know", "deep dive into", "a brief history", "итоги недели", "годовой отчёт", "история вопроса", "всё что нужно знать", "on our radar", "prioritising peace", "prioritizing peace", "how to ", "guide to", "what is ", "explainer:", "explained:", "opinion:", "мнение:", "колонка:", "the case for", "the case against"]
@@ -276,7 +328,7 @@ def translate_to_ru(text):
         print(f"  ⚠ Ошибка перевода: {e}")
     return text
 
-def score_article(title, summary="", domain=""):
+def score_article(title, summary="", domain="", source=""):
     tl = (title + " " + summary).lower()
     title_lower = title.lower()
     for v in VETO_PATTERNS:
@@ -301,7 +353,8 @@ def score_article(title, summary="", domain=""):
 
     if base == 0: return 0
     is_gdelt = domain.startswith("GDELT/")
-    is_tier1 = domain_in(domain, TIER1_DOMAINS)
+    # Для GNews домен = news.google.com, поэтому проверяем ещё и по имени издателя
+    is_tier1 = domain_in(domain, TIER1_DOMAINS) or (source or "").lower() in TIER1_SOURCES
     score = base
     penalty = 0
     if total_hits == 1 and not is_tier1: penalty = 2
@@ -398,6 +451,7 @@ def fetch_all(cutoff=None):
                 src = cfg["source"]
                 if "news.google.com" in cfg["url"]:
                     src, title = extract_publisher(title, src)
+                    sc = max(sc, score_article(title, summary, domain, src))
                 # БЕЗ сети: перевод — позже, только для новых
                 articles.append({
                     "hash": h, "title": title, "original_title": title,
