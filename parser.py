@@ -178,7 +178,23 @@ SCORE_8 = ["air strike", "air strikes", "airstrikes", "missile strike", "militar
     "us strikes", "israeli strikes", "launches strikes", "наносит удар", "нанесли удар",
     "ракетный удар", "авиаудар", "shelling", "обстрел", "bombardment", "attack", "атак", "escalation", "эскалац", "ballistic", "баллистическ", "airstrike", "авиаудар", "drone strike", "удар дрона", "mobilization", "мобилизац", "mutiny", "мятеж", "resigns", "отставк", "resignation", "step down", "scandal", "скандал", "rate hike", "rate cut", "повышение ставки", "снижение ставки", "recession", "рецессия", "gold surges", "золото выросло", "xauusd", "opec cut", "опек сокращ", "chip ban", "export ban", "запрет экспорта", "cyberattack", "кибератак", "cyber warfare", "кибервойна", "sovereign debt", "госдолг", "bond yields", "доходность облигаций", "powell", "пауэлл", "warsh", "уорш", "lagarde", "лагард", "bank run"]
 SCORE_7 = ["missile", "ракета", "ceasefire", "перемирие", "blockade", "блокада", "strait", "пролив", "uranium", "уран", "lng", "спг", "rare earth", "редкоземельн", "copper", "медь", "lithium", "литий", "trade war", "торговая война", "tariff", "пошлин", "middle corridor", "срединный коридор", "gold hits", "gold falls", "brent falls", "xau", "inflation surge", "инфляция выросла", "fed decision"]
-SCORE_6 = ["summit", "саммит", "talks", "переговор", "agreement", "соглашение",
+SCORE_6 = [
+    # ═ Аудитория канала: события в этих странах повышаем в приоритете ═
+    # США
+    "biden", "trump", "harris", "vance", "rubio", "musk", "byron", "senate", "congress",
+    "supreme court", "верховный суд", "белый дом", "конгресс", "сенат",
+    # Великобритания
+    "downing street", "starmer", "burnham", "farage", "sunak", "westminster",
+    "даунинг-стрит", "стармер", "фараж", "вестминстер", "ботанический сад",
+    # Канада
+    "carney", "poilievre", "trudeau", "ottawa", "оттава", "карни", "трюдо",
+    # Филиппины
+    "marcos", "duterte", "manila", "philippines", "west philippine sea",
+    "маркос", "манила", "филиппин", "западно-филиппинск",
+    # Австралия
+    "albanese", "dutton", "canberra", "aukus", "аукус", "альбаниз", "канберра",
+    # общие политические
+    "summit", "саммит", "talks", "переговор", "agreement", "соглашение",
     "president", "президент", "minister", "министр", "chancellor", "канцлер",
     "election", "выборы", "vote", "голосование", "protest", "протест",
     "border", "граница", "treaty", "договор", "alliance", "альянс",
@@ -400,6 +416,14 @@ def score_article(title, summary="", domain="", source="", link=""):
     score = max(4, score - penalty) if penalty else score
     if strong_hits >= 2: score = min(10, score + 1)
     if is_tier1: score = min(10, score + 1)   # авторитетный источник — вверх
+    # Бонус за страны аудитории канала (US/CA/UK/PH/AU)
+    audience = ["u.s.", "us ", "america", "american", "washington",
+                "canada", "canadian", "ottawa",
+                "u.k.", "uk ", "britain", "british", "london", "westminster",
+                "philippines", "philippine", "manila",
+                "australia", "australian", "canberra", "sydney"]
+    if any(a in tl for a in audience):
+        score = min(10, score + 1)
     for bm in BREAKING_MARKERS:
         if _has(bm, tl):
             score = min(10, score + 1)
