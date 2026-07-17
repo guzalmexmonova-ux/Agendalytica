@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — ANALYZER
-Берёт 1 статью из очереди → OpenRouter (перевод + анализ) → analyzed.json
-Запускается каждые 6 минут через GitHub Actions
+AGENDALYTICA — ANALYZER v2 (с семантическим дедупом)
+Берёт 1 статью из очереди → OpenRouter → analyzed.json
+НОВОЕ: отсекает одну и ту же историю от разных источников за 24ч
 """
 
 import requests
 import json
 import re
 import os
+import unicodedata
 from datetime import datetime, timedelta, timezone
 
-# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GIST_TOKEN  = os.environ.get("GIST_TOKEN", "")
 GIST_ID     = os.environ.get("GIST_ID", "")
 OR_KEYS     = [k.strip() for k in os.environ.get("GEMINI_API_KEY", "").split(",") if k.strip()]
@@ -23,10 +23,44 @@ OR_MODELS   = [
     "nvidia/nemotron-3-super:free",
 ]
 
+DEDUP_HOURS = 24     # окно памяти историй
+SIM_THRESHOLD = 0.45 # порог схожести (было 0.6 — слишком мягко)
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  СЕМАНТИЧЕСКИЙ ДЕДУП
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+STOP = {
+    "the","a","an","of","in","on","to","for","and","is","as","at","by","with","from","that",
+    "says","said","after","amid","over","its","his","her","new","report","reports","update",
+    "по","в","на","и","о","с","за","из","что","как","это","для","от","при","до","же","бы",
+    "сообщает","заявил","после","фоне","может","года","году",
+}
+
+def sig(article):
+    """Сигнатура истории по RU+EN заголовкам."""
+    text = (article.get("original_title") or "") + " " + (article.get("title") or "")
+    t = unicodedata.normalize("NFKD", text.lower())
+    words = re.findall(r"[a-zа-яё0-9]+", t)
+    words = [w for w in words if w not in STOP and len(w) > 2]
+    return frozenset(words)
+
+def is_dup(article, prev_sigs):
+    s = sig(article)
+    if not s:
+        return False
+    for p in prev_sigs:
+        if not p:
+            continue
+        inter = len(s & p)
+        # доля пересечения относительно меньшего набора
+        ratio = inter / max(1, min(len(s), len(p)))
+        if ratio >= SIM_THRESHOLD:
+            return True
+    return False
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  ПРОМПТ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 PROMPT = """IMPORTANT: Respond ONLY with valid JSON. No markdown, no explanation, no Chinese characters, no extra text. Start your response with {{ and end with }}.
 You are the editor of AGENDALYTICA Telegram channel (geopolitics, economics).
 
@@ -63,7 +97,6 @@ viral_score 1-10 (10=10млн+ просмотров).
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  OPENROUTER
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 def ai_call(prompt):
     if not OR_KEYS:
         print("❌ Нет API ключей")
@@ -126,7 +159,6 @@ def analyze_article(article):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  GIST
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 def gist_read(filename):
     try:
         r = requests.get(
@@ -137,7 +169,8 @@ def gist_read(filename):
         if r.status_code == 200:
             content = r.json()["files"].get(filename, {}).get("content", "")
             return json.loads(content) if content else {}
-    except: pass
+    except Exception:
+        pass
     return {}
 
 def gist_write(filename, data):
@@ -149,14 +182,14 @@ def gist_write(filename, data):
             timeout=10
         )
         return r.status_code == 200
-    except: return False
+    except Exception:
+        return False
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  MAIN
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 def main():
-    print(f"🤖 Analyzer — {datetime.now(TZ).strftime('%d.%m.%Y %H:%M')} TASHKENT")
+    print(f"🤖 Analyzer v2 — {datetime.now(TZ).strftime('%d.%m.%Y %H:%M')} TASHKENT")
 
     if not GIST_ID:
         print("❌ GIST_ID не задан"); return
@@ -167,9 +200,34 @@ def main():
     analyzed_items  = analyzed.get("items", [])
     analyzed_hashes = {a["hash"] for a in analyzed_items}
 
-    pending = [a for a in items if a["hash"] not in analyzed_hashes]
+    # Сигнатуры уже разобранных историй за последние 24ч
+    limit = datetime.now(TZ) - timedelta(hours=DEDUP_HOURS)
+    recent_sigs = []
+    for a in analyzed_items:
+        try:
+            when = datetime.fromisoformat(a.get("analyzed_at", ""))
+            if when >= limit:
+                recent_sigs.append(sig(a))
+        except Exception:
+            continue
+    print(f"🧠 История дедупа: {len(recent_sigs)} сюжетов за {DEDUP_HOURS}ч")
+
+    # Кандидаты: не по хэшу И не по смыслу
+    pending = []
+    skipped_dup = 0
+    for a in items:
+        if a["hash"] in analyzed_hashes:
+            continue
+        if is_dup(a, recent_sigs):
+            skipped_dup += 1
+            continue
+        pending.append(a)
+
+    if skipped_dup:
+        print(f"🔁 Отсеяно дублей-перепечаток: {skipped_dup}")
+
     if not pending:
-        print("✓ Нет новых статей"); return
+        print("✓ Нет новых сюжетов"); return
 
     article = pending[0]
     print(f"📝 [{article['score']}/10] [{article['source']}]")
