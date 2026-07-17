@@ -1,34 +1,46 @@
 name: Parser (every 15 min)
+
 on:
   schedule:
     - cron: '*/15 * * * *'
   workflow_dispatch:
+
+concurrency:
+  group: parser
+  cancel-in-progress: false
+
 jobs:
   run:
     runs-on: ubuntu-latest
+    timeout-minutes: 14
     permissions:
       contents: write
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      - run: pip install feedparser requests httpx beautifulsoup4 nltk newspaper4k "lxml[html_clean]"
+          python-version: '3.12'
+
+      - run: pip install -r requirements.txt
+
       - run: python parser.py
         env:
           GIST_TOKEN: ${{ secrets.GIST_TOKEN }}
           GIST_ID: ${{ secrets.GIST_ID }}
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-     - name: Push files to repo
+
+      - name: Push files to repo
         run: |
           git config user.email "actions@github.com"
           git config user.name "GitHub Actions"
           git add news_queue.json daily_best.json
-          git diff --staged --quiet && exit 0
+          git diff --staged --quiet && echo "nothing to commit" && exit 0
           git commit -m "update queue"
           for i in 1 2 3; do
-            git pull --rebase --autostash && git push && exit 0
+            git pull --rebase --autostash && git push && echo "pushed" && exit 0
+            echo "retry $i"
             sleep 5
           done
-          echo "push failed, skipping"
+          echo "push failed — data is safe in Gist, skipping"
