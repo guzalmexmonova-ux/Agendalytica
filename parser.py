@@ -35,6 +35,7 @@ MIN_SCORE = 4           # минимальный балл (было 5 — рез
 MIN_SCORE_UNDATED = 7   # без даты свежесть непроверяема — пускаем только крупное
 TOP_N = 80              # топ статей в очереди
 ENRICH_LIMIT = 30       # сколько заголовков переводить за запуск
+MAX_PER_SOURCE = 3      # не больше N новостей от одного издания за пачку
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
 
@@ -172,7 +173,10 @@ RSS_FEEDS = [
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SCORE_10 = ["nuclear", "ядерн", "nato article 5", "invasion", "вторжение", "assassination", "покушение", "collapse", "коллапс"]
 SCORE_9 = ["war", "война", "coup", "переворот", "hypersonic", "гиперзвук", "martial law", "военное положение", "impeached", "импичмент", "default", "дефолт", "market crash", "обвал рынка", "oil crash", "нефть упала", "tsmc ban", "iran nuclear", "иран ядерн"]
-SCORE_8 = ["strikes", "strike", "удары", "наносит удар", "shelling", "обстрел", "bombardment", "attack", "атак", "escalation", "эскалац", "ballistic", "баллистическ", "airstrike", "авиаудар", "drone strike", "удар дрона", "mobilization", "мобилизац", "mutiny", "мятеж", "resigns", "отставк", "resignation", "step down", "scandal", "скандал", "rate hike", "rate cut", "повышение ставки", "снижение ставки", "recession", "рецессия", "gold surges", "золото выросло", "xauusd", "opec cut", "опек сокращ", "chip ban", "export ban", "запрет экспорта", "cyberattack", "кибератак", "cyber warfare", "кибервойна", "sovereign debt", "госдолг", "bond yields", "доходность облигаций", "powell", "пауэлл", "warsh", "уорш", "lagarde", "лагард", "bank run"]
+SCORE_8 = ["air strike", "air strikes", "airstrikes", "missile strike", "military strike",
+    "strikes on", "strikes against", "strikes key", "strikes near", "retaliatory strike",
+    "us strikes", "israeli strikes", "launches strikes", "наносит удар", "нанесли удар",
+    "ракетный удар", "авиаудар", "shelling", "обстрел", "bombardment", "attack", "атак", "escalation", "эскалац", "ballistic", "баллистическ", "airstrike", "авиаудар", "drone strike", "удар дрона", "mobilization", "мобилизац", "mutiny", "мятеж", "resigns", "отставк", "resignation", "step down", "scandal", "скандал", "rate hike", "rate cut", "повышение ставки", "снижение ставки", "recession", "рецессия", "gold surges", "золото выросло", "xauusd", "opec cut", "опек сокращ", "chip ban", "export ban", "запрет экспорта", "cyberattack", "кибератак", "cyber warfare", "кибервойна", "sovereign debt", "госдолг", "bond yields", "доходность облигаций", "powell", "пауэлл", "warsh", "уорш", "lagarde", "лагард", "bank run"]
 SCORE_7 = ["missile", "ракета", "ceasefire", "перемирие", "blockade", "блокада", "strait", "пролив", "uranium", "уран", "lng", "спг", "rare earth", "редкоземельн", "copper", "медь", "lithium", "литий", "trade war", "торговая война", "tariff", "пошлин", "middle corridor", "срединный коридор", "gold hits", "gold falls", "brent falls", "xau", "inflation surge", "инфляция выросла", "fed decision"]
 SCORE_6 = ["summit", "саммит", "talks", "переговор", "agreement", "соглашение",
     "president", "президент", "minister", "министр", "chancellor", "канцлер",
@@ -195,6 +199,12 @@ NOISE_PATTERNS = ["whiskey", "виски", "coffee", "кофе", "barista", "res
 ANALYTICAL_MARKERS = ["week in review", "monthly roundup", "annual report", "year in review", "everything you need to know", "deep dive into", "a brief history", "итоги недели", "годовой отчёт", "история вопроса", "on our radar"]
 # Локальный шум: "rate hike" от коммуналки Огайо проходил как 7/10
 # Не новости, а болтовня: "Речь на вручении дипломов", "Назад к основам в ООН"
+# Погода и природа: "thunderstorms strike across Europe" ловилось как военный удар
+WEATHER_NOISE = [
+    "weather tracker", "thunderstorm", "heatwave", "heat wave", "rainfall",
+    "forecast: rain", "snowfall", "hurricane season", "погода", "гроз", "жара",
+]
+
 FORMAT_NOISE = [
     "commencement", "graduation", "diploma", "ceremony", "церемони",
     "speech at", "remarks at", "keynote", "выступление на", "речь на",
@@ -361,6 +371,8 @@ def score_article(title, summary="", domain="", source="", link=""):
         if ln in tl: return 0
     for fn in FORMAT_NOISE:
         if fn in title_lower: return 0
+    for wn in WEATHER_NOISE:
+        if wn in tl: return 0
     for p in NOISE_PATTERNS:
         if p in tl: return 0
     if domain_in(domain, NOISE_DOMAINS): return 0
@@ -758,6 +770,22 @@ def main():
         print(f"🔁 Отсеяно перепечаток: {skipped_stories}")
     print(f"🆕 Новых сюжетов: {added}")
 
+    # Квота на источник: Guardian отдаёт 45 записей, NYT 58 — они забивали ленту,
+    # а sort по score*weight поднимал Bloomberg/FT наверх. Теперь у всех шанс.
+    if fresh_to_send:
+        from collections import Counter
+        per_source, balanced, overflow = Counter(), [], []
+        for a in fresh_to_send:
+            src = a.get("source", "?")
+            if per_source[src] < MAX_PER_SOURCE:
+                per_source[src] += 1
+                balanced.append(a)
+            else:
+                overflow.append(a)
+        if overflow:
+            print(f"⚖ Квота источников: отложено {len(overflow)} (перебор от {len([s for s,c in per_source.items() if c >= MAX_PER_SOURCE])} изданий)")
+        fresh_to_send = balanced + overflow  # перебор — в хвост, не выбрасываем
+
     # Обогащаем только то, что уйдёт в Telegram
     if len(fresh_to_send) > ENRICH_LIMIT:
         print(f"✂ Обогащаю топ-{ENRICH_LIMIT} из {len(fresh_to_send)}")
@@ -830,6 +858,16 @@ def main():
         "last_run": now_utc.isoformat(),
         "last_summary_date": today if is_summary else last_summary_date
     })
+
+    # Простой сторож от гонки: перечитываем sent.json прямо перед отправкой.
+    # Если параллельный запуск успел записать хэш — не шлём повторно.
+    latest = gist_read(gist_id, "sent.json")
+    locked = set(latest.get("hashes", [])) - sent_hashes   # то, что появилось ПОКА мы работали
+    if locked:
+        before = len(fresh_to_send)
+        fresh_to_send = [a for a in fresh_to_send if a["hash"] not in locked]
+        if len(fresh_to_send) < before:
+            print(f"🏁 Гонка: снято {before - len(fresh_to_send)} дублей от параллельного запуска")
 
     send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
     print("✅ Скрипт успешно завершил цикл обработки.")
