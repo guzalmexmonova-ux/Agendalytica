@@ -2,17 +2,16 @@ name: Parser (every 15 min)
 
 on:
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '*/15 * * * *'   # GitHub исполняет с задержкой 15-40 мин и часть пропускает
   workflow_dispatch:
 
-concurrency:
-  group: parser
-  cancel-in-progress: false
+# concurrency убран: он отменял плановые запуски, стоявшие в очереди,
+# пока шёл ручной. Парсер теперь отрабатывает за ~4 мин, наложений не будет.
 
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 12
     permissions:
       contents: write
     steps:
