@@ -1,0 +1,16 @@
+name: Retest (gdelt+tg)
+
+on:
+  workflow_dispatch:
+
+jobs:
+  retest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install feedparser requests
+      - run: python retest.py
