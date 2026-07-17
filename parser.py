@@ -151,6 +151,37 @@ RSS_FEEDS = [
     {"url": "https://www.eia.gov/rss/todayinenergy.xml", "source": "EIA", "weight": 4},
     {"url": "https://www.bankofengland.co.uk/rss/news", "source": "BoE", "weight": 4},
 
+
+    # ═══ АУДИТОРИЯ КАНАЛА: CA / PH / AU / UK / US (проверено 17.07.2026) ═══
+    # Канада
+    {"url": "https://rss.cbc.ca/lineup/politics.xml", "source": "CBC Politics", "weight": 4},
+    {"url": "https://rss.cbc.ca/lineup/world.xml", "source": "CBC World", "weight": 4},
+    {"url": "https://news.google.com/rss/search?q=site:theglobeandmail.com+when:6h&hl=en-CA&gl=CA&ceid=CA:en", "source": "Globe & Mail", "weight": 4},
+    {"url": "https://news.google.com/rss/search?q=site:nationalpost.com+when:6h&hl=en-CA&gl=CA&ceid=CA:en", "source": "National Post", "weight": 3},
+
+    # Филиппины
+    {"url": "https://www.rappler.com/feed/", "source": "Rappler", "weight": 4},
+    {"url": "https://news.google.com/rss/search?q=site:philstar.com+when:6h&hl=en-PH&gl=PH&ceid=PH:en", "source": "Philippine Star", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=site:news.abs-cbn.com+when:6h&hl=en-PH&gl=PH&ceid=PH:en", "source": "ABS-CBN", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=Philippines+South+China+Sea+OR+West+Philippine+Sea+when:12h&hl=en-PH&gl=PH&ceid=PH:en", "source": "PH South China Sea", "weight": 4},
+
+    # Австралия
+    {"url": "https://www.abc.net.au/news/feed/2942460/rss.xml", "source": "ABC News AU", "weight": 4},
+    {"url": "https://www.abc.net.au/news/feed/51120/rss.xml", "source": "ABC AU Politics", "weight": 3},
+    {"url": "https://www.smh.com.au/rss/world.xml", "source": "Sydney Morning Herald", "weight": 3},
+    {"url": "https://www.smh.com.au/rss/politics/federal.xml", "source": "SMH Politics", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=site:theage.com.au+when:6h&hl=en-AU&gl=AU&ceid=AU:en", "source": "The Age", "weight": 3},
+
+    # Великобритания — усиление
+    {"url": "https://feeds.skynews.com/feeds/rss/uk.xml", "source": "Sky News UK", "weight": 4},
+    {"url": "https://feeds.skynews.com/feeds/rss/politics.xml", "source": "Sky News Politics", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=site:telegraph.co.uk+when:6h&hl=en-GB&gl=GB&ceid=GB:en", "source": "Telegraph", "weight": 3},
+    {"url": "https://feeds.bbci.co.uk/news/politics/rss.xml", "source": "BBC Politics", "weight": 4},
+
+    # США — Конгресс
+    {"url": "https://thehill.com/rss/syndicator/19110", "source": "The Hill", "weight": 4},
+    {"url": "https://rollcall.com/feed/", "source": "Roll Call", "weight": 3},
+
     # ═══ НЕ ПРОШЛИ ПРОВЕРКУ (403/404) ═══
     # Stratfor, Chatham House, RUSI, CSIS, ISW, Carnegie — блокируют ботов
     # OFAC, Treasury, White House, State Dept, NATO, IMF, BIS, OPEC, World Bank — 403/404
@@ -206,6 +237,8 @@ SCORES_MAP = {10: SCORE_10, 9: SCORE_9, 8: SCORE_8, 7: SCORE_7, 6: SCORE_6}
 BREAKING_MARKERS = ["breaking", "just in", "confirmed", "urgent", "alert", "flash", "exclusive", "срочно", "только что", "сейчас", "экстренно", "подтверждено", "молния", "флэш"]
 ANCHOR_KEYWORDS = ["nuclear", "ядерн", "nato article 5", "invasion", "вторжение", "assassination", "покушение", "war", "война", "coup", "переворот", "hypersonic", "гиперзвук", "martial law", "военное положение", "default", "дефолт", "market crash", "oil crash", "airstrike", "авиаудар", "mobilization", "мобилизац", "rate hike", "rate cut", "collapse", "коллапс", "trump signs", "трамп подписал", "trump orders", "putin orders", "путин приказал", "powell", "пауэлл", "lagarde", "лагард", "brent falls", "gold surges"]
 TIER1_SOURCES = {"reuters", "ap", "afp", "bloomberg", "bloomberg politics", "bloomberg tech",
+    "cbc politics", "cbc world", "globe & mail", "rappler", "abs-cbn",
+    "abc news au", "sydney morning herald", "sky news uk", "bbc politics", "the hill",
     "wsj", "ft", "pentagon", "iaea", "eia", "boe", "eu commission", "axios",
     "politico us", "politico eu", "politico congress", "al-monitor", "guardian",
     "france24", "npr world", "dw", "the new york times", "the economist"}
