@@ -79,7 +79,38 @@ CANDIDATES = [
     ("OPEC", "https://www.opec.org/opec_web/en/rss/press_releases.xml"),
     ("World Bank", "https://www.worldbank.org/en/news/all.rss"),
     ("BoE", "https://www.bankofengland.co.uk/rss/news"),
+    # ═══ АУДИТОРИЯ КАНАЛА: US / CA / UK / PH / AU ═══
+    # Канада
+    ("CBC Politics", "https://rss.cbc.ca/lineup/politics.xml"),
+    ("CBC World", "https://rss.cbc.ca/lineup/world.xml"),
+    ("Globe & Mail via GNews", "https://news.google.com/rss/search?q=site:theglobeandmail.com+when:6h&hl=en-CA&gl=CA&ceid=CA:en"),
+    ("National Post via GNews", "https://news.google.com/rss/search?q=site:nationalpost.com+when:6h&hl=en-CA&gl=CA&ceid=CA:en"),
+
+    # Филиппины
+    ("Rappler", "https://www.rappler.com/feed/"),
+    ("Inquirer", "https://newsinfo.inquirer.net/feed"),
+    ("Philippine Star via GNews", "https://news.google.com/rss/search?q=site:philstar.com+when:6h&hl=en-PH&gl=PH&ceid=PH:en"),
+    ("ABS-CBN via GNews", "https://news.google.com/rss/search?q=site:news.abs-cbn.com+when:6h&hl=en-PH&gl=PH&ceid=PH:en"),
+    ("PH South China Sea", "https://news.google.com/rss/search?q=Philippines+South+China+Sea+OR+West+Philippine+Sea+when:12h&hl=en-PH&gl=PH&ceid=PH:en"),
+
+    # Австралия
+    ("ABC News AU", "https://www.abc.net.au/news/feed/2942460/rss.xml"),
+    ("ABC AU politics", "https://www.abc.net.au/news/feed/51120/rss.xml"),
+    ("Sydney Morning Herald", "https://www.smh.com.au/rss/world.xml"),
+    ("SMH politics", "https://www.smh.com.au/rss/politics/federal.xml"),
+    ("The Age via GNews", "https://news.google.com/rss/search?q=site:theage.com.au+when:6h&hl=en-AU&gl=AU&ceid=AU:en"),
+
+    # Великобритания — усиление
+    ("Sky News UK", "https://feeds.skynews.com/feeds/rss/uk.xml"),
+    ("Sky News politics", "https://feeds.skynews.com/feeds/rss/politics.xml"),
+    ("Telegraph via GNews", "https://news.google.com/rss/search?q=site:telegraph.co.uk+when:6h&hl=en-GB&gl=GB&ceid=GB:en"),
+    ("BBC Politics", "https://feeds.bbci.co.uk/news/politics/rss.xml"),
+
+    # США — региональная политика (не покрыто Reuters/AP)
+    ("The Hill", "https://thehill.com/rss/syndicator/19110"),
+    ("Roll Call", "https://rollcall.com/feed/"),
 ]
+
 
 
 def check(name, url):
