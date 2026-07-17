@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v5.7
+AGENDALYTICA — PARSER v5.8
 Исправления против exit code 1 в GitHub Actions:
 1. Импорт newspaper обёрнут в try/except — на Python 3.12 newspaper3k падает
    с ImportError (lxml.html.clean вынесен в отдельный пакет). Теперь скрипт
@@ -70,6 +70,7 @@ TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 HOURS_WINDOW = 2        # окно свежести в часах (было 4 — слишком старое)
 MIN_SCORE = 5           # минимальный балл (из 10)
 TOP_N = 50              # топ статей в очереди
+ENRICH_LIMIT = 15       # для скольких статей качать полный текст + переводить
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
 
@@ -396,15 +397,11 @@ def fetch_all():
                     age_min = round((datetime.now(timezone.utc) - pub_dt).total_seconds() / 60, 1)
                 seen_hashes.add(h)
                 gdelt_ok += 1
-
-                title_ru = translate_to_ru(title)
-                full_text_en = extract_full_text(link)
-                full_text_ru = translate_to_ru(full_text_en) if full_text_en else ""
-
+                # БЕЗ сети: перевод и полный текст — позже, только для новых
                 articles.append({
-                    "hash": h, "title": title_ru, "original_title": title,
-                    "summary": full_text_ru[:1500] if full_text_ru else "",
-                    "original_full_text": full_text_en, "link": link, "source": source_name,
+                    "hash": h, "title": title, "original_title": title,
+                    "summary": "", "original_full_text": "",
+                    "link": link, "source": source_name,
                     "score": sc, "weight": weight, "status": "new",
                     "ts": datetime.now(TZ).isoformat(), "age_min": age_min,
                 })
@@ -442,16 +439,11 @@ def fetch_all():
                 if sc < MIN_SCORE: continue
                 seen_hashes.add(h)
                 rss_ok += 1
-
-                full_text_en = extract_full_text(link)
-                if not full_text_en and summary: full_text_en = summary
-                full_text_ru = translate_to_ru(full_text_en) if full_text_en else ""
-                title_ru = translate_to_ru(title)
-
+                # БЕЗ сети: перевод и полный текст — позже, только для новых
                 articles.append({
-                    "hash": h, "title": title_ru, "original_title": title,
-                    "summary": full_text_ru[:1500] if full_text_ru else "",
-                    "original_full_text": full_text_en, "link": link, "source": cfg["source"],
+                    "hash": h, "title": title, "original_title": title,
+                    "summary": "", "original_full_text": summary,
+                    "link": link, "source": cfg["source"],
                     "score": sc, "weight": cfg["weight"], "status": "new",
                     "ts": datetime.now(TZ).isoformat(), "age_min": age_min,
                 })
@@ -615,6 +607,22 @@ def send_to_telegram(fresh_items, daily_items, today, is_summary=False):
             msg = (header2 if idx == 0 else f"<b>САММАРИ (продолжение {idx+1})</b>\n\n") + "\n".join(batch)
             tg_send(msg[:4000])
 
+def enrich(items):
+    """Дорогая часть: полный текст + перевод. Только для новых статей,
+    которые реально уйдут в Telegram. Раньше это делалось для ВСЕХ
+    статей до дедупа — отсюда таймаут в 14 минут."""
+    for i, a in enumerate(items, 1):
+        try:
+            a["title"] = translate_to_ru(a["original_title"])
+            full_en = extract_full_text(a["link"])
+            if not full_en:
+                full_en = a.get("original_full_text") or ""
+            a["original_full_text"] = full_en
+            a["summary"] = translate_to_ru(full_en)[:1500] if full_en else ""
+        except Exception as e:
+            print(f"  ⚠ Обогащение [{i}]: {e}")
+    return items
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  MAIN ORCHESTRATION
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -624,7 +632,7 @@ def main():
         sys.exit(1)
 
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.7 — {now_str} TASHKENT | newspaper={'ON' if HAS_NEWSPAPER else 'OFF (fallback)'}")
+    print(f"🔄 Parser v5.8 — {now_str} TASHKENT | newspaper={'ON' if HAS_NEWSPAPER else 'OFF (fallback)'}")
 
     gist_id = get_or_create_gist()
     if not gist_id:
@@ -676,6 +684,14 @@ def main():
     if skipped_stories:
         print(f"🔁 Отсеяно перепечаток: {skipped_stories}")
     print(f"🆕 Новых сюжетов: {added}")
+
+    # Обогащаем только то, что уйдёт в Telegram
+    if len(fresh_to_send) > ENRICH_LIMIT:
+        print(f"✂ Обогащаю топ-{ENRICH_LIMIT} из {len(fresh_to_send)}")
+        fresh_to_send = fresh_to_send[:ENRICH_LIMIT]
+    if fresh_to_send:
+        print(f"📖 Качаю тексты и перевожу: {len(fresh_to_send)}")
+        enrich(fresh_to_send)
 
     cutoff_queue = datetime.now(TZ) - timedelta(hours=4)
     kept = []
