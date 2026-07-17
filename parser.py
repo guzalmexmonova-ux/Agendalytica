@@ -36,6 +36,7 @@ MIN_SCORE_UNDATED = 6   # без даты: было 7, теперь 6
 TOP_N = 80              # топ статей в очереди
 ENRICH_LIMIT = 30       # сколько заголовков переводить за запуск
 MAX_PER_SOURCE = 3      # не больше N новостей от одного издания за пачку
+MAX_PER_TOPIC = 5       # не больше N новостей на одну ГОРЯЧУЮ тему (война/выборы)
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
 
@@ -68,8 +69,8 @@ RSS_FEEDS = [
     {"url": "https://tg.i-c-a.su/rss/macronomics", "source": "TG/Macro", "weight": 3},
 
     # Издания напрямую — живые, свежие
-    {"url": "https://tass.ru/rss/v2.xml", "source": "TASS", "weight": 3},                       # 17м
-    {"url": "https://lenta.ru/rss/news", "source": "Lenta.ru", "weight": 3},                    # 39м
+    {"url": "https://tass.ru/rss/v2.xml", "source": "TASS", "weight": 2},                       # 17м
+    {"url": "https://lenta.ru/rss/news", "source": "Lenta.ru", "weight": 2},                    # 39м
     {"url": "https://www.ft.com/world?format=rss", "source": "FT", "weight": 4},                # 83м
     {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "weight": 4},# 180м
     {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera", "weight": 3},  # 271м
@@ -206,7 +207,7 @@ SCORE_10 = ["nuclear", "ядерн", "nato article 5", "invasion", "вторже
 SCORE_9 = ["war", "война", "coup", "переворот", "hypersonic", "гиперзвук", "martial law", "военное положение", "impeached", "импичмент", "default", "дефолт", "market crash", "обвал рынка", "oil crash", "нефть упала", "tsmc ban", "iran nuclear", "иран ядерн"]
 SCORE_8 = ["air strike", "air strikes", "airstrikes", "missile strike", "military strike",
     "strikes on", "strikes against", "strikes key", "strikes near", "retaliatory strike",
-    "us strikes", "israeli strikes", "launches strikes", "наносит удар", "нанесли удар",
+    "us strikes", "israeli strikes", "launches strikes", "наносит удар", "нанесли удар", "наносят удар", "нанес удар", "нанёс удар", "нанесла удар",
     "ракетный удар", "авиаудар", "shelling", "обстрел", "bombardment", "attack", "атак", "escalation", "эскалац", "ballistic", "баллистическ", "airstrike", "авиаудар", "drone strike", "удар дрона", "mobilization", "мобилизац", "mutiny", "мятеж", "resigns", "отставк", "resignation", "step down", "scandal", "скандал", "rate hike", "rate cut", "повышение ставки", "снижение ставки", "recession", "рецессия", "gold surges", "золото выросло", "xauusd", "opec cut", "опек сокращ", "chip ban", "export ban", "запрет экспорта", "cyberattack", "кибератак", "cyber warfare", "кибервойна", "sovereign debt", "госдолг", "bond yields", "доходность облигаций", "powell", "пауэлл", "warsh", "уорш", "lagarde", "лагард", "bank run"]
 SCORE_7 = ["missile", "ракета", "ceasefire", "перемирие", "blockade", "блокада", "strait", "пролив", "uranium", "уран", "lng", "спг", "rare earth", "редкоземельн", "copper", "медь", "lithium", "литий", "trade war", "торговая война", "tariff", "пошлин", "middle corridor", "срединный коридор", "gold hits", "gold falls", "brent falls", "xau", "inflation surge", "инфляция выросла", "fed decision"]
 SCORE_6 = [
@@ -265,6 +266,18 @@ FORMAT_NOISE = [
 LOCAL_NOISE = [
     "aes ohio", "utility rate", "utility bill", "electric bill", "water rate",
     "city council", "county board", "school board", "local residents",
+    # Спорт: раньше "финал ЧМ", гольф, "бегуны и гонщики" проходили через election/strike
+    "world cup", "чм-", "чемпионат мира", "финал ", "мессия", "messi",
+    "golf", "гольф", "singapore open", "olympic", "олимпи",
+    "runners and riders", "бегуны и гонщики", "flowerhorn", "гибридные рыбы",
+    # Развлечения, гейминг, колонки
+    "god of war", "кратос", "digested week", "diminished by",
+    "прощай", "рецензия", "review of", "how he drinks", "как он пьет",
+    "netflix", "нетфликс", "hbo", "amazon prime",
+    # Локальная бюрократия РФ (проходит через "president", "минист")
+    "госдолг", "ратифицировал", "госдума приняла в третьем",
+    "хайнань", "брянск", "абхаз", "россельхознадзор",
+    "обновлённые учебники", "ран заявил", "рао ", "минкультуры",
     "rupee", "rupees", "₹", "per 10 gram", "per kg", "rs 3", "rs 7", "/10 gram", "/kg",
     "lakh", "crore", "sensex", "nifty",
     "labor strike", "labour strike", "workers strike", "hunger strike", "забастовк",
@@ -355,10 +368,37 @@ def extract_publisher(title, source):
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
 
+# Горячие темы: если тема одна и та же, лента забивается ей.
+# Иран у нас 15/30 = 50% ленты, надо сократить до 5, освободив место остальным.
+TOPICS = {
+    "iran-war": ["iran", "иран", "ormuz", "ормуз", "hormuz", "tehran", "тегеран", "kuwait", "кувейт"],
+    "ukraine": ["ukraine", "украин", "zelensky", "зеленск", "putin", "путин", "kyiv", "киев"],
+    "burnham-uk": ["burnham", "бёрнем", "бернэм", "бернхэм", "labour leader", "лейбористск"],
+    "trump-elections": ["trump election", "трамп выбор", "voter fraud", "фальсификац выбор", "election fraud"],
+    "china-ph": ["monkey video", "обезьян", "china daily", "west philippine sea"],
+    "gold-oil": ["gold prices", "золото", "brent", "нефть", "opec", "опек", "crude oil"],
+    "fed": ["fed", "фрс", "powell", "пауэлл", "warsh", "уорш", "rate hike", "rate cut"],
+}
+
+def article_topic(a):
+    t = ((a.get("original_title") or "") + " " + (a.get("title") or "")).lower()
+    for name, kws in TOPICS.items():
+        if any(k in t for k in kws):
+            return name
+    return None
+
 def _has(kw, text):
     if " " in kw:
         return kw in text
-    return re.search(r"(?<![a-zа-яё0-9])" + re.escape(kw) + r"(?![a-zа-яё0-9])", text) is not None
+    # Русские корни без окончаний (атак, ядерн, санкци, эскалац) должны ловить
+    # все словоформы: "атакует", "ядерные", "санкций". Правую границу не требуем
+    # для корней 4+ символов — она отрезала все склонения.
+    is_root = len(kw) >= 4 and any("а" <= c <= "я" or c == "ё" for c in kw)
+    if is_root:
+        pat = r"(?<![a-zа-яё0-9])" + re.escape(kw)
+    else:
+        pat = r"(?<![a-zа-яё0-9])" + re.escape(kw) + r"(?![a-zа-яё0-9])"
+    return re.search(pat, text) is not None
 
 STOP_SIG = {
     "the","a","an","of","in","on","to","for","and","is","as","at","by","with","from","that",
@@ -831,6 +871,8 @@ def main():
     # а sort по score*weight поднимал Bloomberg/FT наверх. Теперь у всех шанс.
     if fresh_to_send:
         from collections import Counter
+        # Сначала сортируем по важности — чтобы квота брала ТОП-3, а не первые попавшиеся
+        fresh_to_send.sort(key=lambda a: a["score"] * a.get("weight", 1), reverse=True)
         per_source, balanced, overflow = Counter(), [], []
         for a in fresh_to_send:
             src = a.get("source", "?")
@@ -840,8 +882,25 @@ def main():
             else:
                 overflow.append(a)
         if overflow:
-            print(f"⚖ Квота источников: отложено {len(overflow)} (перебор от {len([s for s,c in per_source.items() if c >= MAX_PER_SOURCE])} изданий)")
-        fresh_to_send = balanced + overflow  # перебор — в хвост, не выбрасываем
+            capped = [s for s, c in per_source.items() if c >= MAX_PER_SOURCE]
+            print(f"⚖ Квота источников: отложено {len(overflow)} (лимит у {len(capped)} изданий)")
+        fresh_to_send = balanced + overflow
+
+        # Квота по темам: чтобы Иран не сжирал всю ленту
+        from collections import Counter
+        per_topic = Counter()
+        topic_balanced, topic_overflow = [], []
+        for a in fresh_to_send:
+            tp = article_topic(a)
+            if tp is None or per_topic[tp] < MAX_PER_TOPIC:
+                per_topic[tp] += 1
+                topic_balanced.append(a)
+            else:
+                topic_overflow.append(a)
+        if topic_overflow:
+            hot = [(t, c) for t, c in per_topic.items() if c >= MAX_PER_TOPIC]
+            print(f"🎯 Квота тем: отложено {len(topic_overflow)} по {len(hot)} горячим сюжетам")
+        fresh_to_send = topic_balanced + topic_overflow
 
     # Обогащаем только то, что уйдёт в Telegram
     if len(fresh_to_send) > ENRICH_LIMIT:
@@ -906,7 +965,7 @@ def main():
 
     now_tsh = datetime.now(TZ)
     last_summary_date = sent.get("last_summary_date", "")
-    is_summary = (18 <= now_tsh.hour < 24) and last_summary_date != today
+    is_summary = (now_tsh.hour == 20) and last_summary_date != today
 
     gist_write(gist_id, "sent.json", {
         "hashes": [r["h"] for r in sent_records],
