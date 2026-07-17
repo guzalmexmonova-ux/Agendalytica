@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v5.5 (FIXED)
+AGENDALYTICA — PARSER v5.7
 Исправления против exit code 1 в GitHub Actions:
 1. Импорт newspaper обёрнут в try/except — на Python 3.12 newspaper3k падает
    с ImportError (lxml.html.clean вынесен в отдельный пакет). Теперь скрипт
@@ -67,11 +67,14 @@ GIST_ID = os.environ.get("GIST_ID", "")
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
 
-HOURS_WINDOW = 4        # окно свежести в часах
+HOURS_WINDOW = 2        # окно свежести в часах (было 4 — слишком старое)
 MIN_SCORE = 5           # минимальный балл (из 10)
 TOP_N = 50              # топ статей в очереди
 
 TZ = timezone(timedelta(hours=5))  # Ташкент GMT+5
+
+DEDUP_HOURS = 24        # память сюжетов: одна история = одна отправка за сутки
+SIM_THRESHOLD = 0.45    # порог схожести заголовков
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  ИСТОЧНИКИ ДАННЫХ (без изменений)
@@ -92,105 +95,69 @@ GDELT_FEEDS = [
 ]
 
 RSS_FEEDS = [
+    # ═══ ЖИВОЕ И СВЕЖЕЕ (проверено диагностикой 17.07.2026) ═══
+    # Telegram-мост: самый быстрый канал (TG/Bloomberg дал 10м).
+    # Оставлены только ключевые — хост режет по 429 при частых запросах.
+    {"url": "https://tg.i-c-a.su/rss/bbbreaking", "source": "TG/Bloomberg", "weight": 4},
+    {"url": "https://tg.i-c-a.su/rss/market_twits", "source": "TG/Markets", "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/rian_ru", "source": "TG/RIA", "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/interfaxonline", "source": "TG/Interfax", "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/centralasian", "source": "TG/CentralAsia", "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/war_monitor", "source": "TG/WarMonitor", "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/rybar", "source": "TG/Rybar", "weight": 3},
+    {"url": "https://tg.i-c-a.su/rss/macronomics", "source": "TG/Macro", "weight": 3},
+
+    # Издания напрямую — живые, свежие
+    {"url": "https://tass.ru/rss/v2.xml", "source": "TASS", "weight": 3},                       # 17м
+    {"url": "https://lenta.ru/rss/news", "source": "Lenta.ru", "weight": 3},                    # 39м
+    {"url": "https://www.ft.com/world?format=rss", "source": "FT", "weight": 4},                # 83м
+    {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "weight": 4},# 180м
+    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera", "weight": 3},  # 271м
+    {"url": "https://www.scmp.com/rss/91/feed", "source": "SCMP", "weight": 3},                 # 201м
+    {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC World", "weight": 4}, # 720м
+    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "NYT World", "weight": 3},
+    {"url": "https://thediplomat.com/feed", "source": "The Diplomat", "weight": 3},
+    {"url": "https://asia.nikkei.com/rss/feed/nar", "source": "Nikkei Asia", "weight": 3},
+    {"url": "https://www.crisisgroup.org/rss/139", "source": "Crisis Group", "weight": 3},
+    {"url": "https://www.foreignaffairs.com/rss.xml", "source": "Foreign Affairs", "weight": 3},
+
+    # Официальные — редко публикуют, но это первоисточник без задержки
+    {"url": "https://www.federalreserve.gov/feeds/press_all.xml", "source": "FED", "weight": 5},
+    {"url": "https://www.ecb.europa.eu/rss/press.html", "source": "ECB", "weight": 5},
+    {"url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "source": "UN", "weight": 4},
+
+    # Google News — агрегатор, но поисковые фиды дают свежее (43-91м)
+    {"url": "https://news.google.com/rss/search?q=Federal+Reserve+OR+ECB+OR+BOE+rate+decision+when:6h&hl=en-US", "source": "GNews/CentralBanks", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=brent+crude+oil+OPEC+cut+OR+crash+when:6h&hl=en-US", "source": "GNews/Oil", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=gold+XAU+price+surge+OR+fall+when:6h&hl=en-US", "source": "GNews/Gold", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=breaking+war+attack+crisis+when:6h&hl=en-US", "source": "GNews/Breaking", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=TSMC+ASML+Nvidia+chip+ban+export+when:6h&hl=en-US", "source": "GNews/Chips", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=Israel+Iran+Gaza+Houthi+when:6h&hl=en-US", "source": "GNews/Mideast", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=USA+China+Taiwan+military+Strait+when:6h&hl=en-US", "source": "GNews/USA-China", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=война+санкции+мобилизация+НАТО+when:6h&hl=ru&gl=RU&ceid=RU:ru", "source": "GNews/RU-Geo", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=ФРС+ставка+рецессия+инфляция+нефть+when:6h&hl=ru&gl=RU&ceid=RU:ru", "source": "GNews/RU-Macro", "weight": 3},
+    {"url": "https://news.google.com/rss/search?q=Узбекистан+Казахстан+Мирзиёев+Токаев+when:6h&hl=ru&gl=UZ&ceid=UZ:ru", "source": "GNews/RU-CA", "weight": 3},
     {"url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en", "source": "GNews/Home-US", "weight": 4},
     {"url": "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en", "source": "GNews/World-US", "weight": 4},
     {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en", "source": "GNews/Business-US", "weight": 4},
-    {"url": "https://news.yahoo.com/rss/", "source": "Yahoo/Home", "weight": 4},
-    {"url": "https://news.yahoo.com/rss/world", "source": "Yahoo/World", "weight": 4},
-    {"url": "https://news.yahoo.com/rss/politics", "source": "Yahoo/Politics", "weight": 4},
-    {"url": "https://finance.yahoo.com/rss/", "source": "Yahoo/Finance", "weight": 4},
-    {"url": "https://www.aol.com/rss/", "source": "AOL/Home", "weight": 4},
-    {"url": "https://www.aol.com/news/rss/", "source": "AOL/News", "weight": 4},
-    {"url": "https://www.federalreserve.gov/feeds/press_all.xml", "source": "FED", "weight": 5},
-    {"url": "https://www.imf.org/en/news/rss", "source": "IMF", "weight": 5},
-    {"url": "https://www.bis.org/rss/pressrels.xml", "source": "BIS", "weight": 5},
-    {"url": "https://www.ecb.europa.eu/rss/press.html", "source": "ECB", "weight": 5},
-    {"url": "https://www.iea.org/news.xml", "source": "IEA", "weight": 4},
-    {"url": "https://www.wto.org/english/news_e/news_xml_e.xml", "source": "WTO", "weight": 4},
-    {"url": "https://www.nato.int/rss/", "source": "NATO", "weight": 5},
-    {"url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml", "source": "UN", "weight": 4},
-    {"url": "https://www.defense.gov/News/RSS/", "source": "Pentagon", "weight": 5},
-    {"url": "https://feeds.reuters.com/reuters/topNews", "source": "Reuters", "weight": 4},
-    {"url": "https://www.reuters.com/world/rss", "source": "Reuters World", "weight": 4},
-    {"url": "https://apnews.com/rss", "source": "AP News", "weight": 4},
-    {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "weight": 4},
-    {"url": "https://www.ft.com/world?format=rss", "source": "FT", "weight": 4},
-    {"url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml", "source": "WSJ", "weight": 4},
-    {"url": "https://feeds.bbci.co.uk/news/world/rss.xml", "source": "BBC World", "weight": 4},
-    {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera", "weight": 3},
-    {"url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml", "source": "NYT World", "weight": 3},
-    {"url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC", "weight": 3},
-    {"url": "https://asia.nikkei.com/rss/feed/nar", "source": "Nikkei Asia", "weight": 3},
-    {"url": "https://www.scmp.com/rss/91/feed", "source": "SCMP", "weight": 3},
-    {"url": "https://www.crisisgroup.org/rss/139", "source": "Crisis Group", "weight": 3},
-    {"url": "https://www.foreignaffairs.com/rss.xml", "source": "Foreign Affairs", "weight": 3},
-    {"url": "https://thediplomat.com/feed", "source": "The Diplomat", "weight": 3},
-    {"url": "https://eurasianet.org/feed", "source": "EurasiaNet", "weight": 3},
-    {"url": "https://tass.ru/rss/v2.xml", "source": "TASS", "weight": 3},
-    {"url": "https://lenta.ru/rss/news", "source": "Lenta.ru", "weight": 3},
-    {"url": "https://www.zerohedge.com/fullrss2.xml", "source": "ZeroHedge", "weight": 2},
-    {"url": "https://tg.i-c-a.su/rss/bbbreaking", "source": "TG/Bloomberg", "weight": 4},
-    {"url": "https://tg.i-c-a.su/rss/ReutersWorld", "source": "TG/Reuters", "weight": 4},
-    {"url": "https://tg.i-c-a.su/rss/ftnews", "source": "TG/FT", "weight": 4},
-    {"url": "https://tg.i-c-a.su/rss/tass_agency", "source": "TG/TASS", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rian_ru", "source": "TG/RIA", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rbc_news", "source": "TG/RBC", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/interfaxonline", "source": "TG/Interfax", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/market_twits", "source": "TG/Markets", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/centralasian", "source": "TG/CentralAsia", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/militarynews", "source": "TG/Military", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/oilgas", "source": "TG/OilGas", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/geopolitics_live", "source": "TG/Geopolitics", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/war_monitor", "source": "TG/WarMonitor", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/intelslava", "source": "TG/IntelSlava", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rybar", "source": "TG/Rybar", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/grey_zone", "source": "TG/GreyZone", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/macronomics", "source": "TG/Macro", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/cbonds_news", "source": "TG/CBonds", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/investing", "source": "TG/Investing", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/federalreserve", "source": "TG/FedWatch", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/mideastspectrum", "source": "TG/Mideast", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/iranintl", "source": "TG/IranIntl", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/chinaobservers", "source": "TG/China", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/nknewsorg", "source": "TG/NKNews", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=USA+China+Taiwan+military+Strait+when:2h&hl=en-US", "source": "GNews/USA-China", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=Federal+Reserve+OR+ECB+OR+BOE+rate+decision+when:2h&hl=en-US", "source": "GNews/CentralBanks", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=gold+XAU+price+surge+OR+fall+when:2h&hl=en-US", "source": "GNews/Gold", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=brent+crude+oil+OPEC+cut+OR+crash+when:2h&hl=en-US", "source": "GNews/Oil", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=TSMC+ASML+Nvidia+chip+ban+export+when:2h&hl=en-US", "source": "GNews/Chips", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=Israel+Iran+Gaza+Houthi+when:2h&hl=en-US", "source": "GNews/Mideast", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=breaking+war+attack+crisis+when:2h&hl=en-US", "source": "GNews/Breaking", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=война+санкции+мобилизация+НАТО+when:2h&hl=ru&gl=RU&ceid=RU:ru", "source": "GNews/RU-Geo", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=ФРС+ставка+рецессия+инфляция+нефть+when:2h&hl=ru&gl=RU&ceid=RU:ru", "source": "GNews/RU-Macro", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=Узбекистан+Казахстан+Мирзиёев+Токаев+when:2h&hl=ru&gl=UZ&ceid=UZ:ru", "source": "GNews/RU-CA", "weight": 3},
-    {"url": "https://nitter.net/realDonaldTrump/rss", "source": "Trump/X", "weight": 5},
-    {"url": "https://nitter.net/POTUS/rss", "source": "POTUS/X", "weight": 5},
-    {"url": "https://nitter.net/WhiteHouse/rss", "source": "WhiteHouse/X", "weight": 5},
+
+    # Nitter — большинство зеркал протухло (Trump/X отдавал 4-месячную давность).
+    # Оставлены только те, где диагностика показала свежесть.
+    {"url": "https://nitter.net/WhiteHouse/rss", "source": "WhiteHouse/X", "weight": 5},        # 200м
+    {"url": "https://nitter.net/POTUS/rss", "source": "POTUS/X", "weight": 5},                  # 945м
     {"url": "https://nitter.net/ZelenskyyUa/rss", "source": "Zelensky/X", "weight": 4},
-    {"url": "https://nitter.net/EmmanuelMacron/rss", "source": "Macron/X", "weight": 4},
-    {"url": "https://nitter.net/narendramodi/rss", "source": "Modi/X", "weight": 4},
-    {"url": "https://nitter.net/RTErdogan/rss", "source": "Erdogan/X", "weight": 4},
-    {"url": "https://nitter.net/IsraeliPM/rss", "source": "Israel PM/X", "weight": 4},
-    {"url": "https://nitter.net/10DowningStreet/rss", "source": "UK PM/X", "weight": 4},
-    {"url": "https://nitter.net/SecRubio/rss", "source": "US SecState/X", "weight": 5},
-    {"url": "https://nitter.net/MFA_China/rss", "source": "ChinaMFA/X", "weight": 4},
-    {"url": "https://nitter.net/MFA_Russia/rss", "source": "RussiaMFA/X", "weight": 4},
-    {"url": "https://nitter.net/IsraeliMFA/rss", "source": "IsraelMFA/X", "weight": 4},
-    {"url": "https://nitter.net/MFATurkey/rss", "source": "TurkeyMFA/X", "weight": 3},
-    {"url": "https://nitter.net/AuswaertigesAmt/rss", "source": "GermanyMFA/X", "weight": 3},
-    {"url": "https://nitter.net/mfauzbekistan/rss", "source": "UzbMFA/X", "weight": 3},
-    {"url": "https://nitter.net/DeptofDefense/rss", "source": "Pentagon/X", "weight": 5},
-    {"url": "https://nitter.net/DefenceHQ/rss", "source": "UK MOD/X", "weight": 4},
-    {"url": "https://nitter.net/NATO/rss", "source": "NATO/X", "weight": 5},
-    {"url": "https://nitter.net/UN/rss", "source": "UN/X", "weight": 4},
-    {"url": "https://nitter.net/IMFNews/rss", "source": "IMF/X", "weight": 4},
-    {"url": "https://nitter.net/ECB/rss", "source": "ECB/X", "weight": 4},
-    {"url": "https://nitter.net/federalreserve/rss", "source": "FedReserve/X", "weight": 5},
-    {"url": "https://nitter.net/KremlinRussia_E/rss", "source": "Kremlin/X", "weight": 4},
     {"url": "https://nitter.net/elonmusk/rss", "source": "Musk/X", "weight": 3},
-    {"url": "https://nitter.net/SpokespersonCHN/rss", "source": "ChinaSpox/X", "weight": 4},
-    {"url": "https://truthsocial.com/@realDonaldTrump/feed.rss", "source": "Trump/Truth", "weight": 5},
-    {"url": "https://truthsocial.com/@realDonaldTrump/with_replies.rss", "source": "Trump/TruthReply", "weight": 4},
+
+    # ═══ УДАЛЕНО ПО ИТОГАМ ДИАГНОСТИКИ ═══
+    # 404/403/401 — фиды закрыты или сменили URL:
+    #   Reuters, Reuters World (Reuters закрыл RSS), AP News, BIS, NATO, Pentagon,
+    #   IMF, IEA, WTO (битый XML), ZeroHedge, EurasiaNet, AOL x2,
+    #   Trump/Truth x2 (403), TG/Reuters (403),
+    #   nitter: Pentagon, IsraelMFA, TurkeyMFA, UzbMFA (404)
+    # Протухшие зеркала (отдают старьё):
+    #   WSJ (~1.5 года), Kremlin/X (~4 года), ChinaSpox/X (~1.5 года),
+    #   Trump/X (~4 мес), Yahoo/Finance (~48 дней), CNBC (~17 дней)
+    # Yahoo/AOL: yahoo.com в NOISE_DOMAINS — фиды всё равно отсеивались
 ]
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -214,12 +181,59 @@ VETO_PATTERNS = [" vs ", " vs.", "overtime", "stabbing", "pleads guilty", "win p
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  ВСПОМОГАТЕЛЬНЫЕ ФУНКЦИИ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+import time as _time
+from urllib.parse import urlparse
+
+# Троттлинг по хостам: GDELT и tg.i-c-a.su жёстко режут частые запросы (429).
+# Без этого парсер терял 9 из 12 GDELT и 24 из 25 TG на КАЖДОМ запуске.
+HOST_DELAY = {
+    "api.gdeltproject.org": 6.0,
+    "tg.i-c-a.su": 4.0,
+    "nitter.net": 2.0,
+    "news.google.com": 1.5,
+}
+DEFAULT_DELAY = 0.5
+_last_hit = {}
+
+def _throttle(url):
+    host = urlparse(url).netloc.lower()
+    delay = HOST_DELAY.get(host, DEFAULT_DELAY)
+    last = _last_hit.get(host, 0)
+    wait = delay - (_time.time() - last)
+    if wait > 0:
+        _time.sleep(wait)
+    _last_hit[host] = _time.time()
+
+def parse_feed(url, retries=3):
+    """feedparser + троттлинг + ретраи с нарастающей паузой на 429."""
+    for attempt in range(retries):
+        _throttle(url)
+        f = feedparser.parse(url, agent="Mozilla/5.0",
+                            request_headers={"Cache-Control": "no-cache"})
+        status = getattr(f, "status", None)
+        if status == 429:
+            back = (attempt + 1) * 8
+            if attempt < retries - 1:
+                print(f"  ⏳ 429 — пауза {back}с ({urlparse(url).netloc})")
+                _time.sleep(back)
+                continue
+            return f, "429"
+        return f, None
+    return f, "429"
+
 def make_hash(url):
     return hashlib.md5(url.encode()).hexdigest()
 
 def extract_domain(url):
     m = re.search(r'https?://(?:www\.)?([^/]+)', url or "")
     return m.group(1).lower() if m else ""
+
+def domain_in(domain, domain_set):
+    """ФИКС: раньше сравнение было точным — news.yahoo.com не совпадал с yahoo.com
+    и проскакивал мимо чёрного списка. Теперь учитываются поддомены."""
+    if not domain:
+        return False
+    return any(domain == d or domain.endswith("." + d) for d in domain_set)
 
 def clean_html(text):
     return re.sub(r'<[^>]+>', '', text or '').strip()
@@ -228,6 +242,33 @@ def _has(kw, text):
     if " " in kw:
         return kw in text
     return re.search(r"(?<![a-zа-яё0-9])" + re.escape(kw) + r"(?![a-zа-яё0-9])", text) is not None
+
+STOP_SIG = {
+    "the","a","an","of","in","on","to","for","and","is","as","at","by","with","from","that",
+    "says","said","after","amid","over","its","his","her","new","report","reports","update",
+    "по","в","на","и","о","с","за","из","что","как","это","для","от","при","до","же","бы",
+    "сообщает","заявил","после","фоне","может","года","году",
+}
+
+def story_sig(article):
+    """Сигнатура СЮЖЕТА по RU+EN заголовкам — ловит перепечатки с разными URL."""
+    import unicodedata
+    text = (article.get("original_title") or "") + " " + (article.get("title") or "")
+    t = unicodedata.normalize("NFKD", text.lower())
+    words = re.findall(r"[a-zа-яё0-9]+", t)
+    return sorted({w for w in words if w not in STOP_SIG and len(w) > 2})
+
+def sig_matches(sig_a, sig_b):
+    a, b = set(sig_a), set(sig_b)
+    if not a or not b:
+        return False
+    return len(a & b) / max(1, min(len(a), len(b))) >= SIM_THRESHOLD
+
+def is_known_story(article, known_sigs):
+    s = set(story_sig(article))
+    if not s:
+        return False
+    return any(sig_matches(s, k) for k in known_sigs)
 
 def translate_to_ru(text):
     if not text:
@@ -289,7 +330,7 @@ def score_article(title, summary="", domain=""):
         if v in tl: return 0
     for p in NOISE_PATTERNS:
         if p in tl: return 0
-    if domain in NOISE_DOMAINS: return 0
+    if domain_in(domain, NOISE_DOMAINS): return 0
     for am in ANALYTICAL_MARKERS:
         if am in title_lower: return 0
 
@@ -305,7 +346,7 @@ def score_article(title, summary="", domain=""):
 
     if base == 0: return 0
     is_gdelt = domain.startswith("GDELT/")
-    is_tier1 = domain in TIER1_DOMAINS
+    is_tier1 = domain_in(domain, TIER1_DOMAINS)
     score = base
     penalty = 0
     if total_hits == 1 and not is_tier1: penalty = 2
@@ -333,7 +374,10 @@ def fetch_all():
     gdelt_ok = 0
     for url, source_name, weight in GDELT_FEEDS:
         try:
-            feed = feedparser.parse(url, agent="Mozilla/5.0", request_headers={"Cache-Control": "no-cache"})
+            feed, err = parse_feed(url)
+            if err:
+                print(f"  ⚠ GDELT [{source_name}]: {err} после ретраев")
+                continue
             for e in feed.entries[:30]:
                 link = (e.get("link") or "").strip()
                 if not link: continue
@@ -341,7 +385,7 @@ def fetch_all():
                 if h in seen_hashes: continue
                 title = clean_html(e.get("title", "")).strip()
                 domain = extract_domain(link)
-                if not title or domain in NOISE_DOMAINS: continue
+                if not title or domain_in(domain, NOISE_DOMAINS): continue
                 sc = score_article(title, "", domain)
                 if sc < MIN_SCORE: continue
                 pub = e.get("published_parsed") or e.get("updated_parsed")
@@ -372,16 +416,20 @@ def fetch_all():
     rss_fail = 0
     for cfg in RSS_FEEDS:
         try:
-            feed = feedparser.parse(cfg["url"], agent="Mozilla/5.0", request_headers={"Cache-Control": "no-cache"})
+            feed, err = parse_feed(cfg["url"])
+            if err:
+                rss_fail += 1
+                continue
             for e in feed.entries[:20]:
                 link = (e.get("link") or "").strip()
                 if not link: continue
                 h = make_hash(link)
                 if h in seen_hashes: continue
                 domain = extract_domain(link)
-                if domain in NOISE_DOMAINS: continue
+                if domain_in(domain, NOISE_DOMAINS): continue
                 pub = e.get("published_parsed") or e.get("updated_parsed")
-                age_min = 0
+                # ФИКС: без даты статья больше НЕ считается свежей (было age_min = 0)
+                age_min = None
                 if pub:
                     pub_dt = datetime(*pub[:6], tzinfo=timezone.utc)
                     if pub_dt < cutoff: continue
@@ -411,7 +459,13 @@ def fetch_all():
             rss_fail += 1
     print(f"  ✓ RSS/TG/Nitter/GNews: {rss_ok} статей ({rss_fail} фидов с ошибками)")
 
-    articles.sort(key=lambda x: (x["score"] * x["weight"], -x.get("age_min", 999) if x.get("age_min") is not None else -999), reverse=True)
+        # Сортировка: сначала оценённые, среди равных — свежие; без даты уходят в конец
+    def sort_key(x):
+        age = x.get("age_min")
+        dated = 1 if age is not None else 0
+        recency = -age if age is not None else -99999
+        return (x["score"] * x["weight"], dated, recency)
+    articles.sort(key=sort_key, reverse=True)
 
     import unicodedata
     STOP = {"the","a","an","of","in","on","to","for","and","is","as","at","по","в","на","и","о","с","за","из","что","как","says","said","after","amid","over","with"}
@@ -570,7 +624,7 @@ def main():
         sys.exit(1)
 
     now_str = datetime.now(TZ).strftime('%d.%m.%Y %H:%M')
-    print(f"🔄 Parser v5.5 — {now_str} TASHKENT | newspaper={'ON' if HAS_NEWSPAPER else 'OFF (fallback)'}")
+    print(f"🔄 Parser v5.7 — {now_str} TASHKENT | newspaper={'ON' if HAS_NEWSPAPER else 'OFF (fallback)'}")
 
     gist_id = get_or_create_gist()
     if not gist_id:
@@ -588,13 +642,40 @@ def main():
     print("📡 Парсинг источников и сбор контента...")
     articles = fetch_all()
 
+    # Память сюжетов за 24ч: [{"s": [слова], "ts": "..."}]
+    story_log = sent.get("stories", [])
+    limit_stories = datetime.now(TZ) - timedelta(hours=DEDUP_HOURS)
+    fresh_log = []
+    for rec in story_log:
+        try:
+            if datetime.fromisoformat(rec["ts"]) >= limit_stories:
+                fresh_log.append(rec)
+        except Exception:
+            pass
+    story_log = fresh_log
+    known_sigs = [set(rec["s"]) for rec in story_log]
+    print(f"🧠 Память сюжетов: {len(known_sigs)} за {DEDUP_HOURS}ч")
+
     added = 0
+    skipped_stories = 0
     fresh_to_send = []
     for a in articles:
-        if a["hash"] not in sent_hashes and a["hash"] not in queue_hashes:
-            queue_items.append(a)
-            fresh_to_send.append(a)
-            added += 1
+        if a["hash"] in sent_hashes or a["hash"] in queue_hashes:
+            continue
+        # ФИКС: перепечатка той же истории с другого URL — не отправляем
+        if is_known_story(a, known_sigs):
+            skipped_stories += 1
+            continue
+        s_new = story_sig(a)
+        known_sigs.append(set(s_new))
+        story_log.append({"s": s_new, "ts": datetime.now(TZ).isoformat()})
+        queue_items.append(a)
+        fresh_to_send.append(a)
+        added += 1
+
+    if skipped_stories:
+        print(f"🔁 Отсеяно перепечаток: {skipped_stories}")
+    print(f"🆕 Новых сюжетов: {added}")
 
     cutoff_queue = datetime.now(TZ) - timedelta(hours=4)
     kept = []
@@ -654,7 +735,10 @@ def main():
     is_summary = (18 <= now_tsh.hour < 24) and last_summary_date != today
 
     gist_write(gist_id, "sent.json", {
-        "hashes": [r["h"] for r in sent_records], "records": sent_records, "last_summary_date": today if is_summary else last_summary_date
+        "hashes": [r["h"] for r in sent_records],
+        "records": sent_records,
+        "stories": story_log[-400:],
+        "last_summary_date": today if is_summary else last_summary_date
     })
 
     send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
