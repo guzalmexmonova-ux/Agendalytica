@@ -46,10 +46,10 @@ SIM_THRESHOLD = 0.45    # порог схожести заголовков
 GDELT_FEEDS = [
     # 12 узких запросов душились по 429 (GitHub Actions сидит на общих IP).
     # 4 широких по 250 записей = меньше стуков, больше данных.
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(war+OR+conflict+OR+invasion+OR+airstrike+OR+missile+OR+nuclear+OR+escalation+OR+coup+OR+mobilization+OR+ceasefire+OR+sanctions+OR+assassination)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/GEOPOLITICS", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Ukraine+OR+Russia+OR+Israel+OR+Gaza+OR+Iran+OR+Houthi+OR+Hezbollah+OR+Putin+OR+Zelensky)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/HOTSPOTS", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Federal+Reserve+OR+ECB+OR+rate+hike+OR+rate+cut+OR+recession+OR+inflation+OR+default+OR+market+crash+OR+brent+OR+OPEC+OR+gold)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/MARKETS", 4),
-    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Taiwan+OR+South+China+Sea+OR+semiconductor+OR+TSMC+OR+chip+ban+OR+Uzbekistan+OR+Kazakhstan+OR+SCO+OR+CSTO+OR+cyberattack)&mode=artlist&maxrecords=250&format=rss&timespan=4h", "GDELT/ASIA_TECH", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(war+OR+conflict+OR+invasion+OR+airstrike+OR+missile+OR+nuclear+OR+escalation+OR+coup+OR+mobilization+OR+ceasefire+OR+sanctions+OR+assassination)&mode=artlist&maxrecords=100&format=rss&timespan=4h", "GDELT/GEOPOLITICS", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Ukraine+OR+Russia+OR+Israel+OR+Gaza+OR+Iran+OR+Houthi+OR+Hezbollah+OR+Putin+OR+Zelensky)&mode=artlist&maxrecords=100&format=rss&timespan=4h", "GDELT/HOTSPOTS", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Federal+Reserve+OR+ECB+OR+rate+hike+OR+rate+cut+OR+recession+OR+inflation+OR+default+OR+market+crash+OR+brent+OR+OPEC+OR+gold)&mode=artlist&maxrecords=100&format=rss&timespan=4h", "GDELT/MARKETS", 4),
+    ("https://api.gdeltproject.org/api/v2/doc/doc?query=(Taiwan+OR+South+China+Sea+OR+semiconductor+OR+TSMC+OR+chip+ban+OR+Uzbekistan+OR+Kazakhstan+OR+SCO+OR+CSTO+OR+cyberattack)&mode=artlist&maxrecords=100&format=rss&timespan=4h", "GDELT/ASIA_TECH", 4),
 ]
 
 RSS_FEEDS = [
@@ -206,7 +206,7 @@ from urllib.parse import urlparse
 # Троттлинг по хостам: GDELT и tg.i-c-a.su жёстко режут частые запросы (429).
 # Без этого парсер терял 9 из 12 GDELT и 24 из 25 TG на КАЖДОМ запуске.
 HOST_DELAY = {
-    "api.gdeltproject.org": 12.0,
+    "api.gdeltproject.org": 20.0,
     "tg.i-c-a.su": 6.0,
     "nitter.net": 2.0,
     "news.google.com": 1.5,
@@ -231,7 +231,7 @@ def parse_feed(url, retries=3):
                             request_headers={"Cache-Control": "no-cache"})
         status = getattr(f, "status", None)
         if status == 429:
-            back = (attempt + 1) * 8
+            back = (attempt + 1) * 20
             if attempt < retries - 1:
                 print(f"  ⏳ 429 — пауза {back}с ({urlparse(url).netloc})")
                 _time.sleep(back)
@@ -383,8 +383,15 @@ def fetch_all(cutoff=None):
         cutoff = datetime.now(timezone.utc) - timedelta(hours=HOURS_WINDOW)
     seen_hashes = set()
 
+    # GDELT режет по IP, а GitHub Actions сидит на общих адресах — квота часто выбрана.
+    # Берём половину запросов за запуск, чередуя. При cron 15 мин каждый запрос
+    # уходит раз в полчаса, а окно 60 мин с нахлёстом ничего не теряет.
+    slot = (datetime.now(TZ).hour * 60 + datetime.now(TZ).minute) // 15 % 2
+    gdelt_batch = GDELT_FEEDS[slot::2]
+    print(f"  🔀 GDELT: партия {slot+1}/2 — {len(gdelt_batch)} запросов")
+
     gdelt_ok = 0
-    for url, source_name, weight in GDELT_FEEDS:
+    for url, source_name, weight in gdelt_batch:
         try:
             feed, err = parse_feed(url)
             if err:
@@ -419,9 +426,14 @@ def fetch_all(cutoff=None):
             print(f"  ⚠ GDELT [{source_name}]: {e}")
     print(f"  ✓ GDELT: {gdelt_ok} статей")
 
+    # TG-мост тоже режет по IP — чередуем половины
+    tg_feeds = [c for c in RSS_FEEDS if "tg.i-c-a.su" in c["url"]]
+    other_feeds = [c for c in RSS_FEEDS if "tg.i-c-a.su" not in c["url"]]
+    rss_batch = other_feeds + tg_feeds[slot::2]
+
     rss_ok = 0
     rss_fail = 0
-    for cfg in RSS_FEEDS:
+    for cfg in rss_batch:
         try:
             feed, err = parse_feed(cfg["url"])
             if err:
