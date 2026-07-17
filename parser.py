@@ -883,15 +883,10 @@ def main():
         "last_summary_date": today if is_summary else last_summary_date
     })
 
-    # Простой сторож от гонки: перечитываем sent.json прямо перед отправкой.
-    # Если параллельный запуск успел записать хэш — не шлём повторно.
-    latest = gist_read(gist_id, "sent.json")
-    locked = set(latest.get("hashes", [])) - sent_hashes   # то, что появилось ПОКА мы работали
-    if locked:
-        before = len(fresh_to_send)
-        fresh_to_send = [a for a in fresh_to_send if a["hash"] not in locked]
-        if len(fresh_to_send) < before:
-            print(f"🏁 Гонка: снято {before - len(fresh_to_send)} дублей от параллельного запуска")
+    # Сторож от гонки убран: он резал СВОИ же новости.
+    # cron-job.org — единственный триггер, GitHub-cron отключён,
+    # параллельных запусков быть не должно. Если начнут случаться —
+    # добавим блокировку через Gist, а не по хэшам.
 
     send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
     print("✅ Скрипт успешно завершил цикл обработки.")
