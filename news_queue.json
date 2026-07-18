@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T07:20:49.854298+05:00",
+  "updated": "2026-07-18T07:36:07.667783+05:00",
   "items": [
     {
       "hash": "5ad52ac57aa4d1df3e14b22d574dba50",
@@ -41,31 +41,6 @@
       "age_min": 67.5
     },
     {
-      "hash": "858df07f92a30c19d2652507e06138c3",
-      "title": "Бёрнему грозит решающий призыв о том, следует ли позволить Трампу использовать британские базы",
-      "original_title": "Burnham Faces Pivotal Call on Whether to Let Trump Use UK Bases",
-      "rss_summary": "The resumption of US strikes against Iran has thrust incoming UK prime minister Andy Burnham into a potential day one decision on how much to support Britain’s closest ally in its controversial military campaign.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-17/burnham-faces-pivotal-call-on-whether-to-let-trump-use-uk-bases",
-      "source": "Bloomberg Politics",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-18T03:33:05.822002+05:00",
-      "age_min": 40.8
-    },
-    {
-      "hash": "89367457d590a2857117bfb5c57e89c3",
-      "title": "Война США и Ирана последние новости о конфликте на Ближнем Востоке - 17 июля 2026",
-      "original_title": "Война США и Ирана последние новости о конфликте на Ближнем Востоке - 17 июля 2026",
-      "link": "https://www.fontanka.ru/2026/07/17/76540970/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-18T03:31:34.701515+05:00",
-      "age_min": 76.6
-    },
-    {
       "hash": "ed686f2387211eb31a06f8c3e296babe",
       "title": "Федеральный судья запретил администрации Трампа использовать неясную оговорку для значительного сокращения финансирования",
       "original_title": "Federal judge bars Trump administration from using obscure clause to make huge funding cuts",
@@ -90,6 +65,19 @@
       "status": "new",
       "ts": "2026-07-18T04:03:59.957187+05:00",
       "age_min": 78.6
+    },
+    {
+      "hash": "38bf6dfb75c2673ac42e9ca7f603c319",
+      "title": "Американские законодатели Трампу: Сделайте больше для Филиппин в Южно-Китайском море",
+      "original_title": "US lawmakers to Trump: Do more for Philippines in South China Sea",
+      "rss_summary": "'We must shift our focus away from forever unwinnable wars in the Middle East,' says US Representative Eugene Vindman",
+      "link": "https://www.rappler.com/philippines/united-states-democratic-lawmakers-trump-support-manila-south-china-sea/",
+      "source": "Rappler",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-18T07:34:03.173071+05:00",
+      "age_min": 4.1
     },
     {
       "hash": "f5d0153b350878762292bf38deed9221",
@@ -228,6 +216,18 @@
       "status": "new",
       "ts": "2026-07-18T03:48:54.479865+05:00",
       "age_min": 11.1
+    },
+    {
+      "hash": "8be1a683a9a477acb1c97f8e85614b65",
+      "title": "Инвестиционная засуха в Пакистане после нападения США и Ирана",
+      "original_title": "Pakistan Investment Drought After US - Iran Attack",
+      "link": "https://www.pakistantoday.com.pk/2026/07/18/investment-in-time-of-war",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-18T07:31:29.306587+05:00",
+      "age_min": -1228.5
     },
     {
       "hash": "e6b063b099273888f6cf33703d3233e6",
@@ -434,6 +434,19 @@
       "age_min": 14.4
     },
     {
+      "hash": "9a0cdcdf0d79aa259dae90c4435606a3",
+      "title": "ИЗРАИЛЬСКАЯ ВОЙНА. Россия призывает к немедленному прекращению огня. Имущество Трампа в Эмиратах и ​​Саудовской Аравии является законной целью атак КСИР. Хуситы: из аэропорта Саны в аэропорт Эр-Рияда. - новости связи agc",
+      "original_title": "ISRAELIRANWAR. Russia calls for an immediate ceasefire. Trump's properties in the Emirates and Saudi Arabia are legitimate targets for IRGC attacks. Houthis: Sanaa airport for Riyadh airport. - agc communication news",
+      "rss_summary": "ISRAELIRANWAR. Russia calls for an immediate ceasefire. Trump's properties in the Emirates and Saudi Arabia are legitimate targets for IRGC attacks. Houthis: Sanaa airport for Riyadh airport.&nbsp;&nbsp;agc communication news",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeDdVb19FSkxXWnp2RzIyeHZDenVDekdfOFpmdHNHbjRDdlFsSDBGNXY4QVhyRjBFYzdQQ3ZlQU5USVR4QVgtTnJYTnhDZlJjT0lJd3lpeTRIX3VLUGlyUTVXT18xTy1mUkp6cXpBVTlSaGZ5YmhRZ1FMME5EUDVHQUlNQVNMclA5M1pZUDBwTFhKXzZGb0xNU1JOdEdFMWNfMThuanNidGtqLWFrWWptZDRlN2tQTTlIV195SkNLZml1SDlZT2NuY2hZcnktczQ3ZTl1bVNFRVpoa2JERUtaMUw4NEdITkJmNHNRZ2FObFc3Y1d0UG9iQlhuLUJXVzBmWXlUWF9MLW5tTURSUWxVSDR4SGhwN2FwSHJCQTR1aXVNcG5yaXJEMVlzV0p2ZHA4MzJV?oc=5",
+      "source": "GNews/Mideast",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-18T07:33:21.283025+05:00",
+      "age_min": 105.7
+    },
+    {
       "hash": "58214bc3a64622beddcc8b1497ae7b74",
       "title": "На дополнительных выборах в Великобритании зарегистрировано рекордное количество кандидатов - 34, поскольку Фараж добивается возвращения",
       "original_title": "UK by-election sees record 34 candidates as Farage seeks return",
@@ -598,6 +611,19 @@
       "age_min": -1228.6
     },
     {
+      "hash": "6893fe0f2c97cc02b588be34331c2925",
+      "title": "Израильская армия разрушила три школы на юге Ливана, заявил министр",
+      "original_title": "Israeli army destroys three schools in southern Lebanon, minister says",
+      "rss_summary": "At least 20 schools have now been completely destroyed in southern Lebanon, with 100 more damaged.",
+      "link": "https://www.aljazeera.com/news/2026/7/18/israeli-army-destroys-three-schools-in-southern-lebanon-minister-says?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 4,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-18T07:33:11.114212+05:00",
+      "age_min": 27.1
+    },
+    {
       "hash": "aac78b9cdf4bf8f86d1fe4e68629cece",
       "title": "ВСУ целенаправленно атаковали супермаркет в российском городе",
       "original_title": "ВСУ целенаправленно атаковали супермаркет в российском городе",
@@ -609,32 +635,6 @@
       "status": "new",
       "ts": "2026-07-18T07:17:35.541687+05:00",
       "age_min": 4.1
-    },
-    {
-      "hash": "f2a9d3b09083fd113ba27a15ed6cccb8",
-      "title": "В ООН назвали актуальной защиту спортивных объектов от атак террористов",
-      "original_title": "В ООН назвали актуальной защиту спортивных объектов от атак террористов",
-      "rss_summary": "По словам и.о. заместителя генерального секретаря организации по вопросам борьбы с терроризмом Александра Зуева, такие попытки нападений предпринимались",
-      "link": "https://tass.ru/politika/27928587",
-      "source": "TASS",
-      "score": 6,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-07-18T07:17:33.841908+05:00",
-      "age_min": 26.9
-    },
-    {
-      "hash": "1a85fc97faf4712ca05bf53b91e59bcb",
-      "title": "В Кувейте заявили об отражении атаки Ирана",
-      "original_title": "В Кувейте заявили об отражении атаки Ирана",
-      "rss_summary": "",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/27928641",
-      "source": "TASS",
-      "score": 6,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-07-18T07:17:33.830149+05:00",
-      "age_min": 6.1
     }
   ]
 }
