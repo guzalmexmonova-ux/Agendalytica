@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T17:36:49.501139+05:00",
+  "updated": "2026-07-18T17:50:15.928315+05:00",
   "items": [
     {
       "hash": "cb78df2118a18ec1e278a7b956b2110d",
@@ -194,19 +194,6 @@
       "age_min": 6.5
     },
     {
-      "hash": "2a820bca709e5f360fb45f8c8b6b14b3",
-      "title": "Видео, созданное искусственным интеллектом, ошибочно связано с ударами США по Ирану",
-      "original_title": "AI-generated video falsely linked to US strikes on Iran",
-      "rss_summary": "AI-generated video falsely linked to US strikes on Iran&nbsp;&nbsp;AFP Fact Check",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0SWlrYk5RT3hIMXJsYkFDZUhLWTV5QUI1TlM5VHVNQXZXTzhIbW5VX3YydDBxbzlOWlg3dVNaZ2ZUSWNiRFlZb3hITHN1N2lJVjBUUGRGaDQ?oc=5",
-      "source": "AFP Fact Check",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-18T13:46:37.137127+05:00",
-      "age_min": 8.5
-    },
-    {
       "hash": "c70f5b365f26a1f2ed079204e363dcf9",
       "title": "Сторонники жесткой линии в Иране предупреждают о возможном перевороте, поскольку перемирие в США оказывается под давлением - LocalNews8. ком",
       "original_title": "Iran hardliners warn of a  coup  as US truce comes under pressure - LocalNews8 . com",
@@ -344,30 +331,6 @@
       "status": "new",
       "ts": "2026-07-18T14:46:17.856943+05:00",
       "age_min": 61.3
-    },
-    {
-      "hash": "dec8802b4ccecda43f4317c5b2419e8e",
-      "title": "Спасатель животных заботится о домашних животных и скоте, оказавшихся в беде из-за войны в Ливане",
-      "original_title": "Animal rescuer cares for pets and livestock stranded by war in Lebanon",
-      "link": "https://www.thestar.com.my/lifestyle/living/2026/07/18/animal-rescuer-cares-for-pets-and-livestock-stranded-by-war-in-lebanon",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-18T13:45:46.456010+05:00",
-      "age_min": 45.8
-    },
-    {
-      "hash": "387b972c8e4ae4fb54decd4ba5162ca3",
-      "title": "Российские водители сталкиваются с серьезной нехваткой топлива, поскольку война с Украиной нарушает гражданскую жизнь",
-      "original_title": "Russian drivers face major fuel shortages as war with Ukraine disrupts civilian life",
-      "link": "https://www.thejournal.ie/russian-fuel-shortage-7106292-Jul2026/",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-18T13:45:46.449412+05:00",
-      "age_min": 45.8
     },
     {
       "hash": "5d7749a50404f84ed7560fbefbef25fc",
@@ -588,6 +551,43 @@
       "age_min": 30.4
     },
     {
+      "hash": "ee0a894d378b3849b01333ae945caa32",
+      "title": "Борьба или бегство: администрация Трампа вызывает журналистов в суд из-за репортажей о Air Force One",
+      "original_title": "Fight or Flight: Trump administration subpoenas journalists over Air Force One reporting",
+      "rss_summary": "This week France 24's media show \"Scoop\" looks at Donald Trump's latest attempt to intimidate the press. The New York Times broke the story that the Qatari-donated Air Force One had security concerns. It was clearly newsworthy: the US President flying on a plane that was less secure than another that was available to him. The administration responded by issuing subpoenas to the journalists who wrote the article. Our guest is Will Creeley from the Foundation for Individual Rights and Expression.",
+      "link": "https://www.france24.com/en/tv-shows/scoop/20260718-fight-or-flight-trump-administration-subpoenas-journalists-over-air-force-one-reporting",
+      "source": "France24",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-18T17:47:59.586824+05:00",
+      "age_min": 25.4
+    },
+    {
+      "hash": "aac091a248718ed58029a3503a040024",
+      "title": "Зеленский назвал две причины , почему ВСУ атаковали Wildberries в России",
+      "original_title": "Зеленский назвал две причины , почему ВСУ атаковали Wildberries в России",
+      "link": "https://www.dialog.ua/ukraine/zelenskiy-nazval-dve-prichiny-pochemu-vsu-atakovali-wildberries-v-rossii.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-18T17:45:44.654461+05:00",
+      "age_min": 30.7
+    },
+    {
+      "hash": "5550a2549f11eaca983e905d1a4b64f7",
+      "title": "Президент Ливана едет в Вашингтон на встречу с Трампом",
+      "original_title": "Libanons Präsident reist für Trump - Treffen nach Washington",
+      "link": "https://www.onvista.de/news/2026/07-18-libanons-praesident-reist-fuer-trump-treffen-nach-washington-0-10-26533546",
+      "source": "GDELT/HOTSPOTS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-18T17:45:44.664676+05:00",
+      "age_min": 30.7
+    },
+    {
       "hash": "92e31c61d3a0749f8a6998850aaf7e76",
       "title": "В Иране заявили о гибели 50 человек при авиаударах США с 27 июня",
       "original_title": "В Иране заявили о гибели 50 человек при авиаударах США с 27 июня",
@@ -601,42 +601,42 @@
       "age_min": 3.1
     },
     {
-      "hash": "cff1b28fa26f0c065e903be7dea39606",
-      "title": "RND: Писториус косвенно упрекнул Зеленского за отставку Федорова",
-      "original_title": "RND: Писториус косвенно упрекнул Зеленского за отставку Федорова",
-      "rss_summary": "Министр обороны Германии написал письмо бывшему главе Минобороны Украины, в котором поблагодарил его за сотрудничество",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/27929719",
-      "source": "TASS",
-      "score": 8,
-      "weight": 2,
+      "hash": "7f567b76956a584a0990d1006b3c915e",
+      "title": "Из-за удара США по опреснительной установке в провинции Хормозган на юге Ирана 10 тыс.",
+      "original_title": "Из-за удара США по опреснительной установке в провинции Хормозган на юге Ирана 10 тыс.",
+      "rss_summary": "Из-за удара США по опреснительной установке в провинции Хормозган на юге Ирана 10 тыс. человек остались без питьевой воды, сообщило в субботу агентство Тасним со ссылкой на местные власти.По словам местного чиновника, в результате атаки полностью разрушены насосная станция и трансформатор на опреснительной установке, производительность которой составляла 3150 кубометров воды в сутки.В настоящее время на объекте продолжаются восстановительные работы.@interfaxonline",
+      "link": "https://t.me/interfaxonline/76068",
+      "source": "TG/Interfax",
+      "score": 6,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-18T17:31:20.476218+05:00",
-      "age_min": 5.3
+      "ts": "2026-07-18T17:49:48.142711+05:00",
+      "age_min": 19.4
     },
     {
-      "hash": "9b0095218673a7d539b94a0d714e5888",
-      "title": "Энди Бёрнем повысил выплаты на 331 фунт для государственных пенсионеров, родившихся после 1951 года",
-      "original_title": "Andy Burnham £331 payment hike for state pensioners born after 1951",
-      "link": "https://www.birminghammail.co.uk/news/midlands-news/andy-burnham-331-payment-hike-34312373",
-      "source": "GDELT/MARKETS",
+      "hash": "d64eabf415538321ebfb66905b2b4012",
+      "title": "Украина в отместку нанесла удары по складам «Русского Амазона»",
+      "original_title": "Ukraine strikes warehouses of ‘Russian Amazon’ in revenge attack",
+      "rss_summary": "Ukraine strikes warehouses of ‘Russian Amazon’ in revenge attack&nbsp;&nbsp;The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdzhfZXk3T3IyYWRyYmc2Q1htMkxOM3Q3UDc4YXdDckt0YWVuRlRyQlpzY2FGbFFDZlJXTnZpbkNoUlYzLVo2ZlMyaGVwVDVlSkQta0JJTmVNdGtPOFlyT0tNVVpCZTNRdEplOFdIcUd2bFgySEUyUk5kVFNSQWFrU2xTUDlFaVppTU9rc1FiRmw3U1dCbWhUeFA0WVQ0NEtKSVl6dXFUaXI0VzA?oc=5",
+      "source": "The Telegraph",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-18T17:48:24.628098+05:00",
+      "age_min": 5.4
+    },
+    {
+      "hash": "a0e1753bbccdd4bab50b2753b71edba5",
+      "title": "Новый Верховный лидер Ирана может провести первые переговоры с Путиным",
+      "original_title": "Новый Верховный лидер Ирана может провести первые переговоры с Путиным",
+      "link": "https://vesti.az/v-mire/novyi-verxovnyi-lider-irana-mozet-provesti-pervye-peregovory-s-putinym-605543",
+      "source": "GDELT/HOTSPOTS",
       "score": 4,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-18T17:31:19.278804+05:00",
-      "age_min": 106.3
-    },
-    {
-      "hash": "8455ee07efbd33dfc90c2117f39fb7c9",
-      "title": "Иран прекратил выполнять обязательства по меморандуму с США о прекращении конфликта, заявил за [...]",
-      "original_title": "Иран прекратил выполнять обязательства по меморандуму с США о прекращении конфликта, заявил за [...]",
-      "rss_summary": "Иран прекратил выполнять обязательства по меморандуму с США о прекращении конфликта, заявил замглавы МИД страны.🔹 Подписаться на РИА Новости",
-      "link": "https://t.me/rian_ru/342447",
-      "source": "TG/RIA",
-      "score": 4,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-18T17:35:16.398448+05:00",
-      "age_min": 10.4
+      "ts": "2026-07-18T17:45:44.635894+05:00",
+      "age_min": 30.7
     }
   ]
 }
