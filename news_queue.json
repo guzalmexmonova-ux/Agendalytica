@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T01:20:27.431831+05:00",
+  "updated": "2026-07-19T01:35:02.692965+05:00",
   "items": [
     {
       "hash": "4b67de184f208a83e908a7425968e231",
@@ -26,6 +26,19 @@
       "status": "new",
       "ts": "2026-07-19T01:05:02.217979+05:00",
       "age_min": 123.0
+    },
+    {
+      "hash": "9699c8b414c12cfc490567db2a72fca3",
+      "title": "Украина обостряет воздушную войну, нанося смертельные удары по российскому «Амазону»",
+      "original_title": "Ukraine Escalates Air War With Deadly Strikes on Russia’s ‘Amazon’",
+      "rss_summary": "Ukrainian drone strikes on warehouses belonging to Wildberries, Russia’s largest online retailer, killed at least eight people and injured dozens Saturday.",
+      "link": "https://www.wsj.com/world/ukraine-escalates-air-war-with-deadly-strikes-on-russias-amazon-163ba241",
+      "source": "WSJ",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-19T01:32:31.852470+05:00",
+      "age_min": 16.5
     },
     {
       "hash": "09b45fe976143911a330fea5a3b42fdf",
@@ -248,6 +261,18 @@
       "age_min": 86.9
     },
     {
+      "hash": "6ce8cb27106f326ad83e0c091571e283",
+      "title": "Двое американских военнослужащих убиты, еще один пропал без вести после срыва соглашения о прекращении огня с Ираном",
+      "original_title": "Two US Troops Killed , Another Missing After Iran Ceasefire Deal Breaks Down",
+      "link": "https://www.newsweek.com/u-s-troops-killed-service-member-missing-after-iranian-attack-in-jordan-12214574",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-19T01:31:28.494620+05:00",
+      "age_min": 76.5
+    },
+    {
       "hash": "4de6ee64c6da4913adc2d2a9b3f61e96",
       "title": "Вчера и сегодня были наполнены консультациями. Конечно, я слышу, что говорят люди. Сегодня я подробно разговаривал с Михаилом Федоровым. Я сегодня также разговаривал с Александром Сырским. Решения относительно армии будут выработаны. Спасибо всем, кто неравнодушен к Украине. Спасибо всем, кто защищает наши позиции на линии фронта, и тем, кто делает все возможное, чтобы вернуть войну домой – в Россию, откуда она пришла. Слава Украине!",
       "original_title": "Yesterday and today have been filled with consultations. Of course, I hear what people are saying. Today, I spoke at length with Mykhailo Fedorov. I also spoke with Oleksandr Syrskyi today. Decisions regarding the army will be worked out. Thank you to everyone who cares about Ukraine. Thank you to everyone defending our positions on the front line and to those doing their best to bring the war back home – to Russia, where it came from. Glory to Ukraine!",
@@ -351,18 +376,6 @@
       "age_min": 30.8
     },
     {
-      "hash": "12773d771c8838bcef4ecd2b0b0bdba2",
-      "title": "Произошла ли смена режима в Иране? История мягкого переворота",
-      "original_title": "Was regime change happening in Iran ? The story of a soft coup",
-      "link": "https://economictimes.indiatimes.com/news/international/global-trends/was-regime-change-happening-in-iran-the-story-of-a-soft-coup/articleshow/132482499.cms",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-18T21:30:55.761985+05:00",
-      "age_min": 30.9
-    },
-    {
       "hash": "87fa4385a728c92e2e93c60eedaae008",
       "title": "Гибель двух американских солдат в Иордании увеличила число американцев в войне с Ираном до 16",
       "original_title": "Deaths of 2 U.S. Troops in Jordan Brings American Toll in the War With Iran to 16",
@@ -400,32 +413,6 @@
       "status": "new",
       "ts": "2026-07-18T23:03:32.633684+05:00",
       "age_min": 2.4
-    },
-    {
-      "hash": "c31307207ee728b2c1ddaa7d258c972c",
-      "title": "Иран атакует союзников США на Ближнем Востоке на второй неделе возобновления конфликта",
-      "original_title": "Iran attacks US allies in Middle East in second week of renewed conflict",
-      "rss_summary": "Kuwait says civilian sites and infrastructure targeted, Jordan downs missiles and sirens sound in Bahrain as Iran responds to US strikesIran launched a wave of attacks against US allies in the Middle East, as the renewal of US strikes on Iran entered a second week and fighting escalated over the strait of Hormuz.Kuwait has accused Iran of targeting civilian sites and vital infrastructure in the country, such as a power and water desalination plant. Kuwait, which is extremely arid, relies on desa",
-      "link": "https://www.theguardian.com/world/2026/jul/18/iran-attacks-us-allies-in-middle-east-in-second-week-of-renewed-conflict",
-      "source": "Guardian",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-18T21:33:41.780881+05:00",
-      "age_min": 8.8
-    },
-    {
-      "hash": "a9cfc0bad8c8b0e2f50b3254dc4aa384",
-      "title": "Погакар выиграл 14-й этап Тур де Франс и увеличил общее лидерство",
-      "original_title": "Pogacar wins Tour de France 14th stage to extend overall lead",
-      "rss_summary": "Slovenia's cycling phenomenon Tadej Pogacar launched a devastating late attack Saturday to win the mountainous 14th stage of the Tour de France, extending his lead over Jonas Vingegaard.",
-      "link": "https://www.france24.com/en/sport/20260718-pogacar-wins-tour-de-france-14th-stage-to-extend-overall-lead",
-      "source": "France24",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-18T21:33:41.172340+05:00",
-      "age_min": 40.5
     },
     {
       "hash": "bbbb6be61d1b4d983bc592e9db0515f5",
@@ -596,6 +583,19 @@
       "age_min": 4.4
     },
     {
+      "hash": "d3f4901e9a7be86006d307b651e06789",
+      "title": "Европейский центральный банк, как ожидается, приостановит повышение ставок, оставит сентябрьский вариант открытым",
+      "original_title": "European Central Bank expected to pause rate hikes, keeps September option open",
+      "rss_summary": "European Central Bank expected to pause rate hikes, keeps September option open&nbsp;&nbsp;Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qbU45cjdSaDNOYjRkZHBMWFJqVlc5amwwWUJLeFZJZm5ndUVZcDBxT1RuQzQwX3RMUVpTWnRzTUtxeVl1Yl8tLThleXFFYU9BY01Uc0NELWtrZHVNS1pCSlVWRE1vN2s?oc=5",
+      "source": "Crypto Briefing",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-19T01:32:02.906683+05:00",
+      "age_min": 8.2
+    },
+    {
       "hash": "b0be94af2cf5f7543a08bad5136f9526",
       "title": "Германия: Йенс Спан из ХДС подает в отставку на фоне споров о суррогатном материнстве",
       "original_title": "Germany: CDU's Jens Spahn resigns amid surrogacy controversy",
@@ -622,6 +622,18 @@
       "age_min": null
     },
     {
+      "hash": "11016a72a9d5bb3b40f025397aa6ad97",
+      "title": "Двое американских военнослужащих погибли, один пропал без вести после иранского беспилотника и ракетных атак",
+      "original_title": "2 US Service Members Dead , 1 Missing After Iranian Drone , Missile Attacks",
+      "link": "https://www.military.com/2-us-service-members-dead-1-missing-after-iranian-drone-missile-attacks",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-19T01:31:28.531370+05:00",
+      "age_min": 76.5
+    },
+    {
       "hash": "cb7daa28bc96b63164d2ce82722e5f13",
       "title": "Военные учения Pitch Black 2026 стартовали",
       "original_title": "Exercise Pitch Black 2026 war games take flight",
@@ -633,18 +645,6 @@
       "status": "new",
       "ts": "2026-07-19T01:05:29.504611+05:00",
       "age_min": 14.4
-    },
-    {
-      "hash": "45341a939ec7eb4b4019788c293a442f",
-      "title": "Склад Wildries площадью 188 000 кв. м сгорел после удара беспилотника в Украине: почему горизонт России похож на Мордор",
-      "original_title": "188 , 000 sqm Wildberries warehouse burns after Ukraine drone strike : Why Russia skyline looked like  Mordor",
-      "link": "https://www.businesstoday.in/world/story/188000-sqm-wildberries-warehouse-burns-after-ukraine-drone-strike-why-russias-skyline-looked-like-mordor-543787-2026-07-18",
-      "source": "GDELT/HOTSPOTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-19T00:15:47.946431+05:00",
-      "age_min": 30.8
     }
   ]
 }
