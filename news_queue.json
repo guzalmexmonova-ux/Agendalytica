@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20T17:21:21.176349+05:00",
+  "updated": "2026-07-20T17:34:55.226647+05:00",
   "items": [
     {
       "hash": "6f4191d5e4f11cf7acd06bd7fed672d1",
@@ -28,19 +28,6 @@
       "age_min": 22.0
     },
     {
-      "hash": "6f9d5c3670af302fd71c25583cbe4e2e",
-      "title": "Волна заемщиков студенческих кредитов объявила дефолт после истечения срока защиты во время пандемии",
-      "original_title": "A wave of student loan borrowers have entered default since pandemic-era protections lapsed",
-      "rss_summary": "A wave of student loan borrowers have entered default since pandemic-era protections lapsed&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS1ItODBZUzJnc18zZkJhQ01Oc2pHbG44QzZ2SFdfYldGeFd2czA1WVl1enY5QWlrRmRqV2dQTmZMTzdmc1V2cGdQQkNuMnlnX3F1aU9HLTkyUUFXbzM3V084LUZwWEVIWDJZdGZ6YnpmMGM5TGJBb3hLWVdWY2hlYWNTM3RRVmdiSmdJVnc2djN2ZlVt?oc=5",
-      "source": "AP News",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-07-20T13:34:45.693237+05:00",
-      "age_min": 80.8
-    },
-    {
       "hash": "93cd16aef19d6458fe45a0e2699f3057",
       "title": "КТК приостановил отгрузку нефти после нападения на танкер после кратковременного возобновления",
       "original_title": "CPC suspends oil loadings following attack on tanker, after brief resumption",
@@ -65,6 +52,18 @@
       "status": "new",
       "ts": "2026-07-20T15:32:46.159544+05:00",
       "age_min": 70.5
+    },
+    {
+      "hash": "5a9daabb7803f8a2e077f1b6d04bdf93",
+      "title": "США нанесли новые авиаудары по Ирану после объявления о смерти еще одного военнослужащего",
+      "original_title": "US launches more airstrikes against Iran after announcing another death of a service member",
+      "link": "https://www.wibw.com/2026/07/19/us-service-member-killed-saturday-iraq-during-controlled-detonation-iranian-drone/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-20T17:31:40.377678+05:00",
+      "age_min": 91.7
     },
     {
       "hash": "b4edf394935f17357600a60b4c7271d7",
@@ -259,19 +258,6 @@
       "age_min": 31.3
     },
     {
-      "hash": "c9d934e9fafdf41e82485b535efcb9b0",
-      "title": "Старые кадры саудовских пожаров ошибочно выданы за недавнюю атаку хуситов",
-      "original_title": "Old Saudi fire footage misrepresented as recent Houthi attack",
-      "rss_summary": "Old Saudi fire footage misrepresented as recent Houthi attack&nbsp;&nbsp;Fact Check AFP",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2SW9NWnZaeDJQaC1QbE5HVzItZm5adXV2SkljWHpvQlVZS20xdVUwYWpVamxRMFNyTVAzZ3pud0ZGS0dwOUFQOTdBdHlVWjIxZWhWbWVVTlc?oc=5",
-      "source": "Fact Check AFP",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-20T13:34:47.048317+05:00",
-      "age_min": 11.6
-    },
-    {
       "hash": "61c0076f23d5db2ee9ddf3fbf221c750",
       "title": "Сотни людей протестуют в Дели с требованием предоставления статуса штата индийскому Кашмиру",
       "original_title": "Hundreds protest in Delhi demanding statehood for Indian Kashmir",
@@ -283,6 +269,45 @@
       "status": "new",
       "ts": "2026-07-20T16:34:53.814291+05:00",
       "age_min": 71.5
+    },
+    {
+      "hash": "d57ea6afb18dac6745d1a89a8463a25c",
+      "title": "Шумер: Трамп и его семья использовали Белый дом для «ошеломляющих прибылей», в то время как американцы борются с трудностями",
+      "original_title": "Schumer: Trump, family used White House for 'eye-popping profits' while Americans struggle",
+      "rss_summary": "Senate Democratic Leader Chuck Schumer (N.Y.) and other Senate Democrats on Monday released a report asserting that President Trump and his family have “systematically turned the power of the presidency into eye-popping profits” while regular American families struggle to afford the rising cost of living. Schumer and other colleagues, including Sens. Sheldon Whitehouse (D-R.I.), Jeff...",
+      "link": "https://thehill.com/homenews/senate/5977714-schumer-anti-corruption-initiative/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-20T17:33:05.670285+05:00",
+      "age_min": 25.3
+    },
+    {
+      "hash": "54627ecc364e369c0ba525ad2e4cd7dc",
+      "title": "Решение суда Индии продлевает неопределенность в отношении виз для путешественников",
+      "original_title": "India Court Ruling Extends Visa Uncertainty for Travelers",
+      "rss_summary": "India’s Supreme Court on Monday upheld a lower court ruling scrapping the government’s tender for outsourcing passport, visa and consular services in four countries, including Australia and Singapore, prolonging uncertainty for travelers.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/india-court-ruling-extends-visa-uncertainty-for-travelers",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-20T17:32:37.895266+05:00",
+      "age_min": 19.0
+    },
+    {
+      "hash": "cd78af2d330643263894ad9e32e55147",
+      "title": "Министры Юго-Восточной Азии намерены призвать к открытию Ормузского пролива на переговорах в Маниле",
+      "original_title": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks",
+      "rss_summary": "Southeast Asian ministers set to call for opening of Strait of Hormuz in Manila talks&nbsp;&nbsp;AP NewsRubio expected to discuss Trump-Xi summit in Asia meetings&nbsp;&nbsp;ReutersASEAN foreign ministers face test of unity at Manila meetings&nbsp;&nbsp;Nikkei AsiaMonday, July 20&nbsp;&nbsp;The Presidential Prayer TeamRubio visiting Manila for Asean foreign ministers’ meetings&nbsp;&nbsp;Inquirer.net",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdHBYUFlRT18zYmxRNXZKSWw4NEd4SWR0dFUtbU5kTVpOOVQtdUpyN28zbEdoR1Y0dE9rRTJtZGgxcElLWHZMREVWT3ljZjl5S2hQLURKLVJjLXVlUFRsejljVGZDbGtSLXAwU2pCV3F5U3p2MjRYWVJGMDg3blJxVEtEZzZDZTJVZll2aHgyX0VEOEl4Wm1OOWFpN2Z0WGVUNEVyc3BzMVRrVFhhS1JXTGdadGZnY0hzdnJtUVBPekJrcm0wVmZIRDRnVlJRMTg?oc=5",
+      "source": "AP News",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-20T17:32:19.428105+05:00",
+      "age_min": 33.3
     },
     {
       "hash": "3dc2b7005f488e9ef1070c84331ff694",
@@ -529,6 +554,32 @@
       "age_min": 2.3
     },
     {
+      "hash": "a5dab7ebc026da6a21e02a1e7de19a2c",
+      "title": "Растущая банда неприкасаемых Трампа",
+      "original_title": "Trump’s growing gang of untouchables",
+      "rss_summary": "Trump has subverted equal justice to create two classes of citizens: one privileged, the other persecuted.",
+      "link": "https://thehill.com/opinion/white-house/5975381-trump-subverts-rule-law/",
+      "source": "The Hill",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-20T17:33:05.671163+05:00",
+      "age_min": 33.1
+    },
+    {
+      "hash": "336258ddd5835562182bcb75718ac5d9",
+      "title": "Судебные иски Трампа достигли ключевой стадии после пары недавних неудач",
+      "original_title": "Trump Lawsuits Reach Key Stages After Pair of Recent Setbacks",
+      "rss_summary": "Lawyers for President Donald Trump and his sprawling business interests are heading to court this week in Florida for high-stakes hearings that follow a pair of major setbacks in their wave of multibillion-dollar lawsuits.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-20/trump-lawsuits-reach-key-stages-after-pair-of-recent-setbacks",
+      "source": "Bloomberg Politics",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-20T17:32:37.894045+05:00",
+      "age_min": 13.6
+    },
+    {
       "hash": "cd703853f7a557ca223c414c9ab90c33",
       "title": "Диокно ведет судебное преследование к крупной победе в финансовых отчетах Дутерте",
       "original_title": "Diokno steers prosecution to major win on Duterte financial records",
@@ -592,58 +643,6 @@
       "status": "new",
       "ts": "2026-07-20T17:18:01.817281+05:00",
       "age_min": 6.0
-    },
-    {
-      "hash": "e4370492a62645a3f2adb76e9befadc4",
-      "title": "Десятки тысяч протестующих Тараканьей партии бросили вызов полиции маршем в Дели",
-      "original_title": "Tens of thousands of Cockroach party protesters defy police with Delhi march",
-      "rss_summary": "Youth-led movement calls on education minister to quit in one of India’s largest anti-government rallies in yearsTens of thousands of protesters have defied police orders and descended on Delhi to demand the resignation of India’s education minister in one of the largest anti-government demonstrations in years.A huge crowd, largely made up of students and gen Z-ers, filled the streets in the heart of India’s capital from early Monday morning shouting anti-government slogans, while hundreds had a",
-      "link": "https://www.theguardian.com/world/2026/jul/20/cockroach-janta-party-protest-march-sonam-wangchuk-india-parliament",
-      "source": "Guardian",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-20T16:49:17.380363+05:00",
-      "age_min": 11.3
-    },
-    {
-      "hash": "5c89ff90c15cfca00c038539bd8b1d67",
-      "title": "Фьючерсы на пшеницу близки к историческим максимумам, поскольку война с Ираном возобновляется уже пятый месяц",
-      "original_title": "Wheat futures near all-time highs as Iran war re-escalates into 5th month",
-      "rss_summary": "Wheat futures near all-time highs as Iran war re-escalates into 5th month&nbsp;&nbsp;Investing.com Nigeria",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORUk1YmFSaXhqRWJUb3RRSmF1cHRnSnNYcWtVUVdiRmFKbzkwY3QxX00zeTBxTWFnNFpHckJlaHRLWHh3RFg0ZVJ2LXRjcVNIRlZKdy1PRS1HX1R5TmVYZG80ZWtIRWxIV1RULTRuUXBzRkxMVVF1ci1XWG03MmdyNEdOVlkzb2w5X2Y2cVh1NmNodUxjV3RfeXhCQm52dDg5S0NPSTJla2loOEsyV3RRQUZiMzBGenVCcHBSU0k4M01VUU43ekZlNVNYVlA?oc=5",
-      "source": "Investing.com Nigeria",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-20T17:18:04.126030+05:00",
-      "age_min": 9.3
-    },
-    {
-      "hash": "1a4c8acda4a7ed73e4da3609d1c66bba",
-      "title": "⚡️Главкома ВСУ Александра Сырского сегодня должны отправить в отставкуОб этом сообщил украинс [...]",
-      "original_title": "⚡️Главкома ВСУ Александра Сырского сегодня должны отправить в отставкуОб этом сообщил украинс [...]",
-      "rss_summary": "⚡️Главкома ВСУ Александра Сырского сегодня должны отправить в отставкуОб этом сообщил украинский журналист Виталий Глагола со ссылкой на источники в офисе Владимира Зеленского и Минобороны.",
-      "link": "https://t.me/bbbreaking/233916",
-      "source": "TG/Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-20T17:04:56.931192+05:00",
-      "age_min": 11.7
-    },
-    {
-      "hash": "a9c54da7500057eebc64ade16d4c397b",
-      "title": "Срочное: Энди Бернэм стал премьер-министром Великобритании после «поцелуя руки» с королем Чарльзом",
-      "original_title": "Breaking: Andy Burnham becomes British PM after 'kissing hands' with King Charles",
-      "rss_summary": "Andy Burnham has officially become the United Kingdom's prime minister after King Charles III invited him to form a government during a meeting at Buckingham Palace.",
-      "link": "https://www.abc.net.au/news/2026-07-20/andy-burnham-becomes-british-pm-after-kissing-hands-with-king/106937868",
-      "source": "ABC AU Politics",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-20T16:49:38.552534+05:00",
-      "age_min": 16.4
     }
   ]
 }
