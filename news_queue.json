@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T03:07:24.108920+05:00",
+  "updated": "2026-07-24T03:21:28.467264+05:00",
   "items": [
     {
       "hash": "0145df62a8c084c8e2af6421c130faf0",
@@ -39,6 +39,19 @@
       "status": "new",
       "ts": "2026-07-23T23:49:16.699104+05:00",
       "age_min": 35.3
+    },
+    {
+      "hash": "22bbdc0bc2351cf8a96b0093baa11483",
+      "title": "Последние новости и аналитика рынка нефти за 24 июля",
+      "original_title": "Latest Oil Market News and Analysis for July 24",
+      "rss_summary": "Oil headed for a weekly surge after Houthi attacks on tankers in the Red Sea opened a new front in the Middle East conflict, while President Donald Trump threatened to extend US strikes on Iran.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-23/latest-oil-market-news-and-analysis-for-july-24",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-24T03:17:21.054992+05:00",
+      "age_min": 12.6
     },
     {
       "hash": "1631616752db326f5e4ea3fc3bf07d1f",
@@ -401,17 +414,16 @@
       "age_min": 95.8
     },
     {
-      "hash": "0861276f24cb39b6262989d4ea881b81",
-      "title": "Lockheed Martin и RTX отменяют прогнозы на 2026 год, поскольку Пентагон стремится пополнить запасы оружия",
-      "original_title": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons",
-      "rss_summary": "Lockheed Martin, RTX lift 2026 forecasts as Pentagon looks to restock weapons&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTF9RanhOcnotQzBGd3N4c2V4ZUwtcEJBSklsTkh4V0FaLVNwaDBsOHZ3bFFJeG1lMmtiVXFiV3lIYmJzTE9FS3puZ1ZMWmR6ejhoZEZobXZlZi1SZDRPenlQNmJXLWV3enNwRnJCakVhbm5LVWhZazIxMlBfS3hJWFQ0R3N4Nk8xWkoyd3l2NnhGaDA5cVB0aDhnTXl1dTJNdU1adzZXUnNqbkgtT0s0Q1JBc2sxeGZLM0RHMlhrVWRMcmlENWpzN0V1RTlrQQ?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
+      "hash": "7dcf351b0b8662df47d00895b90580fb",
+      "title": "Война в Украине – аналитик считает , что захват Донбасса обойдётся жизнью ещё миллионам россиян",
+      "original_title": "Война в Украине – аналитик считает , что захват Донбасса обойдётся жизнью ещё миллионам россиян",
+      "link": "https://www.unian.net/war/voyna-v-ukraine-analitik-schitaet-chto-zahvat-donbassa-oboydetsya-zhiznyu-eshche-millionam-rossiyan-13449846.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-23T23:18:47.193853+05:00",
-      "age_min": 85.0
+      "ts": "2026-07-24T03:15:41.399220+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "82050d2d54e2bea1fdfc1208afd964b1",
@@ -628,18 +640,6 @@
       "status": "new",
       "ts": "2026-07-24T01:03:24.328600+05:00",
       "age_min": 9.8
-    },
-    {
-      "hash": "4933926ba1e99af6dec74dd996899907",
-      "title": "Переговоры или эскалация : какой сценарий для Украины реальнее",
-      "original_title": "Переговоры или эскалация : какой сценарий для Украины реальнее",
-      "link": "https://society.comments.ua/news/warrussia/mir-osenyu-ili-nebyvalaya-eskalaciya-eti-tri-scenariya-kardinalnyh-peremen-voyny-nastorazhivayut-811885.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-24T00:47:09.284644+05:00",
-      "age_min": 92.2
     }
   ]
 }
