@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T10:21:03.286310+05:00",
+  "updated": "2026-07-25T10:35:50.295967+05:00",
   "items": [
     {
       "hash": "d7f3784327144a32708bfa15aab1b68f",
@@ -127,19 +127,6 @@
       "age_min": -1319.3
     },
     {
-      "hash": "2e17cf654e616eacd59d1f3c5a3deee3",
-      "title": "Хуситы обещают отомстить за удары Саудовской Аравии по мере углубления конфликта",
-      "original_title": "Houthis vow retaliation for Saudi strikes as conflict deepens",
-      "rss_summary": "Iran-backed Houthi rebels vowed to retaliate against Saudi Arabia on Saturday after they accused the kingdom of targeting civilian infrastructure, as the Middle East war widens across the region.  \n            Riyadh struck Houthi military targets in Hodeida on Friday, with rebel media reporting two wounded after the Yemeni group announced a maritime blockade of the top oil producer and hit its ships.",
-      "link": "https://www.al-monitor.com/originals/2026/07/houthis-vow-retaliation-saudi-strikes-conflict-deepens",
-      "source": "Al-Monitor",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-25T06:33:42.211787+05:00",
-      "age_min": 3.1
-    },
-    {
       "hash": "bb21972fbc82f82f192e2e0b39f28f54",
       "title": "Нефть падает на сообщениях о том, что Китай настаивает на прекращении войны между США и Ираном",
       "original_title": "Oil falls on report China pushing for end US - Iran war",
@@ -228,6 +215,19 @@
       "status": "new",
       "ts": "2026-07-25T06:46:35.376797+05:00",
       "age_min": 73.6
+    },
+    {
+      "hash": "f18313da8444ee0c7bf34f1ade55b8a8",
+      "title": "Бернхем приносит лучшую атмосферу в Великобритании, но через шесть месяцев ему предстоит столкнуться с трудностями",
+      "original_title": "Burnham Brings Better UK Vibes But Faces Tough Six Months Ahead",
+      "rss_summary": "Andy Burnham spent his first week as prime minister churning out feel-good policies designed to make Britons feel he’s on their side.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-25/burnham-brings-better-uk-vibes-but-faces-tough-six-months-ahead",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-25T10:33:18.035868+05:00",
+      "age_min": 33.3
     },
     {
       "hash": "f4212d667baaeeed3bf5722a577ef860",
@@ -341,17 +341,30 @@
       "age_min": 31.3
     },
     {
-      "hash": "6d45688a9937bd6602ea09b1a81cf7a7",
-      "title": "ЮНЕСКО добавила территорию Западного берега и ливанские замки в Список всемирного наследия, несмотря на возражения Израиля",
-      "original_title": "UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections",
-      "rss_summary": "UNESCO adds West Bank site and Lebanese castles to World Heritage List despite Israeli objections&nbsp;&nbsp;AP NewsUNESCO places occupied West Bank, Lebanon sites on endangered heritage list&nbsp;&nbsp;Al JazeeraOn this West Bank hilltop, a fight over the past will determine who controls the future&nbsp;&nbsp;CNNUNESCO adds war-hit Lebanese city of Tyre to list of world heritage sites in danger&nbsp;&nbsp;The Times of Israel‘Weaponization of cultural heritage’: Israel accuses PA of exploiting U",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT2RmdWs1SzVTM3hDTTNHb09ZZHFaWnc4dEpHSTdjaUVpaEZBZV9oNUdQUVVCVW12VTdtZXlkSXZfSUV4ZEtlUkYxUi0yY1Z6X0R6VlNsQ19pUTdfaW1BMFJOb2VzN3c5ZkNGTTNRYnMzSlU0VW5hNnNuR3ROdFh5aEIxOHJkOERRd1pLMzQwSkpNVGpmNENYZ0xCWVQyZ0lzYTJVakkweEtXU0U0N1lv?oc=5",
-      "source": "AP News",
-      "score": 8,
-      "weight": 4,
+      "hash": "0f2681de6b876b50bfb4be1590156f71",
+      "title": "Рост продаж электромобилей защитит Австралию от нехватки топлива",
+      "original_title": "Soaring EV sales to shield Australia from fuel shortages",
+      "rss_summary": "With no end in sight to war in the Middle East, or Iran’s blockade on oil exports, Australian’s growing appetite for electric vehicles is a silver lining to the global energy crisis.",
+      "link": "https://www.smh.com.au/politics/federal/soaring-ev-sales-to-shield-australia-from-fuel-shortages-20260724-p60i5h.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "SMH Politics",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-25T06:33:29.998637+05:00",
-      "age_min": 59.5
+      "ts": "2026-07-25T10:33:44.580480+05:00",
+      "age_min": 11.6
+    },
+    {
+      "hash": "e069b73c8810ddc313af4347d3ab40eb",
+      "title": "Восстановление Сирии стоимостью 216 миллиардов долларов предлагает альтернативу Ормузу",
+      "original_title": "Syria’s US$216 billion rebuild offers a Hormuz alternative",
+      "rss_summary": "For years, Syria was a wound the world watched fester: a country carved up by war, sanctioned into isolation and reduced to a byword for state collapse.\nIts economy needs US$216 billion to rebuild, according to World Bank estimates. This month, for the first time since the fall of the Assad regime in December 2024, it began to look like it might actually get there.\nOn July 8, the government of Ahmed al-Sharaa – a former jihadi commander turned president – established a supreme constitutional...",
+      "link": "https://www.scmp.com/week-asia/politics/article/3361788/syrias-us216-billion-rebuild-offers-hormuz-alternative?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-25T10:32:41.685173+05:00",
+      "age_min": 2.6
     },
     {
       "hash": "2921db685aaa5db8e12c4e7b14694e8f",
@@ -406,17 +419,17 @@
       "age_min": 12.5
     },
     {
-      "hash": "9b6337cf5c590179055e19ae8ed8fe54",
-      "title": "Президент Трамп выступает с речью, 24 июля 2026 г. https://x.com/i/broadcasts/1MKgNNLVZyjxL",
-      "original_title": "President Trump Delivers Remarks, Jul. 24, 2026 https://x.com/i/broadcasts/1MKgNNLVZyjxL",
-      "rss_summary": "President Trump Delivers Remarks, Jul. 24, 2026 nitter.net/i/broadcasts/1MKgNNLVZ…\n\nLink\n\n\n\nThe White House\n\nPresident Trump Delivers Remarks, Jul. 24, 2026\nhttps://nitter.net/i/broadcasts/1MKgNNLVZyjxL",
-      "link": "https://nitter.net/WhiteHouse/status/2080823520536166683#m",
-      "source": "WhiteHouse/X",
-      "score": 6,
-      "weight": 5,
+      "hash": "179a7c7ab41e5111978ae839feaa2054",
+      "title": "Тарифы Трампа, скорее всего, сохранятся, несмотря на непопулярность",
+      "original_title": "Trump’s Tariffs Are Likely to Stick Around Despite Unpopularity",
+      "rss_summary": "President Donald Trump’s latest tariffs are drawing anger from trading partners and voters but the leverage and revenue they offer could make it hard for future presidents to fully give them up.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-25/trump-s-tariffs-are-likely-to-stick-around-despite-unpopularity",
+      "source": "Bloomberg Politics",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-25T06:33:30.363004+05:00",
-      "age_min": 20.8
+      "ts": "2026-07-25T10:33:18.037271+05:00",
+      "age_min": 92.3
     },
     {
       "hash": "8ef59588f6f55da4065efa0e0a598d6b",
@@ -573,6 +586,19 @@
       "age_min": 31.5
     },
     {
+      "hash": "7e974674dfd1a508defa3a42f17af8b9",
+      "title": "Украина настаивает на том, что пацифистские правила Японии разрешают помощь ракетами Патриот",
+      "original_title": "Ukraine insists Japan’s pacifist rules permit Patriot missile help",
+      "rss_summary": "Ukraine hopes to gain support from Japan as it looks to produce Patriot air defence systems under US licence, citing the expertise of Mitsubishi Heavy Industries that manufactures the interceptors for the Japanese defence forces, according to an aide to Ukrainian President Volodymyr Zelensky.\n“We maintain political dialogue” towards seeking cooperation from Japan, which is one of the few countries granted a licence to build the Patriot surface-to-air missile system, Sergiy Kyslytsya, first...",
+      "link": "https://www.scmp.com/news/world/europe/article/3361829/ukraine-insists-japans-pacifist-rules-permit-patriot-missile-help?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-25T10:32:41.687738+05:00",
+      "age_min": 8.7
+    },
+    {
       "hash": "6043a220fb164efae3f8bcc3c038933c",
       "title": "Владимир Зеленский пережил худшую неделю с начала российско-украинской войны",
       "original_title": "Volodymyr Zelensky survives his worst week since Russia-Ukraine war began",
@@ -598,40 +624,17 @@
       "age_min": 62.8
     },
     {
-      "hash": "1fc077c51b6f4ad2faf0a631f55cd466",
-      "title": "Россия гарантированно выиграет украинский конфликт Джон Миршаймер",
-      "original_title": "Russia guaranteed to win Ukraine conflict John Mearsheimer",
-      "link": "http://www.iranherald.com/news/279208625/russia-guaranteed-to-win-ukraine-conflict-john-mearsheimer",
-      "source": "GDELT/HOTSPOTS",
-      "score": 4,
+      "hash": "0e264ece61103f8a8ed70d6b452d972a",
+      "title": "Филиппины должны немедленно прекратить нарушения и провокации - министр иностранных дел Китая - 點新聞",
+      "original_title": "Philippines should immediately stop infringement activities, provocations: Chinese FM - 點新聞",
+      "rss_summary": "Philippines should immediately stop infringement activities, provocations: Chinese FM&nbsp;&nbsp;點新聞",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE54S1BnZjE4Y0pQWnZSdW15NmNFbUxJNGQwR0cyb1E2RzZHZWxuYmpEZ2tmbW8tbk9sRlc4bUMtRUtrYTdTdnpfa3dxdHVRNWlYOHdVTWRadnA2VzNtZ3ZlMUQ5VGw3UHA3b0Ftd0JtRnRxS0hOSElaZTlVdG43SFE?oc=5",
+      "source": "PH South China Sea",
+      "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-07-25T10:15:43.856227+05:00",
-      "age_min": 45.7
-    },
-    {
-      "hash": "d256843391a7bdeafb2c31d5d41096cd",
-      "title": "Трамп : Россия и Китай не продают оружие Ирану",
-      "original_title": "Трамп : Россия и Китай не продают оружие Ирану",
-      "link": "https://kv.com.ua/politics/tramp-zayavil-chto-rossiya-i-kitay-ne-vooruzhayut-iran",
-      "source": "GDELT/HOTSPOTS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-25T10:15:43.838608+05:00",
-      "age_min": 45.7
-    },
-    {
-      "hash": "14f998d055f08fda6b30bcfb77ece12e",
-      "title": "Дональд Трамп предупреждает Китай и Россию, что для них будет очень плохо, если они помогут Ирану",
-      "original_title": "Donald Trump warns China and Russia  it would be very bad for them  if they help Iran",
-      "link": "https://www.aol.co.uk/articles/donald-trump-warns-china-russia-035000000.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-25T10:15:43.835857+05:00",
-      "age_min": 45.7
+      "ts": "2026-07-25T10:33:43.177661+05:00",
+      "age_min": 14.2
     }
   ]
 }
