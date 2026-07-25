@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T08:21:01.413669+05:00",
+  "updated": "2026-07-25T08:36:51.803335+05:00",
   "items": [
     {
       "hash": "d63a4128ea959a422232fcedc7b92d59",
@@ -167,18 +167,6 @@
       "age_min": 44.3
     },
     {
-      "hash": "c77772431b983f5871e7dd5ecbeddec6",
-      "title": "Блинкен: Трамп оказался в ловушке, запертой в углу, который он построил; нет отказа от войны с Ираном",
-      "original_title": "Blinken : Trump trapped in a corner he built ; no off - ramp from war on Iran",
-      "link": "https://www.presstv.co.uk/Detail/2026/07/24/772936/Trump-looking-for-off-ramp-to-get-out-of-corner-he-put-himself-in-Blinken",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-25T04:31:20.890761+05:00",
-      "age_min": 31.3
-    },
-    {
       "hash": "1d214e7e177ccf6ea2e80cc8e274c273",
       "title": "Директор Чжан Юн увеличивает долю в австралийской компании Gold and Copper посредством размещения",
       "original_title": "Director Zhang Yong lifts stake in Australian Gold and Copper via placement",
@@ -280,6 +268,18 @@
       "status": "new",
       "ts": "2026-07-25T05:47:00.220155+05:00",
       "age_min": 86.8
+    },
+    {
+      "hash": "ddea511b5e7b339c638768f5af0684a4",
+      "title": "КСИР утверждает, что в результате ракетного удара был уничтожен центр обработки данных Amazon в Бахрейне",
+      "original_title": "IRGC Claims Destroyed Amazon Bahrain Data Center in Missile Strike",
+      "link": "https://techstory.in/cloud-under-fire-irgc-claims-cruise-missile-strike-destroyed-amazons-bahrain-data-hub/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-25T08:32:16.210599+05:00",
+      "age_min": 77.3
     },
     {
       "hash": "26a8a095732e648f9e117666e9ce660a",
@@ -601,19 +601,6 @@
       "age_min": 10.1
     },
     {
-      "hash": "99ae8eb293a7688ea8e13af1d754f865",
-      "title": "Зеленский пытается исправить кризис вокруг отстранения министра обороны и подсчитывает цену",
-      "original_title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
-      "rss_summary": "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically.",
-      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-25T04:33:21.324568+05:00",
-      "age_min": 32.3
-    },
-    {
       "hash": "48eeeccd423017ceb55ec95fc6e6caae",
       "title": "Трамп: США готовы к усилению ударов по Ирану на фоне атак стран Персидского залива",
       "original_title": "Trump: US ready for intensified strikes on Iran amid Gulf state attacks",
@@ -627,17 +614,30 @@
       "age_min": 32.3
     },
     {
-      "hash": "2bd38dcf688c4be9d56e5ef6c6df9729",
-      "title": "Трамп объявляет о своей кандидатуре на пост президента в 2028 году",
-      "original_title": "Trump announces 2028 presidential bid",
-      "rss_summary": "Donald Trump has announced he will run for president again, in a move that would breach the constitution.",
-      "link": "https://www.smh.com.au/world/trump-announces-2028-presidential-bid-20260725-p60iho.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+      "hash": "b09a53a85432cea81bd8c6d08a692771",
+      "title": "Иранская угроза заставила Трампа сменить самолет после саммита НАТО",
+      "original_title": "Iranian threat forced Trump to switch planes after NATO summit",
+      "rss_summary": "The US President had flown to the summit in Ankara, Turkey, on the new Qatari-donated Boeing 747-8 but had to use the older Air Force One to leave after the Secret Service’s warning.",
+      "link": "https://www.smh.com.au/world/north-america/iranian-threat-forced-trump-to-switch-planes-after-nato-summit-20260725-p60ih7.html?ref=rss&utm_medium=rss&utm_source=rss_world",
       "source": "Sydney Morning Herald",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-07-25T08:34:46.176560+05:00",
+      "age_min": 5.5
+    },
+    {
+      "hash": "f2b195339888f938cd8394f0281b15d6",
+      "title": "«Шоу должно продолжаться»: Трамп возвращается на перенесенный пресс-концерт в Белом доме",
+      "original_title": "‘The show must go on’: Trump returns to rescheduled White House press gala",
+      "rss_summary": "US president makes jokes, mocks opponents at correspondents&#039; dinner that was halted by a shooting in April.",
+      "link": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+      "source": "Al Jazeera",
       "score": 7,
       "weight": 3,
       "status": "new",
-      "ts": "2026-07-25T08:18:36.951970+05:00",
-      "age_min": 11.4
+      "ts": "2026-07-25T08:33:51.414254+05:00",
+      "age_min": 34.8
     }
   ]
 }
