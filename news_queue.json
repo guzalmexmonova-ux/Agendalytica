@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T07:37:43.053792+05:00",
+  "updated": "2026-07-27T07:50:13.858646+05:00",
   "items": [
     {
       "hash": "362532f1fd0875d191e0c974c10b49d6",
@@ -130,19 +130,6 @@
       "age_min": 8.8
     },
     {
-      "hash": "4dfb85fc75f083f40b3988d639e5ff82",
-      "title": "Постоянные обновления: администрация Трампа сигнализирует, что пауза в ударах по Ирану позволит переговорам продвинуться вперед",
-      "original_title": "Live updates: Trump administration signals that pause in Iran strikes will allow talks to progress",
-      "rss_summary": "Live updates: Trump administration signals that pause in Iran strikes will allow talks to progress&nbsp;&nbsp;CNNTrump Holds Off on Major War Escalation Against Iran as Advisers Raise Concerns&nbsp;&nbsp;The New York TimesUS and Iran hit pause on strikes for second day&nbsp;&nbsp;Al JazeeraTop U.S. military commander in Middle East advised halting Hormuz bombing&nbsp;&nbsp;AxiosVance, Caine raised concerns about escalating war in Iran, sources say as US pauses consecutive nights of strikes&nbsp;",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9HLWxnU3JEZGtzTGFqaXBRNnpLM2lLMG5jdTg0bHk0VTlpRnVOTmZYQmZjcm9HMG1EVUNwU2hUdndKU1NMeV84UUwzYUxKaHNuaFhiR0lfRnVJRzZ6aHBSUmxBZEVJYjZyd0pDZEo0UWRyY2M?oc=5",
-      "source": "CNN",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-27T03:48:19.691429+05:00",
-      "age_min": 18.3
-    },
-    {
       "hash": "50332f0af65ede7b8f5c78aa187ac881",
       "title": "На выборах в Израиле бывший глава армии стал главным соперником Нетаньяху",
       "original_title": "In Israel vote, ex-army chief emerges main rival to Netanyahu",
@@ -230,6 +217,19 @@
       "status": "new",
       "ts": "2026-07-27T05:48:17.787306+05:00",
       "age_min": 71.1
+    },
+    {
+      "hash": "8205d6e6ebef55787736735a9eff03cc",
+      "title": "Тяжело вооруженная граница все еще разделяет Северную и Южную Корею спустя 70 лет после перемирия",
+      "original_title": "A heavily armed border still divides North and South Korea 70 years after the armistice",
+      "rss_summary": "A heavily armed border still divides North and South Korea 70 years after the armistice&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMFE3d0RqWHFqY1BFZy1ZX0tSYVFRX2RINElaZFVibExCX1lDNmwwN25SZjJyVmVZRjlhVDAwQzN6MFdULU42cjF6Wm95cUhXa1dqMDFxNHd3QWY4LUFRMThWdU5laGFkNGVvTG1oQXpwcGw4ZTRPdXZCLUFvWmFqTmkya2V4dUxjVXZickZkRGxSRnZYcjM5cVN4MA?oc=5",
+      "source": "AP News",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-07-27T07:47:55.824570+05:00",
+      "age_min": 57.8
     },
     {
       "hash": "e744abf2090e23d3bcebd3fbc3ece70f",
@@ -411,17 +411,17 @@
       "age_min": 17.4
     },
     {
-      "hash": "9e613bcfb56cb3d1ee5eb352fb3c78a8",
-      "title": "Последние новости о войне США, Израиля и Ирана: «Во всем мире должна быть активирована ответственность» – Палестина призывает к глобальным действиям против поселений на фоне растущего конфликта на Ближнем Востоке",
-      "original_title": "US-Israel-Iran War Latest News: ‘Accountability Must Be Activated Worldwide’ – Palestine Urges Global Action Against Settlements Amid Rising Middle East Conflict",
-      "rss_summary": "US-Israel-Iran War Latest News: ‘Accountability Must Be Activated Worldwide’ – Palestine Urges Global Action Against Settlements Amid Rising Middle East Conflict&nbsp;&nbsp;The Sunday Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQaEdGSkRMWTZ3XzdIME92bmU1ZVFmdUc2eHdxUzBtZXRFSjN1NHhHNVg1bnZqRmp1Umh0TFNFcUcyME1xanh3RzFOdjZ1cnJQX212aGJlQTFfZmhQakRuNlNIUF9qM1ZRZ0lxek1MRnVhb2FSR1JBakhvOTFKZ3p2Z3Z6Y2NiUnV6VTFQUkRfS0RIMGFvMWRFeHZPUmRFd3hpUVZ3V0p1VUtIc21nTDYzWUZDcjdkaWVXempoUlZ3RzhBX0YyaW5zSHJCZEpxWEF6UkN6U3g3V2xJTnVtRXlpYkw0UzU1b3ZzT3lxOExwREwwY1NvWnlYVHg1dFA0b2N1RWtlNHh0Zi1NQWs0T3JJYlNZbHMzRWFMVE5tdy1KeXRwNW9wZzN4VNIBrgJBVV95cUxQUzNzcDFENW9LbHJNVDQ4UWlYa2dZRmVranFqN3ctVWNUTzRDLWJubEd2Z2xIX05VS0pYMHlMSHlMc2FBYzc1MHBOVHJ2Ym5qQVhOSm1NN29TMTE2RmRZRzA1SU1feDBvaXlXRnVsdjliTndtd29lRGY5cmFxZnFFeTNDTlRSbHhHaGhtclNJaWFVdF91ODNPcS1LUmNnVl9Ca1M1b001bEQzb0kyQXZHaDZpQ2xFUjczSVlRd3hMcTJuTE95dHhiTEdHZ0dJN0JNV0xBbHo1YU9HM3k5OGFjbTQwdWxybVd2eldQSTNPLUV1NVdTNVZoWkhOWnROY0NUV0RXZU4ybXp6b19iUnE1bnNxUXV0M2NkazRtV1lxdkJxMnUtUk9oMUh6c3lHdw?oc=5",
-      "source": "The Sunday Guardian",
-      "score": 10,
-      "weight": 3,
+      "hash": "1a83e338ac2e6c7462d18dec5b7392ee",
+      "title": "В понедельник службы экстренного реагирования и волонтеры Филиппинского Красного Креста установили аварийную палатку возле комплекса Батасанг Памбанса в Кесон-Сити в качестве меры предосторожности накануне выступления президента Фердинанда «Бонгбонга» Маркоса-младшего «Национальное положение» - facebook.com",
+      "original_title": "First responders and volunteers from the Philippine Red Cross set up an emergency tent outside the Batasang Pambansa Complex in Quezon City on Monday as a precautionary measure ahead of President Ferdinand \"Bongbong\" Marcos Jr.'s State of the Nat - facebook.com",
+      "rss_summary": "First responders and volunteers from the Philippine Red Cross set up an emergency tent outside the Batasang Pambansa Complex in Quezon City on Monday as a precautionary measure ahead of President Ferdinand \"Bongbong\" Marcos Jr.'s State of the Nat&nbsp;&nbsp;facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZHFGRDBqNHU3a0xIc0lBRGlkRHVtbGx0dDJLSkJ0S29fdXpGOEhqbTJZVTZtNmNEOGRwMGFlOW8zanQ1Z2hPWVFPUDNwcFc5YzdEQzZ1WTJMRHh0aDFBZXBmSFp5c0U2MW9RRzZ2ZFdXT1dZc05fVnRaRkFkVFNLSG5oMXpvMVpwREpfRHpMR3FRWnNCT0dnamFmS2Foc19QeTVqVm5lWWtobkNibFNCZ0xDUEE5UUdRMVRGWnh2TlF5MEFvYThyTGZsbHJPV1RJSUJQWDBBV0R0YVMy?oc=5",
+      "source": "PH South China Sea",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-27T03:48:09.431870+05:00",
-      "age_min": 18.1
+      "ts": "2026-07-27T07:48:20.924868+05:00",
+      "age_min": 2.9
     },
     {
       "hash": "f6984c4e76df76f1778e74d2e99329f8",
