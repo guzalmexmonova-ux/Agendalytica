@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T02:52:33.413396+05:00",
+  "updated": "2026-07-31T03:13:35.348432+05:00",
   "items": [
     {
       "hash": "73994f9eb442973e86c3885b8de1ffbf",
@@ -39,6 +39,55 @@
       "status": "new",
       "ts": "2026-07-30T23:48:31.353628+05:00",
       "age_min": 48.9
+    },
+    {
+      "hash": "cd3961fa6d877af149ffe71b0c3f9edf",
+      "title": "Последние новости и аналитика рынка нефти за 31 июля",
+      "original_title": "Latest Oil Market News and Analysis for July 31",
+      "rss_summary": "Oil steadied at the end of a volatile week, with prices on track for the biggest monthly gain since March as the US-Iran war escalated.",
+      "link": "https://www.bloomberg.com/news/articles/2026-07-30/latest-oil-market-news-and-analysis-for-july-31",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T03:10:11.124156+05:00",
+      "age_min": 5.8
+    },
+    {
+      "hash": "bfbe5a275ba375333f868d31316c3d2d",
+      "title": "США нанесли тяжелые удары по Ирану после ракетной атаки Иордании - Novinite. ком",
+      "original_title": "US Launches Heavy Strikes on Iran After Jordan Missile Attack - Novinite . com",
+      "link": "https://www.novinite.com/view_news.php?id=239857",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T03:08:31.421775+05:00",
+      "age_min": 23.5
+    },
+    {
+      "hash": "0981813c6e21fb3041c5b9d5f6c07760",
+      "title": "США наносят новые удары по Ирану, сигнализируя о новом этапе войны",
+      "original_title": "US launches more strikes against Iran , signaling a new stage of the war",
+      "link": "https://www.ksbw.com/article/us-more-strikes-against-iran-a-new-stage-of-war/73303764",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T03:08:31.402067+05:00",
+      "age_min": 98.5
+    },
+    {
+      "hash": "ed72b014f982c6166c6793d8ac751875",
+      "title": "Сенат США отклонил предложение обуздать власть Трампа в войне с Ираном | Сенат США",
+      "original_title": "US Senate rejects bid to rein in Trump authority over Iran war | US Senate",
+      "link": "https://www.theguardian.com/us-news/2026/jul/30/donald-trump-senate-iran-war-power",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T03:08:31.397733+05:00",
+      "age_min": 113.5
     },
     {
       "hash": "e5491259c556cd34d5f145a31032ded1",
@@ -465,6 +514,19 @@
       "age_min": 43.3
     },
     {
+      "hash": "667b07bb3968a9f7eecf648bd423466d",
+      "title": "RT от @WhiteHouse: Одним из главных приоритетов @POTUS и его администрации является забота о ветеранах нашей страны: @USDOL в партнерстве с @USDOT прокладывает четкий путь для этих героев, чтобы преуспеть в рабочей силе, и не позволяет иностранцам-нелегалам занять эти высокооплачиваемые рабочие места. 💪 🇺🇸 ЧИТАЙТЕ: https://www.transportation.gov/briefing-room/president-trump-transportation-secretary-duffy-host-vets-white-house-promote-new",
+      "original_title": "RT by @WhiteHouse: One of the top priorities of @POTUS and his Administration is taking care of our Nation’s Veterans—@USDOL in partnership with @USDOT is paving a clear pathway for these Heroes to excel in the workforce and preventing Illegal Aliens from taking these high-paying jobs. 💪 🇺🇸 READ: https://www.transportation.gov/briefing-room/president-trump-transportation-secretary-duffy-host-vets-white-house-promote-new",
+      "rss_summary": "One of the top priorities of @POTUS and his Administration is taking care of our Nation’s Veterans—@USDOL in partnership with @USDOT is paving a clear pathway for these Heroes to excel in the workforce and preventing Illegal Aliens from taking these high-paying jobs. 💪 🇺🇸\n\nREAD: transportation.gov/briefing-…",
+      "link": "https://nitter.net/USDOL/status/2082938246888145086#m",
+      "source": "WhiteHouse/X",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-07-31T03:10:32.571448+05:00",
+      "age_min": 54.7
+    },
+    {
       "hash": "a90700cfdb539f438f9a5fef3bf236b4",
       "title": "Трамп угрожает отозвать кандидатуру генерального прокурора, поскольку противостояние с Конгрессом обостряется - reuters.com",
       "original_title": "Trump threatens to pull attorney general nomination as standoff with Congress escalates - reuters.com",
@@ -543,17 +605,17 @@
       "age_min": 35.1
     },
     {
-      "hash": "938188f9379835f58a2ed865abe566af",
-      "title": "Администрация Трампа прекращает программу субсидирования лекарств Medicare. Вот как это может повлиять на затраты",
-      "original_title": "The Trump administration is ending a Medicare drug subsidy program. Here's how it could affect costs",
-      "rss_summary": "The Trump administration is ending a Medicare drug subsidy program. Here's how it could affect costs&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSEZ2VDJGWGo2MnhlQTJoemV0UU1aWXJzNDRhSnpEZ3VZREw2RTUxMjZKRTB0eVJKQ0RQX3ZORnBjd0xIT0hIX3V2T2NDMmJaUWVOb2FrdEFzSnVPZmNVbTBuV3BEQXk2dlVtT29GWUVjVkJFeGo5ampxcFBuUGpCVUZMWHowSjFrSVFsSU83alEwS3RVNWVsUUREUXVicnIzeTkwRE5n?oc=5",
-      "source": "AP News",
-      "score": 7,
-      "weight": 5,
+      "hash": "9baeaa6c5979b18b25b9e80eb4d23eea",
+      "title": "Тренер НФЛ набросился на Фаучи, отвечая на вопросы журналистов",
+      "original_title": "NFL coach jabs at Fauci while taking questions from reporters",
+      "rss_summary": "Philadelphia Eagles defensive coordinator Vic Fangio took a couple of shots at Dr. Anthony Fauci over his repeated use of the Fifth Amendment during a Senate hearing on Wednesday. “I’m gonna be like Fauci and just take the Fifth Amendment on all questions,” Fangio said, when a reporter asked whether Marcus Epps had the inside...",
+      "link": "https://thehill.com/policy/sports-gaming/6000909-vic-fangio-mocks-anthony-fauci-fifth-amendment/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-07-30T23:05:51.633920+05:00",
-      "age_min": 24.9
+      "ts": "2026-07-31T03:11:10.970803+05:00",
+      "age_min": 25.9
     },
     {
       "hash": "1bd75abe2d6aae3913ceb6e5dc87018a",
@@ -580,70 +642,6 @@
       "status": "new",
       "ts": "2026-07-31T02:34:33.561431+05:00",
       "age_min": 29.3
-    },
-    {
-      "hash": "e61b77ce435349513a75299ab715a3d2",
-      "title": "Трамп подписал указ об ограничении экспорта для сохранения важнейших полезных ископаемых",
-      "original_title": "Trump Signs Order on Export Curbs to Retain Critical Minerals",
-      "rss_summary": "President Donald Trump signed a measure Thursday that gives officials authority under the Defense Production Act to implement export restrictions on some industrial waste in a bid to retain critical minerals and rare elements contained in those products.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-30/trump-signs-order-on-export-curbs-to-retain-critical-minerals",
-      "source": "Bloomberg Politics",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T02:34:02.354358+05:00",
-      "age_min": 29.5
-    },
-    {
-      "hash": "7251c33afa1df07f85f33755fb123ea8",
-      "title": "Саудовская Аравия стремится возглавить морскую коалицию по защите Красного моря",
-      "original_title": "Saudi Arabia Seeks to Lead Maritime Coalition to Protect Red Sea",
-      "rss_summary": "Saudi Arabia discussed with military representatives of 43 countries the formation of a multinational alliance charged with protecting maritime navigation, hoping to counter a blockade the Houthis imposed on the kingdom last week.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-30/saudi-arabia-seeks-to-lead-maritime-coalition-to-protect-red-sea",
-      "source": "Bloomberg Politics",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T02:34:02.352485+05:00",
-      "age_min": 20.0
-    },
-    {
-      "hash": "c205e7e3839ea057914f3abb799aba0d",
-      "title": "Биркс говорит, что «постоянный гнев» по ​​поводу реакции на COVID стал очевиден после слушаний по делу Фаучи",
-      "original_title": "Birx says ‘persistent anger’ over COVID response evident after Fauci hearing",
-      "rss_summary": "Birx says ‘persistent anger’ over COVID response evident after Fauci hearing&nbsp;&nbsp;The HillOpinion | What We Really Learned From the Fauci Hearing&nbsp;&nbsp;The New York TimesFox News legal contributor: Senate will lose Fauci contempt fight&nbsp;&nbsp;The HillOpinion | The sad takeaway from Fauci's refusal to testify&nbsp;&nbsp;The Washington PostWhat Anthony Fauci Didn’t Say&nbsp;&nbsp;The Atlantic",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaGxzTGxrZjZQNkFydTltLVVEanhtdnpGeGJPNFlEclNEYlBseUQyM3BZcnhVMzFtUGNhX1RaOXEtTFJlRWhMLXVVRUo1T0x0SWxaMGF6cXQ0aFVjRC1lX2cxektibndTVmVYNmllSEU0OGdnanR1c05RRWxXblFTWllQQdIBiAFBVV95cUxPNWhJRU0wdDZSLTl0TzluN05YZW9LakYxTy1vdE1DWU84VGY0SHlySGhwRDZMRGpuSnU2VHJqa2pQRTYwWUw2bThncU1HS0tRbElyazhkN0dxQnRmSDRGb3BueHNib21RWDJwLUpTdDVJXzI1MDA2enBLX0tGT21ZOFZPc1d0amUy?oc=5",
-      "source": "The Hill",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T02:17:04.930655+05:00",
-      "age_min": 118.1
-    },
-    {
-      "hash": "3a6d0a057699241822405913447e2234",
-      "title": "Российский ракетный удар разрушил семейный дом, 10 человек предположительно погибли",
-      "original_title": "Russian Missile Strike Destroys Family Home , 10 Feared Dead",
-      "link": "https://english.aawsat.com/world/5301616-russian-missile-strike-destroys-family-home-10-feared-dead",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T02:16:15.578844+05:00",
-      "age_min": 31.3
-    },
-    {
-      "hash": "95fc694ae4aba81c5135884a68258f91",
-      "title": "Маск планирует закупить большую политическую рекламу в 8 штатах: отчет",
-      "original_title": "Musk plans big political ad buy in 8 states: Report",
-      "rss_summary": "Elon Musk is jumping back into the political spending arena ahead of the 2026 midterms with a new field program to help elect Republicans in eight states. The Tesla and SpaceX CEO authorized his super PAC, America PAC, to spend $100 million to $120 million for a new field program focused on conservative voter turnout...",
-      "link": "https://thehill.com/policy/technology/6000542-musk-plans-big-political-ad-buy-in-8-states-report/",
-      "source": "The Hill",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T02:05:03.549874+05:00",
-      "age_min": 23.0
     }
   ]
 }
