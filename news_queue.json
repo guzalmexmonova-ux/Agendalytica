@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T08:52:04.099805+05:00",
+  "updated": "2026-07-30T09:06:02.732538+05:00",
   "items": [
     {
       "hash": "8f1d20cf21e8e0015d06b61020466cf4",
@@ -411,6 +411,18 @@
       "age_min": 75.5
     },
     {
+      "hash": "e0ad86961601654d622a68892b343583",
+      "title": "Трамп поддерживает Уорша, несмотря на сохранение ставки ФРС",
+      "original_title": "Trump stands by Warsh despite Fed rate hold",
+      "link": "https://economictimes.indiatimes.com/news/international/business/trump-stands-by-warsh-despite-feds-rate-hold/articleshow/132725540.cms",
+      "source": "GDELT/MARKETS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-30T09:02:40.535194+05:00",
+      "age_min": 32.7
+    },
+    {
       "hash": "f9091c6a83f3a34831594605947ab1a0",
       "title": "Трамп заявил, что решение SCOTUS по тарифам и гражданству по праву рождения обходится стране в «триллионы и триллионы долларов»",
       "original_title": "Trump says SCOTUS ruling on tariffs and birthright citizenship costing country 'trillions and trillions of dollars'",
@@ -629,19 +641,6 @@
       "status": "new",
       "ts": "2026-07-30T08:17:25.659536+05:00",
       "age_min": 7.6
-    },
-    {
-      "hash": "0d7db743ad19599b8491850f2a6bf695",
-      "title": "Израиль нанес удар по мечети в городе Газа",
-      "original_title": "Israel Strikes Mosque in Gaza City",
-      "rss_summary": "The Israeli military accused Hamas of using the mosque to store weapons. The Hamas-run government’s media office said Israel’s claims aimed to justify its attacks on mosques.",
-      "link": "https://www.nytimes.com/2026/07/29/world/israel-strikes-mosque-gaza-city.html",
-      "source": "NYT World",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-30T07:03:21.741885+05:00",
-      "age_min": 9.2
     }
   ]
 }
