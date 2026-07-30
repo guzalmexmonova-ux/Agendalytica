@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T13:19:42.213716+05:00",
+  "updated": "2026-07-30T13:37:36.176617+05:00",
   "items": [
     {
       "hash": "4eb2b891e2a252720c29263cc59b4ba6",
@@ -52,6 +52,19 @@
       "status": "new",
       "ts": "2026-07-30T12:35:40.196724+05:00",
       "age_min": 10.8
+    },
+    {
+      "hash": "0f08181a836391abc28f43e3d6881c5d",
+      "title": "США нанесли удары по Ирану после того, как Трамп пообещал нанести «избиение»",
+      "original_title": "US launches strikes on Iran after Trump vows to deliver ‘beating’",
+      "rss_summary": "Attack comes day after Tehran launched ballistic missiles at American forces",
+      "link": "https://www.ft.com/content/42e83b67-cfb8-46af-b50e-3ac77748ce38?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-30T13:34:10.507237+05:00",
+      "age_min": 10.0
     },
     {
       "hash": "3a79b1efdaa9523f09529ea443dcfa95",
@@ -257,19 +270,6 @@
       "age_min": 90.8
     },
     {
-      "hash": "b89c40caa87d4dd4842a7caf6e3939d3",
-      "title": "FirstFT: Meta и Microsoft демонстрируют бурные результаты в сфере технологий",
-      "original_title": "FirstFT: Meta and Microsoft kick off turbulent tech results",
-      "rss_summary": "Also in today’s newsletter: EDF’s nuclear venture and UK’s mobile network woes",
-      "link": "https://www.ft.com/content/5035f634-7d47-483a-b8e9-722ded88a672?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-30T09:32:39.265940+05:00",
-      "age_min": 2.5
-    },
-    {
       "hash": "8e7033135d95d3a8b519e82ea0a8ba5b",
       "title": "Польша расследует разбившийся объект возле границы с Украиной",
       "original_title": "Poland Investigates Crashed Object Near Border With Ukraine",
@@ -384,19 +384,6 @@
       "status": "new",
       "ts": "2026-07-30T10:00:51.855970+05:00",
       "age_min": 90.9
-    },
-    {
-      "hash": "d4644ad743a6ebcd2068e81b7be4a1a2",
-      "title": "Цены на цветные металлы растут, поскольку пауза ставок ФРС ослабляет опасения по поводу спроса",
-      "original_title": "Base Metals Advance as Fed Rate Pause Eases Demand Concerns",
-      "rss_summary": "Copper, aluminum and zinc rose after the US Federal Reserve left interest rates unchanged, easing concerns over industrial demand.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-30/base-metals-advance-as-fed-rate-pause-eases-demand-concerns",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-30T09:32:39.691817+05:00",
-      "age_min": 7.3
     },
     {
       "hash": "0ed95b92302c3f72d97c15732052c32b",
@@ -642,6 +629,19 @@
       "status": "new",
       "ts": "2026-07-30T11:05:22.396328+05:00",
       "age_min": 13.2
+    },
+    {
+      "hash": "09ad6de036a1d81a043e8ca7352e3ec9",
+      "title": "Почему банки не заметили крупные обналичивания чеков сотрудниками Сары Дутерте?",
+      "original_title": "Why didn’t banks flag large check encashments by Sara Duterte staff?",
+      "rss_summary": "Anti-Money Laundering Council guidelines spell out what transactions are considered suspicious",
+      "link": "https://www.rappler.com/philippines/banks-flag-large-check-encashments-sara-duterte-staff/",
+      "source": "Rappler",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-30T13:35:01.523641+05:00",
+      "age_min": 4.9
     }
   ]
 }
