@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T14:51:03.358876+05:00",
+  "updated": "2026-07-31T15:06:00.478312+05:00",
   "items": [
     {
       "hash": "4069ff3e7d3d656225074925bf6a44a9",
@@ -13,6 +13,18 @@
       "status": "new",
       "ts": "2026-07-31T14:02:33.027120+05:00",
       "age_min": 44.9
+    },
+    {
+      "hash": "5b541c74ea21046026060be7d549fd3e",
+      "title": "Другие голоса : Соглашение США и Саудовской Аравии по ядерной программе еще больше подрывает гарантии",
+      "original_title": "Other Voices : US - Saudi nuclear agreement further erodes safeguards",
+      "link": "https://www.post-journal.com/opinion/in-our-opinion/2026/07/other-voices-us-saudi-nuclear-agreement-further-erodes-safeguards/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T15:00:48.927414+05:00",
+      "age_min": 75.8
     },
     {
       "hash": "16124202aa06e37678c4840f8c85b86d",
@@ -105,19 +117,6 @@
       "age_min": 5.0
     },
     {
-      "hash": "5f2c99cd6779d0b675ecaa63b41f0957",
-      "title": "Engie повысила прогноз прибыли на весь год на фоне волатильности рынка",
-      "original_title": "Engie Raises Full-Year Profit Outlook Amid Market Volatility",
-      "rss_summary": "French utility Engie SA raised its full-year profit forecast as it benefits from energy market volatility linked to the war in the Middle East and cost cuts, which helped mitigate a profit decline in the first six months of the year.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-31/engie-raises-full-year-profit-outlook-amid-market-volatility",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T11:04:33.133005+05:00",
-      "age_min": 19.6
-    },
-    {
       "hash": "ef3f531c594c549e12426b75f7d88e87",
       "title": "Украина заявила, что атаковала Волгоградский НПЗ Лукойла",
       "original_title": "Ukraine Says It Attacked Lukoil’s Volgograd Oil Refinery",
@@ -155,19 +154,6 @@
       "age_min": 105.7
     },
     {
-      "hash": "ddb69eb602bbad832ec1af42c9b56dde",
-      "title": "Что (вероятно) задумал Уорш",
-      "original_title": "What Warsh is (probably) up to",
-      "rss_summary": "The pro-volatility Fed chair",
-      "link": "https://www.ft.com/content/b1267def-3590-4482-9833-d09f0b1230b8?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-07-31T11:04:32.850884+05:00",
-      "age_min": 34.4
-    },
-    {
       "hash": "9f7c1474e860d05358cb407ba957ff70",
       "title": "Что нужно знать о конфликте в Мали и самом терроризируемом регионе мира",
       "original_title": "What to know about the conflict in Mali and the world’s most terrorized region",
@@ -179,6 +165,43 @@
       "status": "new",
       "ts": "2026-07-31T12:03:56.389566+05:00",
       "age_min": 120.9
+    },
+    {
+      "hash": "8e546f8f27dc663fdf70b1097d223736",
+      "title": "Первичные выборы в Сенате штата Мичиган со Стивенсом и Эль-Сайедом уделяют особое внимание чернокожим избирателям",
+      "original_title": "Michigan Senate Primary With Stevens, El-Sayed Puts Focus on Black Voters",
+      "rss_summary": "Tuesday’s primary will test whether the party’s left wing&nbsp;can win outside of safe Democratic districts.",
+      "link": "https://www.bloomberg.com/news/features/2026-07-31/michigan-senate-primary-with-stevens-el-sayed-puts-focus-on-black-voters",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T15:03:28.513627+05:00",
+      "age_min": 3.4
+    },
+    {
+      "hash": "f68ef7a8e0753d96c8ef52c449af9767",
+      "title": "Война на Украине: Польша: Разбившийся снаряд оказался российской ракетой",
+      "original_title": "Krieg in der Ukraine : Polen : Abgestürztes Geschoss war russische Rakete",
+      "link": "https://www.news.de/politik/859868542/polen-abgestuerztes-geschoss-war-russische-rakete-krieg-in-der-ukraine-news-der-dpa-aktuell-zu-konflikten-und-krieg/1/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T15:00:48.919945+05:00",
+      "age_min": 60.8
+    },
+    {
+      "hash": "2f45fc5f96aafe43754f3b9dfa46a760",
+      "title": "Російська ракета над Польщею - Варшава розкрила деталі про небезпечну атаку РФ Світ",
+      "original_title": "Російська ракета над Польщею - Варшава розкрила деталі про небезпечну атаку РФ Світ",
+      "link": "https://tsn.ua/svit/ponad-20-raket-letily-u-bik-polshchi-u-varshavi-rozpovily-novi-shokuvalni-podrobytsi-pro-ataku-3139469.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T15:00:48.912753+05:00",
+      "age_min": 75.8
     },
     {
       "hash": "02885b7b656d81d6592af274e37a1694",
@@ -427,6 +450,19 @@
       "age_min": 29.3
     },
     {
+      "hash": "cb288cd8a11bad78aaa1a4605a9e1fad",
+      "title": "Банк Японии сохраняет ставки с «ястребиным» прогнозом",
+      "original_title": "Bank of Japan holds rates with hawkish guidance",
+      "rss_summary": "New forecasts show the central bank to be more confident about activity and inflation",
+      "link": "https://www.ft.com/content/cb149846-6032-4883-8695-685e4e8dd886",
+      "source": "FT",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-07-31T15:02:36.488325+05:00",
+      "age_min": 34.1
+    },
+    {
       "hash": "5cad4dca9f2dfa307d186d2a2bb0f942",
       "title": "Перезапуск руководства здравоохранения администрации Трампа не дает результатов",
       "original_title": "Trump administration's health leadership reboot sputters",
@@ -582,17 +618,17 @@
       "age_min": 11.6
     },
     {
-      "hash": "574cc92c745889482054016e27e9e2ec",
-      "title": "Июльская инфляция в Кении выросла до 6,5%, поскольку топливо оказывает влияние на индекс",
-      "original_title": "Kenya’s July Inflation Ticks Up to 6.5% as Fuels Weigh on Index",
-      "rss_summary": "Kenya’s annual inflation rate climbed slightly up in July, exceeding the midpoint of the central bank’s target range for a third month, as energy costs fueled price growth.",
-      "link": "https://www.bloomberg.com/news/articles/2026-07-31/kenya-s-july-inflation-ticks-up-to-6-5-as-fuels-weigh-on-index",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
+      "hash": "8377d2c08c49d25d7a425d0cafb1259b",
+      "title": "Новости о войне в Иране в США: Иран нанес удар по двум танкерам и обвиняет США в том, что они «вводят в заблуждение» суда",
+      "original_title": "US Iran War Live Updates: Iran hits two tankers, blame US for 'misleading' vessels",
+      "rss_summary": "US Iran War Live Updates: Iran hits two tankers, blame US for 'misleading' vessels&nbsp;&nbsp;The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNUGdTTHBaNkY2czg3ZjV6NGlvRERGa3lrVEJTeUlMbGc2NkVDVXdldmRlUnhVOXRGUlItSFlwTE91ekNGbEU3X1FzQTB2VTVZSnhOdVZCRVJJdE5Ka3pOTVZKOHBIWVdIb1pjc2VJS1loZU54QjYyS0FkSENjclAzV3V3YW5aS2pvUl9pd1FKSFlkWGlDajdWSDFYOFdYLXQ5bTlOQVZySjZEQkh6bm84YkVtZHVSQmk1SFFxZXFTaEJsanVyM1ZrV19aSVZYczE1VHNwaDB1Qkt0SnhWR0Z6V3F3eG5DYTlZSHRtaGJSRHk0WjRrRTlBczh6M0dGVlRK?oc=5",
+      "source": "The Times of India",
+      "score": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-07-31T11:04:33.134514+05:00",
-      "age_min": 35.1
+      "ts": "2026-07-31T15:02:47.644806+05:00",
+      "age_min": 32.1
     },
     {
       "hash": "8e36936b7d4236912840a2c1c97bda1f",
@@ -606,45 +642,6 @@
       "status": "new",
       "ts": "2026-07-31T14:02:15.686322+05:00",
       "age_min": 17.5
-    },
-    {
-      "hash": "038e14e634a82f9563cd252dfe1a5834",
-      "title": "Новости Австралии в прямом эфире: член «Реформаторов» говорит Икаку, что не может припомнить, чтобы Тейлор делал пожертвования; Лидер оппозиции Нового Южного Уэльса поддержал министра, связанного с той же группировкой",
-      "original_title": "Australia news live: Reformers member tells Icac he can’t recall Taylor making donation; NSW opposition leader backs minister linked to same group",
-      "rss_summary": "Former premier’s brother to appear before inquiry. Follow liveGet our breaking news email, free app or daily news podcasteSafety commissioner says court action against Telegram ‘very significant’Julie Inman Grant, the eSafety commissioner, spoke to the ABC this morning after yesterday’s court action against Telegram over its alleged failure to detect and remove pro-terror material from its platform.The scars are still very raw around Bondi. … These are platforms – and they may be doing more cont",
-      "link": "https://www.theguardian.com/australia-news/live/2026/jul/31/australia-news-live-working-with-children-check-garma-festival-anthony-albanese-labor-angus-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
-      "source": "Guardian",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-31T11:05:05.606393+05:00",
-      "age_min": 6.8
-    },
-    {
-      "hash": "9d0d98c8d4ecadc6cc86ba60bd7d9763",
-      "title": "ХАМАС согласен разоружиться в соответствии с планом Трампа, но из Израиля пока нет вестей",
-      "original_title": "Hamas agrees to disarm under Trump plan, but no word yet from Israel",
-      "rss_summary": "Could this be the deal that finally disarms Hamas? US president Donald Trump is confident that it is, announcing the complete disarmament of all armed groups in the Gaza strip. Hamas officials meanwhile told the AFP that they'd reached an agreement on weapons, as well as on the withdrawal of Israeli troops. But announcing it is the easy part, and there's no official word yet from Israel.",
-      "link": "https://www.france24.com/en/hamas-agrees-to-disarm-under-trump-plan-but-no-word-yet-from-israel",
-      "source": "France24",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-31T14:35:40.938587+05:00",
-      "age_min": 7.3
-    },
-    {
-      "hash": "e6529a1dfa5d1bb234267560c9149187",
-      "title": "DeepSeek выпускает бета-версию моделей V4 на фоне обострения ценовой войны в области искусственного интеллекта",
-      "original_title": "DeepSeek releases beta version of V4 models as AI price war heats up",
-      "rss_summary": "",
-      "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/deepseek-releases-beta-version-of-v4-models-as-ai-price-war-heats-up",
-      "source": "Nikkei Asia",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-07-31T14:17:25.374109+05:00",
-      "age_min": null
     }
   ]
 }
