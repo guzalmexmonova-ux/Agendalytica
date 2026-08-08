@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T23:51:29.359584+05:00",
+  "updated": "2026-08-09T00:06:20.834577+05:00",
   "items": [
     {
       "hash": "c2967fca9a702c6fd12d27634066e797",
@@ -104,19 +104,6 @@
       "status": "new",
       "ts": "2026-08-08T21:47:58.042322+05:00",
       "age_min": 69.0
-    },
-    {
-      "hash": "3af9f73df372563176d7a10bd7860445",
-      "title": "Джо Байден – AP News",
-      "original_title": "Joe Biden - AP News",
-      "rss_summary": "Joe Biden&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBwUThXYXJHUzBGd0cwbFV6UkZPNWVkOHBwRzRTOFdsTkRBNU5ZbEE2TnE2WUZHX3Rid1I2RjdBNnlDN1VTZmc4?oc=5",
-      "source": "AP",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-08T20:04:42.897829+05:00",
-      "age_min": 69.2
     },
     {
       "hash": "dc4e8ebc805c7634b6960a2031bd90b8",
@@ -524,6 +511,18 @@
       "age_min": 9.5
     },
     {
+      "hash": "3398f1ade1dd6c93b3f726148755735e",
+      "title": "Рост ВВП в этом году стабилизировался на двузначном уровне, а во втором квартале он, по оценкам, увеличился на 12,92%, что лучше ожиданий | Финансовый фокус | Промышленная экономика",
+      "original_title": "今年GDP成長站穩雙位數 Q2估增12 . 92 % 優於預期 | 財經焦點 | 產經",
+      "link": "https://udn.com/news/story/7238/9679555",
+      "source": "GDELT/MARKETS",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-09T00:02:32.792639+05:00",
+      "age_min": 32.5
+    },
+    {
       "hash": "e9cf21ed360716796f440233aa939a81",
       "title": "Нацбанк покращив прогноз зростання ВВП України в III кв .- 2026 до 2 , 1 %, в IV кв .- 2026 – до 4 , 2 %",
       "original_title": "Нацбанк покращив прогноз зростання ВВП України в III кв .- 2026 до 2 , 1 %, в IV кв .- 2026 – до 4 , 2 %",
@@ -559,6 +558,58 @@
       "status": "new",
       "ts": "2026-08-08T23:48:23.349313+05:00",
       "age_min": 6.0
+    },
+    {
+      "hash": "a6d3d5cbe6726417ba65525c6abad751",
+      "title": "Лейбористская партия ведет страну в неправильном направлении? Так думает бывший албанский советник",
+      "original_title": "Is Labor taking the country in the wrong direction? This former Albanese adviser thinks so",
+      "rss_summary": "The growing schism is, at its core, over whether social democracy belongs to the worker or the social worker.",
+      "link": "https://www.smh.com.au/politics/federal/is-labor-taking-the-country-in-the-wrong-direction-this-former-albanese-adviser-thinks-so-20260807-p60meh.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "SMH Politics",
+      "score": 4,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-09T00:04:03.137922+05:00",
+      "age_min": 4.1
+    },
+    {
+      "hash": "255dd2ba54aea211acbe980d957f57a1",
+      "title": "Украинский бренд угодил в скандал из-за сотрудничества с фанатом Гуфа",
+      "original_title": "Украинский бренд угодил в скандал из-за сотрудничества с фанатом Гуфа",
+      "rss_summary": "",
+      "link": "https://lenta.ru/news/2026/08/08/gunia-gudz/",
+      "source": "Lenta.ru",
+      "score": 6,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-09T00:02:35.692182+05:00",
+      "age_min": 5.9
+    },
+    {
+      "hash": "a8d169838825639e99b2bd209a6ca4bb",
+      "title": "DPA: в ФРГ прошла демонстрация против правительства Мерца",
+      "original_title": "DPA: в ФРГ прошла демонстрация против правительства Мерца",
+      "rss_summary": "В городе Плауэн к акции присоединились около 10 тыс. человек, уточнило агентство",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27995329",
+      "source": "TASS",
+      "score": 4,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-09T00:02:34.097537+05:00",
+      "age_min": 16.9
+    },
+    {
+      "hash": "cb28c9ace9c3d12ec0aece0be8efa668",
+      "title": "Bloomberg: США добиваются выхода нефтяного магната из проектов в Венесуэле",
+      "original_title": "Bloomberg: США добиваются выхода нефтяного магната из проектов в Венесуэле",
+      "rss_summary": "Минфин Соединенных Штатов ранее заморозил активы офшорной компании Сарджента, участвующей в венесуэльских нефтедобывающих проектах",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/27995331",
+      "source": "TASS",
+      "score": 4,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-09T00:02:34.096694+05:00",
+      "age_min": 8.2
     },
     {
       "hash": "1e30cb370b7a3b6157b3b56106ee5cbd",
