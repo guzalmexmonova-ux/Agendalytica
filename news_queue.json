@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T16:20:55.439204+05:00",
+  "updated": "2026-08-13T16:36:38.463428+05:00",
   "items": [
     {
       "hash": "f9edb09c1a0d7af4a2ea4c2f8ec9587e",
@@ -28,19 +28,6 @@
       "age_min": 57.7
     },
     {
-      "hash": "8c9669239211255780cb217752fa9827",
-      "title": "Румынская Nuclearelectrica начинает остановку единственного работающего ядерного реактора",
-      "original_title": "Romanian Nuclearelectrica starts shutting down sole working nuclear reactor",
-      "rss_summary": "Romanian Nuclearelectrica starts shutting down sole working nuclear reactor&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGhXbFM5QXFmajRHRDJaUnRpRHhRSjVoWlpKQWdPangwX2g4cTB4SzNsN2lpOTZxN1Q3ejZQWFpzekxwcTdGWVZoTWFuOGFWam1oVmNUX2RzVHU1MjEtQzh2ZHRoam9JVi1rT01kN2dQcnJUbzRLNHNqQkVXR0VERk1VdW5QX0JKWEw5dEJoM2E4bjhUUGZsckdnbHdoVXROMm5yTkRWZEVvaGxsR0xRQzFwVXNjLVBfMlNGMkZ5V1JQV2kwM2c?oc=5",
-      "source": "Reuters",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-13T12:34:23.761091+05:00",
-      "age_min": 9.3
-    },
-    {
       "hash": "ac6865854e359df94146e66b7320c69d",
       "title": "Иран и США выдвигают конкурирующие претензии на контроль над Ормузским проливом",
       "original_title": "Iran, US make competing claims over control of Strait of Hormuz",
@@ -65,6 +52,19 @@
       "status": "new",
       "ts": "2026-08-13T13:03:18.991918+05:00",
       "age_min": 51.6
+    },
+    {
+      "hash": "1cd2b031c3fc1be2c013bed2ccd782e0",
+      "title": "Министр иностранных дел Австралии заявил, что крайне правая партия ослабляет нацию",
+      "original_title": "Australia Foreign Minister To Say Far Right Party Weakens Nation",
+      "rss_summary": "Australia’s foreign minister will attack the policies of the far-right One Nation party, arguing that its call for a monoculture would damage social cohesion at home and relations with friends and allies abroad.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-13/australia-foreign-minister-to-say-far-right-party-weakens-nation",
+      "source": "Bloomberg Politics",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-13T16:34:24.288389+05:00",
+      "age_min": 34.4
     },
     {
       "hash": "f07863e64c94546c719a73464f0eed49",
@@ -298,6 +298,18 @@
       "age_min": 19.9
     },
     {
+      "hash": "ad0a719147203868e90f48c45b887773",
+      "title": "Тарифная угроза США на российскую нефть : законопроект вызывает беспокойство у Индии , но переговоры обнадеживают",
+      "original_title": "US tariff threat on Russian oil : Bill a concern for India , but  talks have been reassuring",
+      "link": "https://timesofindia.indiatimes.com/business/india-business/us-tariff-threat-on-russian-oil-bill-a-concern-for-india-but-talks-have-been-reassuring/articleshow/133207983.cms",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-13T16:32:09.151776+05:00",
+      "age_min": 47.2
+    },
+    {
       "hash": "aa3d051baff96e9a59edbc8e44affa91",
       "title": "Мэгги Хаберман говорит, что 70% внимания Трампа уделяется памятникам, реконструкции и наследию",
       "original_title": "Maggie Haberman says 70% of Trump's attention goes to monuments, renovations and legacy",
@@ -399,6 +411,32 @@
       "status": "new",
       "ts": "2026-08-13T13:03:40.734888+05:00",
       "age_min": 46.0
+    },
+    {
+      "hash": "5ea096772e0d00772bdabe13287f5317",
+      "title": "Что будет означать усиление Северной Кореи для войны на Украине?",
+      "original_title": "What would North Korean surge mean for Ukraine war?",
+      "rss_summary": "Ukraine is claiming that North Korea is preparing to send tens of thousands more troops to Russia, where they'll gain valuable battlefield experience. President Zelenskyy urged South Korea to work closer with Kyiv.",
+      "link": "https://www.dw.com/en/what-would-north-korean-surge-mean-for-ukraine-war/a-78350896?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-13T16:34:26.441741+05:00",
+      "age_min": 40.4
+    },
+    {
+      "hash": "720a8437246f43070e20bad6ee4fced0",
+      "title": "США обстреляли корабль, прорвавший блокаду Ирана",
+      "original_title": "U.S. Fires on Ship Breaking Its Blockade of Iran",
+      "rss_summary": "U.S. Fires on Ship Breaking Its Blockade of Iran&nbsp;&nbsp;WSJ",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbDhFeHNmTTdEYjl4RHZoSEVKRlV5X0dxVnBQWWgxX2NkUWlSaUJvWHFnbEt4bkNVV2lULVJPcnRvQUcxRWVWbmZreVNFa0FsWUdIUEloT29sWW9wb1BtU2Y4R2NEdnEtVFFidFoxOVJpTm43cERCYVoyVXZpTHlUX3Y5bEVBZTU1VVdKS1hVYkFpbnJlUG45QTBB?oc=5",
+      "source": "WSJ",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-13T16:34:01.199682+05:00",
+      "age_min": 110.1
     },
     {
       "hash": "0e3c15da716198e1c61406c64cb3ecbf",
@@ -505,6 +543,19 @@
       "age_min": 10.9
     },
     {
+      "hash": "f56645047879e8b11824d648e3e9f063",
+      "title": "Члены кабинета Трампа остались в самолете-ловушке после тихого ухода президента",
+      "original_title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
+      "rss_summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-13T16:33:54.100815+05:00",
+      "age_min": 113.6
+    },
+    {
       "hash": "e62ac6750cc82ef5eec2f1770d7b8e5f",
       "title": "Переговоров с Ираном нет — Трамп должен прекратить попытки",
       "original_title": "There is no negotiating with Iran — Trump must stop trying",
@@ -594,58 +645,6 @@
       "status": "new",
       "ts": "2026-08-13T15:18:23.536018+05:00",
       "age_min": 18.4
-    },
-    {
-      "hash": "f9a8f56046dd84bdbe8dd68050c2c0fd",
-      "title": "Маск и Цукерберг возвращаются в гонку ИИ с импульсом новой модели",
-      "original_title": "Musk and Zuckerberg claw back into AI race with new model momentum",
-      "rss_summary": "Elon Musk and Mark Zuckerberg have muscled their way back into AI's elite ranks, defying early obituaries to close the gap on a new generation of Silicon Valley startups.Why it matters: Recent gains by tech giants SpaceX and Meta — long stuck in AI's second tier — are putting new pressure on a hierarchy dominated by OpenAI and Anthropic.State of play: Both companies released models this week featuring a combination of performance and price that would have been hard to imagine from either lab a y",
-      "link": "https://www.axios.com/2026/08/13/grok-elon-musk-ai-zuckerberg-and-meta",
-      "source": "Axios",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-13T15:18:00.489918+05:00",
-      "age_min": 17.3
-    },
-    {
-      "hash": "a190acf817f2671baf18e6a496181010",
-      "title": "FirstFT: Антропные инвесторы делают ставку на оценку в $2 трлн.",
-      "original_title": "FirstFT: Anthropic investors bet on $2tn valuation",
-      "rss_summary": "Also in today’s newsletter: Trump’s press officer steps down, and lab-grown diamonds win over women",
-      "link": "https://www.ft.com/content/ec651ee9-0f3c-411a-9cde-d326acf89cee?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-13T15:17:26.109684+05:00",
-      "age_min": 2.5
-    },
-    {
-      "hash": "f83d7a9803b2164e84569d3c3b896c37",
-      "title": "Социологи снова промахнулись в Висконсине. Вот почему.",
-      "original_title": "Pollsters missed again in Wisconsin. Here's why.",
-      "rss_summary": "Pollsters appeared to blow another high-stakes Midwest election Tuesday, as center-left Democrat David Crowley stunned socialist Francesca Hong in Wisconsin's primary for governor.But on Wednesday, the reasons for the miss seemed clear: Surveys a week before the primary captured only a hint of a rapidly changing roller coaster of a race in which Crowley was gaining fast, and Hong was playing defense.Driving the news: Two polls had shown Hong up by about 20 points over Crowley. But Crowley wound ",
-      "link": "https://www.axios.com/2026/08/13/pollsters-missed-again-in-wisconsin-heres-why",
-      "source": "Axios",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-13T15:03:12.399902+05:00",
-      "age_min": 4.7
-    },
-    {
-      "hash": "7766a17b4479b929fe6ea70e98199b7c",
-      "title": "Ежедневные новости 13.08.2026",
-      "original_title": "Daily News 13 / 08 / 2026",
-      "rss_summary": "European Commission Daily news Brussels, 13 Aug 2026 EU steps up humanitarian aid for Myanmar by €10.5 million as conflict claims more than 100,000 lives \nThe European Union is providing an additional €10.5 millio...",
-      "link": "https://ec.europa.eu/commission/presscorner/detail/en/mex_26_1734",
-      "source": "EU Commission",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-13T14:49:26.632539+05:00",
-      "age_min": 41.6
     }
   ]
 }
