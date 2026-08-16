@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T07:21:14.797624+05:00",
+  "updated": "2026-08-16T07:37:14.909970+05:00",
   "items": [
     {
       "hash": "a02af555928482b1679bfe1792b95432",
@@ -90,6 +90,18 @@
       "status": "new",
       "ts": "2026-08-16T05:19:51.928838+05:00",
       "age_min": 14.8
+    },
+    {
+      "hash": "d995e9ba2a4972cd64f62ccab0d01ec2",
+      "title": "Сводка новостей по Америке : Доллар падает , поскольку данные США снижают шансы на повышение ставок ФРС , Уолл - Стрит замедляется , Золото растет , Нефть растет",
+      "original_title": "America Roundup : Dollar falls as US data dents chances of Fed rate hike , Wall Street end slower , Gold advances , Oil Climbs",
+      "link": "http://www.econotimes.com/Americas-Roundup-Dollar-falls-as-US-data-dents-chances-of-Fed-rate-hike-Wall-Street-end-slowerGold-advancesOil-Climbs-1749563",
+      "source": "GDELT/MARKETS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-16T07:34:15.492886+05:00",
+      "age_min": 64.3
     },
     {
       "hash": "f2835fe5dd6f41467b9499bcba81a7c1",
@@ -231,18 +243,6 @@
       "age_min": 63.3
     },
     {
-      "hash": "3e8ae9ec0d7b3b19f344d35eeb57c865",
-      "title": "Марк Кенни | Авантюризм Трампа разоблачает и Австралию | Канберра Таймс",
-      "original_title": "Mark Kenny | Trump adventurism exposes Australia , too | The Canberra Times",
-      "link": "https://www.canberratimes.com.au/story/9330880/mark-kenny-trumps-adventurism-exposes-australia-too/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-16T03:30:48.314761+05:00",
-      "age_min": 30.8
-    },
-    {
       "hash": "e4d86698560db2d7c8bf3aee368f5030",
       "title": "Новости в прямом эфире: Хэнсон говорит, что австралийцы должны иметь возможность использовать супер для снижения стоимости жизни",
       "original_title": "News live: Hanson says Australians should be able to use super for cost-of-living pressures",
@@ -332,17 +332,17 @@
       "age_min": 49.9
     },
     {
-      "hash": "f5072772878cbaf1aaba3f5e23949968",
-      "title": "Сотням мигрантов запретили въезд в Испанию",
-      "original_title": "Hundreds of migrants blocked from crossing into Spain",
-      "rss_summary": "Hundreds of migrants have been apprehended at the border between Morocco and Spain, just weeks after a mass-crossing attempt left at least 80 people dead.",
-      "link": "https://www.smh.com.au/world/hundreds-of-migrants-blocked-from-crossing-into-spain-20260816-p60op3.html?ref=rss&utm_medium=rss&utm_source=rss_world",
-      "source": "Sydney Morning Herald",
-      "score": 7,
-      "weight": 3,
+      "hash": "a43c50b6d60ccc10779de7af855e37ac",
+      "title": "Филиппины, энергетические исследования Китая",
+      "original_title": "Philippines, China energy exploration",
+      "rss_summary": "Philippines, China energy exploration&nbsp;&nbsp;Daily Express Malaysia",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMGJmSjNvZlVESEFiYXk4QTNYa2VXWjhKVjdBWDEtZWtsMlRId3JoUHBRY2ktYmtxTThLaHE3aTEzaFBNNnM3ZldLa1cyYy05eExBb0JLN3dQUmpIMFJBQ1dEVHVKay1sMzBCUEQ4d1V5MjYwMEtqc2hwUzk2VTdYQkxxdzdObkNuVVE?oc=5",
+      "source": "Daily Express Malaysia",
+      "score": 5,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-08-16T03:33:33.140900+05:00",
-      "age_min": 3.5
+      "ts": "2026-08-16T07:35:13.518968+05:00",
+      "age_min": 12.3
     },
     {
       "hash": "997962558daa788ef7106f53c7b339e0",
@@ -356,30 +356,6 @@
       "status": "new",
       "ts": "2026-08-16T07:04:41.104231+05:00",
       "age_min": 40.8
-    },
-    {
-      "hash": "31a2d4b8169eb7eb77cad7d266163321",
-      "title": "Испытание китайской ракеты углубляет раскол в Тихоокеанском регионе из-за растущей милитаризации",
-      "original_title": "China missile test deepens Pacific divide over growing militarization",
-      "link": "https://japantoday.com/category/features/opinions/china-missile-test-deepens-pacific-divide-over-growing-militarisation1",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-16T03:30:48.317767+05:00",
-      "age_min": 60.8
-    },
-    {
-      "hash": "6d4e10ac4629a8426e20b756e8a306cb",
-      "title": "Иран – текущая война: Трамп хочет сделать Ормузский пролив территорией США",
-      "original_title": "Iran - Krieg aktuell : Trump will Straße von Hormus zu US - Territorium machen",
-      "link": "https://www.hna.de/politik/machen-iran-krieg-aktuell-trump-will-strasse-von-hormus-zu-us-territorium-zr-94444797.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-16T03:30:48.294103+05:00",
-      "age_min": 60.8
     },
     {
       "hash": "719c2e0fba46bbe568227971f504ec1f",
@@ -547,18 +523,6 @@
       "age_min": 17.2
     },
     {
-      "hash": "83620a83f5040ebb114f40751a1b4d5a",
-      "title": "Бюджетна діра росії : запаси рублів зменшуються , а паливна криза повертається ; Самара і Саваслєйка під ударами України – хроніка 1634 - го дня Великої війни",
-      "original_title": "Бюджетна діра росії : запаси рублів зменшуються , а паливна криза повертається ; Самара і Саваслєйка під ударами України – хроніка 1634 - го дня Великої війни",
-      "link": "https://www.5.ua/suspilstvo/biudzhetna-dira-rosii-zapasy-rubliv-zmenshuiutsia-a-palyvna-kryza-povertaietsia-samara-i-savaslieika-pid-udaramy-ukrainy-khronika-1634-ho-dnia-velykoi-viiny-381656.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-16T03:30:48.283630+05:00",
-      "age_min": 30.8
-    },
-    {
       "hash": "c18039ae14f8a35a833342a12bb02eb5",
       "title": "Блокада Ормуза, неопределенность со стороны ФРС подпитывают волатильность сырьевых товаров",
       "original_title": "Hormuz Blockade, Fed Uncertainty Fuel Commodity Volatility",
@@ -611,6 +575,19 @@
       "age_min": 4.7
     },
     {
+      "hash": "e3f249ab8f39767033940d605ce4ab49",
+      "title": "Офицер Гоча объяснил, почему украинские БПЛА атакуют группами",
+      "original_title": "Офицер Гоча объяснил, почему украинские БПЛА атакуют группами",
+      "rss_summary": "Первый дрон ведет цель и атакует ее, летящий за ним фиксирует попадание, и так друг за другом, сообщил сотрудник специального полка полиции МВД по ЛНР",
+      "link": "https://tass.ru/armiya-i-opk/28016127",
+      "source": "TASS",
+      "score": 6,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-16T07:34:16.372114+05:00",
+      "age_min": 14.2
+    },
+    {
       "hash": "3e3e826b82d9bd6905a65cb86c67d9b5",
       "title": "Том Харрис - The Telegraph",
       "original_title": "Tom Harris - The Telegraph",
@@ -635,6 +612,19 @@
       "status": "new",
       "ts": "2026-08-16T07:18:57.785854+05:00",
       "age_min": 4.6
+    },
+    {
+      "hash": "236ad7ceaa34dc45c7ff09d7b4a10367",
+      "title": "На Украине заявили о штурме российскими войсками ключевых высот под Славянском",
+      "original_title": "На Украине заявили о штурме российскими войсками ключевых высот под Славянском",
+      "rss_summary": "",
+      "link": "https://lenta.ru/news/2026/08/16/na-ukraine-zayavili-o-shturme-rossiyskimi-voyskami-klyuchevyh-vysot-pod-slavyanskom/",
+      "source": "Lenta.ru",
+      "score": 4,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-16T07:34:17.495706+05:00",
+      "age_min": 11.8
     }
   ]
 }
