@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:21:21.863322+05:00",
+  "updated": "2026-08-16T19:37:50.512476+05:00",
   "items": [
     {
       "hash": "ee5a5d9cf77faca0ead38bda32664e3e",
@@ -181,16 +181,17 @@
       "age_min": 0.9
     },
     {
-      "hash": "311e503204a9d4e53ea2a71179f388fc",
-      "title": "Президент Южной Кореи предлагает провести переговоры с Северной Кореей, чтобы формально положить конец войне",
-      "original_title": "South Korean president proposes talks with North to formally end war",
-      "link": "https://dunyanews.tv/en/World/968157-south-korean-president-proposes-talks-with-north-to-formally-end-war",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
+      "hash": "87ca5b2f48e50f811030d9e4a91bbe1f",
+      "title": "Лидер консерваторов Пьер Пуальевр провел пресс-конференцию",
+      "original_title": "Conservative Leader Pierre Poilievre holds news conference",
+      "rss_summary": "Poilievre is speaking to reporters in Vancouver as U.S. President Donald Trump's tariff deadline looms.",
+      "link": "https://www.cbc.ca/player/play/9.7309020?cmp=rss",
+      "source": "CBC Politics",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-08-16T15:30:49.823728+05:00",
-      "age_min": 105.8
+      "ts": "2026-08-16T19:35:06.662205+05:00",
+      "age_min": 5.1
     },
     {
       "hash": "40872c714ab7acf5d25b88b87dde5700",
@@ -229,6 +230,19 @@
       "status": "new",
       "ts": "2026-08-16T18:33:10.828810+05:00",
       "age_min": 15.4
+    },
+    {
+      "hash": "f8c0aee10e804064dad8d36f44a492a6",
+      "title": "Бланш защищает прокурора округа Колумбия, который разозлил Трампа",
+      "original_title": "Blanche Defends DC Reflecting Pool Prosecutor Who Angered Trump",
+      "rss_summary": "US Attorney General Todd Blanche defended Jeanine Pirro for dismissing a federal vandalism case in a decision that angered President Donald Trump, saying the top prosecutor in Washington, DC, should be judged fairly.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-16/blanche-defends-dc-reflecting-pool-prosecutor-who-angered-trump",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-16T19:34:47.876605+05:00",
+      "age_min": 25.4
     },
     {
       "hash": "854c52f170463f824c06c7d16bcb3d72",
@@ -626,19 +640,6 @@
       "status": "new",
       "ts": "2026-08-16T16:49:36.506402+05:00",
       "age_min": 19.9
-    },
-    {
-      "hash": "4bea1f57ddc724df7785009c70a3f2cb",
-      "title": "Выборы в Бразилии: Лула и новое лицо правого Болсонару",
-      "original_title": "Brazil election: Lula and the new face of Bolsonaro's right",
-      "rss_summary": "Brazil's October presidential election is shaping up as another battle between the Lula and Bolsonaro camps, with incumbent Luiz Inácio Lula da Silva seeking a fourth term and Flávio Bolsonaro stepping in for his imprisoned father. The two frontrunners are running close in the polls, as Lula focuses on Brazil's sovereignty amid tensions with Washington, while Flávio leans on his family's far-right support and ties to Donald Trump.",
-      "link": "https://www.france24.com/en/brazil-election-lula-and-the-new-face-of-bolsonaro-s-right",
-      "source": "France24",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-16T16:49:36.171114+05:00",
-      "age_min": 63.1
     }
   ]
 }
