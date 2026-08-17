@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T16:34:40.936437+05:00",
+  "updated": "2026-08-17T16:51:28.237636+05:00",
   "items": [
     {
       "hash": "4eb2b891e2a252720c29263cc59b4ba6",
@@ -39,6 +39,19 @@
       "status": "new",
       "ts": "2026-08-17T14:19:12.831110+05:00",
       "age_min": 14.9
+    },
+    {
+      "hash": "2b14f062d4864972337ecd0d3dbb8c38",
+      "title": "Война Трампа с таможенным мошенничеством будет дорогостоящей и трудной",
+      "original_title": "Trump’s war on customs fraud will be costly and difficult",
+      "rss_summary": "The US administration has incentivised the tariff cheating, mislabelling and misvaluation it complains about",
+      "link": "https://www.ft.com/content/83d287ed-43e2-466d-9490-06879efb04fc?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-17T16:47:28.887851+05:00",
+      "age_min": 16.3
     },
     {
       "hash": "bc9fc5faa88726a65e162b457dc07a9e",
@@ -143,16 +156,30 @@
       "age_min": 4.2
     },
     {
-      "hash": "c4bae8213431f546540737812bb679dd",
-      "title": "Трамп сказал Зеленскому: «У вас нет карт». Затем Украина повела войну России",
-      "original_title": "Trump told Zelensky ,  You dont have the cards . Then Ukraine took the war to Russia",
-      "link": "https://www.latimes.com/world-nation/story/2026-08-16/trump-told-zelensky-you-dont-have-cards-then-ukraine-took-war-to-russia",
-      "source": "GDELT/HOTSPOTS",
-      "score": 10,
+      "hash": "629f5c56bbf1267c63d831fa085ebef5",
+      "title": "Трамп угрожает разбомбить Оман, если тот встанет на пути США, говорит Фокс",
+      "original_title": "Trump Threatens to Bomb Oman If It Gets in Way of US, Fox Says",
+      "rss_summary": "President Donald Trump threatened to bomb Oman if the country gets in the way of the US blockade of Iranian ships in the Strait of Hormuz, Fox News reported.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-17/trump-threatens-to-bomb-oman-if-it-gets-in-way-of-us-fox-news-msx5rdoc",
+      "source": "Bloomberg Politics",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-08-17T12:45:37.615026+05:00",
-      "age_min": 45.6
+      "ts": "2026-08-17T16:49:01.206436+05:00",
+      "age_min": 12.8
+    },
+    {
+      "hash": "c7d91a011a9326a520d0027f6fc55215",
+      "title": "США прекратили уклонение от тарифов на солнечную энергию, но стимулирование местной промышленности выглядит непростой задачей",
+      "original_title": "US Ends Solar Tariff Dodge, But Boosting Local Industry Looks Tough",
+      "rss_summary": "The White House is moving to better safeguard its solar industry, while facing an uphill battle to become competitive with China.",
+      "link": "https://www.bloomberg.com/news/newsletters/2026-08-17/us-ends-solar-tariff-dodge-but-boosting-local-industry-looks-tough",
+      "source": "Bloomberg",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-17T16:47:29.257277+05:00",
+      "age_min": 0.8
     },
     {
       "hash": "2b6a478ee277b193e5f9b08eacba6423",
@@ -206,18 +233,6 @@
       "age_min": 4.2
     },
     {
-      "hash": "810eb5744be89b7ee41dd22189524067",
-      "title": "Украина идёт к коллапсу , Киев в растерянности : новости в мире 17 августа",
-      "original_title": "Украина идёт к коллапсу , Киев в растерянности : новости в мире 17 августа",
-      "link": "https://aif.ru/politics/ukraina-idyot-k-kollapsu-kiev-v-rasteryannosti-novosti-v-mire-17-avgusta",
-      "source": "GDELT/HOTSPOTS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-17T12:45:37.618352+05:00",
-      "age_min": 105.6
-    },
-    {
       "hash": "9dc5cb352e630b2e58ea04f1a1a3e3e2",
       "title": "Инсайт: Криптовалютная фирма Трампа поддерживает венчурное предложение ИИ от китайских компаний, деятельность которых ограничена",
       "original_title": "Insight: Trump crypto firm backs venture offering AI from restricted Chinese companies",
@@ -231,17 +246,17 @@
       "age_min": 7.5
     },
     {
-      "hash": "31d976a30381468d7f3cf179fac604a1",
-      "title": "Столкновения федеральных войск Сомали и вооруженной оппозиции в городе Байдоа",
-      "original_title": "Somalia federal troops and armed opposition clash in Baidoa city",
-      "rss_summary": "Somalia federal troops and armed opposition clash in Baidoa city&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
+      "hash": "fe2cabf40626940ae8ce46816d4314d3",
+      "title": "Трамп угрожает Оману в связи с истечением срока действия Меморандума о взаимопонимании между США и Ираном",
+      "original_title": "Trump Issues Threat to Oman as US-Iran MOU Expires",
+      "rss_summary": "President Donald Trump threatened to bomb Oman if it gets in the way of developments with Iran, according to reports from Fox News. A 60-day truce between the US and Iran— already repeatedly violated — will expire on Monday without a deal on how the Stair of Hormuz should be managed. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-17/trump-issues-threat-to-oman-as-us-iran-mou-expires-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-08-17T12:34:55.073656+05:00",
-      "age_min": 75.9
+      "ts": "2026-08-17T16:47:29.259467+05:00",
+      "age_min": 5.1
     },
     {
       "hash": "1eae24fd2f37e725aa617f66c046983d",
@@ -497,19 +512,6 @@
       "status": "new",
       "ts": "2026-08-17T13:18:17.370005+05:00",
       "age_min": 89.3
-    },
-    {
-      "hash": "79a87a8f110bfdb43d5e72f8e9d10ec6",
-      "title": "Израиль наносит удар по Ливану; Трамп сокращает учения США и Южной Кореи | Рассвет Европы 17.08.2026",
-      "original_title": "Israel Strikes Lebanon; Trump Reduces US-South Korea Drills | Daybreak Europe 8/17/2026",
-      "rss_summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. And we'll tell you what matters for investors in Europe, giving you insight before trading begins.\n\nLebanon saw its deadliest day of fighting in months, heaping pressure on stalled US-Iran negotiations while Washington prepares fresh economic measures.\n\nPresident Donald Trump told the Pentagon to “substantia",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-17/daybreak-europe-8-17-2026-video",
-      "source": "Bloomberg Politics",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-17T12:34:58.269281+05:00",
-      "age_min": 31.0
     },
     {
       "hash": "7393aea8c81b76887fec6e392afb25b6",
