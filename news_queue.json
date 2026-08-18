@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T16:22:50.126420+05:00",
+  "updated": "2026-08-18T16:50:27.219732+05:00",
   "items": [
     {
       "hash": "7d5254f4348c8d9deeb85aa94cde851d",
@@ -41,19 +41,6 @@
       "age_min": 64.1
     },
     {
-      "hash": "fe0daa8fda798d7cbb054a1e5513c91b",
-      "title": "Доходность 30-летних облигаций США достигла самого высокого уровня с 2007 года на фоне обострения войны и нефтяных опасений",
-      "original_title": "US 30-year yields hit highest level since 2007 as war, oil worries fester",
-      "rss_summary": "US 30-year yields hit highest level since 2007 as war, oil worries fester&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGpwbG4yTzVSSXBxRlN2dm5TcVdRb0tjOWtpYXBxSEpzZ0JFdElETWVkeVhaYl9UdDRtd2tXR1ZGNHFfZVlqeGtyOEdzUlEtRndFZkVLeldNLXotdkhwejBRajI3cmtnOE5MaWNtRFQ0VUJ4SXBBZWlLZnlwNHdKY2tQWHNxMnp0ZkZMRWVtVFZaQl91QlBlUURWWGQwOG85ZDJNUDRpUG5LOG5wSDVaZG40NG9KekZ4WTJGaA?oc=5",
-      "source": "Reuters",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-18T12:48:17.655968+05:00",
-      "age_min": 35.4
-    },
-    {
       "hash": "9ee3822e32cc66e8cfb0f1d6497af40f",
       "title": "Восемь израильских авиаударов по сирийской авиабазе Абу аль-Духур, жертв нет, сообщает государственное телевидение",
       "original_title": "Eight Israeli airstrikes hit Syria's Abu al-Duhur airbase, no casualties, state TV reports",
@@ -65,6 +52,31 @@
       "status": "new",
       "ts": "2026-08-18T14:34:33.292428+05:00",
       "age_min": 75.8
+    },
+    {
+      "hash": "12fa0fcaf50427cad294d6f75d47526d",
+      "title": "Великобритания «поддерживает Украину на 100%», заявил Бёрнем после предупреждения России о беспилотнике",
+      "original_title": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "rss_summary": "Prime Minister Andy Burnham vows to support Ukraine in its \"hour of need\" after Russia accuses the UK of escalating the Ukraine war by supplying British-made drones.",
+      "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-18T16:46:00.447348+05:00",
+      "age_min": 4.6
+    },
+    {
+      "hash": "e158adf1620cc78e370bae5cee5a53c0",
+      "title": "Российский суд отклонил апелляцию антивоенной партии по поводу запрета выборов",
+      "original_title": "Russian Court Rejects Anti - War Party Appeal Over Election Ban",
+      "link": "https://www.globalsecurity.org/wmd/library/news/russia/2026/08/russia-260817-rferl01.htm",
+      "source": "GDELT/HOTSPOTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-18T16:45:35.197109+05:00",
+      "age_min": 90.6
     },
     {
       "hash": "89d2f6a1fb2ffa377430ddaa14d38412",
@@ -222,16 +234,30 @@
       "age_min": 25.4
     },
     {
-      "hash": "f1d98fc24bd69ad1384b1e0c4242eba2",
-      "title": "Трамп наказал Южную Корею за отказ присоединиться к войне с Ираном",
-      "original_title": "Trump Punishes South Korea For Refusing To Join The Iran War",
-      "link": "https://www.armstrongeconomics.com/world-news/war/trump-punishes-south-korea-for-refusing-to-join-the-iran-war/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
+      "hash": "544f2f62b66081d446278fa38799a9d4",
+      "title": "Ракетная атака России в Харькове привела к гибели по меньшей мере 10 человек, а Украина продолжает атаковать Москву беспилотниками",
+      "original_title": "Russian missile attack in Kharkiv kills at least 10, as Ukraine keeps up drone attacks in Moscow",
+      "rss_summary": "A Russian missile attack killed 10 people on Tuesday in a village in Ukraine's northeastern Kharkiv region, Ukrainian authorities said.",
+      "link": "https://www.cbc.ca/news/world/ukraine-war-1638-9.7310523?cmp=rss",
+      "source": "CBC World",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-08-18T12:31:20.096644+05:00",
-      "age_min": 76.3
+      "ts": "2026-08-18T16:48:07.746531+05:00",
+      "age_min": 45.2
+    },
+    {
+      "hash": "f85007ff380c351adaac934827382d5c",
+      "title": "США и Канада готовятся к введению пошлины в 50% по мере приближения крайнего срока Трампа",
+      "original_title": "US, Canada Barrel Toward 50% Tariff as Trump Deadline Approaches",
+      "rss_summary": "Canada is racing to strike a deal with the Trump administration on Tuesday before a midnight deadline to avoid a 50% tariff on billions of dollars worth of exports to the US.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-18/us-canada-barrel-toward-50-tariff-as-trump-deadline-approaches",
+      "source": "Bloomberg Politics",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-18T16:47:51.556804+05:00",
+      "age_min": 24.3
     },
     {
       "hash": "4c2598b70d2de89bd484e958407702ca",
@@ -350,19 +376,6 @@
       "age_min": 31.5
     },
     {
-      "hash": "dbbff072695e5a94759478667cd6b03a",
-      "title": "Трамп занимает жесткую позицию в отношении Ирана, поскольку противостояние в Ормузе затягивается",
-      "original_title": "Trump Takes Hard Line on Iran as Hormuz Standoff Drags On",
-      "rss_summary": "US President Donald Trump said he won’t try to revive a stalled truce with Iran, leaving the simmering conflict in the Middle East and a tussle for control of the Strait of Hormuz stuck in limbo.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/trump-takes-hard-line-on-iran-as-hormuz-standoff-drags-on",
-      "source": "Bloomberg Politics",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-18T12:48:21.007932+05:00",
-      "age_min": 20.7
-    },
-    {
       "hash": "d292645fb492dd613a33a238ec7749a1",
       "title": "Агентства Трампа будут устанавливать криптополитику в качестве законопроекта, ограничивая выгоды отрасли",
       "original_title": "Trump agencies to set crypto policy as bill stalls, limiting industry's gains",
@@ -428,17 +441,28 @@
       "age_min": 55.7
     },
     {
-      "hash": "be48ad29c9800f1f1715425d12f8bf2f",
-      "title": "Министр иностранных дел Китая Ван И посетит Южную Корею 19-20 августа.",
-      "original_title": "China's Foreign Minister Wang Yi to visit South Korea from August 19-20",
-      "rss_summary": "China's Foreign Minister Wang Yi to visit South Korea from August 19-20&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNam1tQk9VWXN1MWV5V0dMX1hMYUREWkV6aUk5VXpUa1lLb0FfTGtiN3RTWXpMR0R4QTI2Yi14eWlnSTVPd0pXUm1lSm1mMXJrQ09FMVNyVlNFV09qSmRVbFdtaUkzcE11cXNidnpYWG9pVHhtbnJNTUpoWjRKUEoxUVRGT0IyZXU5UUhiQVkxWW1VTGRDdW5OX3d1YUsyRzdLTEEyc3NHeC1NeU9yNDhz?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
+      "hash": "f24efdb687abc9060a65e3a2e907a9ec",
+      "title": "Если есть война, есть надежда. Но для кого?",
+      "original_title": "If there is war , there is hope . But for whom ?",
+      "link": "https://www.irishdentist.ie/if-there-is-war-there-is-hope-but-for-whom/21109/",
+      "source": "GDELT/HOTSPOTS",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-08-18T12:34:36.016095+05:00",
-      "age_min": 87.6
+      "ts": "2026-08-18T16:45:35.168185+05:00",
+      "age_min": 30.6
+    },
+    {
+      "hash": "f3cbbda8da4dd027ed354a2a5d114994",
+      "title": "Удары России сломали экономическую основу Украины и нанесли вред ее военной машине",
+      "original_title": "Russia Strikes Break Ukraine Economic Backbone & Cripple Its War Machine",
+      "link": "https://www.globalsecurity.org/wmd/library/news/ukraine/2026/08/ukraine-260817-sputnik04.htm",
+      "source": "GDELT/HOTSPOTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-18T16:45:35.162746+05:00",
+      "age_min": 90.6
     },
     {
       "hash": "26f856fb86c173d67a533db5c2fc7e0a",
@@ -596,42 +620,17 @@
       "age_min": 18.8
     },
     {
-      "hash": "140da285c29476f200e0c0092a75c9f8",
-      "title": "Филиппины не видят влияния на оборонные связи передислокации сил США на Ближнем Востоке",
-      "original_title": "Philippines sees no impact on defence ties from US Middle East redeployment",
-      "rss_summary": "MANILA, Aug 18 (Reuters) - The Philippines does not expect a reduction in military activities with its treaty ally the United States amid redeployment of some U.S. defence assets to the Middle East, an official said on Monday.The movement of assets including the USS George Washington aircraft carrier from the Pacific to the Middle East had raised some questions about U.S. defence arrangements in the Indo-Pacific, but no doubts about its commitment, said Roy Vincent Trinidad, a military spokesper",
-      "link": "https://www.al-monitor.com/originals/2026/08/philippines-sees-no-impact-defence-ties-us-middle-east-redeployment",
-      "source": "Al-Monitor",
-      "score": 8,
-      "weight": 4,
+      "hash": "372c3faef02dfe43926aeb37f31980f1",
+      "title": "«Наша задача — посмеяться над этими врагами»: украинское подразделение выкладывает с дронов видео последних минут жизни российских солдат",
+      "original_title": "‘Our task is to laugh at these enemies’: the Ukrainian unit posting drone videos of Russian soldiers’ last moments",
+      "rss_summary": "Creators of chase compilations reject any moral qualms and say they show ‘death is waiting’ for those who join warTo many observers they will appear dehumanising and offensive. To many Ukrainians, however, they are a brutal reminder of the fate that awaits Russian soldiers who take part in Vladimir Putin’s invasion, as well as a potent propaganda weapon.Over the past year and a half, videos of kamikaze drones chasing Russian service personnel to their deaths have become a distinctive genre on so",
+      "link": "https://www.theguardian.com/world/2026/aug/18/ukraine-drone-chase-videos-russian-soldiers",
+      "source": "Guardian",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-08-18T12:48:23.339902+05:00",
-      "age_min": 1.8
-    },
-    {
-      "hash": "06cd75786b1d62b363dff96be9acdea1",
-      "title": "Танкер остановился в Ормузе, поскольку Иран прилагает усилия для контроля над проливом",
-      "original_title": "Tanker Stops in Hormuz as Iran Raises Efforts to Control Strait",
-      "rss_summary": "A fuel tanker trying to enter the Persian Gulf has made an erratic series of turns and come to a halt near Iran’s Qeshm Island, as the country steps up efforts to control the Strait of Hormuz.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-18/tanker-stops-in-hormuz-as-iran-raises-efforts-to-control-strait",
-      "source": "Bloomberg",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-18T12:47:29.484089+05:00",
-      "age_min": 30.0
-    },
-    {
-      "hash": "7b0c1631a32d86c693cfe9df96399f52",
-      "title": "Тайният план на Иран за ескалиране на войната",
-      "original_title": "Тайният план на Иран за ескалиране на войната",
-      "link": "https://www.actualno.com/asia/tajnijat-plan-na-iran-za-eskalirane-na-vojnata-news_2629758.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-18T12:31:20.073287+05:00",
-      "age_min": 46.3
+      "ts": "2026-08-18T16:47:52.836763+05:00",
+      "age_min": 4.5
     },
     {
       "hash": "8edfd43b87cefee21edf17841754af4f",
