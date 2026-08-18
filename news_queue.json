@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T15:07:33.884285+05:00",
+  "updated": "2026-08-18T15:21:01.886604+05:00",
   "items": [
     {
       "hash": "7d5254f4348c8d9deeb85aa94cde851d",
@@ -65,6 +65,18 @@
       "status": "new",
       "ts": "2026-08-18T14:34:33.292428+05:00",
       "age_min": 75.8
+    },
+    {
+      "hash": "608ff9321ab903099c4719f7a314504f",
+      "title": "Министр иностранных дел Китая Ван И посетит Сеул, пока Ли проводит многосторонние переговоры по прекращению Корейской войны",
+      "original_title": "Chinese FM Wang Yi to visit Seoul as Lee floats multiparty talks on ending Korean War",
+      "link": "https://www.koreaherald.com/article/10844465",
+      "source": "GDELT/ASIA_TECH",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-18T15:17:28.492402+05:00",
+      "age_min": 62.5
     },
     {
       "hash": "9c948e5763106ab27d2db6354f3c9367",
@@ -631,19 +643,6 @@
       "status": "new",
       "ts": "2026-08-18T11:50:58.906508+05:00",
       "age_min": 16.6
-    },
-    {
-      "hash": "e1ccbb6d6941fbe9232440f6addb3bb8",
-      "title": "Война на Украине: несколько раненых при атаке беспилотника на Подмосковье",
-      "original_title": "War in Ukraine: several wounded in drone attack on Moscow region",
-      "rss_summary": "A total of 620 drones targeted the Moscow region overnight, Russian officials said Monday, with several people wounded as buildings were struck. Moscow's mayor said that air defence units intercepted more than 180 of the drones over the capital region.",
-      "link": "https://www.france24.com/en/europe/20260818-war-in-ukraine-several-people-wounded-in-drone-attack-on-moscow-region",
-      "source": "France24",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-18T11:50:58.481682+05:00",
-      "age_min": 18.4
     }
   ]
 }
