@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T05:06:33.914708+05:00",
+  "updated": "2026-08-20T05:21:08.073288+05:00",
   "items": [
     {
       "hash": "1a19d62b8094bdfc8c379e6976f4f6df",
@@ -313,19 +313,6 @@
       "age_min": 40.4
     },
     {
-      "hash": "f5a99bfa7a5f5b70813a938872a61d91",
-      "title": "Представитель ООН серьезно обеспокоен санкциями США в отношении МУС",
-      "original_title": "UN's Guterres seriously concerned by US sanctions on ICC",
-      "rss_summary": "UN's Guterres seriously concerned by US sanctions on ICC&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdzJVT2ZyZXROaVlVMktRWGNLUEJ6b0ZBYnphR3lBZGxCN3BYWk55emhLeVl0VkVPQ0ZHSFdKSThHcUNhazlpOHFzbEJ0U01hdDhITUFZaFNJSlFJSmZDQlF2TE50RmctcGllbU9fMGtYa0VGRnJBOUJTZ01yUGF1SzFNeDJ4eDhSZS05NGNuN1M5eHRGUnFUZWF3?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-20T01:19:37.957585+05:00",
-      "age_min": 73.5
-    },
-    {
       "hash": "ae56610f153e12387be7addae4bcd117",
       "title": "Чиновники Федеральной резервной системы намекают на необходимость повышения ставки",
       "original_title": "Federal Reserve officials hint rate increase may be necessary",
@@ -584,6 +571,32 @@
       "age_min": 12.7
     },
     {
+      "hash": "fca651af6acdce9f2b0df2354553c143",
+      "title": "Трем мальчикам предъявлены обвинения в изнасиловании девочки-подростка в доме в Сиднее",
+      "original_title": "Three boys charged over alleged rape of teenage girl in Sydney home",
+      "rss_summary": "The 17-year-olds were charged over an alleged attack in Sydney’s south-west on SaturdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThree teenage boys have been charged over the alleged rape of a 17-year-old girl at a home in Sydney’s south-west on Saturday.The three 17-year-old boys were arrested on Wednesday after the girl was allegedly attacked. Continue reading...",
+      "link": "https://www.theguardian.com/australia-news/2026/aug/20/three-boys-charged-alleged-rape-teenage-girl-sydney-ntwnfb",
+      "source": "Guardian",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-20T05:18:58.365181+05:00",
+      "age_min": 13.0
+    },
+    {
+      "hash": "1aacf2c507d29f9f7a2d3e5685d85238",
+      "title": "Война в Иране в прямом эфире: Трамп объявляет о «самых сокрушительных» санкциях против Ирана",
+      "original_title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
+      "rss_summary": "Trump says Washington may resume talks with Tehran &#039;at some point&#039;.",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-20T05:17:24.837498+05:00",
+      "age_min": 17.4
+    },
+    {
       "hash": "852c30d7d408f89170af30b4c2062abb",
       "title": "RT от @elonmusk: Grok Build только что получил новое обновление, включающее первоклассный каталог рабочих процессов, разрешение «Всегда» и «Никогда» при запросах разрешений, оперативную строку состояния, которая может обновляться по таймеру, и более быстрое завершение циклических вызовов инструментов. Примечания к выпуску: v1.0.7 Особенности: • Пользователи, достигающие тайм-аутов при запуске, теперь могут увеличить бюджет подключения с помощью переменной среды `GROK_CONNECT_UI_TIMEOUT_SECS`. • В запросах разрешений теперь по умолчанию отображаются параметры «Всегда разрешать» и «Никогда не разрешать». • Теперь пользователи могут удалять запланированные фоновые циклы прямо из панели задач. • Сценарии командной строки состояния теперь могут запускаться по таймеру с помощью обновления_интервала в config.toml. • В запросах разрешений теперь предлагается вариант «Никогда не разрешать» для инструментов MCP и доменов веб-загрузки, который сохраняется для каждого проекта. • В модальном окне расширений (Ctrl+L или /plugins) добавлена ​​вкладка «Рабочие процессы», на которой перечислены установленные рабочие процессы с указанием имени, источника и описания. • Новая команда /workflows открывает вкладку каталога «Рабочие процессы»; используйте /workflow runs для просмотра текущих запусков рабочего процесса. • В пустом файле /workflow (или /workflow runs) теперь перечислены активные и недавние запуски рабочего процесса с указанием состояния и прогресса, а не справка по использованию. • В палитру команд Ctrl+P добавлена ​​строка «Рабочие процессы», открывающая вкладку каталога «Рабочие процессы». Исправления ошибок: • Для подключений к серверу MCP в неинтерактивных сеансах больше не требуется ошибочная проверка подлинности для серверов без токенов. • Исправлены тайм-ауты запуска, вызванные одновременным обновлением аутентификации в нескольких сеансах. • Циклы вызова инструментов прерываются раньше, чтобы не тратить время на повторение одинаковых действий. • Субагенты больше не получают возможность задавать вопросы пользователю. • Пустые адреса электронной почты теперь превращены в кликабельные ссылки mailto на пейджере.",
       "original_title": "RT by @elonmusk: Grok Build just got a new update bringing a first-class workflows catalog, Always and Never allow on permission prompts, a live status line that can refresh on a timer, and faster shutdown of looping tool calls Release Notes: v1.0.7 Features: • Users hitting startup timeouts can now raise the connect budget with the `GROK_CONNECT_UI_TIMEOUT_SECS` environment variable. • Permission prompts now show \"Always allow\" and \"Never allow\" options by default. • Users can now delete scheduled background loops directly from the tray. • Status line command scripts can now run on a timer via refresh_interval in config.toml. • Permission prompts now offer a 'Never allow' choice for MCP tools and web-fetch domains that persists per project. • Workflows tab added to the extensions modal (Ctrl+L or /plugins) listing installed workflows with name, source, and description. • New /workflows command opens the Workflows catalog tab; use /workflow runs to view live workflow runs. • Bare /workflow (or /workflow runs) now lists active and recent workflow runs with status and progress instead of usage help. • Workflows row added to the Ctrl+P command palette, opening the Workflows catalog tab. Bug Fixes: • MCP server connections in non-interactive sessions no longer incorrectly require authentication for tokenless servers. • Fixed startup timeouts caused by concurrent auth refreshes across multiple sessions. • Tool call loops are interrupted earlier to avoid wasting time on repeated identical actions. • Subagents no longer receive the ask-user-question tool. • Bare email addresses are now turned into clickable mailto links in the pager.",
@@ -633,19 +646,6 @@
       "status": "new",
       "ts": "2026-08-20T05:03:28.603105+05:00",
       "age_min": -1406.5
-    },
-    {
-      "hash": "943079150d6901d0b14fb849b21def71",
-      "title": "Пренебрежительное отношение Трампа к Южной Корее вызывает беспокойство в регионе",
-      "original_title": "Trump’s snub of South Korea sends region scrambling",
-      "rss_summary": "Concerns about the Trump administration’s reliability are prompting allies and partners to pursue more independent defense strategies that limit their dependence on the U.S.",
-      "link": "https://www.politico.com/news/2026/08/19/trump-south-korea-snub-region-scrambling-01042987?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
-      "source": "Politico EU",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-20T05:04:05.621002+05:00",
-      "age_min": 9.1
     }
   ]
 }
