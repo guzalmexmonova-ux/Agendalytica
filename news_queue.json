@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-20T07:50:46.469094+05:00",
+  "updated": "2026-08-20T08:07:20.210966+05:00",
   "items": [
     {
       "hash": "cc34c38cedfbde7aaba8b22450b05cdf",
@@ -28,19 +28,6 @@
       "age_min": 13.9
     },
     {
-      "hash": "67ce6dd2995fdb6cec17f45a9e094dac",
-      "title": "Украина совершила одну из крупнейших воздушных атак за всю войну, в результате которой в России погибли по меньшей мере 6 человек",
-      "original_title": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia",
-      "rss_summary": "Ukraine launches one of its largest aerial attacks of the war, killing at least 6 people in Russia&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSW9mTFNZNmhNT3Rucy1OdzIyUzZxYlZVMk1oY2liVkNobXMtYXJPTUI2MFZfYWt3QkJwTVhaNnlEbzY2M0I4NWZtVFRyLVpwX3JQdUZXOVlkZVZXNThuQmRXMjFsOFN2QWRnX3ZCNk1DRlUyQWZIdUNrM0IwWGFRdHhIWHQ?oc=5",
-      "source": "AP News",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-20T04:04:54.254204+05:00",
-      "age_min": 2.1
-    },
-    {
       "hash": "f1de7171c7eceb06a2d944c5e6cdba28",
       "title": "Золото колеблется вблизи максимума начала июня на фоне снижения доходности облигаций - reuters.com",
       "original_title": "Gold hovers near early-June high on lower bond yields - reuters.com",
@@ -52,6 +39,19 @@
       "status": "new",
       "ts": "2026-08-20T07:48:35.379944+05:00",
       "age_min": 101.6
+    },
+    {
+      "hash": "1d5bcfab27942ba3f718ca250a999651",
+      "title": "Смертельная российская ракетная атака в Киеве оставила часть столицы без электричества",
+      "original_title": "Deadly Russian missile attack in Kyiv leaves parts of capital without power",
+      "rss_summary": "Russian ballistic missile strikes killed at least three and injured 20 more ​in Kyiv early on Thursday, according to Mayor Vitali ​Klitschko, damaging apartments, non-residential buildings, warehouses and a children's hospital and leaving parts of the Ukrainian capital without ​power.",
+      "link": "https://www.cbc.ca/news/world/russian-missiles-attack-kyiv-9.7313497?cmp=rss",
+      "source": "CBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-20T08:05:13.533249+05:00",
+      "age_min": 26.4
     },
     {
       "hash": "dcb56bc4fe7c69bd1158d2dbb983daa2",
@@ -116,32 +116,6 @@
       "status": "new",
       "ts": "2026-08-20T04:34:33.535448+05:00",
       "age_min": 67.6
-    },
-    {
-      "hash": "3fc4047776cc94fa3bd3c3d6db36ef04",
-      "title": "Сенатор Салливан и бывший член палаты представителей США Пелтола начинают предвыборную кампанию в Сенате США на Аляске после выхода из праймериз",
-      "original_title": "Sen. Sullivan, former US Rep. Peltola begin Alaska US Senate campaign after advancing from primary",
-      "rss_summary": "Sen. Sullivan, former US Rep. Peltola begin Alaska US Senate campaign after advancing from primary&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1lDZktxQ2pEVExkbWVDeEE1RHYtdS1OM0xISy1Nd01oTDBnYjR1c0ZGckhmcHRTeExxQ1ltZjduMXdFel9lUG9UdFhFZjdzYkdoQnBWUWZ0Yml5SG05TEduZDlqTmNYUnFqbTM5ZlRNRlU3NXBZQ3hhRlR0LTVFamkteUdSYjBVa3BZdTlFTk5aTGwwM09ZTE9NRUN5bS1rTFh4ZQ?oc=5",
-      "source": "AP News",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-20T04:04:54.263356+05:00",
-      "age_min": 110.9
-    },
-    {
-      "hash": "153984179cd90b7e8b388706dd70b96b",
-      "title": "Река Гудзон получила непредвиденную торговую прибыль в размере $11,4 млрд, воспользовавшись волнениями на рынке",
-      "original_title": "Hudson River posts $11.4bn trading windfall as it seizes on market tumult",
-      "rss_summary": "Wall Street firm benefited from swings in AI stocks and volatility triggered by Iran war",
-      "link": "https://www.ft.com/content/6a9f79b8-d47c-4cd2-b4ed-1ac77bd75576?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-20T04:04:03.424692+05:00",
-      "age_min": 97.4
     },
     {
       "hash": "abd0ae78d93a78586a5755882c766b62",
@@ -399,19 +373,6 @@
       "age_min": 12.1
     },
     {
-      "hash": "69ea4a9a72e4bd2825873c2f852d8833",
-      "title": "Опубликованы протоколы ФРС, поскольку доходность продолжает расти | Bloomberg Businessweek Daily, 19 августа 2026 г.",
-      "original_title": "Fed Minutes Released as Yields Continue Climb | Bloomberg Businessweek Daily 8/19/2026",
-      "rss_summary": "Bloomberg TV & Radio International Economics & Policy Correspondent Mike McKee breaks down the minutes from the July Fed meeting, where the board splintered on whether or not to raise interest rates. BlackRock Head of US iShares Fixed Income Strategy Karen Veraa-Perry also joins Businessweek to react to headlines from the minutes. Plus, President Trump held a meeting Wednesday at the White House with top Crypto leaders. Bloomberg News Senior Executive Editor stacy-marie ishmael, White House Corr",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-19/bloomberg-businessweek-daily-8-19-2026-video",
-      "source": "Bloomberg Politics",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-20T04:04:55.993543+05:00",
-      "age_min": 42.2
-    },
-    {
       "hash": "3b0a446a5cb75890d26afed93a0003ef",
       "title": "Постоянные обновления: война возвращается в Иран с Израилем, удары США",
       "original_title": "Live Updates: War returns to Iran with Israel, US strikes",
@@ -630,6 +591,19 @@
       "age_min": 11.4
     },
     {
+      "hash": "7942bac7b4914dc28fea042a47e9d7cd",
+      "title": "Маркос: к концу или началу 2026 года введут в эксплуатацию еще 13 насосных станций - ABS-CBN",
+      "original_title": "Marcos: 13 more pumping stations operational by year-end or early 2026 - ABS-CBN",
+      "rss_summary": "Marcos: 13 more pumping stations operational by year-end or early 2026&nbsp;&nbsp;ABS-CBN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOak5LY3dHbTlwb0NDOWVGM0ljNDY2bEdXeURyeE5jY25pMHNkc29oN3FIaDUxYWFtNUlvemthZllPQ2Y1YVFmZmlLaWJVMkZpZV9UZjR3bGl1cWpJR0tHUVlYS1JwUVU3UmszRlkzVUtYNUw1NzlMTV8zMU1YMWJZVEtxemY4cFVNSFE?oc=5",
+      "source": "ABS-CBN",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-20T08:05:18.408860+05:00",
+      "age_min": 4.3
+    },
+    {
       "hash": "2e4bd34a95c9d39326ae84ae918013aa",
       "title": "Китай бросает вызов росту доходности глобальных облигаций, усиливая свою привлекательность для диверсификации",
       "original_title": "China is defying the global bond yield surge, boosting its diversification appeal",
@@ -641,6 +615,32 @@
       "status": "new",
       "ts": "2026-08-20T07:48:39.252122+05:00",
       "age_min": 9.4
+    },
+    {
+      "hash": "1f13a175d41bb333d17c03b79fe15365",
+      "title": "Центральный банк Китая сохраняет базовые ставки по кредитам без изменений еще месяц",
+      "original_title": "China's Central Bank Keeps Benchmark Lending Rates Unchanged For Another Month",
+      "rss_summary": "China's Central Bank Keeps Benchmark Lending Rates Unchanged For Another Month&nbsp;&nbsp;Bitcoin World",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTmJ2R213YTAyNzd3eUJzRW9RbjRwVmhOWGhfV3JQeWl4aExsS0RLamVoRW15RE9rTDNlM2hQQ00wLVRmeWpibnlKdklYOXYtajM0eU5NR0ZiQXQ5SklieWdOWWtoclJHNDAzaElFenFlb0FISzhia1p5YUFxZVdJVUJGMktRbFRENmpSc2RJdw?oc=5",
+      "source": "Bitcoin World",
+      "score": 4,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-20T08:03:22.921448+05:00",
+      "age_min": 93.2
+    },
+    {
+      "hash": "ec534d9cb7f7af8e89b7c5f1b7140301",
+      "title": "Представитель Камбоджи рассказал об обучении основам буддизма",
+      "original_title": "Представитель Камбоджи рассказал об обучении основам буддизма",
+      "rss_summary": "Подготовку надо начинать с раннего возраста, считает заместитель министра по делам религии страны Сопання Чуор",
+      "link": "https://tass.ru/obschestvo/28027557",
+      "source": "TASS",
+      "score": 4,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-20T08:03:14.872018+05:00",
+      "age_min": 25.4
     }
   ]
 }
