@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T04:36:32.270834+05:00",
+  "updated": "2026-08-22T04:51:48.724695+05:00",
   "items": [
     {
       "hash": "902127c91b2f118e59a5ba17a0642813",
@@ -243,18 +243,6 @@
       "age_min": 12.8
     },
     {
-      "hash": "aa5d2aa6caded66b7e551500f6f5689e",
-      "title": "Росатом переходит к серийной сборке атомных электростанций",
-      "original_title": "Rosatom Transitions to Serial Assembly of Nuclear Power Plants",
-      "link": "https://english.pravda.ru/news/business/168178-rosatom-serial-assembly/",
-      "source": "GDELT/ASIA_TECH",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-22T00:48:44.567114+05:00",
-      "age_min": 63.7
-    },
-    {
       "hash": "af502ddf0fff70b5fe9d29f88b336f52",
       "title": "Президент Трамп поставит в тупик сенатора Дарлин Грэм за несколько дней до второго тура выборов в Сенат Республиканской партии Южной Каролины",
       "original_title": "President Trump to stump for Sen. Darline Graham days ahead of South Carolina's GOP Senate runoff",
@@ -318,6 +306,19 @@
       "status": "new",
       "ts": "2026-08-22T01:49:13.357223+05:00",
       "age_min": 34.0
+    },
+    {
+      "hash": "e0b8c3393e88e58f06c669960b55a9e8",
+      "title": "Неделя Уолл-стрит | ИИ снижает заработную плату, USMCA под давлением, кризис на реке Колорадо",
+      "original_title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
+      "rss_summary": "This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a “Plan B” for AI implementation. And, AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in exposed occupations.\nPlus, Canada may have dodged Trump’s newest tariffs, but the deal could leave lasting damage to USMCA, North American manufacturing and trust between two longtime allies. Later, who pays when the Colorado River can no longer meet the West’s demand?\n (S",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-22T04:48:41.352853+05:00",
+      "age_min": 36.4
     },
     {
       "hash": "0bfe468524cd90fac5902a764b9b15a0",
@@ -475,19 +476,6 @@
       "age_min": 47.3
     },
     {
-      "hash": "5b0a9b098d450451fb154b991a28aca1",
-      "title": "Реакция Республиканской партии на интервенцию Трампа по ценам на говядину растет",
-      "original_title": "GOP backlash grows to Trump's beef price intervention",
-      "rss_summary": "GOP lawmakers and cattle ranchers are immediately raising alarm bells over President Trump’s decision to temporarily lift certain tariffs on imported ground beef to mitigate the cost for American consumers. The president said Friday a deal is coming that would lower the price of ground beef for Americans to 25 percent below the current market...",
-      "link": "https://thehill.com/homenews/administration/6044174-gop-ranchers-protest-imports/",
-      "source": "The Hill",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-22T00:49:50.244379+05:00",
-      "age_min": 16.6
-    },
-    {
       "hash": "f6025f1e4f4a6f9b261e89c18c8a82e7",
       "title": "Губернатор Мексики, обвиненный США в помощи картелю, возвращается на работу",
       "original_title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
@@ -642,6 +630,19 @@
       "status": "new",
       "ts": "2026-08-22T04:18:48.064973+05:00",
       "age_min": 26.1
+    },
+    {
+      "hash": "48e0dc547ec37d14c749a69525efdffa",
+      "title": "Трамп заявил об отсутствии в Иране руководства для проведения переговоров",
+      "original_title": "Трамп заявил об отсутствии в Иране руководства для проведения переговоров",
+      "rss_summary": "Как отметил американский лидер, республика является единственной страной, \"где никто не хочет быть президентом\"",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28033877",
+      "source": "TASS",
+      "score": 6,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-22T04:48:38.808180+05:00",
+      "age_min": 5.3
     }
   ]
 }
