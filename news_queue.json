@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T01:52:19.013246+05:00",
+  "updated": "2026-08-22T02:06:24.362844+05:00",
   "items": [
     {
       "hash": "1f48cfc083dae1652655ef3c80d0a668",
@@ -13,6 +13,18 @@
       "status": "new",
       "ts": "2026-08-22T00:34:29.828339+05:00",
       "age_min": 37.5
+    },
+    {
+      "hash": "dd70a53daf91a7dcdc59c1f660c000f1",
+      "title": "Новая ставка Трампа на Иран: разрушить экономику, избежать новой войны",
+      "original_title": "Trump new bet on Iran : Break the economy , avoid another war",
+      "link": "https://www.ynetnews.com/opinions-analysis/article/hjknexidfe",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-22T02:01:30.140039+05:00",
+      "age_min": 31.5
     },
     {
       "hash": "5dfc680ec1f414be2d5ebdd015310fec",
@@ -116,29 +128,17 @@
       "age_min": 14.7
     },
     {
-      "hash": "f8dc9aac0da2c1c1ca85c76ab9282a74",
-      "title": "Может ли Казначейство исправить долговой кризис США?",
-      "original_title": "Can the Treasury Fix the US Debt Crisis?",
-      "rss_summary": "With US national debt topping $40 trillion and long-term bond yields hitting multi-year highs, Treasury Secretary Scott Bessent announced increased buybacks to stabilize the market. But as experts explain on Balance of Power, short-term Treasury moves can't solve structural fiscal problems. Kailey Leinz has more. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-21/can-the-treasury-fix-the-us-debt-crisis-video",
+      "hash": "c19031ef957c5aa1fc60e21c5d580623",
+      "title": "Struyven Goldman: колебания цен на дизельное топливо",
+      "original_title": "Goldman's Struyven: Hedge Crude's Swings with Diesel",
+      "rss_summary": "Daan Struyven, Goldman Sachs Co-Head of Global Commodities Research, discussed the market reaction to potential new US sanctions on Iran during a live financial news segment. He noted that oil prices experienced only a modest increase following the announcement, largely because the existing blockade on Iranian ports and oil exports is already restricting Iranian oil from reaching the market. He speaks with Romaine Bostick & Sally Bakewell on \"The Close.\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/goldman-s-struyven-hedge-crude-s-swings-with-diesel-video",
       "source": "Bloomberg",
-      "score": 10,
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-08-21T22:02:46.157626+05:00",
-      "age_min": 10.0
-    },
-    {
-      "hash": "872fab34f176b543434b806de482ee9d",
-      "title": "Доходность облигаций Индии достигла двухмесячного максимума на фоне усиления опасений по поводу повышения ставок",
-      "original_title": "India bond yields hit two - month high as rate hike fears intensify",
-      "link": "https://economictimes.indiatimes.com/markets/bonds/india-bond-yields-hit-two-month-high-as-rate-hike-fears-intensify/articleshow/133407966.cms",
-      "source": "GDELT/MARKETS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T22:02:42.239375+05:00",
-      "age_min": 77.7
+      "ts": "2026-08-22T02:03:20.940264+05:00",
+      "age_min": 12.8
     },
     {
       "hash": "aa5d2aa6caded66b7e551500f6f5689e",
@@ -218,18 +218,6 @@
       "age_min": 19.7
     },
     {
-      "hash": "8652aa5ae7e8b21837b384469760397d",
-      "title": "Выход из войны США и Израиля против Ирана",
-      "original_title": "A way out of the US - Israel war against Iran",
-      "link": "https://www.manilatimes.net/2026/08/22/opinion/columns/a-way-out-of-the-us-israel-war-against-iran/2410085",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T22:02:21.033008+05:00",
-      "age_min": 32.4
-    },
-    {
       "hash": "50a4ed98db93ee1451e2e63944a62042",
       "title": "Администрация Трампа намерена положить конец надзору группы адвокатов за юридической школой",
       "original_title": "Trump administration moves to end attorney group's law school oversight",
@@ -282,17 +270,30 @@
       "age_min": 64.7
     },
     {
-      "hash": "e73abb654eb16763234b5318f96d182d",
-      "title": "Президент Дональд Трамп объявляет о плане снижения цен на говядину, но некоторые республиканцы уже сопротивляются",
-      "original_title": "President Donald Trump announces plan to lower beef prices, but some Republicans are already balking",
-      "rss_summary": "President Donald Trump announces plan to lower beef prices, but some Republicans are already balking&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRlBMdi1RVGNHQTBXS1ItTi1TVDBQT1J4OU4yaTJOdnRQSWtJeUFyVGl0X2VwYmdjc09pUC13X0tMTk1pdWJjblltc1NsNXYwVkt6ckpwYmgzSkstTW50eE05MUFqaURHUk9FWjBwUkR3emw3dXMyM0JNOXhYWDI0ZjhNRFVocjR2RlVwU2V6aG16MHVYcnlPcA?oc=5",
-      "source": "AP News",
-      "score": 7,
-      "weight": 5,
+      "hash": "932be9c019c5894eb9cb370229f140ae",
+      "title": "Трамп «изолирует» Иран и казначейские облигации США | Bloomberg Businessweek Daily, 21 августа 2026 г.",
+      "original_title": "Trump to 'Isolate' Iran, US Treasuries Whiplash | Bloomberg Businessweek Daily 8/21/2026",
+      "rss_summary": "White House Correspondent Jeff Mason explains President Trump's vow to isolate Iran's economy as he plans to travel to South Carolina to campaign for the midterms. Bloomberg Intelligence Chief US Interest Rate Strategist Ira Jersey and Alpine Saxon Woods Chief Market Strategist Sarah Hunt break down the week of whiplash for US Treasury yields. Then, ITG's Chris Mecray discusses how the digital infrastructure services company has been doing post-IPO for this week's edition of CFO Briefing. Plus, ",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/bloomberg-businessweek-daily-8-21-2026-video",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-08-21T22:03:15.895354+05:00",
-      "age_min": 40.3
+      "ts": "2026-08-22T02:03:53.314947+05:00",
+      "age_min": 27.5
+    },
+    {
+      "hash": "67f0c50a116357b8381f821fd150ad99",
+      "title": "Хобби выигрывают битву за зарплаты американцев",
+      "original_title": "Hobbies Are Winning the Battle for Americans’ Paychecks",
+      "rss_summary": "Bloomberg's Julia Franzares joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how consumers of all ages are making more room for pastimes in their budget, with hobbyists willing to cut elsewhere or dip into their savings to fund their hobbies. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-08-21/hobbies-are-winning-the-battle-for-americans-paychecks-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-22T02:03:20.942110+05:00",
+      "age_min": 14.7
     },
     {
       "hash": "046ce5e5d92bdd35808984b2adb45976",
@@ -502,30 +503,29 @@
       "age_min": 23.1
     },
     {
-      "hash": "3d1e4f591229c01802d1fc3620a66f57",
-      "title": "Решение Трампа приостановить тарифы на говядину рискует получить ответную реакцию",
-      "original_title": "Trump’s move to pause beef tariffs risks blowback",
-      "rss_summary": "😎 Plus: South Carolina gets a dose of Trump {beacon} &#8202; It’s Friday. Against all odds and several hundred emails, we’ve made it. &#8202; In today's issue: Beef tariffs get a timeout Bessent weighs America’s debt Trump goes all in for Graham IndyCar zooms into DC Programming note: Hello! We are Colin Meyn and Steff...",
-      "link": "https://thehill.com/newsletters/1230-report/6043718-donald-trump-beef-tariff-pause-blowback/",
-      "source": "The Hill",
+      "hash": "8739dafdc6cbb5194d23295f97f2ee93",
+      "title": "Сингапур миллионами разводит «гвоздиков» комаров для войны с лихорадкой денге",
+      "original_title": "Singapore breeds mosquito 'studs' by the millions for war on dengue",
+      "rss_summary": "",
+      "link": "https://asia.nikkei.com/spotlight/big-in-asia/singapore-breeds-mosquito-studs-by-the-millions-for-war-on-dengue",
+      "source": "Nikkei Asia",
       "score": 8,
-      "weight": 4,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-08-21T22:03:43.557454+05:00",
-      "age_min": 23.7
+      "ts": "2026-08-22T02:03:22.129256+05:00",
+      "age_min": null
     },
     {
-      "hash": "298207d4e0e880ad455ab1e9eb73b383",
-      "title": "MBS и Макрон подпишут двусторонние соглашения и обсудят энергетические маршруты",
-      "original_title": "MBS, Macron to Sign Bilateral Deals, Address Energy Routes",
-      "rss_summary": "French President Emmanuel Macron and Saudi Arabian Crown Prince Mohammed bin Salman are set to oversee the signing of bilateral deals and discuss alternative routes to the disrupted Strait of Hormuz during talks on Monday.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/macron-and-saudi-prince-to-focus-on-hormuz-deals-in-paris-talks",
-      "source": "Bloomberg Politics",
-      "score": 8,
+      "hash": "5a681153afc736da16d1122f770c5f81",
+      "title": "Вагенкнехт сообщила об использовании немецких технологий для атак на Москву :: Новости дня / ВЗГЛЯД",
+      "original_title": "Вагенкнехт сообщила об использовании немецких технологий для атак на Москву :: Новости дня / ВЗГЛЯД",
+      "link": "https://vz.ru/news/2026/8/21/1444806.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-08-21T22:03:17.634731+05:00",
-      "age_min": 19.0
+      "ts": "2026-08-22T02:01:30.151497+05:00",
+      "age_min": 31.5
     },
     {
       "hash": "61832ce561c3f200fc6e6bd73c38976b",
@@ -539,6 +539,19 @@
       "status": "new",
       "ts": "2026-08-22T01:48:41.314143+05:00",
       "age_min": 5.5
+    },
+    {
+      "hash": "f163c4de65ce684464de7bafe53f1b8e",
+      "title": "Правила, сроки и требования к материалам. Агитация в СМИ перед выборами в Госдуму",
+      "original_title": "Правила, сроки и требования к материалам. Агитация в СМИ перед выборами в Госдуму",
+      "rss_summary": "Голосование пройдет 18-20 сентября 2026 года",
+      "link": "https://tass.ru/info/28031445",
+      "source": "TASS",
+      "score": 4,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-22T02:03:18.401387+05:00",
+      "age_min": 3.3
     }
   ]
 }
