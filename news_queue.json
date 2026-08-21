@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T16:21:14.950834+05:00",
+  "updated": "2026-08-21T16:36:13.386322+05:00",
   "items": [
     {
       "hash": "4eb2b891e2a252720c29263cc59b4ba6",
@@ -117,6 +117,18 @@
       "status": "new",
       "ts": "2026-08-21T14:18:10.167399+05:00",
       "age_min": 3.1
+    },
+    {
+      "hash": "e08a94d87f5e4d38b2286aa100c7c64a",
+      "title": "Как Фидель Кастро чуть не вверг мир в ядерную войну",
+      "original_title": "Как Фидель Кастро чуть не вверг мир в ядерную войну",
+      "link": "https://news.mail.ru/society/72070497/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-21T16:30:47.427378+05:00",
+      "age_min": 60.8
     },
     {
       "hash": "31c8ccbf551ef7190265c32d3eb2dbaa",
@@ -246,6 +258,42 @@
       "status": "new",
       "ts": "2026-08-21T13:50:18.266062+05:00",
       "age_min": 102.6
+    },
+    {
+      "hash": "897d12f7602b22a1c32f3c4a96255e09",
+      "title": "« Война с Ираном вступила в новую фазу »",
+      "original_title": "« Война с Ираном вступила в новую фазу »",
+      "link": "https://www.7kanal.co.il/news/291636",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-21T16:30:47.411188+05:00",
+      "age_min": 60.8
+    },
+    {
+      "hash": "80b78855f46c2a2c7b7e0e1aae294f32",
+      "title": "Иран наносит удары по танкерам в условиях эскалации конфликта в Ормузе, поскольку Трамп обещает повторить военные действия",
+      "original_title": "Iran strikes tankers in Hormuz escalation as Trump vows repeated military action",
+      "link": "https://www.bankingnews.gr/diethni/articles/894885/iran-strikes-tankers-in-hormuz-escalation-as-trump-vows-repeated-military-action",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-21T16:30:47.401807+05:00",
+      "age_min": 30.8
+    },
+    {
+      "hash": "1f16020ca8f06feafe8ffe43e1fb9462",
+      "title": "Посредники в Газе заявляют, что последние удары Израиля подрывают усилия по прекращению конфликта на критической стадии | Новости Арианы",
+      "original_title": "Gaza mediators say latest Israeli strikes undermine efforts to end conflict at critical stage | Ariana News",
+      "link": "https://www.ariananews.af/gaza-mediators-say-latest-israeli-strikes-undermine-efforts-to-end-conflict-at-critical-stage/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-21T16:30:47.396467+05:00",
+      "age_min": 30.8
     },
     {
       "hash": "6264b9b5b912a1d94db064d089d90b6b",
@@ -402,30 +450,17 @@
       "age_min": 7.7
     },
     {
-      "hash": "44f8169aa5d41cbc3c37362594996bfc",
-      "title": "Китай и Индонезия договорились о более тесных оборонных связях на переговорах на высоком уровне в Джакарте",
-      "original_title": "China, Indonesia Agree on Closer Defense Ties in High-Level Talks in Jakarta",
-      "rss_summary": "China and Indonesia agreed to deepen their military, maritime and technology cooperation in high-level talks in Jakarta on Friday, underscoring Beijing’s growing regional reach at a time of renewed uncertainty over US security commitments in Asia.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/china-indonesia-agree-on-closer-defense-ties-in-high-level-talks-in-jakarta",
-      "source": "Bloomberg Politics",
-      "score": 8,
-      "weight": 4,
+      "hash": "d3b2dfa49aed609511b7ae88a83b21a2",
+      "title": "Россия заявляет, что готова к «новым идеям» по войне на Украине, которые соответствуют целям Путина",
+      "original_title": "Russia says ready for ‘new ideas’ on Ukraine war that match Putin’s goals",
+      "rss_summary": "Deputy Foreign Minister Sergey Ryabkov suggests Moscow is eager for the US to revive its support for Russian agenda.",
+      "link": "https://www.aljazeera.com/news/2026/8/21/russia-ready-for-new-ideas-on-ukraine-war-that-match-putins-goals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-08-21T12:36:05.358838+05:00",
-      "age_min": 9.4
-    },
-    {
-      "hash": "53a2ea771eebccb60786ac97e501c2e5",
-      "title": "Путин арестовывает россиян, жалующихся на нехватку топлива во время драк на заправочных станциях",
-      "original_title": "Putin arrests Russians complaining about fuel shortages amid petrol station fights",
-      "rss_summary": "Putin arrests Russians complaining about fuel shortages amid petrol station fights&nbsp;&nbsp;The IndependentUkraine war briefing: Russia running on imported gasoline, government confirms&nbsp;&nbsp;The GuardianFrustrated Moscow drivers face long queues to refill as fuel shortages return&nbsp;&nbsp;ReutersDesperate Putin Sends Guards to Help Conceal Humiliating Crisis&nbsp;&nbsp;The Daily BeastRussia runs out of petrol at seven in 10 stations as fuel crisis worsens&nbsp;&nbsp;Euronews",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWkhBb1hQbDE4UG5jb2dqS0dfdVhzbzVaSEY5d0xTQW9yUzdmaDFuNEVhUXl1RHAwaUFaV09xLVR2YmhtV3ZwMEVsY3RMd1JlVlV3TXVoNWJMSHF5dVNhT1hYUHBSQnpJRnJXbm84TU5BZFBUNktIMUcwWXllZExBMTBIbklaaTVIQ19ydlE2a0d1cEZfenk1bEtBd29XdzVyUDBvanE0WUl2WkZxWDhDMFJ5MmIzNXhj?oc=5",
-      "source": "The Independent",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T12:32:49.603465+05:00",
-      "age_min": 109.8
+      "ts": "2026-08-21T16:32:42.950086+05:00",
+      "age_min": 33.1
     },
     {
       "hash": "ae88fbe693b1cda869d3b30dae22bb17",
@@ -491,6 +526,31 @@
       "status": "new",
       "ts": "2026-08-21T13:48:56.735075+05:00",
       "age_min": 91.0
+    },
+    {
+      "hash": "a1a7c12399ef3d74e89d026bfc755bf0",
+      "title": "Сильный маг. Землетрясение силой 5,2 балла - в 49 км к северо-западу от Бутуана, провинция Агусан-дель-Норте, Карага, Филиппины, в пятницу, 21 августа 2026 г., в 17:12 (манильское время)",
+      "original_title": "Strong mag. 5.2 earthquake - 49 km northwest of Butuan, Province of Agusan del Norte, Caraga, Philippines, on Friday, Aug 21, 2026, at 05:12 pm (Manila time)",
+      "rss_summary": "Strong mag. 5.2 earthquake - 49 km northwest of Butuan, Province of Agusan del Norte, Caraga, Philippines, on Friday, Aug 21, 2026, at 05:12 pm (Manila time)&nbsp;&nbsp;Volcano Discovery",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZlNZTVluMHNYUVZwbjQtbDlwLWRaZHZLMjFWdUtJX25RbElIZE9ILVhMdzZ0bnB0SzRTbnFDZFJDTFRUOHZRUzQtVUtlMGwtZjBtbnN3V3phd3pkZTRiVXpyd0xUN2s5cmtrT0lob2czS1MzLTRwbVVGYUxrRDRaTkU4U1pzaUcyTm9PZ1VHMWNhek1aVU5FYnpUWG4wTDVOd2tvbkhTYjZjUmFTWWNnOHBKbFBzZkplZEcyejYtaTB3dw?oc=5",
+      "source": "Volcano Discovery",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-21T16:34:00.192762+05:00",
+      "age_min": 109.0
+    },
+    {
+      "hash": "a28bceccaf8487ff0eb42903434b1415",
+      "title": "Трекер Ормузского пролива: карты и диаграммы, которые опровергают утверждение Трампа, что маршрут вновь открыт",
+      "original_title": "Strait of Hormuz tracker : The maps and charts that debunk Trump claim the route has reopened",
+      "link": "https://www.independent.co.uk/news/world/middle-east/strait-of-hormuz-trump-iran-map-open-tracker-b3036850.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-21T16:30:47.397898+05:00",
+      "age_min": 45.8
     },
     {
       "hash": "949d2d017d98355c969da51f0b6138ca",
@@ -580,71 +640,6 @@
       "status": "new",
       "ts": "2026-08-21T14:48:58.412011+05:00",
       "age_min": 46.6
-    },
-    {
-      "hash": "90e8675030fd8355b96165e0a19ec5a8",
-      "title": "Крупнейшее политическое событие Трампа пока не происходит в штате поля битвы",
-      "original_title": "Trump’s biggest political event so far isn’t in a battleground state",
-      "rss_summary": "The president is rallying with Sen. Darline Graham in deep-red South Carolina, a switch-up from his quieter strategy in battlegrounds like Georgia, Michigan and Texas.",
-      "link": "https://www.politico.com/news/2026/08/21/trump-rally-south-carolina-darline-graham-01045166",
-      "source": "Politico US",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T14:05:44.779559+05:00",
-      "age_min": 5.7
-    },
-    {
-      "hash": "3c9d890fa408c4f3691246579956538b",
-      "title": "Некоммерческие организации Нигерии стремятся использовать ИИ для повышения прозрачности выборов",
-      "original_title": "Nigeria Non-Profits Seek to Use AI to Improve Election Transparency",
-      "rss_summary": "Non-profit organizations in Nigeria are planning to use artificial intelligence to bring more transparency to the nation’s often-disputed presidential vote after successfully deploying the technology during a local election last week.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/nigeria-non-profits-seek-to-use-ai-to-improve-election-transparency",
-      "source": "Bloomberg Politics",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T13:50:21.484383+05:00",
-      "age_min": 24.8
-    },
-    {
-      "hash": "4b16c73ac32c786d3c8bdd44af30bcb1",
-      "title": "Полиция Замбии вызвала лидера оппозиции после спорных выборов",
-      "original_title": "Zambian Police Summon Opposition Leader After Disputed Election",
-      "rss_summary": "Zambian police summoned the nation’s opposition leader after he pledged to challenge the outcome of last week’s presidential election, over which observers have raised concerns.",
-      "link": "https://www.bloomberg.com/news/articles/2026-08-21/zambian-police-summon-opposition-leader-after-disputed-election",
-      "source": "Bloomberg Politics",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T13:23:36.387935+05:00",
-      "age_min": 18.7
-    },
-    {
-      "hash": "938a3cc6f9af1f6c8b67105cc62fa64f",
-      "title": "ПРЯМОЕ ОБНОВЛЕНИЕ: Суд по делу об импичменте вице-президента Сары Дутерте",
-      "original_title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "rss_summary": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "source": "Rappler",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-21T12:36:25.012414+05:00",
-      "age_min": 19.1
-    },
-    {
-      "hash": "648b0fa1b03c75016557afb397851e46",
-      "title": "Почему растет военное присутствие Израиля в Сирии?",
-      "original_title": "Why is Israel's military presence growing in Syria?",
-      "rss_summary": "The recent Israeli attack on a Syrian airbase is just one of many Israeli incursions into Syria. In southern Syria, locals say Israeli troops have detained them, destroyed infrastructure and set up military bases.",
-      "link": "https://www.dw.com/en/why-is-israel-s-military-presence-growing-in-syria/a-78435811?maca=en-rss-en-world-4025-rdf",
-      "source": "DW",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-21T13:50:23.081713+05:00",
-      "age_min": 17.4
     }
   ]
 }
