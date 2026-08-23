@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T14:20:13.043931+05:00",
+  "updated": "2026-08-23T14:36:46.485644+05:00",
   "items": [
     {
       "hash": "24f723b83cac1bce0353c66d8bbab8ef",
@@ -26,6 +26,19 @@
       "status": "new",
       "ts": "2026-08-23T12:48:46.881200+05:00",
       "age_min": 11.0
+    },
+    {
+      "hash": "30ae33e5fd264013f22ac94327f040a8",
+      "title": "Russia Tests Readiness for New Round of Military Mobilization",
+      "original_title": "Russia Tests Readiness for New Round of Military Mobilization",
+      "rss_summary": "Recent exercises gauged the military’s ability to absorb a mass of recruits in case the Kremlin orders a fresh mobilization for the first time since 2022.",
+      "link": "https://www.wsj.com/world/russia/russia-tests-readiness-for-new-round-of-military-mobilization-87d61b96?mod=rss_worldnews",
+      "source": "WSJ",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-23T14:34:24.684151+05:00",
+      "age_min": 4.4
     },
     {
       "hash": "052588cab94a19e3b863704762bd01d6",
@@ -142,18 +155,6 @@
       "age_min": 62.9
     },
     {
-      "hash": "839580e8175c240134dba75e5e53b6e9",
-      "title": "Торговая война США и Канады : Оттава вводит ответные пошлины",
-      "original_title": "Торговая война США и Канады : Оттава вводит ответные пошлины",
-      "link": "https://www.newsru.co.il/finance/23aug2026/canada_us_106.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-23T10:31:17.278454+05:00",
-      "age_min": 31.3
-    },
-    {
       "hash": "ad03d6de1b7391c0162180fa91402248",
       "title": "❗️Иранские хакеры вывели из строя британскую электростанцию на четыре дня, пишет The Telegrap [...]",
       "original_title": "❗️Иранские хакеры вывели из строя британскую электростанцию на четыре дня, пишет The Telegrap [...]",
@@ -190,18 +191,6 @@
       "status": "new",
       "ts": "2026-08-23T13:00:50.064565+05:00",
       "age_min": 90.8
-    },
-    {
-      "hash": "462ca2c07892a42417a2acbac7b4ca49",
-      "title": "Ядерний договір РФ і Білорусі : у Держдепі США відреагували на підписання угоди",
-      "original_title": "Ядерний договір РФ і Білорусі : у Держдепі США відреагували на підписання угоди",
-      "link": "https://nbnews.com.ua/vazhlive/2023/05/26/yadernii-dogovir-rf-i-bilorusi-u-der/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-23T10:31:17.268006+05:00",
-      "age_min": 46.3
     },
     {
       "hash": "b5b38bc04688c46a5c9e3e58cf4c8268",
@@ -282,16 +271,30 @@
       "age_min": 19.6
     },
     {
-      "hash": "27058fb782a945827336e328e43db426",
-      "title": "Pakistan , the War Mediator : Plays All Sides , Gains No Trust",
-      "original_title": "Pakistan , the War Mediator : Plays All Sides , Gains No Trust",
-      "link": "https://pjmedia.com/uzay-bulut/2026/08/22/pakistan-the-war-mediator-plays-all-sides-gains-no-trust-n4956424",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 8,
-      "weight": 4,
+      "hash": "2a0e2b0d4820ddcf70040e03e9a64ba8",
+      "title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "original_title": "Iran-linked hackers blamed for cyber-attack that shut down UK power plant",
+      "rss_summary": "Incident marks apparent escalation by Tehran in its in retaliation against UK over allowing US to use British basesHackers linked to Iran have been blamed for a cyber-attack that caused a British power plant to be temporarily shut down.The incident involved a small-scale energy generator, according to the UK government and at no point was there there risk to the wider energy system. Continue reading...",
+      "link": "https://www.theguardian.com/world/2026/aug/23/iran-linked-hackers-blamed-cyber-attack-british-power-plant",
+      "source": "Guardian",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-08-23T10:31:17.262539+05:00",
-      "age_min": 31.3
+      "ts": "2026-08-23T14:34:25.255135+05:00",
+      "age_min": 26.7
+    },
+    {
+      "hash": "3e7ade2449ea856a9c82b6bb4ad7d73f",
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "original_title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "rss_summary": "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.",
+      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
+      "source": "NYT World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-23T14:33:51.864128+05:00",
+      "age_min": 17.3
     },
     {
       "hash": "fccde34414cdd95630f84442978212ac",
