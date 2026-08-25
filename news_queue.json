@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T13:07:34.596672+05:00",
+  "updated": "2026-08-25T13:20:13.467335+05:00",
   "items": [
     {
       "hash": "d20bc4614ada74d32b5df96df58863a8",
@@ -52,6 +52,18 @@
       "status": "new",
       "ts": "2026-08-25T10:34:35.440699+05:00",
       "age_min": 5.4
+    },
+    {
+      "hash": "287e9cdb5c39a09aaef76495863bfe34",
+      "title": "Ukraine - Russia war live : Putin passes law to seize retail warehouses if they face Ukrainian drone attack",
+      "original_title": "Ukraine - Russia war live : Putin passes law to seize retail warehouses if they face Ukrainian drone attack",
+      "link": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-burnham-drone-attacks-b3038615.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-25T13:16:11.372690+05:00",
+      "age_min": 76.2
     },
     {
       "hash": "45bc83a8d8755f0e9ee202f2a80d4af8",
@@ -145,45 +157,6 @@
       "age_min": 115.7
     },
     {
-      "hash": "19c71604aa46a31372d822e3b53f4a38",
-      "title": "Don’t call us ‘nuclear’, say nuclear fusion start-ups",
-      "original_title": "Don’t call us ‘nuclear’, say nuclear fusion start-ups",
-      "rss_summary": "Companies set to enjoy lighter US regulatory regime by avoiding words associated with conventional nuclear plants",
-      "link": "https://www.ft.com/content/3301bcb3-db86-454c-b511-fc4df6a6e583?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:16:29.618214+05:00",
-      "age_min": 16.3
-    },
-    {
-      "hash": "9a728cdeabb1e3b36b37f331c326620c",
-      "title": "US grain farmers pummelled as Iran war triggers surge in costs",
-      "original_title": "US grain farmers pummelled as Iran war triggers surge in costs",
-      "rss_summary": "Middle East conflict adds to strains in America’s heartland months ahead of midterm elections",
-      "link": "https://www.ft.com/content/acb64e29-a3ce-4282-82b0-6b7b5dd4f63e?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:16:29.614095+05:00",
-      "age_min": 16.0
-    },
-    {
-      "hash": "2b81fb8354969d7f58873592431a8473",
-      "title": "Iranians queue for petrol as US blockade bites",
-      "original_title": "Iranians queue for petrol as US blockade bites",
-      "rss_summary": "Long lines form in capital city as officials warn that war and inflation are triggering fuel shortages",
-      "link": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776",
-      "source": "FT",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:16:29.608931+05:00",
-      "age_min": 16.0
-    },
-    {
       "hash": "3a1065ffce4b0b4f7cb2f9cdf95de318",
       "title": "Nvidia To Move Markets More Than Warsh: 3-Minute MLIV",
       "original_title": "Nvidia To Move Markets More Than Warsh: 3-Minute MLIV",
@@ -221,19 +194,6 @@
       "status": "new",
       "ts": "2026-08-25T11:17:29.664329+05:00",
       "age_min": 28.1
-    },
-    {
-      "hash": "5f83476a8baa11be71713388e8dbd3d3",
-      "title": "The old asbestos town at the heart of the rare earths race",
-      "original_title": "The old asbestos town at the heart of the rare earths race",
-      "rss_summary": "Brazil’s first facility for the minerals is a key component in US plans to break free from Chinese dominance",
-      "link": "https://www.ft.com/content/a40460fa-88fa-437f-99c6-828b2636f300?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:16:29.619474+05:00",
-      "age_min": 16.3
     },
     {
       "hash": "0e63c94ee25819055b7657a70f4c9004",
@@ -301,6 +261,19 @@
       "age_min": 47.8
     },
     {
+      "hash": "432862cfd9a1d17914472502676c4f8a",
+      "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "original_title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "rss_summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-25T13:17:17.298601+05:00",
+      "age_min": 8.9
+    },
+    {
       "hash": "526f4b72d43323d288bacff757d5e7f5",
       "title": "Q2 Metals Drills Best Hole to Date Intersecting 403.7 Metres at 1.57% Li₂O and 213.8 Metres at 1.93% Li₂O in Hole 93 at the Cisco Lithium Project",
       "original_title": "Q2 Metals Drills Best Hole to Date Intersecting 403.7 Metres at 1.57% Li₂O and 213.8 Metres at 1.93% Li₂O in Hole 93 at the Cisco Lithium Project",
@@ -350,56 +323,6 @@
       "status": "new",
       "ts": "2026-08-25T09:46:10.711927+05:00",
       "age_min": 46.2
-    },
-    {
-      "hash": "0c09331a7996338111c4716b4d01888a",
-      "title": "UK, Ukraine sign AI defense partnership linked to battlefield technology",
-      "original_title": "UK, Ukraine sign AI defense partnership linked to battlefield technology",
-      "rss_summary": "Prime Minister Andy Burnham and President Volodymyr Zelenskyy sign the agreement in Kyiv, making Britain the first international partner to access Ukraine's Avengers AI Labs",
-      "link": "https://www.rappler.com/technology/united-kingdom-ukraine-ai-defense-partnership-battlefield-technology/",
-      "source": "Rappler",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:17:18.657836+05:00",
-      "age_min": 6.5
-    },
-    {
-      "hash": "57d4f978ecd757e75c2dd397cc2a7e5d",
-      "title": "Austerity denial and the mystery of Britain’s shrunken state",
-      "original_title": "Austerity denial and the mystery of Britain’s shrunken state",
-      "rss_summary": "There is a ready supply of explanations on offer at Westminster",
-      "link": "https://www.ft.com/content/910288e8-5ad1-4f09-90fb-36c3efe275e0?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:16:29.610034+05:00",
-      "age_min": 16.0
-    },
-    {
-      "hash": "836bd606f8be683f6ae3d4d4ce06647f",
-      "title": "Ukraine war briefing : Ozon next in Kyiv sights as sheds of Wildberries rival burn",
-      "original_title": "Ukraine war briefing : Ozon next in Kyiv sights as sheds of Wildberries rival burn",
-      "link": "https://www.aol.co.uk/articles/ukraine-war-briefing-ozon-next-013858000.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:15:34.960344+05:00",
-      "age_min": 30.6
-    },
-    {
-      "hash": "f806ce03c285770f732ac6c0e87ea25f",
-      "title": "Медведев : Украйна е  близо  до гражданска война",
-      "original_title": "Медведев : Украйна е  близо  до гражданска война",
-      "link": "https://www.actualno.com/asia/medvedev-ukrajna-e-blizo-do-grajdanska-vojna-news_2632227.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-25T09:15:34.956653+05:00",
-      "age_min": 30.6
     },
     {
       "hash": "6bf2902d457944879fcf3ae66f78ab10",
@@ -480,19 +403,6 @@
       "age_min": 46.1
     },
     {
-      "hash": "1b5c4b0f6078ba7a588b42b94ca33078",
-      "title": "Coogee shark attack victim describes moment she came to face-to-face with ‘monster’",
-      "original_title": "Coogee shark attack victim describes moment she came to face-to-face with ‘monster’",
-      "rss_summary": "In her first media interview since the June incident, Leah Stewart, 34, says her thoughts while being bitten were of her one-year-old daughterAn Australian woman left without an arm after a shark attack at a beach in Sydney’s eastern suburbs has recalled the moment she came face-to-face with the “monster”.Leah Stewart, a 34-year-old teacher and mother of a one-year-old daughter, was attacked by a large shark while on a morning swim at Coogee beach on 13 June. Continue reading...",
-      "link": "https://www.theguardian.com/australia-news/2026/aug/25/coogee-beach-shark-victim-leah-stewart-describes-attack",
-      "source": "Guardian",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-25T09:17:02.327118+05:00",
-      "age_min": 4.0
-    },
-    {
       "hash": "fde4d4dfba1a7443f74b2f0b5672d520",
       "title": "Burnham refuses to rule out tax rises in autumn Budget",
       "original_title": "Burnham refuses to rule out tax rises in autumn Budget",
@@ -558,6 +468,31 @@
       "age_min": 17.8
     },
     {
+      "hash": "08e28ebf378515729b171100df2ba4b5",
+      "title": "Загнаний у кут  Путін посилить атаки на Україну після Дня незалежності , – Fox News",
+      "original_title": "Загнаний у кут  Путін посилить атаки на Україну після Дня незалежності , – Fox News",
+      "link": "https://www.unian.ua/war/putin-zagnaniy-u-kut-i-posilit-ataki-na-ukrajinu-pislya-dnya-nezalezhnosti-fox-news-13479645.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-25T13:16:11.395394+05:00",
+      "age_min": 46.2
+    },
+    {
+      "hash": "72d83bcb1041cdde82b159c4c488cbf6",
+      "title": "Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise",
+      "original_title": "Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise",
+      "rss_summary": "Global Market: Japanese bond yields edge higher as US Treasury yields, oil prices rise&nbsp;&nbsp;The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOc0poQTUtS1R0VmJtbzlUMmhmWHRyM2xtUnJrZVQ2eHNDbkJMT2h2ZzRMSVVYZjBfMjh1U1Z2TmlnejFGSVNJVDNoZkNvR3ZWeUlSSzRsanpISlpBVmw0elM1MF9kZjBWY2lYNjhza19MMUJpZ3hiazNEelR2SnlTRk5ObmpVcDhIWUl6d1htTzljblRpRGJ5SGhPUmxDRF9ZS1BhNVV6VnBfenJOSGJBOXpqbUc5eXhmdm1faXBXRGJIc2hMUFRsZ1dIRFJZcEVrSVdMRUk5ZWg0ZzY4d2NmUjk4Z014c0R4Q3IxZEowYzdHRHdZbFBNRdIB-AFBVV95cUxOc0poQTUtS1R0VmJtbzlUMmhmWHRyM2xtUnJrZVQ2eHNDbkJMT2h2ZzRMSVVYZjBfMjh1U1Z2TmlnejFGSVNJVDNoZkNvR3ZWeUlSSzRsanpISlpBVmw0elM1MF9kZjBWY2lYNjhza19MMUJpZ3hiazNEelR2SnlTRk5ObmpVcDhIWUl6d1htTzljblRpRGJ5SGhPUmxDRF9ZS1BhNVV6VnBfenJOSGJBOXpqbUc5eXhmdm1faXBXRGJIc2hMUFRsZ1dIRFJZcEVrSVdMRUk5ZWg0ZzY4d2NmUjk4Z014c0R4Q3IxZEowYzdHRHdZbFBNRQ?oc=5",
+      "source": "The Economic Times",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-25T13:17:19.338801+05:00",
+      "age_min": 116.3
+    },
+    {
       "hash": "5b63e42686d907e399a078ffd6932fb1",
       "title": "‘Scam’ remark again stricken from record as prosecution questions VP Duterte’s confidential funds - ABS-CBN",
       "original_title": "‘Scam’ remark again stricken from record as prosecution questions VP Duterte’s confidential funds - ABS-CBN",
@@ -595,6 +530,30 @@
       "status": "new",
       "ts": "2026-08-25T12:34:08.914073+05:00",
       "age_min": 17.1
+    },
+    {
+      "hash": "cba283cfc699c1ff4d78cf86d5c694a6",
+      "title": "EAM Jaishankar holds talks with Russian counterpart Lavrov on bilateral , global issues",
+      "original_title": "EAM Jaishankar holds talks with Russian counterpart Lavrov on bilateral , global issues",
+      "link": "https://www.thehindu.com/news/international/eam-jaishankar-holds-talks-with-russian-counterpart-lavrov-on-bilateral-global-issues/article71387445.ece",
+      "source": "GDELT/HOTSPOTS",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-25T13:16:11.386024+05:00",
+      "age_min": 46.2
+    },
+    {
+      "hash": "b57255811fd0481778ba7cdd0b7b23e5",
+      "title": "Burnham challenges Putin on first trip to Ukraine as united kingdom - Russia tensions grow",
+      "original_title": "Burnham challenges Putin on first trip to Ukraine as united kingdom - Russia tensions grow",
+      "link": "https://www.independent.co.uk/news/world/europe/andy-burnham-ukraine-visit-storm-shadow-russia-putin-war-b3038597.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-25T13:16:11.374561+05:00",
+      "age_min": 76.2
     },
     {
       "hash": "2c5d340525a325ccec39b0435fb28e9b",
@@ -647,6 +606,19 @@
       "status": "new",
       "ts": "2026-08-25T13:04:13.228866+05:00",
       "age_min": 14.6
+    },
+    {
+      "hash": "1623628687a01ab4e80b4d6fac01860a",
+      "title": "МИД Венгрии пожаловался Генпрокуратуре на нарушения в ходе госзакупок при Сийярто",
+      "original_title": "МИД Венгрии пожаловался Генпрокуратуре на нарушения в ходе госзакупок при Сийярто",
+      "rss_summary": "Речь идет о возможном нанесении ущерба государственному бюджету на миллионы евро, отметила глава министерства Анита Орбан",
+      "link": "https://tass.ru/mezhdunarodnaya-panorama/28042251",
+      "source": "TASS",
+      "score": 4,
+      "weight": 2,
+      "status": "new",
+      "ts": "2026-08-25T13:17:13.691828+05:00",
+      "age_min": 13.4
     }
   ]
 }
