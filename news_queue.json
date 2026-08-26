@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T21:06:29.655848+05:00",
+  "updated": "2026-08-26T21:24:59.225103+05:00",
   "items": [
     {
       "hash": "352250022da16ca2223f710524fb4390",
@@ -28,19 +28,6 @@
       "age_min": 36.9
     },
     {
-      "hash": "2d75fab4e19f65b8ea2af26b6901fcf5",
-      "title": "Trade war: Canada slaps retaliatory tariffs on US goods worth $20 bln",
-      "original_title": "Trade war: Canada slaps retaliatory tariffs on US goods worth $20 bln",
-      "rss_summary": "Trade war: Canada slaps retaliatory tariffs on US goods worth $20 bln&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5wMWZtbDE1cDRVZnpwbXJ1a01mY2E3Sll0Z193TzRUUFNhLWZ2d0VYYXdpaW9vc2R2ekVYY3NNZFdRZnlnMEFCbjNqSnRBU0NjS1ktY2hDWVlzRFFq?oc=5",
-      "source": "Reuters",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-08-26T17:17:27.603172+05:00",
-      "age_min": 62.8
-    },
-    {
       "hash": "a7bd93a2128101d50ac730e55e2d597c",
       "title": "Pro-Russian hackers claim responsibility for major cyberattack on Norway's public digital services",
       "original_title": "Pro-Russian hackers claim responsibility for major cyberattack on Norway's public digital services",
@@ -52,6 +39,19 @@
       "status": "new",
       "ts": "2026-08-26T17:31:42.090418+05:00",
       "age_min": 59.7
+    },
+    {
+      "hash": "c79c738a57149be2ba4082bd8b51bd3c",
+      "title": "Europe’s Diesel Crunch Draws First Mexican Supply in Seven Years",
+      "original_title": "Europe’s Diesel Crunch Draws First Mexican Supply in Seven Years",
+      "rss_summary": "Europe’s diesel supply situation has gotten so tight that the region is drawing on imports from Mexico for the first time in seven years as the Iran war and a halt in Russian cargoes upends historical trade flows.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-26/europe-s-diesel-crunch-draws-first-mexican-supply-in-seven-years",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-26T21:21:45.788420+05:00",
+      "age_min": 16.3
     },
     {
       "hash": "9311a729faad6c4412a3e9c2ffc6be6d",
@@ -402,19 +402,6 @@
       "age_min": 1.5
     },
     {
-      "hash": "41bdb6d6727f1d0dc2782be754e412ae",
-      "title": "Miller Tabak's Maley on Nvidia Expectations, Kevin Warsh",
-      "original_title": "Miller Tabak's Maley on Nvidia Expectations, Kevin Warsh",
-      "rss_summary": "Matt Maley, Chief Market Strategist at Miller Tabak, joins Bloomberg's Vonnie Quinn on \"Bloomberg Brief\" to discuss how Nvidia's results will impact the AI trade. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-08-26/miller-tabak-s-maley-on-nvidia-expectations-kevin-warsh-video",
-      "source": "Bloomberg",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-26T17:16:58.321046+05:00",
-      "age_min": 12.8
-    },
-    {
       "hash": "ad8412d6da3969c3bcf868d4950c996d",
       "title": "Democratic states file new lawsuit seeking to block Trump’s order limiting mail voting in midterms",
       "original_title": "Democratic states file new lawsuit seeking to block Trump’s order limiting mail voting in midterms",
@@ -478,6 +465,44 @@
       "status": "new",
       "ts": "2026-08-26T17:31:40.640044+05:00",
       "age_min": 46.7
+    },
+    {
+      "hash": "8c519a1c3e28b61bd097752fc5672a82",
+      "title": "Why high defense spending is bad for America",
+      "original_title": "Why high defense spending is bad for America",
+      "rss_summary": "Secretary of Defense Pete Hegseth recently testified before the Senate that, should Congress fail to pass the entire requested $1.5 trillion defense budget, it would put the United States in danger. Contrary to Hegseth’s testimony, however, this threat inflation and oversized defense budget only makes America weaker.",
+      "link": "https://thehill.com/opinion/national-security/6049822-trump-defense-spending-weakness/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-26T21:22:52.162001+05:00",
+      "age_min": 22.9
+    },
+    {
+      "hash": "bfd933eeaefb34d4d4654fd8d0acd832",
+      "title": "Burnham seeks to bridge gap with nervous business community",
+      "original_title": "Burnham seeks to bridge gap with nervous business community",
+      "rss_summary": "New prime minister hits crowd-pleasing note but private sector will reserve judgment until October Budget",
+      "link": "https://www.ft.com/content/284f83f5-b6af-41a9-909d-26ca5693e5a9?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-26T21:21:45.200343+05:00",
+      "age_min": 13.1
+    },
+    {
+      "hash": "3fc8247dfd4cd5d7c75684074050d3d2",
+      "title": "Война РФ против Украины : на Донбассе создадут две военные группировки",
+      "original_title": "Война РФ против Украины : на Донбассе создадут две военные группировки",
+      "link": "https://focus.ua/voennye-novosti/765838-voyna-rf-protiv-ukrainy-na-donbasse-sozdadut-dve-voennye-gruppirovki",
+      "source": "GDELT/HOTSPOTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-26T21:16:39.618877+05:00",
+      "age_min": 76.7
     },
     {
       "hash": "71c3c4a0d4bc7db4fed8d78063cd1b09",
@@ -619,31 +644,6 @@
       "status": "new",
       "ts": "2026-08-26T19:36:06.874115+05:00",
       "age_min": 18.7
-    },
-    {
-      "hash": "2ad400bdbaf36b6bdf2acc2303d004d9",
-      "title": "Burnham pledges to ‘take pressure off’ business ahead of Budget",
-      "original_title": "Burnham pledges to ‘take pressure off’ business ahead of Budget",
-      "rss_summary": "Prime minister tells the FT that he will not tax wealth creators out of the UK but stresses need for social responsibility",
-      "link": "https://www.ft.com/content/4ec53450-122a-4663-b280-5e7d80ef5e70?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-26T19:03:29.924850+05:00",
-      "age_min": 65.8
-    },
-    {
-      "hash": "bc118ebae4d5af15ac8093596d6c96cc",
-      "title": "Новости СВО : Зеленский наградил Маска орденом ! Всё ещё хочет шире использовать Starlink и использует дешевые подкаты - БлокнотРУ - Когда закончится война на Украине ? Война на Украине . Удары по Украине сегодня . Новости Украины . Война на Украине ...",
-      "original_title": "Новости СВО : Зеленский наградил Маска орденом ! Всё ещё хочет шире использовать Starlink и использует дешевые подкаты - БлокнотРУ - Когда закончится война на Украине ? Война на Украине . Удары по Украине сегодня . Новости Украины . Война на Украине ...",
-      "link": "https://bloknot.ru/v-mire/deshevyj-podkat-zelenskij-nagradil-maska-ordenom-vsyo-eshhyo-hochet-shire-ispolzovat-starlink-1535530.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-26T18:46:45.158373+05:00",
-      "age_min": 31.8
     }
   ]
 }
