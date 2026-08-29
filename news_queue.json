@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-30T02:51:16.068510+05:00",
+  "updated": "2026-08-30T03:05:32.120841+05:00",
   "items": [
     {
       "hash": "cafcc2f04cfbefafd7d29b52e43bb0e3",
@@ -115,6 +115,18 @@
       "status": "new",
       "ts": "2026-08-29T23:48:16.357959+05:00",
       "age_min": 108.3
+    },
+    {
+      "hash": "af6a34b35d8b616fb2af1e2aee4f20ef",
+      "title": "Ukraine nuclear plant has lost power supply : IAEA",
+      "original_title": "Ukraine nuclear plant has lost power supply : IAEA",
+      "link": "https://www.thehindu.com/news/international/ukraines-nuclear-plant-has-lost-power-supply-iaea/article71405971.ece",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-30T03:01:30.138814+05:00",
+      "age_min": 31.5
     },
     {
       "hash": "31d9fb4591c1add7222cfc0ec22b6e7a",
@@ -270,6 +282,18 @@
       "age_min": 1.9
     },
     {
+      "hash": "7e4293cdc1445d066aad970c30cdb6b4",
+      "title": "Silber Preis : Warsh - Rede löst Ausverkauf aus",
+      "original_title": "Silber Preis : Warsh - Rede löst Ausverkauf aus",
+      "link": "https://www.boerse-express.com/news/articles/silber-preis-warsh-rede-loest-ausverkauf-aus-942923",
+      "source": "GDELT/MARKETS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-30T03:01:59.690873+05:00",
+      "age_min": 32.0
+    },
+    {
       "hash": "d6c480e275de51aeb102822923788ae1",
       "title": "Leavitt is leaving the White House. Don't expect her to go far",
       "original_title": "Leavitt is leaving the White House. Don't expect her to go far",
@@ -356,6 +380,19 @@
       "status": "new",
       "ts": "2026-08-29T23:46:28.526737+05:00",
       "age_min": 31.5
+    },
+    {
+      "hash": "4e51a93759c370f7ce3ef36a921ac5f4",
+      "title": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
+      "original_title": "Israeli Settlers Attack Palestinians, Drawing Sharp Rebukes",
+      "rss_summary": "The ferocity of Saturday’s assault prompted condemnations from Benjamin Netanyahu and other officials.",
+      "link": "https://www.nytimes.com/2026/08/29/world/middleeast/israel-settlers-west-bank-attacks-netanyahu-rebuke.html",
+      "source": "NYT World",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-30T03:02:05.094803+05:00",
+      "age_min": 7.3
     },
     {
       "hash": "07eb3c974f4078c683c87887bbf7892a",
@@ -598,44 +635,6 @@
       "status": "new",
       "ts": "2026-08-30T01:46:42.201749+05:00",
       "age_min": 106.7
-    },
-    {
-      "hash": "e6012fdd578b2a5c2c87eed9e010f1d2",
-      "title": "Iran Pezeshkian urges Trump to avoid turmoil , pursue dialogue",
-      "original_title": "Iran Pezeshkian urges Trump to avoid turmoil , pursue dialogue",
-      "link": "https://www.siasat.com/irans-pezeshkian-urges-trump-to-avoid-turmoil-pursue-dialogue-3532997/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-30T00:31:12.631004+05:00",
-      "age_min": 31.2
-    },
-    {
-      "hash": "cd5d867004f0a805348ee19a5bc076cd",
-      "title": "В сети появилось видео подготовки киевлян к массированным обстрелам со стороны ВС России",
-      "original_title": "В сети появилось видео подготовки киевлян к массированным обстрелам со стороны ВС России",
-      "rss_summary": "",
-      "link": "https://lenta.ru/news/2026/08/29/podgotovku-kievlyan-k-massirovannoy-atake-so-storony-vs-rossii-snyali-na-video/",
-      "source": "Lenta.ru",
-      "score": 6,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-08-30T02:33:47.812305+05:00",
-      "age_min": 7.8
-    },
-    {
-      "hash": "b4abf6567ba1f67ed68a46d11ab4e644",
-      "title": "Капитан Калмыкаев возглавил атаку позиции ВСУ и уничтожил двух солдат противника",
-      "original_title": "Капитан Калмыкаев возглавил атаку позиции ВСУ и уничтожил двух солдат противника",
-      "rss_summary": "",
-      "link": "https://tass.ru/armiya-i-opk/28057425",
-      "source": "TASS",
-      "score": 6,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-08-30T02:17:06.759167+05:00",
-      "age_min": 12.4
     }
   ]
 }
