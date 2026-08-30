@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-31T00:36:36.743292+05:00",
+  "updated": "2026-08-31T00:49:09.600306+05:00",
   "items": [
     {
       "hash": "d54e795f8aa579c924a4a64fa9b2e806",
@@ -26,6 +26,19 @@
       "status": "new",
       "ts": "2026-08-30T22:34:21.429294+05:00",
       "age_min": 16.6
+    },
+    {
+      "hash": "592749e4336bb6911dbe1427404c89ef",
+      "title": "Opinion | Trump’s Great White Whale: Canada",
+      "original_title": "Opinion | Trump’s Great White Whale: Canada",
+      "rss_summary": "His trade war is self-defeating and helps Prime Minister Mark Carney politically.",
+      "link": "https://www.wsj.com/opinion/trumps-great-white-whale-canada-342d7e04?mod=rss_worldnews",
+      "source": "WSJ",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-31T00:46:59.031212+05:00",
+      "age_min": 4.0
     },
     {
       "hash": "8b7f6bf91b7a61cd0604b20da95dfb79",
@@ -228,6 +241,19 @@
       "age_min": 59.5
     },
     {
+      "hash": "4a56a6b3f149ad35d6bf0e9e16b527fd",
+      "title": "Trump’s Venezuela Oil Grab Reprises Industry’s Neocolonial Past",
+      "original_title": "Trump’s Venezuela Oil Grab Reprises Industry’s Neocolonial Past",
+      "rss_summary": "President Donald Trump’s plan to seize direct control of Venezuela’s oil reserves is prompting warnings that the Latin American nation will become a modern-day resource colony akin to the so-called banana republics of a century ago —  something that could create long-term risks for oil companies operating there.",
+      "link": "https://www.bloomberg.com/news/articles/2026-08-30/trump-s-venezuela-oil-grab-reprises-industry-s-neocolonial-past",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-31T00:46:58.293136+05:00",
+      "age_min": 15.1
+    },
+    {
       "hash": "682402145f77c45c094323b13d0f6a80",
       "title": "Opinion | America’s Systemic Munitions Shortfall",
       "original_title": "Opinion | America’s Systemic Munitions Shortfall",
@@ -316,18 +342,6 @@
       "status": "new",
       "ts": "2026-08-30T21:06:10.527238+05:00",
       "age_min": 6.2
-    },
-    {
-      "hash": "5121aea5fe5d5015514ec10cafd751b0",
-      "title": "Война в Украине : Хмара назвал реальные цели Путина",
-      "original_title": "Война в Украине : Хмара назвал реальные цели Путина",
-      "link": "https://www.unian.net/war/voyna-v-ukraine-hmara-nazval-realnye-celi-putina-13485018.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-30T20:46:00.225521+05:00",
-      "age_min": 61.0
     },
     {
       "hash": "0946617e52a5c720848d62de268486a9",
@@ -432,6 +446,19 @@
       "age_min": 93.0
     },
     {
+      "hash": "0a10c4066e4fbdd84b979fd608bf6c60",
+      "title": "Trump calls for ‘punishment’ of NBC reporter by US media regulators",
+      "original_title": "Trump calls for ‘punishment’ of NBC reporter by US media regulators",
+      "rss_summary": "US President Donald Trump on Sunday threatened a prominent NBC broadcast journalist with possible punishment by US media regulators as the Republican expressed disappointment with coverage of his candidate endorsements ahead of November’s midterm elections.\nTrump took to his Truth Social platform to attack Kristen Welker as the “unpopular ‘hostess’ of the once great Meet the Press talk show.\nHe objected to her having said the president had had “mixed results” on his endorsement of political...",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3365780/trump-calls-punishment-nbc-reporter-us-media-regulators?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-08-31T00:46:27.990213+05:00",
+      "age_min": 8.8
+    },
+    {
       "hash": "9793574404299a432b45a8fb0bf80879",
       "title": "As rising inequality demands reform, business is 'circling the wagons'",
       "original_title": "As rising inequality demands reform, business is 'circling the wagons'",
@@ -482,6 +509,30 @@
       "status": "new",
       "ts": "2026-08-30T22:33:52.304601+05:00",
       "age_min": 33.1
+    },
+    {
+      "hash": "0d43650b024904a72cd6856f2d710467",
+      "title": "El - Sayed finally apologizes for lamenting death of terrorist family in response to Michigan synagogue attack",
+      "original_title": "El - Sayed finally apologizes for lamenting death of terrorist family in response to Michigan synagogue attack",
+      "link": "https://nypost.com/2026/08/30/us-news/el-sayed-finally-apologizes-for-lamenting-death-of-terrorists-family-after-michigan-synagogue-attack/",
+      "source": "GDELT/HOTSPOTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-31T00:45:57.683518+05:00",
+      "age_min": 91.0
+    },
+    {
+      "hash": "e1937b53f46694d9ff3d9d510e82e5d5",
+      "title": "Переговоры : Глава ЦРУ предложил провести трехсторонний саммит по войне в Украине",
+      "original_title": "Переговоры : Глава ЦРУ предложил провести трехсторонний саммит по войне в Украине",
+      "link": "https://gazeta.ua/ru/articles/politics/_glava-cru-predlozhil-provesti-trehstoronnij-sammit-po-vojne-v-ukraine/1257639",
+      "source": "GDELT/HOTSPOTS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-08-31T00:45:57.661123+05:00",
+      "age_min": 91.0
     },
     {
       "hash": "38dc900083ebd085431f47d7f4dfbc9b",
@@ -585,58 +636,6 @@
       "status": "new",
       "ts": "2026-08-31T00:20:30.239195+05:00",
       "age_min": 30.1
-    },
-    {
-      "hash": "c46230a3a6741eedb31af9b7bfd64c30",
-      "title": "Trump’s ambassador to Italy is flaunting his wealth, and it’s dividing Italians",
-      "original_title": "Trump’s ambassador to Italy is flaunting his wealth, and it’s dividing Italians",
-      "rss_summary": "Trump’s ambassador to Italy is flaunting his wealth, and it’s dividing Italians&nbsp;&nbsp;The Washington PostTrump’s Billionaire Ambassador Divides Italy With $450M ‘Love Boat’&nbsp;&nbsp;The Daily BeastTrump’s ambassador to Italy is cruising the Med on a $450M yacht&nbsp;&nbsp;ABC17NEWSU.S. Ambassador Fertitta is captivated by the island: \"Sardinia is great, I'll be back soon.\"&nbsp;&nbsp;L'Unione Sarda.it",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPakp2N2RDSXVaQWRWMlpjRWlEdWQ4dFg5WENCaDhJSzJiYzRaUXpSenR2RlhyeUVfeUhUXzBpZHBIMi1XRFpqY3FxbXg3YTBRQnVwdzF0TjlOY2hoN2NlRFpCMGxXVDNkT0M4NDN5TXE4c3dtWWRxR3NCVXJ4NDdua3cwX0xOTWFPR1RxUmctRGFuNGxidXlVV0k1Tkw5dUQ2bWlIZTBXREpERTBLOXdnMUpVdXBMUQ?oc=5",
-      "source": "The Washington Post",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-08-31T00:20:17.654193+05:00",
-      "age_min": 43.9
-    },
-    {
-      "hash": "162aa05eb4e4c9d0c372d9963dabb108",
-      "title": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
-      "original_title": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
-      "rss_summary": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike&nbsp;&nbsp;Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNEV4WGNSSk5rZVpZemdOckQzOFFUTEszd1gxSnBvTFNBNzdJR1pIbGFJenVhWlJ1R2R0ZlhYZWdOdXJNYVd2Y2xzYjlJcG4zQlc0QWFBdjhXeFZBWGJnQmlNRzlrVnNTdTlGelBEaDFuSlNiNzBYSkNhQkRXbkRwWEdLYldZQnU3WDFEMFpPazV2V05pamRRQ250NGpmTXZOdGZsY1JjQ0liVWtBdW5GVEhyWQ?oc=5",
-      "source": "Bloomberg.com",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-31T00:20:01.314778+05:00",
-      "age_min": 20.0
-    },
-    {
-      "hash": "32a845de58f6ac80806a77627ac85470",
-      "title": "На Западе обвинили европейских лидеров в провокации России на ядерный ответ",
-      "original_title": "На Западе обвинили европейских лидеров в провокации России на ядерный ответ",
-      "rss_summary": "",
-      "link": "https://lenta.ru/news/2026/08/31/na-zapade-obvinili-evropeyskih-liderov-v-provokatsii-rossii-na-yadernyy-otvet/",
-      "source": "Lenta.ru",
-      "score": 9,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-08-31T00:19:57.506839+05:00",
-      "age_min": 15.9
-    },
-    {
-      "hash": "368a26bc7e6f19913f6f8819bff62a39",
-      "title": "⚡️Два человека погибли, более 10 ранены после ракетного удара по Белгороду - врио губернатора [...]",
-      "original_title": "⚡️Два человека погибли, более 10 ранены после ракетного удара по Белгороду - врио губернатора [...]",
-      "rss_summary": "⚡️Два человека погибли, более 10 ранены после ракетного удара по Белгороду - врио губернатора&quot;В результате целенаправленной ракетной атаки киевского режима по Белгороду мы понесли потери. На территории одного из коммерческих объектов города погибли мужчина и 16-летний подросток. (...) Еще 12 человек получили ранения. Среди них семь подростков 16 и 17 лет&quot;, - сообщил врио губернатора Белгородской области Александр Шуваев.@interfaxonline",
-      "link": "https://t.me/interfaxonline/77959",
-      "source": "TG/Interfax",
-      "score": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-08-30T23:52:14.221178+05:00",
-      "age_min": 16.7
     }
   ]
 }
