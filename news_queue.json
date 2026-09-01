@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T19:22:21.090562+05:00",
+  "updated": "2026-09-01T19:36:12.036773+05:00",
   "items": [
     {
       "hash": "e7b4f7ed318ecf776ef521926d9869ab",
@@ -28,19 +28,6 @@
       "age_min": 71.0
     },
     {
-      "hash": "4eb2b891e2a252720c29263cc59b4ba6",
-      "title": "Iran war - AP News",
-      "original_title": "Iran war - AP News",
-      "rss_summary": "Iran war&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTFBDN3lZVFNqZFYweXk0alB5QjFaRmRNM19UM1JnTjFMMWFlTmxWdENnb25wQ005aDZ2bGtNYTRsaTI?oc=5",
-      "source": "AP",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-01T15:34:03.848954+05:00",
-      "age_min": 4.7
-    },
-    {
       "hash": "f685523c7671b6d08a9a5f000171e820",
       "title": "Israeli strikes kill five in Gaza as military says it arrests Hamas militant",
       "original_title": "Israeli strikes kill five in Gaza as military says it arrests Hamas militant",
@@ -65,6 +52,19 @@
       "status": "new",
       "ts": "2026-09-01T16:33:44.055015+05:00",
       "age_min": 51.0
+    },
+    {
+      "hash": "ad6efa54d3095452e556305ff080a3bb",
+      "title": "Oil jumps over 2% as tanker attacks deepen US-Iran tensions",
+      "original_title": "Oil jumps over 2% as tanker attacks deepen US-Iran tensions",
+      "rss_summary": "Oil prices rose on Tuesday after tensions flared in the Middle East and the US threatened more strikes on Iran.",
+      "link": "https://www.al-monitor.com/originals/2026/09/oil-jumps-over-2-tanker-attacks-deepen-us-iran-tensions",
+      "source": "Al-Monitor",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-01T19:33:45.132349+05:00",
+      "age_min": 81.0
     },
     {
       "hash": "ad48749139cc81b77258631ba2af41db",
@@ -327,56 +327,17 @@
       "age_min": 34.9
     },
     {
-      "hash": "ff24d68b6820138dcc37163077f22fa1",
-      "title": "The Odds of a September Rate Hike Have Nearly Doubled, Courtesy of Fed Chair Kevin Warsh -- Here's What He Just Said",
-      "original_title": "The Odds of a September Rate Hike Have Nearly Doubled, Courtesy of Fed Chair Kevin Warsh -- Here's What He Just Said",
-      "rss_summary": "The Odds of a September Rate Hike Have Nearly Doubled, Courtesy of Fed Chair Kevin Warsh -- Here's What He Just Said&nbsp;&nbsp;The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQR1dTek5Ccm5XaXdMSldDVEV1cHQ5a0taOFZ0T1d4U0dGTFo2N2l5dVIyaXdsZVNHQy1uQ1JucVRIQzVrdlBNUUdBbGV3M3NVNkhYSzJPWmhaUUpPcTlVVGtoRFhTVW5jSjg3bGV3QS1MOUsxdklfTlpZbHJHY05sVGJzaHQ0OGNmVThvLUFVcnVRV25zd3ZFTmkzWUJVcVJSMXd4UThFYjVZZUs0cDlaNUYwNll0c05Nd3pvYzBTdEVRMV9SdlNCX1dJa3cwa0tRTFM0dFF6NnRpNkJGZHpiNDJtMng2bGJzSW43V3lZVkh0QW5aT3FVMV9VWE5TaEhPRzdFWFFCSDdRbVhlaTRPeWJlVlVaRG1RN2ow?oc=5",
-      "source": "The Globe and Mail",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-01T15:34:23.687002+05:00",
-      "age_min": 81.2
-    },
-    {
-      "hash": "cb2a613f9b2564de4e44334d482c3ba7",
-      "title": "French Assets Are Already Under Pressure Ahead of 2027 Election",
-      "original_title": "French Assets Are Already Under Pressure Ahead of 2027 Election",
-      "rss_summary": "The premium that France pays to borrow over Germany, among the most-closely watched bond risk gauges, is near the highest since the days of Europe’s sovereign debt crisis in 2012. Nerves are also spilling into France’s stock and corporate debt markets, fueling underperformance versus international peers. Bloomberg's Alice Gledhill reports. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-01/french-assets-are-under-pressure-ahead-of-2027-election-video",
-      "source": "Bloomberg Politics",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-01T15:34:05.852866+05:00",
-      "age_min": 64.1
-    },
-    {
-      "hash": "d1d30702dbd17e1cf88d7148d6c59c9b",
-      "title": "Trump administration asks US appeals court to lift order blocking mail-in voting rule",
-      "original_title": "Trump administration asks US appeals court to lift order blocking mail-in voting rule",
-      "rss_summary": "Trump administration asks US appeals court to lift order blocking mail-in voting rule&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNHBPTzVHS2xtVzM3MlV1WTBZMFJ2bjliVlpPU1VwanRZSlUzcHMzNnFCMGpNWWNwUmRkWjBkSGVUVmh3RzlScUlSdVBZN09lcGRaNkQxUEh0WV9UNXV1SU9La09Db3h6WjRkUmlNS0ZiN2x4T1FfTkNybWMxRXNNQjBLTzBHcVVCVVJyWmxhYWxaYXB6Z2JreVdsMU5oeFdVM0F5WTNhaFo4YkJDMXNqUklaWlgxWGp4WDkxZFY5OXdzNk93Q3dGbjdn?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-01T15:34:02.430323+05:00",
-      "age_min": 19.5
-    },
-    {
-      "hash": "7db1095125f5eef64594fb389d0effb8",
-      "title": "US Army Secretary Driscoll Resigns Following Hegseth Clash",
-      "original_title": "US Army Secretary Driscoll Resigns Following Hegseth Clash",
-      "rss_summary": "US Army Secretary Dan Driscoll submitted his resignation to President Donald Trump and is stepping down after repeated clashes with his boss, Pete Hegseth. His resignation leaves the service without several top leaders as the conflict with Iran continues. Rachel Schilke of Bloomberg Government has more. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-01/us-army-secretary-resigns-following-hegseth-clash-video",
+      "hash": "ea070e9721401adae4e9ecae02330a8c",
+      "title": "Odd Lots: Adam Posen on Why a “Family Fight” Is Good for the Fed",
+      "original_title": "Odd Lots: Adam Posen on Why a “Family Fight” Is Good for the Fed",
+      "rss_summary": "On this episode of the Odd Lots podcast, Adam Posen, president of the Peterson Institute for International Economics, tells Joe Weisenthal and Tracy Alloway what Fed Chairman Kevin Warsh means when he uses the term, \"family fight,\" to describe debate on policy decisions and why he thinks some dissents may be beneficial. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-01/odd-lots-adam-posen-on-why-a-family-fight-is-good-for-the-fed",
       "source": "Bloomberg",
-      "score": 10,
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-09-01T15:33:33.520815+05:00",
-      "age_min": 5.0
+      "ts": "2026-09-01T19:33:10.145940+05:00",
+      "age_min": 10.0
     },
     {
       "hash": "f7d604c6751c3d0c1669344d9a227386",
@@ -519,19 +480,6 @@
       "age_min": 31.9
     },
     {
-      "hash": "b09077a9a8873a425019ba4417a885d3",
-      "title": "Teen girl charged with murder over recording of San Diego mosque attack",
-      "original_title": "Teen girl charged with murder over recording of San Diego mosque attack",
-      "rss_summary": "Prosecutors say the 17-year-old from North Carolina also published a manifesto from the two teenage gunmen in the 18 May attack.",
-      "link": "https://www.bbc.co.uk/news/articles/c2dw3wn972no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-01T15:33:34.538375+05:00",
-      "age_min": 6.7
-    },
-    {
       "hash": "cc451ddc53f3fef4fc85c36e98aee54c",
       "title": "California Legislature to vote on wildfire reforms after blocking key parts of Newsom’s plan",
       "original_title": "California Legislature to vote on wildfire reforms after blocking key parts of Newsom’s plan",
@@ -647,6 +595,57 @@
       "status": "new",
       "ts": "2026-09-01T18:48:11.000496+05:00",
       "age_min": 18.8
+    },
+    {
+      "hash": "5f71cd9d9fbe412deecbc9d68ab1bbe2",
+      "title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "original_title": "Indian Prime Minister Modi asks Putin to end Ukraine war amid U.S. tariff threat on Russian oil",
+      "rss_summary": "Indian PM Narendra Modi has urged Russia to end the Ukraine war and to cease hostilities.",
+      "link": "https://www.cnbc.com/2026/09/01/russia-india-ukraine-war-oil-modi-putin.html",
+      "source": "CNBC World",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-01T19:33:43.312468+05:00",
+      "age_min": 10.7
+    },
+    {
+      "hash": "a1cecc4b2103c0d4a55f73b9ccd97fe4",
+      "title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+      "original_title": "Édouard Balladur, Embattled French Prime Minister, Dies at 97",
+      "rss_summary": "His time in office coincided with France’s fraught role in the 1994 Rwandan genocide and the corruption scandal known as the Karachi affair.",
+      "link": "https://www.nytimes.com/2026/08/31/world/europe/edouard-balladur-dead.html",
+      "source": "NYT World",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-01T19:33:11.582702+05:00",
+      "age_min": 6.2
+    },
+    {
+      "hash": "775bbb673749236c1ed3156ac59ba144",
+      "title": "Federal Reserve signals possible rate hike as inflation stays above target",
+      "original_title": "Federal Reserve signals possible rate hike as inflation stays above target",
+      "rss_summary": "Federal Reserve signals possible rate hike as inflation stays above target&nbsp;&nbsp;Traders Union",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLVlXWUJtU2x5UGVtQjVSQ29xRlBYZkRBMnI5Y2VpS0NMQ2VOTFdGbWRxX2FWbTdBYXlKSllLSlZjdWQtNG9wMEtOQU9zVlQxNUR4dmpmelJlVEtmZ1ZaYldRNm84Nll1MGNXdUF5YlhPVVdjdDI1M2xQR1F4WUJYUFdQTVJpLThrX29iSXpnMlh5WGV1?oc=5",
+      "source": "Traders Union",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-01T19:33:14.297770+05:00",
+      "age_min": 68.9
+    },
+    {
+      "hash": "9b88fcf4fd537faa3508bf540ffff53f",
+      "title": "Iran : Trump warnt vor Schlag , schließt Atomwaffen aber aus",
+      "original_title": "Iran : Trump warnt vor Schlag , schließt Atomwaffen aber aus",
+      "link": "https://www.merkur.de/politik/iran-trump-warnt-vor-schlag-schliesst-atomwaffen-aber-aus-zr-94469519.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 5,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-01T19:30:51.499623+05:00",
+      "age_min": 30.9
     }
   ]
 }
