@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T19:38:21.402980+05:00",
+  "updated": "2026-09-04T19:53:04.746097+05:00",
   "items": [
     {
       "hash": "a91206588016350f29cb2fe263bb67bc",
@@ -52,6 +52,19 @@
       "status": "new",
       "ts": "2026-09-04T17:47:58.533575+05:00",
       "age_min": 47.0
+    },
+    {
+      "hash": "e1cd3b9432fac8383fd970c0b7d3ce40",
+      "title": "Russian attack hits Ukraine's security service headquarters",
+      "original_title": "Russian attack hits Ukraine's security service headquarters",
+      "rss_summary": "For much of the war, Russian drone and missile attacks in Kyiv followed a particular rhythm. They almost always came at night.\nBut not, they're taking place during the day and in Kyiv. A Russian drone attack on Friday targeted the headquarters of Ukraine's SBU security service in central Kyiv, President Volodymyr Zelenskiy said.",
+      "link": "https://www.cbc.ca/news/world/russia-ukraine-daytime-attack-sbu-9.7332396?cmp=rss",
+      "source": "CBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-04T19:49:47.425563+05:00",
+      "age_min": 13.7
     },
     {
       "hash": "4930ed027566c2acee24d624105cab67",
@@ -235,58 +248,6 @@
       "age_min": 42.1
     },
     {
-      "hash": "806d49720607c5998f5b6c6c0840f2c5",
-      "title": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
-      "original_title": "Israel says it has cleared Hezbollah fighters from tunnels under key Lebanon ridge",
-      "rss_summary": "By Maya Gebeily and Rami AyyubBEIRUT/JERUSALEM, Sept 4 (Reuters) - Israel's military has cleared Hezbollah fighters holed up in tunnels under the strategic Ali al-Taher ridge in southern Lebanon, Israeli Defense Minister Israel Katz said on Friday, though the Iran-backed group did not immediately comment.Israel had said Hezbollah fighters were embedded in tunnels under the ridge, which overlooks a wide area and had become one of the most hotly contested areas in the Israel-Hezbollah war, despite",
-      "link": "https://www.al-monitor.com/originals/2026/09/israel-says-it-has-cleared-hezbollah-fighters-tunnels-under-key-lebanon-ridge",
-      "source": "Al-Monitor",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-04T15:49:20.094187+05:00",
-      "age_min": 2.8
-    },
-    {
-      "hash": "8315584d6b3ff28c9d7321cbd06af319",
-      "title": "EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee",
-      "original_title": "EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee",
-      "rss_summary": "EXCLUSIVE: Trump's bid to shield chip supply chain could backfire in Tennessee&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHFyWjB0QnNONEhxOUtDV3NaZW9vNmY3d3ZGSTVQQjdRWUM5Z2gtSDVtZzl0eFdoV19YSFExaC1oOWZSck1fR1JaUVRVWjRNOUtBUWd0d21yWk9KOUxOVmpORzBqbHhaUHRFTVZjMWFjSUlZc0UzMDJlRkx4Ym4xV2ZCTlZIWFlQN1hCU1owRkJCMm5CMUp6NHl3QnM3OHhwTkdLNnNQaTE?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-04T15:49:15.232523+05:00",
-      "age_min": 7.5
-    },
-    {
-      "hash": "202bc5beb976ce81fe7b01aaadee8bac",
-      "title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
-      "original_title": "Europe targeted by spiralling campaign of sabotage and Russia is the chief suspect",
-      "rss_summary": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
-      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-04T15:48:47.519837+05:00",
-      "age_min": 48.5
-    },
-    {
-      "hash": "30f95c3b2fbd5f9122767a7378ca14ac",
-      "title": "Labor Narrative Might Shift Quickly for Fed, Citi Economist Clark Says",
-      "original_title": "Labor Narrative Might Shift Quickly for Fed, Citi Economist Clark Says",
-      "rss_summary": "Veronica Clark, US economist at Citi, explains the scenarios she sees for inflation and labor market data that can lead to interest-rate cuts from the Federal Reserve. She speaks on “Bloomberg Brief.” (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-04/labor-narrative-may-shift-quickly-for-fed-citi-s-clark-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-04T15:48:46.644768+05:00",
-      "age_min": 23.6
-    },
-    {
       "hash": "2d9535de6983ccead32bb09f7e6bddf8",
       "title": "Netanyahu Says Iran Regime Nearing Collapse",
       "original_title": "Netanyahu Says Iran Regime Nearing Collapse",
@@ -390,17 +351,43 @@
       "age_min": 9.4
     },
     {
-      "hash": "b1ae38229926406e2a42469515fd26b0",
-      "title": "Trump envoys to visit Russia and Ukraine at weekend, TASS reports",
-      "original_title": "Trump envoys to visit Russia and Ukraine at weekend, TASS reports",
-      "rss_summary": "Trump envoys to visit Russia and Ukraine at weekend, TASS reports&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSEp2N095ZTZRVGpXbnNoa2M2RmZUZWEwMGlyekx2bzR1R1JZb056bjZVak1YVUpWNVhIellmSWVOTUxsbVpVX2Y2N2MyTXZSMHhZbW9jdjI4VHUyNjVOTEk2SFFDTDQwSmpTMTB4Qm91NEFVOGFrNmtXdmVkR2RETmFBcW5WWWFrT0hsUUZZQmFPcTJMdU5MckVDdk9WRjdMZUh1dm1n?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
+      "hash": "68f783a2b0045231b7d1c331a808ad89",
+      "title": "Dow futures fall after much stronger-than-expected jobs report: Live updates",
+      "original_title": "Dow futures fall after much stronger-than-expected jobs report: Live updates",
+      "rss_summary": "Dow futures fall after much stronger-than-expected jobs report: Live updates&nbsp;&nbsp;CNBCThe US economy added 162,000 jobs in August, more than double expectations&nbsp;&nbsp;CNNStock Market Today: S&amp;P 500, Dow open lower but Nasdaq edges up; Treasury yields get a lift as jobs data raises rate hike odds&nbsp;&nbsp;MarketWatchJobs Report Live Updates: U.S. Hiring Jumps, an Encouraging Sign for the Economy&nbsp;&nbsp;The New York TimesBlowout jobs report raises worries of Fed rate hike: Alp",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mNWp4VDc2ak1DN1JLX3cteTNHNlZVVFhrbl9tajVGNEpTSTR6bm9rWDJDcW5GbVhLQmktLWhqdUpMb0Q4Z1hhdW9LcjNGVk5kQkJkX29EUUFGWGI5VVhhN1Z0azc1WjlnMERMd3FDLUFVNzFLMHA40gF8QVVfeXFMTVVoemFpTmFxdjFvOGJsc1pRYk95LWh4R1VoNGdvNno4aG9SNmphZnVWTExaaGhIUnpra0ZtUUNMVXVWYWhHUUg0RUJ5OTA0OVVsb2YtZXp5Qno0TlVrd29Gd2lKVXhjU2prMkpFMnpkM2xacFRpTzVNMWJiNA?oc=5",
+      "source": "CNBC",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-09-04T15:49:15.228787+05:00",
-      "age_min": 53.6
+      "ts": "2026-09-04T19:49:02.911174+05:00",
+      "age_min": 84.1
+    },
+    {
+      "hash": "d5a3f6f32fba3a3bff21110918b5181c",
+      "title": "'A rare moment of joy': Nepal tunnel rescues give hope for more flood survivors",
+      "original_title": "'A rare moment of joy': Nepal tunnel rescues give hope for more flood survivors",
+      "rss_summary": "Two people have been rescued more than a week after more than 1,300 people were killed in flash floods on the Nepal-Tibet border.",
+      "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-04T19:48:45.874522+05:00",
+      "age_min": 8.8
+    },
+    {
+      "hash": "17f3575d1e49f309035815a07d4dd6ce",
+      "title": "Lululemon Falls on China Business; Tesla Cybercab Service | Stock Movers",
+      "original_title": "Lululemon Falls on China Business; Tesla Cybercab Service | Stock Movers",
+      "rss_summary": "On this episode of Stock Movers:\n\n- Lululemon (LULU) shares are diving as its China business is showing signs of strain, with revenue in mainland China falling 2% in the second quarter after adjusting for currency fluctuations.\n- Tesla (TSLA) shares are lower on news it formally rolled out the Cybercab for robotaxi service, a long-anticipated step in Elon Musk’s effort to push the company away from its roots as an auto manufacturer. The US National Highway Traffic Safety Administration opened a ",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-04/lululemon-falls-on-china-business-tesla-cybercab-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-04T19:48:44.768266+05:00",
+      "age_min": 12.8
     },
     {
       "hash": "a54e8ffeedf0b102d710dd2bba907d1e",
@@ -645,6 +632,19 @@
       "status": "new",
       "ts": "2026-09-04T19:03:28.358674+05:00",
       "age_min": 3.3
+    },
+    {
+      "hash": "44fec4c10cf73c774799d0730b4886c4",
+      "title": "Election officials raise alarm over implementing new mail voting rules before midterms: \"Virtually impossible\"",
+      "original_title": "Election officials raise alarm over implementing new mail voting rules before midterms: \"Virtually impossible\"",
+      "rss_summary": "Election officials raise alarm over implementing new mail voting rules before midterms: \"Virtually impossible\"&nbsp;&nbsp;CBS NewsHere’s who is mostly likely to vote by mail&nbsp;&nbsp;CNNTrump Administration Again Asks Supreme Court to Allow New Mail-Voting Rules&nbsp;&nbsp;WSJTrump administration asks Supreme Court to allow Postal Service rules on mail ballots&nbsp;&nbsp;CBS NewsTrump administration asks Supreme Court to allow mail-in ballot restrictions&nbsp;&nbsp;The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlMxellBTFdiYVpVWWM0eDN5WUFTck96d2Z6V2JIUE9jT0h3ZzFVVExMT3Fra0d2YjJUV0pBQUo3UkpWNVkzaDNuN2ZRU0JLMlRYZHRwY2tpVlRCZnliOVJNX0VvLWU1OXQ3ZXZreUJ2YXh2QWdES0ZaWG5pSWJmVWp6c3RsWXc?oc=5",
+      "source": "CBS News",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-04T19:49:04.537738+05:00",
+      "age_min": 42.9
     }
   ]
 }
