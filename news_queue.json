@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-07T22:20:46.107791+05:00",
+  "updated": "2026-09-07T22:35:26.549530+05:00",
   "items": [
     {
       "hash": "76c606fceb0ff216286efbeb4ea63e67",
@@ -15,19 +15,6 @@
       "age_min": 76.7
     },
     {
-      "hash": "03abd84a20d2be14e1f4908069d94413",
-      "title": "One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later",
-      "original_title": "One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later",
-      "rss_summary": "One attack, many Americas: Why 9/11 and its many griefs land differently 25 years later&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdUZyaGhReXk2bmlDcjBJSU1sQjB1TGtqbmNWOHVQOGlLZmxsZUdrdlJNQXM3WkE0MzY3SXlfSW1aQjgxRkQyeHlVX0hWWWVsZTkxQnh0QXZNTUN0MEFVN1FsR0Zrb253Zy1KSHdyOHBKV2tvYWV1MUg2RUw1WW1nNnctY0pFcUc4NWZDNEltTUxwU0RWT294V2Vka3U?oc=5",
-      "source": "AP News",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-07T18:34:36.161554+05:00",
-      "age_min": 47.6
-    },
-    {
       "hash": "7cf13adae95e1b408dad6a8b706f40ee",
       "title": "Russia slams US dispatch of missile system to Norway as another blow to idea of arms talks",
       "original_title": "Russia slams US dispatch of missile system to Norway as another blow to idea of arms talks",
@@ -39,6 +26,18 @@
       "status": "new",
       "ts": "2026-09-07T19:05:22.369773+05:00",
       "age_min": 77.9
+    },
+    {
+      "hash": "fa4cb8b2f30c18bd12c6efdf6ddd16aa",
+      "title": "U . S . Energy Secretary Wright says Iran nuclear deal may never happen ( He Not Wrong )",
+      "original_title": "U . S . Energy Secretary Wright says Iran nuclear deal may never happen ( He Not Wrong )",
+      "link": "https://freerepublic.com/focus/f-news/4394565/posts",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-07T22:30:59.502869+05:00",
+      "age_min": 46.0
     },
     {
       "hash": "f6494d18bde9dd82fffb3890ed3cfd88",
@@ -247,6 +246,19 @@
       "status": "new",
       "ts": "2026-09-07T18:48:46.280407+05:00",
       "age_min": 26.9
+    },
+    {
+      "hash": "737ba47865d597297ed77ee64d5b3c9c",
+      "title": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
+      "original_title": "Iran’s Oil Dollars Are Drying Up—and Plunging It Deeper Into Crisis",
+      "rss_summary": "The U.S. blockade and dwindling supplies already on the water are squeezing Tehran’s most important export earner.",
+      "link": "https://www.wsj.com/world/middle-east/irans-oil-dollars-are-drying-upand-plunging-it-deeper-into-crisis-21bae4bd?mod=rss_worldnews",
+      "source": "WSJ",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-07T22:32:30.301061+05:00",
+      "age_min": 7.5
     },
     {
       "hash": "3c9a3b44b3c1bfca2ffe6e669d652ade",
@@ -609,41 +621,29 @@
       "age_min": 35.0
     },
     {
-      "hash": "4c888da13a81ac8f16467e9ddcbdbaf1",
-      "title": "Residents live in constant anxiety as Israel escalates strikes on Nabatieh region",
-      "original_title": "Residents live in constant anxiety as Israel escalates strikes on Nabatieh region",
-      "link": "https://www.naharnet.com/stories/en/322300-residents-live-in-constant-anxiety-as-israel-escalates-strikes-on-nabatieh-region",
-      "source": "GDELT/HOTSPOTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-07T22:16:15.964752+05:00",
-      "age_min": 61.3
-    },
-    {
-      "hash": "6bd91b93f727c4067b9bb50b1b315d78",
-      "title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
-      "original_title": "US denies that Iran struck an uncrewed US military ship in the Strait of Hormuz",
-      "link": "https://www.ktre.com/2026/09/07/us-denies-that-iran-struck-an-uncrewed-us-military-ship-strait-hormuz/",
-      "source": "GDELT/HOTSPOTS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-07T22:16:15.945507+05:00",
-      "age_min": 91.3
-    },
-    {
-      "hash": "a877d68490366da10abe785e0aa47fe7",
-      "title": "Strike closes Eiffel Tower over exclusion of female staff for Hindu group's visit",
-      "original_title": "Strike closes Eiffel Tower over exclusion of female staff for Hindu group's visit",
-      "rss_summary": "The Eiffel Tower was forced to close on Monday after staff went on strike in protest at the exclusion of female employees during a recent visit by a Hindu delegation. The Paris landmark's operator said the group had requested that the private visit be organised in such a way as to limit “interactions with women”.",
-      "link": "https://www.france24.com/en/france/20260907-strike-closes-eiffel-tower-paris-exclusion-female-staff-hindu-group-visit-baps",
-      "source": "France24",
-      "score": 7,
+      "hash": "01fdb15dece8791174ac148cd188ab69",
+      "title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+      "original_title": "Philippines Lawmaker, Cousin of Marcos, Charged With Taking Kickbacks",
+      "rss_summary": "A cousin of President Ferdinand Marcos Jr. was charged with plundering public funds meant for flood control in the Southeast Asian country. He has denied wrongdoing.",
+      "link": "https://www.nytimes.com/2026/09/07/world/asia/philippines-romualdez-arrest-kickbacks.html",
+      "source": "NYT World",
+      "score": 8,
       "weight": 3,
       "status": "new",
-      "ts": "2026-09-07T22:18:36.884000+05:00",
-      "age_min": 10.4
+      "ts": "2026-09-07T22:31:59.048761+05:00",
+      "age_min": 2.3
+    },
+    {
+      "hash": "5d486d7c18235486ed1b8e3c1dc3f982",
+      "title": "Arab News | UN envoy warns Yemen fighting risks wider escalation , derailing peace efforts",
+      "original_title": "Arab News | UN envoy warns Yemen fighting risks wider escalation , derailing peace efforts",
+      "link": "https://www.arabnews.com/middle-east/un-envoy-warns-yemen-fighting-risks-wider-escalation-derailing-peace-efforts-3000823",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-07T22:30:59.527325+05:00",
+      "age_min": 46.0
     }
   ]
 }
