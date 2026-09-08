@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T22:06:52.959195+05:00",
+  "updated": "2026-09-08T22:24:20.088604+05:00",
   "items": [
     {
       "hash": "d815118cb47405bc414acb9f619f81a1",
@@ -39,6 +39,19 @@
       "status": "new",
       "ts": "2026-09-08T20:34:31.901320+05:00",
       "age_min": 31.9
+    },
+    {
+      "hash": "97fdc51b0ecf9ad67ddc1be65bfcc05d",
+      "title": "JD Vance is betraying his fellow Marines",
+      "original_title": "JD Vance is betraying his fellow Marines",
+      "rss_summary": "Why is Vice President JD Vance claiming the Iran War isn't a war?",
+      "link": "https://thehill.com/opinion/white-house/6075428-iran-war-denial-impact/",
+      "source": "The Hill",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-08T22:22:01.261162+05:00",
+      "age_min": 22.0
     },
     {
       "hash": "7bc87ef661c3e43583fc2747eec48042",
@@ -391,19 +404,6 @@
       "age_min": 2.2
     },
     {
-      "hash": "3b8362c7d8b4372835c14a714f0becaf",
-      "title": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
-      "original_title": "Why Stocks Are Defying Gravity and What Could Bring Them Down",
-      "rss_summary": "Why Stocks Are Defying Gravity and What Could Bring Them Down&nbsp;&nbsp;The New York TimesThe Stock Market Is Flashing a Warning Seen Only 6 Times Since 1871, and History Is Crystal Clear That a Disaster Could Be Heading Toward Wall Street&nbsp;&nbsp;Yahoo FinanceWorried About a Stock Market Crash? History Says This Mistake Could Cost You Tens of Thousands of Dollars.&nbsp;&nbsp;The Motley FoolThe Coming 10 Year Decline In Stocks (SP500)&nbsp;&nbsp;Seeking AlphaFed warns S&amp;P 500 equity risk",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeVhZcEJvZ3BfMlcxazNWZFlTdUdaN0RZUk16aGh4TndmTTRFMnVrejJnbHA3eTRONzRrOXNlZ2ZrRG1sQlB0dFJqMlVPNzRNVG1PT0RvaDF4bGM0WFhrR2U5dS16VWlnNlUtb2tpWXhHdGVmTW1VdGJWR3dGVFlja0ln?oc=5",
-      "source": "The New York Times",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-08T18:19:09.824823+05:00",
-      "age_min": 76.1
-    },
-    {
       "hash": "5da4a76071be95333d2239c460dd287a",
       "title": "Don't whitewash Paterno, but don't cancel him, either",
       "original_title": "Don't whitewash Paterno, but don't cancel him, either",
@@ -560,6 +560,58 @@
       "age_min": 88.9
     },
     {
+      "hash": "f10eaa47880f4433e2d9e72f35b9efe2",
+      "title": "Canada trade fight hits Kansas",
+      "original_title": "Canada trade fight hits Kansas",
+      "rss_summary": "🔬 Plus: Weird trailer features Nathan Fielder and Elizabeth Holmes {beacon} &#8202; It’s Tuesday, and it's time to get back into the swing of things after a nice long Labor Day weekend (which is proving to be tough). &#8202; In today's issue: Canada's tariffs in place \"Trump-a-palooza\" heads to Dallas New Hampshire elections Patriots pay Christian...",
+      "link": "https://thehill.com/newsletters/1230-report/6076728-canada-trade-fight-hits-kansas/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-08T22:22:01.265195+05:00",
+      "age_min": 45.5
+    },
+    {
+      "hash": "661abbbf6721fac2b4f146a5ec4a8b77",
+      "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "original_title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
+      "rss_summary": "The foreign secretary accuses settlers of carrying out the \"ethnic cleansing\" of Palestinians, as France and Canada also launch sanctions.",
+      "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-08T22:22:01.001173+05:00",
+      "age_min": 12.4
+    },
+    {
+      "hash": "58cf2c276ea867be3c61cd2e0c5f16e5",
+      "title": "Supreme Court Asked to Enter Voter Verification System Fight",
+      "original_title": "Supreme Court Asked to Enter Voter Verification System Fight",
+      "rss_summary": "The Justice Department has asked the US Supreme Court to allow the Trump administration to resume expansion of an internal government database available to states to verify the citizenship of voters.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-08/supreme-court-asked-to-enter-voter-verification-database-fight",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-08T22:21:34.658368+05:00",
+      "age_min": 105.2
+    },
+    {
+      "hash": "98ee3402ba2db4366718ea97fbddeb8d",
+      "title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "original_title": "In West Bank, date farmers weigh impact of UK sanctions on Israeli settlers",
+      "rss_summary": "Palestinians strongly back a ban on settlement goods, but Israel's government says it is a \"big mistake\".",
+      "link": "https://www.bbc.co.uk/news/articles/cvgy6gd228vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-08T22:21:04.567829+05:00",
+      "age_min": 104.5
+    },
+    {
       "hash": "4417e219c276aa6774623cfb1b162432",
       "title": "EU and Canada Plan Far-Reaching Deal to Strengthen Partnership",
       "original_title": "EU and Canada Plan Far-Reaching Deal to Strengthen Partnership",
@@ -597,56 +649,6 @@
       "status": "new",
       "ts": "2026-09-08T21:49:44.387738+05:00",
       "age_min": 62.7
-    },
-    {
-      "hash": "f5087248d82acc474d0daaf822acc4e5",
-      "title": "Former GOP rep: Trump's 'bizarre' New Mexico post is 'hurting his own team'",
-      "original_title": "Former GOP rep: Trump's 'bizarre' New Mexico post is 'hurting his own team'",
-      "rss_summary": "Former Republican Rep. Charlie Dent (Pa.) on Monday called President Trump's social media posts referring to New Mexico as \"New America\" \"bizarre\" and accused him of \"hurting his own team\" ahead of the midterms. MS NOW's Peter Alexander asked Dent on \"State of Play\" about the president's latest posts, including an AI-generated map with the...",
-      "link": "https://thehill.com/homenews/administration/6076169-charles-dent-donald-trump-ai-posts-new-mexico-maps/",
-      "source": "The Hill",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-08T21:17:46.099547+05:00",
-      "age_min": 27.2
-    },
-    {
-      "hash": "f28ab1fb4511fb8f847ec1ef312d3afc",
-      "title": "US Pursues Deportees Abroad for Hundreds of Millions in Unpaid Fines",
-      "original_title": "US Pursues Deportees Abroad for Hundreds of Millions in Unpaid Fines",
-      "rss_summary": "The Trump administration is hiring private contractors to track down deported migrants who it claims owe the US government hundreds of millions of dollars in unpaid penalties, a move that will test how far its immigration crackdown can reach across borders.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-08/us-pursues-deportees-abroad-for-hundreds-of-millions-in-unpaid-fines",
-      "source": "Bloomberg Politics",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-08T21:17:19.459999+05:00",
-      "age_min": 4.9
-    },
-    {
-      "hash": "fe9d27d917d070ac79ee28e29d11e1cd",
-      "title": "In Gaza , journalists document a war that has reshaped their own lives",
-      "original_title": "In Gaza , journalists document a war that has reshaped their own lives",
-      "link": "http://www.israelherald.com/news/279293911/in-gaza-journalists-document-a-war-that-has-reshaped-their-own-lives",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-08T21:01:06.435924+05:00",
-      "age_min": 91.1
-    },
-    {
-      "hash": "07dd5309ca9926eae62e25671f9a51cf",
-      "title": "Iran Is Not Even Close to Winning the War",
-      "original_title": "Iran Is Not Even Close to Winning the War",
-      "link": "https://www.theepochtimes.com/opinion/iran-is-not-even-close-to-winning-the-war-6081826",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-08T21:01:06.428816+05:00",
-      "age_min": 91.1
     }
   ]
 }
