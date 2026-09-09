@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T14:20:51.832349+05:00",
+  "updated": "2026-09-09T14:36:40.503470+05:00",
   "items": [
     {
       "hash": "414b70ee4684169a993036a30c9e160e",
@@ -13,6 +13,19 @@
       "status": "new",
       "ts": "2026-09-09T13:48:07.658548+05:00",
       "age_min": 15.5
+    },
+    {
+      "hash": "082db4f6d49f99ff5f16e51a5ef5a30d",
+      "title": "США нанесли удары по нескольким иранским нефтяным танкерам в ответ на атаку военного корабля",
+      "original_title": "US Hits Several Iran Oil Tankers in Response to Warship Attack",
+      "rss_summary": "The US attacked more Iranian oil tankers overnight, with the worsening tensions over control of the Strait of Hormuz sending Brent crude beyond $100 a barrel.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-09/us-hits-several-iran-oil-tankers-in-response-to-warship-attack",
+      "source": "Bloomberg Politics",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T14:33:47.932893+05:00",
+      "age_min": 15.7
     },
     {
       "hash": "69655c7f1c1af43f7c936ceb651c6540",
@@ -260,18 +273,6 @@
       "age_min": 12.5
     },
     {
-      "hash": "44e911a537b15dcd49e00a61dfaab0b4",
-      "title": "Fed Chairman Kevin Warsh Called Inflation  More Concerning  at His First Jackson Hole Speech . Does That Signal a Rate Hike Is Coming ?",
-      "original_title": "Fed Chairman Kevin Warsh Called Inflation  More Concerning  at His First Jackson Hole Speech . Does That Signal a Rate Hike Is Coming ?",
-      "link": "https://www.fool.com/investing/2026/09/08/fed-chairman-kevin-warsh-called-inflation-more-con/",
-      "source": "GDELT/MARKETS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T10:33:54.938673+05:00",
-      "age_min": 48.9
-    },
-    {
       "hash": "a08a84f23b58dded3e786e8ab392cd25",
       "title": "Ключевой порт России на Черном море подвергся ночной атаке дронов",
       "original_title": "Russia’s Key Black Sea Port Hit in Overnight Drone Attack",
@@ -285,18 +286,6 @@
       "age_min": 49.0
     },
     {
-      "hash": "193aa91724cb9835639cd0b7d701e727",
-      "title": "A European Central Bank rate hike is all but certain , the reasoning less so",
-      "original_title": "A European Central Bank rate hike is all but certain , the reasoning less so",
-      "link": "https://www.aol.co.uk/articles/european-central-bank-rate-hike-040001000.html",
-      "source": "GDELT/MARKETS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T10:33:54.924042+05:00",
-      "age_min": 33.9
-    },
-    {
       "hash": "aba5b56ddb881af736557733472ea404",
       "title": "Российские дроны убили двоих на границе Украина-Молдова, заявляют власти",
       "original_title": "Russian drones kill two at Ukraine-Moldova border crossing, authorities say",
@@ -308,6 +297,45 @@
       "status": "new",
       "ts": "2026-09-09T14:04:45.678770+05:00",
       "age_min": 90.6
+    },
+    {
+      "hash": "4113c0e2967a290b6171fc1164e5f73b",
+      "title": "Изменения TPS заставили иммигрантов из Сальвадора столкнуться с угрозой депортации Трампа",
+      "original_title": "TPS Changes Have El Salvador Immigrants Facing Trump Deportation Push",
+      "rss_summary": "Losing temporary protected status means Salvadorans&nbsp;must return to a country many of them no longer recognize&nbsp;or go underground in the US.",
+      "link": "https://www.bloomberg.com/news/features/2026-09-09/tps-changes-have-el-salvador-immigrants-facing-trump-deportation-push",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T14:33:47.927013+05:00",
+      "age_min": 3.8
+    },
+    {
+      "hash": "7135b358e3900b8a4f3d68dcde2b63a7",
+      "title": "Изображение вице-президента Филиппин в наручниках подделано из фотографии посещения школы",
+      "original_title": "Image of handcuffed Philippine vice president manipulated from school visit photo",
+      "rss_summary": "Image of handcuffed Philippine vice president manipulated from school visit photo&nbsp;&nbsp;AFP Fact Check",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TRlRMa3BrM00waDRrT0dJM09iQjZ0RWI4Q0owemdsNmlGVGd1NXRDNDFyWnY5VTkwN0lyTUpGbGZ0SndXX0xCX3lQRnEzYjNHcnBock5oRHI?oc=5",
+      "source": "AFP Fact Check",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T14:33:47.551710+05:00",
+      "age_min": 3.0
+    },
+    {
+      "hash": "91b6c56ae6e611005def4c4082b7dc2a",
+      "title": "Позен считает, что «позирование» Бессента в отношении иены является опрометчивым",
+      "original_title": "Posen Says Bessent's 'Posturing' on Yen Is Ill-Advised",
+      "rss_summary": "Adam Posen, president of the Peterson Institute for International Economics, discusses Treasury Secretary Scott Bessent's challenge to traders to test his resolve on boosting the yen. \"It's a bad policy,\" Posen tells Bloomberg Television. \"As Secretary [Robert] Rubin used to say, and everyone up until now used to say: 'A strong dollar is in the US interest.'\" (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-09/posen-says-bessent-s-posturing-on-yen-is-ill-advised-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T14:33:14.812002+05:00",
+      "age_min": 15.1
     },
     {
       "hash": "55bd57b06bffe140bb70b30207e19bcf",
@@ -464,32 +492,6 @@
       "age_min": 24.4
     },
     {
-      "hash": "9a3853b864fc1f9e5821f9dc46299c0c",
-      "title": "❗️Иран атаковал два судна США, восемь танкеров и десять судов-нарушителей в Персидском заливе [...]",
-      "original_title": "❗️Иран атаковал два судна США, восемь танкеров и десять судов-нарушителей в Персидском заливе [...]",
-      "rss_summary": "❗️Иран атаковал два судна США, восемь танкеров и десять судов-нарушителей в Персидском заливеПо сообщению агентства Tasnim со ссылкой на КСИР, удары были нанесены для предотвращения пересечения Ормузского пролива.",
-      "link": "https://t.me/bbbreaking/237517",
-      "source": "TG/Bloomberg",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T10:35:14.626486+05:00",
-      "age_min": 4.7
-    },
-    {
-      "hash": "5a575f438888d235d69341ac473a965b",
-      "title": "Trump gifted top aide Natalie Harp a $45,000 holiday bonus",
-      "original_title": "Trump gifted top aide Natalie Harp a $45,000 holiday bonus",
-      "rss_summary": "Executive assistant’s role has burst into public view in recent weeks",
-      "link": "https://www.ft.com/content/12791bc6-7cbc-4d80-b7fc-84fdff095157?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T10:33:58.530545+05:00",
-      "age_min": 80.9
-    },
-    {
       "hash": "7dcdc8f28cc4d0c399741a3afae0af07",
       "title": "Трамп заявил Путину, что американо-российские отношения могут быть «полностью восстановлены» при быстром прекращении войны на Украине, заявляет Кремль",
       "original_title": "Trump told Putin U.S.-Russia ties could be 'fully restored' with swift end to Ukraine war, Kremlin says",
@@ -581,6 +583,32 @@
       "age_min": 20.6
     },
     {
+      "hash": "4dc0f8b1e1f4a3078f5a3cd1647b1cbe",
+      "title": "Тайная донорская сеть, связанная с Вэнсом, привлекает влиятельных игроков Республиканской партии в Далласе",
+      "original_title": "Secretive Vance-aligned donor network draws GOP power players in Dallas",
+      "rss_summary": "DALLAS — A secretive donor network closely aligned with Vice President Vance drew Cabinet members, lawmakers and major GOP donors to a \"cowboy-chic\" bar here Tuesday night for a marquee pre-party ahead of the Republicans' midterm convention.Why it matters: The donor group, Rockbridge, has become an influential hub for conservative donors and operatives as Vance prepares for a likely run for the White House in 2028.Inside the room: Between 200 and 250 people attended the private welcome reception",
+      "link": "https://www.axios.com/2026/09/09/vance-fundraising-network-rockbridge-gop",
+      "source": "Axios",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T14:33:52.493931+05:00",
+      "age_min": 10.7
+    },
+    {
+      "hash": "7c80c04e4f48b4e25f388bfdceeff4c2",
+      "title": "Испанец Альбарес заявил, что настроен на возвращение к нормальной жизни в Сеуте",
+      "original_title": "Spain's Albares Says Foused on Returning to Normality in Ceuta",
+      "rss_summary": "Spanish Foreign Minister José Manuel Albares discusses the late-July incident that saw roughly 80,000 people illegally enter Ceuta, Spain’s exclave in North Africa, from Morocco. \"We are focused on giving back normality,\" Albares tells Bloomberg Television. \"We are totally in favor of understanding everything,\" he says, stressing that there were several ongoing probes.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-09/albares-foused-on-returning-to-normality-in-ceuta-video",
+      "source": "Bloomberg Politics",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T14:33:47.931424+05:00",
+      "age_min": 13.5
+    },
+    {
       "hash": "fe386e0801adc54fbc2b158c13db8202",
       "title": "ПРОВЕРКА ФАКТА: Турецкая полиция не привлекалась для обеспечения безопасности выборов BARMM",
       "original_title": "FACT CHECK: No Turkish police deployed to secure BARMM polls",
@@ -618,32 +646,6 @@
       "status": "new",
       "ts": "2026-09-09T14:04:49.038433+05:00",
       "age_min": 6.3
-    },
-    {
-      "hash": "622fd8d9d03ad497cc5afe124370f41d",
-      "title": "Плану радикальной экономии Колумбии предстоит трудный путь в Конгрессе",
-      "original_title": "Colombia’s Radical Austerity Plan Faces a Tough Road in Congress",
-      "rss_summary": "Facing what it calls the biggest fiscal crisis since Colombian independence two centuries ago, the government of President Abelardo de la Espriella is doing everything it can to avoid raising taxes.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-09/colombia-s-radical-austerity-plan-faces-a-tough-road-in-congress",
-      "source": "Bloomberg Politics",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T14:04:49.036696+05:00",
-      "age_min": 4.8
-    },
-    {
-      "hash": "94f386a67033e7a9a54b29e3d3f251af",
-      "title": "Ангола взвешивает возможность возвращения на рынок еврооблигаций на фоне приближающихся напряженных выборов",
-      "original_title": "Angola Weighs Return to Eurobond Market as Tight Election Looms",
-      "rss_summary": "Angola has completed its eurobond borrowing for 2026 and will weigh any return next year against market conditions as it heads toward an election, Finance Minister Vera Daves de Sousa said.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-09/angola-weighs-return-to-eurobond-market-as-tight-election-looms",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T13:33:15.018745+05:00",
-      "age_min": 33.1
     }
   ]
 }
