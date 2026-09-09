@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T19:06:02.169304+05:00",
+  "updated": "2026-09-09T19:22:58.312107+05:00",
   "items": [
     {
       "hash": "326bf66d5964eff61688d841032c2a9d",
@@ -39,6 +39,32 @@
       "status": "new",
       "ts": "2026-09-09T16:16:52.368589+05:00",
       "age_min": 13.9
+    },
+    {
+      "hash": "477266ab09b7111a590e2f27624ea2cb",
+      "title": "Canada's trade war with the US won't end with tariffs",
+      "original_title": "Canada's trade war with the US won't end with tariffs",
+      "rss_summary": "The recent escalation of the trade war with Canada identifies structural challenges in Washington’s supply chain resilience.",
+      "link": "https://thehill.com/opinion/international/6076794-us-canada-trade-war-nickel/",
+      "source": "The Hill",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T19:19:59.879688+05:00",
+      "age_min": 20.0
+    },
+    {
+      "hash": "4465383d4503dace5203c3007dad38c0",
+      "title": "Brent crude sails past $100 as Middle East war intensifies",
+      "original_title": "Brent crude sails past $100 as Middle East war intensifies",
+      "rss_summary": "The Iran war escalated this week as Yemen’s Iran-backed Houthi rebels attacked four southern Saudi Arabian cities and oil facilities.",
+      "link": "https://www.al-monitor.com/originals/2026/09/brent-crude-sails-past-100-middle-east-war-intensifies",
+      "source": "Al-Monitor",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-09T19:19:31.245126+05:00",
+      "age_min": 115.6
     },
     {
       "hash": "e2892ec3f0fe8dbc2e47949a32dcc673",
@@ -312,44 +338,6 @@
       "age_min": 112.5
     },
     {
-      "hash": "360b4979905aee6dc8b072233d09a88c",
-      "title": "Trump’s escalation of fight with Canada puts GOP Senate candidates in a vice",
-      "original_title": "Trump’s escalation of fight with Canada puts GOP Senate candidates in a vice",
-      "rss_summary": "President Trump's escalation of the trade war with Canada is coming at a bad time for Senate Republican candidates, who are being put in the awkward place of having to defend the administration's economic record while having to push back against Trump's targeting of critical Canadian imports and companies. Trump got pushback from a loyal...",
-      "link": "https://thehill.com/homenews/senate/6077659-trump-canada-trade-war-gop-candidates-midterms/",
-      "source": "The Hill",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T15:17:34.947757+05:00",
-      "age_min": 17.6
-    },
-    {
-      "hash": "68ba28ba6b990a061622c5c1bacaa60b",
-      "title": "War of words between China and Philippines over South China Sea claims",
-      "original_title": "War of words between China and Philippines over South China Sea claims",
-      "rss_summary": "War of words between China and Philippines over South China Sea claims&nbsp;&nbsp;WRAL",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYVF1eW84QmhwUzVwcl82ZjRBSDhVQ1oxcVQyM09IRDVvdjhrb2wwVGdKcE9TZGRtaUI0SUlKMFhxNEFhbVp0UThvWkQ5MEJhQVp4UG1uQWVDU1kyMm5ZMjZBOVFLRG9NU0cya2M5bXY2bkNqcXB3S0xNN0w2SzJXRnpmcl9IaFR1ZEtjSU4xSlRnR0lGaXhzWnFyTFg1d0Z4NlloWE90cTV4UQ?oc=5",
-      "source": "WRAL",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T15:17:30.646389+05:00",
-      "age_min": 5.9
-    },
-    {
-      "hash": "7b7d31c82695cffe9184e9a08f02489f",
-      "title": "US strikes five Iranian  shadow  tankers as fears of all - out war in Middle East rise",
-      "original_title": "US strikes five Iranian  shadow  tankers as fears of all - out war in Middle East rise",
-      "link": "https://www.mirror.co.uk/news/world-news/us-iran-war-shadow-tankers-37642378",
-      "source": "GDELT/HOTSPOTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-09T15:15:45.635080+05:00",
-      "age_min": 30.8
-    },
-    {
       "hash": "7a3ae0ce0735f85927e0ea21d19bf2e2",
       "title": "'Nothing left': thousands in Yemen flee deadly Houthi clashes",
       "original_title": "'Nothing left': thousands in Yemen flee deadly Houthi clashes",
@@ -463,6 +451,19 @@
       "age_min": 21.7
     },
     {
+      "hash": "dddf6d5272c637f4b03b5d695636fa87",
+      "title": "At least 14 killed in explosion at weapons depot in Syria's Idlib, state TV says",
+      "original_title": "At least 14 killed in explosion at weapons depot in Syria's Idlib, state TV says",
+      "rss_summary": "At least 14 killed in explosion at weapons depot in Syria's Idlib, state TV says&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYjc3cGhyUmRMMGN0WktZMUNsaF8wNy05RTBNY09sRUhxMnpTZ0thSl9Kam8ydlVnbUpWQjNMeWVDdUNIYVBjY0F4TTJyZUs4UlVxQ1BUUXhDalF2b0NYa2VBeTV3bUlMN1NISGlDN09VY2p5RFhUUUM0WWdBVDVRLTRtN3h6Rm5PZUdROVdvN281MmFTTm5pTllTVlFNcXZXMmZmUFZHUFlHbVI5?oc=5",
+      "source": "Reuters",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-09-09T19:19:24.738356+05:00",
+      "age_min": 73.7
+    },
+    {
       "hash": "d66ca398fb847c585a7608ea815769e1",
       "title": "McIlroy says Trump’s Irish Open visit will bring tight security and a different feel - apnews.com",
       "original_title": "McIlroy says Trump’s Irish Open visit will bring tight security and a different feel - apnews.com",
@@ -515,30 +516,17 @@
       "age_min": 55.0
     },
     {
-      "hash": "0ed95b92302c3f72d97c15732052c32b",
-      "title": "Donald Trump - AP News",
-      "original_title": "Donald Trump - AP News",
-      "rss_summary": "Donald Trump&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wVk5Dek1LUTk3V2t2cml3Q0lRWEhETXdYUzNTaUtrYW9ZYU5ybFVkbFduc3ZvV3VVTDVXMkl1NktRX3l6OU56M0h2MA?oc=5",
-      "source": "AP",
-      "score": 7,
-      "weight": 5,
+      "hash": "94305514a9d7504795bf40a719c0c6c0",
+      "title": "Police investigate Reform UK over donor sting",
+      "original_title": "Police investigate Reform UK over donor sting",
+      "rss_summary": "Probe follows TV footage of Nigel Farage’s aides allegedly seeking illegal overseas funding",
+      "link": "https://www.ft.com/content/73c6c2f1-349a-4aeb-9d90-0268e3dcdc65?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-09-09T15:17:05.951190+05:00",
-      "age_min": 18.5
-    },
-    {
-      "hash": "f62d0d88585b44db3c5db9593603e013",
-      "title": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
-      "original_title": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11",
-      "rss_summary": "Ash-covered shoes and a president in crisis: A Reuters reporter remembers 9/11&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUdidjdvQnU4aWxtMnI5WGI5OFNzMTNpZ21EWW9jYkk3TlhBZlU5bG43c09jSG1xQ2YwZjEtSUJNMGttUHJVZFVleGVuSkVVV01xTmdoYTdhUFM3NlFQWjdzOUVtODlZQ1hTN1hMSElENjFVOFVCTjJmVkdiTl9mRllCaHdVY0xuWnZrNEQxRDdtYTBKbnA2LVFCb204WEw5UnpJMF9fUlpVejFPSTFMUl8xRkZvS2lUaUt5dXZHU1c?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-09T15:17:04.503399+05:00",
-      "age_min": 12.9
+      "ts": "2026-09-09T19:18:55.662157+05:00",
+      "age_min": 8.7
     },
     {
       "hash": "16829b4f7b973c64b58533f4b29d025d",
@@ -630,6 +618,19 @@
       "status": "new",
       "ts": "2026-09-09T19:03:54.008269+05:00",
       "age_min": 5.9
+    },
+    {
+      "hash": "ffb0cd924f0ebe85fcce1d0cc9e4e9f1",
+      "title": "Singapore’s DBS sued for US$1 billion in alleged 1MDB-linked claim",
+      "original_title": "Singapore’s DBS sued for US$1 billion in alleged 1MDB-linked claim",
+      "rss_summary": "Singapore’s DBS Bank is being sued for an estimated S$1.298 billion (US$1.03 billion) in damages linked to the multibillion-dollar 1MDB scandal, Southeast Asia’s largest lender DBS Group has said.\nThe claimants include the liquidators of four companies: Blackrock Commodities (Global), Platinum ⁠Global Luxury Services, Affinity Equity International Partners and TKIL Global Investments. The ‌liquidators did not immediately respond to Reuters requests for comment.\nDBS rejected the claim and said on",
+      "link": "https://www.scmp.com/news/asia/southeast-asia/article/3366959/singapores-dbs-sued-us1-billion-alleged-1mdb-linked-claim?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-09T19:18:57.020088+05:00",
+      "age_min": 6.4
     },
     {
       "hash": "b013eb0df9eb843585b3d5d0827ae276",
