@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T02:24:13.089436+05:00",
+  "updated": "2026-09-13T02:34:40.615684+05:00",
   "items": [
     {
       "hash": "2e396f11e45ef45a59feeb4d084f267f",
@@ -13,6 +13,18 @@
       "status": "new",
       "ts": "2026-09-13T00:03:21.999068+05:00",
       "age_min": 53.4
+    },
+    {
+      "hash": "68e69f0e1d2d9704c744caa4363ec7c5",
+      "title": "США добились прогресса в открытии Ормузского пролива, но война с Ираном еще далека от завершения",
+      "original_title": "The US has made progress in reopening the Strait of Hormuz , but the Iran war is far from over",
+      "link": "https://www.krgv.com/news/the-us-has-made-progress-in-reopening-the-strait-of-hormuz-but-the-iran-war-is-far-from-over",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T02:30:58.605432+05:00",
+      "age_min": 61.0
     },
     {
       "hash": "0c173843f2342bfeb18a23e3e44c7c47",
@@ -65,18 +77,6 @@
       "status": "new",
       "ts": "2026-09-12T23:32:43.162731+05:00",
       "age_min": 92.7
-    },
-    {
-      "hash": "547fba6f995cd2b4df8ddd72c3243d70",
-      "title": "Pezeshkian rejects US nuclear charge , says  enrichment  was an alibi to attack Iran",
-      "original_title": "Pezeshkian rejects US nuclear charge , says  enrichment  was an alibi to attack Iran",
-      "link": "https://www.businesstoday.in/world/story/pezeshkian-rejects-us-nuclear-charge-says-enrichment-was-an-alibi-to-attack-iran-555200-2026-09-12",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T22:30:53.432038+05:00",
-      "age_min": 45.9
     },
     {
       "hash": "77b75f41b5957d628010813c9922cfa6",
@@ -361,18 +361,6 @@
       "age_min": 10.4
     },
     {
-      "hash": "01e3928064c1b71c3df248ea2765bec6",
-      "title": "BRICS summit backs call for restraint amid US - Iran tensions",
-      "original_title": "BRICS summit backs call for restraint amid US - Iran tensions",
-      "link": "https://www.jpost.com/international/article-908420",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T22:30:53.448255+05:00",
-      "age_min": 60.9
-    },
-    {
       "hash": "17e66730ccf04dd50ad225b72c40603b",
       "title": "Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "original_title": "Houthi advance in Yemen may bring dangerous new dimension to Iran war",
@@ -593,6 +581,30 @@
       "age_min": 37.1
     },
     {
+      "hash": "0de2c1ed704cb0359b36dbe53f617711",
+      "title": "Переговори України та РФ , новий раунд може бути у жовтні 2026 року | Новини України",
+      "original_title": "Переговори України та РФ , новий раунд може бути у жовтні 2026 року | Новини України",
+      "link": "https://news.liga.net/ua/war/news/budanov-novyy-raund-perehovoriv-mozhe-vidbutysia-na-pochatku-zhovtnia",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T02:30:58.644807+05:00",
+      "age_min": 91.0
+    },
+    {
+      "hash": "7c9a11329610c9bfe4ec6c0854fb7732",
+      "title": "Китай угрожает отменить саммит Си Цзиньпина и Трампа",
+      "original_title": "Kina kërcënon të anulojë samitin Xi - Trump",
+      "link": "https://telegrafi.com/kina-kercenon-te-anuloje-samitin-xi-trump/",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T02:30:58.610555+05:00",
+      "age_min": 61.0
+    },
+    {
       "hash": "77342940b938c7adc2d30ddaf59a5374",
       "title": "❗️Встреча Владимира Путина с Владимиром Зеленским на саммите G20 в США невозможна, заявил Дми [...]",
       "original_title": "❗️Встреча Владимира Путина с Владимиром Зеленским на саммите G20 в США невозможна, заявил Дми [...]",
@@ -628,19 +640,6 @@
       "status": "new",
       "ts": "2026-09-13T02:02:57.244349+05:00",
       "age_min": 48.0
-    },
-    {
-      "hash": "6b559a049b693179e96c3cbca14c009a",
-      "title": "Маск и Альтман поддерживают Amodei из Anthropic, поскольку он делится планом «замедлить темпы» развития возможностей искусственного интеллекта",
-      "original_title": "Musk, Altman support Anthropic’s Amodei as he shares plan to ‘slow the pace’ of advancing AI capabilities",
-      "rss_summary": "Amodei's essay landed after an Anthropic researcher set off a firestorm on social media this week by announcing he quit his job at the company.",
-      "link": "https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html",
-      "source": "CNBC World",
-      "score": 4,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-09-13T02:21:33.490476+05:00",
-      "age_min": 25.6
     }
   ]
 }
