@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T11:23:24.042480+05:00",
+  "updated": "2026-09-12T11:35:42.052900+05:00",
   "items": [
     {
       "hash": "69a049bf31a717096869b0be1053fc37",
@@ -13,6 +13,19 @@
       "status": "new",
       "ts": "2026-09-12T10:02:10.174177+05:00",
       "age_min": 64.2
+    },
+    {
+      "hash": "229a33682d1e1346dafe6a8e4c965d51",
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "original_title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "rss_summary": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-12T11:32:27.669818+05:00",
+      "age_min": 37.2
     },
     {
       "hash": "46c9e5ff7ff4bd3f2fc9c61e1b1d7b90",
@@ -78,15 +91,15 @@
       "age_min": -1214.3
     },
     {
-      "hash": "ee92ad56d9d2591de4f0e696a8773190",
-      "title": "Lithuania renewed nuclear posturing revives old fears buried since the Soviet collapse – NaturalNews . com",
-      "original_title": "Lithuania renewed nuclear posturing revives old fears buried since the Soviet collapse – NaturalNews . com",
-      "link": "https://www.naturalnews.com/2026-09-11-lithuanias-renewed-nuclear-posturing-revives-old-fears.html",
+      "hash": "325e5c8a4413827ae42c54b70c16a4d6",
+      "title": "Россия развернула рекордное за девять лет количество ядерных боеголовок , – SIPRI",
+      "original_title": "Россия развернула рекордное за девять лет количество ядерных боеголовок , – SIPRI",
+      "link": "https://www.unian.net/weapons/rossiya-razvernula-rekordnoe-za-devyat-let-kolichestvo-yadernyh-boegolovok-sipri-13497294.html",
       "source": "GDELT/GEOPOLITICS",
-      "score": 10,
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-09-12T07:31:22.727511+05:00",
+      "ts": "2026-09-12T11:31:25.306267+05:00",
       "age_min": 46.4
     },
     {
@@ -309,6 +322,18 @@
       "age_min": 9.2
     },
     {
+      "hash": "b5a3751862bff3ff8bfa31200523af48",
+      "title": "Makhlouf stays on the fence on future rate hikes",
+      "original_title": "Makhlouf stays on the fence on future rate hikes",
+      "link": "https://www.irishtimes.com/business/2026/09/12/makhlouf-stays-on-the-fence-on-future-rate-hikes/",
+      "source": "GDELT/MARKETS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-12T11:32:22.377300+05:00",
+      "age_min": 62.4
+    },
+    {
       "hash": "8af1345946849cb7e41bc0977ce72dad",
       "title": "Excelsior Capital Seeks More Time as Recapitalisation Talks Continue",
       "original_title": "Excelsior Capital Seeks More Time as Recapitalisation Talks Continue",
@@ -438,6 +463,43 @@
       "age_min": 2.9
     },
     {
+      "hash": "823e93c2a3797202ad9616ac9d8ea1b7",
+      "title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+      "original_title": "DW exclusive: Zelenskyy offers to meet Putin at G20 in Miami",
+      "rss_summary": "In an interview with DW, Ukrainian President Volodymyr Zelenskyy said his country was in a strong position to negotiate and offered to meet Vladimir Putin in Miami.",
+      "link": "https://www.dw.com/en/dw-exclusive-zelenskyy-offers-to-meet-putin-at-g20-in-miami/a-79241703?maca=en-rss-en-world-4025-rdf",
+      "source": "DW",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-12T11:33:00.554675+05:00",
+      "age_min": 47.0
+    },
+    {
+      "hash": "4d609434e3c2352d8da1d3f3fcca0aa8",
+      "title": "Khả năng Fed tăng lãi suất vào tuần sau lên gần 90 %, Chủ tịch Kevin Warsh chịu áp lực lớn",
+      "original_title": "Khả năng Fed tăng lãi suất vào tuần sau lên gần 90 %, Chủ tịch Kevin Warsh chịu áp lực lớn",
+      "link": "https://cafebiz.vn/kha-nang-fed-tang-lai-suat-vao-tuan-sau-len-gan-90-chu-tich-kevin-warsh-chiu-ap-luc-lon-176260912090937501.chn",
+      "source": "GDELT/MARKETS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-12T11:32:22.380241+05:00",
+      "age_min": 62.4
+    },
+    {
+      "hash": "a99e235760c67ee3503069e369317e37",
+      "title": "Vance und Rubio : Iran - Krieg könnte Trumps Amtszeit überdauern",
+      "original_title": "Vance und Rubio : Iran - Krieg könnte Trumps Amtszeit überdauern",
+      "link": "http://www.hna.de/politik/ueberdauern-vance-und-rubio-iran-krieg-koennte-trumps-amtszeit-zr-94487819.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-12T11:31:25.302405+05:00",
+      "age_min": 46.4
+    },
+    {
       "hash": "b12a15aa68cd83b1636d7b9ae8a3d805",
       "title": "Antisemitism lawsuit dropped against former SBS newsreader",
       "original_title": "Antisemitism lawsuit dropped against former SBS newsreader",
@@ -499,31 +561,6 @@
       "status": "new",
       "ts": "2026-09-12T08:47:25.538588+05:00",
       "age_min": 17.4
-    },
-    {
-      "hash": "396a368707a16a4b66ea58f86de57cd2",
-      "title": "We’re Forecasting Fewer Rate Hikes Than Markets: Could We Be Wrong?",
-      "original_title": "We’re Forecasting Fewer Rate Hikes Than Markets: Could We Be Wrong?",
-      "rss_summary": "We’re Forecasting Fewer Rate Hikes Than Markets: Could We Be Wrong?&nbsp;&nbsp;Investing.com Australia",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaDBieldZTU5fajhMaWZYMWdENEljMkZPeTYtekVNcFF3M0V3b04xa0pHWmlEclpFUHBub1BpNjRHc2tTbGZlWnFkcldfUXkwM29EY3hGOVg4N2ZEWXMyeHEtSExkZ2Q5b2JUdGpuRXJMdmtXT0Y5bl9LX2ZyNzZPVWNCelB6YXNnTl9FSXJfWmZSdHFkeGRwWktWNFhjLWpvYm1hTG1OemxMOUlmVk1pRzAwWk1STnQ1ejZvZg?oc=5",
-      "source": "Investing.com Australia",
-      "score": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-09-12T07:33:08.131906+05:00",
-      "age_min": 102.8
-    },
-    {
-      "hash": "f84835c848b5913947a0612c582f87f1",
-      "title": "Pakistan Warns Yemeni Strikes on Saudi Arabia Could Trigger Mecca Defense Pact – NaturalNews . com",
-      "original_title": "Pakistan Warns Yemeni Strikes on Saudi Arabia Could Trigger Mecca Defense Pact – NaturalNews . com",
-      "link": "https://www.naturalnews.com/2026-09-11-yemeni-strikes-could-trigger-mecca-defense-pact.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T07:31:22.728605+05:00",
-      "age_min": 46.4
     },
     {
       "hash": "bae06b4d08ffb761d489f763f414aa94",
@@ -591,54 +628,16 @@
       "age_min": 11.3
     },
     {
-      "hash": "5427050da403f53e27da4337ab7ceb55",
-      "title": "Ближний Восток столкнулся с самым серьезным за последние десятилетия кризисом поставок энергор [...]",
-      "original_title": "Ближний Восток столкнулся с самым серьезным за последние десятилетия кризисом поставок энергор [...]",
-      "rss_summary": "Ближний Восток столкнулся с самым серьезным за последние десятилетия кризисом поставок энергоресурсов, сообщает газета The New York Times.Ситуация обострилась на фоне расширения контроля йеменских хуситов над Красным морем. В условиях сохраняющихся жестких ограничений на судоходство через Ормузский пролив государства региона практически лишились альтернативных маршрутов для экспорта энергоносителей.",
-      "link": "https://t.me/bbbreaking/237730",
-      "source": "TG/Bloomberg",
+      "hash": "4ec8e258abb307946dbb35894a7530fe",
+      "title": "Aktien KW 37 Klares Minus mit kleinem Hoffnungschimmer am Ende . Vergeigt Trump die Midterms ? Oder kommt nächste Woche was ? News . Oracle . SAP . Verbio . Vonovia . Aixtron . Nanorepro . Deutsche Bank . K+S",
+      "original_title": "Aktien KW 37 Klares Minus mit kleinem Hoffnungschimmer am Ende . Vergeigt Trump die Midterms ? Oder kommt nächste Woche was ? News . Oracle . SAP . Verbio . Vonovia . Aixtron . Nanorepro . Deutsche Bank . K+S",
+      "link": "https://www.finanznachrichten.de/nachrichten-2026-09/69560578-aktien-kw-37-klares-minus-mit-kleinem-hoffnungschimmer-am-ende-vergeigt-trump-die-midterms-oder-kommt-naechste-woche-was-news-oracle-sap-verbio-617.htm",
+      "source": "GDELT/MARKETS",
       "score": 5,
       "weight": 4,
       "status": "new",
-      "ts": "2026-09-12T10:35:18.529292+05:00",
-      "age_min": 2.2
-    },
-    {
-      "hash": "3d46a71877ea2cc07c23f8c8ca7d8939",
-      "title": "DC Edit | Summit Must Focus On Boosting Internal Trade",
-      "original_title": "DC Edit | Summit Must Focus On Boosting Internal Trade",
-      "link": "https://www.deccanchronicle.com/opinion/dc-comment/dc-edit-summit-must-focus-on-boosting-internal-trade-1986875",
-      "source": "GDELT/HOTSPOTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T09:45:41.331591+05:00",
-      "age_min": 30.7
-    },
-    {
-      "hash": "707f25096b6ded7108d1e1fcfed4ee92",
-      "title": "Iranian media : Houthis take control of Strait of Mandeb after seizing Mayyun Island",
-      "original_title": "Iranian media : Houthis take control of Strait of Mandeb after seizing Mayyun Island",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iranian-media-houthis-take-control-strait-mandeb-after-seizing-mayyun",
-      "source": "GDELT/HOTSPOTS",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T09:17:04.323561+05:00",
-      "age_min": 77.1
-    },
-    {
-      "hash": "f3c86dd91cab34eed3cfe86f1201b731",
-      "title": "Иран и хуситы блокируют два ключевых мировых морских маршрута, создавая нагрузку на мировую экономику",
-      "original_title": "Iran, Houthis block 2 key global shipping routes, straining the global economy",
-      "rss_summary": "Iran, Houthis block 2 key global shipping routes, straining the global economy&nbsp;&nbsp;USA TodayHormuz disruptions hitting small businesses hardest, UN trade agency warns&nbsp;&nbsp;ReutersThe world is still trapped between the Red Sea and the Strait of Hormuz — Phar Kim Beng&nbsp;&nbsp;newswav.comThe Economics of a Chokepoint Crisis&nbsp;&nbsp;Haver AnalyticsGuterres urges diplomacy and restraint as global conflicts and Hormuz tensions deepen&nbsp;&nbsp;سانا",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjExU0xwZnQ5a2lXS2tSTHBqOTE1NE40WHhfbGVJM0ViSFVTLWRTdTFhRlU1aVV5bi02VlZKQ1o4YnMzWFc2U3h5bURwaTdNTmV5NEFKeEtoV0Nqak5nVEpYdzNJb2RnXzFnQ09QdnhfMkMwcW4wci1BZENlVkRJd3lDUWo0d3A2LWJ5ck5ZbmJ4OU5qNjlJQVJDUi15b3hVdllkRTY0MVJRaGQ1Y2pRQlpjM0FNc2tIYW9v?oc=5",
-      "source": "USA Today",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T08:47:48.010748+05:00",
-      "age_min": 51.8
+      "ts": "2026-09-12T11:32:22.366143+05:00",
+      "age_min": 47.4
     }
   ]
 }
