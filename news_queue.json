@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T00:07:11.481836+05:00",
+  "updated": "2026-09-13T00:21:37.342376+05:00",
   "items": [
     {
       "hash": "2e396f11e45ef45a59feeb4d084f267f",
@@ -117,19 +117,6 @@
       "age_min": 12.9
     },
     {
-      "hash": "0ccadf4584c927f207260c6790597aef",
-      "title": "Энергетическая инфляция усложняет решение ФРС по процентной ставке",
-      "original_title": "Energy Driven Inflation Complicates Fed Rate Call",
-      "rss_summary": "PNC Chief Investment Officer Amanda Agati is on Bloomberg This Weekend and says the Fed faces a difficult decision as energy-driven inflation pushes markets toward expectations for higher rates, warning that further tightening could risk a policy error. Agati also tells hosts David Gura and Christina Ruffini investors are also adjusting to the prospect of a longer Iran war, while strong corporate earnings have pushed concerns about AI spending further into the background. (Source: Bloomberg)",
-      "link": "https://www.bloomberg.com/news/videos/2026-09-12/energy-driven-inflation-complicates-fed-rate-call-video",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T20:17:39.972992+05:00",
-      "age_min": 6.0
-    },
-    {
       "hash": "77b75f41b5957d628010813c9922cfa6",
       "title": "Ядерний арсенал РФ - чого прагне Путін | Новини на Gazeta . ua",
       "original_title": "Ядерний арсенал РФ - чого прагне Путін | Новини на Gazeta . ua",
@@ -179,6 +166,19 @@
       "status": "new",
       "ts": "2026-09-12T21:19:20.591294+05:00",
       "age_min": 14.3
+    },
+    {
+      "hash": "1cd3f7cdd2ad5ad70de6564f59b0992b",
+      "title": "Карни встретится с Бернэмом из Великобритании, поскольку Канада углубляет связи с Европой",
+      "original_title": "Carney to Meet UK’s Burnham as Canada Deepens Europe Ties",
+      "rss_summary": "Canada’s Prime Minister Mark Carney will meet new UK leader Andy Burnham for the first time in Liverpool, England.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-12/carney-to-meet-uk-s-burnham-as-canada-deepens-europe-ties",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T00:17:58.603312+05:00",
+      "age_min": 14.9
     },
     {
       "hash": "4565abe829276d8c5ed375ea5362c88d",
@@ -270,17 +270,30 @@
       "age_min": 48.4
     },
     {
-      "hash": "c450c442bc649683a241b175a18a9466",
-      "title": "Филиппины говорят Китаю: оставьте Панганибан и рифы Самора в западной части PH-моря",
-      "original_title": "Philippines tells China: Leave Panganiban, Zamora reefs in West PH Sea",
-      "rss_summary": "Philippines tells China: Leave Panganiban, Zamora reefs in West PH Sea&nbsp;&nbsp;Rappler",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWDZ4NFpjaUh0MEJCMkNYeU1ISlJDcGxlU1VCMDVCM3NoSm14bG1FdnZDTDV0Xy1NS0E5UnJoX3I5eWkxODYwdEJvcmQ1OW01RG9abnZ4V1l5QVlIZ0pJQmNPanRtZ2VoUEtDajZKYVROZ2lEcnNZalZqVjRiWXZyNWJZMW5IYzZEZU56QUEwaw?oc=5",
-      "source": "Rappler",
-      "score": 8,
-      "weight": 4,
+      "hash": "caa81b02bf31e84484810425b954bf23",
+      "title": "Фарадж: Военный бюджет в 72 миллиона фунтов подготовит Реформ к власти",
+      "original_title": "Farage: £72m war chest will make Reform ready to rule",
+      "rss_summary": "Farage: £72m war chest will make Reform ready to rule&nbsp;&nbsp;The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTmtLenZjX3hfVXpWUU5OZTRfcUEtZTlZRFFqX0dwZXB3SUlpR2M2bGlWZFdpQ2c3OFdfSjU5VHRNLW1kLVlsQUtxbnBSaE4tR1pBZUc0ZlR5UExhRmFiMUt6NTlPS1E4aVVEVFNMZXdkNnVCeWs3TDg4bDFESFBQb3lGaEFqT0NteWtyeUVRQWg3ZWVnaDVyQzdCeDRRRWlrT1kzUm1CRXl4ckE?oc=5",
+      "source": "The Telegraph",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-09-12T20:18:36.911724+05:00",
-      "age_min": 98.3
+      "ts": "2026-09-13T00:18:27.169164+05:00",
+      "age_min": 20.5
+    },
+    {
+      "hash": "f7c6eb2e6c26279b9d75ba7bd4cfedaf",
+      "title": "Мы находимся в Третьей мировой войне и просто не знаем об этом?",
+      "original_title": "Are we in World War III, and just don’t know it?",
+      "rss_summary": "During times of increased tension, a massive escalation can be sudden and catastrophic. Sometimes avoiding the worst is just dumb luck.",
+      "link": "https://www.smh.com.au/world/middle-east/are-we-in-world-war-iii-and-just-don-t-know-it-20260814-p60oaq.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+      "source": "Sydney Morning Herald",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-13T00:18:24.844302+05:00",
+      "age_min": 11.4
     },
     {
       "hash": "2f999d734ee888bc3511826b31cda81c",
@@ -320,19 +333,6 @@
       "status": "new",
       "ts": "2026-09-12T20:33:13.376957+05:00",
       "age_min": 10.2
-    },
-    {
-      "hash": "06d760a591baa413be6004b19a4836d2",
-      "title": "Пожертвования в размере 72 миллионов фунтов стерлингов делают перспективы реформы одновременно более радужными и более рискованными.",
-      "original_title": "Donations of £72m make Reform’s prospects both rosier and riskier",
-      "rss_summary": "Party can boost its campaign power with funds from billionaire backers, but it can also lose support from ordinary BritonsAll things being equal, pretty much any political strategist would welcome a £72m war chest; a sum higher than the combined spending of every major party at the 2024 general election. But all things are not equal, and with such a huge amount comes risk.Reform UK has been vocal in its arguments that two sudden £36m windfalls from billionaires Ben Delo and Christopher Harborne ",
-      "link": "https://www.theguardian.com/politics/2026/sep/12/reform-uk-billionaire-donations-analysis",
-      "source": "Guardian",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-09-12T20:18:13.764954+05:00",
-      "age_min": 24.9
     },
     {
       "hash": "9eb8e14f91a07b90d06e8f6d2cb0bd56",
@@ -425,6 +425,32 @@
       "age_min": 43.3
     },
     {
+      "hash": "1ae094bedca3a3d69c47e1c2ff70e7dd",
+      "title": "Ирак расследует удары дронов по Саудовской Аравии и закрывает три перехода в Иран",
+      "original_title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+      "rss_summary": "PM Ali al-Zaidi dismisses commander, orders investigation into operations command in Maysan province, bordering Iran.",
+      "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+      "source": "Al Jazeera",
+      "score": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-13T00:17:26.433289+05:00",
+      "age_min": 23.9
+    },
+    {
+      "hash": "2ab59cd03de3d9e67aacca3a7cc72323",
+      "title": "Коалиция находит голос в битве за единую нацию и начинает новую борьбу за свободу слова",
+      "original_title": "The Coalition finds voice in One Nation battle and starts new free speech fight",
+      "rss_summary": "As fresh battle lines were drawn up over Labor’s proposed digital duty of care this week, another ongoing war entered a new phase.",
+      "link": "https://www.abc.net.au/news/2026-09-13/andrew-hastie-anika-wells-angus-taylor-digital-duty-of-care/107143214",
+      "source": "ABC AU Politics",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-13T00:18:24.506553+05:00",
+      "age_min": 18.4
+    },
+    {
       "hash": "c0dd24b7e614e3050db95c57384e43d1",
       "title": "Will Houthi gains give Iran leverage in its war with the US? | Inside Story",
       "original_title": "Will Houthi gains give Iran leverage in its war with the US? | Inside Story",
@@ -515,6 +541,19 @@
       "age_min": 97.2
     },
     {
+      "hash": "a10e95bcbb6b902604a73b2561d9ea35",
+      "title": "Владимир Путин и Касым-Жомарт Токаев провели неформальную беседу в субботу.По данным ИС &quot; [...]",
+      "original_title": "Владимир Путин и Касым-Жомарт Токаев провели неформальную беседу в субботу.По данным ИС &quot; [...]",
+      "rss_summary": "Владимир Путин и Касым-Жомарт Токаев провели неформальную беседу в субботу.По данным ИС &quot;Вести&quot;, Путин пригласил Токаева в свою резиденцию в Индии после торжественного приёма для лидеров и делегаций саммита БРИКС.Факт встречи также подтвердил пресс-секретарь президента Дмитрий Песков: &quot;Да, возникла идея&quot;.&quot;Президент пригласил (Токаева) неформально просто пообщаться&quot;, - сказал Песков ИС &quot;Вести&quot;.@interfaxonline",
+      "link": "https://t.me/interfaxonline/78620",
+      "source": "TG/Interfax",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-13T00:19:49.568050+05:00",
+      "age_min": 87.5
+    },
+    {
       "hash": "25ab9659e1755c120a027c9e264faf20",
       "title": "[Photo] ▶Итоги 12 сентябрявидеосводка от руководителя проекта @rybar Михаила Звинчука специаль [...]",
       "original_title": "[Photo] ▶Итоги 12 сентябрявидеосводка от руководителя проекта @rybar Михаила Звинчука специаль [...]",
@@ -554,6 +593,18 @@
       "age_min": 63.3
     },
     {
+      "hash": "a11a1337f4f0a3bc69ce239e4e63eb2a",
+      "title": "Встреча Путина и Зеленского на G20 в Майами : почему Кремль назвал переговоры невозможными , позиция Лаврова",
+      "original_title": "Встреча Путина и Зеленского на G20 в Майами : почему Кремль назвал переговоры невозможными , позиция Лаврова",
+      "link": "https://news.mail.ru/politics/72337250/",
+      "source": "GDELT/HOTSPOTS",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T00:15:44.706039+05:00",
+      "age_min": 45.7
+    },
+    {
       "hash": "f37dfbac961136c832a6b5d30fcee9e8",
       "title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
       "original_title": "‘We must slow the pace’: CEO of Anthropic calls for an AI slowdown",
@@ -589,54 +640,6 @@
       "status": "new",
       "ts": "2026-09-12T23:31:24.120264+05:00",
       "age_min": 31.4
-    },
-    {
-      "hash": "c3aac6c50d2dbecc53a0b574ee36817a",
-      "title": "Iranian President Masoud Pezeshkian daughter Zahra explores BRICS Bazaar in Delhi",
-      "original_title": "Iranian President Masoud Pezeshkian daughter Zahra explores BRICS Bazaar in Delhi",
-      "link": "http://www.russiaherald.com/news/279302928/iranian-president-masoud-pezeshkian-daughter-zahra-explores-brics-bazaar-in-delhi",
-      "source": "GDELT/ASIA_TECH",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T23:17:55.385524+05:00",
-      "age_min": 62.9
-    },
-    {
-      "hash": "53f4893052a112d1a91be356425725b1",
-      "title": "Зустріч із Зеленським і умови щодо фронту . Лавров озвучив позицію Кремля щодо переговорів",
-      "original_title": "Зустріч із Зеленським і умови щодо фронту . Лавров озвучив позицію Кремля щодо переговорів",
-      "link": "https://gordonua.com/ukr/section-war/news-vstrecha-s-zelenskym-y-uslovyya-po-frontu-lavrov-ozvuchyl-pozytsyyu-kremlya-o-perehovorakh-12-09-2026.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T23:17:05.929374+05:00",
-      "age_min": 77.1
-    },
-    {
-      "hash": "c274f148958e1dd25bea776ee516e063",
-      "title": "Zelensky open to meeting Putin at G20 summit in Miami",
-      "original_title": "Zelensky open to meeting Putin at G20 summit in Miami",
-      "link": "https://www.newindianexpress.com/world/2026/Sep/12/zelensky-open-to-meeting-putin-at-g20-summit-in-miami",
-      "source": "GDELT/HOTSPOTS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T23:17:05.926038+05:00",
-      "age_min": 92.1
-    },
-    {
-      "hash": "796bfe54b9edeed1f1cacdb4748b5f90",
-      "title": "Лавров відкинув зупинку війни для переговорів з Україною",
-      "original_title": "Лавров відкинув зупинку війни для переговорів з Україною",
-      "link": "https://glavcom.ua/country/politics/lavrov-vidkinuv-zupinku-vijni-dlja-perehovoriv-z-ukrajinoju-1142494.html",
-      "source": "GDELT/HOTSPOTS",
-      "score": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-12T23:17:05.925368+05:00",
-      "age_min": 92.1
     }
   ]
 }
