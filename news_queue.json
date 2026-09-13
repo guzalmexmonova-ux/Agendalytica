@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13T09:37:19.401580+05:00",
+  "updated": "2026-09-13T09:50:24.157950+05:00",
   "items": [
     {
       "hash": "13a077f5ed9ad9fc56fd41693879c5d8",
@@ -65,18 +65,6 @@
       "status": "new",
       "ts": "2026-09-13T06:04:00.191002+05:00",
       "age_min": 4.0
-    },
-    {
-      "hash": "fae3c9b939db7c0be5e6772157519d73",
-      "title": "Xi lands in India for BRICS summit overshadowed by war",
-      "original_title": "Xi lands in India for BRICS summit overshadowed by war",
-      "link": "https://www.surinametimes.com/artikel/xi-lands-in-india-for-brics-summit-overshadowed-by-war",
-      "source": "GDELT/HOTSPOTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-13T05:46:11.943649+05:00",
-      "age_min": 16.2
     },
     {
       "hash": "f96bf5df0861045b736d9b6266198b64",
@@ -358,6 +346,19 @@
       "age_min": 8.3
     },
     {
+      "hash": "76e7798d428d083a4c58dcd5133efc78",
+      "title": "Торговое судно подверглось атаке в Ормузском проливе, сообщает в воскресенье Управление морски [...]",
+      "original_title": "Торговое судно подверглось атаке в Ормузском проливе, сообщает в воскресенье Управление морски [...]",
+      "rss_summary": "Торговое судно подверглось атаке в Ормузском проливе, сообщает в воскресенье Управление морских торговых перевозок Великобритании (UKMTO).@interfaxonline",
+      "link": "https://t.me/interfaxonline/78628",
+      "source": "TG/Interfax",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-13T09:49:54.596143+05:00",
+      "age_min": 23.2
+    },
+    {
       "hash": "fe22a6420abe64d80325d7db8f5130ca",
       "title": "Выборы в Швеции показывают смену приоритетов",
       "original_title": "An Election in Sweden Shows Shifting Priorities",
@@ -586,6 +587,30 @@
       "age_min": 1.9
     },
     {
+      "hash": "2829669f7630c5dccadcaa0596889b94",
+      "title": "Дарлин Грэм согласилась провести дебаты с претенденткой от Демократической партии Энни Эндрюс на выборах в Сенат Южной Каролины",
+      "original_title": "Darline Graham agrees to debate Democratic challenger Annie Andrews in South Carolina Senate race",
+      "link": "https://www.wbtv.com/2026/09/12/darline-graham-agrees-debate-democratic-challenger-annie-andrews-south-carolina-senate-race/",
+      "source": "GDELT/ASIA_TECH",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T09:47:27.454028+05:00",
+      "age_min": 107.5
+    },
+    {
+      "hash": "0988c907935bd2c8eea5cf5f5dcc19c7",
+      "title": "БРИКС поддерживает переводы в местной валюте, отмечает неизбирательные тарифы и санкции",
+      "original_title": "BRICS backs local currency transfers , flags  indiscriminate  tariffs and sanctions",
+      "link": "https://www.hindustantimes.com/india-news/brics-summit-2026-new-delhi-bharat-mandapam-de-dollarisation-global-trade-economy-sanctions-tariffs-101789238015760.html",
+      "source": "GDELT/ASIA_TECH",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-13T09:47:27.449142+05:00",
+      "age_min": 107.5
+    },
+    {
       "hash": "d9e563b5725c289bfa62644b6f7b2d3d",
       "title": "Протест в Вермонте - The Batesville Daily Guard",
       "original_title": "Vermont Protest - The Batesville Daily Guard",
@@ -609,32 +634,6 @@
       "status": "new",
       "ts": "2026-09-13T09:30:56.666562+05:00",
       "age_min": 90.9
-    },
-    {
-      "hash": "37a25873ce7b45dc5f1e68d5a041bb05",
-      "title": "Глава GFCN заявил, что мир столкнулся с информационными войнами без правил",
-      "original_title": "Глава GFCN заявил, что мир столкнулся с информационными войнами без правил",
-      "rss_summary": "Навыки фактчекинга служат основой для личной безопасности каждого человека, отметил Владимир Табак",
-      "link": "https://tass.ru/obschestvo/28107261",
-      "source": "TASS",
-      "score": 8,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-09-13T09:17:50.150273+05:00",
-      "age_min": 14.7
-    },
-    {
-      "hash": "ccd309778eaa781f14ded24155b50fb3",
-      "title": "WSJ: Канада хочет стать ассоциированным членом ЕС",
-      "original_title": "WSJ: Канада хочет стать ассоциированным членом ЕС",
-      "rss_summary": "В связи с эскалацией торговой войны Оттавы и Вашингтона канадский премьер-министр Марк Карни пытается вывести отношения с Евросоюзом на новый уровень, сообщило издание",
-      "link": "https://tass.ru/mezhdunarodnaya-panorama/28107245",
-      "source": "TASS",
-      "score": 8,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-09-13T09:04:13.584103+05:00",
-      "age_min": 15.4
     }
   ]
 }
