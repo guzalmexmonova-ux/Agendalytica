@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T02:39:50.954268+05:00",
+  "updated": "2026-09-19T02:50:20.453672+05:00",
   "items": [
     {
       "hash": "94866d54e277265133556dbf37805a75",
@@ -41,19 +41,6 @@
       "age_min": 48.5
     },
     {
-      "hash": "ba7a5ed34b089aa9f9aa5fe5d047c695",
-      "title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
-      "original_title": "France's EDF plans 10 small nuclear plants in Europe by 2035",
-      "rss_summary": "France's EDF plans 10 small nuclear plants in Europe by 2035&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR2dvaUVUUnduTlNRc0hqNUdBaTRDMEkwa1pGdzFWdTZsOFQxU2tjS2pSVnlxdXNUcjhFS2RFQUVpX2tRdnJKUU1vd1ZISkZGX3Y4OWhIUk9Lb0RmNTdHeC1vZnpGT1lWeWFfV2NTeFFWbFI4UGRFMW96S3AxSmxVWDB1NEE5bUNJUXQyWFBKTmU0LUozbXkzZnNoODhaYlZDYUs4Z0dxR3ltX1VE?oc=5",
-      "source": "Reuters",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-18T22:49:13.075359+05:00",
-      "age_min": 103.0
-    },
-    {
       "hash": "8f8e9797e039d5907e279681c2a9f1cc",
       "title": "Столица Украины Киев подверглась ракетному обстрелу, заявил мэр",
       "original_title": "Ukrainian capital Kyiv under missile attack, mayor says",
@@ -65,6 +52,19 @@
       "status": "new",
       "ts": "2026-09-18T23:49:21.988081+05:00",
       "age_min": 72.3
+    },
+    {
+      "hash": "9b1cfd40c6b1b14f4ea60e43d698027f",
+      "title": "Мнение | Тарифный подарок Абдул Эль-Саеду",
+      "original_title": "Opinion | The Tariff Gift to Abdul El-Sayed",
+      "rss_summary": "Michigan voters oppose Trump’s trade war with Canada, which is helping the radical Democrat.",
+      "link": "https://www.wsj.com/opinion/donald-trump-tariffs-michigan-canada-abdul-el-sayed-93ff5f22?mod=rss_worldnews",
+      "source": "WSJ",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-19T02:47:57.076256+05:00",
+      "age_min": 3.0
     },
     {
       "hash": "ad91a4eecefe89bf2e38286d22599740",
@@ -366,17 +366,17 @@
       "age_min": 22.3
     },
     {
-      "hash": "985d41ae66e8b444e5d67c05937f6d64",
-      "title": "The Pentagon is moving forward with mandatory testosterone testing for most male troops",
-      "original_title": "The Pentagon is moving forward with mandatory testosterone testing for most male troops",
-      "rss_summary": "The Pentagon is moving forward with mandatory testosterone testing for most male troops&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVVZ0X044QUlNelFmaVRMdnR3V2tOb3BPQ0xIWmxaN3hubnM1OVJrYWxoUUhMTWo3QnItMUdLV0pKNlBWdHFVMTVwaFBlVUhIeHpTVElBQmY0TjdXWXBoLXMyY3hSLUZmZS15R3lYNktYcTEyWkFwX2hTSFI3ZnhzcUx4SHJPMVozVG9kLW9obEJYbENRdFMzckdralVmRGZzVnlMSnloTQ?oc=5",
-      "source": "AP News",
-      "score": 7,
-      "weight": 5,
+      "hash": "0aef5a5fa5c13a80b9a027240f18f60f",
+      "title": "Трамп утверждает, что соглашение с Данией предоставило США контроль безопасности над Гренландией",
+      "original_title": "Trump claims deal struck with Denmark to give U.S. security control over Greenland",
+      "rss_summary": "U.S. President Donald Trump said on Friday that Washington has entered an agreement ‌with Denmark and Greenland that gives ‌the U.S. permanent ​control over security, and all other ​needs, in ​Greenland.",
+      "link": "https://www.cbc.ca/news/world/trump-deal-claim-greenland-denmark-security-9.7350385?cmp=rss",
+      "source": "CBC World",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-09-18T22:49:14.589909+05:00",
-      "age_min": 30.2
+      "ts": "2026-09-19T02:48:15.034555+05:00",
+      "age_min": 16.2
     },
     {
       "hash": "30d238b715d58863e19045b7176d49e8",
@@ -548,6 +548,19 @@
       "age_min": 78.4
     },
     {
+      "hash": "8fde8e6b36ca8f6993071620a8361adc",
+      "title": "Эль-Сайед вызывает Вэнса на соревнования по тяжелой атлетике: «Ты хорошо говоришь»",
+      "original_title": "El-Sayed challenges Vance to weightlifting competition: 'You talk a good game'",
+      "rss_summary": "Michigan Senate nominee Abdul El-Sayed (D) responded Friday to Vice President Vance's disses on his appearance, saying he'd challenge President Trump's second-in-command to a weightlifting competition to prove whether he's \"as strong as he likes to pretend he is.” TMZ DC asked El-Sayed about a TikTok post earlier this week where Vance joked about the...",
+      "link": "https://thehill.com/homenews/campaign/6098893-el-sayed-vance-weightlifting-challenge/",
+      "source": "The Hill",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-19T02:48:25.515075+05:00",
+      "age_min": 23.2
+    },
+    {
       "hash": "e2bd7078fc0d13d081c7c1af216df617",
       "title": "Трамп заявил, что сын расплатился с российским олигархом за свадебный подарок",
       "original_title": "Trump says son paid back Russian oligarch for wedding gift",
@@ -637,19 +650,6 @@
       "status": "new",
       "ts": "2026-09-19T01:49:40.208163+05:00",
       "age_min": 29.9
-    },
-    {
-      "hash": "b6f16d515c560274dad2c84f6c546ccb",
-      "title": "Mullin responds to Salazar's ad attacking Trump's immigration crackdown",
-      "original_title": "Mullin responds to Salazar's ad attacking Trump's immigration crackdown",
-      "rss_summary": "Homeland Security Secretary Markwayne Mullin on Friday defended the Trump administration’s immigration policy after a Republican lawmaker endorsed by President Trump said ICE has “gone too far” by arresting people without criminal records. Rep. Maria Elvira Salazar (R-Fla.), made a notable break from Trump in a new campaign ad for her reelection bid in Florida....",
-      "link": "https://thehill.com/homenews/administration/6098791-mullin-defends-trump-immigration-salazar/",
-      "source": "The Hill",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-19T01:49:40.204061+05:00",
-      "age_min": 26.4
     }
   ]
 }
