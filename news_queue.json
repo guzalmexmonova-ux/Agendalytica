@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T03:52:19.333678+05:00",
+  "updated": "2026-09-20T04:05:43.021923+05:00",
   "items": [
     {
       "hash": "392f25cfb22bf0312fe850fbdac6bb54",
@@ -54,19 +54,6 @@
       "age_min": 36.1
     },
     {
-      "hash": "09176d16129055eecc9039581b8c4df3",
-      "title": "Меритократия в Центре военной службы, рассказывает Хегсет кадетам Техасского университета A&M",
-      "original_title": "Meritocracy at Center of Military Service, Hegseth Tells Cadets at Texas A&M",
-      "rss_summary": "At Texas A&amp;M University in College Station, Texas, Secretary of War Pete Hegseth told future officers that the U.S. military they will enter places a premium on meritocracy, and that once they put on their uniforms, they will march into formations that value them only for what they bring to the fight.",
-      "link": "https://www.war.gov/News/News-Stories/Article/Article/4606696/meritocracy-at-center-of-military-service-hegseth-tells-cadets-at-texas-am/",
-      "source": "Pentagon",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-20T00:03:04.977313+05:00",
-      "age_min": 106.4
-    },
-    {
       "hash": "71d353c986bd8cc7f19a2ccb5580effd",
       "title": "Связанная с «Аль-Каидой» организация JNIM заявляет о смертельном нападении на армейский лагерь в Мали и публикует видео с захваченными в плен солдатами",
       "original_title": "Al-Qaida-linked JNIM claims a deadly Mali army camp attack and releases video of captured soldiers",
@@ -78,6 +65,19 @@
       "status": "new",
       "ts": "2026-09-20T01:47:56.543510+05:00",
       "age_min": 59.9
+    },
+    {
+      "hash": "c897b03e780c1cce10967f5a1cab2957",
+      "title": "Трамп докажет миру, что Иран не может иметь ядерное оружие",
+      "original_title": "Trump to make case to the world that Iran cannot have a nuclear weapon",
+      "rss_summary": "Trump to make case to the world that Iran cannot have a nuclear weapon&nbsp;&nbsp;Fox NewsAs Iran war grinds on, Trump to face skeptical world leaders at UN&nbsp;&nbsp;ReutersDonald Trump Returns to the U.N. Amid the Collapse of the Old Order&nbsp;&nbsp;The New YorkerTrump heads to UN with Iran’s nuclear program in focus&nbsp;&nbsp;WJLAThe National News Desk Weekend Edition&nbsp;&nbsp;WZTV",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWmg4N0RLMW00QTItZVgya0ZVUGtBekJCWDVRT0NjRzRBdHF6YkJaXzNlV3NILVBaSHViUG1hUmhuaGNHLVpFMFk2NGRSd1p5THVhRWgyX3JwTEM1N2kwOWJhbi1FQ0hFdjEtczVIbF9Oa01zTGV6NVVpeG1TTUYtYTA1Wm9JQzZDV2RrSE11bnZVVDh1M0lFY04tLUZ2OExNTV9B?oc=5",
+      "source": "Fox News",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-20T04:03:10.777931+05:00",
+      "age_min": 47.0
     },
     {
       "hash": "b97bfaef0fe3b89ec5d138a36fcd07c3",
@@ -158,19 +158,6 @@
       "age_min": 37.6
     },
     {
-      "hash": "fdb818091fa638c01e1166467710cd4b",
-      "title": "Centcom: За последние месяцы через Ормузский пролив прошло более 1 млрд баррелей сырой нефти",
-      "original_title": "Centcom: Over 1B crude oil barrels passed through Hormuz strait in recent months",
-      "rss_summary": "U.S. Central Command (Centcom) Admiral Brad Cooper said Saturday that U.S. forces supported the transport of over 1 billion crude oil barrels through the Strait of Hormuz \"in the last couple of months\" despite an ongoing exchange of strikes with Iran. \"We've reached this significant milestone while assisting over 2000 commercial ship transits through the...",
-      "link": "https://thehill.com/policy/defense/6099888-centcom-billion-barrel-oil-milestone/",
-      "source": "The Hill",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-20T00:03:25.834195+05:00",
-      "age_min": 24.7
-    },
-    {
       "hash": "8144b7af27b78c3774cb361d6295623f",
       "title": "Голландская полиция по охране общественного порядка разогнала крайне правую акцию протеста в Гааге после вспышки насилия",
       "original_title": "Dutch riot police break up far-right protest in The Hague after violence erupts",
@@ -197,17 +184,17 @@
       "age_min": 58.9
     },
     {
-      "hash": "3e557a058adfbfb835a9dfcf56e75be3",
-      "title": "Президент Израиля помиловал боевого медика, стрельба которого по палестинскому нападавшему вызвала споры",
-      "original_title": "Israel's president pardons a combat medic whose shooting of a Palestinian attacker caused debate",
-      "rss_summary": "Israel's president pardons a combat medic whose shooting of a Palestinian attacker caused debate&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTnNGakkyQ1l0eExtOVhaOVpNYVdqTFFrZUpYeEZiOUM2NDh2cVpzMzBuWE0tckNDTGsySFM2cXpKY3E4UmJuTXRWbmhOWXItNl83ZTY4TDYwRlN3YmdDc0xVSEJoSklueGZtZlY5b0xzQno0NThfOHc3SGVORDY4cXUzVUxCTDRSeW9UNEFCVW5UcGxWRWpwek5HSk9NTWRBUDd6cE9YYzBST3pyZENZakFKd29ZVUpa?oc=5",
-      "source": "AP News",
-      "score": 7,
-      "weight": 5,
+      "hash": "491edc8ad43714cb9c0f8b005ce3a6ff",
+      "title": "НАТО приветствует соглашение с Гренландией, поскольку Трамп заявляет, что оно предоставит США «постоянный контроль безопасности»",
+      "original_title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
+      "rss_summary": "Denmark and the US have reached an agreement after months of threats from Donald Trump to annex the territory.",
+      "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-09-20T00:02:57.618953+05:00",
-      "age_min": 21.0
+      "ts": "2026-09-20T04:02:49.814408+05:00",
+      "age_min": 2.4
     },
     {
       "hash": "7d5db6d8d73282de1dbc478f7a8c9930",
@@ -351,6 +338,19 @@
       "status": "new",
       "ts": "2026-09-20T00:18:26.842931+05:00",
       "age_min": 18.0
+    },
+    {
+      "hash": "a97c1c1390e2e7836e92f81cd0f645ad",
+      "title": "Уходит исполнительный вице-президент Concentrix по работе с клиентами",
+      "original_title": "Concentrix Executive Vice President of Customer Success Departs",
+      "rss_summary": "Concentrix Executive Vice President of Customer Success Departs&nbsp;&nbsp;The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQUdxTnhJcnJFaGZlQUpVbnY4LWY0bF84MS1mYl8zMG9LZkJIRDlrSTBkdUpNSFR1UnZESXU1SEpwVXhXdXhxa2p0dWp3TzVyejA0YUZBOTh2MHNveTR5OXhpMXBtQWNSNGVqcDJsd2d5eDc3VWpKcE5tbWNVbmN6VXdrTWZ3N0thaXplQkdtYzN1YW5YWF9aS2ttT2FiX3N3RHlIWm01VE9JdnFudGxfdUNaV0dZMzJJNmxUNk1aMGV5Yno3THlPLVVhSWc1SFRsTXUxa2VXVjk3Tk9McTBjQkMxMDQ?oc=5",
+      "source": "The Globe and Mail",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-20T04:03:39.995769+05:00",
+      "age_min": 97.2
     },
     {
       "hash": "7e0897cda714e43d74848a9e6d325e12",
@@ -509,19 +509,6 @@
       "age_min": null
     },
     {
-      "hash": "d4c2ddd6adf9e1aece8a7a04377c8cb8",
-      "title": "США начинают поиски, чтобы раскрыть тайну 80-летней австралийки о пропавших без вести погибших на войне",
-      "original_title": "US launches search to solve 80yo Australian mystery of missing war dead",
-      "rss_summary": "Thousands of missing shipwrecks and plane wrecks lie along the Australian coast, many containing the remains of people killed. The US military, archaeologists and local volunteers are determined to find them.",
-      "link": "https://www.abc.net.au/news/2026-09-20/80yo-australian-mystery-of-missing-us-war-dead/107117612",
-      "source": "ABC AU Politics",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-09-20T00:03:22.644712+05:00",
-      "age_min": 13.4
-    },
-    {
       "hash": "af202f7509a74e775eb65c8ea2004980",
       "title": "Перспективы золота: сырая нефть и доходность облигаций оказывают давление на XAU/USD в преддверии заседания FOMC",
       "original_title": "Gold outlook: Crude oil, bond yields exert pressure on XAU/USD ahead of FOMC",
@@ -650,6 +637,19 @@
       "status": "new",
       "ts": "2026-09-20T00:47:25.527202+05:00",
       "age_min": null
+    },
+    {
+      "hash": "af185edbf95e6b18e8a196455f5558bc",
+      "title": "Альбанезе посетил штаб-квартиру Apple и предупредил, что Австралия не может оставаться в стороне от гонки ИИ",
+      "original_title": "Albanese visits Apple HQ, warns Australia can't sit on sidelines of AI race",
+      "rss_summary": "Prime Minister Anthony Albanese has not ruled out changing copyright laws to attract AI investment from tech giants, warning Australia needs to be \"forward leaning\" if it is to help shape the development of the increasingly powerful technology.",
+      "link": "https://www.abc.net.au/news/2026-09-20/albanese-visits-apple-hq/107173474",
+      "source": "ABC AU Politics",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-20T04:03:47.392098+05:00",
+      "age_min": 12.7
     }
   ]
 }
