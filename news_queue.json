@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:23:13.593153+05:00",
+  "updated": "2026-09-20T14:39:58.175408+05:00",
   "items": [
     {
       "hash": "d20bc4614ada74d32b5df96df58863a8",
@@ -39,6 +39,19 @@
       "status": "new",
       "ts": "2026-09-20T12:47:59.055348+05:00",
       "age_min": 78.0
+    },
+    {
+      "hash": "d349976956114960cfa40ebf0d1339e3",
+      "title": "Эд Дэйви призывает немедленно снизить пошлину на топливо на 10 пенсов",
+      "original_title": "Ed Davey calls for immediate 10p cut to fuel duty",
+      "rss_summary": "Sir Ed blamed Donald Trump's war with Iran for damaging the UK economy and pushing fuel prices up.",
+      "link": "https://www.bbc.co.uk/news/articles/cr89j514dly2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-20T14:35:01.074021+05:00",
+      "age_min": 2.2
     },
     {
       "hash": "e2d375844530b2943a93f69bf4f594de",
@@ -90,19 +103,6 @@
       "status": "new",
       "ts": "2026-09-20T10:49:29.806461+05:00",
       "age_min": 3.0
-    },
-    {
-      "hash": "45345e31e7db6a2869e0eebea33ad8cc",
-      "title": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
-      "original_title": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals",
-      "rss_summary": "US Treasury's Bessent, China's He to launch talks on AI, trade, critical minerals&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDhlbkM4N1NRMjZYdkFnclBwZUlLTWFvelg4dUpkZzVkTnZ5TVJ6Yjl5NUlfQjMtTVdMOEc3ZUdzaHpLNjZrcUk0Y3JMNXdfVmh3VnZjdkN5cTJoZXJGNDJ6ZkoteGhiU3huNnVTa0p4VXpZcU9LVTRMLTVJREYyQ3VBTEtlYWVxLTgwNzdnSkFkcjZpaFZZZXBpclVpazhrbkJFdG1zTEVsaGZPLXV6d3NSdk03amxqRHNMTDdnUFQ?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-20T10:34:26.797050+05:00",
-      "age_min": 26.7
     },
     {
       "hash": "493cdf462da44d76edfe4104c3557b84",
@@ -241,6 +241,19 @@
       "age_min": 62.6
     },
     {
+      "hash": "7cee73993cc79cf1fbd11609c6ae5d23",
+      "title": "Путин победит на фиктивных выборах в России. То, что произойдет дальше, пугает Европу",
+      "original_title": "Putin will win Russia’s sham election. What happens next terrifies Europe",
+      "rss_summary": "Western officials fear Russia’s leader will escalate not just the war in Ukraine but also attacks on NATO.",
+      "link": "https://www.smh.com.au/world/europe/putin-will-win-russia-s-sham-election-what-happens-next-terrifies-europe-20260920-p60yoa.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+      "source": "Sydney Morning Herald",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-20T14:34:58.376273+05:00",
+      "age_min": 5.0
+    },
+    {
       "hash": "68c05d40bc39accfff110f8e18d482a1",
       "title": "Неиспользуемая и вызывающая разногласия филиппинская атомная станция ждет своей участи",
       "original_title": "An Unused and Divisive Philippine Nuclear Plant Awaits Its Fate",
@@ -332,17 +345,17 @@
       "age_min": 24.3
     },
     {
-      "hash": "c869aba67aee8e549dcb0247ad376486",
-      "title": "Live: Russian election enters final day in shadow of war in Ukraine",
-      "original_title": "Live: Russian election enters final day in shadow of war in Ukraine",
-      "rss_summary": "A parliamentary election that President Vladimir Putin has framed as a test of public support for Russia’s war in Ukraine entered its third and final day on Sunday. The ruling United Russia party is expected to maintain its dominance in a political system that critics say leaves little room for dissent. Follow the day’s developments as they unfold in our liveblog.",
-      "link": "https://www.france24.com/en/europe/20260920-live-russian-election-enters-final-day-in-shadow-of-war-in-ukraine",
-      "source": "France24",
-      "score": 10,
-      "weight": 3,
+      "hash": "89b06faa3b2da4c1895201d42fc5959a",
+      "title": "Китайский арбитражный саммит 2026 года и Китайский диалог на высоком уровне по морскому и коммерческому арбитражу успешно прошли в Пекине",
+      "original_title": "China Arbitration Summit 2026 & China High-level Dialogue on Maritime and Commercial Arbitration Successfully Held in Beijing",
+      "rss_summary": "China Arbitration Summit 2026 & China High-level Dialogue on Maritime and Commercial Arbitration Successfully Held in Beijing&nbsp;&nbsp;The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPSFQtSmZxbEtyekFxd3JVdFhjemMtRkozUGM5dmVtXzJVbGExTVBSR0xqa0lLTXR3b28yWWlaZGJIQlNMM3hVS25qYnVfLXBlT0NaSWxFYmQ2MUZyTHhraXJOWEhRaU9ZYUF4U1FDY21WZ3VmSlQyVDVlMDMtcjVLY3Q0dGJtUFA5M3RwMmduejVIbDFObFhleEUzajRkY3lXQXp2QjdqLVpiaWpHYjRHOEYwMDZZYjVvVGFCd1RuZy15ZTd3dElGYnlvR2habXN6dEZldzNLS1JHQUpXb0taTjJwdDJfdjBZa1RxTEd0R0pLdUtJUWsyUzB2dmZjVEtLMkZBVVZhbGZpWlRTU3lEeThYOXYyLWpyVUotYkEydG5xakNaa2xVa19UcDFuS0pt?oc=5",
+      "source": "The Globe and Mail",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-09-20T10:34:30.954303+05:00",
-      "age_min": 18.2
+      "ts": "2026-09-20T14:34:51.756703+05:00",
+      "age_min": 24.8
     },
     {
       "hash": "7f5f85a9448223eb4768e449aeebbe30",
@@ -591,6 +604,19 @@
       "age_min": 12.3
     },
     {
+      "hash": "2b29ac75c77f23c0ddcd46704912314a",
+      "title": "Президент МОК впечатлен «красивыми» деревянными хижинами Азиатских игр – ABS-CBN",
+      "original_title": "IOC president impressed by 'beautiful' Asian Games wooden huts - ABS-CBN",
+      "rss_summary": "IOC president impressed by 'beautiful' Asian Games wooden huts&nbsp;&nbsp;ABS-CBN",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVjNmRXQtZGV2dzEtMDdURkE0OXFlN3hJUEc3WnJhSkdqUWNRbUF1aFBlZEZGczk4M2NqeGxYbE1MdFJuVzM2RFZBbGxiMmU2Nk12VWduQnBzdV8yUmc0aGx2ZnhYdVFvQzFRYVFNSHY2MkpkWEYxclhKdnZiY2dmR21UbEpfRHpFQlZlUmJkMXQyWHZndUhhSTYwWS1oTUc4eUVFbldaSGs3TFJHTkZrXzBzU0c2dUVWYXFv?oc=5",
+      "source": "ABS-CBN",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-09-20T14:34:56.037486+05:00",
+      "age_min": 106.9
+    },
+    {
       "hash": "da068e28c3786ec0ff816fa935d49b18",
       "title": "Навредит ли повышение ставок ФРС рынку жилья Сиэтла или поможет?",
       "original_title": "For Seattle housing market, will Fed’s rate hike hurt or cure?",
@@ -615,32 +641,6 @@
       "status": "new",
       "ts": "2026-09-20T14:04:18.027152+05:00",
       "age_min": 3.1
-    },
-    {
-      "hash": "93f2077bb13065ceec093b29c5388f1b",
-      "title": "Захарова назвала героем продолжившую работу после атаки БПЛА председателя УИК Санахину",
-      "original_title": "Захарова назвала героем продолжившую работу после атаки БПЛА председателя УИК Санахину",
-      "rss_summary": "Председатель УИК №1283 вовремя открыла избирательный участок и продолжила штатную работу, несмотря на то, что накануне в ее доме выбило стекла после атаки украинских дронов",
-      "link": "https://tass.ru/obschestvo/28130761",
-      "source": "TASS",
-      "score": 6,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-09-20T14:17:49.578106+05:00",
-      "age_min": 12.0
-    },
-    {
-      "hash": "bc4d3a8e0943225f74adfc188dc55f2f",
-      "title": "На Запорожье второй день голосования прошел без ЧП и атак БПЛА на участки",
-      "original_title": "На Запорожье второй день голосования прошел без ЧП и атак БПЛА на участки",
-      "rss_summary": "Также продолжает работу горячая линия избиркома",
-      "link": "https://tass.ru/obschestvo/28130389",
-      "source": "TASS",
-      "score": 6,
-      "weight": 2,
-      "status": "new",
-      "ts": "2026-09-20T14:17:49.572625+05:00",
-      "age_min": 3.3
     }
   ]
 }
