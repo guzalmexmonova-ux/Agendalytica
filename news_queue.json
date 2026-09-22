@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-22T22:20:24.472885+05:00",
+  "updated": "2026-09-22T22:37:31.383268+05:00",
   "items": [
     {
       "hash": "b375875f0cf9d4ae8227bd2aa3e2f7b5",
@@ -39,6 +39,82 @@
       "status": "new",
       "ts": "2026-09-22T20:33:50.561225+05:00",
       "age_min": 74.0
+    },
+    {
+      "hash": "50966d51a0af391ab6e24def14b97b35",
+      "title": "Трамп умоляет Украину и Россию остановить войну и сэкономить дизельное топливо",
+      "original_title": "Trump begs Ukraine and Russia to stop the war, save diesel",
+      "rss_summary": "President Trump is to be commended for everything he has done to try and bring about peace. But the reality is that there’s only one person who can truly end this pointless, destructive war. That person is Vladimir Putin.",
+      "link": "https://thehill.com/opinion/robbys-radar/6104410-trump-urges-ukraine-war-end/",
+      "source": "The Hill",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-22T22:35:10.583071+05:00",
+      "age_min": 30.3
+    },
+    {
+      "hash": "eab15c7f99357a2101452f2bec9b2b8e",
+      "title": "USS Stout отправляется из Норфолка для операций по развертыванию",
+      "original_title": "USS Stout Departs Norfolk for Deployment Operations",
+      "rss_summary": "The guided-missile destroyer USS Stout departed Naval Station Norfolk, Va., to begin deployment operations after months of training, maintenance and certification events.",
+      "link": "https://www.war.gov/News/News-Stories/Article/Article/4608460/uss-stout-departs-norfolk-for-deployment-operations/",
+      "source": "Pentagon",
+      "score": 8,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-09-22T22:34:47.612643+05:00",
+      "age_min": 51.8
+    },
+    {
+      "hash": "37ef2a8e27ac0cb6ef75c78c1afa269e",
+      "title": "Эксклюзив: советник Трампа связал высокие цены на газ с переработкой",
+      "original_title": "Exclusive: Trump adviser ties high gas prices to refining",
+      "rss_summary": "The affordability of gasoline remains \"the top issue that the president looks at,\" Trump energy adviser Jarrod Agen said at an Axios House event Tuesday.Why it matters: The Trump administration is championing energy savings from its deregulatory push as overseas conflicts, including the Iran war, rattle oil markets, driving up fuel costs and threatening an expensive winter for millions of households.Tuesday's national average gas price was roughly $4.48, up from around $3.18 a year ago, per AAA.",
+      "link": "https://www.axios.com/2026/09/22/trump-high-gas-prices-refining-capacity",
+      "source": "Axios",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-22T22:34:45.959563+05:00",
+      "age_min": 8.0
+    },
+    {
+      "hash": "89f0ebb6099062817e28698839586670",
+      "title": "Отключение частного кредита по умолчанию",
+      "original_title": "Private Credit's Default Disconnect",
+      "rss_summary": "Private credit default rates vary widely depending on who’s counting, making the true level of distress tough to gauge. Bloomberg’s Kat Hidalgo breaks down the confusion on Bloomberg Open Interest. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-22/private-credit-s-default-disconnect-video",
+      "source": "Bloomberg",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-22T22:34:05.901017+05:00",
+      "age_min": 19.6
+    },
+    {
+      "hash": "0046b52bce0af0a214d49c0cdbe0e8f3",
+      "title": "Трамп снова заявляет о своей заслуге в прекращении индийско-пакистанской войны, говорит, что премьер-министр Пакистана поблагодарил его",
+      "original_title": "Trump again claims credit for ending India - Pakistan war , says Pakistan PM thanked him",
+      "link": "https://economictimes.indiatimes.com/news/international/global-trends/trump-again-claims-credit-for-ending-india-pakistan-war-says-pakistan-pm-thanked-him/articleshow/134415798.cms",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-22T22:32:20.671791+05:00",
+      "age_min": 62.3
+    },
+    {
+      "hash": "5994d7be370e2f7c53b705cb3edace6b",
+      "title": "Трамп угрожает отправить Иран в ад, если война продолжится",
+      "original_title": "Trump threatens to send Iran  into hell  if war carries on",
+      "link": "https://www.latimes.com/politics/story/2026-09-22/trump-threatens-to-send-iran-into-hell-if-war-carries-on",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-22T22:32:20.650205+05:00",
+      "age_min": 62.3
     },
     {
       "hash": "38a59aefa4c21bb7f2ec57467c217559",
@@ -427,17 +503,30 @@
       "age_min": 2.7
     },
     {
-      "hash": "7a4b553bc5f3c0b29a058f7f3e834e45",
-      "title": "Рост акций нефтеперерабатывающих компаний застопорился из-за оживления разговоров о запрете на экспорт дизельного топлива",
-      "original_title": "Refining-Stocks Rally Stalls as Talk of Diesel Export Ban Swirls",
-      "rss_summary": "This year’s big rally in US refiner stocks is running into growing headwinds with some Republican leaders calling to restrict exports of diesel, which has soared as global conflicts limit supplies.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-22/refining-stocks-rally-stalls-as-talk-of-diesel-export-ban-swirls",
-      "source": "Bloomberg",
-      "score": 10,
+      "hash": "e51b2f13beff2e357cf7657b984a80a2",
+      "title": "Республиканские призывы к запрету на экспорт дизельного топлива растут в преддверии промежуточных выборов",
+      "original_title": "Republican Calls for Diesel Export Ban Grow Ahead of Midterms",
+      "rss_summary": "A growing number of Republican lawmakers are calling for a ban on diesel exports as the key fuel hits record prices less than two months before the midterms in which the GOP potentially faces steep electoral losses.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-22/republican-calls-for-diesel-export-ban-grow-ahead-of-midterms",
+      "source": "Bloomberg Politics",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-09-22T18:33:20.682305+05:00",
-      "age_min": 20.2
+      "ts": "2026-09-22T22:34:38.000718+05:00",
+      "age_min": 10.0
+    },
+    {
+      "hash": "3d1bf42d6fc3aeb5946e6f6f7913c34c",
+      "title": "Фондовый рынок сегодня: рост фьючерсов Dow; Нефть опустилась ниже $100 — обновления в реальном времени",
+      "original_title": "Stock Market Today: Dow Futures Gain; Oil Sinks Below $100 — Live Updates",
+      "rss_summary": "Stock Market Today: Dow Futures Gain; Oil Sinks Below $100 — Live Updates&nbsp;&nbsp;WSJS&amp;P 500 Holds Near Record High as Oil Prices Ease: Markets Wrap&nbsp;&nbsp;Bloomberg.comWall Street holds near its record as Brent oil falls below $100 per barrel&nbsp;&nbsp;AP NewsOil falls below $100 a barrel on reports Iran ‘makes strait of Hormuz offer’; UK government borrowing paints ‘dismal picture’ – business live&nbsp;&nbsp;The GuardianWall Street holds near its record after Brent oil briefly fall",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbC1wY25QY0ZlNXdTZGJpQ1BjbUR4TDd5dU8yR1BZU2FfTEQzSkVPa0JJckN4dHI2eVpxS3lCVzZ4U19CY1ZMSnFBTEhraFFMcWpBR1dvMWNDbU5BTDhfQnczM2VIYlkzVVRkM2hzM2Y0MGpLS3UtcHVCcTYwZ3VJMld0cDdYODQ?oc=5",
+      "source": "WSJ",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-22T22:34:24.719464+05:00",
+      "age_min": 83.4
     },
     {
       "hash": "0808af2850b06ec9e449b3668ea77851",
@@ -555,97 +644,6 @@
       "status": "new",
       "ts": "2026-09-22T21:19:27.458922+05:00",
       "age_min": 45.5
-    },
-    {
-      "hash": "717b32f18c0278eda81c0277f3f7d731",
-      "title": "Трамп предупредил в своей речи в ООН, что может «уничтожить» Иран без мирного соглашения",
-      "original_title": "Trump warns in UN speech he could 'annihilate' Iran without peace deal",
-      "rss_summary": "Trump warns in UN speech he could 'annihilate' Iran without peace deal&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOFdkQk9aWHdzT0hrcFhDNDZPSmlwQVBUUm12TGd4SUVPUURUMVo4Y3I0WHZBSTIxdjdKTWZ4WkF3cVUzUnlrWmNrbTA5T21UN3R0Z0JnekdrZm5ReC1ZS2JmUWVQRXRVNzhaYmNucDI5YVh6d2JxeHp5Yi00Y3p2d0loRTY5YXNiWGRHTlJZb1ZiX1paMVh3UU1XVThfUXR2NHF3T0pod3BBS3VpU3AyTDB3?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-22T21:04:51.300365+05:00",
-      "age_min": 49.0
-    },
-    {
-      "hash": "31183ef18e61b6716116c3ba9042a5da",
-      "title": "Сенатор-республиканец призвал провести расследование деловых связей семьи Трампа",
-      "original_title": "Republican senator calls for probe into Trump family's business dealings",
-      "rss_summary": "Republican senator calls for probe into Trump family's business dealings&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQ1VINWFaTnNHOU1IY3ZueVY0UjMwWXFVTmx1bnA3RjlxT0t4Q0tUcEtpVFRqWVZpUF9JZk1kWkNPNmk0TV9UVVlfMW1sMnBHVzFLRGhpOXBlMU1EYzBrbE1jZzB4dzgtNDFUemg3ZnVpT1B1a1VJWXkwZ0tGMmtCRk80cWFoRVJVdUxPc190dGFkUzk3aUtNT1U5U2lpOW9rVXloYlA5WUhMQWd6OG9tVXhvUXM3VjZSZ0lkRA?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-22T21:04:51.296028+05:00",
-      "age_min": 95.1
-    },
-    {
-      "hash": "0f3e327e460f7df39e20630282ab6f9a",
-      "title": "Сенатор-республиканец Джон Кертис призывает к расследованию в отношении Трампа-младшего после свадебной вечеринки, финансируемой российским олигархом - apnews.com",
-      "original_title": "GOP Sen. John Curtis calls for probe of Trump Jr. after wedding party bankrolled by Russian oligarch - apnews.com",
-      "rss_summary": "GOP Sen. John Curtis calls for probe of Trump Jr. after wedding party bankrolled by Russian oligarch&nbsp;&nbsp;apnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQjFDV1YzVlR2emowbUh3U3FSSG9pZXVOTEFya3dMcHpveU90c3N6LWs2a3I5OTlROGNnb0dsSVJhMDZ0Z3V4Z1N4T2JlM1FsQzdDWmZYMjJEdXZCcjA1U2NybjBybENwbklTUWNUY2JwTTRoUW15am1SaHFUY2tyaUdYbXVWZl94M2NJN0VpakpDLU5WekxJOW9yTHNFWlRzWnFPOQ?oc=5",
-      "source": "AP",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-22T20:48:24.710295+05:00",
-      "age_min": 108.4
-    },
-    {
-      "hash": "9505dfb1ea89e82f20aa3f11961d1e9c",
-      "title": "ЕС продлевает санкции против России и отказывается от российских миллиардеров Усманова и Фридмана",
-      "original_title": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman",
-      "rss_summary": "EU renews Russia sanctions, drops Russian billionaires Usmanov and Fridman&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnhFeHB1dlJzNUFaZkYzM0d3cFNyaDI3bFo3VjJFYW5wc0dhandneXlLVkstbVhfd0REaXJrUmx2TF9tRTd0QzdoTExocDNHSFhwVTlVRkZ6RzhKMU4yckMwNzEzS0xtalhQQl9vSkpBdjRxbUFVczFVc1NEQVJQM3R0NEdaQThjX0owTkdxbUcxb3JuM1c3XzNCVGN4dXV4OTNBeEQ3bURQWGxnRmdaVw?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-22T20:18:03.169428+05:00",
-      "age_min": 7.7
-    },
-    {
-      "hash": "9e348b634dcc1e0b78d23595aa339a5b",
-      "title": "Шведская прокуратура расследует обвинения в фальсификациях на выборах, бросающих тень на голосование",
-      "original_title": "Swedish prosecutors probe election fraud allegation casting shadow over vote",
-      "rss_summary": "Swedish prosecutors probe election fraud allegation casting shadow over vote&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQjhVVi1qNGdFZFNFVEkyVnpIV0xDNFd3VDk2VHJfb2VaNzlTa2ZzV3lLZ2xWei1LMGR6bFpBb1pwME8xN0s4akNfTVFDcEFnZ0JFZXdGMXNoOXhLSU53QUp2MEdRUWF3Zk5xOFhOLXNucmZydVlJa2ZXZ0ZTSFNhTlZheUZpTV9MQkJ1LVJfYzg4MFVZZmRUWTVwSjdwOHkybUJmcWN5dVRXdmo2NC1mTkhBX3hTUU9nUXpHbW5lc2VNVjZDc3lwampmQWVnTHBp?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-22T19:04:44.301450+05:00",
-      "age_min": 79.0
-    },
-    {
-      "hash": "a8cad88874bacd38830bf17038528e7d",
-      "title": "«То, что он делает, совершенно не по-американски»: ночные ведущие реагируют на запрет СМИ Трампа",
-      "original_title": "'What he’s doing is positively un-American': Late-night hosts react to Trump media ban",
-      "rss_summary": "The comedians of late-night television have a vested interest in protecting the First Amendment. So when U.S. President Donald Trump announced he was banning news outlets CNN, MS NOW, and Politico from the White House last Friday, they came out swinging.",
-      "link": "https://www.cbc.ca/news/entertainment/late-night-white-house-media-ban-9.7353577?cmp=rss",
-      "source": "CBC World",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-22T22:16:58.389018+05:00",
-      "age_min": 17.7
-    },
-    {
-      "hash": "9a1f8647c514a1264d00b9a91b94cf31",
-      "title": "Испания разрешила США продолжить дело об экстрадиции пропалестинского донора",
-      "original_title": "Spain allows US extradition case against pro-Palestinian donor to proceed",
-      "rss_summary": "MADRID, Sept 22 (Reuters) - Spain on Tuesday allowed a US extradition request for pro-Palestinian donor James Cox Chambers to proceed to court, despite protests from the government's left-wing coalition partners who argue the case is politically motivated.The case is politically sensitive for Spain's Socialist-led government, whose pro-Palestinian stance has drawn rebuke from the Trump administration and contributed to wider tensions with Washington.",
-      "link": "https://www.al-monitor.com/originals/2026/09/spain-allows-us-extradition-case-against-pro-palestinian-donor-proceed",
-      "source": "Al-Monitor",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-22T21:48:04.067177+05:00",
-      "age_min": 1.4
     }
   ]
 }
