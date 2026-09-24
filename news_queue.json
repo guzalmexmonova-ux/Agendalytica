@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T00:23:22.501444+05:00",
+  "updated": "2026-09-25T00:41:35.211843+05:00",
   "items": [
     {
       "hash": "b0a9d23711312cd4440581939b779402",
@@ -41,19 +41,6 @@
       "age_min": 87.2
     },
     {
-      "hash": "0486fe732c08be707c2744ca8dce69d0",
-      "title": "Infantino looks set to stay, but FIFA faces a new war over power",
-      "original_title": "Infantino looks set to stay, but FIFA faces a new war over power",
-      "rss_summary": "Infantino looks set to stay, but FIFA faces a new war over power&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ004UTM5QzNmUXhUZGRRcTZpQVRPYzltSXJaRHFlYWpLb3AyUFd6OUdxREFjRW1UcXVuaHhkRjQxc2cxX05qTDBLWXRnY1hGbEU0TG9JelZyUEpPVFpWQk00RWdNX1hjX09EZkhWMUYwb25RTkNoVGkxNXV4MFpYRlNqY3BWUUItZk15WHJjUHY4ZDZmYktyMVNKR0ZvMC1oMUlJOHJJbw?oc=5",
-      "source": "Reuters",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-24T20:34:39.763972+05:00",
-      "age_min": 67.0
-    },
-    {
       "hash": "4294756a03d3b914d5a2f39decad79c2",
       "title": "Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say",
       "original_title": "Insight: US and Iran discuss phased deal to reopen Hormuz and end US blockade, sources say",
@@ -65,6 +52,19 @@
       "status": "new",
       "ts": "2026-09-24T21:48:35.990744+05:00",
       "age_min": 23.3
+    },
+    {
+      "hash": "d08f1d8fa3d19896df73e7043d989e5c",
+      "title": "Республиканская партия в Сенате отклонила резолюцию, предписывающую Трампу положить конец войне с Ираном, поскольку все больше республиканцев недовольны конфликтом",
+      "original_title": "Senate GOP defeats resolution directing Trump to end Iran war as more Republicans sour on conflict",
+      "rss_summary": "The Senate on Thursday defeated a House-passed resolution directing President Trump to withdraw U.S. troops from the conflict with Iran, despite growing dissatisfaction among GOP senators over President Trump’s handling of the war. Four Republicans joined nearly the entire Senate Democratic caucus for the war powers resolution, which the House passed in July. But the...",
+      "link": "https://thehill.com/homenews/senate/6109995-senate-gop-defeats-donald-trump-iran-war-powers-resolution/",
+      "source": "The Hill",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-25T00:37:22.725764+05:00",
+      "age_min": 36.2
     },
     {
       "hash": "699cfc172bfb7b69f54a0b765dc22981",
@@ -314,31 +314,6 @@
       "age_min": 17.6
     },
     {
-      "hash": "4e7ba644979ab8b1904815ea56dfcf08",
-      "title": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles",
-      "original_title": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles",
-      "rss_summary": "Iranian flights cancelled as new US 'D-Day' sanctions take effect, Saudis say they shoot down Houthi missiles&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORXFRdU50SU1neUhFbzk2V2JmSXRiRDFJbm5BR1VFaWp6NXhaZ2hRcExwUjJNeHRwVlFNd0xKY2tBWnI4N0c3Tk0zWTFyUHNCSnZJRUw3Znp3bU1UREd5OHo5anJLY21GdkVTa2V1TnQ2ZTVxOGRXSHRfUmIxN0dCRzFSaXJFVWRJOHQzVWE4dTdjcXRZNk5nSVg0eFBEYWd4akJGNWVzbE5rNEhwSVowcUp5SXhHZzV3OVBsUkp3UkQ1RTZvWHNwWTdn?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-24T20:34:39.778314+05:00",
-      "age_min": 46.5
-    },
-    {
-      "hash": "0c677a06f612f5b983aa61b6996969ff",
-      "title": "Война в Украине будет развиваться по пути эскалации после выборов в России – аналитик",
-      "original_title": "Война в Украине будет развиваться по пути эскалации после выборов в России – аналитик",
-      "link": "https://www.unian.net/world/voyna-v-ukraine-budet-razvivatsya-po-puti-eskalacii-posle-vyborov-v-rossii-analitik-13509003.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-24T20:32:30.331209+05:00",
-      "age_min": 92.5
-    },
-    {
       "hash": "05d4328b9c91469373790649eeb38cd1",
       "title": "Глобальная распродажа облигаций углубляется, поскольку доходность 30-летних облигаций США достигла максимума с 2004 года",
       "original_title": "Global bond selloff deepens, as US 30-year yields hit highest since 2004",
@@ -480,6 +455,45 @@
       "status": "new",
       "ts": "2026-09-24T21:48:37.430481+05:00",
       "age_min": 20.6
+    },
+    {
+      "hash": "d8a07aee58cb88a3538376f2fc404ff3",
+      "title": "Большинство жителей округа Колумбия говорят, что они пострадали от федеральных сокращений рабочих мест и отпусков: Gallup",
+      "original_title": "Most in DC area say they've been hurt by federal job cuts, furloughs: Gallup",
+      "rss_summary": "A majority of residents in the Washington, D.C., area have been negatively impacted by the Trump administration’s federal job cuts, according to a new survey. Fifty-five percent of 2,801 residents in D.C. and nearby suburbs said their household was negatively affected by the reduction in the federal workforce in the past year, as reported by...",
+      "link": "https://thehill.com/homenews/state-watch/6109855-dc-residents-impacted-federal-cuts/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-25T00:37:22.723628+05:00",
+      "age_min": 31.3
+    },
+    {
+      "hash": "09d346e1379c634e1a88df52f67d3222",
+      "title": "США и Польша близки к соглашению по американской базе с 10 тысячами военнослужащих",
+      "original_title": "US and Poland near deal for American base with 10,000 troops",
+      "rss_summary": "US and Poland near deal for American base with 10,000 troops&nbsp;&nbsp;PoliticoNATO ally pushes ‘Fort Trump’ US military base as Russian helicopter penetrates airspace&nbsp;&nbsp;Fox NewsNew US \"Fort Trump\" military base in Poland \"confirmed\", says President Nawrocki&nbsp;&nbsp;notesfrompoland.comTrump touts plan for new U.S. base in Poland as NATO ally's leader warns of \"real risk\" from Russia&nbsp;&nbsp;CBS NewsIf Poland Gets a US Base It’ll Be Called Fort Trump, Nawrocki Says&nbsp;&nbsp;Bloo",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKYW1MVmpDTlp5b0RZcWNQaXBDSHgwdEF3Y0dhWXkzTTk0cENPbWNrLU9GdFVWa3lhU0F5SnFadklvYnRYQzFOeVE3VmNHNDhHQnJtN1NGSkpJZXFIRFFKQmlWWm5yeExZd3ZtSHhSVG1pTTY2Y1JJZHRiMA?oc=5",
+      "source": "Politico",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-25T00:36:39.451215+05:00",
+      "age_min": 81.7
+    },
+    {
+      "hash": "bbc812ae439fc14843e359bd2bf17d84",
+      "title": "Отношения США и Китая «слишком большие, чтобы потерпеть неудачу», говорит сенатор Стив Дэйнс",
+      "original_title": "US, China Relationship 'Too Big to Fail,' Says Sen. Steve Daines",
+      "rss_summary": "Republican Senator from Montana Steve Daines said that he views the relationship between the US and China as 'too big to fail,' and says that he is appreciative of the President Trump's respectful approach to the relationship as conversations between the two leaders take place behind closed doors in Washington. Daines also discussed AI regulation and said he wants the US to have thoughtful, but fast paced AI governance.  (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-24/us-china-relationship-too-big-to-fail-says-daines-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-25T00:36:19.737986+05:00",
+      "age_min": 11.2
     },
     {
       "hash": "5799e4aa9cb2341177fb4fc5156cacf6",
@@ -635,18 +649,6 @@
       "status": "new",
       "ts": "2026-09-24T22:18:06.198052+05:00",
       "age_min": 101.9
-    },
-    {
-      "hash": "425a68972322dcfde5ade08c8d047621",
-      "title": "Iran threatens to expand war to Indian Ocean : What to know",
-      "original_title": "Iran threatens to expand war to Indian Ocean : What to know",
-      "link": "https://www.al-monitor.com/originals/2026/09/iran-threatens-expand-war-indian-ocean-what-know",
-      "source": "GDELT/HOTSPOTS",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-09-24T22:16:45.701428+05:00",
-      "age_min": 76.8
     }
   ]
 }
