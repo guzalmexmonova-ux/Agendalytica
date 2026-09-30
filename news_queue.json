@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T20:36:49.587581+05:00",
+  "updated": "2026-09-30T20:51:26.803160+05:00",
   "items": [
     {
       "hash": "4df948cdd65ccec005347fba0a4cc08a",
@@ -28,19 +28,6 @@
       "age_min": 4.8
     },
     {
-      "hash": "6c00737e3e9d3781a3a606e0bca45f31",
-      "title": "Иран заявляет, что получил официальный ответ США на свое последнее предложение о прекращении войны",
-      "original_title": "Iran indicates it’s received an official US response to its latest offer on ending the war",
-      "rss_summary": "Iran indicates it’s received an official US response to its latest offer on ending the war&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa0ZnME5PM2tFOXBTRG9ibkxwMG5Pd1AtTmY4V0ZCU3I4Z0tsam1mcjdNWDVTQ3Jwa0d5YUg3YTdvcXkzNTFSdy1FbktYWHJFazAxRGlMaGozVXNxcXpFZm9GUGpXazBTSVpFdjdzQUNoaDZYMmVvWGUtckxtTjVRQzN5Y3M0bnczVkVnbVMtek9ONGZJ?oc=5",
-      "source": "AP News",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-30T16:47:38.832306+05:00",
-      "age_min": 24.6
-    },
-    {
       "hash": "d98e2c1bafc0d66aa6874f02dd3a2789",
       "title": "Israeli strikes kill six people in Gaza, medics say",
       "original_title": "Israeli strikes kill six people in Gaza, medics say",
@@ -52,6 +39,19 @@
       "status": "new",
       "ts": "2026-09-30T18:49:15.330197+05:00",
       "age_min": 23.6
+    },
+    {
+      "hash": "997e4af51d71b059691f9738f35c2f75",
+      "title": "US ceasefire plan for Sudan could lead to Libya-style partition, adviser says",
+      "original_title": "US ceasefire plan for Sudan could lead to Libya-style partition, adviser says",
+      "rss_summary": "By Khalid AbdelazizSept 30 (Reuters) - A US ceasefire proposal to pause Sudan's civil war could push the country towards a Libya-style partition in its current form, a top adviser to Sudan's army-led authorities told Reuters, in some of the strongest criticism by a Sudanese official of the plan so far.The remarks come a week after Reuters reported that army leader General Abdel Fattah al-Burhan's visa to attend the UN General Assembly in New York had been withheld because he had not yet accepted",
+      "link": "https://www.al-monitor.com/originals/2026/09/us-ceasefire-plan-sudan-could-lead-libya-style-partition-adviser-says",
+      "source": "Al-Monitor",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-30T20:48:35.619585+05:00",
+      "age_min": 1.9
     },
     {
       "hash": "3418f0d748a8ee21977b34dceadb7351",
@@ -309,30 +309,16 @@
       "age_min": 47.7
     },
     {
-      "hash": "61e251bc563486130c9f1927237f5f0e",
-      "title": "Бёрнем говорит, что Великобритании следует взвесить варианты ЕС после Брексита, включая возвращение в ЕС - reuters.com",
-      "original_title": "Burnham says UK should weigh post-Brexit EU options, including rejoining - reuters.com",
-      "rss_summary": "Burnham says UK should weigh post-Brexit EU options, including rejoining&nbsp;&nbsp;reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeHFKNWtOV0FDeHFJZ1N6SjVQdTNHaFdPOThkYktaTGZuY09ObnRjNFVJdGpHM21NVGlfQ0hwR0hfdmo1NHZpUkxkODY5czZ4TTliUHNnR3R4dkZRX0Vkaks5cmxBdmN1WE1mTVR5UzhNYWZsWjYwM2pWR1AwN19NNExSSmVWSFJKc1p1bmpOYkJJd0lWNlEyTkUxLWVBNHg4RFVpWXpLczBNOUNvc3dVMGxnNGU?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-30T16:47:37.080106+05:00",
-      "age_min": 54.9
-    },
-    {
-      "hash": "3b4deb34916b7190de64b71cb071e60d",
-      "title": "Россия пригрозила нанести ядерный удар по странам НАТО из-за Калининграда",
-      "original_title": "Russia threatens nuclear strikes on Nato countries over Kaliningrad",
-      "rss_summary": "Kremlin accuses western defence alliance of preparing to blockade Russian exclave on Baltic Sea",
-      "link": "https://www.ft.com/content/1bb7ec8d-7252-4fa3-8c4a-81fa5b6906a2?syn-25a6b1a6=1",
-      "source": "FT",
-      "score": 10,
+      "hash": "f79727e5ca9244bb3ce83f34e1c0215b",
+      "title": "Mounting pressure on Iran could lead to attack on Israel despite US peace talks",
+      "original_title": "Mounting pressure on Iran could lead to attack on Israel despite US peace talks",
+      "link": "http://www.jpost.com/middle-east/iran-news/article-910197",
+      "source": "GDELT/HOTSPOTS",
+      "score": 9,
       "weight": 4,
       "status": "new",
-      "ts": "2026-09-30T16:47:09.049304+05:00",
-      "age_min": 11.5
+      "ts": "2026-09-30T20:46:21.152550+05:00",
+      "age_min": 46.4
     },
     {
       "hash": "aab7a9dbedc99af926cfb65c63da2593",
@@ -601,42 +587,56 @@
       "age_min": 19.1
     },
     {
-      "hash": "fde2f2fa931cf2709588d8d8d9b2d3ef",
-      "title": "Отход Трампа от «Жилье прежде всего» вызывает переворот в программах по бездомности, и многим из них они служат",
-      "original_title": "Trump’s shift from 'Housing First' is causing upheaval for homelessness programs and many they serve",
-      "rss_summary": "Trump’s shift from 'Housing First' is causing upheaval for homelessness programs and many they serve&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHFHbUFUUXBlbHVuUlAtak1xY042T1BCSDg4RUpIQUNhRjQ3M3FpWGh3YW1CZnl4MzZicVdIa1Vwei05d2NQZ1NfUFo5WUdpRm5vQTBNQVdfNEI2VXZEa1gtbW9vRjV6T0ZGNFI2U2pIaS1faFhrVnFndnhQWnluQnlGOE10M3ZYODU5WFlzYm0zWkNRa3pWeEpRSnZRYm5YclV6RERoRnU?oc=5",
-      "source": "AP News",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-30T16:47:38.839820+05:00",
-      "age_min": 106.6
-    },
-    {
-      "hash": "a136098361236d6d2eb047bd3d21b7a7",
-      "title": "Выводы из статьи AP о попытках администрации Трампа положить конец программе «Жилье прежде всего»",
-      "original_title": "Takeaways from the AP’s story about the Trump administration’s effort to end ‘Housing First’",
-      "rss_summary": "Takeaways from the AP’s story about the Trump administration’s effort to end ‘Housing First’&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOb1lrWmNVUjJUTC1KWXBlbWktM3pjdldkRU00SmZCYzFia1Yza29NZzZ2SG5MWFp0emlhNzlXbUlQMFhLWEJkdmVlYVVTdlJkSGgtbml1UDhvb21RVUd5eUhzRjJlckMtMjd6ZUp1a2M0VmZsUWh4SFJRcE5uaElqQlVpUE1YZ2xPQkloYjZGZTcybFQyRVF2NFVnNA?oc=5",
-      "source": "AP News",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-09-30T16:47:38.828480+05:00",
-      "age_min": 105.6
-    },
-    {
-      "hash": "8f810e59c57bb7acb60568bf7b78af88",
-      "title": "За първи от Студената война Русия ни заплаши така : Кремъл с ядрено предупреждение към НАТО",
-      "original_title": "За първи от Студената война Русия ни заплаши така : Кремъл с ядрено предупреждение към НАТО",
-      "link": "https://www.actualno.com/europe/za-pyrvi-ot-studenata-vojna-rusija-ni-zaplashi-taka-kremyl-s-jadreno-preduprejdenie-kym-nato-news_2645088.html",
-      "source": "GDELT/GEOPOLITICS",
+      "hash": "58fa8f86de53e725acdec86e22409bb8",
+      "title": "Selkirk Copper Drills 9.3% Cu, 7.4 g/t Au and 54.9 g/t Ag (15.1% CuEq) over 5.4 Metres at Minto North as Part of the Ongoing Phase 2 Drill Program",
+      "original_title": "Selkirk Copper Drills 9.3% Cu, 7.4 g/t Au and 54.9 g/t Ag (15.1% CuEq) over 5.4 Metres at Minto North as Part of the Ongoing Phase 2 Drill Program",
+      "rss_summary": "Selkirk Copper Drills 9.3% Cu, 7.4 g/t Au and 54.9 g/t Ag (15.1% CuEq) over 5.4 Metres at Minto North as Part of the Ongoing Phase 2 Drill Program&nbsp;&nbsp;The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQNllLcFlaQzl0azdrOHdNLUhHQVRSY05XUzRHU2EwLUs3WE1KWElfN0ZWN0ZwTDBSSlNyRE5NVDFKRW40MlhCbnVRYk1lWlpkX0FGRW5FNDRlUFMzM1haX1VYOEJTbi1CSDcyd0FBZHR6NEd2M3JFRF93dFIwa2QwblRsbGNtTnN6X0JldW5CNlYxcHlYcFlmMjY1MDZUejZqa0JSSEFDdVFGQ1MtLVdqVjZ4cW5uY0hiT0I2dGNncjRBV0FFRFJoOTZ5LVhfUjJDMS1rMEhDMnQ3eUFBeDFDcWhkLTBuekhXRW5WNzE3cU1ubWt5Zlpzc2kzbUFyaEZCLUJfTWZjdUZ3T1pVZEs0V0JCbGhBMVhGUGFEWEpzWktOMExZZE42TlJZSFFCa2JERl9LSDlBckZEamVlZDJGTFh5ZF8?oc=5",
+      "source": "The Globe and Mail",
       "score": 8,
       "weight": 4,
       "status": "new",
-      "ts": "2026-09-30T20:30:55.367196+05:00",
-      "age_min": 30.9
+      "ts": "2026-09-30T20:48:50.678188+05:00",
+      "age_min": 44.3
+    },
+    {
+      "hash": "c8e573e8eabd4750484a7cc48de9fad9",
+      "title": "Panama Panel Backs First Quantum Mine Restart to Fund ‘Closure’",
+      "original_title": "Panama Panel Backs First Quantum Mine Restart to Fund ‘Closure’",
+      "rss_summary": "A Panama ministerial committee is recommending that President Jose Raul Mulino’s administration negotiate a restart of an idled copper mine with First Quantum Minerals Ltd. as a way to fund an “orderly closure” sometime in the future.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/panama-panel-backs-first-quantum-mine-restart-to-fund-closure",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-30T20:48:03.460091+05:00",
+      "age_min": 82.8
+    },
+    {
+      "hash": "297d541a25d63d1b131842242b044db3",
+      "title": "The Secret Path to Escaping US Debt",
+      "original_title": "The Secret Path to Escaping US Debt",
+      "rss_summary": "The US tax code has become a complex system of credits and deductions costing $2.3 trillion a year. Bloomberg Opinion columnist Kathryn Anne Edwards why Congress may need to rethink those tax breaks to address America’s debt problem. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-09-30/opinion-the-secret-path-to-escaping-video",
+      "source": "Bloomberg",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-30T20:48:03.443158+05:00",
+      "age_min": 8.6
+    },
+    {
+      "hash": "c58b60b7795d121285fa8c519d5e9ea6",
+      "title": "How will Trump ‘accord’ for AI to ‘self-regulate’ work?",
+      "original_title": "How will Trump ‘accord’ for AI to ‘self-regulate’ work?",
+      "rss_summary": "US president touts voluntary commitment which may create unexpected legal liabilities for AI companies",
+      "link": "https://www.ft.com/content/f52f7b0e-be7d-414c-b19d-d78a3a5f4882?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-09-30T20:48:03.108310+05:00",
+      "age_min": 16.7
     }
   ]
 }
