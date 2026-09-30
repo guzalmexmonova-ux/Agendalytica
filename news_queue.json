@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T04:35:36.519822+05:00",
+  "updated": "2026-10-01T04:53:19.840208+05:00",
   "items": [
     {
       "hash": "3a04048701f3dd44689f0ef279d6559b",
@@ -13,19 +13,6 @@
       "status": "new",
       "ts": "2026-10-01T02:48:31.443375+05:00",
       "age_min": 23.5
-    },
-    {
-      "hash": "ee05503ab4d8b6f14aca42321850f0f1",
-      "title": "Watchdog finds problems but no Fed misconduct in Powell-era renovation project",
-      "original_title": "Watchdog finds problems but no Fed misconduct in Powell-era renovation project",
-      "rss_summary": "Watchdog finds problems but no Fed misconduct in Powell-era renovation project&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUnN2cDczYmlxZHdIZlAxeWVkVWZPVlA4SmJ2eHB2UTVjZzhHbTRuUy1uazQyblA1UDBFbDVXOFNyUXdJUFZUVHVwR2pHR3dqSkhNbGdmQ1Iyb3k3R3A5MlZuYnhkd2ROX0xLaHVFeGVSUG0tTHhneWxJdmFTeUVPalBQQTN4elgzME1GejM5dUJ2WG5sbG1heGlCZjIxd1NtOGtTMDhoM21ZNVpOSVMwZEIxSjM3cjRYQkhzTA?oc=5",
-      "source": "Reuters",
-      "score": 10,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-10-01T00:49:16.258432+05:00",
-      "age_min": 114.4
     },
     {
       "hash": "93a455c4c678863fc43545916de35f7a",
@@ -52,6 +39,19 @@
       "status": "new",
       "ts": "2026-10-01T01:19:27.423488+05:00",
       "age_min": 5.5
+    },
+    {
+      "hash": "d3ae943fe17530dc28c162f4af256127",
+      "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "original_title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+      "rss_summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-01T04:48:46.142929+05:00",
+      "age_min": 38.7
     },
     {
       "hash": "b360b28017679a031df38074db48ba48",
@@ -387,84 +387,6 @@
       "age_min": 46.7
     },
     {
-      "hash": "89b0c4d2f3685bde5d202f28766fef5a",
-      "title": "UK believes Iran 'played a part' in foiled attack, Burnham says",
-      "original_title": "UK believes Iran 'played a part' in foiled attack, Burnham says",
-      "rss_summary": "British Prime Minister Andy Burnham said Wednesday his government believes that Iran “played a part” in the alleged thwarted attack on a U.S. air base in the United Kingdom earlier this week. “There are strong indications that Iran played a part in what happened over the weekend at RAF Fairford,” Burnham told the BBC, referring...",
-      "link": "https://thehill.com/policy/international/6120983-uk-us-air-base-incident-andy-burnham-iran-conflict/",
-      "source": "The Hill",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-01T00:49:45.157159+05:00",
-      "age_min": 102.0
-    },
-    {
-      "hash": "418191a1a3fafc56d870626e0337871a",
-      "title": "Trump says US exit from Iraq a 'victory' for both countries",
-      "original_title": "Trump says US exit from Iraq a 'victory' for both countries",
-      "rss_summary": "President Trump touted the final withdrawal of U.S. troops from Iraq as a win for both countries more than 20 years after the start of the Iraq War.  \"It's a victory for the United States, it's a victory for Iraq and a decisive victory over ISIS, which has been completely decimated,” Trump said speaking at...",
-      "link": "https://thehill.com/homenews/administration/6121110-trump-iraq-troop-withdrawal/",
-      "source": "The Hill",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-01T00:49:45.152150+05:00",
-      "age_min": 66.5
-    },
-    {
-      "hash": "c4070685a3f209340c5df0c9f8b2e0fd",
-      "title": "Hegseth Tells Troops Reporting on Iran Is a ‘National Betrayal’",
-      "original_title": "Hegseth Tells Troops Reporting on Iran Is a ‘National Betrayal’",
-      "rss_summary": "Defense Secretary Pete Hegseth called press coverage of the Iran war “a national betrayal,” and described journalists as anti-American traitors for reporting on the actions of the Pentagon.",
-      "link": "https://www.bloomberg.com/news/articles/2026-09-30/hegseth-tells-troops-news-coverage-of-iran-a-national-betrayal",
-      "source": "Bloomberg Politics",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-01T00:49:19.420506+05:00",
-      "age_min": 14.7
-    },
-    {
-      "hash": "a8f0e38a92a048c531f388ab5a64eb69",
-      "title": "US trade court probes Trump's 'forced labor' tariffs",
-      "original_title": "US trade court probes Trump's 'forced labor' tariffs",
-      "rss_summary": "US trade court probes Trump's 'forced labor' tariffs&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUlhPVVRVeXdDaHV3ZTBFb002Q2x0clB5UW9UZ3h6eFBrNUhRYWg0TTF6cm1OVWlwdjQ2aGpTMkpXSlE3NGg3Mk5RQnpMOU5vb3VINkUzMG5GSy1JdXpjeXhIcklRTHlkdDlOY2o1eEtRaVNLYkIwcDNzdE9JWmRCeW8wSExZUVEyeElQUmdlZFRLeWVLMUFzVFRCTThBSHNSOG9QZlZn?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-10-01T00:49:16.268700+05:00",
-      "age_min": 111.4
-    },
-    {
-      "hash": "84d967c20b34c65a925e16f62365f2c4",
-      "title": "US Senate blocks bill to address data center costs",
-      "original_title": "US Senate blocks bill to address data center costs",
-      "rss_summary": "US Senate blocks bill to address data center costs&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlUwWk84SVBKWWZQTmJJQk0yRG4wX2c5eGdrQVQ1U0JQOTdQYmUxQkR5RXgyNFBQNWpucEpyUDJYRG1SNFZHaDc4M0FTOUxRLW9IUmJqVFVscm1XQ0xfMUFoQ2FrSWNEMHhkVEZleE9GT2xBc21CVERGZmJuTGZ0Rjg5YTlacllwVmJTMnhiYXAzMGxBbnBJ?oc=5",
-      "source": "Reuters",
-      "score": 8,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-10-01T00:49:16.266344+05:00",
-      "age_min": 117.2
-    },
-    {
-      "hash": "c819feb1fcc0f49497c3324a5b4e557d",
-      "title": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - cbsnews.com",
-      "original_title": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump - cbsnews.com",
-      "rss_summary": "Live Updates: Iran says it has received U.S. counterproposal to 7-day ceasefire plan rejected by Trump&nbsp;&nbsp;cbsnews.comIran says it receives US response to latest proposal as Washington pulls out of Iraq&nbsp;&nbsp;KSL.comIran indicates it’s received an official US response to its latest offer on ending the war&nbsp;&nbsp;AP NewsIran receives US feedback on seven-day trust-building plan&nbsp;&nbsp;ReutersU.S.-Iran talks yield little, raising odds of renewed combat&nbsp;&nbsp;Axios",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaXNwVUhFZkZrZmxLRFd1QVZwZFFWVjFLcEgxWmNJWnJCMlNnOExuY3BsdWlLaG9HYzF1VjJKYnB6eHlfU1NLZWlUcWhDMmpCVFI1eGczV19kR3kycThHd0ducEtLejdicmJXanhmWWFUcWRJeVVDb28xUlRmTWxPSWRwbXBfRU1uSW1N?oc=5",
-      "source": "GNews/Home-US",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-01T00:49:06.486916+05:00",
-      "age_min": 69.1
-    },
-    {
       "hash": "d9fc767b24d2738ea6afe72868dbabe8",
       "title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
       "original_title": "Leaning into culture war flashpoints, Hegseth says he has transformed U.S. military",
@@ -563,19 +485,6 @@
       "age_min": 91.7
     },
     {
-      "hash": "5d102a34e168973a786537b5f9d4e7b2",
-      "title": "The Fed's Preferred Inflation Gauge Declined More Than Expected in August, Yet Bond Yields Aren't Budging. Here's One Reason Why.",
-      "original_title": "The Fed's Preferred Inflation Gauge Declined More Than Expected in August, Yet Bond Yields Aren't Budging. Here's One Reason Why.",
-      "rss_summary": "The Fed's Preferred Inflation Gauge Declined More Than Expected in August, Yet Bond Yields Aren't Budging. Here's One Reason Why.&nbsp;&nbsp;The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxNaUtWZElHb25jdVowZ2pkWDk5eEZ2VnUwWGd4T0hYQnpMMzFMN2NiNWdLVjBUNTNyTV9pYTVaQlM1czdkX3JNb1ZUcElyN2R0dVdhdG0tS0tjeFJ4SlNrc1hQOGJ3RjRvM0t0TENKa3dCTmMwdGJ2SjRMMTBTTlRTRFl1eFdqVGEzNlkyQVA2RU5BVGhHcWxfbnhoWktGb1RqTE5EYTRZLWtKTDlkaEYxX3d6TVJQUzUzREY2TFlNY2lIUl9PeHFXeExoakE0aXE1STlsUlFBeDRUZ0dDRzF4NWgyV1dydTM2TFh3RlJHTjNkaWZtYXc0TTR0UzdKY2RRalRFMVpnMnpBUDBFN1owazRvMUUwWVZRQkJkMjhSX2ktV2xEa2xCM0c1dGxOT2FNWi1Da3JrOA?oc=5",
-      "source": "The Globe and Mail",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-01T00:49:35.591195+05:00",
-      "age_min": 121.9
-    },
-    {
       "hash": "783914b9f60e61ef912a7cbe149e7db2",
       "title": "Senate punts bill to permanently ban Chinese cars until after midterm elections",
       "original_title": "Senate punts bill to permanently ban Chinese cars until after midterm elections",
@@ -637,6 +546,84 @@
       "status": "new",
       "ts": "2026-10-01T04:18:19.383129+05:00",
       "age_min": 15.3
+    },
+    {
+      "hash": "203ca40f80f56169e0fb99c5c6de28b0",
+      "title": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+      "original_title": "Trump renews calls for former Federal Reserve chief Jerome Powell's resignation",
+      "rss_summary": "The Federal Reserve's watchdog on Wednesday found no grounds for a criminal referral over a roughly $1 billion cost overrun on renovations to the central bank's Washington buildings, while faulting project oversight. The findings prompted President Donald Trump to renew his call for former Fed chief Jerome Powell to resign.",
+      "link": "https://www.france24.com/en/americas/20260930-trump-renews-calls-for-former-federal-reserve-chief-jerome-powell-resignation",
+      "source": "France24",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-10-01T04:49:18.633757+05:00",
+      "age_min": 4.9
+    },
+    {
+      "hash": "f1027f891428b839e04a12ae723b117b",
+      "title": "BFP ‘secured’ majority to elect BARMM chief minister – spox",
+      "original_title": "BFP ‘secured’ majority to elect BARMM chief minister – spox",
+      "rss_summary": "Negotiations to form the majority were immediately underway after the hotly contested race that resulted in a hung parliament",
+      "link": "https://www.rappler.com/philippines/elections/bfp-secured-majority-elect-barmm-chief-minister-spokesperson/",
+      "source": "Rappler",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-01T04:49:40.190526+05:00",
+      "age_min": 2.4
+    },
+    {
+      "hash": "0ef86cd49523fe9ac5e3d154e0647e99",
+      "title": "Netanyahu says FlyDubai pilots prevented a \"9/11 disaster\"",
+      "original_title": "Netanyahu says FlyDubai pilots prevented a \"9/11 disaster\"",
+      "rss_summary": "Israeli Prime Minister Benjamin Netanyahu revealed new details about a FlyDubai flight bound for Israel during which a pilot stabbed a colleague, sending the plane spiraling thousands of feet.The big picture: Netanyahu told CNN Wednesday evening that the Indian pilot who was stabbed, Capt. Smit Machchhar, unlocked the cockpit after being attacked and an Israeli passenger who works as a plumber, Yaniv Hayun, entered and found the Omani pilot apparently trying to interfere with the aircraft's cont",
+      "link": "https://www.axios.com/2026/09/30/netanyahu-flydubai-pilots-prevented-911-disaster",
+      "source": "Axios",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-01T04:49:21.717838+05:00",
+      "age_min": 32.3
+    },
+    {
+      "hash": "820ae697200f6beaed2aa9ee31b9aaf6",
+      "title": "Fed’s Kashkari Says AI Not Only Driver of US Economic Growth",
+      "original_title": "Fed’s Kashkari Says AI Not Only Driver of US Economic Growth",
+      "rss_summary": "Federal Reserve Bank of Minneapolis President Neel Kashkari said he was skeptical of the argument that the US economy is shrinking but for a boom in construction related to artificial intelligence.",
+      "link": "https://www.bloomberg.com/news/articles/2026-09-30/fed-s-kashkari-says-ai-not-only-driver-of-us-economic-growth",
+      "source": "Bloomberg Tech",
+      "score": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-10-01T04:49:17.884201+05:00",
+      "age_min": 22.3
+    },
+    {
+      "hash": "a25973c793e6b6f4418da7f898d846e1",
+      "title": "Congressional staff planned official trip with luxury stops in Italy and France weeks before election",
+      "original_title": "Congressional staff planned official trip with luxury stops in Italy and France weeks before election",
+      "rss_summary": "Congressional staff planned official trip with luxury stops in Italy and France weeks before election&nbsp;&nbsp;NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORXVFZWYxcy1Sc0RVcklzMFh2dU14RmlwN2RXTVd1c2pIbFFYRzJ5ajBDcV9YaXNjVVNNcjg0ajVTUlhPa2hYSWx5OXBuYkVoV2ljUzA1WHpkem1SaXZ0OWV2V1lFVF84eXZzMTlNS3JHVUw3NjVwdDE1VU9iRVBYemtTZjJaY0NqRmhRaWlCTkR6SnE1TVgtQmk2VVVyWmFxS2t0UlpzcmtPd1lwVW9FUFN0NVRjV29Ia21VN2gwRW4?oc=5",
+      "source": "NBC News",
+      "score": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-01T04:49:07.075503+05:00",
+      "age_min": 60.2
+    },
+    {
+      "hash": "6a9294bbe434cfd1f137240e93d492f0",
+      "title": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
+      "original_title": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation",
+      "rss_summary": "Gold falls to near $4,150 as higher Treasury yields, oil prices outweigh softer PCE inflation&nbsp;&nbsp;FXStreet",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWnphNGdUZllpWVd2OW04RmNsSG5qR3diMkVBc3hwY3pHaVFmd052cE05R3dkbWhPUDNnRkh5NHBCVGpjYTJuaWFGcUt5Q01yd3dXbnlDX1g2NU5WY0NtS1duNWRUUUpQVUtkQmpEaWRpaGMxSEUxTkNsbVFfYkc1TGFkWHN4Qkh5dlhZR19tYkRSU0RJR0d4ejJBd3ZpeDlqRkNSN3VuS1RBcF9oYWFBbUtHMmQ2c1FnbDFTYVc2V3F4eFpUQnpvaGszcFZIcUk?oc=5",
+      "source": "FXStreet",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-10-01T04:48:52.126351+05:00",
+      "age_min": 17.9
     }
   ]
 }
