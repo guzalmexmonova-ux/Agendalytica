@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T08:53:28.391578+05:00",
+  "updated": "2026-10-04T09:08:19.187838+05:00",
   "items": [
     {
       "hash": "2464cd824c14f8808ac8f05f1486bf8b",
@@ -52,19 +52,6 @@
       "status": "new",
       "ts": "2026-10-04T05:49:05.714142+05:00",
       "age_min": 49.1
-    },
-    {
-      "hash": "e1a0efd8fbd60df47b3bae529933b78f",
-      "title": "Почему Канада готовится к (в перспективе) вторжению США",
-      "original_title": "Why Canada is preparing for a (long shot) US invasion",
-      "rss_summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada.",
-      "link": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-04T05:04:41.700838+05:00",
-      "age_min": 34.6
     },
     {
       "hash": "452e795cb2ea1f4c9bd86d1df1237dc9",
@@ -130,6 +117,19 @@
       "status": "new",
       "ts": "2026-10-04T05:49:15.294668+05:00",
       "age_min": 49.3
+    },
+    {
+      "hash": "80582f5594978496778bfa27e09562a2",
+      "title": "Выборы в Боснии: обещания Дональда Трампа способствуют редкому единству",
+      "original_title": "Bosnia Election: Donald Trump’s Promises Foster Rare Unity",
+      "rss_summary": "As Bosnians vote in an election this weekend, the country is embracing the US president’s family and friends.&nbsp;",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-04/bosnia-election-donald-trump-s-promises-foster-rare-unity",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-04T09:03:21.725335+05:00",
+      "age_min": 3.2
     },
     {
       "hash": "f157c0f2b9b0b868aa07c3f84e1719ae",
@@ -327,43 +327,17 @@
       "age_min": 63.4
     },
     {
-      "hash": "1315513fa6b7495c3b614ef2d4b63bf3",
-      "title": "Лула — последняя надежда бразильских левых и их самая большая проблема",
-      "original_title": "Lula Is the Brazilian Left’s Last Hope—And Its Biggest Problem",
-      "rss_summary": "The 80-year-old president has crowded out successors. If he loses a re-election bid, it could shut his party out of power for years.",
-      "link": "https://www.wsj.com/world/americas/lula-is-the-brazilian-lefts-last-hopeand-its-biggest-problem-68c2fb12?mod=rss_worldnews",
-      "source": "WSJ",
-      "score": 7,
+      "hash": "b273d03872c212f34bf95e78adffcbd3",
+      "title": "Трамп, проводящий предвыборную кампанию в Огайо, говорит, что промежуточные выборы преподнесут «большой сюрприз»",
+      "original_title": "Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’",
+      "rss_summary": "Trump, campaigning in Ohio, says the midterms will bring a ‘big surprise’&nbsp;&nbsp;NBC News‘Trump? I think he’s a disaster’: Ohio voters aggrieved as president prepares to visit&nbsp;&nbsp;The GuardianLIVE UPDATES: President Trump speaking now at Miami Valley high school&nbsp;&nbsp;WHIO TVPresident Trump to visit Ohio for midterm rally: What to know&nbsp;&nbsp;WLWTTrump defends data centers in Ohio as he rallies to boost Jon Husted in a tight Senate race&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeGRsbVNPRkhhSzJCeTNTc1plNnNCcmFlR3l5MkNUWDF3VHR4bUJzSGswYUZaNVhmVUVqSzc3aFBvUEIyNlhGYVNjcG1oNThNMkpxTWZka2RhVDlWR1ZZdXc3WVV2aE1TOE1zc2xSaWdNTGV4ZTEwcm5PQm9tYl84YWh3S0c0RGxVR19aMW1MRnBiMjBnb0JLWWhYSnlSLXpIX29yU2UwcnVXaDNXX2RUUzZYWTA4RURXekE?oc=5",
+      "source": "NBC News",
+      "score": 6,
       "weight": 4,
       "status": "new",
-      "ts": "2026-10-04T05:05:11.821324+05:00",
-      "age_min": 5.2
-    },
-    {
-      "hash": "48c9ba97522ec01b03d551624b09e0da",
-      "title": "Когда она разводится с Кеном Пакстоном, его жена призывает техасцев голосовать за него",
-      "original_title": "As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him",
-      "rss_summary": "As She Divorces Ken Paxton, His Wife Urges Texans to Vote for Him&nbsp;&nbsp;The New York TimesKen Paxton’s estranged wife backs his candidacy — without mentioning him by name&nbsp;&nbsp;CNNOpinion | Angela Paxton’s argument to vote for her husband has to be heard to be believed&nbsp;&nbsp;MS NOWIn TV ad, Angela Paxton urges voters to back “the Republican ticket” that includes her estranged husband&nbsp;&nbsp;The Texas TribuneAngela Paxton’s Message: Elect the Elephant at All Costs&nbsp;&nbsp;Th",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPemJ5c1k2MG9XVzMtNGZvLUtqRVRLQzZBbWNRNWJCbGhxQjdJa1dKd3h6d3BqZFJGQllzeHR6VzFSaWd2UzNsMUJzVU9oN041cHQtRjRwRVJsUWxBekZJZi1TUHVTeEh3VGlXYjVOampwdklaSkFwQWdCcV9SN29FWk9RVjJXTUNMTzBvMEpPdFZaX3ZFU0ZzTHVYQkJsQTY2SHU5Yy1KUGdJeEJDQXJ2OUI1aFNPa0k?oc=5",
-      "source": "The New York Times",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-04T05:05:00.086733+05:00",
-      "age_min": 93.3
-    },
-    {
-      "hash": "8c1678f5142a80874b80bb23157e74f7",
-      "title": "Президент Корнелла говорит, что университет «должен работать лучше» после обвинений в изнасиловании в общежитии",
-      "original_title": "Cornell president says university 'must do better' after frat house rape allegations",
-      "rss_summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\".",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-04T05:04:41.699581+05:00",
-      "age_min": 28.7
+      "ts": "2026-10-04T09:03:08.562151+05:00",
+      "age_min": 101.1
     },
     {
       "hash": "15e711d3dc91b97af4ab43a4c4747fce",
@@ -379,17 +353,17 @@
       "age_min": 15.0
     },
     {
-      "hash": "74e8b529f994298049b981f1b508aada",
-      "title": "Второй пилот FlyDubai с топором был обвинен в экстремизме - apnews.com",
-      "original_title": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns - apnews.com",
-      "rss_summary": "Ax-wielding FlyDubai co-pilot had been flagged over extremism concerns&nbsp;&nbsp;apnews.comFlyDubai Attacker Used ‘Crash Ax,’ a Common Fixture on Many Jets&nbsp;&nbsp;WSJWho are the mystery men who stepped in to keep the FlyDubai plane from crashing?&nbsp;&nbsp;apnews.comHow FlyDubai Passengers and Crew Averted Disaster After Pilot Was Stabbed During Flight&nbsp;&nbsp;The New York TimesFriends of Pilot Stabbed in ‘Terrorist’ Attack Reflect on Moment They Learned of Hijacking&nbsp;&nbsp;People.c",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTm53alVRRTlka3JlQllEQUdvclBOMzVxOUFvQnhkMGowdDlNeXIyTFZ3ZU1GblhLOUF2VDhTRVdzRjJfZmJRWEZMcUhaMGxXVEI0NzhFYWJ6bk1USDU2VDdzcWZ4WEcwQTd4bzMzUEcyZ0lBdFRsck8zbDZ5MTdLeFBPdEFaV2llTXViWTlleDl3SE5lTWxEMThJa09WSGdH?oc=5",
-      "source": "GNews/Business-US",
-      "score": 6,
-      "weight": 4,
+      "hash": "7d198ffdc6292403e5f5280b6694213e",
+      "title": "Индонезийцы подали в суд на президента из-за дымки – может ли она очистить воздух?",
+      "original_title": "Indonesians sue president over haze – can it clear the air?",
+      "rss_summary": "For months, the air over West Kalimantan has been thick enough to taste. Now, some of the province’s residents are taking the government to court over it.\nIndonesia’s worst wildfire season in 11 years has been sending plumes of toxic haze drifting across borders to Malaysia, Singapore and the Philippines since at least August.\nBut nowhere has been worse hit than West Kalimantan, where more than 48,000 hectares (185 square miles) of land and forest have burned since the start of the year,...",
+      "link": "https://www.scmp.com/week-asia/politics/article/3369594/indonesians-sue-president-over-haze-can-it-clear-air?utm_source=rss_feed",
+      "source": "SCMP",
+      "score": 7,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-10-04T05:05:01.582592+05:00",
-      "age_min": 50.0
+      "ts": "2026-10-04T09:02:50.511584+05:00",
+      "age_min": 2.7
     },
     {
       "hash": "a969f341e4d0dcfb4908102d36a452ff",
@@ -416,19 +390,6 @@
       "status": "new",
       "ts": "2026-10-04T06:19:48.085277+05:00",
       "age_min": 8.8
-    },
-    {
-      "hash": "5e1c400ca00989ecac69b2a04bf0e342",
-      "title": "Goldman Sachs ожидает, что ФРС близится к завершению повышения процентных ставок, поскольку опасения ослабевают - thestreet.com",
-      "original_title": "Goldman Sachs sees Fed near end of interest rate hikes as fears ease - thestreet.com",
-      "rss_summary": "Goldman Sachs sees Fed near end of interest rate hikes as fears ease&nbsp;&nbsp;thestreet.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDMS04cGFYN2JWU21NRXROUFA2eWo4MHYtMm5Nb2g2YV9QbVBEZFhhSjYxZnFmNkpKZTFjYmQzcHZPaWhTMjh5OEpPMXJqT1pob2dTQXAya2tRNkdpWjhfeXlralZZOW1lQWxKbG1HQ21kUGZxWXRNVnBnMA?oc=5",
-      "source": "GNews/CentralBanks",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-10-04T05:04:43.837221+05:00",
-      "age_min": 17.7
     },
     {
       "hash": "5994edabec6a1826d62c225cc514b6db",
