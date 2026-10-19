@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T12:37:27.448231+05:00",
+  "updated": "2026-10-19T12:49:59.183979+05:00",
   "items": [
     {
       "hash": "d20bc4614ada74d32b5df96df58863a8",
@@ -92,18 +92,6 @@
       "age_min": 45.9
     },
     {
-      "hash": "a421eba5203d125fc65223260a07fc7b",
-      "title": "Владимир Путин предлагает встретиться с Дональдом Трампом и Си Цзиньпином, чтобы обсудить разрешение войны на Украине",
-      "original_title": "Vladimir Putin suggests meeting with Donald Trump , Xi , to discuss Ukraine war resolution",
-      "link": "https://www.jpost.com/international/internationalrussia-ukraine-war/article-912112",
-      "source": "GDELT/HOTSPOTS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-19T08:46:09.977365+05:00",
-      "age_min": 106.2
-    },
-    {
       "hash": "9d4288bbcd23051b47d8c0b831c9940a",
       "title": "Литовцы массово уезжают из страны на фоне планов размещения ядерного оружия",
       "original_title": "Литовцы массово уезжают из страны на фоне планов размещения ядерного оружия",
@@ -155,6 +143,19 @@
       "age_min": 18.8
     },
     {
+      "hash": "d7888cbfa3e346f8ffbdd39d4cb402c6",
+      "title": "Явка арабских избирателей может решить или погубить Нетаньяху на выборах в Израиле",
+      "original_title": "Arab voter turnout could make or break Netanyahu in Israeli election",
+      "rss_summary": "Arab voter turnout could make or break Netanyahu in Israeli election&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUWlScDFIcENiRk5OaDRHRHNzNjlrdnNxM0VobjJKbWhKcWpfaTNvM2J5U256QV9ZNEY3bGpMWUxhZ29idThSajljTXlpUnZ3Mmp2SmZEVE9hVURJTGxmMkNwUWpZMk85VWFxMGJpcWZEa2dRTVg5WHdNeGZLT1QyOU5CaXpUUnZIOG5MZVF2TUZtREJHSkpYTU13NlZmNGdBRk8yTGhvUWpUQThjUzBCRHA5Nms4Q2RqT0k4?oc=5",
+      "source": "Reuters",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-10-19T12:47:00.066779+05:00",
+      "age_min": 39.3
+    },
+    {
       "hash": "2b2f015cacc600aa918e0c68edb53c82",
       "title": "Южноафриканский рэнд немного подрос, поскольку трейдеры ждут выступления по бюджету и данных по инфляции",
       "original_title": "South African rand gains slightly as traders await budget speech, inflation data",
@@ -192,6 +193,56 @@
       "status": "new",
       "ts": "2026-10-19T10:34:46.427417+05:00",
       "age_min": 63.8
+    },
+    {
+      "hash": "4be3a0c8cf7b79d2de0551ed3d6f1d96",
+      "title": "Законопроект о проблемах Северной Ирландии будет обсуждаться в Палате общин",
+      "original_title": "Northern Ireland Troubles Bill to be debated in House of Commons",
+      "rss_summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict.",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-19T12:47:27.849611+05:00",
+      "age_min": 2.3
+    },
+    {
+      "hash": "862549d729ae5accd4fd0d77300e5138",
+      "title": "Цены на нефть падают, поскольку трейдеры взвешивают отмену санкций против России и риски для Ближнего Востока",
+      "original_title": "Oil Prices Fall as Traders Weigh Russia Sanctions Waiver, Middle East Risks",
+      "rss_summary": "Oil prices fell Monday, pulling back after Friday’s gains as traders weighed a U.S. decision to waive newly imposed sanctions on Russia against persistent Middle East supply risks.",
+      "link": "https://www.wsj.com/business/energy-oil/oil-prices-fall-as-traders-weigh-russia-sanctions-waiver-middle-east-risks-05053c4f?mod=rss_worldnews",
+      "source": "WSJ",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-19T12:47:03.854259+05:00",
+      "age_min": 5.1
+    },
+    {
+      "hash": "8fd9c2913e294c6f75813764728f18ad",
+      "title": "Рубио приканва Украйна и Русия да се съсредоточат върху прекратяването на войната",
+      "original_title": "Рубио приканва Украйна и Русия да се съсредоточат върху прекратяването на войната",
+      "link": "https://news.bg/int-politics/rubio-prikanva-ukrayna-i-rusiya-da-se-sasredotochat-varhu-prekratyavaneto-na-voynata.html",
+      "source": "GDELT/ASIA_TECH",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-19T12:46:27.553280+05:00",
+      "age_min": 46.5
+    },
+    {
+      "hash": "ce0e08b8a32e2518d95a5f7ea927b0d2",
+      "title": "Трамп совершил экстраординарную атаку на Зеленского, призывая Украину сдаться",
+      "original_title": "Trump launches extraordinary attack on Zelensky urging Ukraine to surrender",
+      "link": "https://www.aol.co.uk/articles/trump-launches-attack-foolish-zelensky-225906000.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-19T12:45:39.205202+05:00",
+      "age_min": 30.7
     },
     {
       "hash": "7fc6746beeca824ce42e09cd6a35cd80",
@@ -593,57 +644,6 @@
       "status": "new",
       "ts": "2026-10-19T09:34:06.894354+05:00",
       "age_min": 13.9
-    },
-    {
-      "hash": "a9d36f071fedf645ab13ecaf2f596862",
-      "title": "После вечеринки IPO GCash выходит на 5-6 кредитование следующим",
-      "original_title": "After the IPO party, GCash comes for 5-6 lending next",
-      "rss_summary": "'There’s money in serving them,' says Mynt president and CEO Martha Sazon, as she and her team try to convince investors that lending to underserved Filipinos could fuel GCash’s next wave of growth",
-      "link": "https://www.rappler.com/business/gcash-informal-lending-growth/",
-      "source": "Rappler",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-19T09:19:53.642871+05:00",
-      "age_min": 4.0
-    },
-    {
-      "hash": "a30a890aa1d041950237f6ac7eeb2040",
-      "title": "Экспортный бум Китая способствует росту, несмотря на спад внутри страны",
-      "original_title": "China’s Export Boom Fuels Growth Despite Slump at Home",
-      "rss_summary": "China’s Export Boom Fuels Growth Despite Slump at Home&nbsp;&nbsp;The New York TimesChina GDP growth picks up thanks to export boom&nbsp;&nbsp;CNNChina's economic growth picks up in third quarter, beating expectations&nbsp;&nbsp;ReutersChina's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates&nbsp;&nbsp;CNBCChina's economic growth picks up as AI boom boosts exports&nbsp;&nbsp;BBC",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40cnBMZmk3ZzA2bFpuN0hiUnhOZFU3ODMtbGs1NGVTbDRuanNpSWJ5eXpMR3ZTNGU4S0tVc2VYUGlkVW5BdUJCVzdjSFJfeFhpc296NjM1SVNBZmVWNGtmZlhXRHRwaGRYbmhuaVNaV25IYzJU?oc=5",
-      "source": "The New York Times",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-19T09:03:45.457559+05:00",
-      "age_min": 107.7
-    },
-    {
-      "hash": "39c0f0f82ebea57b3a7b9f34dca8f59e",
-      "title": "Индонезия собирается встретиться в понедельник с MSCI из-за угрозы шокового индекса",
-      "original_title": "Indonesia Said to Meet Monday With MSCI Over Shock Index Threat",
-      "rss_summary": "Indonesian officials plan to meet with MSCI Inc. executives on Monday, according to people familiar with the matter, after saying they were blindsided by the index provider’s threat to reclassify the country as a standalone market — a much more severe step than they thought was under discussion during months of talks.",
-      "link": "https://www.bloomberg.com/news/articles/2026-10-19/indonesia-said-to-meet-monday-with-msci-over-shock-index-threat",
-      "source": "Bloomberg",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-19T08:47:51.146704+05:00",
-      "age_min": 30.0
-    },
-    {
-      "hash": "60952b010b9345fbb7635e0adfc6ae7d",
-      "title": "Посол США в Израиле осудил нападение на американского журналиста",
-      "original_title": "US ambassador to Israel condemns attack on American journalist",
-      "link": "https://theshillongtimes.com/2026/10/19/us-ambassador-to-israel-condemns-attack-on-american-journalist/",
-      "source": "GDELT/HOTSPOTS",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-19T08:46:10.019776+05:00",
-      "age_min": 46.2
     }
   ]
 }
