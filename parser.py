@@ -323,6 +323,7 @@ RSS_FEEDS = [
     # — Африка —
     {"url": "https://news.google.com/rss/search?q=(site:presidency.gov.so%20OR%20site:mfa.gov.so%20OR%20site:mfa.gov.sd%20OR%20site:ethiopia.gov.et%20OR%20site:gouv.ml%20OR%20site:gov.ly%20OR%20site:africacdc.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Африка: власть", "weight": 4},  # 🏛 presidency.gov.so, mfa.gov.so, mfa.gov.sd, ethiopia.gov.et, gouv.ml, gov.ly, africacdc.org
     {"url": "https://news.google.com/rss/search?q=(site:news.un.org/en/news/region/africa)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Африка: аналитика", "weight": 3},  # 📊 news.un.org/en/news/region/africa
+    {"url": "https://news.google.com/rss/search?q=(site:allafrica.com%20OR%20site:theafricareport.com%20OR%20site:mg.co.za%20OR%20site:nation.africa%20OR%20site:premiumtimesng.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Африка: СМИ", "weight": 3},  # allafrica.com, theafricareport.com, mg.co.za, nation.africa, premiumtimesng.com
 
     # — Мир —
     {"url": "https://news.google.com/rss/search?q=(site:amti.csis.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Аналитика и OSINT", "weight": 3},  # 📊 amti.csis.org
@@ -1109,7 +1110,7 @@ DAILY_FEED_META = {
     "GNews/Корея и КНДР 2": ("АТР", "smi"),
     "GNews/Тайвань и Гонконг": ("АТР", "smi"),
     "GNews/ЮВА, Австралия, Океания": ("АТР", "smi"),
-    "GNews/Африка": ("МИР", "smi"),
+    "GNews/Африка": ("АФР", "smi"),
     "GNews/Международные организации": ("МИР", "ofic"),
     "GNews/Международные организации 2": ("МИР", "ofic"),
     "GNews/Энергия, санкции, море": ("РЫН", "ofic"),
@@ -1163,6 +1164,7 @@ DAILY_FEED_META = {
     "GNews/Центральная Азия: СМИ": ("ЦА", "smi"),
     "GNews/Африка: власть": ("АФР", "ofic"),
     "GNews/Африка: аналитика": ("АФР", "anal"),
+    "GNews/Африка: СМИ": ("АФР", "smi"),
     "GNews/Гуманитарка и миротворцы": ("МИР", "ofic"),
     "GNews/Море, энергия, санкции": ("РЫН", "ofic"),
     "OSINTtechnical/X": ("МИР", "anal"),
