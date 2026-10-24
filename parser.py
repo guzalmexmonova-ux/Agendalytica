@@ -44,7 +44,7 @@ DEDUP_HOURS = 24        # память сюжетов: одна история =
 SIM_THRESHOLD = 0.45    # порог схожести заголовков
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-#  ИСТОЧНИКИ ДАННЫХ (без изменений)
+#  ИСТОЧНИКИ ДАННЫХ (24.10.2026: + Daily News Chain по регионам, без российских сайтов)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 GDELT_FEEDS = [
     # 12 узких запросов душились по 429 (GitHub Actions сидит на общих IP).
@@ -61,16 +61,11 @@ RSS_FEEDS = [
     # Оставлены только ключевые — хост режет по 429 при частых запросах.
     {"url": "https://tg.i-c-a.su/rss/bbbreaking", "source": "TG/Bloomberg", "weight": 4},
     {"url": "https://tg.i-c-a.su/rss/market_twits", "source": "TG/Markets", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rian_ru", "source": "TG/RIA", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/interfaxonline", "source": "TG/Interfax", "weight": 3},
     {"url": "https://tg.i-c-a.su/rss/centralasian", "source": "TG/CentralAsia", "weight": 3},
     {"url": "https://tg.i-c-a.su/rss/war_monitor", "source": "TG/WarMonitor", "weight": 3},
-    {"url": "https://tg.i-c-a.su/rss/rybar", "source": "TG/Rybar", "weight": 3},
     {"url": "https://tg.i-c-a.su/rss/macronomics", "source": "TG/Macro", "weight": 3},
 
     # Издания напрямую — живые, свежие
-    {"url": "https://tass.ru/rss/v2.xml", "source": "TASS", "weight": 2},                       # 17м
-    {"url": "https://lenta.ru/rss/news", "source": "Lenta.ru", "weight": 2},                    # 39м
     {"url": "https://www.ft.com/world?format=rss", "source": "FT", "weight": 4},                # 83м
     {"url": "https://feeds.bloomberg.com/markets/news.rss", "source": "Bloomberg", "weight": 4},# 180м
     {"url": "https://www.aljazeera.com/xml/rss/all.xml", "source": "Al Jazeera", "weight": 3},  # 271м
@@ -95,9 +90,6 @@ RSS_FEEDS = [
     {"url": "https://news.google.com/rss/search?q=TSMC+ASML+Nvidia+chip+ban+export+when:6h&hl=en-US", "source": "GNews/Chips", "weight": 3},
     {"url": "https://news.google.com/rss/search?q=Israel+Iran+Gaza+Houthi+when:6h&hl=en-US", "source": "GNews/Mideast", "weight": 3},
     {"url": "https://news.google.com/rss/search?q=USA+China+Taiwan+military+Strait+when:6h&hl=en-US", "source": "GNews/USA-China", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=война+санкции+мобилизация+НАТО+when:6h&hl=ru&gl=RU&ceid=RU:ru", "source": "GNews/RU-Geo", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=ФРС+ставка+рецессия+инфляция+нефть+when:6h&hl=ru&gl=RU&ceid=RU:ru", "source": "GNews/RU-Macro", "weight": 3},
-    {"url": "https://news.google.com/rss/search?q=Узбекистан+Казахстан+Мирзиёев+Токаев+when:6h&hl=ru&gl=UZ&ceid=UZ:ru", "source": "GNews/RU-CA", "weight": 3},
     {"url": "https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en", "source": "GNews/Home-US", "weight": 4},
     {"url": "https://news.google.com/rss/topics/CAAqIggKIhxDQkFTRHdvSkwyMHZNRGxqTjNjd0VnSmxiaWdBUAE?hl=en-US&gl=US&ceid=US:en", "source": "GNews/World-US", "weight": 4},
     {"url": "https://news.google.com/rss/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGx1YlY4U0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US:en", "source": "GNews/Business-US", "weight": 4},
@@ -183,6 +175,168 @@ RSS_FEEDS = [
     {"url": "https://thehill.com/rss/syndicator/19110", "source": "The Hill", "weight": 4},
     {"url": "https://rollcall.com/feed/", "source": "Roll Call", "weight": 3},
 
+    # ═══ DAILY NEWS CHAIN — РАСШИРЕНИЕ ПО РЕГИОНАМ (24.10.2026) ═══
+    # Google News по группам сайтов (до 8 доменов в запросе): власть, агентства, СМИ регионов.
+    # Издатель берётся из хвоста заголовка (extract_publisher). Российские сайты не подключены.
+    # Платные — только заголовок из ленты, полный текст не берём.
+
+    # Свои RSS изданий
+    {"url": "https://www.euronews.com/rss", "source": "Euronews", "weight": 3},
+    {"url": "https://www.cnbc.com/id/100003114/device/rss/rss.html", "source": "CNBC Top", "weight": 3},
+    {"url": "https://en.yna.co.kr/RSS/news.xml", "source": "Yonhap", "weight": 3},
+    {"url": "https://www.thehindu.com/news/international/feeder/default.rss", "source": "The Hindu", "weight": 3},
+    {"url": "https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml", "source": "CNA", "weight": 3},
+    {"url": "https://www.investing.com/rss/news.rss", "source": "Investing.com", "weight": 3},
+    {"url": "https://oilprice.com/rss/main", "source": "OilPrice", "weight": 3},
+
+    # Трамп: посты Truth Social в пересказе СМИ (прямой RSS Truth отдаёт 403)
+    {"url": "https://news.google.com/rss/search?q=Trump+%22Truth+Social%22+post+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/TruthSocial", "weight": 4},
+    {"url": "https://nitter.net/SecRubio/rss", "source": "Rubio/X", "weight": 4},
+    {"url": "https://nitter.net/StateDept/rss", "source": "StateDept/X", "weight": 4},
+    {"url": "https://nitter.net/netanyahu/rss", "source": "Netanyahu/X", "weight": 4},
+    {"url": "https://nitter.net/araghchi/rss", "source": "Araghchi/X", "weight": 4},
+
+    # — Мир —
+    {"url": "https://news.google.com/rss/search?q=(site:apnews.com%20OR%20site:reuters.com%20OR%20site:afp.com%20OR%20site:news.un.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Агентства AP/Reuters/AFP/UN", "weight": 3},  # apnews.com, reuters.com, afp.com, news.un.org
+    {"url": "https://news.google.com/rss/search?q=(site:bloomberg.com%20OR%20site:washingtonpost.com%20OR%20site:economist.com%20OR%20site:asia.nikkei.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Платные: Bloomberg/WaPo/Economist", "weight": 3},  # 💲 bloomberg.com, washingtonpost.com, economist.com, asia.nikkei.com
+
+    # — США —
+    {"url": "https://news.google.com/rss/search?q=(site:cnn.com%20OR%20site:nbcnews.com%20OR%20site:cbsnews.com%20OR%20site:abcnews.go.com%20OR%20site:npr.org%20OR%20site:politico.com%20OR%20site:axios.com%20OR%20site:thehill.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ США", "weight": 3},  # cnn.com, nbcnews.com, cbsnews.com, abcnews.go.com, npr.org, politico.com, axios.com, thehill.com
+    {"url": "https://news.google.com/rss/search?q=(site:whitehouse.gov%20OR%20site:state.gov%20OR%20site:defense.gov%20OR%20site:war.gov%20OR%20site:home.treasury.gov%20OR%20site:federalreserve.gov%20OR%20site:energy.gov%20OR%20site:commerce.gov)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Власть США", "weight": 4},  # 🏛 whitehouse.gov, state.gov, defense.gov, war.gov, home.treasury.gov, federalreserve.gov, energy.gov, commerce.gov
+    {"url": "https://news.google.com/rss/search?q=(site:justice.gov%20OR%20site:dni.gov%20OR%20site:congress.gov%20OR%20site:senate.gov%20OR%20site:house.gov%20OR%20site:federalregister.gov)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Власть США 2", "weight": 4},  # 🏛 justice.gov, dni.gov, congress.gov, senate.gov, house.gov, federalregister.gov
+
+    # — Европа —
+    {"url": "https://news.google.com/rss/search?q=(site:ec.europa.eu%20OR%20site:commission.europa.eu%20OR%20site:consilium.europa.eu%20OR%20site:europarl.europa.eu%20OR%20site:eeas.europa.eu%20OR%20site:ecb.europa.eu%20OR%20site:nato.int%20OR%20site:osce.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/ЕС и НАТО", "weight": 4},  # 🏛 ec.europa.eu, commission.europa.eu, consilium.europa.eu, europarl.europa.eu, eeas.europa.eu, ecb.europa.eu, nato.int, osce.org
+    {"url": "https://news.google.com/rss/search?q=(site:gov.uk%20OR%20site:elysee.fr%20OR%20site:diplomatie.gouv.fr%20OR%20site:bundeskanzler.de%20OR%20site:bundesregierung.de%20OR%20site:auswaertiges-amt.de%20OR%20site:governo.it%20OR%20site:lamoncloa.gob.es)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Правительства Европы", "weight": 4},  # 🏛 gov.uk, elysee.fr, diplomatie.gouv.fr, bundeskanzler.de, bundesregierung.de, auswaertiges-amt.de, governo.it, lamoncloa.gob.es
+    {"url": "https://news.google.com/rss/search?q=(site:gov.pl%20OR%20site:prezydent.pl%20OR%20site:government.nl%20OR%20site:admin.ch)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Правительства Европы 2", "weight": 4},  # 🏛 gov.pl, prezydent.pl, government.nl, admin.ch
+    {"url": "https://news.google.com/rss/search?q=(site:politico.eu%20OR%20site:euractiv.com%20OR%20site:euobserver.com%20OR%20site:ansa.it%20OR%20site:tagesschau.de%20OR%20site:pap.pl%20OR%20site:rte.ie%20OR%20site:yle.fi)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Европы", "weight": 3},  # politico.eu, euractiv.com, euobserver.com, ansa.it, tagesschau.de, pap.pl, rte.ie, yle.fi
+
+    # — Украина —
+    {"url": "https://news.google.com/rss/search?q=(site:president.gov.ua%20OR%20site:mfa.gov.ua%20OR%20site:mod.gov.ua%20OR%20site:kmu.gov.ua%20OR%20site:ukrinform.net%20OR%20site:suspilne.media%20OR%20site:kyivindependent.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Украина: власть и СМИ", "weight": 4},  # 🏛 president.gov.ua, mfa.gov.ua, mod.gov.ua, kmu.gov.ua, ukrinform.net, suspilne.media, kyivindependent.com
+
+    # — Европа —
+    {"url": "https://news.google.com/rss/search?q=(site:tccb.gov.tr%20OR%20site:mfa.gov.tr%20OR%20site:aa.com.tr%20OR%20site:trtworld.com%20OR%20site:civil.ge%20OR%20site:armenpress.am%20OR%20site:president.az%20OR%20site:report.az)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Турция и Кавказ", "weight": 4},  # 🏛 tccb.gov.tr, mfa.gov.tr, aa.com.tr, trtworld.com, civil.ge, armenpress.am, president.az, report.az
+
+    # — Ближний Восток —
+    {"url": "https://news.google.com/rss/search?q=(site:gov.il%20OR%20site:idf.il%20OR%20site:president.ir%20OR%20site:en.mfa.ir%20OR%20site:mofa.gov.sa%20OR%20site:mofa.gov.ae%20OR%20site:mofa.gov.qa%20OR%20site:presidency.eg)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Власть Ближнего Востока", "weight": 4},  # 🏛 gov.il, idf.il, president.ir, en.mfa.ir, mofa.gov.sa, mofa.gov.ae, mofa.gov.qa, presidency.eg
+    {"url": "https://news.google.com/rss/search?q=(site:mfa.gov.eg%20OR%20site:mofa.gov.iq%20OR%20site:presidency.ps)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Власть Ближнего Востока 2", "weight": 4},  # 🏛 mfa.gov.eg, mofa.gov.iq, presidency.ps
+    {"url": "https://news.google.com/rss/search?q=(site:irna.ir%20OR%20site:presstv.ir%20OR%20site:tasnimnews.com%20OR%20site:spa.gov.sa%20OR%20site:wam.ae%20OR%20site:sana.sy%20OR%20site:wafa.ps%20OR%20site:kuna.net.kw)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Госагентства Ближнего Востока", "weight": 2},  # 🏛госСМИ irna.ir, presstv.ir, tasnimnews.com, spa.gov.sa, wam.ae, sana.sy, wafa.ps, kuna.net.kw
+    {"url": "https://news.google.com/rss/search?q=(site:timesofisrael.com%20OR%20site:arabnews.com%20OR%20site:thenationalnews.com%20OR%20site:gulfnews.com%20OR%20site:ynetnews.com%20OR%20site:haaretz.com%20OR%20site:middleeasteye.net%20OR%20site:iranintl.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Ближнего Востока", "weight": 3},  # timesofisrael.com, arabnews.com, thenationalnews.com, gulfnews.com, ynetnews.com, haaretz.com, middleeasteye.net, iranintl.com
+    {"url": "https://news.google.com/rss/search?q=(site:english.aawsat.com%20OR%20site:lorientlejour.com%20OR%20site:english.ahram.org.eg)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Ближнего Востока 2", "weight": 3},  # english.aawsat.com, lorientlejour.com, english.ahram.org.eg
+
+    # — АТР —
+    {"url": "https://news.google.com/rss/search?q=(site:tolonews.com%20OR%20site:ariananews.af%20OR%20site:pajhwok.com%20OR%20site:afintl.com%20OR%20site:dawn.com%20OR%20site:geo.tv%20OR%20site:tribune.com.pk%20OR%20site:indianexpress.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Афганистан, Пакистан, Индия", "weight": 3},  # tolonews.com, ariananews.af, pajhwok.com, afintl.com, dawn.com, geo.tv, tribune.com.pk, indianexpress.com
+    {"url": "https://news.google.com/rss/search?q=(site:mfa.gov.af%20OR%20site:unama.unmissions.org%20OR%20site:mofa.gov.pk%20OR%20site:mea.gov.in%20OR%20site:pib.gov.in%20OR%20site:pmindia.gov.in)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Власть Афганистана, Пакистана, Индии", "weight": 4},  # 🏛 mfa.gov.af, unama.unmissions.org, mofa.gov.pk, mea.gov.in, pib.gov.in, pmindia.gov.in
+
+    # — Центральная Азия —
+    {"url": "https://news.google.com/rss/search?q=(site:kun.uz%20OR%20site:daryo.uz%20OR%20site:tengrinews.kz%20OR%20site:24.kg%20OR%20site:kabar.kg%20OR%20site:eurasianet.org%20OR%20site:rferl.org%20OR%20site:asiaplustj.info)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Центральной Азии", "weight": 3},  # kun.uz, daryo.uz, tengrinews.kz, 24.kg, kabar.kg, eurasianet.org, rferl.org, asiaplustj.info
+    {"url": "https://news.google.com/rss/search?q=(site:president.uz%20OR%20site:mfa.uz%20OR%20site:uza.uz%20OR%20site:gov.uz%20OR%20site:akorda.kz%20OR%20site:inform.kz%20OR%20site:khovar.tj%20OR%20site:tdh.gov.tm)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Власть Центральной Азии", "weight": 4},  # 🏛 president.uz, mfa.uz, uza.uz, gov.uz, akorda.kz, inform.kz, khovar.tj, tdh.gov.tm
+
+    # — АТР —
+    {"url": "https://news.google.com/rss/search?q=(site:english.www.gov.cn%20OR%20site:mfa.gov.cn%20OR%20site:fmprc.gov.cn%20OR%20site:eng.mod.gov.cn%20OR%20site:english.news.cn%20OR%20site:cgtn.com%20OR%20site:chinadaily.com.cn%20OR%20site:globaltimes.cn)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Китай: власть и госСМИ", "weight": 2},  # 🏛госСМИ english.www.gov.cn, mfa.gov.cn, fmprc.gov.cn, eng.mod.gov.cn, english.news.cn, cgtn.com, chinadaily.com.cn, globaltimes.cn
+    {"url": "https://news.google.com/rss/search?q=(site:en.people.cn)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Китай: власть и госСМИ 2", "weight": 2},  # 🏛госСМИ en.people.cn
+    {"url": "https://news.google.com/rss/search?q=(site:kantei.go.jp%20OR%20site:mofa.go.jp%20OR%20site:mod.go.jp%20OR%20site:www3.nhk.or.jp%20OR%20site:english.kyodonews.net%20OR%20site:japantimes.co.jp%20OR%20site:boj.or.jp)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Япония", "weight": 3},  # kantei.go.jp, mofa.go.jp, mod.go.jp, www3.nhk.or.jp, english.kyodonews.net, japantimes.co.jp, boj.or.jp
+    {"url": "https://news.google.com/rss/search?q=(site:president.go.kr%20OR%20site:mofa.go.kr%20OR%20site:mnd.go.kr%20OR%20site:korea.kr%20OR%20site:koreaherald.com%20OR%20site:koreajoongangdaily.joins.com%20OR%20site:world.kbs.co.kr%20OR%20site:38north.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Корея и КНДР", "weight": 3},  # president.go.kr, mofa.go.kr, mnd.go.kr, korea.kr, koreaherald.com, koreajoongangdaily.joins.com, world.kbs.co.kr, 38north.org
+    {"url": "https://news.google.com/rss/search?q=(site:nknews.org%20OR%20site:kcnawatch.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Корея и КНДР 2", "weight": 3},  # nknews.org, kcnawatch.org
+    {"url": "https://news.google.com/rss/search?q=(site:english.president.gov.tw%20OR%20site:en.mofa.gov.tw%20OR%20site:focustaiwan.tw%20OR%20site:taipeitimes.com%20OR%20site:hongkongfp.com%20OR%20site:news.rthk.hk)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Тайвань и Гонконг", "weight": 3},  # english.president.gov.tw, en.mofa.gov.tw, focustaiwan.tw, taipeitimes.com, hongkongfp.com, news.rthk.hk
+    {"url": "https://news.google.com/rss/search?q=(site:straitstimes.com%20OR%20site:abc.net.au%20OR%20site:sbs.com.au%20OR%20site:pm.gov.au%20OR%20site:dfat.gov.au%20OR%20site:defence.gov.au%20OR%20site:rnz.co.nz%20OR%20site:pna.gov.ph)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/ЮВА, Австралия, Океания", "weight": 3},  # straitstimes.com, abc.net.au, sbs.com.au, pm.gov.au, dfat.gov.au, defence.gov.au, rnz.co.nz, pna.gov.ph
+
+    # — Мир —
+    {"url": "https://news.google.com/rss/search?q=(site:africanews.com%20OR%20site:au.int%20OR%20site:issafrica.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Африка", "weight": 3},  # africanews.com, au.int, issafrica.org
+    {"url": "https://news.google.com/rss/search?q=(site:un.org%20OR%20site:imf.org%20OR%20site:worldbank.org%20OR%20site:wto.org%20OR%20site:iaea.org%20OR%20site:who.int%20OR%20site:unhcr.org%20OR%20site:unocha.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Международные организации", "weight": 4},  # 🏛 un.org, imf.org, worldbank.org, wto.org, iaea.org, who.int, unhcr.org, unocha.org
+    {"url": "https://news.google.com/rss/search?q=(site:icc-cpi.int%20OR%20site:icj-cij.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Международные организации 2", "weight": 4},  # 🏛 icc-cpi.int, icj-cij.org
+
+    # — Рынки —
+    {"url": "https://news.google.com/rss/search?q=(site:eia.gov%20OR%20site:iea.org%20OR%20site:opec.org%20OR%20site:ukmto.org%20OR%20site:ofac.treasury.gov%20OR%20site:imo.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Энергия, санкции, море", "weight": 4},  # 🏛 eia.gov, iea.org, opec.org, ukmto.org, ofac.treasury.gov, imo.org
+
+    # — Мир —
+    {"url": "https://news.google.com/rss/search?q=(site:understandingwar.org%20OR%20site:crisisgroup.org%20OR%20site:csis.org%20OR%20site:bellingcat.com%20OR%20site:acleddata.com%20OR%20site:sipri.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Аналитика и OSINT", "weight": 3},  # 📊 understandingwar.org, crisisgroup.org, csis.org, bellingcat.com, acleddata.com, sipri.org
+
+    # ═══ DAILY NEWS CHAIN — ПОЛНЫЙ КАТАЛОГ ИЗ СПИСКОВ АНИКА (24.10.2026) ═══
+    # Все сайты из двух списков, которых ещё не было выше. Google News по группам до 10 сайтов.
+    # Российские сайты не подключены. Платные — только заголовок. ГосСМИ — только позиция стороны.
+
+    # — Мир —
+    {"url": "https://news.google.com/rss/search?q=(site:bbc.com%20OR%20site:dw.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Агентства и мировые СМИ", "weight": 3},  # bbc.com, dw.com
+    {"url": "https://news.google.com/rss/search?q=(site:nytimes.com%20OR%20site:wsj.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Платные мировые", "weight": 3},  # 💲 nytimes.com, wsj.com
+
+    # — США —
+    {"url": "https://news.google.com/rss/search?q=(site:whitehouse.gov/nsc%20OR%20site:dhs.gov)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Белый дом, Госдеп, Пентагон, Минфин", "weight": 4},  # 🏛 whitehouse.gov/nsc, dhs.gov
+    {"url": "https://news.google.com/rss/search?q=(site:govinfo.gov%20OR%20site:usa.gov)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Конгресс и документы", "weight": 4},  # 🏛 govinfo.gov, usa.gov
+    {"url": "https://news.google.com/rss/search?q=(site:bls.gov%20OR%20site:bea.gov%20OR%20site:usgs.gov%20OR%20site:cia.gov%20OR%20site:fbi.gov)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Экономика и безопасность США", "weight": 4},  # 🏛 bls.gov, bea.gov, usgs.gov, cia.gov, fbi.gov
+
+    # — Европа —
+    {"url": "https://news.google.com/rss/search?q=(site:ec.europa.eu/eurostat%20OR%20site:coe.int)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/ЕС, НАТО, ОБСЕ, СЕ", "weight": 4},  # 🏛 ec.europa.eu/eurostat, coe.int
+    {"url": "https://news.google.com/rss/search?q=(site:thelocal.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Европейские СМИ", "weight": 3},  # thelocal.com
+    {"url": "https://news.google.com/rss/search?q=(site:gov.uk/government/organisations/prime-ministers-office-10-downing-street%20OR%20site:gov.uk/government/organisations/foreign-commonwealth-development-office%20OR%20site:gov.uk/government/organisations/ministry-of-defence)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Великобритания: власть", "weight": 4},  # 🏛 gov.uk/government/organisations/prime-ministers-office-10-downing-street, gov.uk/government/organisations/foreign-commonwealth-development-office, gov.uk/government/organisations/ministry-of-defence
+    {"url": "https://news.google.com/rss/search?q=(site:gouvernement.fr%20OR%20site:bmvg.de%20OR%20site:quirinale.it)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Франция, Германия, Италия, Испания: власть", "weight": 4},  # 🏛 gouvernement.fr, bmvg.de, quirinale.it
+    {"url": "https://news.google.com/rss/search?q=(site:gov.pl/web/dyplomacja%20OR%20site:rijksoverheid.nl%20OR%20site:belgium.be%20OR%20site:gouvernement.lu%20OR%20site:gov.ie%20OR%20site:bundeskanzleramt.gv.at)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Польша, Бенилюкс, Ирландия, Австрия, Швейцария: власть", "weight": 4},  # 🏛 gov.pl/web/dyplomacja, rijksoverheid.nl, belgium.be, gouvernement.lu, gov.ie, bundeskanzleramt.gv.at
+    {"url": "https://news.google.com/rss/search?q=(site:regeringen.se%20OR%20site:government.se%20OR%20site:valtioneuvosto.fi%20OR%20site:regjeringen.no%20OR%20site:statsministeriet.dk%20OR%20site:stm.dk%20OR%20site:government.is%20OR%20site:valitsus.ee%20OR%20site:mk.gov.lv%20OR%20site:lrv.lt)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Север Европы и Балтия: власть", "weight": 4},  # 🏛 regeringen.se, government.se, valtioneuvosto.fi, regjeringen.no, statsministeriet.dk, stm.dk, government.is, valitsus.ee, mk.gov.lv, lrv.lt
+    {"url": "https://news.google.com/rss/search?q=(site:portugal.gov.pt%20OR%20site:vlada.gov.cz%20OR%20site:vlada.gov.sk%20OR%20site:kormany.hu%20OR%20site:gov.ro%20OR%20site:government.bg%20OR%20site:government.gov.gr%20OR%20site:gov.cy%20OR%20site:gov.mt%20OR%20site:vlada.gov.hr)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Центральная и Юго-Восточная Европа: власть", "weight": 4},  # 🏛 portugal.gov.pt, vlada.gov.cz, vlada.gov.sk, kormany.hu, gov.ro, government.bg, government.gov.gr, gov.cy, gov.mt, vlada.gov.hr
+    {"url": "https://news.google.com/rss/search?q=(site:gov.si%20OR%20site:srbija.gov.rs%20OR%20site:gov.me%20OR%20site:kryeministria.al%20OR%20site:vlada.mk%20OR%20site:vijeceministara.gov.ba%20OR%20site:kryeministri.rks-gov.net%20OR%20site:gov.md)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Балканы и Молдова: власть", "weight": 4},  # 🏛 gov.si, srbija.gov.rs, gov.me, kryeministria.al, vlada.mk, vijeceministara.gov.ba, kryeministri.rks-gov.net, gov.md
+    {"url": "https://news.google.com/rss/search?q=(site:govern.ad%20OR%20site:gouv.mc%20OR%20site:gov.sm%20OR%20site:regierung.li%20OR%20site:vatican.va)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Микрогосударства и Ватикан", "weight": 4},  # 🏛 govern.ad, gouv.mc, gov.sm, regierung.li, vatican.va
+    {"url": "https://news.google.com/rss/search?q=(site:belta.by%20OR%20site:president.gov.by)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Беларусь (госСМИ и власть)", "weight": 2},  # 🏛госСМИ belta.by, president.gov.by
+    {"url": "https://news.google.com/rss/search?q=(site:iletisim.gov.tr%20OR%20site:gov.ge%20OR%20site:primeminister.am)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Турция и Кавказ: власть", "weight": 4},  # 🏛 iletisim.gov.tr, gov.ge, primeminister.am
+    {"url": "https://news.google.com/rss/search?q=(site:francetvinfo.fr%20OR%20site:rainews.it%20OR%20site:efe.com%20OR%20site:rtve.es%20OR%20site:rtp.pt)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Германии, Франции, Италии, Испании, Португалии", "weight": 3},  # francetvinfo.fr, rainews.it, efe.com, rtve.es, rtp.pt
+    {"url": "https://news.google.com/rss/search?q=(site:nos.nl%20OR%20site:vrt.be%20OR%20site:rtbf.be%20OR%20site:today.rtl.lu%20OR%20site:orf.at%20OR%20site:srf.ch%20OR%20site:swissinfo.ch)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии", "weight": 3},  # nos.nl, vrt.be, rtbf.be, today.rtl.lu, orf.at, srf.ch, swissinfo.ch
+    {"url": "https://news.google.com/rss/search?q=(site:tvpworld.com%20OR%20site:ct24.ceskatelevize.cz%20OR%20site:tasr.sk%20OR%20site:telex.hu%20OR%20site:mti.hu%20OR%20site:agerpres.ro%20OR%20site:digi24.ro)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Польши и Центральной Европы", "weight": 3},  # tvpworld.com, ct24.ceskatelevize.cz, tasr.sk, telex.hu, mti.hu, agerpres.ro, digi24.ro
+    {"url": "https://news.google.com/rss/search?q=(site:bta.bg%20OR%20site:bnr.bg%20OR%20site:ertnews.gr%20OR%20site:amna.gr%20OR%20site:cyprus-mail.com%20OR%20site:timesofmalta.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Болгарии, Греции, Кипра, Мальты", "weight": 3},  # bta.bg, bnr.bg, ertnews.gr, amna.gr, cyprus-mail.com, timesofmalta.com
+    {"url": "https://news.google.com/rss/search?q=(site:dr.dk%20OR%20site:ritzau.dk%20OR%20site:svt.se%20OR%20site:tt.se%20OR%20site:nrk.no%20OR%20site:ntb.no%20OR%20site:stt.fi%20OR%20site:ruv.is)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Скандинавии и Исландии", "weight": 3},  # dr.dk, ritzau.dk, svt.se, tt.se, nrk.no, ntb.no, stt.fi, ruv.is
+    {"url": "https://news.google.com/rss/search?q=(site:err.ee%20OR%20site:lsm.lv%20OR%20site:lrt.lt%20OR%20site:hrt.hr%20OR%20site:sta.si%20OR%20site:rtvslo.si%20OR%20site:tanjug.rs%20OR%20site:n1info.rs%20OR%20site:rtcg.me%20OR%20site:ata.gov.al)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Балтии и Балкан", "weight": 3},  # err.ee, lsm.lv, lrt.lt, hrt.hr, sta.si, rtvslo.si, tanjug.rs, n1info.rs, rtcg.me, ata.gov.al
+    {"url": "https://news.google.com/rss/search?q=(site:mia.mk%20OR%20site:fena.ba%20OR%20site:koha.net%20OR%20site:moldpres.md)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Македонии, Боснии, Косово, Молдовы", "weight": 3},  # mia.mk, fena.ba, koha.net, moldpres.md
+    {"url": "https://news.google.com/rss/search?q=(site:andorradifusio.ad%20OR%20site:monacomatin.mc%20OR%20site:sanmarinortv.sm%20OR%20site:vaterland.li%20OR%20site:vaticannews.va)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/СМИ Турции, Кавказа, микрогосударств", "weight": 3},  # andorradifusio.ad, monacomatin.mc, sanmarinortv.sm, vaterland.li, vaticannews.va
+
+    # — Украина —
+    {"url": "https://news.google.com/rss/search?q=(site:deepstatemap.live)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Украина: СМИ и OSINT", "weight": 3},  # deepstatemap.live
+
+    # — АТР —
+    {"url": "https://news.google.com/rss/search?q=(site:pbc.gov.cn/en%20OR%20site:stats.gov.cn/english%20OR%20site:csrc.gov.cn)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Китай: власть", "weight": 4},  # 🏛 pbc.gov.cn/en, stats.gov.cn/english, csrc.gov.cn
+    {"url": "https://news.google.com/rss/search?q=(site:japan.kantei.go.jp%20OR%20site:meti.go.jp)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Япония: власть", "weight": 4},  # 🏛 japan.kantei.go.jp, meti.go.jp
+    {"url": "https://news.google.com/rss/search?q=(site:www3.nhk.or.jp/nhkworld)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Япония: СМИ", "weight": 3},  # www3.nhk.or.jp/nhkworld
+    {"url": "https://news.google.com/rss/search?q=(site:bok.or.kr%20OR%20site:unikorea.go.kr)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Южная Корея: власть", "weight": 4},  # 🏛 bok.or.kr, unikorea.go.kr
+    {"url": "https://news.google.com/rss/search?q=(site:kcna.kp%20OR%20site:mfa.gov.kp)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/КНДР", "weight": 2},  # 🏛госСМИ kcna.kp, mfa.gov.kp
+    {"url": "https://news.google.com/rss/search?q=(site:taiwannews.com.tw%20OR%20site:info.gov.hk)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Тайвань и Гонконг", "weight": 3},  # taiwannews.com.tw, info.gov.hk
+    {"url": "https://news.google.com/rss/search?q=(site:abc.net.au/news%20OR%20site:sbs.com.au/news%20OR%20site:afr.com%20OR%20site:theguardian.com/au%20OR%20site:aap.com.au)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Австралия: СМИ", "weight": 3},  # abc.net.au/news, sbs.com.au/news, afr.com, theguardian.com/au, aap.com.au
+    {"url": "https://news.google.com/rss/search?q=(site:australia.gov.au%20OR%20site:rba.gov.au%20OR%20site:abs.gov.au)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Австралия: власть", "weight": 4},  # 🏛 australia.gov.au, rba.gov.au, abs.gov.au
+    {"url": "https://news.google.com/rss/search?q=(site:govt.nz%20OR%20site:mfat.govt.nz%20OR%20site:beehive.govt.nz%20OR%20site:fiji.gov.fj%20OR%20site:thenational.com.pg%20OR%20site:pm.gov.pg)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Новая Зеландия и Океания", "weight": 3},  # govt.nz, mfat.govt.nz, beehive.govt.nz, fiji.gov.fj, thenational.com.pg, pm.gov.pg
+    {"url": "https://news.google.com/rss/search?q=(site:coastguard.gov.ph)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/ЮВА и Филиппины", "weight": 3},  # coastguard.gov.ph
+
+    # — Ближний Восток —
+    {"url": "https://news.google.com/rss/search?q=(site:gov.il/en/departments/pm_office%20OR%20site:gov.il/en/departments/ministry_of_foreign_affairs%20OR%20site:nad.ps)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Израиль и Палестина: власть", "weight": 4},  # 🏛 gov.il/en/departments/pm_office, gov.il/en/departments/ministry_of_foreign_affairs, nad.ps
+    {"url": "https://news.google.com/rss/search?q=(site:palestinechronicle.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Израиль и Палестина: СМИ", "weight": 3},  # palestinechronicle.com
+    {"url": "https://news.google.com/rss/search?q=(site:gds.gov.iq%20OR%20site:mofa.gov.sy%20OR%20site:yemenmfa.com)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Иран, Ирак, Сирия, Йемен: власть", "weight": 4},  # 🏛 gds.gov.iq, mofa.gov.sy, yemenmfa.com
+    {"url": "https://news.google.com/rss/search?q=(site:ina.iq%20OR%20site:saba.ye)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ", "weight": 2},  # 🏛госСМИ ina.iq, saba.ye
+    {"url": "https://news.google.com/rss/search?q=(site:royalcourt.gov.sa%20OR%20site:u.ae%20OR%20site:diwan.gov.qa%20OR%20site:mofa.gov.bh%20OR%20site:mofa.gov.kw%20OR%20site:fm.gov.om)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Залив: власть", "weight": 4},  # 🏛 royalcourt.gov.sa, u.ae, diwan.gov.qa, mofa.gov.bh, mofa.gov.kw, fm.gov.om
+    {"url": "https://news.google.com/rss/search?q=(site:thepeninsulaqatar.com%20OR%20site:bna.bh%20OR%20site:omannews.gov.om)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Залив: СМИ и агентства", "weight": 3},  # thepeninsulaqatar.com, bna.bh, omannews.gov.om
+    {"url": "https://news.google.com/rss/search?q=(site:presidency.gov.lb%20OR%20site:mfa.gov.lb%20OR%20site:mfa.gov.jo%20OR%20site:mfa.gov.cy)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Египет, Ливан, Иордания, Кипр: власть", "weight": 4},  # 🏛 presidency.gov.lb, mfa.gov.lb, mfa.gov.jo, mfa.gov.cy
+    {"url": "https://news.google.com/rss/search?q=(site:mena.org.eg%20OR%20site:today.lorientlejour.com%20OR%20site:nna-leb.gov.lb%20OR%20site:jordannews.jo)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Египет, Ливан, Иордания: СМИ", "weight": 3},  # mena.org.eg, today.lorientlejour.com, nna-leb.gov.lb, jordannews.jo
+
+    # — Афганистан и Южная Азия —
+    {"url": "https://news.google.com/rss/search?q=(site:gov.af%20OR%20site:bakhtarnews.af%20OR%20site:unhcr.org/afghanistan%20OR%20site:unocha.org/afghanistan)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Афганистан: власть и ООН", "weight": 4},  # 🏛 gov.af, bakhtarnews.af, unhcr.org/afghanistan, unocha.org/afghanistan
+    {"url": "https://news.google.com/rss/search?q=(site:pakistan.gov.pk)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Пакистан, Индия, Бангладеш: власть", "weight": 4},  # 🏛 pakistan.gov.pk
+    {"url": "https://news.google.com/rss/search?q=(site:thedailystar.net%20OR%20site:bssnews.net)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Пакистан, Индия, Бангладеш: СМИ", "weight": 3},  # thedailystar.net, bssnews.net
+
+    # — Центральная Азия —
+    {"url": "https://news.google.com/rss/search?q=(site:president.kg%20OR%20site:mfa.tj%20OR%20site:mfa.gov.tm)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Центральная Азия: власть и агентства", "weight": 4},  # 🏛 president.kg, mfa.tj, mfa.gov.tm
+    {"url": "https://news.google.com/rss/search?q=(site:gazeta.uz)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Центральная Азия: СМИ", "weight": 3},  # gazeta.uz
+
+    # — Африка —
+    {"url": "https://news.google.com/rss/search?q=(site:presidency.gov.so%20OR%20site:mfa.gov.so%20OR%20site:mfa.gov.sd%20OR%20site:ethiopia.gov.et%20OR%20site:gouv.ml%20OR%20site:gov.ly%20OR%20site:africacdc.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Африка: власть", "weight": 4},  # 🏛 presidency.gov.so, mfa.gov.so, mfa.gov.sd, ethiopia.gov.et, gouv.ml, gov.ly, africacdc.org
+    {"url": "https://news.google.com/rss/search?q=(site:news.un.org/en/news/region/africa)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Африка: аналитика", "weight": 3},  # 📊 news.un.org/en/news/region/africa
+
+    # — Мир —
+    {"url": "https://news.google.com/rss/search?q=(site:amti.csis.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Аналитика и OSINT", "weight": 3},  # 📊 amti.csis.org
+    {"url": "https://news.google.com/rss/search?q=(site:ochaopt.org%20OR%20site:unifil.unmissions.org%20OR%20site:icrc.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Гуманитарка и миротворцы", "weight": 4},  # 🏛 ochaopt.org, unifil.unmissions.org, icrc.org
+
+    # — Море, энергия, санкции —
+    {"url": "https://news.google.com/rss/search?q=(site:unctad.org%20OR%20site:sanctionsmap.eu)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Море, энергия, санкции", "weight": 4},  # 🏛 unctad.org, sanctionsmap.eu
+
+    # — Мир —
+    {"url": "https://news.google.com/rss/search?q=(site:press.un.org%20OR%20site:un.org/securitycouncil%20OR%20site:oecd.org)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Международные организации", "weight": 4},  # 🏛 press.un.org, un.org/securitycouncil, oecd.org
+    {"url": "https://news.google.com/rss/search?q=(site:wmo.int%20OR%20site:fao.org%20OR%20site:iom.int)+when:6h&hl=en-US&gl=US&ceid=US:en", "source": "GNews/Международные организации 2", "weight": 4},  # 🏛 wmo.int, fao.org, iom.int
+
+    {"url": "https://nitter.net/OSINTtechnical/rss", "source": "OSINTtechnical/X", "weight": 3},
+
     # ═══ НЕ ПРОШЛИ ПРОВЕРКУ (403/404) ═══
     # Stratfor, Chatham House, RUSI, CSIS, ISW, Carnegie — блокируют ботов
     # OFAC, Treasury, White House, State Dept, NATO, IMF, BIS, OPEC, World Bank — 403/404
@@ -199,7 +353,6 @@ RSS_FEEDS = [
     #   Trump/X (~4 мес), Yahoo/Finance (~48 дней), CNBC (~17 дней)
     # Yahoo/AOL: yahoo.com в NOISE_DOMAINS — фиды всё равно отсеивались
 ]
-
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  СКОРИНГ И КЛЮЧЕВЫЕ СЛОВА (без изменений)
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
