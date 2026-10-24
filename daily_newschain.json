@@ -2,23 +2,108 @@
  "date": "2026-10-24",
  "window": {
   "from": "2026-10-24T00:00+05:00",
-  "to": "2026-10-24T15:51+05:00"
+  "to": "2026-10-24T16:07+05:00"
  },
- "updated": "2026-10-24T15:51+05:00",
- "count": 1000,
+ "updated": "2026-10-24T16:07+05:00",
+ "count": 1010,
  "by_region": {
   "МИР": 200,
-  "США": 137,
-  "ЕВ": 151,
+  "США": 141,
+  "ЕВ": 155,
   "УКР": 25,
-  "БВ": 152,
+  "БВ": 153,
   "ЦА": 24,
-  "ЮА": 37,
+  "ЮА": 38,
   "АТР": 200,
   "АФР": 3,
   "РЫН": 71
  },
  "items": [
+  {
+   "hash": "06b453d8cdd22471c33faba74310db53",
+   "published": "2026-10-24T16:00+05:00",
+   "time_tashkent": "16:00",
+   "region": "БВ",
+   "type": "smi",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "Houthis say Saudi airstrike kills 4 people in Yemen, including women and children",
+   "summary": "Houthis say Saudi airstrike kills 4 people in Yemen, including women and children&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc19teGtnWFl2RFpiT0lpNXI1SkpUOHZsNnV1TkhlbnMzQzFhUXBzbzE2ZGozMTY2OE5MZi1WZmo2blN5YW81WVVTelBxbS13bXNzQjBubnhxWnJTeERiT0pGMG9jQnFoRkJubHUweTg2bklrSUJVMV9fYVZWTjgyNEpMWUxXVWpEdnUtcFBkVGNsR2FxX0tydFdHOEVYbFVyX3lrLVFheVEtVk1ncmlldlpHamYtc2d6SXg5MUR3Y3IwaER2?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "2d0b61e40c6a90f574d8b93c249685a7",
+   "published": "2026-10-24T16:00+05:00",
+   "time_tashkent": "16:00",
+   "region": "США",
+   "type": "smi",
+   "source": "Politico US",
+   "feed": "Politico US",
+   "paywall": false,
+   "title": "Trump makes Alaska the latest frontier in his election power grab",
+   "summary": "The move by the Justice Department to try and preemptively block Alaska’s Senate results if Republican Sen. Dan Sullivan loses stunned officials in both parties.",
+   "link": "https://www.politico.com/news/2026/10/24/trump-alaska-election-justice-department-01134590",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "4156c27d8408697880703ff4cf9cac94",
+   "published": "2026-10-24T15:53+05:00",
+   "time_tashkent": "15:53",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "OPINION - Europe must 'wake up,' but to what reality? The far right and the new social contract",
+   "summary": "OPINION - Europe must 'wake up,' but to what reality? The far right and the new social contract&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcWYyY2kxb3lHZUozQWhkaFRvZ3VaMnZUSjFYOU1sNnRDejlBQ0cxV2VNVTF4dnAxeXlBSFRoNC1zaGMyQXp2ZHdwbEVsb3BmQjJLRkIwelpnaHYzVjVWZWtPQUJud3dnWWdIajhxTERVRUFwSXlELVc0eVBkRXBHNDRSSi1ja1lNZ2VuRk51OFVtQWZyeng0UGYycWswQl9uTXhZMmtnYU5xMlB3eEZIekNNNWYwZXh6NlZGaUtYd04zVkhmVE9rbGhn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "10d39cdd43af560de1af80979debdade",
+   "published": "2026-10-24T15:53+05:00",
+   "time_tashkent": "15:53",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
+   "paywall": false,
+   "title": "KSA executes 2 Bangladeshis for ‘immoral act’",
+   "summary": "KSA executes 2 Bangladeshis for ‘immoral act’&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeHZLM1BMUlgwOFQ5T2E3ZkpmSWYyeGVEMVNJalFldnhxM2plUmNlWDhaTmc5emZ5MURYUzMyQzdUTENmWVhIVDFNLUFBV1ZtbjFlR21QVVg2cFJ1U041bWRhUnVacUNkeU5NVmo0MWgwc3R5VVRVNGxiNzY1b1FrWDRXQjNxWUpUOHlHaWo0enQ4RzRhWVJDTzA3clFuRktZNUE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "48c9bdd74c2d5613565269c8fd7f168c",
+   "published": "2026-10-24T15:48+05:00",
+   "time_tashkent": "15:48",
+   "region": "АТР",
+   "type": "gos",
+   "source": "China Daily",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "Caribbean content creators explore Linyi's markets",
+   "summary": "Caribbean content creators explore Linyi's markets&nbsp;&nbsp;China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90WUd6UnJfZm0weW04ZW9rZGdyRHp2dzJTS3NhV2lUd3R2bnBkZ21CT3A3S0U0UUw3Rmk4Q1gtRF92MV9vSTFjVzlvZ3g4Y29MTDVlRXBEUTduTkpuOFMxSHQtdzgwak42aFJKbVpaYjVEUm9Fcl9wQ0FMc2FZZw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "8b385ea1e3926013ef4b596d82ebec6e",
    "published": "2026-10-24T15:44+05:00",
@@ -48,6 +133,23 @@
    "title": "France holds breath as protesters take to streets - 香港電台新聞網",
    "summary": "France holds breath as protesters take to streets&nbsp;&nbsp;香港電台新聞網",
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzlQOV9vV2F5c3gyenBETlg5bUluWlNibnRERjdjazFpczl1RzJta2JHTVkzR2RHX0xMNHVyU1JOd0ZlTmtpaDlRQko4YmRGeHQ5enV4MVJrUm9DT2lma2F5TlM1VmVjMk9KaHA1WVlLcTJ6R2NRMWNWLVlXdjdIR2Y2eTQ0OXc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9ee44bbcc01cbbe5b3b96c177566bf16",
+   "published": "2026-10-24T15:43+05:00",
+   "time_tashkent": "15:43",
+   "region": "АТР",
+   "type": "gos",
+   "source": "China Daily",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "62 countries and intl organizations participated—What issues did the forum address?",
+   "summary": "62 countries and intl organizations participated—What issues did the forum address?&nbsp;&nbsp;China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZN2ZpclBXYy1EWHdlSVByODIzVGFpZmRfX0dNMXZXbGowMUQta2NVb1lpeGhxRUwzbDFYQTNHQlozY2xaTk15VzN5UDhONGdrX2R3N0VuX2FLZ29ONFB1Y0VrNnN0SVVQSTItTkJvY0N1NlBLTTEyVGhKb3FMQQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -99,10 +201,14 @@
    "title": "Japanese firm GMO seeks 'Active Cyber Defense\" by govt.",
    "summary": "Japanese firm GMO seeks 'Active Cyber Defense\" by govt.&nbsp;&nbsp;NHKニュース",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPWFBoVldEcGZvYVlWVG4xZTY3VHBvbkdFa0tlMm0wZEhRblBXVk02TXNORlh6N0sxVHo2bm5vZmo2YWcxZWpBb05uTUJVUnIyT2hEa3FadkUxM3BOaV9DUWNjYw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "The Japan Times"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWZTOHA1cjVmQkZ5aVFPdjMtNHBfR1V5ZzRkajJoZmstNllHT2VrS2l2UHBxdERyX1Uxb1I0MjB3OTZocHZLNVV6LWVtX1dRVkNVbDJZaFdSVWNxM3lULU1HemZNS3BPNGlWUXp4Wjg3akFZTm9POThfV2tlR2tXNHNGUnQ4Y1hzOENQX1dUTQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "a43bf4a7cea745fc75641f80d880dab3",
@@ -150,10 +256,14 @@
    "title": "Ministry of Foreign Affairs: events in West Bank underscore necessity of Jihad, Resistance - وكالة سبأ",
    "summary": "Ministry of Foreign Affairs: events in West Bank underscore necessity of Jihad, Resistance&nbsp;&nbsp;وكالة سبأ",
    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5JQy1TRnlobEhrUjYzdE5aOFAyVWlSZS1vaFpabjdVa3lWNk1adXh2T1BjYlY4UXdjRHQwUUR0eE5YbDcwbm41ZWc4R2RNc3c?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "AP"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBCLUpaZFBGTl81RWtTcFVsUnJGZ19DU1dpd1FKSFpndTlxZGduSmtIWllLcnphNG9LSURuazF2dXkyZGdDR3hB?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "371533fbd21ed47b7b968906069dfa49",
@@ -184,6 +294,23 @@
    "title": "French students vow to keep protesting",
    "summary": "Amid growing concerns over violence, people across France, young and old alike, are weighing up whether taking part in demonstrations is worth the risk. France 24’s Ophelie Jackson reports.",
    "link": "https://www.france24.com/en/french-students-vow-to-keep-protesting",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "972bd1efaddefde548651ae9f475403e",
+   "published": "2026-10-24T15:30+05:00",
+   "time_tashkent": "15:30",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/MARKETS",
+   "feed": "GDELT/MARKETS",
+   "paywall": false,
+   "title": "El mercado le pone precio a 2027 : un importante broker muestra una cartera defensiva en renta fija y variable",
+   "summary": "",
+   "link": "https://www.cronista.com/finanzas-mercados/el-mercado-le-pone-precio-a-2027-un-importante-broker-muestra-una-cartera-defensiva-en-renta-fija-y-variable/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -294,13 +421,15 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZVhBcHBITVRDY2hGb1hueUEwVnhWbUhBc3dvc2NXTk5Yd3NybDQyUW15R3NfVnBmOHpJLVo5b2UyVmN5NjdURndGT2xQb05hSlE4UU52cnFYMDdjbnlQTm9LRHpBSkdLSDUtTlhKdGJYVjN1cGY3c2hEelZjN3FhRXM1X0ZYbVk1Q05lX3ZPdWtBRHE4U3BHUjJtNUpMemJTbXhRcEVERGFZTUt2QW1JbXlSWUpWOGZ6UWc?oc=5",
    "also": [
     "Al-Monitor",
-    "The Straits Times"
+    "The Straits Times",
+    "Anadolu Ajansı"
    ],
    "also_links": [
     "https://www.al-monitor.com/originals/2026/10/jordan-church-attack-survivor-says-assailant-pointed-handgun-him",
-    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkZVd25QUl9VeFdqbHpIYjE1RHhKUllTaUtQV2NUclhPMWg5M0xLOHBlM3JGRlNkS1NkSFlaTkJVSHVSMHVlTWNFRWNOWXJrejUyNlJvTXBEWjdWTFQ5YUdTQTZRaUVlNXN6SDRJcWVCMnU2MW5yckdnbjBzbFhKVUJzV1RNVG1HcmpZM2ZOOFRlcGJJbkpzRGNaZlR4ZFN2ejA5UjQyMEJBVEo4Qks1MGEtSHA?oc=5"
+    "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRkZVd25QUl9VeFdqbHpIYjE1RHhKUllTaUtQV2NUclhPMWg5M0xLOHBlM3JGRlNkS1NkSFlaTkJVSHVSMHVlTWNFRWNOWXJrejUyNlJvTXBEWjdWTFQ5YUdTQTZRaUVlNXN6SDRJcWVCMnU2MW5yckdnbjBzbFhKVUJzV1RNVG1HcmpZM2ZOOFRlcGJJbkpzRGNaZlR4ZFN2ejA5UjQyMEJBVEo4Qks1MGEtSHA?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSlBZX0ZELU1TRkpkXzkyQTdZTzhqQUJFSnVXX1loM2I0N3VBT1UtMEhPRHBwUE9jbEFDcnd0N0sxb3o0RjItMEFRSG1tUW54SFJ1TWFxU1VXNXdoV0N4REp5Qno0aXVUQ1Mxa3c2YkpXNWJYbVYwM3hUSVctQUFGTjB0ZUxNN2ozemFxOHlTVU5oWDBESWRZVWNRSQ?oc=5"
    ],
-   "sources_count": 3,
+   "sources_count": 4,
    "confirmed": true
   },
   {
@@ -513,6 +642,23 @@
    "confirmed": false
   },
   {
+   "hash": "3c75f701ee66ce58e005c735668fe807",
+   "published": "2026-10-24T15:18+05:00",
+   "time_tashkent": "15:18",
+   "region": "АТР",
+   "type": "smi",
+   "source": "TOLOnews",
+   "feed": "GNews/Афганистан, Пакистан, Индия",
+   "paywall": false,
+   "title": "Widespread Flood Damage Reported in Paktia, Paktika, Khost",
+   "summary": "Widespread Flood Damage Reported in Paktia, Paktika, Khost&nbsp;&nbsp;TOLOnews",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBoQkxfV2U4UUZSenU5VzlzSnhOc3h6SWhPVG5ibEc3ZEtTVm5FQVhBN2wwcUJiZ0FqeUdQWmdRSEF6UWs1dkR0bVdRbWgtUVdFcTl3dXI0akQ3SXBSZTBlVEY3UFg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "c6bd067002d30a1bdb49e31fb183f2dd",
    "published": "2026-10-24T15:16+05:00",
    "time_tashkent": "15:16",
@@ -562,10 +708,35 @@
    "title": "Putin och Irans president väntas mötas i Moskva",
    "summary": "",
    "link": "https://nyheter24.se/nyheter/utrikes/1524730-putin-tar-emot-irans-president-i-moskva",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "FT"
+   ],
+   "also_links": [
+    "https://www.ft.com/content/dcb57f30-bbfe-418d-9e52-5df3074d1764?syn-25a6b1a6=1"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "d32e8d25c2cda64051ccdf43719160d9",
+   "published": "2026-10-24T15:15+05:00",
+   "time_tashkent": "15:15",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/ASIA_TECH",
+   "feed": "GDELT/ASIA_TECH",
+   "paywall": false,
+   "title": "Priti Adani pushes for industry - aligned education to boost India semiconductor ambitions",
+   "summary": "",
+   "link": "https://news.webindia123.com/news/Articles/Business/20261024/4514604.html",
+   "also": [
+    "AP"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiQkFVX3lxTE85MS1sdjhZa2Njb3ZFanVhbG05MUpibExoX0w4UVRrNlpmb3JjMjBHd01QOE1UcEtTVVBvLWN0Nm00QQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "f50cae8d9e9fbdd9401e2e8b44e251a1",
@@ -630,23 +801,6 @@
    "title": "Мирні переговори : Путін хоче отримати вісім областей , а не лише Донбас",
    "summary": "",
    "link": "https://www.unian.ua/war/mirni-peregovori-putin-hoche-otrimati-visim-oblastey-a-ne-lishe-donbas-13538634.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "d32e8d25c2cda64051ccdf43719160d9",
-   "published": "2026-10-24T15:15+05:00",
-   "time_tashkent": "15:15",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/ASIA_TECH",
-   "feed": "GDELT/ASIA_TECH",
-   "paywall": false,
-   "title": "Priti Adani pushes for industry - aligned education to boost India semiconductor ambitions",
-   "summary": "",
-   "link": "https://news.webindia123.com/news/Articles/Business/20261024/4514604.html",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -748,10 +902,14 @@
    "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
    "summary": "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks.",
    "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "The New York Times"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNWEtCNmUxTnlxZktXNHZpd015cWd1MmhrUmhoYXJTaDdhTF9pNHQzZVVmb1R5aHExMllQUEMzT3NwVXEzSU05UzExbEZoYjJjQTljX2NCWTA1UFlDb0JiRG1ScUNmR1pmallCb3EzcVpGV1R5REpTZWgzUmNTTmZMMjI5Qks1NXJMVGlV?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "1e268778f8a01db4033895164f6ac135",
@@ -898,6 +1056,40 @@
    "confirmed": false
   },
   {
+   "hash": "c864227d919bcf82670280cc154bb688",
+   "published": "2026-10-24T15:02+05:00",
+   "time_tashkent": "15:02",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Voters angry about high prices may get little relief from the next Congress",
+   "summary": "Voters angry about high prices may get little relief from the next Congress&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRmlodXU2TGlMWm1VZ0NYV3o5Qng3OVBxRDBKRGZJUjAxUVYwMnlOLUdyb1VQdFJYY21VMi1BZF9iZ3JFUm9lTVlZS2ZuNE5VNktvRllkc3E5eFplMzVwb182SFplZ1FJQ3doM1lkSnl3amd5OGw0UVpieGVEMU5fdExIdGY1d1Ezb0pYZV82RnAxbmhNNE9JWDJqNW52WnNRSWlEUXljRURDNExOM1BlVlp0Y0FWRHhJQ0E?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "8f7f566e9821635aad057f4d481e1519",
+   "published": "2026-10-24T15:01+05:00",
+   "time_tashkent": "15:01",
+   "region": "США",
+   "type": "ofic",
+   "source": "Wonderwall",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Donald Trump endorses Netanyahu ahead of Israel's election",
+   "summary": "Donald Trump endorses Netanyahu ahead of Israel's election&nbsp;&nbsp;Wonderwall",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxORXd4c1pONm83MVFhd2oxNFJ4X0lTWDkzMVZBMU85ZlhjZG4xNWFMMXduRmhxQVVGMGxUcFFrWDZLWDRyZDlBSFQ0aW1zQXY2Wk9yVEVROEFQSVZSeU1INHhPOHo3NG9LYmwySFVHMXlBb3RQc3lxU0ltYXQ2czFWVDd3TmY5T1ZyVVhfdGFjSS1XLW0xc1dWVVhCbXV3bGJ3Vnh0d0hUZVpsMHY2eHpBQmRBN01zeTBTTVktQ0JOV2ZsU1lDWTQyYzJOVFUyYTJOYWNlb1ZpcklURU5TcXBYT3JrcUg1dWpNRGZzS3BXMGgzUDdPRkZyZGNTdVBtaWlfRll5d3RfREFsQWJUa1Nnd0YtSWhNc1ZP?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "83b624a33b57a0104b283517f88b0056",
    "published": "2026-10-24T15:00+05:00",
    "time_tashkent": "15:00",
@@ -909,6 +1101,23 @@
    "title": "Lorin Scicluna told police Francesco Fenech shot Lassane Cisse, jury hears",
    "summary": "Lorin Scicluna told police Francesco Fenech shot Lassane Cisse, jury hears&nbsp;&nbsp;Times of Malta",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNTU5Z2J6UWFpTTlpYjYwTkYtNUczR0xWamRsU0RSSE8yV0VheTlZZm1TckJSSEhrRHFMUDZia3BTMU9VVkwyMkdaelF1X0U1MGt6RG1iZkc1RjNLWDFSMWdNdEZ0S2tzdDc2VFBLdlFuRkF1U3MyQmp4VlcxS1UzcE54WGNGa2dqdTlBRnNmVVR3ajB0SVlfVDNTWVBEeUR3ZVhxUjFpbzNlZmlu?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d004809150e6cb0c6d59af56a11dd736",
+   "published": "2026-10-24T15:00+05:00",
+   "time_tashkent": "15:00",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "How Saudi Arabia drew Britain into another war in the Middle East",
+   "summary": "How Saudi Arabia drew Britain into another war in the Middle East&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQTFLSS1GemR6d3VLZGpwTU5IV09tZUlnVFRnaGxleUZoUE55eVVLdFVwU2VRdFpBM2hHd3kzbjUxUUk4dmtrT1NrU3hrelNWN2wzaV80WktLYUZCdmpfUDFheGdBRTRrNzNXTEg2Q0w2dVd4Qll0U3UtU1pJSUdTQXlDT2hseTh0b0hjNjFfcUlxTkxsN1pEV3VlLXlHVy1ZNkJfeXpQSXFyQQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1605,6 +1814,23 @@
    "confirmed": false
   },
   {
+   "hash": "5f3ea5fd5a78d8b2b77b2fd21c167d31",
+   "published": "2026-10-24T14:43+05:00",
+   "time_tashkent": "14:43",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Guardian",
+   "feed": "Guardian",
+   "paywall": false,
+   "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+   "summary": "The 36-year-old died after two boys reportedly swept away by strong current near Bimini, police sayA British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling.The Royal Bahamas ",
+   "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "31fae603af8d2e334c7c0abd3c113b12",
    "published": "2026-10-24T14:43+05:00",
    "time_tashkent": "14:43",
@@ -1624,23 +1850,6 @@
    ],
    "sources_count": 2,
    "confirmed": true
-  },
-  {
-   "hash": "5f3ea5fd5a78d8b2b77b2fd21c167d31",
-   "published": "2026-10-24T14:43+05:00",
-   "time_tashkent": "14:43",
-   "region": "МИР",
-   "type": "smi",
-   "source": "Guardian",
-   "feed": "Guardian",
-   "paywall": false,
-   "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
-   "summary": "The 36-year-old died after two boys reportedly swept away by strong current near Bimini, police sayA British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling.The Royal Bahamas ",
-   "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "108e65832e9f19fc16e6cd002eea5432",
@@ -1734,6 +1943,23 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "6e33c79ecbd453cd2d0071633e220174",
+   "published": "2026-10-24T14:34+05:00",
+   "time_tashkent": "14:34",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Africanews",
+   "feed": "GNews/Африка",
+   "paywall": false,
+   "title": "Two 'unauthorised' oil tankers struck in Strait of Hormuz, Iran says",
+   "summary": "Two 'unauthorised' oil tankers struck in Strait of Hormuz, Iran says&nbsp;&nbsp;Africanews",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQTJmN3F0S0QtbGMtcjVoTzM1SDY2QWtTVGxIYzljenZLY1RSTThUSXIyTjBndnhCVEY2TnAyYXlpbDB4ajNDd0R6cnFjZW4xMU9GeUc2a1dIOVJoMk8wQWJUVGlHdW9CdzFRSjRZQU1vck9mYXN0REdtOU1KSWpIU2ZJUnBjeEJUVjBZbU5yMXFMNllCWFlIWEhpSU9SXzdDcy1uc0kyMEhBQmlk0gGsAUFVX3lxTE1BMmY3cXRLRC1sYy1yNWhPMzVINjZBa1NUbEhjOWN6dktjVFJNOFRJcjJOMGd2eEJURjZOcDJheWlsMHhqM0N3RHpycWNlbjExT0Z5RzZrV0g5UmgyTzBBYlRUaUd1b0J3MVFKNFlBTW9yT2Zhc3RER205TUpJakhTZklScGN4QlRWMFltTnIxcUw2WUJYWUhYSGlJT1JfN0NzLW5zSTIwSEFCaWQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "77818cfff061e0aeba2aceb35d8034ca",
@@ -1941,23 +2167,6 @@
    "confirmed": true
   },
   {
-   "hash": "df606cd136fc1754bee80c69b8cabf61",
-   "published": "2026-10-24T14:30+05:00",
-   "time_tashkent": "14:30",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/MARKETS",
-   "feed": "GDELT/MARKETS",
-   "paywall": false,
-   "title": "Haryana Gold Silver Rate Today : हरियाणा में सोने की कीमतों में मामूली उछाल , चेक करें लेटेस्ट गोल्ड - सिल्वर रेट | Haryana",
-   "summary": "",
-   "link": "https://www.aajsamaaj.com/state/haryana/haryana-gold-silver-rate-today-24-october-2026-check-24k-22k-18k-gold-prices-sone-chandi-ka-bhav/542402/",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "3e0d34bab1a5d84c0ab2a2ebbea3e4d4",
    "published": "2026-10-24T14:30+05:00",
    "time_tashkent": "14:30",
@@ -1969,6 +2178,27 @@
    "title": "Dr Priti Adani calls for human intelligence , skilled talent to power India semiconductor mission",
    "summary": "",
    "link": "https://www.prokerala.com/news/articles/a1828275.html",
+   "also": [
+    "AP News"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4Qi1oeTk1Z21hMnphRDg4Q3FlR1NuQmd0RUpidzBDU3A4YVRlVlZoMnZDbFVNSXA5bWVtUU55UkFqaXBVR1JqY29Sd0Q4NUZOOWtSNFJEWmVZUQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "df606cd136fc1754bee80c69b8cabf61",
+   "published": "2026-10-24T14:30+05:00",
+   "time_tashkent": "14:30",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/MARKETS",
+   "feed": "GDELT/MARKETS",
+   "paywall": false,
+   "title": "Haryana Gold Silver Rate Today : हरियाणा में सोने की कीमतों में मामूली उछाल , चेक करें लेटेस्ट गोल्ड - सिल्वर रेट | Haryana",
+   "summary": "",
+   "link": "https://www.aajsamaaj.com/state/haryana/haryana-gold-silver-rate-today-24-october-2026-check-24k-22k-18k-gold-prices-sone-chandi-ka-bhav/542402/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2020,6 +2250,23 @@
    "title": "Criminal Solicitors dispute full escalation from today",
    "summary": "Criminal Solicitors dispute full escalation from today&nbsp;&nbsp;RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcXZHQmVMLW9VNGRmUExkWEVBREFNR2VoNEU0U0tNNW5xd3YtLU1rQ0wyVUVDTVhoUjZ5QVNtTld6N1RTZDd4SWV1djlSRUkwaVRmZnhlYlY3eVNVYy12Q0lYVVRVblhBNUY3OVZ0eHNfSUprdVpkNDJGakZBZ0pjdWF1TGZiU0ppOEFvODJ0TGJ3VVJubGRlVUdKTnZGSm8?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "19aa2bb21c47ef63d387ee788f62ec95",
+   "published": "2026-10-24T14:28+05:00",
+   "time_tashkent": "14:28",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Latvian Public Media",
+   "feed": "GNews/СМИ Балтии и Балкан",
+   "paywall": false,
+   "title": "Mobile networks a problem in Latvian border area / Article",
+   "summary": "Mobile networks a problem in Latvian border area / Article&nbsp;&nbsp;Latvian Public Media",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSjd4cldEQkZCWjFFVmEzWFlJbGltNzdhMVJMaGc5RUtHc0VkUDNiby02cllhb1hnOUdWWEVfdk5DbnVXdmFJb09ZMGlnc01uYWJaNGRFbjg2Z3A0djN4ZndYemx3SnZJR2RMc1pkc3Z5VlE0NnBoMm1vMXlWeWcwa1hibWNJMTZMNll3ZnktOXVnLV9IRExIWnN5NXlEOU1ZNVowRVpTT2xuSURzX1poUw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2400,14 +2647,16 @@
    "also": [
     "Rappler",
     "The Straits Times",
-    "TVP World"
+    "TVP World",
+    "Cyprus Mail"
    ],
    "also_links": [
     "https://www.rappler.com/technology/ukraine-starlink-starshield-operations-after-throttling/",
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTkJwNklIaVU5NzJRMEJUZkVGWEZhcGJWTkRnLTNvR0haRXZwZEw2ZVlNZjVna19JQVdnNUJITDVfNlIyeEgtck1rcWwtYVJiRThmYXg3Y2ZBQzFwMzc4VlhQUko3eXFjLUxWYVI4dWhYZkM2YlVDb2tyM3Z0UGdRSzJ0Vl8zRWZiNS1ZQmpEbFZRWmg2cWo5aG42cGZuUVdITnZRWV9mY05DV0NVbWVSaUhxc2t5LW5mUGhvS01MS2tIdw?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDdpT2RfYl9fX09rUkZoNksxaWdySk5ERDh5aDdRdjFVdDhMSUlZRGRvRHRvRzlxSEJicWVDNmg4d1M0d21hcHE0ZlBkVjNGSzE0dFZOeWxmeVNxb1V1TUZOVndVZnd6TWlPaHdMX3oyM0FPTzlQalJiU2JkTmxicG9sMm5xbm5PWVdiTV9zNFdQcFZNTm5QTHhLT2hFZw?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDdpT2RfYl9fX09rUkZoNksxaWdySk5ERDh5aDdRdjFVdDhMSUlZRGRvRHRvRzlxSEJicWVDNmg4d1M0d21hcHE0ZlBkVjNGSzE0dFZOeWxmeVNxb1V1TUZOVndVZnd6TWlPaHdMX3oyM0FPTzlQalJiU2JkTmxicG9sMm5xbm5PWVdiTV9zNFdQcFZNTm5QTHhLT2hFZw?oc=5",
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDFCSjRLMUk3aVJEMnRsYS1QaWVOMExzN3pVb1JONTZXMHVNaXAyMWNFY21yTHNzU1ZjVlg1dkZsNTlvY1JrMEF0c2NEc05HRUxiRzlfalJIZ3ljTGVLOGJfOG80Q3k5aURaTEhZdktYSGhBUS1kVjFabXVBbG5aeWdnaDVneEplNXZKTDZxbGV2TXlHcVZxNUlCUVg?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -2678,6 +2927,23 @@
    "confirmed": false
   },
   {
+   "hash": "fbef7af17ff31a9581d5cda84b6e826d",
+   "published": "2026-10-24T14:02+05:00",
+   "time_tashkent": "14:02",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The New York Times",
+   "feed": "GNews/Платные мировые",
+   "paywall": true,
+   "title": "Obama Returns to the Trail, Setting Up Dueling Appearances With Trump",
+   "summary": "Obama Returns to the Trail, Setting Up Dueling Appearances With Trump&nbsp;&nbsp;The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeUdkajdVaE81UXowdEROTVA0NFNwX0JJTUw1RHdaMmtHQURmRzZmNVN6dmplOGQtZ1BrQXNrb0JPZXdPZXQ3Qi1mNG9zb1RONC1DeDV0eXNzRmdDd2lpNkhjSHJLWDFrcFk5S0JLNHpKWVB5UnoyT2E3U2NPSHpKVXE5REdYdzlR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "1d43ce3a24593fc558ce9a9413e79768",
    "published": "2026-10-24T14:01+05:00",
    "time_tashkent": "14:01",
@@ -2744,6 +3010,23 @@
    "title": "Data protection officer launches investigation into cyber attack",
    "summary": "Data protection officer launches investigation into cyber attack&nbsp;&nbsp;SWI swissinfo.ch",
    "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxONnhULTRvbksyR1o4U29FY0dvVnZJMEZCQi04YU5CQ3BJYWdRLUh5SnlKTTZxa2JXLXBNalZSVGtQQXhici1tN1l0RldzTEhoenhpTnIweGRPTzhnZjdfNmh0d05KMWg1eklTWEFrZUt2N1BtbEdtQXZvaklCZ3Jmcm9XWGxwRTAwNmh5cU9tYlVwUlltY1NaNVJralNscURrNDN6OWxEUTUybHlSdVhyVkdJbS1sS0pnRzhNbFpOZC0zNjJ5WkRHbmtLNXJZZ2hRRWt5cWRlR3l4aWxhdTIxRFRKUE9sWmVVR1hMQ05pTEJnMV91N2hBTFU5WEVFeGR0UGU5RnRYZFZjcVZCbWFpbFl4UVBNT0M4dF9lOVNUQjg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "2056763adeb46b9b5c7a9532669194e0",
+   "published": "2026-10-24T14:00+05:00",
+   "time_tashkent": "14:00",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Oxford activists plan protest over Arday accuser’s talk",
+   "summary": "Oxford activists plan protest over Arday accuser’s talk&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPal83a244ZXlfLTlfc0hITzgzWkpUWHhNbF9Vemc5MVZrY0EwTDEwOWE1dVpIQ0tkdkpTaFhjVVdqS2JINnRCckNsYUJobnI5TGltLXM1ZDB6Q1Q4LTFGc3l3SVA1OHp0eHBERzdzVk9sdEZwdGVyblpBS3g4c0ktU09NTXVKLUVSUXA2Wi13YTV2dw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3175,12 +3458,14 @@
    "summary": "Ukrainian strike on enterprise in Russia's Oryol kills three, governor says&nbsp;&nbsp;The Straits Times",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWU1iUTl0cG5QY0FqTVAwNm9id3gzUUNRZDEyVXNXbkstRnJNU3RreUVjeFF6ck96OVBCYnZMemlHSTJRbTVsYi1vSFFDQjA0cUNpR0kzMC1zZUk4ZUsxMWs1aU1yeUJrMUFScWhjcEhuZGJtWGlPU0hUSWkwdTdDQ3o4TnRtaVV6WDhYaFNya3hxRjYxZzVzRldXREwyeVRjRno3cUt0VHZWQkp5Wmwxa2dFMGswZw?oc=5",
    "also": [
-    "Investing.com"
+    "Investing.com",
+    "Reuters"
    ],
    "also_links": [
-    "https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733"
+    "https://www.investing.com/news/commodities-news/ukrainian-strike-on-enterprise-in-russias-oryol-kills-three-governor-says-4970733",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcS1GckJLQm1zOTc2YzM1SHFSeDlHQWtEN096eFoySXdaNDlZREh2dWtyQ19QZ1lxcVRLZzR5TTVreHQtdk5aM2RQWTFjSHhMYWpaUVpKazNiLVVRQUZmSlFuM1RyZUxsTlAzTE5NTWpaV2ZCcTNUUExFZVpSUUZFZGMyb25jTUhXZjBXUHNxZGN3MTJfQzlsTTM0ZFQ2SDZlWUt3aEZidkFTcm1mMmc?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -3472,10 +3757,14 @@
    "title": "Fiji avenge Pacific Nations loss in thrilling 34-28 win over Japan",
    "summary": "Fiji avenge Pacific Nations loss in thrilling 34-28 win over Japan&nbsp;&nbsp;The Straits Times",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQldkdUZLTnR5OTVpandNWnl4WHZnZXJDQUxscnoyUEpIRndqcldPanNGd3VtMm1IN2dxbnRqOS1udXVSWjE5ZzZsa2JtbmRaNEtDcmY0bHNJbjJfY3VqajZzc0pJaERnRTBhbENPY1lhbEg4dFFIbC1rUlA5dXVRSDQ1R0ZROFFyLW1PeUtqbkNPeHNLVG10bjZnWjU4a0xpZ2pB?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Reuters"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnpqWlBncFA5Tnk3a2g1bVRHWEdEZkJOS2EyQVdXYV9tWGdrMDFvTDNxMWN3ZHJKUWFOY1dFZ0gzeEFxeEppUHE1RXd3MzB2M2w0cGxvSVBVcGJiNzlRa1pIX0s5NEduZHRRdnJUSnpTLXluTG5wdmduRi1EMFY2djZRT093a2JvM3J1aHZkb1hGWkNscUYxZV8ya1Z6VHowVlh3RnhvVjV0bV9sWFpqU05B?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "13eae93f82bd3604c04c76906addfda7",
@@ -3520,23 +3809,6 @@
    "confirmed": true
   },
   {
-   "hash": "e624ce304a059e51e3817ab039f4fde9",
-   "published": "2026-10-24T13:33+05:00",
-   "time_tashkent": "13:33",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "The Kyiv Independent",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Ukraine strikes factory in Russia's Tolyatti, airfield in Krasnodar Krai, General Staff says",
-   "summary": "Ukraine strikes factory in Russia's Tolyatti, airfield in Krasnodar Krai, General Staff says&nbsp;&nbsp;The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkRaQ1lvSl8wSExwUXh3aUdpeDdOY3ZBMnZULTJ5UUhwQTRqYXM4QWRlVkQwQllxcU12YlFqdnV2MlM3LUZXeXNIbFc5X3JRZ053anJpZGs3a2ZmQTY4akxjQW05dFg4enU5aFBfdlRGN2pHVXV0SDR3anBrN3NUcUxjcmhGUDNRNnhfVmwwZ3haeXljTG9oTlJGekVqd3F1VWpMVzRjN3MyYVdJanQ1ZVRfd2FSdll2MGc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "f2691b0301e9496381a2278d9894a4b7",
    "published": "2026-10-24T13:33+05:00",
    "time_tashkent": "13:33",
@@ -3552,6 +3824,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "e624ce304a059e51e3817ab039f4fde9",
+   "published": "2026-10-24T13:33+05:00",
+   "time_tashkent": "13:33",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "The Kyiv Independent",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Ukraine strikes factory in Russia's Tolyatti, airfield in Krasnodar Krai, General Staff says",
+   "summary": "Ukraine strikes factory in Russia's Tolyatti, airfield in Krasnodar Krai, General Staff says&nbsp;&nbsp;The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNkRaQ1lvSl8wSExwUXh3aUdpeDdOY3ZBMnZULTJ5UUhwQTRqYXM4QWRlVkQwQllxcU12YlFqdnV2MlM3LUZXeXNIbFc5X3JRZ053anJpZGs3a2ZmQTY4akxjQW05dFg4enU5aFBfdlRGN2pHVXV0SDR3anBrN3NUcUxjcmhGUDNRNnhfVmwwZ3haeXljTG9oTlJGekVqd3F1VWpMVzRjN3MyYVdJanQ1ZVRfd2FSdll2MGc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "ef37d3713c7746762b26af13d8ee4d06",
@@ -4642,14 +4931,16 @@
    "also": [
     "GNews/ЕС и НАТО",
     "GNews/ЕС, НАТО, ОБСЕ, СЕ",
-    "Dawn"
+    "Dawn",
+    "Aaj English TV"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZVBVT3lUckJKd3NUSzRTR2gzWXh3V1FxU0xOUVh3QktyUmxnXzF2SFBUS1hTWjRDS0ZyMW1mTk9GLTVtT3NjM3Z5UEs3TEZhM0VuZjR2NUhDVHV6Q0F3eVpxZ1ExRXU4Mi1rUUtLOE1QTXdVU1FCem1jSlFBYTRlUWxvdUVrRDR4ZjI1NFNsdENySFBpYmxfX2g3TXhtdWFVMmR4VDR1RG1PbzJNenM2T19FS3NvOTV6ck5OX3dkNnlLaHNIRkhpaFQ3bFNkUFdpNTg5R0tsR2xsdU9XN2ZBWnI1ZUNHdV9aTjM0ZENsVFR0UElhdmgxc004b2s?oc=5",
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUkVZeW5XZ2RIWW5hRXNSN1ZJZ3RzMExqVkNMVFhyLVliLXpjS3pzZTJ4MGUzWGxId0pqSzdrSkRmeHZ6U09rbm1YTWx6bmdpb05VeFVtb1VybE5SYm9Ba3VaNVpCLWVZMm1JMW42bm9Fc2dQVWRBRVJEaUFNdEU1RG95ajFSQTVNQ1FBYUZDM29hNmxtRVBOcXVuZUZJUEtHVWVOanBWUjBIRnBwNkpGdTNtN2RVQ3I0eC1qcGE2Q1lHeExvT2F1anEwaXlPY1B6T3hIcXozSTZyWHZWeGROeVVxbXVxWVpQWHRBZThTYmpKakpOT3Z0N1Zpcm0?oc=5",
-    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CNzc4V0FNTXVzVmxqZlg3VXNhLUdvbVh6Nm53Yl9FWkdjanpub1dGbG9GOWhCY1kwSm5iUHFFWDdmdFk0SnkzRg?oc=5"
+    "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1CNzc4V0FNTXVzVmxqZlg3VXNhLUdvbVh6Nm53Yl9FWkdjanpub1dGbG9GOWhCY1kwSm5iUHFFWDdmdFk0SnkzRg?oc=5",
+    "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBVVGRSOE84QTBwMkRjVC1JYWU5X2FaOXNhbElsWGpBTjhVNjZJMjhRNzVfY0pWNEJfSGFDWUNBeVZMTHpzOUg2a3F1cGtrR3RCa1F3?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -5263,12 +5554,14 @@
    "summary": "Ukraine recorded no limits of the speed of its SpaceX Starlink terminal connections in overnight testing, a person familiar with the matter said.",
    "link": "https://www.bloomberg.com/news/articles/2026-10-24/ukraine-says-restrictions-on-starlink-speed-have-been-lifted",
    "also": [
-    "TVP World"
+    "TVP World",
+    "Bloomberg"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDdpT2RfYl9fX09rUkZoNksxaWdySk5ERDh5aDdRdjFVdDhMSUlZRGRvRHRvRzlxSEJicWVDNmg4d1M0d21hcHE0ZlBkVjNGSzE0dFZOeWxmeVNxb1V1TUZOVndVZnd6TWlPaHdMX3oyM0FPTzlQalJiU2JkTmxicG9sMm5xbm5PWVdiTV9zNFdQcFZNTm5QTHhLT2hFZw?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxNdDdpT2RfYl9fX09rUkZoNksxaWdySk5ERDh5aDdRdjFVdDhMSUlZRGRvRHRvRzlxSEJicWVDNmg4d1M0d21hcHE0ZlBkVjNGSzE0dFZOeWxmeVNxb1V1TUZOVndVZnd6TWlPaHdMX3oyM0FPTzlQalJiU2JkTmxicG9sMm5xbm5PWVdiTV9zNFdQcFZNTm5QTHhLT2hFZw?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRFphMDBDdXE0TmJISEhQN1JSeV9QTkhURmlGUjJQMFFmd21oNWRTVVkwN2xnTGRqNGxlUFcxdExKaC16dHN2VmN2bjlYeG83bUUxSmdoUWtfX3N6cWtILVZOQVVEYUJ6Z3dybkxSemxiZjlhZng5RVZXTUh0OXpOa2piRVFrckx3UGJRR1FYdW02TGVjSjEtQmtkM0tHSHgtS0pVQTBUSmc0OVhCVF9SZQ?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -5838,7 +6131,8 @@
     "NHKニュース",
     "NYT World",
     "Guardian",
-    "The New York Times"
+    "The New York Times",
+    "Bloomberg"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
@@ -5848,9 +6142,10 @@
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5TOVVENnhKb1FvbkVTSU5XR0tEYjFKRDFiWHlTam9CUU8tVTlhZ2dTWHJJV2t4SGtRT3FkUlo2dER4VzNpMFVmRkcxdGF2SVFzQWFnZDRjSW14RVhIVk1MaElvWQ?oc=5",
     "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
     "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUZGSkpxeVFRa05sT2xjSExjY0JQSUFjeGxhLWMyMWYyeUxYa014Mk1tZlc5LUtST2lBSDBmWHVoYVE3cmVFVUFPSUpZOTNUb3p5Z0xKdzlHdXpDR1JRMGNTbnNhQzBuVEFCZlRMaFZ4a1pBSkF4TWVqczBsLWJ6QW5sZk5aZ1k?oc=5"
+    "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZUZGSkpxeVFRa05sT2xjSExjY0JQSUFjeGxhLWMyMWYyeUxYa014Mk1tZlc5LUtST2lBSDBmWHVoYVE3cmVFVUFPSUpZOTNUb3p5Z0xKdzlHdXpDR1JRMGNTbnNhQzBuVEFCZlRMaFZ4a1pBSkF4TWVqczBsLWJ6QW5sZk5aZ1k?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMkVwemhrQlQzY3NzUXZiNUFtQzBvYnVfUXlTMGt2Zm4wSU5mS3Z2enF1S3JndlJDTDJxMU0ydlV4MVE5RVNuZE9zM20tNTc2M2h1SzNYUlFKR3pmY1I5S3oxbVJuY04zT0Jkbi1PSG5iOERrMmlySHo2STZhc1NnSFlPXzg2Ykw1eTBZRi1wQXR5NFYwbHRsOVoyWnJkY2JGajlPczYwM0JTYWs4bWc?oc=5"
    ],
-   "sources_count": 9,
+   "sources_count": 10,
    "confirmed": true
   },
   {
@@ -6360,23 +6655,6 @@
    "confirmed": false
   },
   {
-   "hash": "2629717be78c743b8d04c0bce945f656",
-   "published": "2026-10-24T12:29+05:00",
-   "time_tashkent": "12:29",
-   "region": "ЦА",
-   "type": "ofic",
-   "source": "GNews/Центральная Азия: власть и агентства",
-   "feed": "GNews/Центральная Азия: власть и агентства",
-   "paywall": false,
-   "title": "Deputy Minister of Culture and Islamic Guidance of the Islamic Republic of Iran Visits the National Museum of Tajikistan - Вазорати корҳои хориҷии Ҷумҳурии Тоҷикистон",
-   "summary": "Deputy Minister of Culture and Islamic Guidance of the Islamic Republic of Iran Visits the National Museum of Tajikistan&nbsp;&nbsp;Вазорати корҳои хориҷии Ҷумҳурии Тоҷикистон",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOXNOMU94MHFUZ2tpZEpBangyVmRBampOTmJhQ2FNVXFreFd6Xzc1a2RQWWhjYndtM1loazVvdnZHZkM4aDljcHc3LU0wYS03RHhkTEZvMnJsc253OUFfMGJ0aXlPUENFUVkzMlhWLVhKTEtvcGRabTJ1Z1lfRWZ6YlhZdWdlZENpU0Q2UUZKVk1PNlltZzZSTXN0cG1Wdk5MVThyZ2hpTXlvYThNVmxGWXM4WFhSazlrVzRTQUU1d2lIdklpcGNOVGZ0VTRVVmI1OVo0SnhoeDJnUmw5LU1OTlR2SlJxQTZGODZnVg?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "af9fe08066b472ca75fd0a2c63783c79",
    "published": "2026-10-24T12:29+05:00",
    "time_tashkent": "12:29",
@@ -6388,6 +6666,23 @@
    "title": "No depths too low: Donald Trump mocking a tragic death with AI video proves he has no moral compass",
    "summary": "No depths too low: Donald Trump mocking a tragic death with AI video proves he has no moral compass&nbsp;&nbsp;IOL",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUzJYTGkwRkpHd3g4UWlXQUs1cnZIOWtQbmdUcTNnemlEVDNQa0RPVVh1eWstazdSN3oxSUdTRVJqSDkybUhRaF9RU1ZxNEY1Z01BVWlCRklMRWxWTVMxcWswWlVNNVlyTmowUm5YckFoOWNuY2dsdmdZSHRXbUVhekd3Ym1JX2VFbVBRQjZ4Ui1WNDhLSU9WZ3BGWlhqQUUyTWZidm1qLVNyVF9oVWJFbk56Qk9BMkI5T0ptNV9VUnJkb3ZycFFpS3RRNHlFYmNXaWRMWXhxazllZDNadERoOQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "2629717be78c743b8d04c0bce945f656",
+   "published": "2026-10-24T12:29+05:00",
+   "time_tashkent": "12:29",
+   "region": "ЦА",
+   "type": "ofic",
+   "source": "GNews/Центральная Азия: власть и агентства",
+   "feed": "GNews/Центральная Азия: власть и агентства",
+   "paywall": false,
+   "title": "Deputy Minister of Culture and Islamic Guidance of the Islamic Republic of Iran Visits the National Museum of Tajikistan - Вазорати корҳои хориҷии Ҷумҳурии Тоҷикистон",
+   "summary": "Deputy Minister of Culture and Islamic Guidance of the Islamic Republic of Iran Visits the National Museum of Tajikistan&nbsp;&nbsp;Вазорати корҳои хориҷии Ҷумҳурии Тоҷикистон",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOOXNOMU94MHFUZ2tpZEpBangyVmRBampOTmJhQ2FNVXFreFd6Xzc1a2RQWWhjYndtM1loazVvdnZHZkM4aDljcHc3LU0wYS03RHhkTEZvMnJsc253OUFfMGJ0aXlPUENFUVkzMlhWLVhKTEtvcGRabTJ1Z1lfRWZ6YlhZdWdlZENpU0Q2UUZKVk1PNlltZzZSTXN0cG1Wdk5MVThyZ2hpTXlvYThNVmxGWXM4WFhSazlrVzRTQUU1d2lIdklpcGNOVGZ0VTRVVmI1OVo0SnhoeDJnUmw5LU1OTlR2SlJxQTZGODZnVg?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -6912,6 +7207,23 @@
    "confirmed": false
   },
   {
+   "hash": "15bd3b7c76c3774fddeb363a05774d19",
+   "published": "2026-10-24T12:15+05:00",
+   "time_tashkent": "12:15",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/MARKETS",
+   "feed": "GDELT/MARKETS",
+   "paywall": false,
+   "title": "Us Consumer Sentiment : From fuel price hikes to cost - of - living concerns , US consumer sentiment nears record low",
+   "summary": "",
+   "link": "https://timesofindia.indiatimes.com/business/international-business/from-fuel-price-hikes-to-cost-of-living-concerns-us-consumer-sentiment-nears-record-low/articleshow/135164123.cms",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "6369c7de2a6b8540ac70d4944ee1589d",
    "published": "2026-10-24T12:14+05:00",
    "time_tashkent": "12:14",
@@ -7109,7 +7421,8 @@
     "The Straits Times",
     "AP News",
     "The Japan Times",
-    "The Korea Herald"
+    "The Korea Herald",
+    "Pajhwok Afghan News"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOTlLSVZQYy0tZFRieEJTYXU0WnM4NElhS29hMlJ4R3g1Mzl3Wmo4TzFRRlE1QXhsQ09SQWV0Uzg5LUdSdWpfdjI4LU1YSXRqY3pOSTEzbTA0cjdHM2MzVUpqbUdOSm13ZGZZdHN3VWlfbm1laGVQSmEtRklGaHhDejhUT2F4MUktamhqTS13ZHpNaERZekprMkp0TWdyX0t4bXhsOGJ1bUwzZw?oc=5",
@@ -7119,9 +7432,10 @@
     "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTU9EWjVTanV3VTdTU281NHhWR0NEaGRxMFdNTnpvemZiTjk1X2xCRXE2OGU2T3htN3JyWnJvRmxUUXZpd1h1ZktHT3dlbW1qemtQek1xSG1ZdG0wWEc5bzNQSm5KbGFaUlhndGRRc2p0LU56R0NkWjFfT2lrV19mUG9UVmxieXg4dU5rU1JjbWVfbjhDeDV6LVVaMXRfN2xQcE9KX01rcWpoWU05ZzhZV0R1Ni02QWdTaUV3RzI0cDY?oc=5",
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX0I1TVQybGpFam8xeDVVN1NTdVFha1Q3Und2cjhZbHJnMG1CekZFTWEyMXI2VFNTVHF0MlF5ekIxM3plalZMVU9jVjZHanE2WnozM2xQN2x6WDA2NHh1NUVXRXIwZ2JVczFsQjZ5aXY2VU9tRk1kRWg2bDZpSlJKVzVFaVlhOFc0N0pnOUp0cWVwREY0b1JlZ2xSbw?oc=5",
     "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYUdlZmVMcm56QmlxUHNUQ0M0UVp1ZTNvSUdKdDNTenZ6Zk9rZEN0MDBQQVpSQWRBZW9VRGU1T0FaM2g1VVN6UDVuV2d3a2pFLTNGT1NOOVdham9UeGxFWkQzeHZqTV8xc0l4d1JPM1BKYU5iVm9XQkM4ajh2eGJya0ptX1dkWXlnQ3N3THlrVElQaWxiVng0QU1vV0FjZFZSRUwzcGZHaTg?oc=5",
-    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXOGNqcVZVQ3k3OUpkaUsteDFlVUtaR3JTVGVaTWJ6VElsaG9Ta1FuVzd2YVZRQl9MUVFIZ05hcVlrdUMwWHlna05XRU5fR2h3U3R3b0VSVQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXOGNqcVZVQ3k3OUpkaUsteDFlVUtaR3JTVGVaTWJ6VElsaG9Ta1FuVzd2YVZRQl9MUVFIZ05hcVlrdUMwWHlna05XRU5fR2h3U3R3b0VSVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcTM5WXVKcDVKRWhxV1hxbTJPR0pIT0JfM3JrNl80TURYc1JtZ2oxdFVpWHRTSDFma2VERUE4Qkw2eW4tTmQzZHA2Ry1jdTBfQTA2c2JfVkgtZkZ4SmZCdGp5bVc2OUpVUjNGTUJMaEhpc25weFVsMzVQaGpTUGZmX2NpeTU5U1Njcnpfd2xLTmhKaERFU0E?oc=5"
    ],
-   "sources_count": 9,
+   "sources_count": 10,
    "confirmed": true
   },
   {
@@ -7193,23 +7507,6 @@
    "confirmed": false
   },
   {
-   "hash": "606dea0160a1965248e241bc6bacbc7b",
-   "published": "2026-10-24T12:06+05:00",
-   "time_tashkent": "12:06",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Russian strikes injure seven people in Kharkiv region, including two children",
-   "summary": "Russian strikes injure seven people in Kharkiv region, including two children&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1B2VHBCVVNRWGxidTR0TllIazZ1QUlQZFVtVERiNzV5MHVNY2JFRFJOQmFfYVIySUtoNWJIdVR1bVZZTHlRbG9scFpZR0MydWhSZWpyMy02cy1DTEZjeHUzRDFlMm44dXloeEtfN2J1MXp6bkQtejh6Qk5xQ183X0lrMTk1ZGoybUcyZGItenlERHpCUTc4dm5LdzQtalc4allJSTNtZWNreTc2RW5wS0RBczB5TzRHSnNyemtOczQ1Zi1f0gHKAUFVX3lxTE1OQ0N2b2tvTVBQRE4tZDExd1RNckJNejVHTXpKZm1yaUJtV0MxRURNVlctNjdybnVfV0FxZ3dMZnFVVDZWajR5RGNZeFdBSU5Jb2FKVVRnRmZ2S1JRLWl4Y2RuRktNNTFFVl9EbkRMLUlwaDVxVmZuVXZTX2hjT25lOTBya1hZazQtSUF3RExqWWY1ZEJweWVGbUZwZW9YUmxRd3NsZXJhTlBkdTJ1bXlKYnBRM1NmNEp4NWhNY1hIRWo5NzFsSU9ZYmc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "946aeca3bb89e4d69c5c2b8c6915516d",
    "published": "2026-10-24T12:06+05:00",
    "time_tashkent": "12:06",
@@ -7225,6 +7522,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "606dea0160a1965248e241bc6bacbc7b",
+   "published": "2026-10-24T12:06+05:00",
+   "time_tashkent": "12:06",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Russian strikes injure seven people in Kharkiv region, including two children",
+   "summary": "Russian strikes injure seven people in Kharkiv region, including two children&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQN1B2VHBCVVNRWGxidTR0TllIazZ1QUlQZFVtVERiNzV5MHVNY2JFRFJOQmFfYVIySUtoNWJIdVR1bVZZTHlRbG9scFpZR0MydWhSZWpyMy02cy1DTEZjeHUzRDFlMm44dXloeEtfN2J1MXp6bkQtejh6Qk5xQ183X0lrMTk1ZGoybUcyZGItenlERHpCUTc4dm5LdzQtalc4allJSTNtZWNreTc2RW5wS0RBczB5TzRHSnNyemtOczQ1Zi1f0gHKAUFVX3lxTE1OQ0N2b2tvTVBQRE4tZDExd1RNckJNejVHTXpKZm1yaUJtV0MxRURNVlctNjdybnVfV0FxZ3dMZnFVVDZWajR5RGNZeFdBSU5Jb2FKVVRnRmZ2S1JRLWl4Y2RuRktNNTFFVl9EbkRMLUlwaDVxVmZuVXZTX2hjT25lOTBya1hZazQtSUF3RExqWWY1ZEJweWVGbUZwZW9YUmxRd3NsZXJhTlBkdTJ1bXlKYnBRM1NmNEp4NWhNY1hIRWo5NzFsSU9ZYmc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "7278533035d23237429a6e30a11192b4",
@@ -7444,6 +7758,23 @@
    "confirmed": true
   },
   {
+   "hash": "e448e96d7583ed10bf0ff06a207e72cb",
+   "published": "2026-10-24T12:03+05:00",
+   "time_tashkent": "12:03",
+   "region": "США",
+   "type": "smi",
+   "source": "GNews/Home-US",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "Noah Hiles: My journey to find an NFL bar in Paris - Pittsburgh Post-Gazette",
+   "summary": "Noah Hiles: My journey to find an NFL bar in Paris&nbsp;&nbsp;Pittsburgh Post-GazetteHegseth’s staff tried to block troops’ participation in Paris NFL game&nbsp;&nbsp;The Washington PostParis Is Bracing for Protests. The NFL Is Showing Up Anyway.&nbs",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOang5eWdwQUd0OUJ3VHZMeUVPTWpYRVZQRC0zZXBYNGlCSnVsOHlHNldMcVRWNk9Ya2hwRzNyanNuanFuLUlFV1NsMHpFR1F3b21PclBWcVNhZjlQLUZseTdrTlZibllJQnowNWZjYnlwTVNaMEhQMW1rcnVXc1J5M2psMXRxTzl5R1VJNFJxakNka3RUb1RGNkNxWUoxQVBCQkZJVkdmM1FTUQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "80d8b7f17587fcfb4e3ebc5853e8e176",
    "published": "2026-10-24T12:03+05:00",
    "time_tashkent": "12:03",
@@ -7506,12 +7837,14 @@
    "summary": "The Wakey Show #9 - The Wakey Show | NHK WORLD-JAPAN&nbsp;&nbsp;NHKニュース",
    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ocjk4STlaSmwtQlhxOGpvRmVrcHlBQ2FHWWp5aEppRXFtc3BzX2lJd3NIOXBDSm5vOU5Ra2tfd1RQR2FmUWdSY1c5Ni1jYURPTXJjbEZxZ2FpeEVrY2c?oc=5",
    "also": [
-    "NHK ONE"
+    "NHK ONE",
+    "GNews/Япония"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16dW4yZFhyZDZTQkZXV1lXME9ZX0lNb1dBUVN0ODlsS3NSOFAxZk8xTW5pN28yMFhyTnFadURlNHFqQzByZmJEYmNoVzA3a0laNEZQLU1IcEVPcjRnWlE?oc=5"
+    "https://news.google.com/rss/articles/CBMiXkFVX3lxTE16dW4yZFhyZDZTQkZXV1lXME9ZX0lNb1dBUVN0ODlsS3NSOFAxZk8xTW5pN28yMFhyTnFadURlNHFqQzByZmJEYmNoVzA3a0laNEZQLU1IcEVPcjRnWlE?oc=5",
+    "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BMFRVWmpGbDFEdkxrMVN4OGVsM3RXLWU4X180Tnc5WUw2czRvdHVMdXZIUUhsOUdjc1ctQkhJUVFMcE93cEstMGJXTk9wallRQy1sVS1Qa3J1clFYUFZzV1g5Qmg?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -7608,6 +7941,27 @@
    "confirmed": true
   },
   {
+   "hash": "afb4eee9c9c9659669b0d1a0d5343286",
+   "published": "2026-10-24T12:00+05:00",
+   "time_tashkent": "12:00",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "France’s student protests are a stark reminder why I chose to study in Britain",
+   "summary": "France’s student protests are a stark reminder why I chose to study in Britain&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxlMXAwb1dFdXJUNEFaX29KOHUxeDZSOGJzRDV6bDRTSFFnNnJqU2pHdy1qMGhvbzg3cXdMWnRzZk1xQVd4UGNTdFMwYTFiLS1OdjJEQ1Ytb0lvZnNIQVZ2eHp6UnZvS3dHejgxcGJISFBOLU0tOHRmSnNwZnVRakUxM3NfbVZOajNvMGtYcWc1NVNRbHRJM2poa21FMTQt?oc=5",
+   "also": [
+    "NYT World"
+   ],
+   "also_links": [
+    "https://www.nytimes.com/article/france-student-protests-why.html"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "434f1d41775d36b675d6569e3043e80e",
    "published": "2026-10-24T12:00+05:00",
    "time_tashkent": "12:00",
@@ -7636,23 +7990,6 @@
    "title": "The tech ‘death spiral’ that could destroy the AI boom",
    "summary": "The tech ‘death spiral’ that could destroy the AI boom&nbsp;&nbsp;The Telegraph",
    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZE1SX285MGpiV25iNjZWRVFrQWpUSnNCUTZGUzZHS3dVaHNhMGVzeXVNSzBvUmhETXd4UUVJT25qaGVvdmV6dXJFYWp3M084ZV9WSEN4RldOMzZMRG9BUUpvRmF2T3dfTGs1S3JsQmhsNTl5OE1wSm1XX3JiWHo3SjN5dmUzYVpLb044MjEtZWFxRThzZWpiU2FkMXlBMVd5aXhIWHN3?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "afb4eee9c9c9659669b0d1a0d5343286",
-   "published": "2026-10-24T12:00+05:00",
-   "time_tashkent": "12:00",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "France’s student protests are a stark reminder why I chose to study in Britain",
-   "summary": "France’s student protests are a stark reminder why I chose to study in Britain&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbkxlMXAwb1dFdXJUNEFaX29KOHUxeDZSOGJzRDV6bDRTSFFnNnJqU2pHdy1qMGhvbzg3cXdMWnRzZk1xQVd4UGNTdFMwYTFiLS1OdjJEQ1Ytb0lvZnNIQVZ2eHp6UnZvS3dHejgxcGJISFBOLU0tOHRmSnNwZnVRakUxM3NfbVZOajNvMGtYcWc1NVNRbHRJM2poa21FMTQt?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7861,12 +8198,14 @@
    "summary": "Gold Price Today: $3,996 Into the Fed, Bull $4,150&nbsp;&nbsp;FinanceFeeds",
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWGxZSEFKUzU0M2ZtS0lpemdKZmo2dmExQ2ZER1NLZmhidzRDdVVZTHBqOC1TZmN5ZlpodnJMQXRPUnBDYUo1aU82bERzeW9RdTBQdFIyWWtuZzMwdWsxUTMxMHRmYk5GWHlRZE41UUhiVm9QZ0I0NEpuMEVKQlI1ckgtRHRPcVZidXZ6ZjFmUTE3LWtSbmlqMUJuLXhOUl80QmdlZTd4Yk91VEE3bDlaRUJMWDVSS0w5MGc?oc=5",
    "also": [
-    "GDELT/MARKETS"
+    "GDELT/MARKETS",
+    "Kitco"
    ],
    "also_links": [
-    "https://www.madhyamam.com/business/market/gold-rate-today-1565819"
+    "https://www.madhyamam.com/business/market/gold-rate-today-1565819",
+    "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVMHM0YXN3UkRUdlVZXzdrUjJmSHh5eFZ6Q0pSOVhYV1pLU0VzSXNhWGRVREpJbm9uX3pvSkZsMDNVRmg4a3JPYXlTY2N3OEF5Wm00MA?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -8250,10 +8589,14 @@
    "title": "Live Updates: War returns to Iran with Israel, US strikes",
    "summary": "Live Updates: War returns to Iran with Israel, US strikes&nbsp;&nbsp;Dawn",
    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wWU1XcTJjVkhydDJ6REhTa1RGZHp5eHJhYXVpQlRoNndhUjBOamFNWlRERkdMYk53LWc4LVhDbktnSXZ3RkJyWmtEMEgycjRFNmJN?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "The Jerusalem Post"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMif0FVX3lxTE85NlA1SmNrMExBRGxIeWlSS3U2a2NMU2t5dE9ZUGllc3RtVi1HY0V1ckx2eUtBck5wS1hOU2trZFVoR1RJQTdUMXNQcWlGOEJuaEN1NVk5MWRQWVIxVk1UZ29wLXA3SWZvcTFFRUVGQXljdXUyN01MX09DUUFZelk?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "5bf813bcad253ea4e631b3577d823e16",
@@ -8271,23 +8614,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "80b18fa88236d7a472290b6bc3966d1b",
-   "published": "2026-10-24T11:45+05:00",
-   "time_tashkent": "11:45",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Drones attack Russia's Tolyattikauchuk plant producing components for rocket fuel – media",
-   "summary": "Drones attack Russia's Tolyattikauchuk plant producing components for rocket fuel – media&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVFlQnBBLVZJUkZXcnFLam5xTjhVQ2ExemJ5VFBRbUI5WWpDS1BwWUJNVWdPX2xyYjBFTkJRRzBsVHBvYWFVOC1hZ2NEeUNVUUpSTkt4b2g5SzNpUmp0RDB3QjNWTDZ4UmR6QXJ1Q2lBcEl4dWRPZDdWZXpzcE12aVJKOUdLQU9KR29yZ3UzeEswZjlGMUF4eGtaSUZsaTVBYm9fanpqUG9zazd3XzVwTFhpVUlwLXdMdEdHRE1qX0hzWWpSbHg1RERJbDVkREhreUpmdkxDYw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "b0cba91df241d9647e0e40aaae1668c9",
@@ -8543,6 +8869,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "80b18fa88236d7a472290b6bc3966d1b",
+   "published": "2026-10-24T11:45+05:00",
+   "time_tashkent": "11:45",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Drones attack Russia's Tolyattikauchuk plant producing components for rocket fuel – media",
+   "summary": "Drones attack Russia's Tolyattikauchuk plant producing components for rocket fuel – media&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUVFlQnBBLVZJUkZXcnFLam5xTjhVQ2ExemJ5VFBRbUI5WWpDS1BwWUJNVWdPX2xyYjBFTkJRRzBsVHBvYWFVOC1hZ2NEeUNVUUpSTkt4b2g5SzNpUmp0RDB3QjNWTDZ4UmR6QXJ1Q2lBcEl4dWRPZDdWZXpzcE12aVJKOUdLQU9KR29yZ3UzeEswZjlGMUF4eGtaSUZsaTVBYm9fanpqUG9zazd3XzVwTFhpVUlwLXdMdEdHRE1qX0hzWWpSbHg1RERJbDVkREhreUpmdkxDYw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "deb0ff1d5f99f06f61a18c0ebbbd037d",
@@ -8823,15 +9166,17 @@
     "CNA",
     "GNews/СМИ Ближнего Востока 2",
     "The Straits Times",
-    "RTL Today"
+    "RTL Today",
+    "SportsDesk"
    ],
    "also_links": [
     "https://www.channelnewsasia.com/sport/marquez-wins-thrilling-australian-motogp-sprint-retake-championship-lead-6488526",
     "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcXUxbzk5NmZKSEZnOWEyQTlRendEUHlwZ05saDdiUVFsZ0YxT1ZQSU40UXNpdjlJYlh6cGFkbzdRakxNQThLV1VIaTJQRmUxc04xbExmbG54ZnhIUDEzNnBTVmh3cWEtR1RYQVdBQURVRHViWkNhQ1hrYTBIMFFGdG9WaTVrdURubFpIZDdGdHJXUVZZZHlsLUNIWjhPbFRNeEVURFZZYzN3WVE3X2F5SXptS2g?oc=5",
     "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQNXlrOFVKbHZ0b2tEaTAzbDB2ekZNYlVjbFVTTjVMN1lUR012b2QxN1VoalhyblNIVXdxdHpPdjc3NzRjUF8xNFlvMnRvUEFUSEVKV1c5SVY5U3JwQ1dWX1NOQkhpVHkwOF83X0RVcEU4Z2ZKZDRDWmhIN2s5b1JmX0xxdXU4ZmV0R0RCUDdhZkVlNUtfbHUtdVBLSmRDdUZRV1owcThqQzNDbnJSZGRfU3FROEs0UWNOa3VmUnpSOFpsM1F2M1lwQVVvaE1tbFd1aWY1VDd0akdHRnM?oc=5",
-    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaThtc25ZQzAxNDd1WkptcWkzTktyc2RJZjVSWkV4cGdiQXV4VzBFcnJFeXR4MVJwcTRQNl9FZm9aU21keUNXNW1yZlNaOTI0bW9EQS1mNWtwdHFZQ0xreXdrWXpfVFV2VnBZMGpyVHRxLUtlbFlNejl0eWZOSXB5bXJKT1dDWExpdVNYVG1Sdm1fckpnZHZianB3X29LUjZwOW5vTmJBaWdrU0ZQa3c?oc=5"
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQaThtc25ZQzAxNDd1WkptcWkzTktyc2RJZjVSWkV4cGdiQXV4VzBFcnJFeXR4MVJwcTRQNl9FZm9aU21keUNXNW1yZlNaOTI0bW9EQS1mNWtwdHFZQ0xreXdrWXpfVFV2VnBZMGpyVHRxLUtlbFlNejl0eWZOSXB5bXJKT1dDWExpdVNYVG1Sdm1fckpnZHZianB3X29LUjZwOW5vTmJBaWdrU0ZQa3c?oc=5",
+    "https://news.google.com/rss/articles/CBMiogFBVV95cUxON1lmaXp5SHpPeGpQZ0ZPOEJDTjg0WjNtTXdvWFhwTWczOFdKajVnTGQxVlhENjhmUDZua19PbmlISnNwX0dLVzZERHlMN240aG1vUzRqX3NWLVZUV0NTQTMzeTJyb0ZxSVowa281dWx2Wk1GQVNKVjVoYWo4YTBSLWZWRXptUEV1YV9qY2JkVWV6al9FWUZ5cG5LWHAyMHdQa1E?oc=5"
    ],
-   "sources_count": 5,
+   "sources_count": 6,
    "confirmed": true
   },
   {
@@ -9319,23 +9664,6 @@
    "confirmed": false
   },
   {
-   "hash": "0f7a06868b27520132c9b6d6e7b83544",
-   "published": "2026-10-24T11:24+05:00",
-   "time_tashkent": "11:24",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Air defense neutralizes 101 out of 126 drones used by Russia to attack Ukraine overnight",
-   "summary": "Air defense neutralizes 101 out of 126 drones used by Russia to attack Ukraine overnight&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWHl2ZWpHT1VlZ016aHlWN3hLQWVla09hRHB1VGVNUmV1U21vUzJSeHBMTnFxdDF3S1B1c29nNjkyNm01VW1lUEgtNkJWekRsTk0tV0N2NlR4b0taV0E3SzNZZ2o2eFdnb2NMUjVfUWRaY0JMVFRXNFpqWHFvRU8wSHl4UVFjQm1mMndQRmlZQXJOcFlSYmN0Wmg4WE1sMTBtOFJ0RTUtVnJUSHBhbUlsRXFPUEM4cmRjSjcxUGJ1OU53M3VSanRGNVBGX280dXN1a3NBYdIB2gFBVV95cUxQcm51cnVUUXFRYlRQcU1oLUFtbTc4TThjVWc3UC1vdkdhN19UcnZ6cTdGdmJpZ1l3M002anhZOTFiNXpPZ0t1UkRyVzN4OVZVWHhTd01xMkQ0Tm8wcFlGalBPOWF5TG9KLXJ4RFRXaUxjNWhLcFp2MUhXRTU2Y2pSczdrRFZGUktFOGpjclRjSE1OYjhYdjRFcGRpcFJYcHZ1NzFFRUhkSkJUSzJBOWppQVVLZi02VTZPUWxLanFUSEsyT0piQmpLRElrZE1UU3dtWVhJd2ZreVh2Zw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "fd3656f2330c7c0c231a0dc844022562",
    "published": "2026-10-24T11:24+05:00",
    "time_tashkent": "11:24",
@@ -9368,6 +9696,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "0f7a06868b27520132c9b6d6e7b83544",
+   "published": "2026-10-24T11:24+05:00",
+   "time_tashkent": "11:24",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Air defense neutralizes 101 out of 126 drones used by Russia to attack Ukraine overnight",
+   "summary": "Air defense neutralizes 101 out of 126 drones used by Russia to attack Ukraine overnight&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWHl2ZWpHT1VlZ016aHlWN3hLQWVla09hRHB1VGVNUmV1U21vUzJSeHBMTnFxdDF3S1B1c29nNjkyNm01VW1lUEgtNkJWekRsTk0tV0N2NlR4b0taV0E3SzNZZ2o2eFdnb2NMUjVfUWRaY0JMVFRXNFpqWHFvRU8wSHl4UVFjQm1mMndQRmlZQXJOcFlSYmN0Wmg4WE1sMTBtOFJ0RTUtVnJUSHBhbUlsRXFPUEM4cmRjSjcxUGJ1OU53M3VSanRGNVBGX280dXN1a3NBYdIB2gFBVV95cUxQcm51cnVUUXFRYlRQcU1oLUFtbTc4TThjVWc3UC1vdkdhN19UcnZ6cTdGdmJpZ1l3M002anhZOTFiNXpPZ0t1UkRyVzN4OVZVWHhTd01xMkQ0Tm8wcFlGalBPOWF5TG9KLXJ4RFRXaUxjNWhLcFp2MUhXRTU2Y2pSczdrRFZGUktFOGpjclRjSE1OYjhYdjRFcGRpcFJYcHZ1NzFFRUhkSkJUSzJBOWppQVVLZi02VTZPUWxLanFUSEsyT0piQmpLRElrZE1UU3dtWVhJd2ZreVh2Zw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "2994cf8c7824886114255ea245d41777",
@@ -9739,14 +10084,16 @@
    "also": [
     "CNBC World",
     "CNN",
-    "Vox"
+    "Vox",
+    "PBS"
    ],
    "also_links": [
     "https://www.cnbc.com/2026/10/23/alaska-senate-election-doj-lawsuit-sullivan.html",
     "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTEptd1ZOWUVzNVRfOVBOQ1VXRjVCbjVmT1F2OFFEMDZBeEhRY3R0RG1FLXNXOHUwaXJKNDVXVnlCVloxdE5rUkRvMy1YaWo4Ylg1RUp6dXdONkFtdnZkcDZUVHhGeFoybmNrLUJsWlpISGVqQ0R2a19pN0oybTNQeHhpbnZpUDh3VC1TZEYyRVpKaXVhemViYzl1dWhucWRoUFh2amZPaw?oc=5",
-    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDU5eWI5Q0MzQ2FGNkhaS21CVEVPdkNLbXoxUzZ4Y1NYUmc0STBTUHg3MVNJT2xHeTM1WXFZcy1Ea3BnVXFVSmh6OXVOOWZ1LWpMN0d0U0pCZHdHdEZjOEhsVUFlWVc5dHcwQ2R3dVhlWERJUF9faVRFaVI5akUyaWFtb3FiNGRGcEdpSlBTUF9xZzdhTFVuWTkxSEZITlBseG94eUNxbw?oc=5"
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMDU5eWI5Q0MzQ2FGNkhaS21CVEVPdkNLbXoxUzZ4Y1NYUmc0STBTUHg3MVNJT2xHeTM1WXFZcy1Ea3BnVXFVSmh6OXVOOWZ1LWpMN0d0U0pCZHdHdEZjOEhsVUFlWVc5dHcwQ2R3dVhlWERJUF9faVRFaVI5akUyaWFtb3FiNGRGcEdpSlBTUF9xZzdhTFVuWTkxSEZITlBseG94eUNxbw?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaUt5eGRnRGx0ZUFRN3d5UWc0ZFNtckpReUlZcTVtbUZNMGJfNUtmXy1yelpvUjFHSDhwVko0cUxUMTZsWmhzUnVPVmZxUFo3bWVwSnhJLWJWZ0xMNmY3XzRtM2JnU09aUzNsMDItbVpmR1hqLWtvWmxySTNsSmRhd0hsTU5kUTMzcWFXVHdBbGRnd3lFdjNzWjBPTERtRHEzMkdjVEJIaw?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -9896,23 +10243,6 @@
    "confirmed": false
   },
   {
-   "hash": "79b183c32f2614422a1b14b24e1a9c80",
-   "published": "2026-10-24T11:11+05:00",
-   "time_tashkent": "11:11",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "The Kyiv Independent",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022",
-   "summary": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmcwWmE2WkxuUDFZWHpvZFhwb3B0QVRPUUY3UTJIRG5oZWJsLXJ3R0lyVlR4NEJ5ODFFTENHLUdCN1dvLXlDTTZlRHB4VVFwdE9oTlE1MEo1REl0MzdGbjRfWVFteXM0dXpQamFjMkthMUFxeWxKUEg4SDFFaGVKQnYzNk9rSWhNQkNFSHg3MU5NUFhaZjd5VG96WUotUk9UQ1lyeWpVZw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "70bbb45984f086c0483cc8e593ce48b5",
    "published": "2026-10-24T11:11+05:00",
    "time_tashkent": "11:11",
@@ -9928,6 +10258,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "79b183c32f2614422a1b14b24e1a9c80",
+   "published": "2026-10-24T11:11+05:00",
+   "time_tashkent": "11:11",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "The Kyiv Independent",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022",
+   "summary": "General Staff: Russia has lost 1,576,600 troops in Ukraine since Feb. 24, 2022&nbsp;&nbsp;The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbmcwWmE2WkxuUDFZWHpvZFhwb3B0QVRPUUY3UTJIRG5oZWJsLXJ3R0lyVlR4NEJ5ODFFTENHLUdCN1dvLXlDTTZlRHB4VVFwdE9oTlE1MEo1REl0MzdGbjRfWVFteXM0dXpQamFjMkthMUFxeWxKUEg4SDFFaGVKQnYzNk9rSWhNQkNFSHg3MU5NUFhaZjd5VG96WUotUk9UQ1lyeWpVZw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "632da4fa2a551ee5e57a1c3bc0cde277",
@@ -10429,23 +10776,6 @@
    "confirmed": false
   },
   {
-   "hash": "80b192bbb5cc48315d9d1f4dbf087ad2",
-   "published": "2026-10-24T11:00+05:00",
-   "time_tashkent": "11:00",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "War update: 181 clashes on front lines over past day, heaviest fighting on Kostiantynivka axis",
-   "summary": "War update: 181 clashes on front lines over past day, heaviest fighting on Kostiantynivka axis&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTN0Wm5pbm1kSUdNcGpORERYWUdYOFZVM1hCcU56NWI0eUlvSzVscGNqYnRfOC15UldRRENZVDBDWnBsQTUzX3RLdWVzMkRaZ1pxNVYzek10VTJ1YzhGNjFlTkRLdnNIR0I2Y0NDXzVja1gxYVRfMDQ4U0paelphM0FjX1o0dnpXYUdWVFFwUE9kM2lkZVdxV1AySW8xS3pZRGdrSUQ3QnZMVFhqeGxJWmVYNVNIZEFzUXhZdWdtSWUzM0xGamZpNDhIQVlhNUVDWTdhT21CN0ZjSU80eURR0gHfAUFVX3lxTE1FM3RabmlubWRJR01wak5ERFhZR1g4VlUzWEJxTno1YjR5SW9LNWxwY2pidF84LXlSV1FEQ1lUMENacGxBNTNfdEt1ZXMyRFpnWnE1VjN6TXRVMnVjOEY2MWVOREt2c0hHQjZjQ0NfNWNrWDFhVF8wNDhTSlp6WmEzQWNfWjR2eldhR1ZUUXBQT2QzaWRlV3FXUDJJbzFLellEZ2tJRDdCdkxUWGp4bElaZVg1U0hkQXNReFl1Z21JZTMzTEZqZmk0OEhBWWE1RUNZN2FPbUI3RmNJTzR5RFE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "c0c601aba36e15f98422f24e56bf1ae1",
    "published": "2026-10-24T11:00+05:00",
    "time_tashkent": "11:00",
@@ -10600,23 +10930,6 @@
    "confirmed": false
   },
   {
-   "hash": "0f148066bcff15eb142ff018366b644c",
-   "published": "2026-10-24T11:00+05:00",
-   "time_tashkent": "11:00",
-   "region": "ЦА",
-   "type": "smi",
-   "source": "Daryo",
-   "feed": "GNews/СМИ Центральной Азии",
-   "paywall": false,
-   "title": "Uzbekistan to offer 50% museum and heritage site discounts to seniors in November",
-   "summary": "Uzbekistan to offer 50% museum and heritage site discounts to seniors in November&nbsp;&nbsp;Daryo",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnRUc0FZZW04UUxkVkp6am1WeXpjMzg0YmRZQnRHU0tQakp0aVk5X2J2cU14VXcxaW9TWWN0ZzdxU1gzTlBzQ3JWYTFqcENwOWtNUlNZSURXT2dmUkM1TUw0LXNqTkszeU9YblZxR2h6ZmdZOFJPVWV0YVNpWElOT2FMZlhVRHMxeGRyc2RaaVdhWW91ZnU0UGtRUnluRzUwMG1pMVRLaHNTaEVqOXZLbENR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "45a0629c5c71a6ef24d1a0489fbdffd1",
    "published": "2026-10-24T11:00+05:00",
    "time_tashkent": "11:00",
@@ -10680,6 +10993,40 @@
    "confirmed": false
   },
   {
+   "hash": "0f148066bcff15eb142ff018366b644c",
+   "published": "2026-10-24T11:00+05:00",
+   "time_tashkent": "11:00",
+   "region": "ЦА",
+   "type": "smi",
+   "source": "Daryo",
+   "feed": "GNews/СМИ Центральной Азии",
+   "paywall": false,
+   "title": "Uzbekistan to offer 50% museum and heritage site discounts to seniors in November",
+   "summary": "Uzbekistan to offer 50% museum and heritage site discounts to seniors in November&nbsp;&nbsp;Daryo",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdnRUc0FZZW04UUxkVkp6am1WeXpjMzg0YmRZQnRHU0tQakp0aVk5X2J2cU14VXcxaW9TWWN0ZzdxU1gzTlBzQ3JWYTFqcENwOWtNUlNZSURXT2dmUkM1TUw0LXNqTkszeU9YblZxR2h6ZmdZOFJPVWV0YVNpWElOT2FMZlhVRHMxeGRyc2RaaVdhWW91ZnU0UGtRUnluRzUwMG1pMVRLaHNTaEVqOXZLbENR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "80b192bbb5cc48315d9d1f4dbf087ad2",
+   "published": "2026-10-24T11:00+05:00",
+   "time_tashkent": "11:00",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "War update: 181 clashes on front lines over past day, heaviest fighting on Kostiantynivka axis",
+   "summary": "War update: 181 clashes on front lines over past day, heaviest fighting on Kostiantynivka axis&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRTN0Wm5pbm1kSUdNcGpORERYWUdYOFZVM1hCcU56NWI0eUlvSzVscGNqYnRfOC15UldRRENZVDBDWnBsQTUzX3RLdWVzMkRaZ1pxNVYzek10VTJ1YzhGNjFlTkRLdnNIR0I2Y0NDXzVja1gxYVRfMDQ4U0paelphM0FjX1o0dnpXYUdWVFFwUE9kM2lkZVdxV1AySW8xS3pZRGdrSUQ3QnZMVFhqeGxJWmVYNVNIZEFzUXhZdWdtSWUzM0xGamZpNDhIQVlhNUVDWTdhT21CN0ZjSU80eURR0gHfAUFVX3lxTE1FM3RabmlubWRJR01wak5ERFhZR1g4VlUzWEJxTno1YjR5SW9LNWxwY2pidF84LXlSV1FEQ1lUMENacGxBNTNfdEt1ZXMyRFpnWnE1VjN6TXRVMnVjOEY2MWVOREt2c0hHQjZjQ0NfNWNrWDFhVF8wNDhTSlp6WmEzQWNfWjR2eldhR1ZUUXBQT2QzaWRlV3FXUDJJbzFLellEZ2tJRDdCdkxUWGp4bElaZVg1U0hkQXNReFl1Z21JZTMzTEZqZmk0OEhBWWE1RUNZN2FPbUI3RmNJTzR5RFE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "8407ef37761f8fa35e05b6f789c65ba1",
    "published": "2026-10-24T10:58+05:00",
    "time_tashkent": "10:58",
@@ -10695,23 +11042,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "b8165622c84f037f962b0f45be7e6396",
-   "published": "2026-10-24T10:57+05:00",
-   "time_tashkent": "10:57",
-   "region": "АФР",
-   "type": "ofic",
-   "source": "GNews/Африка: власть",
-   "feed": "GNews/Африка: власть",
-   "paywall": false,
-   "title": "The requested page \"/403.html?page=\" could not be found. - budget.gouv.ml",
-   "summary": "The requested page \"/403.html?page=\" could not be found.&nbsp;&nbsp;budget.gouv.ml",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5QVJzV1U1RWhfdzhhcG5adjlVRElIWWRxdTNPd1ZVQkVVc3ZOLTh1b2djcVRTalByV3dHNjVFaWMyYXdGVlhnOWdjSUNNQQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "c9a135586f594f320268ea75081c3d0e",
@@ -10735,21 +11065,21 @@
    "confirmed": true
   },
   {
-   "hash": "9d55e8571b753b520dc76f0babe67351",
+   "hash": "b8165622c84f037f962b0f45be7e6396",
    "published": "2026-10-24T10:57+05:00",
    "time_tashkent": "10:57",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Japan Wire by Kyodo News",
-   "feed": "GNews/Япония",
+   "region": "АФР",
+   "type": "ofic",
+   "source": "GNews/Африка: власть",
+   "feed": "GNews/Африка: власть",
    "paywall": false,
-   "title": "BREAKING NEWS: GMO confirms fraudulent transactions using info from unauthorized access",
-   "summary": "BREAKING NEWS: GMO confirms fraudulent transactions using info from unauthorized access&nbsp;&nbsp;Japan Wire by Kyodo News",
-   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEV0pzTnlBdVc1a0xaNzZTOUJIZnN4OFZ2ZkREVDdkVDBCWlhJaVMtckJDWmI2aDVTU0VlbmFKWGpPU241TE5iMFlnYnRhS3A2UjZvVHRITUF1Zw?oc=5",
+   "title": "The requested page \"/403.html?page=\" could not be found. - budget.gouv.ml",
+   "summary": "The requested page \"/403.html?page=\" could not be found.&nbsp;&nbsp;budget.gouv.ml",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA5QVJzV1U1RWhfdzhhcG5adjlVRElIWWRxdTNPd1ZVQkVVc3ZOLTh1b2djcVRTalByV3dHNjVFaWMyYXdGVlhnOWdjSUNNQQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": false
+   "confirmed": true
   },
   {
    "hash": "fd7643df5d9e737d6f16463581b55d86",
@@ -10763,6 +11093,27 @@
    "title": "Pakistan denounces ‘heinous’ church attack in Jordan, reiterates condemnation of terrorism",
    "summary": "Pakistan denounces ‘heinous’ church attack in Jordan, reiterates condemnation of terrorism&nbsp;&nbsp;Dawn",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WU0ZHbEJfcnVqMms2Z1pjdjV5YVI0OVVfbE9leU4xVkViSk9wYzdkN040WFRWa1FsQXRHUXpUYVZyLWNYRUZEcw?oc=5",
+   "also": [
+    "PressTV"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPOWVxZjltb1BzUVU0Ukd1blZrUTBhZkIydzNpYXNPRHZwQ1UwUndQdjhPLTZyLUUxSEpEQjZVS09GeURBMDk4T2lEcGpZcFdPTkpWZjU4SERsbWhGRFF5cjhPV0x1dFZWZGJWeF8zQV90MEQ0elh1SU9hQ0ZOLW1lT09UaGY3bGhSTDdRMmFTOHZ4V1pIeWJFWnlDRExNNk9TOGlLUXE5SnNQWHdkWG5kQjRiWllJdXhubEhESHdYNkowY0VoUDFHRWNMOW9ybG5tcW5IVm9Yaw?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "9d55e8571b753b520dc76f0babe67351",
+   "published": "2026-10-24T10:57+05:00",
+   "time_tashkent": "10:57",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Japan Wire by Kyodo News",
+   "feed": "GNews/Япония",
+   "paywall": false,
+   "title": "BREAKING NEWS: GMO confirms fraudulent transactions using info from unauthorized access",
+   "summary": "BREAKING NEWS: GMO confirms fraudulent transactions using info from unauthorized access&nbsp;&nbsp;Japan Wire by Kyodo News",
+   "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEV0pzTnlBdVc1a0xaNzZTOUJIZnN4OFZ2ZkREVDdkVDBCWlhJaVMtckJDWmI2aDVTU0VlbmFKWGpPU241TE5iMFlnYnRhS3A2UjZvVHRITUF1Zw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -11065,23 +11416,6 @@
    "confirmed": true
   },
   {
-   "hash": "d0afd5562fdf07d03512834c1039a673",
-   "published": "2026-10-24T10:46+05:00",
-   "time_tashkent": "10:46",
-   "region": "ЦА",
-   "type": "smi",
-   "source": "GNews/СМИ Центральной Азии",
-   "feed": "GNews/СМИ Центральной Азии",
-   "paywall": false,
-   "title": "Kyrgyzstan’s Finance Ministry granted new budget oversight powers - 24.KG",
-   "summary": "Kyrgyzstan’s Finance Ministry granted new budget oversight powers&nbsp;&nbsp;24.KG",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1ZMVWdRbF9YVWJCTW5aUUVPb3JfMkNDUFg2VGx0Sy1aazFKNFJQNXBVajZYMk16QlRmemNIY2pWSFB6VHJJaXp0bzNBcTh3TG1OQWFWTzdVamRCSE1jeVN3V2VCMHV1VUc0T0hFVmZNRXVNdk9nS083MW52M0lHYVRZTUlPLWEycXh5N21tM094Y00?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "4006be57f13d28362ef78ee7e8c7d5a9",
    "published": "2026-10-24T10:46+05:00",
    "time_tashkent": "10:46",
@@ -11093,6 +11427,23 @@
    "title": "Bae faces mandatory military service in South Korea after losing court battle - The Globe and Mail",
    "summary": "Bae faces mandatory military service in South Korea after losing court battle - The Globe and Mail&nbsp;&nbsp;The Globe and Mail",
    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQRGc4ajdubnhyaC1CTUR5OU9yQkZHYWdOR0lBbS1zcUNhc3Z0OHY0TFptZUxwOHZQbW4tUF9zRWNMWW5lZHJ4WkhHS21aMEFOXzg0dnRCTnRHZGpkUFJ5MEV0ejVQdF92VWozWk1PbTlXTjByNEEzbFVnWjBwUXpsMjNOeUxzbG9mMFJ4RldiZjN6cXpJX3dyTi1NY3VvWVB6eGtOX2cySURwSHZKTDFfalFOdGFMMW55V1BJTHRIdVR2dlRad3VfaVFZVXNMd2duSFE4cTZJa0tHcXpIbDZpOGpwRndUeE9STnc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d0afd5562fdf07d03512834c1039a673",
+   "published": "2026-10-24T10:46+05:00",
+   "time_tashkent": "10:46",
+   "region": "ЦА",
+   "type": "smi",
+   "source": "GNews/СМИ Центральной Азии",
+   "feed": "GNews/СМИ Центральной Азии",
+   "paywall": false,
+   "title": "Kyrgyzstan’s Finance Ministry granted new budget oversight powers - 24.KG",
+   "summary": "Kyrgyzstan’s Finance Ministry granted new budget oversight powers&nbsp;&nbsp;24.KG",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1ZMVWdRbF9YVWJCTW5aUUVPb3JfMkNDUFg2VGx0Sy1aazFKNFJQNXBVajZYMk16QlRmemNIY2pWSFB6VHJJaXp0bzNBcTh3TG1OQWFWTzdVamRCSE1jeVN3V2VCMHV1VUc0T0hFVmZNRXVNdk9nS083MW52M0lHYVRZTUlPLWEycXh5N21tM094Y00?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -11160,91 +11511,6 @@
    "title": "Marché : Malmené par le roi dollar ( avec une chute de 4 , 5 % depuis le début de lannée ), leuro peut - il prendre sa revanche face au billet vert ?",
    "summary": "",
    "link": "https://www.tradingsat.com/actualites/marches-financiers/malmene-par-le-roi-dollar-avec-une-chute-de-45-depuis-le-debut-de-l-annee-l-euro-peut-il-prendre-sa-revanche-face-au-billet-vert-1172018.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "251c2e12614705c2b27aa94342c1340e",
-   "published": "2026-10-24T10:45+05:00",
-   "time_tashkent": "10:45",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/MARKETS",
-   "feed": "GDELT/MARKETS",
-   "paywall": false,
-   "title": "Em debate sem vencedor claro , Flávio disputa título de gastador com Lula",
-   "summary": "",
-   "link": "https://www.estadao.com.br/politica/diogo-schelp/em-debate-sem-vencedor-claro-flavio-disputa-titulo-de-gastador-com-lula/",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "5ed03f252bf375f1c2f889a8768c346c",
-   "published": "2026-10-24T10:45+05:00",
-   "time_tashkent": "10:45",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/HOTSPOTS",
-   "feed": "GDELT/HOTSPOTS",
-   "paywall": false,
-   "title": "Gaza : la neutralité suisse accusée de partialité",
-   "summary": "",
-   "link": "https://www.tdg.ch/gaza-la-neutralite-suisse-accusee-de-partialite-955156091360",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "fb20d90222c55581822d456bbcf35cca",
-   "published": "2026-10-24T10:45+05:00",
-   "time_tashkent": "10:45",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/HOTSPOTS",
-   "feed": "GDELT/HOTSPOTS",
-   "paywall": false,
-   "title": "Huit pays de la région et dEurope mettent en garde contre de nouvelles attaques contre lIran et demandent la réouverture du détroit dOrmuz - Xinhua",
-   "summary": "",
-   "link": "http://french.xinhuanet.com/20261024/87724719b0674e399c4513ed5162d06f/c.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "b288f74583254c866822901ce01ca5a3",
-   "published": "2026-10-24T10:45+05:00",
-   "time_tashkent": "10:45",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/GEOPOLITICS",
-   "feed": "GDELT/GEOPOLITICS",
-   "paywall": false,
-   "title": "La Casa Bianca | Melania Trump ha ottenuto la tregua a Oleshky Mosca conferma | Sarà dal 27 ottobre",
-   "summary": "",
-   "link": "https://www.zazoom.it/2026-10-24/la-casa-bianca-melania-trump-ha-ottenuto-la-tregua-a-oleshky-mosca-conferma-sara-dal-27-ottobre-putin-e-la-strategia-della-sofferenza-2/19841100/",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "8aac80be40cffd78915b15d734927d1a",
-   "published": "2026-10-24T10:45+05:00",
-   "time_tashkent": "10:45",
-   "region": "МИР",
-   "type": "smi",
-   "source": "GDELT/GEOPOLITICS",
-   "feed": "GDELT/GEOPOLITICS",
-   "paywall": false,
-   "title": "First tanker of Russian diesel sets sail for the U . S . in Trump controversial deal with Putin – Butler Eagle",
-   "summary": "",
-   "link": "https://www.butlereagle.com/20261023/first-tanker-of-russian-diesel-sets-sail-for-the-u-s-in-trumps-controversial-deal-with-putin/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -11416,23 +11682,6 @@
    "confirmed": false
   },
   {
-   "hash": "749ed8cc1d51f1dc7e677ff6ca86876c",
-   "published": "2026-10-24T10:41+05:00",
-   "time_tashkent": "10:41",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Partisans destroy communications tower in Russia's Belgorod region",
-   "summary": "Partisans destroy communications tower in Russia's Belgorod region&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVJMb3lmbUZqQ2N6Z2s5RmlNV1ZlTmhnUXd2SktKMHdPRE9yRHNmUVdGRTdDYWlGLWszLTdReHFUYmUtaERKd18wNzZZRFlwMVN3TUw4b2hkUjUtbjNrRE12Y0J1a1RVQkNzOWVtdWRKTnNwX0RNQWVNS2s4WEZwZXdyRFpJWmN1bmxJUmEydjFOUmQ1TWxCNGd0Z3NhQUluVWFHcnFhd0FaZ1p5U0ZyRno5OTlVVV9KUjBR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "1ec152a5f569f4ae015ad26cda8dd1f1",
    "published": "2026-10-24T10:41+05:00",
    "time_tashkent": "10:41",
@@ -11448,6 +11697,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "749ed8cc1d51f1dc7e677ff6ca86876c",
+   "published": "2026-10-24T10:41+05:00",
+   "time_tashkent": "10:41",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Partisans destroy communications tower in Russia's Belgorod region",
+   "summary": "Partisans destroy communications tower in Russia's Belgorod region&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTVJMb3lmbUZqQ2N6Z2s5RmlNV1ZlTmhnUXd2SktKMHdPRE9yRHNmUVdGRTdDYWlGLWszLTdReHFUYmUtaERKd18wNzZZRFlwMVN3TUw4b2hkUjUtbjNrRE12Y0J1a1RVQkNzOWVtdWRKTnNwX0RNQWVNS2s4WEZwZXdyRFpJWmN1bmxJUmEydjFOUmQ1TWxCNGd0Z3NhQUluVWFHcnFhd0FaZ1p5U0ZyRno5OTlVVV9KUjBR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "ac72d8b1a7efb7aeabcf8526d6adc523",
@@ -11957,23 +12223,6 @@
    "confirmed": false
   },
   {
-   "hash": "7aadceedcb94e00798ce3255ef814ac3",
-   "published": "2026-10-24T10:23+05:00",
-   "time_tashkent": "10:23",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Russian army loses 1,980 troops, two air defense systems in Ukraine war over past day",
-   "summary": "Russian army loses 1,980 troops, two air defense systems in Ukraine war over past day&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTBhdWlVc1JqSWNTVmxFQVBTY2xvSWdQTmZPZmwzQ3RadjBBc1M2QmZVTndIdjJQZVNsc0tQaUthbE1pT0xnUWctX1hvQTNFRi1XejZQQ3d5b0RRZk9hUmY0NThqVTVvRkFSQkwyOEQ1ZFNXR0NvZmhvQ0c5N0VTZVdqUDIyWElHSXVERlBDWFVqQXNOSkI5ZzZSbzlDVmI2WGNNdlZVd3Q5NDFvck1wUjctTGhUYkdLV1ZOSmJnbWNWZ3NtOWZ6SXZiekJPUdIB0wFBVV95cUxNaDFnenJIR0VLZ09Hel9zQkhsTDl1bkNBN2pFNFBzcjBlOE5CVzlGOHpCQjJ3NGVJWHZ2OEpoTVdKOC1KTVBLZVJSZVcyY0lPNHhYdkNubHRLMFhIRS1RNGdONnNPT0ZmRUNqUlk0c183aXNybGhxYUNZeGU1cklLckRRQndxYW1PSTcwNGhSWlpHVGhEMHRKczJFa3FlSFJrMnlRbk05Y2NlUDZLaFgzRTlzSnpJWUdSV2ZSc1F4cW9uUFRRc0h5NThuMDU3TGFhUlBv?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "6498c7e46bac67374217cd30114bf992",
    "published": "2026-10-24T10:23+05:00",
    "time_tashkent": "10:23",
@@ -11989,6 +12238,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "7aadceedcb94e00798ce3255ef814ac3",
+   "published": "2026-10-24T10:23+05:00",
+   "time_tashkent": "10:23",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Russian army loses 1,980 troops, two air defense systems in Ukraine war over past day",
+   "summary": "Russian army loses 1,980 troops, two air defense systems in Ukraine war over past day&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeTBhdWlVc1JqSWNTVmxFQVBTY2xvSWdQTmZPZmwzQ3RadjBBc1M2QmZVTndIdjJQZVNsc0tQaUthbE1pT0xnUWctX1hvQTNFRi1XejZQQ3d5b0RRZk9hUmY0NThqVTVvRkFSQkwyOEQ1ZFNXR0NvZmhvQ0c5N0VTZVdqUDIyWElHSXVERlBDWFVqQXNOSkI5ZzZSbzlDVmI2WGNNdlZVd3Q5NDFvck1wUjctTGhUYkdLV1ZOSmJnbWNWZ3NtOWZ6SXZiekJPUdIB0wFBVV95cUxNaDFnenJIR0VLZ09Hel9zQkhsTDl1bkNBN2pFNFBzcjBlOE5CVzlGOHpCQjJ3NGVJWHZ2OEpoTVdKOC1KTVBLZVJSZVcyY0lPNHhYdkNubHRLMFhIRS1RNGdONnNPT0ZmRUNqUlk0c183aXNybGhxYUNZeGU1cklLckRRQndxYW1PSTcwNGhSWlpHVGhEMHRKczJFa3FlSFJrMnlRbk05Y2NlUDZLaFgzRTlzSnpJWUdSV2ZSc1F4cW9uUFRRc0h5NThuMDU3TGFhUlBv?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "dbaf068d5470fdb7e6dbea57b9d74e5c",
@@ -12059,23 +12325,6 @@
    "confirmed": false
   },
   {
-   "hash": "fc5341259f1b697dff4d502c2c391af3",
-   "published": "2026-10-24T10:20+05:00",
-   "time_tashkent": "10:20",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Indian Express",
-   "feed": "GNews/Афганистан, Пакистан, Индия",
-   "paywall": false,
-   "title": "After ITBP chief’s Arunachal remarks, Congress asks PM Modi to ‘come clean’",
-   "summary": "After ITBP chief’s Arunachal remarks, Congress asks PM Modi to ‘come clean’&nbsp;&nbsp;The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZS1LcmFMVWVyM1NQSm8zWHJBLU5EU1FoRzFUT1B5ZEsxTEN4bWpnZWl6UDZ4UVZndml5QkpyUk1aNnVIY0xIMXpuTGx2STBjUktfMzFDbmswMUN6cGxkZUxpbDI5V3g1cDNlY0pwSDNYY3FUZFdNR1VCdHhxZUhNQ2lsNDBsa3Framc0d2lEMDJId1dvbkR3ZDVFSWI5OWI5dXZmQmUxcjdvd9IBsAFBVV95cUxPVWFULU1VRjZmMHZma0p1eml3bXJ2ekgzaHd5OXNNV0U4RTZpb0pORG5PdHJ3UzVRRmhLbHFXU3FKeFo3N0tGQlduQ0Z6aEk1eXVCTlVkUmpZdkFhVFhaTlc3REVEVHJzUmQ1RE9oU3lyUDZhZ0pnSUJzMFZuOGlSdko2aFlqOFZEUEhZWWsxa01tUm56dGdWZUtyNEMxUzZEcGZ5UFBveE1rZEJLWjBMWQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "893f09336dcbb2edab1146370ab38822",
    "published": "2026-10-24T10:19+05:00",
    "time_tashkent": "10:19",
@@ -12108,23 +12357,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
-  },
-  {
-   "hash": "211ea4676b989b6b79d97d5b9443306b",
-   "published": "2026-10-24T10:18+05:00",
-   "time_tashkent": "10:18",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Japan Times",
-   "feed": "GNews/Япония",
-   "paywall": false,
-   "title": "Brewers hold on in ninth to edge Rays in Game 1 of World Series",
-   "summary": "Brewers hold on in ninth to edge Rays in Game 1 of World Series&nbsp;&nbsp;The Japan Times",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdzJaOWlrUTlSa1RocWFmdXRmR1MtYVJ0aXBmdFJjSEYwM25na2tHeDdTd0NFZHJ6cmV1bDFBRW9mdUpramNDeG1rOV9TZVB2dUpTVHpsRVF5eXNpRU1pTGJRdUZ2UjJpaER2NUdRYTFWWHJSSFdBZ0FSNnk0ZVFUQXVMZHQyU0lLNzlFMm1YUFByT2JJYUYw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "26433e8a3204d397813b67a512647bdd",
@@ -12180,23 +12412,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
-  },
-  {
-   "hash": "599bcad18ddf47bce518e60377ca00e9",
-   "published": "2026-10-24T10:14+05:00",
-   "time_tashkent": "10:14",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Indian Express",
-   "feed": "GNews/Афганистан, Пакистан, Индия",
-   "paywall": false,
-   "title": "Mumbai Rapido rider arrested over Jaish-e-Mohammed links, Masood Azhar clips",
-   "summary": "Mumbai Rapido rider arrested over Jaish-e-Mohammed links, Masood Azhar clips&nbsp;&nbsp;The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQRlBId3p4MEt1bHFWOW1JaDI1dXNYUnpzUG1ZUl9kSDJMN3V0eFE0eUFsbWVhMkVLckFUSi1VbTd6NVFnTWlrN2tPX0RNSFh6THl6WkxnMkZ3VTRlbC1CS25yendOcEQxNUV6UVhucm1wckNRZllJTnpEN3dPMGhWOS04SUdtd05abG5RcHpoaUhTdzB0cTRkc0V3WlFuaGJoMFFCRjA3cVYtenlaa0hvT2VOYnJTbGI1RXAyUlpsQkhSdEZxVDdiR2NEbDFYTk5CYkdFRVdsTkxVZWxIeHdwd2ZtQlhnbU5MclZwZDgtdjgzQdIB-AFBVV95cUxOT0NGLTh2Tm1qYlVobHJFVmhrQ2JESlJrTWMtYnA0WVFNMkh4cVhsSWM0eElGTk50b1RyT01NWWIwaG5QaFpQRGxJSDMxWVlKTHd0bVNVM3BWUGd0TDE4alFyeHM1MVBZUHdoTk9ZRUxNZUVIQ3lqWlMzZHZQOFA4TVRPdS1TYldlN0lQS3ljVHYtMFoyVUV6eWJkRjZKLW1rcnRvQ0NVak1welY3LUVjWlRkU2ktMmtNRnFmdzZjYjVUVk1GLTRJZ2FralQtWTlMUFByaFpFbFZyUU5vQWU5MHJPNEdyNUdOV1NuN09GOVJDRlJiS2VxRw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "5ea22b1d826fcc2d86dd699e20c2006c",
@@ -12688,23 +12903,6 @@
    "confirmed": false
   },
   {
-   "hash": "80ca42ce5f89cbbe318de3b8cbbd2091",
-   "published": "2026-10-24T10:00+05:00",
-   "time_tashkent": "10:00",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Trump floats possibility of imposing 200% tariffs on Ukraine and Russia to force peace",
-   "summary": "Trump floats possibility of imposing 200% tariffs on Ukraine and Russia to force peace&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZldVYzdTVmxBSjM1c0VIaVRtNDQ5WTh4TVo3Snp1anc3aXYxMHJ2WkFsSXVVMzMxZVFZX2NRcG5scEJ4QWNyS3ByT1FPSEgxbWk5RkhlMHpmMzJXcWZ2MHhZeG9zcklaSHF3TFFtaGpuTXZUUXZUQ2pTS3BfVHpiSy1lWW1wbjJrVTdXM3JJZ290S01iNVMtR3RNQm5BOG9DbE8xWUJwRkhsUUNQTHFlSU1PNldvbm1WNlBFWEtxbGIzMTZJT014bm1oaDBPTXdiUzJ5TlY4d9IB3AFBVV95cUxOVE1tdktERzEtWTl0M25DelRMUklMS1hMNHdyUW9uNE9wNTdkbENZSmo1SEl3S0QtM1Zuc3F4WmtqUlFhd0ZyLTJtemRZRVVNRFVUVm16b0lOdDR6aUNBcWJIRElBRGZNa2dBd3pjYURMTWVmVHQ4VHczaGJqbXN1cDMwUnhRV2FnaVMzWkdnejRyYUtXVkhhNDN0TW1jVGRCSGJjbDlkb0J1Z3JoV0hGVXZHaHNWWGh3Z3VVZnQzNjF2Zm9iTkJRcXF5UEpqRGNFZC1RRE9XaVVPUV9u?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "43b62e3d28e06af6473e301a7df2d845",
    "published": "2026-10-24T10:00+05:00",
    "time_tashkent": "10:00",
@@ -12861,6 +13059,23 @@
     "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1Q2Vkh6bXhMMGQ5dk14QWc1NlNSWnhscXN5TmRfb2toTU9QUWZ5UWFGSnFnNnJnNUlZSi1DWE4xX1BUUkpqdWtGbE1IUi1QTmpFNHVMU3MyYTNTZk5sWEZmYUo2a2tfLVdObndBcW5oalVtV3NZTmZ0NkplQWNuTjVVLWxhRzU0RUVtNk5ERG1oU1VPV0Rz?oc=5"
    ],
    "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "80ca42ce5f89cbbe318de3b8cbbd2091",
+   "published": "2026-10-24T10:00+05:00",
+   "time_tashkent": "10:00",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Trump floats possibility of imposing 200% tariffs on Ukraine and Russia to force peace",
+   "summary": "Trump floats possibility of imposing 200% tariffs on Ukraine and Russia to force peace&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZldVYzdTVmxBSjM1c0VIaVRtNDQ5WTh4TVo3Snp1anc3aXYxMHJ2WkFsSXVVMzMxZVFZX2NRcG5scEJ4QWNyS3ByT1FPSEgxbWk5RkhlMHpmMzJXcWZ2MHhZeG9zcklaSHF3TFFtaGpuTXZUUXZUQ2pTS3BfVHpiSy1lWW1wbjJrVTdXM3JJZ290S01iNVMtR3RNQm5BOG9DbE8xWUJwRkhsUUNQTHFlSU1PNldvbm1WNlBFWEtxbGIzMTZJT014bm1oaDBPTXdiUzJ5TlY4d9IB3AFBVV95cUxOVE1tdktERzEtWTl0M25DelRMUklMS1hMNHdyUW9uNE9wNTdkbENZSmo1SEl3S0QtM1Zuc3F4WmtqUlFhd0ZyLTJtemRZRVVNRFVUVm16b0lOdDR6aUNBcWJIRElBRGZNa2dBd3pjYURMTWVmVHQ4VHczaGJqbXN1cDMwUnhRV2FnaVMzWkdnejRyYUtXVkhhNDN0TW1jVGRCSGJjbDlkb0J1Z3JoV0hGVXZHaHNWWGh3Z3VVZnQzNjF2Zm9iTkJRcXF5UEpqRGNFZC1RRE9XaVVPUV9u?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -13109,6 +13324,40 @@
    "confirmed": true
   },
   {
+   "hash": "a2c2e4b1bc55e6a1019cae9199755add",
+   "published": "2026-10-24T09:41+05:00",
+   "time_tashkent": "09:41",
+   "region": "АТР",
+   "type": "ofic",
+   "source": "Press Information Bureau",
+   "feed": "GNews/Власть Афганистана, Пакистана, Индии",
+   "paywall": false,
+   "title": "Rewilding the Great Indian Bustard - A 'Jumpstart’",
+   "summary": "Rewilding the Great Indian Bustard - A 'Jumpstart’&nbsp;&nbsp;Press Information Bureau",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iU0RucnotM2FVY2RaLUtESmZXQWtiZmFzWHJuOGxvYkw4b0xHVkFPb2p5WkMzWm5adUNyVnFKdS1Cc0ZCZ0d2OVNTRjBWZ0hDelRheWFLTDJfeDRrdThnSFpVYzBaWXAzYXRkRlY1TG9BQnRJTUM0Y0NfOA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "8aa767d67732cb6f9a968872a6fcd62f",
+   "published": "2026-10-24T09:41+05:00",
+   "time_tashkent": "09:41",
+   "region": "АТР",
+   "type": "ofic",
+   "source": "Press Information Bureau",
+   "feed": "GNews/Власть Афганистана, Пакистана, Индии",
+   "paywall": false,
+   "title": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer",
+   "summary": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer&nbsp;&nbsp;Press Information Bureau",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZkFKUDdDdFRZa1FfUllxbklsVW1ScUZzaXBNY0VxRFFWYWJKNlE1Zk9RNHpET2d2YkJKUVhPaVJEVDNLWTNRdDRfN2p2Z3BNWVRfdmU1YlBmckJXWXFQLWQ3YTRrZTZ2eTVMTnhuRVdOdVVYOGhOazBDejU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "6dbf0227fb79a32c9f925ef0bb38e36d",
    "published": "2026-10-24T09:41+05:00",
    "time_tashkent": "09:41",
@@ -13144,40 +13393,6 @@
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxOajZsYURuTXZYUlZCZXh6V0VZZlBZemEwTGZmN2l1WXE3cFU5V0xUU0xpTENkd0FpQnNWRkdpeWl5ay1STmdiTVlVcFQ3LXgwdkFTNjl4eTJQQkpKbkxNMkF1Vm1SM0Y0NmREaWZVN1BYUnNRblBfZi0xWW1aczhraUtR?oc=5"
    ],
    "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "a2c2e4b1bc55e6a1019cae9199755add",
-   "published": "2026-10-24T09:41+05:00",
-   "time_tashkent": "09:41",
-   "region": "АТР",
-   "type": "ofic",
-   "source": "Press Information Bureau",
-   "feed": "GNews/Власть Афганистана, Пакистана, Индии",
-   "paywall": false,
-   "title": "Rewilding the Great Indian Bustard - A 'Jumpstart’",
-   "summary": "Rewilding the Great Indian Bustard - A 'Jumpstart’&nbsp;&nbsp;Press Information Bureau",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iU0RucnotM2FVY2RaLUtESmZXQWtiZmFzWHJuOGxvYkw4b0xHVkFPb2p5WkMzWm5adUNyVnFKdS1Cc0ZCZ0d2OVNTRjBWZ0hDelRheWFLTDJfeDRrdThnSFpVYzBaWXAzYXRkRlY1TG9BQnRJTUM0Y0NfOA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "8aa767d67732cb6f9a968872a6fcd62f",
-   "published": "2026-10-24T09:41+05:00",
-   "time_tashkent": "09:41",
-   "region": "АТР",
-   "type": "ofic",
-   "source": "Press Information Bureau",
-   "feed": "GNews/Власть Афганистана, Пакистана, Индии",
-   "paywall": false,
-   "title": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer",
-   "summary": "In culmination of 10 years of dedicated efforts, Union Environment Minister and CM (Rajasthan) initiate the process for release of captive-bred Great Indian Bustards into the Wild at Desert National Park, Jaislamer&nbsp;&nbsp;Press Information Bureau",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwZkFKUDdDdFRZa1FfUllxbklsVW1ScUZzaXBNY0VxRFFWYWJKNlE1Zk9RNHpET2d2YkJKUVhPaVJEVDNLWTNRdDRfN2p2Z3BNWVRfdmU1YlBmckJXWXFQLWQ3YTRrZTZ2eTVMTnhuRVdOdVVYOGhOazBDejU?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -13438,23 +13653,6 @@
    "confirmed": true
   },
   {
-   "hash": "179e7ac4ea9cf8176c002469d70f314c",
-   "published": "2026-10-24T09:25+05:00",
-   "time_tashkent": "09:25",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Large-scale blackout hits Crimea after drone attack",
-   "summary": "Large-scale blackout hits Crimea after drone attack&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2dMUFMtUXJaVXdXWnc2Znk0ck13LVI5UW1QVWEyZVJ5OVJpRGNTeS1WZXdOTTM2QTJRbnY5M3BOWDF0dUpiU19pa2F0Wk52NDdfRldmeXZXenVGMEJfVHF0WHMwcEtLSHBrbEtkNmJSWTI2eVFlWW9FeVVIcW41R0F6ODY3dGRqMVJiVkVaT2piSVkyNmdlTWxTX2ZQRHBuZWfSAacBQVVfeXFMTVB5clh6NV9HbHptZVlmZmY4UUQwcWMxcEc4clRXZG5TV0dCZ2U0YlV3bThaZFlDalBMNENONnB1bHJrSGxOVWVZN3Nxb29RMHRxRGxZa1FHWnRPaVl1R0VPa2E4d081RzVJX1hFRkZsb3poRmM1MzZwZkdobFZCU21Pd2N4Q1lJaGwycXBobGFEWlUxZGwtYThhR0lyX1hCX3h0RnFJaW8?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "d6122b9b0bd6a9011932a821a62b66ed",
    "published": "2026-10-24T09:25+05:00",
    "time_tashkent": "09:25",
@@ -13475,6 +13673,23 @@
     "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNZy1HeGdlLTl2Q3kwZVJwd3Y0WUl4U2dNNnlLaWUteVNNOUc3V3Etdkl4Q3BHdm0zLThqMXV2Q0E2N1dENjdjUDVfVmxUX1d3VXE3Z0F6djhwSWlXQnRTSlBTeE8tQjBXMUR4TS1lX2E4UzUtb29DdUtsaEpsUnJ5V0hrU2ZOWE1ScVJ5a2JNWVFwVTdzeTlKS2JUYXkwN3FEdzlyQV9iZnpTUWpZZGxRWVpac3FZY2h1UDhxNi1GQU1pdHc4aGZkd1p0ZV9QNW5ERmNoZXc3SGZzNG9pTDhsNGFKZFJCTUtIX3d4eQ?oc=5"
    ],
    "sources_count": 3,
+   "confirmed": true
+  },
+  {
+   "hash": "179e7ac4ea9cf8176c002469d70f314c",
+   "published": "2026-10-24T09:25+05:00",
+   "time_tashkent": "09:25",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Large-scale blackout hits Crimea after drone attack",
+   "summary": "Large-scale blackout hits Crimea after drone attack&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa2dMUFMtUXJaVXdXWnc2Znk0ck13LVI5UW1QVWEyZVJ5OVJpRGNTeS1WZXdOTTM2QTJRbnY5M3BOWDF0dUpiU19pa2F0Wk52NDdfRldmeXZXenVGMEJfVHF0WHMwcEtLSHBrbEtkNmJSWTI2eVFlWW9FeVVIcW41R0F6ODY3dGRqMVJiVkVaT2piSVkyNmdlTWxTX2ZQRHBuZWfSAacBQVVfeXFMTVB5clh6NV9HbHptZVlmZmY4UUQwcWMxcEc4clRXZG5TV0dCZ2U0YlV3bThaZFlDalBMNENONnB1bHJrSGxOVWVZN3Nxb29RMHRxRGxZa1FHWnRPaVl1R0VPa2E4d081RzVJX1hFRkZsb3poRmM1MzZwZkdobFZCU21Pd2N4Q1lJaGwycXBobGFEWlUxZGwtYThhR0lyX1hCX3h0RnFJaW8?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -14514,23 +14729,6 @@
    "confirmed": true
   },
   {
-   "hash": "a3011593b3259c8feead88e06017d81c",
-   "published": "2026-10-24T08:46+05:00",
-   "time_tashkent": "08:46",
-   "region": "ЦА",
-   "type": "smi",
-   "source": "GNews/СМИ Центральной Азии",
-   "feed": "GNews/СМИ Центральной Азии",
-   "paywall": false,
-   "title": "Abdyzhaparkul Zhanbolotov appointed Acting Head of Bishkek Transport Department - 24.KG",
-   "summary": "Abdyzhaparkul Zhanbolotov appointed Acting Head of Bishkek Transport Department&nbsp;&nbsp;24.KG",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXR2ZU1OdERHaV9oVk5tZ0RkSlY3TEhqb2RXX080MncyUVo4cGZQcWVqc1lFQjZZZ0VPQXRMbGhfQlY2WHdEQVZMU3NGZXdncUE1dGxONTVDcnBHRFh1YUlCTnRzYnlUYjMyZ2hPanZNT3EzMmcwMGRtNi0tXzRoUGtwVG93Q2d3RURKU1dWYTE5cGhzb3lkbVZ4dnpRbFZZS0M2WnUxTQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "faa04eda3c7e5508f86768c2a9655f18",
    "published": "2026-10-24T08:46+05:00",
    "time_tashkent": "08:46",
@@ -14552,6 +14750,23 @@
    ],
    "sources_count": 3,
    "confirmed": true
+  },
+  {
+   "hash": "a3011593b3259c8feead88e06017d81c",
+   "published": "2026-10-24T08:46+05:00",
+   "time_tashkent": "08:46",
+   "region": "ЦА",
+   "type": "smi",
+   "source": "GNews/СМИ Центральной Азии",
+   "feed": "GNews/СМИ Центральной Азии",
+   "paywall": false,
+   "title": "Abdyzhaparkul Zhanbolotov appointed Acting Head of Bishkek Transport Department - 24.KG",
+   "summary": "Abdyzhaparkul Zhanbolotov appointed Acting Head of Bishkek Transport Department&nbsp;&nbsp;24.KG",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXR2ZU1OdERHaV9oVk5tZ0RkSlY3TEhqb2RXX080MncyUVo4cGZQcWVqc1lFQjZZZ0VPQXRMbGhfQlY2WHdEQVZMU3NGZXdncUE1dGxONTVDcnBHRFh1YUlCTnRzYnlUYjMyZ2hPanZNT3EzMmcwMGRtNi0tXzRoUGtwVG93Q2d3RURKU1dWYTE5cGhzb3lkbVZ4dnpRbFZZS0M2WnUxTQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "34a40f5bc8f5e2d2b3dacf4ac99f8c50",
@@ -14905,23 +15120,6 @@
    "confirmed": true
   },
   {
-   "hash": "6eb52dd8d48b88cccb8d79b5d22aa0ba",
-   "published": "2026-10-24T08:25+05:00",
-   "time_tashkent": "08:25",
-   "region": "ЦА",
-   "type": "smi",
-   "source": "GNews/СМИ Центральной Азии",
-   "feed": "GNews/СМИ Центральной Азии",
-   "paywall": false,
-   "title": "Kyrgyzstan plans to restore 100,000 hectares of pastureland - 24.KG",
-   "summary": "Kyrgyzstan plans to restore 100,000 hectares of pastureland&nbsp;&nbsp;24.KG",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanJBTVpmVU05VW5QMGR6VU01bHctamhadFJWU2NfRDRSdjY2aFhOSkRRYXpGelpGb04ydGV2T2ZwZWswTVEwN0h4OFpJNklwNjFhNTR0b1FtdG42c2ZkdUsyV25kLUxOYUtkUmt3VENxdFV3emM1dmhXVmZNZTFGSlVJTTV3RTBGaGFZ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "557cb249a82d68cbfb641070238cbe2e",
    "published": "2026-10-24T08:25+05:00",
    "time_tashkent": "08:25",
@@ -14933,6 +15131,23 @@
    "title": "Exclusive: Meta acquires AI data platform Sundial",
    "summary": "Exclusive: Meta acquires AI data platform Sundial&nbsp;&nbsp;Axios",
    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1yaUIwQVJsYmpVanBJTkF0M1g4RWZDeGh3X1NYbzVINFY4M2wxTUtTWmRZdkYtY0tlU2dBcXNXY1JxU1JNeUJsZTc5c2czQzFwX0ZOcndNekd0WE5XQXc0QzVjWHdWek9nbXZkZUZXNA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "6eb52dd8d48b88cccb8d79b5d22aa0ba",
+   "published": "2026-10-24T08:25+05:00",
+   "time_tashkent": "08:25",
+   "region": "ЦА",
+   "type": "smi",
+   "source": "GNews/СМИ Центральной Азии",
+   "feed": "GNews/СМИ Центральной Азии",
+   "paywall": false,
+   "title": "Kyrgyzstan plans to restore 100,000 hectares of pastureland - 24.KG",
+   "summary": "Kyrgyzstan plans to restore 100,000 hectares of pastureland&nbsp;&nbsp;24.KG",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanJBTVpmVU05VW5QMGR6VU01bHctamhadFJWU2NfRDRSdjY2aFhOSkRRYXpGelpGb04ydGV2T2ZwZWswTVEwN0h4OFpJNklwNjFhNTR0b1FtdG42c2ZkdUsyV25kLUxOYUtkUmt3VENxdFV3emM1dmhXVmZNZTFGSlVJTTV3RTBGaGFZ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -15357,6 +15572,23 @@
    "confirmed": true
   },
   {
+   "hash": "e63170d2155c92f813103635683a69cc",
+   "published": "2026-10-24T08:14+05:00",
+   "time_tashkent": "08:14",
+   "region": "США",
+   "type": "smi",
+   "source": "New York Post",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "El-Sayed refuses to answer questions about Muslim Brotherhood letter: ‘I’m not interested’",
+   "summary": "El-Sayed refuses to answer questions about Muslim Brotherhood letter: ‘I’m not interested’&nbsp;&nbsp;New York PostExamining the Muslim Brotherhood claims in Michigan’s Senate race&nbsp;&nbsp;The Washington PostRepublican 'Muslim Brotherhood' attacks",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXppOFVWaXdtdUNJUnpjeWdGY2g0ekY1d2VnS2pDVHNzZEdGODJ1M2FVZnVZa2RpWlJRZ21tekFuR0s4N3V0T3hlRHg1SlR5czUtV2FYaHpwWkhTMmhkYWlUUmx2cm9Ec1dVWU56WUlTaE02LTVqamk1alFzSTNlanFMRzhWNUhUV0tTZV93Q0VRWThyRVhZWXd5eHlGb3hXenNYTmU0RVBZTzB5MHJ2VERONXVORUFoQV9DeEtIcTRCWHc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "2cedf161aaa9629365d65c603e8eb13d",
    "published": "2026-10-24T08:11+05:00",
    "time_tashkent": "08:11",
@@ -15403,12 +15635,14 @@
    "summary": "Vance intensifies rapidly and could become a major Category 3 hurricane off Mexico's Pacific Coast&nbsp;&nbsp;AP News",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTVZOWTFKeWc0bWo4eF9Bd1BYeVpPUkVZUnF4V2FSWDUwUTM0QWpGX05wV0ZjV19kcFNkckRKZ2kxX3MyckMyZ09yVVI5ZkJHbGxlaFJFakN0aHhDOFdfMlRYRi1PZHN6NXhUQ1V4bnlBcmhkTmhMZzNaOWVvNGttbDB6c3hGMjNYV0E?oc=5",
    "also": [
-    "The New York Times"
+    "The New York Times",
+    "Anadolu Ajansı"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkplTG9TaE5XMDc4dk10QUh6RHE2ZmxBYVBHVktmZ2htazFnTUROQVQwemRRb3ZVaUluWTBFS2N5aWhhTjBLdjFpeTR6aGJ5eXpNT016ZHVzNkMwbVAtSEpZV3FXLVpGWTNuWGl5c1E3LXc3bFBuU3djc01tTmFKRjFiRjMxTHFfYm82QU9LSGZLMTM0ZkRreE92aUZEdkNM?oc=5"
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSkplTG9TaE5XMDc4dk10QUh6RHE2ZmxBYVBHVktmZ2htazFnTUROQVQwemRRb3ZVaUluWTBFS2N5aWhhTjBLdjFpeTR6aGJ5eXpNT016ZHVzNkMwbVAtSEpZV3FXLVpGWTNuWGl5c1E3LXc3bFBuU3djc01tTmFKRjFiRjMxTHFfYm82QU9LSGZLMTM0ZkRreE92aUZEdkNM?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUUhLWGNBS1FjV3RXaU8yc1dHWkFJMWwxakxIZV96LWFKQmkxVkoxNTFJdm9ITmVUdHRwTzZQUzNSS0laQjkxN0FoNG8xNzlIWVg1OTdBV0tvenA1WEExcEtLOWI1SFVnZEpFUGNkZjNWdVZrRGZ5MnVnYVQxNEpnQUJzR2ZZOFZXQkxFSkNycDgtUWlQb1JKTGdCT3dEbC04S01PQlY1TDBBeF9yX1BrT293OVlITXVRUU1VenpkQUNfdm1Z?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -16235,16 +16469,18 @@
     "GDELT/HOTSPOTS",
     "WTOP News",
     "GDELT/GEOPOLITICS",
-    "Rocky Mount Telegram"
+    "Rocky Mount Telegram",
+    "Daily Sitka Sentinel"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX05xWXd5SEVvMHVyNWxFWV9aVHh0YXRPa2N4akJTSHZJYUZvSlhJbml4ZnJ0eFA4YlhvbzBIZFdVMUdiR0dNZVRnbE1tbnVNUFloOVhjZFRhMEdyMHZycjZraUh0bVdlb3BrRm5uMnF1d0xOck0ybWcyWTltY0JueDlZbjdkdUVTZlNGSmNuOW5Yc29wYTZDNVJkS2ZWb21HMUtRbDZCOE9udFZfU3FSRjkxMndkUGxid2FyVjRSVmVfZw?oc=5",
     "https://www.winnipegfreepress.com/business/2026/10/24/israel-imposes-closures-across-a-west-bank-city-after-attacks-and-other-mideast-news",
     "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0tJVzZLV1MtcDM3UW9TX0M4Tk5nTDdrT0VRSVp4MFpLQzMwYjBrMUEzdXdSdmRmZmhITzVycjVyME85b0xsbHl5VHIwZnFUMTNmTlVETFpMS3ZHdEdmaTk1X1dPWlV3R2k5d0djR0Y5cTBHLUZ4RWNSSEtrbzhHczE0NGJ3RWxFOURvT2VFVXdMS1ZIRGFPdkJwTXFmOURKcjNCdUFGYWdGOVdwOXB6bzVPZktLUGRiRVpB?oc=5",
     "https://www.clickorlando.com/news/world/2026/10/24/israel-imposes-closures-across-a-west-bank-city-after-attacks-and-other-mideast-news/",
-    "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX3gzYkZsU21jUUI5anhzVmdoMlZCVDRPaXphRUM1dnYwV3JzeXhzcHYwWHc2dDZ2czlMc2YtRDBLNVptMkVqeW1vX1J0OUN6dlp6cXEyTFVZVHY2dHB6MUMtZGp0YnRTcTR2c0x3Y2FYSzlqTEFaTlVLUnhPUGZjdWFIZHQyaUEtRWItUTQ0eEtUQlcwTWRMQk1WNG9IekFjZC1kbS1KRENkWEt3Sm1kREZHa1RhV3N0a056WW4yelp2bzNpR1JxZTZhZDNYLTB5OUt2WUtEN3dHbDNsdUlKWEVIeF9xNEpWYmF6WEFtTEFOM0FkUzlLVWFFVVp5V3ZRMDFDOE1ERi05ZmVadjMw?oc=5"
+    "https://news.google.com/rss/articles/CBMijwJBVV95cUxQX3gzYkZsU21jUUI5anhzVmdoMlZCVDRPaXphRUM1dnYwV3JzeXhzcHYwWHc2dDZ2czlMc2YtRDBLNVptMkVqeW1vX1J0OUN6dlp6cXEyTFVZVHY2dHB6MUMtZGp0YnRTcTR2c0x3Y2FYSzlqTEFaTlVLUnhPUGZjdWFIZHQyaUEtRWItUTQ0eEtUQlcwTWRMQk1WNG9IekFjZC1kbS1KRENkWEt3Sm1kREZHa1RhV3N0a056WW4yelp2bzNpR1JxZTZhZDNYLTB5OUt2WUtEN3dHbDNsdUlKWEVIeF9xNEpWYmF6WEFtTEFOM0FkUzlLVWFFVVp5V3ZRMDFDOE1ERi05ZmVadjMw?oc=5",
+    "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ25vTHRlYnpTU0ZLdEdJdUs5cFRsUlgybXRvck9HX0pSVnpmVUlXME1TMk1pRFk1aWtuUnRSUnNCbnl6NHNqRmItakRzVGl2OVJQak5jSm9SV2lCRFUyS25Udmg2aERCNU5SLUN4UzlXR0xsNExhSnRYYUFjZHdCSlRPaDduM3BGR3ZBb0hlUDltajhPQlZwNUQtdVhzM3JyY1pKSU5LYWYtLTBpYktFRjdfX252TWRBc3QyU1FmLW4zSlNpa3ZR?oc=5"
    ],
-   "sources_count": 6,
+   "sources_count": 7,
    "confirmed": true
   },
   {
@@ -18304,10 +18540,14 @@
    "title": "Brent crude oil tops $116, a six-month high, as tensions swell in the Middle East",
    "summary": "U.S. President Donald Trump accused Iran on Thursday of trying to manipulate the oil market.",
    "link": "https://www.cnbc.com/2026/10/23/oil-price-brent-wti-iran-war-saudi-arabia.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "GNews/Госагентства Ближнего Востока"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiTEFVX3lxTE82RkpzRks0amhwdThVd25VSlFRMVp3dzZXYVJTVkUxVkdOV2c2azhjY09rVnhvU21jcC1hY3hZU043Y2RZUkphdTlKS0E?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "33d5f759f901e412b054d529a7a5ff02",
