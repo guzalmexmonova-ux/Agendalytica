@@ -953,7 +953,8 @@ def enrich(items):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 DAILY_FILE = "daily_newschain.json"
 DAILY_ARCHIVE_DIR = "daily"
-DAILY_MAX_PER_REGION = 200   # на регион; всего до ~2000, обычно 800–1200
+DAILY_MAX_PER_REGION = 200   # по умолчанию на регион
+DAILY_REGION_LIMITS = {"МИР": 300, "АТР": 300, "США": 300, "ЕВ": 300, "БВ": 300}   # крупные регионы — больше
 DAILY_POOL = {}            # собирается в fetch_all() за текущий запуск
 
 DAILY_KEYWORDS = [
@@ -1279,7 +1280,7 @@ def save_daily_newschain():
     for r in {a["region"] for a in items}:
         ra = [a for a in items if a["region"] == r]
         ra.sort(key=lambda x: (x["confirmed"], x["published"]), reverse=True)   # подтверждённые и свежие — первыми
-        kept += ra[:DAILY_MAX_PER_REGION]
+        kept += ra[:DAILY_REGION_LIMITS.get(r, DAILY_MAX_PER_REGION)]
     items = sorted(kept, key=lambda x: x["published"], reverse=True)
     regions = ["МИР", "США", "ЕВ", "УКР", "БВ", "ЦА", "ЮА", "АТР", "АФР", "РЫН"]
     path.write_text(json.dumps({
