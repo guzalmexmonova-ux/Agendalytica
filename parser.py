@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — PARSER v6.0 (LIGHT)
+AGENDALYTICA — PARSER v6.1 (LIGHT + Daily News Chain)
 Задача: найти НОВУЮ новость → первоисточник, дата, переведённый заголовок, ссылка.
 Полный текст статей больше не качается — это и давало 11 минут и таймауты.
 Убраны: newspaper4k, BeautifulSoup, httpx, nltk. Нужны только feedparser + requests.
@@ -692,6 +692,7 @@ def fetch_all(cutoff=None):
                 domain = extract_domain(link)
                 if not title or domain_in(domain, NOISE_DOMAINS): continue
                 sc = score_article(title, "", domain, "", link)
+                daily_collect(e, source_name, url, title, "", link)   # Daily: до фильтра баллов
                 if sc < MIN_SCORE: continue
                 pub = e.get("published_parsed") or e.get("updated_parsed")
                 age_min = None
@@ -734,6 +735,9 @@ def fetch_all(cutoff=None):
                 if h in seen_hashes: continue
                 domain = extract_domain(link)
                 if domain_in(domain, NOISE_DOMAINS): continue
+                _dt = clean_html(e.get("title", "")).strip()
+                if _dt:   # Daily: весь сегодняшний день, до окна свежести и до баллов
+                    daily_collect(e, cfg["source"], cfg["url"], _dt, clean_html(e.get("summary", ""))[:500], link)
                 pub = e.get("published_parsed") or e.get("updated_parsed")
                 # ФИКС: без даты статья больше НЕ считается свежей (было age_min = 0)
                 age_min = None
@@ -940,6 +944,343 @@ def enrich(items):
     return items
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#  DAILY NEWS CHAIN — ФАЙЛ ДНЯ daily_newschain.json (24.10.2026)
+#  Отдельно от Agendalytica: баллы, квоты, Telegram и Gist не меняются.
+#  Здесь БЕЗ баллов и БЕЗ надбавок за страны: проходит каждая новость
+#  с ключевым словом (общие списки + DAILY_KEYWORDS) и без мусорных слов.
+#  Копит весь день 00:00→сейчас (Ташкент), сортировка по времени публикации.
+#  Пишется ПОСЛЕ отправки в Telegram и в try/except — сломаться Agendalytica не может.
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DAILY_FILE = "daily_newschain.json"
+DAILY_ARCHIVE_DIR = "daily"
+DAILY_MAX = 600
+DAILY_POOL = {}            # собирается в fetch_all() за текущий запуск
+
+DAILY_KEYWORDS = [
+    # Центральная Азия и соседи
+    "uzbekistan", "tashkent", "mirziyoyev", "kazakhstan", "astana", "tokayev", "kyrgyzstan", "bishkek", "japarov",
+    "tajikistan", "dushanbe", "rahmon", "turkmenistan", "ashgabat", "central asia", "caspian", "aral",
+    "afghanistan", "kabul", "taliban", "pakistan", "islamabad", "india", "new delhi", "modi", "bangladesh",
+    # Китай и Восточная Азия
+    "china", "chinese", "beijing", "xi jinping", "taiwan", "taipei", "hong kong", "south china sea",
+    "japan", "tokyo", "takaichi", "korea", "seoul", "pyongyang", "kim jong", "north korean", "philippines",
+    "vietnam", "indonesia", "asean", "myanmar", "australia",
+    # Ближний Восток
+    "iran", "tehran", "khamenei", "pezeshkian", "araghchi", "irgc", "hormuz", "israel", "netanyahu", "gaza", "hamas",
+    "west bank", "hezbollah", "lebanon", "syria", "iraq", "houthi", "yemen", "red sea", "saudi", "riyadh", "aramco",
+    "uae", "qatar", "doha", "oman", "bahrain", "kuwait", "jordan", "egypt", "turkey", "erdogan",
+    # Европа, Украина, Кавказ
+    "european union", "eu ", "brussels", "nato", "ukraine", "zelensky", "kyiv", "moscow", "kremlin", "russia",
+    "putin", "lavrov", "belarus", "lukashenko", "georgia", "armenia", "azerbaijan", "aliyev", "pashinyan",
+    "germany", "france", "macron", "britain", "poland", "hungary", "orban", "italy", "meloni", "spain",
+    # США
+    "white house", "pentagon", "state department", "hegseth", "bessent", "barrack", "witkoff", "midterm",
+    "truth social", "executive order",
+    # Африка и мир
+    "africa", "sudan", "somalia", "ethiopia", "sahel", "mali", "libya", "nigeria", "united nations", "security council",
+    "imf", "world bank", "wto", "iaea", "who ",
+    # Экономика, сырьё, рынки
+    "oil", "crude", "brent", "wti", "opec", "gas", "lng", "pipeline", "diesel", "gasoline", "fuel",
+    "gold", "silver", "uranium", "wheat", "grain", "fertilizer", "cotton", "shipping", "tanker", "freight",
+    "dollar", "yuan", "ruble", "euro", "currency", "inflation", "interest rate", "central bank", "stocks",
+    "markets", "bond", "debt", "tariff", "sanction", "export", "import", "trade deal", "supply chain",
+    "semiconductor", "chip", "rare earth", "critical minerals", "ai ", "artificial intelligence",
+    # Политика и события
+    "election", "referendum", "protest", "coup", "parliament", "prime minister", "president", "minister",
+    "foreign minister", "defense minister", "summit", "talks", "deal", "agreement", "ceasefire", "peace",
+    "strike", "attack", "missile", "drone", "explosion", "killed", "dead", "evacuat", "earthquake", "flood",
+    "wildfire", "cyclone", "typhoon", "outbreak", "epidemic", "cyberattack", "hack", "spy", "arrested",
+]
+
+# Регион и тип для каждой ленты (имя ленты → (регион, тип)); тип: smi/ofic/gos/pay/anal/tg
+DAILY_FEED_META = {
+    "TG/Bloomberg": ("РЫН", "smi"),
+    "TG/Markets": ("РЫН", "tg"),
+    "TG/CentralAsia": ("ЦА", "tg"),
+    "TG/WarMonitor": ("МИР", "tg"),
+    "TG/Macro": ("РЫН", "tg"),
+    "FT": ("ЕВ", "smi"),
+    "Bloomberg": ("РЫН", "smi"),
+    "Al Jazeera": ("БВ", "smi"),
+    "SCMP": ("АТР", "smi"),
+    "BBC World": ("МИР", "smi"),
+    "NYT World": ("США", "smi"),
+    "The Diplomat": ("АТР", "anal"),
+    "Nikkei Asia": ("АТР", "smi"),
+    "Crisis Group": ("МИР", "anal"),
+    "Foreign Affairs": ("США", "anal"),
+    "FED": ("США", "ofic"),
+    "ECB": ("ЕВ", "ofic"),
+    "UN": ("МИР", "ofic"),
+    "GNews/CentralBanks": ("РЫН", "smi"),
+    "GNews/Oil": ("РЫН", "smi"),
+    "GNews/Gold": ("РЫН", "smi"),
+    "GNews/Breaking": ("МИР", "smi"),
+    "GNews/Chips": ("АТР", "smi"),
+    "GNews/Mideast": ("БВ", "smi"),
+    "GNews/USA-China": ("АТР", "smi"),
+    "GNews/Home-US": ("США", "smi"),
+    "GNews/World-US": ("МИР", "smi"),
+    "GNews/Business-US": ("РЫН", "smi"),
+    "WhiteHouse/X": ("США", "ofic"),
+    "POTUS/X": ("США", "ofic"),
+    "Zelensky/X": ("УКР", "ofic"),
+    "Musk/X": ("США", "tg"),
+    "Reuters": ("МИР", "smi"),
+    "AP": ("МИР", "smi"),
+    "AFP": ("МИР", "smi"),
+    "Bloomberg Politics": ("США", "smi"),
+    "Bloomberg Tech": ("РЫН", "smi"),
+    "WSJ": ("США", "smi"),
+    "CNBC World": ("РЫН", "smi"),
+    "France24": ("МИР", "smi"),
+    "NPR World": ("США", "smi"),
+    "Guardian": ("МИР", "smi"),
+    "DW": ("ЕВ", "smi"),
+    "Al-Monitor": ("БВ", "smi"),
+    "EurasiaNet": ("ЦА", "smi"),
+    "Politico US": ("США", "smi"),
+    "Politico Congress": ("США", "smi"),
+    "Politico EU": ("ЕВ", "smi"),
+    "Axios": ("США", "smi"),
+    "Geopolitical Futures": ("МИР", "anal"),
+    "Foreign Policy": ("США", "anal"),
+    "Pentagon": ("США", "ofic"),
+    "EU Commission": ("ЕВ", "ofic"),
+    "IAEA": ("МИР", "ofic"),
+    "EIA": ("РЫН", "ofic"),
+    "BoE": ("ЕВ", "ofic"),
+    "CBC Politics": ("США", "smi"),
+    "CBC World": ("МИР", "smi"),
+    "Globe & Mail": ("США", "smi"),
+    "National Post": ("США", "smi"),
+    "Rappler": ("АТР", "smi"),
+    "Philippine Star": ("АТР", "smi"),
+    "ABS-CBN": ("АТР", "smi"),
+    "PH South China Sea": ("АТР", "smi"),
+    "ABC News AU": ("АТР", "smi"),
+    "ABC AU Politics": ("АТР", "smi"),
+    "Sydney Morning Herald": ("АТР", "smi"),
+    "SMH Politics": ("АТР", "smi"),
+    "The Age": ("АТР", "smi"),
+    "Sky News UK": ("ЕВ", "smi"),
+    "Sky News Politics": ("ЕВ", "smi"),
+    "Telegraph": ("ЕВ", "smi"),
+    "BBC Politics": ("ЕВ", "smi"),
+    "The Hill": ("США", "smi"),
+    "Roll Call": ("США", "smi"),
+    "Euronews": ("ЕВ", "smi"),
+    "CNBC Top": ("РЫН", "smi"),
+    "Yonhap": ("АТР", "smi"),
+    "The Hindu": ("ЮА", "smi"),
+    "CNA": ("АТР", "smi"),
+    "Investing.com": ("РЫН", "smi"),
+    "OilPrice": ("РЫН", "smi"),
+    "GNews/TruthSocial": ("США", "ofic"),
+    "Rubio/X": ("США", "ofic"),
+    "StateDept/X": ("США", "ofic"),
+    "Netanyahu/X": ("БВ", "ofic"),
+    "Araghchi/X": ("БВ", "ofic"),
+    "GNews/Агентства AP/Reuters/AFP/UN": ("МИР", "smi"),
+    "GNews/Платные: Bloomberg/WaPo/Economist": ("МИР", "pay"),
+    "GNews/СМИ США": ("США", "smi"),
+    "GNews/Власть США": ("США", "ofic"),
+    "GNews/Власть США 2": ("США", "ofic"),
+    "GNews/ЕС и НАТО": ("ЕВ", "ofic"),
+    "GNews/Правительства Европы": ("ЕВ", "ofic"),
+    "GNews/Правительства Европы 2": ("ЕВ", "ofic"),
+    "GNews/СМИ Европы": ("ЕВ", "smi"),
+    "GNews/Украина: власть и СМИ": ("УКР", "ofic"),
+    "GNews/Турция и Кавказ": ("ЕВ", "ofic"),
+    "GNews/Власть Ближнего Востока": ("БВ", "ofic"),
+    "GNews/Власть Ближнего Востока 2": ("БВ", "ofic"),
+    "GNews/Госагентства Ближнего Востока": ("БВ", "gos"),
+    "GNews/СМИ Ближнего Востока": ("БВ", "smi"),
+    "GNews/СМИ Ближнего Востока 2": ("БВ", "smi"),
+    "GNews/Афганистан, Пакистан, Индия": ("АТР", "smi"),
+    "GNews/Власть Афганистана, Пакистана, Индии": ("АТР", "ofic"),
+    "GNews/СМИ Центральной Азии": ("ЦА", "smi"),
+    "GNews/Власть Центральной Азии": ("ЦА", "ofic"),
+    "GNews/Китай: власть и госСМИ": ("АТР", "gos"),
+    "GNews/Китай: власть и госСМИ 2": ("АТР", "gos"),
+    "GNews/Япония": ("АТР", "smi"),
+    "GNews/Корея и КНДР": ("АТР", "smi"),
+    "GNews/Корея и КНДР 2": ("АТР", "smi"),
+    "GNews/Тайвань и Гонконг": ("АТР", "smi"),
+    "GNews/ЮВА, Австралия, Океания": ("АТР", "smi"),
+    "GNews/Африка": ("МИР", "smi"),
+    "GNews/Международные организации": ("МИР", "ofic"),
+    "GNews/Международные организации 2": ("МИР", "ofic"),
+    "GNews/Энергия, санкции, море": ("РЫН", "ofic"),
+    "GNews/Аналитика и OSINT": ("МИР", "anal"),
+    "GNews/Агентства и мировые СМИ": ("МИР", "smi"),
+    "GNews/Платные мировые": ("МИР", "pay"),
+    "GNews/Белый дом, Госдеп, Пентагон, Минфин": ("США", "ofic"),
+    "GNews/Конгресс и документы": ("США", "ofic"),
+    "GNews/Экономика и безопасность США": ("США", "ofic"),
+    "GNews/ЕС, НАТО, ОБСЕ, СЕ": ("ЕВ", "ofic"),
+    "GNews/Европейские СМИ": ("ЕВ", "smi"),
+    "GNews/Великобритания: власть": ("ЕВ", "ofic"),
+    "GNews/Франция, Германия, Италия, Испания: власть": ("ЕВ", "ofic"),
+    "GNews/Польша, Бенилюкс, Ирландия, Австрия, Швейцария: власть": ("ЕВ", "ofic"),
+    "GNews/Север Европы и Балтия: власть": ("ЕВ", "ofic"),
+    "GNews/Центральная и Юго-Восточная Европа: власть": ("ЕВ", "ofic"),
+    "GNews/Балканы и Молдова: власть": ("ЕВ", "ofic"),
+    "GNews/Микрогосударства и Ватикан": ("ЕВ", "ofic"),
+    "GNews/Беларусь (госСМИ и власть)": ("ЕВ", "gos"),
+    "GNews/Турция и Кавказ: власть": ("ЕВ", "ofic"),
+    "GNews/СМИ Германии, Франции, Италии, Испании, Португалии": ("ЕВ", "smi"),
+    "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии": ("ЕВ", "smi"),
+    "GNews/СМИ Польши и Центральной Европы": ("ЕВ", "smi"),
+    "GNews/СМИ Болгарии, Греции, Кипра, Мальты": ("ЕВ", "smi"),
+    "GNews/СМИ Скандинавии и Исландии": ("ЕВ", "smi"),
+    "GNews/СМИ Балтии и Балкан": ("ЕВ", "smi"),
+    "GNews/СМИ Македонии, Боснии, Косово, Молдовы": ("ЕВ", "smi"),
+    "GNews/СМИ Турции, Кавказа, микрогосударств": ("ЕВ", "smi"),
+    "GNews/Украина: СМИ и OSINT": ("УКР", "smi"),
+    "GNews/Китай: власть": ("АТР", "ofic"),
+    "GNews/Япония: власть": ("АТР", "ofic"),
+    "GNews/Япония: СМИ": ("АТР", "smi"),
+    "GNews/Южная Корея: власть": ("АТР", "ofic"),
+    "GNews/КНДР": ("АТР", "gos"),
+    "GNews/Австралия: СМИ": ("АТР", "smi"),
+    "GNews/Австралия: власть": ("АТР", "ofic"),
+    "GNews/Новая Зеландия и Океания": ("АТР", "smi"),
+    "GNews/ЮВА и Филиппины": ("АТР", "smi"),
+    "GNews/Израиль и Палестина: власть": ("БВ", "ofic"),
+    "GNews/Израиль и Палестина: СМИ": ("БВ", "smi"),
+    "GNews/Иран, Ирак, Сирия, Йемен: власть": ("БВ", "ofic"),
+    "GNews/Иран, Ирак, Сирия, Йемен: госСМИ": ("БВ", "gos"),
+    "GNews/Залив: власть": ("БВ", "ofic"),
+    "GNews/Залив: СМИ и агентства": ("БВ", "smi"),
+    "GNews/Египет, Ливан, Иордания, Кипр: власть": ("БВ", "ofic"),
+    "GNews/Египет, Ливан, Иордания: СМИ": ("БВ", "smi"),
+    "GNews/Афганистан: власть и ООН": ("ЮА", "ofic"),
+    "GNews/Пакистан, Индия, Бангладеш: власть": ("ЮА", "ofic"),
+    "GNews/Пакистан, Индия, Бангладеш: СМИ": ("ЮА", "smi"),
+    "GNews/Центральная Азия: власть и агентства": ("ЦА", "ofic"),
+    "GNews/Центральная Азия: СМИ": ("ЦА", "smi"),
+    "GNews/Африка: власть": ("АФР", "ofic"),
+    "GNews/Африка: аналитика": ("АФР", "anal"),
+    "GNews/Гуманитарка и миротворцы": ("МИР", "ofic"),
+    "GNews/Море, энергия, санкции": ("РЫН", "ofic"),
+    "OSINTtechnical/X": ("МИР", "anal"),
+}
+
+DAILY_PAYWALL = ["wsj", "wall street journal", "financial times", "bloomberg", "new york times", "nyt",
+                 "washington post", "economist", "nikkei", "telegraph", "globe and mail", "globe & mail",
+                 "foreign affairs", "foreign policy", "geopolitical futures", "the atlantic", "haaretz", "barron"]
+DAILY_STATE = ["xinhua", "cgtn", "global times", "china daily", "people's daily", "irna", "press tv", "tasnim",
+               "kcna", "anadolu", "sana", "saba", "belta", "ina "]
+
+
+def _daily_noise(title, summary, domain, link):
+    tl = (title + " " + summary).lower()
+    t = title.lower()
+    ll = (link or "").lower()
+    if any(u in ll for u in URL_NOISE): return True
+    if any(v in tl for v in VETO_PATTERNS): return True
+    if any(x in tl for x in LOCAL_NOISE): return True
+    if any(x in t for x in FORMAT_NOISE): return True
+    if any(x in tl for x in WEATHER_NOISE): return True
+    if any(x in tl for x in NOISE_PATTERNS): return True
+    if any(x in t for x in ANALYTICAL_MARKERS): return True
+    return domain_in(domain, NOISE_DOMAINS)
+
+
+def _daily_has_keyword(title, summary):
+    tl = (title + " " + summary).lower()
+    for kws in SCORES_MAP.values():
+        for kw in kws:
+            if _has(kw, tl):
+                return True
+    return any(k in tl for k in DAILY_KEYWORDS)
+
+
+def daily_collect(e, feed_name, feed_url, title, summary, link):
+    """Вызывается из fetch_all() для КАЖДОЙ статьи до фильтра баллов. Ничего не возвращает."""
+    try:
+        pub = e.get("published_parsed") or e.get("updated_parsed")
+        if not pub or not title or not link:
+            return                                   # Daily без времени публикации не берёт
+        pub_dt = datetime(*pub[:6], tzinfo=timezone.utc).astimezone(TZ)
+        now = datetime.now(TZ)
+        if pub_dt.date() != now.date() or pub_dt > now + timedelta(minutes=10):
+            return                                   # только сегодня по Ташкенту
+        domain = extract_domain(link)
+        if _daily_noise(title, summary, domain, link) or not _daily_has_keyword(title, summary):
+            return
+        h = make_hash(link)
+        if h in DAILY_POOL:
+            return
+        publisher, clean = (extract_publisher(title, feed_name) if "news.google.com" in feed_url else (feed_name, title))
+        region, kind = DAILY_FEED_META.get(feed_name, ("МИР", "smi"))
+        p = publisher.lower()
+        if kind in ("smi", "pay"):
+            if any(s in p for s in DAILY_STATE): kind = "gos"
+            elif any(s in p for s in DAILY_PAYWALL): kind = "pay"
+        DAILY_POOL[h] = {
+            "hash": h, "published": pub_dt.isoformat(timespec="minutes"), "time_tashkent": pub_dt.strftime("%H:%M"),
+            "region": region, "type": kind, "source": publisher, "feed": feed_name, "paywall": kind == "pay",
+            "title": clean, "summary": summary[:400], "link": link, "also": [], "also_links": [],
+        }
+    except Exception:
+        pass
+
+
+def save_daily_newschain():
+    """Дописывает новости запуска в файл дня. Новый день — вчерашний файл в архив daily/ДАТА.json."""
+    from pathlib import Path
+    now = datetime.now(TZ)
+    today = now.strftime("%Y-%m-%d")
+    path = Path(DAILY_FILE)
+    data = {}
+    if path.exists():
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            data = {}
+    if data.get("date") and data.get("date") != today:
+        Path(DAILY_ARCHIVE_DIR).mkdir(exist_ok=True)
+        (Path(DAILY_ARCHIVE_DIR) / f"{data['date']}.json").write_text(json.dumps(data, ensure_ascii=False, indent=1), encoding="utf-8")
+        print(f"📦 Daily: архив {DAILY_ARCHIVE_DIR}/{data['date']}.json")
+        data = {}
+    items = data.get("items", []) if data.get("date") == today else []
+    known_hash = {a["hash"] for a in items}
+    known = [(set(story_sig({"original_title": a["title"], "title": a["title"]})), a) for a in items]
+    rank = {"ofic": 0, "smi": 1, "gos": 2, "pay": 3, "anal": 4, "tg": 5}
+    added = 0
+    for a in sorted(DAILY_POOL.values(), key=lambda x: rank.get(x["type"], 9)):   # первоисточник — первым
+        if a["hash"] in known_hash:
+            continue
+        known_hash.add(a["hash"])
+        sig = set(story_sig({"original_title": a["title"], "title": a["title"]}))
+        twin = next((b for s, b in known if sig and sig_matches(sig, s)), None)
+        if twin is not None:                         # тот же сюжет у другого издания — подтверждение
+            if a["source"] != twin["source"] and a["source"] not in twin.setdefault("also", []):
+                twin["also"].append(a["source"])
+                twin.setdefault("also_links", []).append(a["link"])
+            continue
+        known.append((sig, a))
+        items.append(a)
+        added += 1
+    for a in items:   # ЗП-D33: подтверждено = 2 издания или 1 официальный первоисточник
+        a["sources_count"] = 1 + len(a.get("also", []))
+        a["confirmed"] = a["type"] == "ofic" or a["sources_count"] >= 2
+    items.sort(key=lambda x: x["published"], reverse=True)
+    items = items[:DAILY_MAX]
+    regions = ["МИР", "США", "ЕВ", "УКР", "БВ", "ЦА", "ЮА", "АТР", "АФР", "РЫН"]
+    path.write_text(json.dumps({
+        "date": today,
+        "window": {"from": f"{today}T00:00+05:00", "to": now.isoformat(timespec="minutes")},
+        "updated": now.isoformat(timespec="minutes"),
+        "count": len(items),
+        "by_region": {r: sum(1 for a in items if a["region"] == r) for r in regions},
+        "items": items,
+    }, ensure_ascii=False, indent=1), encoding="utf-8")
+    print(f"🗞 Daily: +{added} новых, всего за день {len(items)}")
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  MAIN ORCHESTRATION
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 def main():
@@ -1134,6 +1475,12 @@ def main():
     # добавим блокировку через Gist, а не по хэшам.
 
     send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
+
+    # Daily News Chain: файл дня — после Telegram, ошибка здесь не ломает Agendalytica
+    try:
+        save_daily_newschain()
+    except Exception as ex:
+        print(f"⚠ Daily: файл дня не записан: {ex}")
     print("✅ Скрипт успешно завершил цикл обработки.")
 
 if __name__ == "__main__":
