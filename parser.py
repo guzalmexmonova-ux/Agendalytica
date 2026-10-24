@@ -953,7 +953,7 @@ def enrich(items):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 DAILY_FILE = "daily_newschain.json"
 DAILY_ARCHIVE_DIR = "daily"
-DAILY_MAX = 600
+DAILY_MAX_PER_REGION = 200   # на регион; всего до ~2000, обычно 800–1200
 DAILY_POOL = {}            # собирается в fetch_all() за текущий запуск
 
 DAILY_KEYWORDS = [
@@ -1174,8 +1174,13 @@ DAILY_STATE = ["xinhua", "cgtn", "global times", "china daily", "people's daily"
                "kcna", "anadolu", "sana", "saba", "belta", "ina "]
 
 
+DAILY_EXTRA_NOISE = ["world bank open data", "gdp (current us$)", "(current us$)", "council communications",
+                     "lambeth", "parish council", "town council", "city council"]
+
+
 def _daily_noise(title, summary, domain, link):
     tl = (title + " " + summary).lower()
+    if any(x in tl for x in DAILY_EXTRA_NOISE): return True
     t = title.lower()
     ll = (link or "").lower()
     if any(u in ll for u in URL_NOISE): return True
@@ -1203,6 +1208,8 @@ def daily_collect(e, feed_name, feed_url, title, summary, link):
         pub = e.get("published_parsed") or e.get("updated_parsed")
         if not pub or not title or not link:
             return                                   # Daily без времени публикации не берёт
+        if feed_name.startswith("TG/"):
+            return                                   # Daily: русскоязычные TG-каналы не берём (в Telegram бота идут как раньше)
         pub_dt = datetime(*pub[:6], tzinfo=timezone.utc).astimezone(TZ)
         now = datetime.now(TZ)
         if pub_dt.date() != now.date() or pub_dt > now + timedelta(minutes=10):
@@ -1222,7 +1229,7 @@ def daily_collect(e, feed_name, feed_url, title, summary, link):
         DAILY_POOL[h] = {
             "hash": h, "published": pub_dt.isoformat(timespec="minutes"), "time_tashkent": pub_dt.strftime("%H:%M"),
             "region": region, "type": kind, "source": publisher, "feed": feed_name, "paywall": kind == "pay",
-            "title": clean, "summary": summary[:400], "link": link, "also": [], "also_links": [],
+            "title": clean, "summary": summary[:250], "link": link, "also": [], "also_links": [],
         }
     except Exception:
         pass
@@ -1267,8 +1274,13 @@ def save_daily_newschain():
     for a in items:   # ЗП-D33: подтверждено = 2 издания или 1 официальный первоисточник
         a["sources_count"] = 1 + len(a.get("also", []))
         a["confirmed"] = a["type"] == "ofic" or a["sources_count"] >= 2
-    items.sort(key=lambda x: x["published"], reverse=True)
-    items = items[:DAILY_MAX]
+    # Лимит по регионам, а не общий: иначе АТР (много лент) вытесняет Африку и ЦА, а утро дня теряется
+    kept = []
+    for r in {a["region"] for a in items}:
+        ra = [a for a in items if a["region"] == r]
+        ra.sort(key=lambda x: (x["confirmed"], x["published"]), reverse=True)   # подтверждённые и свежие — первыми
+        kept += ra[:DAILY_MAX_PER_REGION]
+    items = sorted(kept, key=lambda x: x["published"], reverse=True)
     regions = ["МИР", "США", "ЕВ", "УКР", "БВ", "ЦА", "ЮА", "АТР", "АФР", "РЫН"]
     path.write_text(json.dumps({
         "date": today,
