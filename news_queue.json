@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T20:08:08.917085+05:00",
+  "updated": "2026-10-26T20:21:48.111787+05:00",
   "items": [
     {
       "hash": "f43f1b0c0afeb4e3997921aada3e7dbf",
@@ -184,19 +184,6 @@
       "age_min": 17.0
     },
     {
-      "hash": "66bb0535857a5cd286a6d7fddf6ae6a9",
-      "title": "Хуситы напали на Саудовскую Аравию перед переговорами в Тегеране с высокими ставками",
-      "original_title": "Houthis attack Saudi Arabia before high-stakes talks in Tehran",
-      "rss_summary": "Houthis attack Saudi Arabia before high-stakes talks in Tehran&nbsp;&nbsp;AFP.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON1RWTjlPZDNfVHVIbWVFQ1JUd0tzRFprM1lYTHhINGpLYnNQX0IxRTBoNGhNWVFUNXk5X0dtRzktM1VSdzRlaWNERHZiNGZMVGhfc0JYdGkxcXNrR0xYWXlZRWM2czA2VzNydDJVLTJVZTFoXzF3MW05enhkUTNBRA?oc=5",
-      "source": "AFP.com",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-26T16:18:23.073070+05:00",
-      "age_min": 13.5
-    },
-    {
       "hash": "9a0c580379ec609b01f42065cef95edf",
       "title": "Ожидается, что тысячи наблюдателей придут на избирательные участки, чтобы следить за ходом голосования в день выборов.",
       "original_title": "Thousands of observers are expected to descend on polling places to monitor the vote on Election Day",
@@ -247,6 +234,19 @@
       "status": "new",
       "ts": "2026-10-26T17:19:12.550654+05:00",
       "age_min": 29.3
+    },
+    {
+      "hash": "712a087d84e675b9fc22bca3460ec627",
+      "title": "Депутаты от лейбористской партии предупреждают, что Великобритания рискует не достичь промышленного возрождения",
+      "original_title": "Labour MPs Warn UK Risks Falling Short on Industrial Revival",
+      "rss_summary": "Labour MPs warned Andy Burnham his pledge to re-industrialize Britain risks falling short as current policies fail to match his rhetoric and continue to favor services over manufacturing.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-26/labour-mps-warn-uk-risks-falling-short-on-industrial-revival",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-26T20:17:54.154832+05:00",
+      "age_min": 17.9
     },
     {
       "hash": "4730cdfb5ce1fb385b5b140c930dd201",
@@ -535,19 +535,6 @@
       "age_min": 3.1
     },
     {
-      "hash": "2156b36303d14433439b1d998131d52e",
-      "title": "Совет мира Трампа назначает бывшего помощника Байдена руководителем работы в Конгрессе",
-      "original_title": "Trump's Board of Peace taps ex-Biden aide to lead Congress outreach",
-      "rss_summary": "President Trump's Board of Peace has appointed Shelley Greenspan, who served as the White House's Jewish community liaison during the Biden administration, to lead its outreach to Congress and the Washington think tank community. Why it matters: Greenspan's selection is part of an effort by the Board of Peace to increase bipartisan support for President Trump's Gaza peace plan.  The implementation of the plan is expected to get a renewed push after the midterms and the formation of a new Israeli",
-      "link": "https://www.axios.com/2026/10/26/trump-gaza-board-of-peace-appoints-biden-aide-greenspan",
-      "source": "Axios",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-26T16:18:26.963628+05:00",
-      "age_min": 3.5
-    },
-    {
       "hash": "efa8c4a1c03db3ed911751ce10967486",
       "title": "Отказ Болсонару уступить подчеркивает «серьезные» вызовы демократическим институтам Бразилии",
       "original_title": "Bolsonaro's refusal to concede underscores ‘serious’ challenges to Brazil's democratic institutions",
@@ -639,17 +626,30 @@
       "age_min": 86.7
     },
     {
-      "hash": "f78b9eeb2539dccbf9897e2b753f36a9",
-      "title": "Бразильские акции резко упали после неожиданных результатов выборов",
-      "original_title": "Brazilian Stocks, Real Fall Sharply After Surprise Election Outcome",
-      "rss_summary": "Brazil’s main stock market index dropped to a two-month low after President Luiz Inacio Lula da Silva secured a surprise victory in the country’s presidential election runoff over the weekend.",
-      "link": "https://www.wsj.com/finance/brazils-surprise-election-outcome-set-to-batter-stocks-real-35253aa8?mod=rss_worldnews",
-      "source": "WSJ",
+      "hash": "602f7b47474d9b21c174122f1e0abb88",
+      "title": "Последствия российского авиаудара по украинскому Ясногирке",
+      "original_title": "Aftermath of Russian airstrike in Ukraine's Yasnogirka",
+      "rss_summary": "Aftermath of Russian airstrike in Ukraine's Yasnogirka&nbsp;&nbsp;Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFZweVZBS3hvRnJ2YmxGUUpUam9Qc3ptWGJHRHlKZTRsV0x2eHlKbDVoZ2xLZG1QWFJ2WkpwMldsVTNpUnJaSDF5cjFwUGlzX1BWSjhMODhqYlhWdlZIbHlTUmxYSUVTSFpNV2F5Mk44enBpeHQ5MEdYcDdRRlJsUFFwLTVUYklDeS1WbThGdEZSZ1hiNXN5Tkp5dXpfYmFQLTlhTw?oc=5",
+      "source": "Anadolu Ajansı",
       "score": 7,
       "weight": 4,
       "status": "new",
-      "ts": "2026-10-26T20:03:58.814838+05:00",
-      "age_min": 2.0
+      "ts": "2026-10-26T20:18:40.492820+05:00",
+      "age_min": 7.8
+    },
+    {
+      "hash": "aac40491f6bb1c57aa7ccedad04115e5",
+      "title": "Трамп: «Я не особо против AOC»",
+      "original_title": "Trump: 'I don't mind AOC that much'",
+      "rss_summary": "President Trump said progressive firebrand Rep. Alexandria Ocasio-Cortez (D-N.Y.) doesn’t “bug” him much at a Sunday rally in Michigan.  While criticizing Rep. Ilhan Omar (D-Mich.), a common foe for the president, Trump struck a more positive tone on Ocasio-Cortez, a popular Democrat and potential 2028 presidential candidate. Ocasio-Cortez is a member of the Democratic Socialists...",
+      "link": "https://thehill.com/homenews/administration/6172310-trump-aoc-comments-democrats/",
+      "source": "The Hill",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-26T20:18:14.867736+05:00",
+      "age_min": 18.6
     }
   ]
 }
