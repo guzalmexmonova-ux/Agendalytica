@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T15:38:34.963558+05:00",
+  "updated": "2026-10-27T15:51:07.316129+05:00",
   "items": [
     {
       "hash": "ccb9c5c80870c1351b6c56c5b6034ce7",
@@ -13,6 +13,19 @@
       "status": "new",
       "ts": "2026-10-27T15:34:26.246135+05:00",
       "age_min": 26.4
+    },
+    {
+      "hash": "c1d22a235d957dafa90355053ff85f7f",
+      "title": "Иордания заявила, что убила более 20 боевиков Исламского государства в результате авиаударов по Сирии",
+      "original_title": "Jordan says it killed more than 20 Islamic State militants in airstrikes on Syria",
+      "rss_summary": "Oct 27 (Reuters) - Jordan said on Tuesday it had killed more than 20 Islamic State militants in airstrikes on southern Syria the previous evening, launched in response to a deadly church attack in Jordan that authorities linked to militants operating across the border.Syria said the strikes killed seven people, including three children and a woman. Jordan regretted the civilian casualties, Government Communication Minister Mohammed al-Momani said in a post on X.",
+      "link": "https://www.al-monitor.com/originals/2026/10/jordan-says-it-killed-more-20-islamic-state-militants-airstrikes-syria",
+      "source": "Al-Monitor",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-27T15:47:17.276647+05:00",
+      "age_min": 0.8
     },
     {
       "hash": "9df05fae84777815949dd936a4f04f64",
@@ -197,6 +210,19 @@
       "age_min": 95.4
     },
     {
+      "hash": "27ca630bd91b159383fc579e3d89d18b",
+      "title": "Дома Гуптаса в Йоханнесбурге выставлены на продажу, поскольку «стигма» снижает интерес",
+      "original_title": "Guptas’ Johannesburg Homes on Sale as ‘Stigma’ Dampens Interest",
+      "rss_summary": "Two multi million rand South African mansions owned by the Gupta brothers, a trio of India-born businessmen at the center of a corruption scandal that triggered the nation’s worst political and economic crisis since apartheid, are back on the market in Johannesburg.",
+      "link": "https://www.bloomberg.com/news/articles/2026-10-27/guptas-johannesburg-homes-on-sale-as-stigma-dampens-interest",
+      "source": "Bloomberg",
+      "score": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-10-27T15:46:43.106295+05:00",
+      "age_min": 10.3
+    },
+    {
       "hash": "3de35092765c3542d43a7195352e7cbf",
       "title": "Трамп заявил, что США не будут атаковать Иран до промежуточных выборов в ноябре",
       "original_title": "Trump Says US Will Not Attack Iran Before Midterm Elections in November",
@@ -273,19 +299,6 @@
       "status": "new",
       "ts": "2026-10-27T13:03:36.664099+05:00",
       "age_min": 2.2
-    },
-    {
-      "hash": "c7b5473974f3c2c76a8522d934d21b87",
-      "title": "Армейское кадетское командование - War.gov",
-      "original_title": "Army Cadet Command - War.gov",
-      "rss_summary": "Army Cadet Command - War.gov&nbsp;&nbsp;U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqb0huM21OdDd3eENJNlp3UlBOZUt6bkowQll2SGlFTWlaVmhhcjBHMmFIY3N0cU9maHhaM0VsQjNBVWV4ak9zWG0zcW85SDVybXIxTXo3cXM1NjdUc3lLVjV3RmFIZw?oc=5",
-      "source": "U.S. Department of War (.gov)",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-10-27T11:49:55.013091+05:00",
-      "age_min": 83.3
     },
     {
       "hash": "eb717efcc16bbbdeee5b55bd31032802",
@@ -626,30 +639,17 @@
       "age_min": 12.5
     },
     {
-      "hash": "f1f267a5b58d71febc179c14447c39fb",
-      "title": "Суд по военным преступлениям в ЦАР грозит коллапсом - allAfrica.com",
-      "original_title": "CAR War Crimes Court Faces Collapse - allAfrica.com",
-      "rss_summary": "CAR War Crimes Court Faces Collapse&nbsp;&nbsp;allAfrica.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QUGdmWWw0U0s2Y1dhNE44Z0VSbmV6QXpXWndKQXhLLXJyRDRLMjIwSENwY29tTVpwWDI5R1N3NFhLRFQ2UVQ0NHNqLWlaMFltYm0wZUhmS1Y0Q1BlMHpwMWsxeDVGVHlhY2lJ?oc=5",
-      "source": "GNews/Африка: СМИ",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-10-27T15:37:00.428864+05:00",
-      "age_min": 118.0
-    },
-    {
-      "hash": "a7d427607d8eea918f5a18873ff58315",
-      "title": "В результате авиаударов Иордании по Сирии погибли семь мирных жителей, сообщают сирийские государственные СМИ",
-      "original_title": "Jordan Airstrikes on Syria Kill Seven Civilians, Syrian State Media Says",
-      "rss_summary": "Jordan Airstrikes on Syria Kill Seven Civilians, Syrian State Media Says&nbsp;&nbsp;The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNelk5dmZXNU9zU1ZsTy05UEJ5TDBFcFFJWjFvZEozWm0tS0VCOUdUSVZvLW5ReGE1N1BScU9NMUMtUW9MRnZTa2RvLURDUUlzR3NMMExnbG1jYThLcE1wV0ItcUZWS3puLU10ZDF2QWVTZUxhQmpsbWExdXN4bXkxN1BLVXY3YjgwR1laNw?oc=5",
+      "hash": "b0a3d54ae14545c139b86715e03b34fc",
+      "title": "Мнение | Инфляция. Война. Коррупция. Привлечь Трампа к ответственности.",
+      "original_title": "Opinion | Inflation. War. Corruption. Hold Trump Accountable.",
+      "rss_summary": "Opinion | Inflation. War. Corruption. Hold Trump Accountable.&nbsp;&nbsp;The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOWRJM1MxZXE0dVo4ZjN1WUNjdEpybDJyVHZDM2hsLWJObzl3MDNCckQ0b2hxUXBRLTctZmxlemF5cmY4X0JmUzhDdGt4LU5SYmtaRnIzQ0ZIdnIxa0sxS084QVg0MFhXbG50SDFfMW02Z0tLdU5Zc1NVSXVtWlE4NzZ3Y0Z2amY3VF9sZ0lVQ0dBS1ZiMVJDZUdxcGtDRDlE?oc=5",
       "source": "The New York Times",
       "score": 10,
       "weight": 3,
       "status": "new",
-      "ts": "2026-10-27T15:35:46.901866+05:00",
-      "age_min": 118.1
+      "ts": "2026-10-27T15:48:35.901684+05:00",
+      "age_min": 106.3
     }
   ]
 }
