@@ -2,23 +2,91 @@
  "date": "2026-11-02",
  "window": {
   "from": "2026-11-02T00:00+05:00",
-  "to": "2026-11-02T01:07+05:00"
+  "to": "2026-11-02T01:22+05:00"
  },
- "updated": "2026-11-02T01:07+05:00",
- "count": 69,
+ "updated": "2026-11-02T01:22+05:00",
+ "count": 87,
  "by_region": {
-  "МИР": 11,
-  "США": 9,
-  "ЕВ": 4,
+  "МИР": 14,
+  "США": 15,
+  "ЕВ": 6,
   "УКР": 1,
-  "БВ": 15,
+  "БВ": 16,
   "ЦА": 0,
-  "ЮА": 1,
-  "АТР": 19,
+  "ЮА": 2,
+  "АТР": 22,
   "АФР": 3,
-  "РЫН": 6
+  "РЫН": 8
  },
  "items": [
+  {
+   "hash": "a3c6b34b62997e8cbf158bce8d90204d",
+   "published": "2026-11-02T01:12+05:00",
+   "time_tashkent": "01:12",
+   "region": "АТР",
+   "type": "gos",
+   "source": "Xinhua",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "Houthis report airstrikes on Red Sea oil port, telecom facility in Yemen",
+   "summary": "Houthis report airstrikes on Red Sea oil port, telecom facility in Yemen&nbsp;&nbsp;Xinhua",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JaHNjR3llMm1fNWhRTTVoaWxvYmNDWWNSdk50dUhuRzJaUVRLSmw3NlJwZUpSYk5QQmxwYzlXck5Xa0ViU0tzeTFBMVlDWDJCblRDTjBZdzJWMV96QVpFV1A1TzA2SVZwYjBOVTZnaldoV21ZUU1uN1J1YUU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "5bf594c18b72c3c652e364d85dccb7a2",
+   "published": "2026-11-02T01:10+05:00",
+   "time_tashkent": "01:10",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "FinanceFeeds",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Silver Price Week Ahead: Below $50 After an 18% October Slide – Midterms Tuesday, Jobs Friday",
+   "summary": "Silver Price Week Ahead: Below $50 After an 18% October Slide – Midterms Tuesday, Jobs Friday&nbsp;&nbsp;FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSExWUzg4dTViYXdSb2Z6T1V4WndiVlpINTVEWlVSQngyWlVLSklWMWsxdldjdk1BT0IxWnVPenBVWU51bXF6LWxVRFpOSVEzczlvZXVwSVpfc1c0dHhuUU5mUWlvS0UtdjM1S2tYOUV6V3cxLVdubG9laWR3ZGhBNk8tMFphY0puWWI3T3hONEdYYzR0TlFjRTE4bkkyRmNkVDVIVTFlVnBYWDY0MHdiSmZfZw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d05bc71795ecb8803d1a5b597dd13faf",
+   "published": "2026-11-02T01:08+05:00",
+   "time_tashkent": "01:08",
+   "region": "США",
+   "type": "pay",
+   "source": "NYT World",
+   "feed": "NYT World",
+   "paywall": true,
+   "title": "Syria Weighs Joining Saudi Mutual Defense Pact as Yemen War Rages",
+   "summary": "A move to join Saudi Arabia’s agreement with Turkey and Pakistan could entangle more countries in the kingdom’s escalating conflict between the Iran-backed Houthis.",
+   "link": "https://www.nytimes.com/2026/10/31/world/middleeast/syria-saudi-defense-pact.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "1fe8363bea0aab205400764c06f24395",
+   "published": "2026-11-02T01:04+05:00",
+   "time_tashkent": "01:04",
+   "region": "АТР",
+   "type": "smi",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
+   "paywall": false,
+   "title": "Live: Albanese to seek tighter rules for British backpackers in meeting with UK PM",
+   "summary": "Anthony Albanese will seek a tightening of rules for British backpackers coming to Australia when he meets his UK counterpart this week. Follow live.",
+   "link": "https://www.abc.net.au/news/2026-11-02/federal-politics-live-blog-albanese-chogm-nov-2/107334912",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "f35d900b6e702ff5fecd5558d5626f77",
    "published": "2026-11-02T01:03+05:00",
@@ -35,6 +103,74 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "87cbabc70beaae4e7c08d6a566596d4f",
+   "published": "2026-11-02T01:03+05:00",
+   "time_tashkent": "01:03",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Miners accuse Burnham of ‘betrayal’",
+   "summary": "Miners accuse Burnham of ‘betrayal’&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzh0amNTb1RMYlFoekx5aTJjNVFkNklFbHk1R3ZMbkxaZEdacmpKWldEZWJ6c1RsTm1vUGI0V1ZzN0x3OFc4UTRJZTlaNVFxN0hfNjAyNVhmNVkwTlpoYTU3R1JBWFRqRlgwT0xxUllCWndjZ1pocUpOVHNxX3MwRXRfeW5EX0pVbjdLVG1aeE43dFV5QUJjRw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "3b3b13dbbee0fc891552ad13c23c8cba",
+   "published": "2026-11-02T01:02+05:00",
+   "time_tashkent": "01:02",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Guardian",
+   "feed": "Guardian",
+   "paywall": false,
+   "title": "Northern Territory water plan condemned as ‘blatant and shameless’ attack on nature",
+   "summary": "Exclusive: Move to scrap legal requirement to set aside water for environment is ‘extreme even for the NT CLP government’, green group saysGet our breaking news email, free app or daily news podcastThe Northern Territory government has been accused o",
+   "link": "https://www.theguardian.com/australia-news/2026/nov/02/northern-territory-water-plan-condemned-as-blatant-and-shameless-attack-on-nature",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "727c73aaeda5efa181932b228ff3f1bb",
+   "published": "2026-11-02T01:02+05:00",
+   "time_tashkent": "01:02",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win",
+   "summary": "Sen. Dan Sullivan says he will accept Alaska’s election results even if he doesn’t win&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3JGdC1tTWNhN2xsS2gxYU00VXJNT3pTeXA0Vm43clBiQkRNRWRKZ214REFtNFRYYkZFa1FSMXpjUXAybWRSRDJua0pZUlNTVG9mektaQjJseHpadjlEWFlGOVR1cDN3bkRHTTZHT3Fieklsd1M1UTBfbk02YkJxTjhmMTZuT1NpV09IQURIX3ZlNU5ZZXY3WHllS0hiaFJOX3RrdEt3cU5YU3hmVmU2VFl0MTRqa0pJZDlxOVZkOGMwcy1lWkR2THQ2am4zZFFS?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c364d0ac9504b3ab7810fa4faa3fb311",
+   "published": "2026-11-02T01:01+05:00",
+   "time_tashkent": "01:01",
+   "region": "США",
+   "type": "smi",
+   "source": "The Hill",
+   "feed": "The Hill",
+   "paywall": false,
+   "title": "RNC chair says Republicans have voter turnout problem",
+   "summary": "Republican National Committee (RNC) chair Joe Gruters acknowledged that Republicans are facing issues with voter turnout amid heightened pressure for the GOP to maintain control of Congress. “Is there a turnout problem for Republicans?” NewsNation’s ",
+   "link": "https://thehill.com/homenews/campaign/6187168-rnc-acknowledges-voter-turnout-issues/",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "e1f6b92d5463009dfa6961e5d74312ed",
@@ -65,6 +201,23 @@
    "title": "NSW push to revert to pen-and-paper NAPLAN tests backed by experts - ABC News & Headlines",
    "summary": "NSW push to revert to pen-and-paper NAPLAN tests backed by experts&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTThwTEU1LUFzdzVtTjFxYTItWkFFOU5OczhmYkZpUWxRcVFHRUI4Zy1TVDVQZmhJSmF2VHBUellUeEQ2S0JmdWNUQ0dVTXl4TmNkLUxYdm50bm9BaG9SM2lDeXlpcnU4SXFNSmpFZ0hhR2NTajVaOWJFMGZ5WnZQYzdxXzZWM1Z5cFEyazdjTWtRQmRRLUpMaA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "78df6b02fc1ab01d87b9979239c53053",
+   "published": "2026-11-02T01:00+05:00",
+   "time_tashkent": "01:00",
+   "region": "США",
+   "type": "smi",
+   "source": "The Hill",
+   "feed": "The Hill",
+   "paywall": false,
+   "title": "RNC says 'Michigan should take notice' of Stevens endorsing Rogers",
+   "summary": "The Republican National Committee (RNC) on Sunday said Michigan \"should take notice\" of Rep. Haley Stevens's (D-Mich.) endorsement of her former opponent in the Michigan Senate race Republican Mike Rogers. \"When Congresswoman Haley Stevens, who ran a",
+   "link": "https://thehill.com/homenews/campaign/6187095-rnc-rogers-receives-stevens-support/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -126,6 +279,23 @@
    "confirmed": true
   },
   {
+   "hash": "cbe3c2ef0d9c0e1aafbc50ffa3beea81",
+   "published": "2026-11-02T00:59+05:00",
+   "time_tashkent": "00:59",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taiwan News",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Anteris Reports Medium-Size DurAVR THV Outcomes from the EMBARK Study at TCT 2026",
+   "summary": "Anteris Reports Medium-Size DurAVR THV Outcomes from the EMBARK Study at TCT 2026&nbsp;&nbsp;Taiwan News",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xcHZLaHpnZUFWNVUxZ3hVTGJpejU0Z0k4OXNxSk5CLVR4c25zRkgyei1hQ3JSeVl4bWh1d3JnS0VjcUdWZEx2dWNwU0dYSkRXWXVUbXRQWi0?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "ab0a5fb206f7209a6653602a68f4dd6f",
    "published": "2026-11-02T00:54+05:00",
    "time_tashkent": "00:54",
@@ -137,10 +307,16 @@
    "title": "Midterm Elections Live Updates: Stevens Endorses Rogers in Michigan; Trump to Visit Iowa and Kansas",
    "summary": "Midterm Elections Live Updates: Stevens Endorses Rogers in Michigan; Trump to Visit Iowa and Kansas&nbsp;&nbsp;The New York TimesMidterm elections latest: Democrats denounce Stevens after she endorses Michigan GOP Senate nominee&nbsp;&nbsp;CNNHaley S",
    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGRm44VVB1VzNCdkIxcE82eHJiSEVxWW11M3ZfekNEMF8wTDJKeGlwNGF6SkZvVHpxeVJTZ0RKeWhQUXVGVlU0TVQ4SWVaOFM3Y2Q2MEJEVlR4Nl9EckE4REY4LXR0dnpvZXZXOWVQMlFpeUE0WWc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Axios",
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+    "https://news.google.com/rss/articles/CBMikAFBVV95cUxOODdJcGh4SEdVQl9LNU4xNmhMT3NDS3Y5cHZEZjJRTVFmYmFOcmd2c3ZoNVdKOFIyZmFseVFTb0xqN3BPVXhBcGFoUVJEVFE3VWNlYVotWEhvSFZMaTJxaHU2Q0FGSGVMQXJjZVI1NG5VZFEyUzVDcy1QcnFUa0RvNFN1M1prUG5vWmFOa0JPdjk?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "1d55d852bb58005124f2507cdc4b843f",
@@ -177,17 +353,34 @@
    "confirmed": false
   },
   {
-   "hash": "7a6c896e2cbaab2643b3654832b1733e",
+   "hash": "32c68dcb866ba160c5c744f65bc16d67",
+   "published": "2026-11-02T00:49+05:00",
+   "time_tashkent": "00:49",
+   "region": "БВ",
+   "type": "smi",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "The Daily Edition",
+   "summary": "The Daily Edition&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwamlIVnpjWlhpd1FuQ2VSTUctdUF2VEFYa0F0X2hyMVdHT3RQYUZqZlRYUUpHUERCSnZTendBalMtWEZpRl94VUJDcEw4RnY3ZDZzYkMxQmlUelNC?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c2eee86f88fcda8f1f8cb7c8a45eec99",
    "published": "2026-11-02T00:48+05:00",
    "time_tashkent": "00:48",
-   "region": "МИР",
+   "region": "США",
    "type": "smi",
-   "source": "BBC World",
-   "feed": "BBC World",
+   "source": "The Hill",
+   "feed": "The Hill",
    "paywall": false,
-   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
-   "summary": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
-   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "title": "Schumer calls Stevens's Rogers endorsement 'a despicable betrayal'",
+   "summary": "Senate Minority Leader Chuck Schumer (D-N.Y.) ripped Rep. Haley Stevens (D-Mich.) over her eleventh hour endorsement of Republican Mike Rogers in the competitive Michigan Senate contest. \"This is a despicable betrayal from Rep. Stevens,\" Schumer wrot",
+   "link": "https://thehill.com/homenews/campaign/6187117-schumer-rips-stevens-rogers-endorsement/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -215,21 +408,25 @@
    "confirmed": true
   },
   {
-   "hash": "bedcb62aa6e7a9383fa330df8005c983",
-   "published": "2026-11-02T00:47+05:00",
-   "time_tashkent": "00:47",
+   "hash": "7a6c896e2cbaab2643b3654832b1733e",
+   "published": "2026-11-02T00:48+05:00",
+   "time_tashkent": "00:48",
    "region": "МИР",
    "type": "smi",
-   "source": "Guardian",
-   "feed": "Guardian",
+   "source": "BBC World",
+   "feed": "BBC World",
    "paywall": false,
-   "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
-   "summary": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandalShabana Mahmood will announce sweeping new rules on Monday on how long legal migrants must wait for settlement in the UK, with most likely t",
-   "link": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end within hours",
+   "summary": "A humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.",
+   "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
+   "also": [
+    "Investing.com"
+   ],
+   "also_links": [
+    "https://www.investing.com/news/commodities-news/russian-strikes-cut-power-to-thousands-in-ukraine-as-drones-damage-russian-facility-4989707"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "52d01c7e02cd5a8974b088a3df4f8dc1",
@@ -243,6 +440,23 @@
    "title": "'Annoying' Alcaraz denies de Minaur Vienna Open title in final - ABC News & Headlines",
    "summary": "'Annoying' Alcaraz denies de Minaur Vienna Open title in final&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlWMlRocm5nOG9fUWRBVVY3ejNuLVZOYXpvOTZYbERfVWU2V2NzVUtiVTdPV2ZPeHp4dV9CQ2tPU1hSUXBYR3RsVTdTWVNtaE1KNVgxb0FmejNxWldyMURVQnh5UGJuNGdfZ3Q2M2w3ekdZcHg2NDF1WFVHVUFSM3Yzc2cwajZwTkRYYUk1OWxqa3BLeUlBUXBRY3ZOdEk?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "bedcb62aa6e7a9383fa330df8005c983",
+   "published": "2026-11-02T00:47+05:00",
+   "time_tashkent": "00:47",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Guardian",
+   "feed": "Guardian",
+   "paywall": false,
+   "title": "Home secretary to make some migrants wait 10 years or more for right to settle in UK",
+   "summary": "MPs say Shabana Mahmood’s new rules risk staff shortages in health and social care and second Windrush scandalShabana Mahmood will announce sweeping new rules on Monday on how long legal migrants must wait for settlement in the UK, with most likely t",
+   "link": "https://www.theguardian.com/politics/2026/nov/01/home-secretary-shabana-mahmood-immigration-leave-to-remain-windrush",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -283,6 +497,23 @@
    "confirmed": false
   },
   {
+   "hash": "931ccc108318763c47fca83e1d708da7",
+   "published": "2026-11-02T00:42+05:00",
+   "time_tashkent": "00:42",
+   "region": "США",
+   "type": "smi",
+   "source": "The Hill",
+   "feed": "The Hill",
+   "paywall": false,
+   "title": "DNC chair defends El-Sayed, Peltola as Democrats brace for post-election legal fights",
+   "summary": "Democratic National Committee (DNC) Chair Ken Martin defended Democratic Senate candidates Abdul El-Sayed and former Rep. Mary Peltola (D-Alaska) against recent GOP attacks amid growing concern the party will have to brace for post-election legal fig",
+   "link": "https://thehill.com/homenews/campaign/6187152-dnc-defends-michigan-alaska-candidates/",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "212be3f76e460d9cd663f7caa0aa16fd",
    "published": "2026-11-02T00:42+05:00",
    "time_tashkent": "00:42",
@@ -300,17 +531,17 @@
    "confirmed": false
   },
   {
-   "hash": "957a3c77a98dcfe55faa447c23202467",
-   "published": "2026-11-02T00:40+05:00",
-   "time_tashkent": "00:40",
-   "region": "АФР",
+   "hash": "859d0301d868c50497e09ff42ce94b5f",
+   "published": "2026-11-02T00:41+05:00",
+   "time_tashkent": "00:41",
+   "region": "ЮА",
    "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
    "paywall": false,
-   "title": "Okorocha chasing shadows, Uzodimma says, vows to appeal court judgement",
-   "summary": "Okorocha chasing shadows, Uzodimma says, vows to appeal court judgement&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3BXZndTMnhubmtyZnZxM2lpU2I1TzdtTUdWTHVhWTlYNTNPczhuLS1ScXZLcW53R1E3Ml9VZDFLRkVGQlJVckJBUXhQRnN2ZjFvRWpLWGl3RGk2cXJ3NjJ1UmwzV2NzMnhycklld1AtQjZDekNVQm5odmlndHJWRjRjc1YtaDJiNmJ3ZUpfNlBtS2V5UmZ5dFFwLTQ1NnotcFZJUWtDeUhxQ1p4dG1RRzRTOTlFdk1GbjFuZEhOWTFqZEphb3c?oc=5",
+   "title": "Independent Russian newspaper Novaya Gazeta announces closure",
+   "summary": "Independent Russian newspaper Novaya Gazeta announces closure&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNR1dpeFZPQ25SQjh6dVIzYWJENEg1d1B4aENDUV9wcmVCSFlWNmMyZDJfaXYtQWtqNnFOZjJPWEJvOWJIUlVSSS1kellQbHNYdGhXckF6V2t6N1Zpbkh5MmdyR0JxVHByUHBJaWNoUFQ2MlZPaTZuZjRGQVhORkFxUGdTUFgzUTRobVpRNS1KQVZjbXppQktyVUM5cDRyNWtGbS1IYTY1MU1qZUk5Zng1LW9hMkpfLTNhQlE?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -334,6 +565,23 @@
    "confirmed": false
   },
   {
+   "hash": "957a3c77a98dcfe55faa447c23202467",
+   "published": "2026-11-02T00:40+05:00",
+   "time_tashkent": "00:40",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Okorocha chasing shadows, Uzodimma says, vows to appeal court judgement",
+   "summary": "Okorocha chasing shadows, Uzodimma says, vows to appeal court judgement&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3BXZndTMnhubmtyZnZxM2lpU2I1TzdtTUdWTHVhWTlYNTNPczhuLS1ScXZLcW53R1E3Ml9VZDFLRkVGQlJVckJBUXhQRnN2ZjFvRWpLWGl3RGk2cXJ3NjJ1UmwzV2NzMnhycklld1AtQjZDekNVQm5odmlndHJWRjRjc1YtaDJiNmJ3ZUpfNlBtS2V5UmZ5dFFwLTQ1NnotcFZJUWtDeUhxQ1p4dG1RRzRTOTlFdk1GbjFuZEhOWTFqZEphb3c?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "1ed039bd3385898bcc18e5f2282df0a2",
    "published": "2026-11-02T00:37+05:00",
    "time_tashkent": "00:37",
@@ -345,10 +593,16 @@
    "title": "Trump Reportedly Holds Call with Netanyahu Over State of Iran War - ASHARQ AL-AWSAT English",
    "summary": "Trump Reportedly Holds Call with Netanyahu Over State of Iran War&nbsp;&nbsp;ASHARQ AL-AWSAT English",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVJSR1F4aXVqT2ZTUVY1VTQyZ0VISWR2dHBCNm5TbnhJek5JZ1lZZVVSR182NHNPTWkwV1FVdy03djE1UUdZZnR4S1NRWnVXWC1KcXJaaVVxRVlSa0FsX1RsSEpBSmtCZ2hIemVuUTFlUjFZekJDYXVWbzh4clpjQXRuM0luOUxlb2xNQ2QycV9zYXNXZnhtS09lTEJlMTA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Ahram Online",
+    "Dawn"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSUIyUG1tOU9GbHR0RGx5am04TEhTU1ppeG11aW9NX2hNSTFCRUhROGo1aEd6Z09BU0pZX3BQbnR1Y3pvVkZNX1pSRlR5cHJFOUpLRkc5U01LTE1ZbWRJSk5KampCZzAzZHdYWGZmODhNU1hqXzVKeXotSGRzOUhZaVRlZnBCLVZ6eUdUaVJ5dGxNRXJFZEt4WGlpdXF4dkYzT3FEOVdDMUxQT2pMRzl3bFlJM3dxaUN6WG00eA?oc=5",
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxOc0YxcnY1akNlVnlyN3k5NFBOYm56Y1BHYWVkY09jOUVhTFB5QmRKeXA4R3FNOHRaQWRPX01MSVp3M1ZRNzhSRndDNEpmX1ByMzhDQWFWRWlsV3IybTZnUUVaVFBlRmhrRUxJNkJuZktTMHRZWjhObTFpc244aWVWbHdfSlBqVWlKSklETnBJMkkza0NLaVhOcDRORU8wU3Mz?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "96e91f525689a034574f9c43940fedee",
@@ -463,23 +717,6 @@
    "confirmed": true
   },
   {
-   "hash": "718a2a78f6f741db6a358d1adee8f1c2",
-   "published": "2026-11-02T00:30+05:00",
-   "time_tashkent": "00:30",
-   "region": "БВ",
-   "type": "gos",
-   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
-   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
-   "paywall": false,
-   "title": "Iran: Spy Arrested for Providing Enemy with Locations of Missile and Drone Component Production - وكالة سبأ",
-   "summary": "Iran: Spy Arrested for Providing Enemy with Locations of Missile and Drone Component Production&nbsp;&nbsp;وكالة سبأ",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qc3pGQ0lObHVzU1RJYXcwYXVOSzZCZFE5Q19HMk5Ed256M2ZQc1VtdVd3R3A1YTJPV1RqWWJDUDBMUUpqdkxMRDZqVHFDb1U?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "5e7b17e3adae45f016a0737702dcc292",
    "published": "2026-11-02T00:30+05:00",
    "time_tashkent": "00:30",
@@ -491,6 +728,23 @@
    "title": "\"Petty, selfish, unhinged\": Haley Stevens' staff and colleagues erupt at her \"betrayal\"",
    "summary": "Rep. Haley Stevens (D-Mich.) faced fierce backlash from fellow Democrats, party officials and her own staffers after endorsing Republican Mike Rogers for U.S. Senate on Sunday.Why it matters: It's a stunning reversal in standing for Stevens, who came",
    "link": "https://www.axios.com/2026/11/01/haley-stevens-democrats-reaction-rogers-el-sayed",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "718a2a78f6f741db6a358d1adee8f1c2",
+   "published": "2026-11-02T00:30+05:00",
+   "time_tashkent": "00:30",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "paywall": false,
+   "title": "Iran: Spy Arrested for Providing Enemy with Locations of Missile and Drone Component Production - وكالة سبأ",
+   "summary": "Iran: Spy Arrested for Providing Enemy with Locations of Missile and Drone Component Production&nbsp;&nbsp;وكالة سبأ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qc3pGQ0lObHVzU1RJYXcwYXVOSzZCZFE5Q19HMk5Ed256M2ZQc1VtdVd3R3A1YTJPV1RqWWJDUDBMUUpqdkxMRDZqVHFDb1U?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -697,14 +951,16 @@
    "also": [
     "BBC World",
     "CBC World",
-    "CNBC Top"
+    "CNBC Top",
+    "AP News"
    ],
    "also_links": [
     "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
     "https://www.cbc.ca/news/world/abdul-el-sayed-haley-stevens-9.7404925?cmp=rss",
-    "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+    "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZTZaeEZ3WHhrS2s0VVVXSWpRLVVLb185QTR6djh1R3UtZ1F0SFJCS1BWbDBaUmZxeEI4ekkyMVBObTV3R1RyZktuX0dISE9rTmFVd2tVY3NnMm8xTUQ5SGo1VFc1bWoySVdkNHp2c2JmR0g4a2hQOEJfdFVVaFZTQ2hSZWwwMHc1Sm81clYxelpTN1JGbFJZOEpEMlRVWkRBSTdCU0RzX1VWdDRrQXc?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -809,29 +1065,6 @@
    "confirmed": true
   },
   {
-   "hash": "68d853d618425e2cb01cd4df2eb5acbf",
-   "published": "2026-11-02T00:14+05:00",
-   "time_tashkent": "00:14",
-   "region": "АТР",
-   "type": "smi",
-   "source": "SCMP",
-   "feed": "SCMP",
-   "paywall": false,
-   "title": "Bulgarian acting president Iliana Iotova wins run-off election, exit polls show",
-   "summary": "Bulgaria’s acting president Iliana Iotova, who favours dialogue with Moscow and opposes military aid to Ukraine, won a presidential run-off vote on Sunday, exit polls showed.\nThe vote took place amid security concerns in the European Union and Nato m",
-   "link": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show",
-   "also": [
-    "Xinhua",
-    "China Daily"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE16X0tYRzVEUXNFSTM0UmZKZXlSeGZoRlhjSzhKZlFGX2ZzNW5LWkk0VklyWnJ0VlBuY3B0WTBEV3JrcWtrUG9Oa19CeW9qQWtCZGRNQ2g4TkZjdnE3TUc0Y09lVF9Hc3pUakZ3akEyYnR0S1pHd1NNa1JScjg?oc=5",
-    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YS1dPVjFEcEQ3UTkweU8zbjBqZFNGR3NxelhfYjNOVVo5SFVUUmloa1ROY0VTOE9rdS0xdURLYndqWC1Gc25adzV5STZhMHdibzZMWHhUUjdfOUY2dmdJZThOMDZuMlF0dEp1QnJ2U3hMVGxNM0FkdnN2NUhzZw?oc=5"
-   ],
-   "sources_count": 3,
-   "confirmed": true
-  },
-  {
    "hash": "566282b37f0d2443e28cfd46c7c14f1e",
    "published": "2026-11-02T00:14+05:00",
    "time_tashkent": "00:14",
@@ -850,6 +1083,29 @@
    "also_links": [
     "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
     "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUEweDNqazR4ZnlBQzVoeFRodHRpZFBsczY2REVuUWhDeVhKYlNjXzZUOHNjVDFIY1JseHlHcW1DWWNKN2trbndjMjg0V3FYUTlfR2l4bS1vSW5hNjgzYjlDY3pLWmFqM2xzbzZZaW5UMElLdmlTMTdBUmYxRFh4TVZ3cG1WdThKN09HRFk5Z21KYkJaMEZVMlpKWXJiQld3UGpXa1o5Vl9MdUJjWGtQbW9lY3RqMUVDWEdDZWJ1NA?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
+  },
+  {
+   "hash": "68d853d618425e2cb01cd4df2eb5acbf",
+   "published": "2026-11-02T00:14+05:00",
+   "time_tashkent": "00:14",
+   "region": "АТР",
+   "type": "smi",
+   "source": "SCMP",
+   "feed": "SCMP",
+   "paywall": false,
+   "title": "Bulgarian acting president Iliana Iotova wins run-off election, exit polls show",
+   "summary": "Bulgaria’s acting president Iliana Iotova, who favours dialogue with Moscow and opposes military aid to Ukraine, won a presidential run-off vote on Sunday, exit polls showed.\nThe vote took place amid security concerns in the European Union and Nato m",
+   "link": "https://www.scmp.com/news/world/europe/article/3372909/bulgarian-acting-president-iliana-iotova-wins-run-election-exit-polls-show",
+   "also": [
+    "Xinhua",
+    "China Daily"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE16X0tYRzVEUXNFSTM0UmZKZXlSeGZoRlhjSzhKZlFGX2ZzNW5LWkk0VklyWnJ0VlBuY3B0WTBEV3JrcWtrUG9Oa19CeW9qQWtCZGRNQ2g4TkZjdnE3TUc0Y09lVF9Hc3pUakZ3akEyYnR0S1pHd1NNa1JScjg?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTE5YS1dPVjFEcEQ3UTkweU8zbjBqZFNGR3NxelhfYjNOVVo5SFVUUmloa1ROY0VTOE9rdS0xdURLYndqWC1Gc25adzV5STZhMHdibzZMWHhUUjdfOUY2dmdJZThOMDZuMlF0dEp1QnJ2U3hMVGxNM0FkdnN2NUhzZw?oc=5"
    ],
    "sources_count": 3,
    "confirmed": true
@@ -876,6 +1132,23 @@
    "confirmed": true
   },
   {
+   "hash": "c33e293924edae95320537972db8da7e",
+   "published": "2026-11-02T00:13+05:00",
+   "time_tashkent": "00:13",
+   "region": "МИР",
+   "type": "smi",
+   "source": "CBC World",
+   "feed": "CBC World",
+   "paywall": false,
+   "title": "Democrat Abdul El-Sayed's party primary challenger endorses his Republican rival",
+   "summary": "Michigan Democrat Abdul El-Sayed's former opponent in the U.S. Senate primary, Haley Stevens, stunned party officials Sunday by endorsing Republican Mike Rogers after Democratic tensions boiled over days before the election that could determine the b",
+   "link": "https://www.cbc.ca/news/world/abdul-el-sayed-haley-stevens-9.7404925?cmp=rss",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "7a465c7c31289d02cc47c71a4f1252ae",
    "published": "2026-11-02T00:12+05:00",
    "time_tashkent": "00:12",
@@ -891,29 +1164,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "05ace937cf23cf16c407cb1faee8fb73",
-   "published": "2026-11-02T00:10+05:00",
-   "time_tashkent": "00:10",
-   "region": "ЮА",
-   "type": "smi",
-   "source": "The Hindu",
-   "feed": "The Hindu",
-   "paywall": false,
-   "title": "Dwindling support",
-   "summary": "India and the world must stand up against the bullying of Cuba by the U.S.",
-   "link": "https://www.thehindu.com/opinion/editorial/dwindling-support/article71654007.ece",
-   "also": [
-    "ABC AU Politics",
-    "Australian Broadcasting Corporation"
-   ],
-   "also_links": [
-    "https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEJvZmt1MDktTTkydUlYMEdRS1BvbEZJaXlmNnVQRkVFNDR0eHY2a0MyU2RmZjVkSEFpMVdkM2k2RTZQTEV6VkFVODdDaHVzamk4SnFMUm5VM19obFlnNExSaGt4Y29xbUJ0OGNsVm41WDJXUE81Ry1YN1ZxdEdNRllLbGpJd3kyMkI5cThoUGxLZkRrYUJCWHgyakZ5N2xiTEpMdQ?oc=5"
-   ],
-   "sources_count": 3,
-   "confirmed": true
   },
   {
    "hash": "d56d39740968cfcb6393e341a1d8ef54",
@@ -933,6 +1183,31 @@
    "confirmed": false
   },
   {
+   "hash": "05ace937cf23cf16c407cb1faee8fb73",
+   "published": "2026-11-02T00:10+05:00",
+   "time_tashkent": "00:10",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Hindu",
+   "feed": "The Hindu",
+   "paywall": false,
+   "title": "Dwindling support",
+   "summary": "India and the world must stand up against the bullying of Cuba by the U.S.",
+   "link": "https://www.thehindu.com/opinion/editorial/dwindling-support/article71654007.ece",
+   "also": [
+    "ABC AU Politics",
+    "Australian Broadcasting Corporation",
+    "GNews/СМИ Ближнего Востока 2"
+   ],
+   "also_links": [
+    "https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEJvZmt1MDktTTkydUlYMEdRS1BvbEZJaXlmNnVQRkVFNDR0eHY2a0MyU2RmZjVkSEFpMVdkM2k2RTZQTEV6VkFVODdDaHVzamk4SnFMUm5VM19obFlnNExSaGt4Y29xbUJ0OGNsVm41WDJXUE81Ry1YN1ZxdEdNRllLbGpJd3kyMkI5cThoUGxLZkRrYUJCWHgyakZ5N2xiTEpMdQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOWwxS3pKYWsxX1hXWHlHQmVabDBxYnZLamp5ZjZGYWllc1J4Y0ZvU0ZPN3Nka3hlYWo3dHpGTkNUOGZFR0p4RjFzT3RaWlNDM21CS1BMR3BGN2tQRUcxQkZHSXo5QUZmVGcxbnh3dWxBVXFtVlkxaW8wNEYyMTg3T2NyWlJBbUxuNVhzTnRITG5wMXB4dkdkeHFpbFhvcFp2NzhEaFpDRkVBQ29MMENHaklzYlJGdlJQbTMw?oc=5"
+   ],
+   "sources_count": 4,
+   "confirmed": true
+  },
+  {
    "hash": "17fd998bed1d993eac736d7fc8c1a78a",
    "published": "2026-11-02T00:08+05:00",
    "time_tashkent": "00:08",
@@ -950,6 +1225,23 @@
    "confirmed": false
   },
   {
+   "hash": "3e2f8a7f1d46d76241c15a7ef443c8a7",
+   "published": "2026-11-02T00:06+05:00",
+   "time_tashkent": "00:06",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Council, European Union",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "Coreper II, 6 November 2026",
+   "summary": "Coreper II, 6 November 2026&nbsp;&nbsp;Council, European Union",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmptVTQyZm5rbWZwU2ZLUDZxai1GWXpLNkNIQy1CUUZTb0E1bXlYd1ZrTXdlVURNbkNyQ0tHWjZRTnYzZWoxOTh1UVg2a0pnWkpwb2MyZWRzUUFQcEZ2RXM3bFJHQTliQUczVTFSRzlpalVOUFNCalRYRzBtemN2ZGx5Mlh2VVd6c3hxMWx6NlBpemFCM3V1WFNOVmFkNEl4dG83MW82U3RPV2drdWZ4dA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "e03d027402ee7ce925c8700d5ca30298",
    "published": "2026-11-02T00:06+05:00",
    "time_tashkent": "00:06",
@@ -961,6 +1253,23 @@
    "title": "In Zamfara, 9 a.m is 9 a.m: How Lawal is killing ‘African time’ mentality, By Yusuf Ladan",
    "summary": "In Zamfara, 9 a.m is 9 a.m: How Lawal is killing ‘African time’ mentality, By Yusuf Ladan&nbsp;&nbsp;Premium Times Nigeria",
    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRzMtT2E4bnRnWkowcWN2RFhRYUFmX1BtaGRhbU80YXF1XzRraFQ3ZzFvREx0SmN3VFRQRUFrMFJGT0I5YTFUZk1pbFFUWG5Jc0RHRmg1cmYxX2wzSXIxbWZmb2ZvdVJrMmw2a2lvZVhYOG1tcDhUMlNzQjdkQ1I4ZnpBVFEwaHRxa1MzMXd3YXZGNVJQZUpEbHlEdnlGQ3hPR0VzUDkyOEZHRm1MOGVLeExITWZ3blBTelBTNnBuVTF0TTRMWkJweERpc3NZUGhKLVE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "db8bd3b0946a8454c8a7f39869037c92",
+   "published": "2026-11-02T00:06+05:00",
+   "time_tashkent": "00:06",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "AP News",
+   "feed": "GNews/Business-US",
+   "paywall": false,
+   "title": "Mexico comes alive during annual Day of the Dead celebrations",
+   "summary": "Mexico comes alive during annual Day of the Dead celebrations&nbsp;&nbsp;AP NewsSee more headlines & perspectives on Google News",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzBQTDZUakxvUmladWlway1jeFNxLWVDRk5hNW1SN3JYbDRGZ0QzaUpwTDFKX1c0ZGM4RUxESHN4czJWaThQcWItNzI3ODl5RzRhWVdwZ0pXd0VXeW01Z2JJd1YteWFjcHJ4WXV0LTNaOUtBSlczSEV2WHRGQkhCNGRsbFk?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -984,21 +1293,27 @@
    "confirmed": false
   },
   {
-   "hash": "b2f6f394a5da170c224853ca6eccd84f",
+   "hash": "5c784770e19d0bf88f59360c9116472a",
    "published": "2026-11-02T00:04+05:00",
    "time_tashkent": "00:04",
-   "region": "МИР",
-   "type": "pay",
-   "source": "The Washington Post",
-   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
-   "paywall": true,
-   "title": "Losing Michigan Senate candidate Haley Stevens: ‘Go vote!’",
-   "summary": "Losing Michigan Senate candidate Haley Stevens: ‘Go vote!’&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVVFMDZydF9DWTc4VnIyTzNqV0cwWnFwaDVRcklRZVMxMHkyMkMyUFk2UEk3YVA2cV9wRld0c05ZaXdQSE5vMEhXeEFBLWlEcnNtaWNZdS00RlEwcmtoNDRqdUxFRXExSkhtZlhTTm9PdkJUZE5GUzFjYUVqNEVJWjVXdGJIckhQVXhTcTlYQmw1V25RekM1dWR2eEJnZFFRaUEwZzBuWnIwQQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "region": "США",
+   "type": "smi",
+   "source": "NPR",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "summary": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses&nbsp;&nbsp;NPRJudge tosses DOJ’s attempt to delay Alaska Senate results if Republican loses&nbsp;&nbsp;The Washington PostInside Democrats’ Secret Effort to Stack Alas",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0tqclpGdHZtME0wZFY2LWpLZHF3TG5BMmk3RUM2SkdvWVI5c0tJa2pOTzJvN19pRFhkQng0ZUloMGVmSUZoQ1V3cE5PWkRWX1ppaHpFV0F4WDVVSVF1eDFPT2N3WnBROEpOdVR3QkYtZVZTcl8wNGpLZ05wSi1fdE5tbU5nNE9UX2VQX0gxbWlhQQ?oc=5",
+   "also": [
+    "NBC News",
+    "The Express Tribune"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGJ6UDE0Mms5NGpNLU1ueEhad0lLTlJvb2ZvSm5OejVXTDJ0TnlrR3FraWhiTkdVbXdsWlVHeWEzc2t5bzZfcG42Mlk0c2w1TXlPU2JBVkVPblZKNTdWU0Y1eDFOTnFXaWpwVXRCNUg5TjU2eHlXdVlyc1ZRWUI3WG9vSlRnNXVIRUZ0Z0k0c29GQdIBmgFBVV95cUxOY2dfODVSVzY4ajFLeVhIaEthNTc5RmphbUFDRW41YXlWWGQtWE4tOU5sUVNBa1o4RzVfRzZIam02Qko5Mk1VLU5DWk1HMjBpX0ZjRXVkMnNoRzVEcy1TQTRLMmR1NnhRODBadnpwNnZub2dYQ0JmZ1d4LWlUc1BoTUNxMmM2aFVuZnI0V2tjZVhNb0hIX1RUUHNR?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "18d24744cf2fccfc2f5f64fd0b81f92d",
@@ -1018,22 +1333,22 @@
    "confirmed": false
   },
   {
-   "hash": "5c784770e19d0bf88f59360c9116472a",
+   "hash": "b2f6f394a5da170c224853ca6eccd84f",
    "published": "2026-11-02T00:04+05:00",
    "time_tashkent": "00:04",
-   "region": "США",
-   "type": "smi",
-   "source": "NPR",
-   "feed": "GNews/Home-US",
-   "paywall": false,
-   "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
-   "summary": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses&nbsp;&nbsp;NPRJudge tosses DOJ’s attempt to delay Alaska Senate results if Republican loses&nbsp;&nbsp;The Washington PostInside Democrats’ Secret Effort to Stack Alas",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0tqclpGdHZtME0wZFY2LWpLZHF3TG5BMmk3RUM2SkdvWVI5c0tJa2pOTzJvN19pRFhkQng0ZUloMGVmSUZoQ1V3cE5PWkRWX1ppaHpFV0F4WDVVSVF1eDFPT2N3WnBROEpOdVR3QkYtZVZTcl8wNGpLZ05wSi1fdE5tbU5nNE9UX2VQX0gxbWlhQQ?oc=5",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Losing Michigan Senate candidate Haley Stevens: ‘Go vote!’",
+   "summary": "Losing Michigan Senate candidate Haley Stevens: ‘Go vote!’&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbVVFMDZydF9DWTc4VnIyTzNqV0cwWnFwaDVRcklRZVMxMHkyMkMyUFk2UEk3YVA2cV9wRld0c05ZaXdQSE5vMEhXeEFBLWlEcnNtaWNZdS00RlEwcmtoNDRqdUxFRXExSkhtZlhTTm9PdkJUZE5GUzFjYUVqNEVJWjVXdGJIckhQVXhTcTlYQmw1V25RekM1dWR2eEJnZFFRaUEwZzBuWnIwQQ?oc=5",
    "also": [
-    "NBC News"
+    "CBS News"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5"
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNi1XY2poaWRlNk9heFJwZXBkSjNaTHJTS1otZTNENVBySG1yTF9hZHhUa2xoaHN6ZnhjU2lVWktaLTY5bXd4YmgyV2l5UzlfbzJTVXZkM3lvMlhMQjR6a2RxV2ZIVmU1VXNjR2o4T2J4X1lSbmN1V3BnRVM1RUZLWndUamN6cldPM3F6TGloT3ZJM0gtYzI1c0FSRmVTLTNPeWxSYw?oc=5"
    ],
    "sources_count": 2,
    "confirmed": true
@@ -1050,57 +1365,6 @@
    "title": "Iraq’s parallel dollar rate to approach official rate: deputy PM",
    "summary": "Iraq’s parallel dollar rate to approach official rate: deputy PM&nbsp;&nbsp;The New Region",
    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1LOWVxSGZ6UEVPaHlWb21qaWpWUDhXOFNOZlBUeVF1amtYSy1BNklPYlBaVWJ3OEJaR1VQSEhMTG14Z0VzWFc4ZFliRQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "660c09199e29f0a32f20407a7af65f96",
-   "published": "2026-11-02T00:02+05:00",
-   "time_tashkent": "00:02",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "After emergency alerts, Saudi Arabia gives all-clear in 3 areas of country's southwest",
-   "summary": "After emergency alerts, Saudi Arabia gives all-clear in 3 areas of country's southwest&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVFGcjVmTkF6VHdIR0hacjRsc0VVWUV0d3JKWE1CNElJbDJmcEpfVlF2RG43eWNmUks4V2pvUnc1VV9CN3pXLXpLUzloQTAxcXZIdlVDY0ZDNGh2dVVUNjcyLTFHekkxTGZFMHZmakFmbzRJZXpzSTFBV1dqNll5a3ZoLVdra2V0bWloT2JtWlcwUV91SFlGdHNubW5MQjRCaGV1ZXRTV1E2dnpDeEtzUEZCSWRYMTNBOWkwOFUxQ0FrcERpWjBzZA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "d4d77ee9c21ecc9da2ac14a92038eae8",
-   "published": "2026-11-02T00:02+05:00",
-   "time_tashkent": "00:02",
-   "region": "БВ",
-   "type": "smi",
-   "source": "The Times of Israel",
-   "feed": "GNews/СМИ Ближнего Востока",
-   "paywall": false,
-   "title": "Eisenkot hails election chief's approval of vote, says Netanyahu trying to 'delegitimize' results",
-   "summary": "Eisenkot hails election chief's approval of vote, says Netanyahu trying to 'delegitimize' results&nbsp;&nbsp;The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFJjVnYxODdOZGJCeXNiZVdLLVVrSDBFdU5EUUxNTmFXYV9qZTBRdGthbzQ3a29YVm8wdERCT1F6ZDJUbFlUaUFPdi0tYjhxdEYtRVBKR2g0MkplSnZCZTR1M1prNmxpVzBETVdNaXJiSW5zNFJGNUJYbWpzWC1ia0hNQ19kdVdIWF9HWkFnUUNBajJYeHhPVkFEM181QVRDSmFFb184SFgyTm9LZTBxY0pEZl9aUE5oUGtKdERXZEEyMVM2SG5MTEVZSmZYc2c1S2ZLaU93?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "92a73765b4f8d0864c4adee74acba739",
-   "published": "2026-11-02T00:02+05:00",
-   "time_tashkent": "00:02",
-   "region": "МИР",
-   "type": "smi",
-   "source": "AFP.com",
-   "feed": "AFP",
-   "paywall": false,
-   "title": "Lazio pull clear at Serie A summit as Gattuso warns of vertigo",
-   "summary": "Lazio pull clear at Serie A summit as Gattuso warns of vertigo&nbsp;&nbsp;AFP.com",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbm9SZDVXazNCTFliNGs0bzMyc2pNWWFpTExVWUhFS1JEcmdfSTNzX05EdzNjX0IzUDJDdUM4TV9hMmQ3TUFqZGtfVk1qS3JjOVpnSi0wamJjLXBwUERrOHpzQlBEMHdieTlHUkZZdnNKSjNOR2t1bmlGSEJ0NTg?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1124,29 +1388,6 @@
    "confirmed": true
   },
   {
-   "hash": "52f2d094642f927a8981c517b8b7d6ff",
-   "published": "2026-11-02T00:02+05:00",
-   "time_tashkent": "00:02",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC Top",
-   "feed": "CNBC Top",
-   "paywall": false,
-   "title": "Judge dismisses DOJ lawsuit over Alaska Senate election",
-   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-   "also": [
-    "NBC News",
-    "The Express Tribune"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGJ6UDE0Mms5NGpNLU1ueEhad0lLTlJvb2ZvSm5OejVXTDJ0TnlrR3FraWhiTkdVbXdsWlVHeWEzc2t5bzZfcG42Mlk0c2w1TXlPU2JBVkVPblZKNTdWU0Y1eDFOTnFXaWpwVXRCNUg5TjU2eHlXdVlyc1ZRWUI3WG9vSlRnNXVIRUZ0Z0k0c29GQdIBmgFBVV95cUxOY2dfODVSVzY4ajFLeVhIaEthNTc5RmphbUFDRW41YXlWWGQtWE4tOU5sUVNBa1o4RzVfRzZIam02Qko5Mk1VLU5DWk1HMjBpX0ZjRXVkMnNoRzVEcy1TQTRLMmR1NnhRODBadnpwNnZub2dYQ0JmZ1d4LWlUc1BoTUNxMmM2aFVuZnI0V2tjZVhNb0hIX1RUUHNR?oc=5"
-   ],
-   "sources_count": 3,
-   "confirmed": true
-  },
-  {
    "hash": "2f1cc5bd1fb75bfbbbdc5eac7ab40f22",
    "published": "2026-11-02T00:02+05:00",
    "time_tashkent": "00:02",
@@ -1164,6 +1405,82 @@
    "confirmed": false
   },
   {
+   "hash": "d4d77ee9c21ecc9da2ac14a92038eae8",
+   "published": "2026-11-02T00:02+05:00",
+   "time_tashkent": "00:02",
+   "region": "БВ",
+   "type": "smi",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "Eisenkot hails election chief's approval of vote, says Netanyahu trying to 'delegitimize' results",
+   "summary": "Eisenkot hails election chief's approval of vote, says Netanyahu trying to 'delegitimize' results&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWFJjVnYxODdOZGJCeXNiZVdLLVVrSDBFdU5EUUxNTmFXYV9qZTBRdGthbzQ3a29YVm8wdERCT1F6ZDJUbFlUaUFPdi0tYjhxdEYtRVBKR2g0MkplSnZCZTR1M1prNmxpVzBETVdNaXJiSW5zNFJGNUJYbWpzWC1ia0hNQ19kdVdIWF9HWkFnUUNBajJYeHhPVkFEM181QVRDSmFFb184SFgyTm9LZTBxY0pEZl9aUE5oUGtKdERXZEEyMVM2SG5MTEVZSmZYc2c1S2ZLaU93?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "660c09199e29f0a32f20407a7af65f96",
+   "published": "2026-11-02T00:02+05:00",
+   "time_tashkent": "00:02",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "After emergency alerts, Saudi Arabia gives all-clear in 3 areas of country's southwest",
+   "summary": "After emergency alerts, Saudi Arabia gives all-clear in 3 areas of country's southwest&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLVFGcjVmTkF6VHdIR0hacjRsc0VVWUV0d3JKWE1CNElJbDJmcEpfVlF2RG43eWNmUks4V2pvUnc1VV9CN3pXLXpLUzloQTAxcXZIdlVDY0ZDNGh2dVVUNjcyLTFHekkxTGZFMHZmakFmbzRJZXpzSTFBV1dqNll5a3ZoLVdra2V0bWloT2JtWlcwUV91SFlGdHNubW5MQjRCaGV1ZXRTV1E2dnpDeEtzUEZCSWRYMTNBOWkwOFUxQ0FrcERpWjBzZA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "52f2d094642f927a8981c517b8b7d6ff",
+   "published": "2026-11-02T00:02+05:00",
+   "time_tashkent": "00:02",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC Top",
+   "feed": "CNBC Top",
+   "paywall": false,
+   "title": "Judge dismisses DOJ lawsuit over Alaska Senate election",
+   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+   "also": [
+    "NBC News",
+    "The Express Tribune",
+    "The New York Times"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGJ6UDE0Mms5NGpNLU1ueEhad0lLTlJvb2ZvSm5OejVXTDJ0TnlrR3FraWhiTkdVbXdsWlVHeWEzc2t5bzZfcG42Mlk0c2w1TXlPU2JBVkVPblZKNTdWU0Y1eDFOTnFXaWpwVXRCNUg5TjU2eHlXdVlyc1ZRWUI3WG9vSlRnNXVIRUZ0Z0k0c29GQdIBmgFBVV95cUxOY2dfODVSVzY4ajFLeVhIaEthNTc5RmphbUFDRW41YXlWWGQtWE4tOU5sUVNBa1o4RzVfRzZIam02Qko5Mk1VLU5DWk1HMjBpX0ZjRXVkMnNoRzVEcy1TQTRLMmR1NnhRODBadnpwNnZub2dYQ0JmZ1d4LWlUc1BoTUNxMmM2aFVuZnI0V2tjZVhNb0hIX1RUUHNR?oc=5",
+    "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHeDdFRU5nYjhHUG1EZ1JXdnVtZHpXMW43MEZJQnpVY0hEcWJ4TGowcjFVSTFjNm0wcUVHRjhmLW9BOXNheE1CMGFiTmxweENxLXBNb3NfdzEyb0dUWERraC1UTWNqaEwtQ21UVzVWd2p6U1BrZDExakNXSkgzdw?oc=5"
+   ],
+   "sources_count": 4,
+   "confirmed": true
+  },
+  {
+   "hash": "92a73765b4f8d0864c4adee74acba739",
+   "published": "2026-11-02T00:02+05:00",
+   "time_tashkent": "00:02",
+   "region": "МИР",
+   "type": "smi",
+   "source": "AFP.com",
+   "feed": "AFP",
+   "paywall": false,
+   "title": "Lazio pull clear at Serie A summit as Gattuso warns of vertigo",
+   "summary": "Lazio pull clear at Serie A summit as Gattuso warns of vertigo&nbsp;&nbsp;AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbm9SZDVXazNCTFliNGs0bzMyc2pNWWFpTExVWUhFS1JEcmdfSTNzX05EdzNjX0IzUDJDdUM4TV9hMmQ3TUFqZGtfVk1qS3JjOVpnSi0wamJjLXBwUERrOHpzQlBEMHdieTlHUkZZdnNKSjNOR2t1bmlGSEJ0NTg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "ff2bdd7f2a5899947127217474c19653",
    "published": "2026-11-02T00:01+05:00",
    "time_tashkent": "00:01",
@@ -1175,23 +1492,65 @@
    "title": "Trump says he'll become 'Mr. Veto' if Democrats take Congress",
    "summary": "President Trump said his strategy if the GOP loses control of the House and the Senate would be to “become Mr. Veto.” “Well, if that happens, I guess I'll become Mr. Veto. I'm not going to let them through,” Trump said during an interview with Fox Ne",
    "link": "https://thehill.com/homenews/administration/6186898-trump-plans-veto-strategy/",
+   "also": [
+    "GNews/Власть США 2"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNF9wVlNCdktfQ3RtSGxFWGdtSjNBS2JneWFQdXUxZjVXcXhVY1AtbUl5X19IZmxkd1hEaUV5c2ExZkRFY19MY0JiMmZtLXIyYzF3SWIyRmxnUW1QRVdtSUVjelBxRGZTcW5rYzUzc0RRd3RtZVROUDhpWnJlVjEtbQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "7da70d0491bff53b2e04c2c4a67f4435",
+   "published": "2026-11-02T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "США",
+   "type": "smi",
+   "source": "Axios",
+   "feed": "Axios",
+   "paywall": false,
+   "title": "Sen. Chris Murphy hospitalized after suffering stroke",
+   "summary": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday.The big picture: Murphy is one of the Senate's more visible Democrats and has been traveling the country campaigning ahead o",
+   "link": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+   "also": [
+    "NPR"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMickFVX3lxTE43OXRmaFVOb0lmbUY4UWNmTld0Q05Ub1ZXQk9ITC16M2VwUVBKcmtta0RjQTI1NVhvanNfTEtpOWtZU2w1Y292bFVjeUVYSVRUN1V6RlNRcVlOdlRXN25DRkc5aExyQXN3YXlseHFLV2d2QQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "259f095ceaeeb3e315f29637e640b32d",
+   "published": "2026-11-02T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "США",
+   "type": "smi",
+   "source": "Politico Congress",
+   "feed": "Politico Congress",
+   "paywall": false,
+   "title": "New York Republicans bet anger at Albany can blunt a Trump backlash",
+   "summary": "GOP candidates are facing a tough political environment this year with an unpopular president in the White House.",
+   "link": "https://www.politico.com/news/2026/11/01/new-york-republicans-bet-anger-at-albany-can-blunt-a-trump-backlash-01144017",
    "also": [],
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
   },
   {
-   "hash": "2a49862e139fa56bdac31e7c707cb8f7",
+   "hash": "7894271c4f972c284069e66bd1ab2b62",
    "published": "2026-11-02T00:00+05:00",
    "time_tashkent": "00:00",
-   "region": "ЕВ",
+   "region": "США",
    "type": "smi",
-   "source": "FT",
-   "feed": "FT",
+   "source": "Politico",
+   "feed": "GNews/СМИ США",
    "paywall": false,
-   "title": "Bulgarians projected to re-elect pro-Russian president",
-   "summary": "Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls",
-   "link": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
+   "title": "Nithya Raman, the accidental politician who could run Los Angeles",
+   "summary": "Nithya Raman, the accidental politician who could run Los Angeles&nbsp;&nbsp;Politico",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRUdIZDJqOGtORVZvbXFjTXJBTzhiSWt2bTcwa1o1VzM4MUNzeE5QSjFTQXhsVDdkblhQdjJKZnh1RngzVTU3UlQ3ei12UjlFRFBqNXFsOHZzZW9RTnlVYXBKQU5HbjhDbjlwdy1HYXJuNWhTaXhpVlBzOUREYUVjQUlVanEyR2tuN1BkSk4ydVh6ajB2ZTc1amIyanRkREJCbnZSbVpyMUg4ZFFDMFBvZXdEVEY5WG5ic1FF?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1215,17 +1574,17 @@
    "confirmed": false
   },
   {
-   "hash": "04380830223c45c4bf461393ba9af62a",
+   "hash": "2a49862e139fa56bdac31e7c707cb8f7",
    "published": "2026-11-02T00:00+05:00",
    "time_tashkent": "00:00",
-   "region": "МИР",
-   "type": "pay",
-   "source": "The Washington Post",
-   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
-   "paywall": true,
-   "title": "Hegseth digs in as confident Democrats plan to go on offense after midterms",
-   "summary": "Hegseth digs in as confident Democrats plan to go on offense after midterms&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWRHMTg3OXdVMUFyV3RsQmw5VjRBcjF2M0Vybl84S1FxTlhueHlmSmVGQy1MQ3J4N0tkc1dQQVlzUWFuY0VROVBOUHJicXFoM05BdTNRNlFHTzhtcm9UWDA0V1VjUXJIMzVHZFVCazVMZWxZY0MxSDdZWml5NTNQaENtWklGaXlQUGdRdVkySlJQVlZMSHFRaHlDUktHVV81bWNYaWEwLV95VXQtWkE?oc=5",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "FT",
+   "feed": "FT",
+   "paywall": false,
+   "title": "Bulgarians projected to re-elect pro-Russian president",
+   "summary": "Interim president Iliana Yotova set to consolidate her country’s Kremlin-friendly stance if results confirm exit polls",
+   "link": "https://www.ft.com/content/c1565a1b-9962-40d2-a764-5a19d0f3c700?syn-25a6b1a6=1",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1249,34 +1608,17 @@
    "confirmed": false
   },
   {
-   "hash": "259f095ceaeeb3e315f29637e640b32d",
+   "hash": "04380830223c45c4bf461393ba9af62a",
    "published": "2026-11-02T00:00+05:00",
    "time_tashkent": "00:00",
-   "region": "США",
-   "type": "smi",
-   "source": "Politico Congress",
-   "feed": "Politico Congress",
-   "paywall": false,
-   "title": "New York Republicans bet anger at Albany can blunt a Trump backlash",
-   "summary": "GOP candidates are facing a tough political environment this year with an unpopular president in the White House.",
-   "link": "https://www.politico.com/news/2026/11/01/new-york-republicans-bet-anger-at-albany-can-blunt-a-trump-backlash-01144017",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "7da70d0491bff53b2e04c2c4a67f4435",
-   "published": "2026-11-02T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "США",
-   "type": "smi",
-   "source": "Axios",
-   "feed": "Axios",
-   "paywall": false,
-   "title": "Sen. Chris Murphy hospitalized after suffering stroke",
-   "summary": "Sen. Chris Murphy (D-Conn.) suffered a stroke Saturday and is being treated at Johns Hopkins Hospital, his office said Sunday.The big picture: Murphy is one of the Senate's more visible Democrats and has been traveling the country campaigning ahead o",
-   "link": "https://www.axios.com/2026/11/01/chris-murphy-stroke-hospitalized",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Hegseth digs in as confident Democrats plan to go on offense after midterms",
+   "summary": "Hegseth digs in as confident Democrats plan to go on offense after midterms&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaWRHMTg3OXdVMUFyV3RsQmw5VjRBcjF2M0Vybl84S1FxTlhueHlmSmVGQy1MQ3J4N0tkc1dQQVlzUWFuY0VROVBOUHJicXFoM05BdTNRNlFHTzhtcm9UWDA0V1VjUXJIMzVHZFVCazVMZWxZY0MxSDdZWml5NTNQaENtWklGaXlQUGdRdVkySlJQVlZMSHFRaHlDUktHVV81bWNYaWEwLV95VXQtWkE?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
