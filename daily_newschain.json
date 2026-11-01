@@ -2,23 +2,159 @@
  "date": "2026-11-02",
  "window": {
   "from": "2026-11-02T00:00+05:00",
-  "to": "2026-11-02T00:38+05:00"
+  "to": "2026-11-02T00:53+05:00"
  },
- "updated": "2026-11-02T00:38+05:00",
- "count": 40,
+ "updated": "2026-11-02T00:53+05:00",
+ "count": 50,
  "by_region": {
-  "МИР": 5,
-  "США": 7,
+  "МИР": 6,
+  "США": 8,
   "ЕВ": 2,
   "УКР": 1,
-  "БВ": 7,
+  "БВ": 11,
   "ЦА": 0,
   "ЮА": 1,
-  "АТР": 11,
-  "АФР": 2,
+  "АТР": 14,
+  "АФР": 3,
   "РЫН": 4
  },
  "items": [
+  {
+   "hash": "52d01c7e02cd5a8974b088a3df4f8dc1",
+   "published": "2026-11-02T00:47+05:00",
+   "time_tashkent": "00:47",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Australian Broadcasting Corporation",
+   "feed": "GNews/Австралия: СМИ",
+   "paywall": false,
+   "title": "'Annoying' Alcaraz denies de Minaur Vienna Open title in final - ABC News & Headlines",
+   "summary": "'Annoying' Alcaraz denies de Minaur Vienna Open title in final&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcWlWMlRocm5nOG9fUWRBVVY3ejNuLVZOYXpvOTZYbERfVWU2V2NzVUtiVTdPV2ZPeHp4dV9CQ2tPU1hSUXBYR3RsVTdTWVNtaE1KNVgxb0FmejNxWldyMURVQnh5UGJuNGdfZ3Q2M2w3ekdZcHg2NDF1WFVHVUFSM3Yzc2cwajZwTkRYYUk1OWxqa3BLeUlBUXBRY3ZOdEk?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9c783f34086dc2e89add61125200d3a8",
+   "published": "2026-11-02T00:43+05:00",
+   "time_tashkent": "00:43",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Express Tribune",
+   "feed": "GNews/Афганистан, Пакистан, Индия",
+   "paywall": false,
+   "title": "Pakistan capable of intercepting any drones sent from Afghanistan, India: DG ISPR",
+   "summary": "Pakistan capable of intercepting any drones sent from Afghanistan, India: DG ISPR&nbsp;&nbsp;The Express Tribune",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdEhvbllLX0NVaEo1enNnMklSLWdPSmsyMWhVSWNpREY4dG5ZcXJQM1Q1OUdCZTBrRFJDdE9ITFhrVVhRd0h1d0ZXd01KbXEtdm02TTZINzdmaWVNQTA3TDduRDJNUHBNdlJQRHpDU0hKWktHYXQxdDE2RWFKUU5WbUtZUVFkNjB5MWxrNVpFMHM4YjVVNGVtMXJXZGVUaXNsVlBKWmRDS0tqZC03Q3VOczNleVdvaFU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "be185f6706171806a8e1e9e05afbcf28",
+   "published": "2026-11-02T00:43+05:00",
+   "time_tashkent": "00:43",
+   "region": "БВ",
+   "type": "smi",
+   "source": "GNews/СМИ Ближнего Востока",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "The News Feed - The Times of Israel",
+   "summary": "The News Feed&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE10eVRkXzEybTE0Q3ZpUVExa1JYc2tVc3poY25XaW85VTNBQ3JDQzl2WTFxaWZ1VWhIOFFVaVcxQjYzemoxU1ZCZUVTbkFfY1dI?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "957a3c77a98dcfe55faa447c23202467",
+   "published": "2026-11-02T00:40+05:00",
+   "time_tashkent": "00:40",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Okorocha chasing shadows, Uzodimma says, vows to appeal court judgement",
+   "summary": "Okorocha chasing shadows, Uzodimma says, vows to appeal court judgement&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd3BXZndTMnhubmtyZnZxM2lpU2I1TzdtTUdWTHVhWTlYNTNPczhuLS1ScXZLcW53R1E3Ml9VZDFLRkVGQlJVckJBUXhQRnN2ZjFvRWpLWGl3RGk2cXJ3NjJ1UmwzV2NzMnhycklld1AtQjZDekNVQm5odmlndHJWRjRjc1YtaDJiNmJ3ZUpfNlBtS2V5UmZ5dFFwLTQ1NnotcFZJUWtDeUhxQ1p4dG1RRzRTOTlFdk1GbjFuZEhOWTFqZEphb3c?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "1ed039bd3385898bcc18e5f2282df0a2",
+   "published": "2026-11-02T00:37+05:00",
+   "time_tashkent": "00:37",
+   "region": "БВ",
+   "type": "smi",
+   "source": "GNews/СМИ Ближнего Востока 2",
+   "feed": "GNews/СМИ Ближнего Востока 2",
+   "paywall": false,
+   "title": "Trump Reportedly Holds Call with Netanyahu Over State of Iran War - ASHARQ AL-AWSAT English",
+   "summary": "Trump Reportedly Holds Call with Netanyahu Over State of Iran War&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVJSR1F4aXVqT2ZTUVY1VTQyZ0VISWR2dHBCNm5TbnhJek5JZ1lZZVVSR182NHNPTWkwV1FVdy03djE1UUdZZnR4S1NRWnVXWC1KcXJaaVVxRVlSa0FsX1RsSEpBSmtCZ2hIemVuUTFlUjFZekJDYXVWbzh4clpjQXRuM0luOUxlb2xNQ2QycV9zYXNXZnhtS09lTEJlMTA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "96e91f525689a034574f9c43940fedee",
+   "published": "2026-11-02T00:37+05:00",
+   "time_tashkent": "00:37",
+   "region": "МИР",
+   "type": "smi",
+   "source": "France24",
+   "feed": "France24",
+   "paywall": false,
+   "title": "Michigan ‘Betrayal’ & Mid Term Manouvres",
+   "summary": "France 24’s Spotlight Presenter Gavin Lee assesses the last minute campaign dramas and takes an US election overview on the ‘must watch states’ alongside Professor Donald Green, Professor of Political Science at Columbia University and co-author of t",
+   "link": "https://www.france24.com/en/tv-shows/spotlight/20261101-michigan-betrayal-mid-term-manouvres",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "4664e9ac411593f3b6cee073bff56f38",
+   "published": "2026-11-02T00:35+05:00",
+   "time_tashkent": "00:35",
+   "region": "АТР",
+   "type": "gos",
+   "source": "CGTN",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "Evolving China-Germany ties: A new engine for China-EU cooperation",
+   "summary": "Evolving China-Germany ties: A new engine for China-EU cooperation&nbsp;&nbsp;CGTN",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT2tQRXJKNktuN3l3a3EzcmpydFhITFZwUGlsWG05dl9KRXUzSUVxRENLX1I1QjdsLU4zZms4S1NiWUpoNGpQSkdGVVFyeW1mU0dRblYzZlBIeW1VZDd2YXdvMW1mZ3JsR0ZJVGFoNF83Sjg0TW9FNHR5ODJkWjUxSTVsbkc4SEJEcUotZ0ltSzgtVFVfeTRxdEd3TUExRVVRWFFZZUZJdm1hZ2t2RXlNUEd1clc4WUZzWDJlN1kzWQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "74bc760b79abc2a771500864bb9827c5",
+   "published": "2026-11-02T00:35+05:00",
+   "time_tashkent": "00:35",
+   "region": "БВ",
+   "type": "gos",
+   "source": "IRNA English",
+   "feed": "GNews/Госагентства Ближнего Востока",
+   "paywall": false,
+   "title": "Iran’s defense doctrine no longer bound by ‘geography of a threat’: Leader’s advisor",
+   "summary": "Iran’s defense doctrine no longer bound by ‘geography of a threat’: Leader’s advisor&nbsp;&nbsp;IRNA English",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaXZsamtXY3U4cmtqMS15OWptU21Mc0VYa2J4MFdERmRJeUtmVnJGX2N1UE1PM3JHNWtvNTZSQjB1Sl9FaHNNcFhZVlgwTU1NOE9ON2hmX29INGFLajZSRHRoQ1d3SmFwTTdfZi1DOTM3d28ycFExT01hNFc4eWN1SDRKZHpIUk4weGpPS0ctclZvSF9TOF9TQm1Pb1pBZ9IBR0FVX3lxTE1OWHJ1NV9LcVNnX0psTWpwQWIzUzFIREZndnN0LVREdndnME03eEpzVHA2bzlXM2lCY2p2Sy01VzZqOWlhOG80?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "f5e10023477c2de880e7e2331c8d021d",
    "published": "2026-11-02T00:32+05:00",
@@ -48,6 +184,29 @@
    "title": "Protesters loot shops, 100 officers injured as riots spread to Germany - ABC News & Headlines",
    "summary": "Protesters loot shops, 100 officers injured as riots spread to Germany&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcmJoTTk4SS1VUk92dEFhaUswVjc5SzNVYnotN3h1Sk1EUjQ4c3VGc0ZBT1pSUy1PM292VjlvdUQ4NjNRdnp5TWRlT1FHeThUOXFpTVRLQndkV0tFMzZ5UURGa2pIQ3lwVHBscUt0WUdfUHJoZ0RzS1hpT3VabFFWbEZFeUlfdEpKLWc?oc=5",
+   "also": [
+    "ABC AU Politics",
+    "The Age"
+   ],
+   "also_links": [
+    "https://www.abc.net.au/news/2026-11-02/protests-europe-germany-frankfurt/107334774",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVk1BWXB4bnAtSFR6R212MTVqZkl0eUZZdVo4aF9ucVV1N0dyU3BXVm40clJvNl9XYlpmYjExM09leUxRTEtmSGZOTE1mTWNLTk4yQzhjUHZXWV9OYUlLTmNueWFYUHJOTElXcHRHV2RoRTBObWpvcnN0ckp0cGZOcG5XMXdZQXI0MVg3NVljNG12a2JxU1dQbU1zcw?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
+  },
+  {
+   "hash": "718a2a78f6f741db6a358d1adee8f1c2",
+   "published": "2026-11-02T00:30+05:00",
+   "time_tashkent": "00:30",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "paywall": false,
+   "title": "Iran: Spy Arrested for Providing Enemy with Locations of Missile and Drone Component Production - وكالة سبأ",
+   "summary": "Iran: Spy Arrested for Providing Enemy with Locations of Missile and Drone Component Production&nbsp;&nbsp;وكالة سبأ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9Qc3pGQ0lObHVzU1RJYXcwYXVOSzZCZFE5Q19HMk5Ed256M2ZQc1VtdVd3R3A1YTJPV1RqWWJDUDBMUUpqdkxMRDZqVHFDb1U?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -109,6 +268,27 @@
    "confirmed": true
   },
   {
+   "hash": "9c385d9f7de987296c02f7dbc82b5b2f",
+   "published": "2026-11-02T00:27+05:00",
+   "time_tashkent": "00:27",
+   "region": "АТР",
+   "type": "smi",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
+   "paywall": false,
+   "title": "From today NSW gun owners can return their weapons. Here's how it will work",
+   "summary": "Only NSW and the ACT have so far agreed to join the national gun buyback scheme, which takes effect from today.",
+   "link": "https://www.abc.net.au/news/2026-11-02/what-to-expect-nsw-gun-buyback-begins-for-one-year/107330518",
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVhNc1B0blFGWEhzMEgtSHVnMXQtaUJTTkVPcmxGZWk4Vk5HUURkeFhRVDNuZGdlX2dqM0wtSlItS0VkdzdDYlhzQXlTUlN2cXpKbFd5cEhYZFFCMGtBYVlWTDRIZkh5Z3hxWDQ3QlJhNXhTRzA4Q2twS2hJRUQ1QnB5N2FZdE9nQXJ6YWN6V0lvWHRoOTJpWHBUd283UFZs?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "5a1f8055b9fcd328aaf48f008cdc03e7",
    "published": "2026-11-02T00:27+05:00",
    "time_tashkent": "00:27",
@@ -141,27 +321,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "9c385d9f7de987296c02f7dbc82b5b2f",
-   "published": "2026-11-02T00:27+05:00",
-   "time_tashkent": "00:27",
-   "region": "АТР",
-   "type": "smi",
-   "source": "ABC AU Politics",
-   "feed": "ABC AU Politics",
-   "paywall": false,
-   "title": "From today NSW gun owners can return their weapons. Here's how it will work",
-   "summary": "Only NSW and the ACT have so far agreed to join the national gun buyback scheme, which takes effect from today.",
-   "link": "https://www.abc.net.au/news/2026-11-02/what-to-expect-nsw-gun-buyback-begins-for-one-year/107330518",
-   "also": [
-    "Australian Broadcasting Corporation"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVhNc1B0blFGWEhzMEgtSHVnMXQtaUJTTkVPcmxGZWk4Vk5HUURkeFhRVDNuZGdlX2dqM0wtSlItS0VkdzdDYlhzQXlTUlN2cXpKbFd5cEhYZFFCMGtBYVlWTDRIZkh5Z3hxWDQ3QlJhNXhTRzA4Q2twS2hJRUQ1QnB5N2FZdE9nQXJ6YWN6V0lvWHRoOTJpWHBUd283UFZs?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
   },
   {
    "hash": "d85abea6e46ab25a4fd88e3baea17bbb",
@@ -219,23 +378,6 @@
    "confirmed": false
   },
   {
-   "hash": "cb3c480269e5c9f8e82661f6b47b02ab",
-   "published": "2026-11-02T00:19+05:00",
-   "time_tashkent": "00:19",
-   "region": "БВ",
-   "type": "smi",
-   "source": "Palestine Chronicle",
-   "feed": "GNews/Израиль и Палестина: СМИ",
-   "paywall": false,
-   "title": "Herzog Says Election Results Are a ‘Fact’ as Netanyahu Attacks Arab Parties",
-   "summary": "Herzog Says Election Results Are a ‘Fact’ as Netanyahu Attacks Arab Parties&nbsp;&nbsp;Palestine Chronicle",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0k3UFhzREI4LW5rVVQ3elV6Zm5MRDhPSjZ5eWwzQVdqU19rOE91UDdTcmNZaC04T2RMS0ZTUlpZNnJsWkEtYVp5VmtaM1AtRzNmZzNhM1Jsd0RDbVY3bkhMRTlNbXNQeUdfUjdTZzd0MlctRkxvbHVwOU5wNFVNVjRzNnA3OTZUTnNOUk85X2Nmek5mN3FFY2pEX2t0eFpJVTNHRmdEai1Pa0w0Q3c?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "9b74e60e25e89f85cc5d1ff56f8c34ce",
    "published": "2026-11-02T00:19+05:00",
    "time_tashkent": "00:19",
@@ -253,26 +395,24 @@
    "confirmed": false
   },
   {
-   "hash": "043123440e4e643287105f4a6ba6c240",
-   "published": "2026-11-02T00:18+05:00",
-   "time_tashkent": "00:18",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
+   "hash": "cb3c480269e5c9f8e82661f6b47b02ab",
+   "published": "2026-11-02T00:19+05:00",
+   "time_tashkent": "00:19",
+   "region": "БВ",
+   "type": "smi",
+   "source": "Palestine Chronicle",
+   "feed": "GNews/Израиль и Палестина: СМИ",
    "paywall": false,
-   "title": "In break with party unity on eve of US midterms, Democratic lawmaker endorses Republican rival in Michigan Senate race",
-   "summary": "In break with party unity on eve of US midterms, Democratic lawmaker endorses Republican rival in Michigan Senate race&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjR5OUp3cDRZYU9RV1JhTUliaXUtVV91enJidWJNclh1bjdMSTFGQ0pqLTQySHhfN3lHYk5FWFVjMFJLenktd1FpZmNiZmhRTHJRNnV5TXdyNHl2aDR6TFM3eUhIZ3BUU2E4QTE2RU9ZQ0RobnlrYjR2cUU5TVJuaHUyRDFDVGVTTTBEM3liOThKYW1UaUx5NTBYTlZqZG5pWXdOTXpoU2NienRwdlZnWC1QUFN6V0pxbDFqV3BjSkZXZS16VjJacnBxbFppM09GRkY1ZFhFLXBxbm9JMDl4aDlBcTV0XzBNMmdV?oc=5",
+   "title": "Herzog Says Election Results Are a ‘Fact’ as Netanyahu Attacks Arab Parties",
+   "summary": "Herzog Says Election Results Are a ‘Fact’ as Netanyahu Attacks Arab Parties&nbsp;&nbsp;Palestine Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb0k3UFhzREI4LW5rVVQ3elV6Zm5MRDhPSjZ5eWwzQVdqU19rOE91UDdTcmNZaC04T2RMS0ZTUlpZNnJsWkEtYVp5VmtaM1AtRzNmZzNhM1Jsd0RDbVY3bkhMRTlNbXNQeUdfUjdTZzd0MlctRkxvbHVwOU5wNFVNVjRzNnA3OTZUTnNOUk85X2Nmek5mN3FFY2pEX2t0eFpJVTNHRmdEai1Pa0w0Q3c?oc=5",
    "also": [
-    "BBC World",
-    "CBC World"
+    "National Post"
    ],
    "also_links": [
-    "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-    "https://www.cbc.ca/news/world/abdul-el-sayed-haley-stevens-9.7404925?cmp=rss"
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTlNPbXU0cFNPT19IZF9OMGZzQXVaMWFGTDFEZnJjYlVPaFpwS05KdWpZZ1g4S0xlLVcwRW9GWDZOOWMwdW9uQUJVcl9CeE54WkhhT0JFc2UtOEljQlFUeEN6azV5WV9UOUZWQXA1MHpHN0Jwbm5MRFBLUjBzWmdFZmh4ai1GTkhoSlFPNXRoZHVMTlg1VmVHMjVRbDd6NC1XQzEzNmRkMHRqR3RDeVE?oc=5"
    ],
-   "sources_count": 3,
+   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -293,6 +433,31 @@
    "confirmed": false
   },
   {
+   "hash": "043123440e4e643287105f4a6ba6c240",
+   "published": "2026-11-02T00:18+05:00",
+   "time_tashkent": "00:18",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "In break with party unity on eve of US midterms, Democratic lawmaker endorses Republican rival in Michigan Senate race",
+   "summary": "In break with party unity on eve of US midterms, Democratic lawmaker endorses Republican rival in Michigan Senate race&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMjR5OUp3cDRZYU9RV1JhTUliaXUtVV91enJidWJNclh1bjdMSTFGQ0pqLTQySHhfN3lHYk5FWFVjMFJLenktd1FpZmNiZmhRTHJRNnV5TXdyNHl2aDR6TFM3eUhIZ3BUU2E4QTE2RU9ZQ0RobnlrYjR2cUU5TVJuaHUyRDFDVGVTTTBEM3liOThKYW1UaUx5NTBYTlZqZG5pWXdOTXpoU2NienRwdlZnWC1QUFN6V0pxbDFqV3BjSkZXZS16VjJacnBxbFppM09GRkY1ZFhFLXBxbm9JMDl4aDlBcTV0XzBNMmdV?oc=5",
+   "also": [
+    "BBC World",
+    "CBC World",
+    "CNBC Top"
+   ],
+   "also_links": [
+    "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+    "https://www.cbc.ca/news/world/abdul-el-sayed-haley-stevens-9.7404925?cmp=rss",
+    "https://www.cnbc.com/2026/11/01/michigan-senate-stevens-rogers-endorsement-el-sayed.html"
+   ],
+   "sources_count": 4,
+   "confirmed": true
+  },
+  {
    "hash": "037804f056bc69e0cac6788a601bf07c",
    "published": "2026-11-02T00:17+05:00",
    "time_tashkent": "00:17",
@@ -304,10 +469,14 @@
    "title": "Saudi Ministry of Sport, Royal Commission for AlUla Sign MoU to Develop Sports Sector - ASHARQ AL-AWSAT English",
    "summary": "Saudi Ministry of Sport, Royal Commission for AlUla Sign MoU to Develop Sports Sector&nbsp;&nbsp;ASHARQ AL-AWSAT English",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSThORFZvZmd1N2h0c2hNR0ZaYjh4aGxzQUgyZnY2N3ZqdmpURWVtMWlyZ2F2RTdac0NKSDhVVEdSTUpaSk02RExJRzI4dXJvYlM1bVJ1ZklpTXV0TS1YbEJocHVvRFhRbWtFejdjeG1udVNRRDN6LVBVdXJESFE2RHlpVjMwMmpCcVBuSktySmpjeUFKODctbFgwWFFCbjVjNE1oQnM2LUhqZ2h0OUxSOGZhVjh3NVk?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "GNews/ЕС и НАТО"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMilAJBVV95cUxPT1NUWXFwV1phRGdFSjhWbEc2RUxpWm04eGFHOWxWRnlfV1ljMHVUdHYxZllLSk53d2FEOXl6cl95NjR6dlVXZ1Y3YUpPWGYzT3l2dzVRdlFWMU82ejduU1RjU1UyZEY0SU1IVmN3dFRxX204UlNtUGlpTmh3RmYxMEdrajJtM1RBUFBvTmVCR21vbVRoZENrOEl1RVVSNVloUVR2TDRJclVONW5EaHBFQ0JVTWlZWDRWUUprWnFEbzBWY3Z5UDd1N2F0VEhjY00ta2RWQWxoeXl0SjA4LU1xTU5HeGNoY1dLLU94ZjRlMUltU3dTV1pROTJfb2NadEJYUC16WjVMdnZ3YW80UXB1TUFTT0U?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "8ff14df9e0c622ade2cd86a683810334",
@@ -402,12 +571,14 @@
    "summary": "Trump Praises Haley Stevens for Endorsing Mike Rogers, Calls Her Brave&nbsp;&nbsp;Metro Detroit News",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdmhUMmp1S0VaelY1dEVfZXhZRDZKVWhnSGYyaUY4VjJITGo0dzNrSG9SdlhwcW1zWm11UDJLNE53YUthZkJ4T3RCWlFHR3hsSnpFQzZqMTcxaDJEMWVFcnpCZjdtWkNqVTFoQ29tTUNiNk9MaDZreHRiTTJEVjQ2V3E4bFpjWnY2TUZhM2JGQ2NiT0hRT3Q0XzU4UzdPZENWaDBVRQ?oc=5",
    "also": [
-    "Axios"
+    "Axios",
+    "GNews/TruthSocial"
    ],
    "also_links": [
-    "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate"
+    "https://www.axios.com/2026/11/01/haley-stevens-mike-rogers-church-michigan-senate",
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVUEweDNqazR4ZnlBQzVoeFRodHRpZFBsczY2REVuUWhDeVhKYlNjXzZUOHNjVDFIY1JseHlHcW1DWWNKN2trbndjMjg0V3FYUTlfR2l4bS1vSW5hNjgzYjlDY3pLWmFqM2xzbzZZaW5UMElLdmlTMTdBUmYxRFh4TVZ3cG1WdThKN09HRFk5Z21KYkJaMEZVMlpKWXJiQld3UGpXa1o5Vl9MdUJjWGtQbW9lY3RqMUVDWEdDZWJ1NA?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -477,10 +648,16 @@
    "title": "Dwindling support",
    "summary": "India and the world must stand up against the bullying of Cuba by the U.S.",
    "link": "https://www.thehindu.com/opinion/editorial/dwindling-support/article71654007.ece",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "ABC AU Politics",
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://www.abc.net.au/news/2026-11-02/financial-abuse-via-services-australias-child-support/107295686",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSEJvZmt1MDktTTkydUlYMEdRS1BvbEZJaXlmNnVQRkVFNDR0eHY2a0MyU2RmZjVkSEFpMVdkM2k2RTZQTEV6VkFVODdDaHVzamk4SnFMUm5VM19obFlnNExSaGt4Y29xbUJ0OGNsVm41WDJXUE81Ry1YN1ZxdEdNRllLbGpJd3kyMkI5cThoUGxLZkRrYUJCWHgyakZ5N2xiTEpMdQ?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "17fd998bed1d993eac736d7fc8c1a78a",
@@ -551,6 +728,23 @@
    "confirmed": false
   },
   {
+   "hash": "5c784770e19d0bf88f59360c9116472a",
+   "published": "2026-11-02T00:04+05:00",
+   "time_tashkent": "00:04",
+   "region": "США",
+   "type": "smi",
+   "source": "NPR",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses",
+   "summary": "Judge tosses Trump's attempt to block Alaska Senate results if GOP incumbent loses&nbsp;&nbsp;NPRJudge tosses DOJ’s attempt to delay Alaska Senate results if Republican loses&nbsp;&nbsp;The Washington PostInside Democrats’ Secret Effort to Stack Alas",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc0tqclpGdHZtME0wZFY2LWpLZHF3TG5BMmk3RUM2SkdvWVI5c0tJa2pOTzJvN19pRFhkQng0ZUloMGVmSUZoQ1V3cE5PWkRWX1ppaHpFV0F4WDVVSVF1eDFPT2N3WnBROEpOdVR3QkYtZVZTcl8wNGpLZ05wSi1fdE5tbU5nNE9UX2VQX0gxbWlhQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "cb6f7b6a66372f29dbc2488148aeab52",
    "published": "2026-11-02T00:02+05:00",
    "time_tashkent": "00:02",
@@ -565,6 +759,29 @@
    "also": [],
    "also_links": [],
    "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "52f2d094642f927a8981c517b8b7d6ff",
+   "published": "2026-11-02T00:02+05:00",
+   "time_tashkent": "00:02",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC Top",
+   "feed": "CNBC Top",
+   "paywall": false,
+   "title": "Judge dismisses DOJ lawsuit over Alaska Senate election",
+   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
+   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
+   "also": [
+    "NBC News",
+    "The Express Tribune"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFlaVlhKRUJyMGFkM0w1dEJOQzFHYWw1RThkczBNTlVVWGVrU3ZfNFR1UjNoelNmY0M0YkJrdmM0WnVidVMzQ21tOVZvNm5ONnJZUEJySjhIMjZnclFwSUJheWozSG1xU1Bnc2QzeEZHOThDekZYR2tLbW5yajFqOXFmU3pHOFVWeU05ZWljbmVSN1c1RTYzRlk4ZWJVNmt6bGlJbGg3cHR4YXMyS2Y4Z2hDN1hRQmxjRFJqNG9QVQ?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUGJ6UDE0Mms5NGpNLU1ueEhad0lLTlJvb2ZvSm5OejVXTDJ0TnlrR3FraWhiTkdVbXdsWlVHeWEzc2t5bzZfcG42Mlk0c2w1TXlPU2JBVkVPblZKNTdWU0Y1eDFOTnFXaWpwVXRCNUg5TjU2eHlXdVlyc1ZRWUI3WG9vSlRnNXVIRUZ0Z0k0c29GQdIBmgFBVV95cUxOY2dfODVSVzY4ajFLeVhIaEthNTc5RmphbUFDRW41YXlWWGQtWE4tOU5sUVNBa1o4RzVfRzZIam02Qko5Mk1VLU5DWk1HMjBpX0ZjRXVkMnNoRzVEcy1TQTRLMmR1NnhRODBadnpwNnZub2dYQ0JmZ1d4LWlUc1BoTUNxMmM2aFVuZnI0V2tjZVhNb0hIX1RUUHNR?oc=5"
+   ],
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -583,23 +800,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
-  },
-  {
-   "hash": "52f2d094642f927a8981c517b8b7d6ff",
-   "published": "2026-11-02T00:02+05:00",
-   "time_tashkent": "00:02",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC Top",
-   "feed": "CNBC Top",
-   "paywall": false,
-   "title": "Judge dismisses DOJ lawsuit over Alaska Senate election",
-   "summary": "Democratic nominee Mary Peltola is facing two candidates named Dan Sullivan in the Alaska Senate election, one of whom is the Republican incumbent.",
-   "link": "https://www.cnbc.com/2026/11/01/alaska-senate-doj-lawsuit-dismissed-sullivan-peltola.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "92a73765b4f8d0864c4adee74acba739",
@@ -653,23 +853,6 @@
    "confirmed": false
   },
   {
-   "hash": "2c5b1e5c65672104a71ac308a19f25b6",
-   "published": "2026-11-02T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "БВ",
-   "type": "smi",
-   "source": "GNews/СМИ Ближнего Востока 2",
-   "feed": "GNews/СМИ Ближнего Востока 2",
-   "paywall": false,
-   "title": "Lebanese Concern Over 'Third War' Despite Hezbollah Assurances - ASHARQ AL-AWSAT English",
-   "summary": "Lebanese Concern Over 'Third War' Despite Hezbollah Assurances&nbsp;&nbsp;ASHARQ AL-AWSAT English",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXg3MWItZENUWUhubGl4SFB5enNHY0dwd2FRMkdwbDVVUURPSUxBU1JBZ2U1dVdJVWlYLUUxN0NUekJLclBnZzE2YmFHZVZYUFgyTGVUdDYtV05Jb3VFZmwtT2lHOTIyZHE2SGdKRjdfa0ZwSmE0MnBoZlVrWDV5LXB6UHU3ekZJQ3NIY3RxbVRWaThic2pTaXFlMWxtYzE5VDB5aTBZY1BZdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "80380aa9583cd2401a0a6ce7230511e1",
    "published": "2026-11-02T00:00+05:00",
    "time_tashkent": "00:00",
@@ -681,6 +864,23 @@
    "title": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates",
    "summary": "Week Ahead for FX, Bonds: U.S. Midterms, Jobs Data in Focus; BOE Expected to Raise Rates&nbsp;&nbsp;WSJ",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnh0RUxfMGk2OW1JOE1LUUFsNkJzamc4RkZKODNFTlVSWk1wR2VseGlFWF9zZ1RKdTlrNVZldm94LWpIa3hHcVdjV3NmdlhqdWh5UlE3UTVyR1AyWUhrRGlpTVN3RkJOZGE4WVBDM0FHdW9jYmZua3RBWFhVOV80alRyUkY2V0ROb0Vrem1Jbmw3Qml2Zm1WZERhdWFCVUIyazVDc1VWemVEall3dGhDVG1RaE9Lc05KVXpDMg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "2c5b1e5c65672104a71ac308a19f25b6",
+   "published": "2026-11-02T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "БВ",
+   "type": "smi",
+   "source": "GNews/СМИ Ближнего Востока 2",
+   "feed": "GNews/СМИ Ближнего Востока 2",
+   "paywall": false,
+   "title": "Lebanese Concern Over 'Third War' Despite Hezbollah Assurances - ASHARQ AL-AWSAT English",
+   "summary": "Lebanese Concern Over 'Third War' Despite Hezbollah Assurances&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaXg3MWItZENUWUhubGl4SFB5enNHY0dwd2FRMkdwbDVVUURPSUxBU1JBZ2U1dVdJVWlYLUUxN0NUekJLclBnZzE2YmFHZVZYUFgyTGVUdDYtV05Jb3VFZmwtT2lHOTIyZHE2SGdKRjdfa0ZwSmE0MnBoZlVrWDV5LXB6UHU3ekZJQ3NIY3RxbVRWaThic2pTaXFlMWxtYzE5VDB5aTBZY1BZdw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
