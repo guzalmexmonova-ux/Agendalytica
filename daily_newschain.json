@@ -2,23 +2,112 @@
  "date": "2026-11-01",
  "window": {
   "from": "2026-11-01T00:00+05:00",
-  "to": "2026-11-01T05:21+05:00"
+  "to": "2026-11-01T05:37+05:00"
  },
- "updated": "2026-11-01T05:21+05:00",
- "count": 438,
+ "updated": "2026-11-01T05:37+05:00",
+ "count": 461,
  "by_region": {
-  "МИР": 81,
-  "США": 60,
-  "ЕВ": 66,
+  "МИР": 85,
+  "США": 63,
+  "ЕВ": 70,
   "УКР": 5,
-  "БВ": 65,
+  "БВ": 68,
   "ЦА": 2,
-  "ЮА": 10,
-  "АТР": 98,
+  "ЮА": 11,
+  "АТР": 105,
   "АФР": 25,
-  "РЫН": 26
+  "РЫН": 27
  },
  "items": [
+  {
+   "hash": "443a3dd11561ad479f1be9bed6fc5507",
+   "published": "2026-11-01T05:23+05:00",
+   "time_tashkent": "05:23",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTL Today",
+   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
+   "paywall": false,
+   "title": "'Disgraceful' Australia face reckoning after South Africa humbling",
+   "summary": "'Disgraceful' Australia face reckoning after South Africa humbling&nbsp;&nbsp;RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRzQxc3JBQ0k3UXF1dlduanB1aTVWdXVhdE16QnlIYUJZSzdXb2tfLXIycU4wTTlrM1dVV1JJNFd3SlVoTWp4U25CbGx4RVdnQVVXMkFKVVFzOVJqUWlSaDdDek1ZZEJ4MDVmaU1JeTNfWjlRUXhJUklQSnN0QlhFd2JBbkVnbmsxSmpnc195cDRXdXpPVXZLVFJPMlRUdVVVQ2lobDI1TDFFeG5fVE5qZ3ZqaWpqZ1U?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d4c37743a646c915e0c9dcb89bb3924f",
+   "published": "2026-11-01T05:20+05:00",
+   "time_tashkent": "05:20",
+   "region": "АТР",
+   "type": "smi",
+   "source": "SMH Politics",
+   "feed": "SMH Politics",
+   "paywall": false,
+   "title": "Gallagher won’t guarantee Labor will cut more than it spends despite mounting pressure",
+   "summary": "Finance Minister Katy Gallagher has put all government spending under scrutiny as Labor searches for budget cuts, but won’t guarantee savings will outweigh new spending.",
+   "link": "https://www.smh.com.au/politics/federal/gallagher-won-t-guarantee-labor-will-cut-more-than-it-spends-despite-mounting-pressure-20261101-p61ac4.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "91a9b1ec27d8d973701c5e0c1b2292c6",
+   "published": "2026-11-01T05:19+05:00",
+   "time_tashkent": "05:19",
+   "region": "АТР",
+   "type": "smi",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
+   "paywall": false,
+   "title": "WA rapper pays tribute to family's land rights battle, defends lyrics",
+   "summary": "Western Australian rapper Kurrungaya Bieundurry, known professionally as Kayps, takes inspiration from the Indigenous land rights movement for his new album, Bunuba Baby.",
+   "link": "https://www.abc.net.au/news/2026-11-01/australian-indigenous-rapper-kayps-family-culture-noonkanbah/107057398",
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNT3M1bk8yZXZxS3lzbDZiTGkzaW9vS2gwSWU4S3d6RFM3UVFraExMREdKSmdtR1QxaDN3ejJCb3h6WjQxdmNxTDg2aU9pLThHYmF0ckt0LXZIb2ZtNXdZZ0hqSkRuUnNGUzcwTFV6cWxsX1l4MnVwc3ZXZHZ1WHlJNUVXcHp1QjRYMkZ5clJlM3hBampLQUo0TGJQcHJVNjR2Qnd5MEpkWENLU1FfeEE?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "c36ec4e8b11bd5b5fef9d7d93762e19c",
+   "published": "2026-11-01T05:18+05:00",
+   "time_tashkent": "05:18",
+   "region": "АТР",
+   "type": "smi",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
+   "paywall": false,
+   "title": "Six dead, four injured in horror weekend on Victorian roads",
+   "summary": "Six people — including three motorcyclists — have died and four others have been seriously injured on Victorian roads since Friday.",
+   "link": "https://www.abc.net.au/news/2026-11-01/six-people-dead-four-injured-weekend-victorian-roads/107333164",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "86bb86ee5108b73ca946cf5199496ab0",
+   "published": "2026-11-01T05:16+05:00",
+   "time_tashkent": "05:16",
+   "region": "АТР",
+   "type": "gos",
+   "source": "CGTN",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "TRUMP SAYS NO PLANS TO MEET WITH FLAVIO BOLSONARO BUT HE CAN 'STAY HERE AS LONG AS HE WANTS'",
+   "summary": "TRUMP SAYS NO PLANS TO MEET WITH FLAVIO BOLSONARO BUT HE CAN 'STAY HERE AS LONG AS HE WANTS'&nbsp;&nbsp;CGTN",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xb3psY0lYdFFMOEJhY2ZTUHJNX25fMlNyRGJLNzNHV1k1TnltUzlVNHlLMmZqRlR5RnZOdmZZMWNkekw0TGRoY3EtZExiYXJUMjNlZE5VMEZhdEZPeVBxMnJCOWZXc3JIcElxMTZn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "3115c0ed5d05eed985870d745b36e788",
    "published": "2026-11-01T05:12+05:00",
@@ -37,6 +126,23 @@
    "confirmed": false
   },
   {
+   "hash": "f6f607be569d14f97e8dc03b69707496",
+   "published": "2026-11-01T05:12+05:00",
+   "time_tashkent": "05:12",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Reuters",
+   "feed": "Reuters",
+   "paywall": false,
+   "title": "California governor asks US judges to resist Trump attempts to seize ballots",
+   "summary": "California governor asks US judges to resist Trump attempts to seize ballots&nbsp;&nbsp;Reuters",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVlXWHJiT1ZELXhOM3ZVM1hySTBsenhZbUxYdDRCN1NTcnFRN0xXcWFhVjZ2NDhnLVRzOFhGNzNtOEpXV3RUOWVtSW9tbFlqY184eVFqbUpPRXNQbnl6Q2V4SVVjdU1UZ0tMdGdpdWhhZjM3N3cwSTBPdGIwSXZSeXYxR0JySnhKdE02dzJmYmpvUXlwb05GeUl5QzhjZzNPRVU3VDBDRE1hemVyWHJzendXXzBaWWRKakZqTlh3a3U?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "edafcdb1f404dc97af3e611566ac65b7",
    "published": "2026-11-01T05:09+05:00",
    "time_tashkent": "05:09",
@@ -48,6 +154,23 @@
    "title": "Rare footage shows 6 Bryde's whales feeding off Weizhou Island, south China",
    "summary": "Rare footage shows 6 Bryde's whales feeding off Weizhou Island, south China&nbsp;&nbsp;Xinhua",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3Y29kaGJ0aVFfZXlHZ0huSEpDekotTGNJckZzRzhjUEx3d3FhcWpsTkhPVDZURXdCMVNBczNaSkFMcVVTb1p4b3MwU2s4N1h4MkprTEtuZW5TODZCSU5MWXNDeGhvWjAtSkh5VVV1QUMxZUV1Q2tYampEaVc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c515eab17aa00321dadf33fc12896694",
+   "published": "2026-11-01T05:01+05:00",
+   "time_tashkent": "05:01",
+   "region": "США",
+   "type": "pay",
+   "source": "The Globe and Mail",
+   "feed": "Globe & Mail",
+   "paywall": true,
+   "title": "Positioning for America's Next Lithium Opportunity: Elektros (OTC:ELEK) Evaluates Northern New York Potential",
+   "summary": "Positioning for America's Next Lithium Opportunity: Elektros (OTC:ELEK) Evaluates Northern New York Potential&nbsp;&nbsp;The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQaWhNb1JqVmhCTEN4RmlkbFZPUEo0cnNjOHA1dVp2Q1JtNDhjd2oyQWFUNmRLa0xSbk5yV3Vsb0U0UllQZHB1ZEVqcGJrNDRQT3hiTEItNUgyTTNZSEZfZm1ZdjVhQ2Y3V1hIaHk0Tmo4d0NYWVVXUG9Bc3Bta0RQNjFoRWtUUmVLbVJ4X0F2VkRtMml5c3BCN09HMHVqaDhFRTB0UWR5ZHhDVzNEbnlQUWtoX0pIU2NHUlpNOUNaaElDei00MUFEeDQ3ZjVsRHU4MTVwN2VrNWg2SDBlRno3YWhIX1RIcFdvTGpHaEN6aFdSMnNhZVZkZzU3YWFTc2tEaVRJR1JydHkwSWprdzVSZ0VvcEhBbE9TWVdweUU2bUs?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -105,21 +228,38 @@
    "confirmed": false
   },
   {
-   "hash": "a0a31a6a5862baead8cbd12654de0eed",
-   "published": "2026-11-01T04:56+05:00",
-   "time_tashkent": "04:56",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
+   "hash": "b0bffbfe4b35bb8e7289a84cc1136211",
+   "published": "2026-11-01T05:00+05:00",
+   "time_tashkent": "05:00",
+   "region": "БВ",
+   "type": "smi",
+   "source": "Al Jazeera",
+   "feed": "Al Jazeera",
    "paywall": false,
-   "title": "Venezuelan army allegedly bombs ELN camp near Colombian border: Report",
-   "summary": "Venezuelan army allegedly bombs ELN camp near Colombian border: Report&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTFiQ1BEUGZJNHFrd2JHOW1HNXdxdlZZbFlobDJ3UEtuV0hJUGFubXZXaHVHZWdDbm1uVHQ4aERRdWVYRkoxY1dPdktpVEdOZ0k4c3hCWHhmSU95eWYtZS1XRi1rVmN0VDBEMVdvYUlaQ3V6R251ZVhqbjJTMlF2WlkweGh1WnpyWnNNa20ycEJQbEo1NTdDQ19SLThDWUJUMlJNVDhIR3BNamdXT2F2Mw?oc=5",
+   "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+   "summary": "Araghchi says Iran has reached a plan with Qatari mediators to open Hormuz in two days if the US meets its conditions.",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
+  },
+  {
+   "hash": "a42ae0a32bb2ecfbab7883793c5bb014",
+   "published": "2026-11-01T05:00+05:00",
+   "time_tashkent": "05:00",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "An Asian Stock Trader’s Guide Ahead of the US Midterm Elections",
+   "summary": "Asia’s AI-heavy stock markets face a new US policy wildcard in the midterm elections, with the outcome potentially reshaping the tech trade and sectors from clean energy to defense.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-01/an-asian-stock-trader-s-guide-ahead-of-the-us-midterm-elections",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "40e9d6246ec250ac69c95608c855fa43",
@@ -137,6 +277,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "a0a31a6a5862baead8cbd12654de0eed",
+   "published": "2026-11-01T04:56+05:00",
+   "time_tashkent": "04:56",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Venezuelan army allegedly bombs ELN camp near Colombian border: Report",
+   "summary": "Venezuelan army allegedly bombs ELN camp near Colombian border: Report&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdTFiQ1BEUGZJNHFrd2JHOW1HNXdxdlZZbFlobDJ3UEtuV0hJUGFubXZXaHVHZWdDbm1uVHQ4aERRdWVYRkoxY1dPdktpVEdOZ0k4c3hCWHhmSU95eWYtZS1XRi1rVmN0VDBEMVdvYUlaQ3V6R251ZVhqbjJTMlF2WlkweGh1WnpyWnNNa20ycEJQbEo1NTdDQ19SLThDWUJUMlJNVDhIR3BNamdXT2F2Mw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "fcdda37a7540877cbfad05ac4ddc659c",
@@ -211,6 +368,23 @@
    "confirmed": false
   },
   {
+   "hash": "ce720246d36d90a55b00fcd3cb8ebed1",
+   "published": "2026-11-01T04:45+05:00",
+   "time_tashkent": "04:45",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Госагентства Ближнего Востока",
+   "feed": "GNews/Госагентства Ближнего Востока",
+   "paywall": false,
+   "title": "Dengue fever claims 418 lives in Bangladesh amid warnings of continued outbreak - www.wam.ae",
+   "summary": "Dengue fever claims 418 lives in Bangladesh amid warnings of continued outbreak&nbsp;&nbsp;www.wam.ae",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemxlbVV5MjNnRFJELXZXdUpxVzktZ09JbzZHTy1iWV9rOWJGTEtVdVZzRzR1T2l6TlhRRkxkZy1QSjIxWmU0X1c3dHVJWnhaVUZ3eE9wR21CUFB4QjBVRUVRLTl3bGxuNGVXNnFHOFl4MHVRNGlnVklQV2cwWENhQXNhSkowRUtRQzY4?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "fbbd9309174146bc0e05c92e6ff5bbc1",
    "published": "2026-11-01T04:42+05:00",
    "time_tashkent": "04:42",
@@ -222,6 +396,23 @@
    "title": "Esteban Ocon denies disagreement with Haas became physical",
    "summary": "Esteban Ocon denies disagreement with Haas became physical&nbsp;&nbsp;RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmJDLTJMVnRBMGNZc204NXptUjlOZlBfSzRYS0tfaTF1X3N0M0prVlJOOGR0OW5lZ3NHNUtqcl9YTHNJZHN2TXB3ZEpYYzlHOUJGV0dqaFdfemNPcFpEUTdiV1hwQ2ZKbFdybFFwU3pPYmRocDREWURQZUw2OHZDN0dPZWVadHU5bE5hNlg2OF9PeTVNMTlISl80MGwzSHhMWFhva2lfa3U?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "24e99edb8371895b80a81f7ae4f115c6",
+   "published": "2026-11-01T04:40+05:00",
+   "time_tashkent": "04:40",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Japan Times",
+   "feed": "GNews/Япония",
+   "paywall": false,
+   "title": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan",
+   "summary": "U.S. to reportedly deport 150 Afghan immigrants back to Afghanistan&nbsp;&nbsp;The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWE1LUFlxN2NWbnNFUldOczJrRDdWbFlFeV9oNlB6NXdaZGw2MFA4d29YYTlZckdOTDRJRjV2eG0xOHBHZ1dZSERPVHliVlhGQVp3RHpEbVRGc3hmMG9TZWtjWEwzdHhUcXN6UWRqeEk5MXd0aWpiRE9hdjZlUnppbThLdHhvdw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -247,6 +438,23 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "4794a71410d8879078a75c5439888d12",
+   "published": "2026-11-01T04:39+05:00",
+   "time_tashkent": "04:39",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Australian Broadcasting Corporation",
+   "feed": "GNews/Австралия: СМИ",
+   "paywall": false,
+   "title": "Passengers give their verdicts on new Spirit of Tasmania - ABC News & Headlines",
+   "summary": "Passengers give their verdicts on new Spirit of Tasmania&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX1YxRmZKRlpldnNRb2hVYnJMdHRUWTlmcFJudmU1dkFKckY5c25XNFRhRjN4TExZQmRWc3ExSHFKZzl6UkFyWHBpMFcyeEtob0sxWGd2RlNOU2lVLWI5MnpHcDJGd0lxVWQySks0SkpMR1dSb3g5MVEzLTBKbUh4R1FFWlRDSWhDWGdNNEQyMVFnR2lVYWVyM2RZcklabFNpOGR1SFQ4NGY?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "1733e3cadf99b48701ef381035c8a63e",
@@ -294,10 +502,14 @@
    "title": "Protests erupt outside Poland's Constitutional Tribunal amid leadership dispute",
    "summary": "Protests erupt outside Poland's Constitutional Tribunal amid leadership dispute&nbsp;&nbsp;China Daily",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZUU9rWjVpVVBVVUc4NmEwZjQtRHdkVEtyTkh3amZPenVfa3ktcDd4NjBZQks4Q0dpa204S2hCR0l3S1NWQzhTTnhpekVuWHFjYmFxeThNVVl6T0FSODdjd0E4YlZVR2hhSUUwY2lDcHQwX0R0YWRhRWMxYUE2UQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "China Daily Global Edition"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVN5ajFPeVVEUGhwRVRQbXhRbVp0Zmw1T1QtSl9uWXF0OW10cW9UaV9SQXhpR2pIWklXcDZEbE5ka0ljYk5Od1ZNTC15RW1ZVFlQQVhpcEZrSFZaWmU4UDhXTlFZNzhlRUN1RHB3YmFxVTNMX0k4WE9HQ1dhT0hEeHVn?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "684774299a039334e860d81f047d520d",
@@ -361,23 +573,6 @@
    "confirmed": true
   },
   {
-   "hash": "8c787d99a5b68c7f327c664ff1f0534f",
-   "published": "2026-11-01T04:29+05:00",
-   "time_tashkent": "04:29",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Heavy rains leave 1 dead, 2 missing on Ecuador's Santa Cruz Island",
-   "summary": "Heavy rains leave 1 dead, 2 missing on Ecuador's Santa Cruz Island&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnAyd3JmOXZWdUpwTDFkQWR1SXBHQUo0QlUyWG1jZURMQmc4X2p6a3JMdWNfYnA4dUcxZ3J2ZHViWWZXLVU1anpYUUEtX1BSek1uYU1FaTQ0cUhTRTI4bl9VMHFid0RDRmN6dTVKRUJFeGdsUDIwQTB6ZFhqZE10bGJwMWxMX2NlcTktMl9qaEN3UU1ocjZNRDFoX2d2RE1IMW5ua3RLMnhyUQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "00bd71a506f96ed483a372c51175604a",
    "published": "2026-11-01T04:29+05:00",
    "time_tashkent": "04:29",
@@ -393,6 +588,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "8c787d99a5b68c7f327c664ff1f0534f",
+   "published": "2026-11-01T04:29+05:00",
+   "time_tashkent": "04:29",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Heavy rains leave 1 dead, 2 missing on Ecuador's Santa Cruz Island",
+   "summary": "Heavy rains leave 1 dead, 2 missing on Ecuador's Santa Cruz Island&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQnAyd3JmOXZWdUpwTDFkQWR1SXBHQUo0QlUyWG1jZURMQmc4X2p6a3JMdWNfYnA4dUcxZ3J2ZHViWWZXLVU1anpYUUEtX1BSek1uYU1FaTQ0cUhTRTI4bl9VMHFid0RDRmN6dTVKRUJFeGdsUDIwQTB6ZFhqZE10bGJwMWxMX2NlcTktMl9qaEN3UU1ocjZNRDFoX2d2RE1IMW5ua3RLMnhyUQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "060200c9847e978a95640f93fb48bda0",
@@ -535,6 +747,23 @@
    "confirmed": false
   },
   {
+   "hash": "8562ce0e1978ee9b8a2967b3d2a4f2ae",
+   "published": "2026-11-01T04:14+05:00",
+   "time_tashkent": "04:14",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Indian Express",
+   "feed": "GNews/Афганистан, Пакистан, Индия",
+   "paywall": false,
+   "title": "After Theni, another jailbreak in Tamil Nadu — this time in Coimbatore",
+   "summary": "After Theni, another jailbreak in Tamil Nadu — this time in Coimbatore&nbsp;&nbsp;The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTFpER1d1SmlsV3BqSmpIVk9QbWk1Wl9GR084WEc3TTRqMGVVVm96bmhhX2N1bHI4Vk4wa2l2bmpocDFEOENidklneUt3U1RKU0J0UGEyWkV2LVNidmlHLWRhSGJQanJ2VHppRE8tZm15MHBGY0l1MEdfSXVnUHNueEhhYVZTdVI3cTB2dDZtTjN5N19oNHpnQjdLQmFsdzM0a01PVGQ2VDBkYmhHbkdTQtIBtwFBVV95cUxOOUg1T1BzZm4yRkZLU1NJWjI2dkFRbUxEd0hCUEI0V21Oc1FOaGxjdllMLWd0dVNPMzZMS21KYkZjdHktcndYNWxoUGlzODhDZl9zX18zRjRwZWM3bVloTUVTQjZEd2U3ZEJmQWpxNld2cHRtXzZvSGFRUmtvUnBlMlI2Y0dNUnZBRmN6TlRISExkbzFZeWY4UE0zcjgyQk5TWWlBTVB4UUpqbWIwT3FDVXlWUHowX2s?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "d724e499c834347d32de345bc5e52731",
    "published": "2026-11-01T04:12+05:00",
    "time_tashkent": "04:12",
@@ -637,6 +866,23 @@
    "confirmed": false
   },
   {
+   "hash": "4e77b64285836da3069b9ecade0dede5",
+   "published": "2026-11-01T04:06+05:00",
+   "time_tashkent": "04:06",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Reuters",
+   "feed": "Reuters",
+   "paywall": false,
+   "title": "Senators erupt in second period, knock off Sharks",
+   "summary": "Senators erupt in second period, knock off Sharks&nbsp;&nbsp;Reuters",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnlEWnpnY0Y2Y3p3bmxpemJGajFFS0FXUy1LVXVQeWpnbjl4VDJJV2E5N3daLWlVbDUxOHg0ZERwS0FiMnA4bkFiS0JYMWZOTEtjc3RTMGE4MDhrMEdCM1dPbFN0VTRfVFZpdnhSeUJUbWMxRzhxdUhaQTlUVWtBbDhqeEdIQXJIOXBsQTVZaWJYOG9kQnVaOGVzV1Z3dw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "49d58719295e8b02d74cc0848412ac3d",
    "published": "2026-11-01T04:06+05:00",
    "time_tashkent": "04:06",
@@ -648,6 +894,23 @@
    "title": "Why labour unions are rising against the IMF and World Bank",
    "summary": "Why labour unions are rising against the IMF and World Bank&nbsp;&nbsp;The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWFlWQzRicnpYbFJzMEZVREYwcVpoNDBtT3k2Q05DaXRiX3ktbmU1X1dhcWxzaER0OEhKenBLMEJXWlhmVExqUjFkUFd4UDdFd1dOY1JYbU9rbXJxaUJVSFJ3SUVjVC1VMlFscDlMcndJN3NPb2ZyZHNBUl9rSWhHWDlFRU15ZGZ6My1XdFNVSVgwVjdDVW1zN3llckhPS25yMUlCODh6dWNhenVfYzlMVjR2OEd1dw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "ace268d7e702a089feec511e74b062c2",
+   "published": "2026-11-01T04:04+05:00",
+   "time_tashkent": "04:04",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
+   "paywall": false,
+   "title": "Netanyahu vows to form 'strong' new right-wing government",
+   "summary": "Netanyahu vows to form 'strong' new right-wing government&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDdycklfelROTzYzZjFIaTExbk1QUWtoNDlRV18wazczZWpqdllYN2pobHNXOU1MZVpKMHBrc0lYNUpWYnJ1M090bks0bEVqQjVOTXZtUmx5eW84RTNwOUFDYzB5SWdPVktnU2FpR2VPdDhjZkF3a3djY19OdXN6aGV5WDhQbEZKQW9pZV9pWDRhNlF4N2pyY2hvNElsMHRhVUZ3LWN2X2M?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -666,30 +929,15 @@
    "summary": "Protesters in Israel demand government with Arab parties as right-wing activists call for new election&nbsp;&nbsp;Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa1lGNUIwRlNvcnVKdWpKNWRZU2oySVA3WU1FSVNmeXBNcDR4TDZLNkZRQk52UlhvVXB3ZUIxWk5hb2JDMFdUWWh6LUF4eTlfTmNMOGFVSUdRSW1QV0IxMjM4T19RcGxoc3pwVFUwVlYzdjBMZVhkbW9meHByaU9HNGhMUXRvbUNSOUFmZE9uODNyRU1KX3hHUldRMVRydVJoV0xFUldxTkQ1cURhN1JpYklxNUNaZ2o4eVVLUVJsVGxWR2FGSmw2TE01SU9MV0I5V0xhVlZ3WG1vTHpvQjhZSw?oc=5",
    "also": [
-    "AP"
+    "AP",
+    "Haaretz"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5"
+    "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9NOEllM0V6d2pNSU82SmxCRmNYRWxZaWJ0bC1XNFRZMUNlRFZIRC1rT2ZHUG12Mmw5dUg5ZHRxS3dHN1U?oc=5",
+    "https://news.google.com/rss/articles/CBMipAJBVV95cUxOTW1ENkhUODI1aEV2SEVyeDkwbkYxbjhDMHZycDA2MWJfc2JQSzh3eXdWWjhyRWlIOExlcTl4aTlZYUh6VXlYZHR3aENpTEVzeVpMMm40NVRSZnZUbmE1X3FJcFNlQ1E5aVB3OFg0LUhCSXl2RWdiZFM0c0ZQYm52cTZFaUIxa1RoWXhySDM3MGw0WmZsZFZQdzFYYkNHeGVsa2RRTG5wTzRHRG14UmNfMWd1MmdSUlZaa1g2c0ZkaDN4ZUZtakpMUmpvN1NPcWpwQldITmlGeGNPWk0yVjFQQjJwbEZkZWJEVEI3aGthZXFpdGNyVkU3bkQwSEIzYWFFcU12WjFMQ3dPeUZGSHVsQ2p0YnJxUDR5Q3p0cnFKdVVuSlkt?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
-  },
-  {
-   "hash": "ace268d7e702a089feec511e74b062c2",
-   "published": "2026-11-01T04:04+05:00",
-   "time_tashkent": "04:04",
-   "region": "ЮА",
-   "type": "smi",
-   "source": "The Daily Star",
-   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
-   "paywall": false,
-   "title": "Netanyahu vows to form 'strong' new right-wing government",
-   "summary": "Netanyahu vows to form 'strong' new right-wing government&nbsp;&nbsp;The Daily Star",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeDdycklfelROTzYzZjFIaTExbk1QUWtoNDlRV18wazczZWpqdllYN2pobHNXOU1MZVpKMHBrc0lYNUpWYnJ1M090bks0bEVqQjVOTXZtUmx5eW84RTNwOUFDYzB5SWdPVktnU2FpR2VPdDhjZkF3a3djY19OdXN6aGV5WDhQbEZKQW9pZV9pWDRhNlF4N2pyY2hvNElsMHRhVUZ3LWN2X2M?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "532d9d9472f9ad5d4ac995c19b910e81",
@@ -737,6 +985,23 @@
    "title": "Premier League wrap: Bournemouth and Brentford win again",
    "summary": "Premier League wrap: Bournemouth and Brentford win again&nbsp;&nbsp;RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlhiaVhBUnJrYkEtTEhPZGxTd2E4UlJDZlhUQzh6SmllRUZhSURJNkxoNDVHN1F2b08wWXgyRXZDX0dWS2dfRXh5V3JxbGxZMzhHaXU5MlE5RUtiME1CQ1B0bG9fNTFUSWxwVzlCcWhkZU1HSXNzc3I0aVdVN0gzd1E4WUJURVFlUmYyXzFvdWxreXVTS1Vaam14MzdUdnp0MmZ2ZHhmemcwQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "58b992c6bf6e69762eed89f4ef8220b9",
+   "published": "2026-11-01T04:03+05:00",
+   "time_tashkent": "04:03",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTL Today",
+   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
+   "paywall": false,
+   "title": "'Trampling on our constitutional rights': Polish president holds crisis talks in court standoff",
+   "summary": "'Trampling on our constitutional rights': Polish president holds crisis talks in court standoff&nbsp;&nbsp;RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOW5hMmtiZEYxSDBkUGlqQzVWMDFoX0xRWERQUk9Dc3Z1V0dDTEw5N0FzZmFIQmtEb1dFLWhnODNIWm80RjRjVWpELV95cGhwWkV1NWh4dVlJMGZvdkoyeUcydk9NcUFwVldlNVFvZFVIQjJ3b0xtREZJVFRFVWhUMXc3Z0Z4MS1fVGZnUjJyRkFUU28wcllOVXlhRGJORnk3aFMtWXVReVFKR1J2ZlE?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -976,6 +1241,23 @@
    "confirmed": false
   },
   {
+   "hash": "855ee93f6ef4537de52a2db781a335cb",
+   "published": "2026-11-01T03:56+05:00",
+   "time_tashkent": "03:56",
+   "region": "МИР",
+   "type": "pay",
+   "source": "Bloomberg.com",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Live Q&A: What Lagarde’s Exit Means for the ECB and Europe",
+   "summary": "Live Q&amp;A: What Lagarde’s Exit Means for the ECB and Europe&nbsp;&nbsp;Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVkVKMHVtc21kRDl2WXNFSGt5YXpzcGw5WnBlRUkzeGw4MVR2RG9UNVc1T2hpd3VSc3hreHlMRWk2VzZwSkU1WEFYT2ZwN01OblBfTUVTbTBjQmdrSjVOOENJMXRHd0Z4TDBYM3dTZkIyV1JLZ2FfTEVsWTk4bzQtdlJZTldiZkVWY2FaVFFHNUdnOGhIS3M4TzEzWW11cDYxdkE1bEM2WURkZFE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "92ab330de4d6a4a585089a9fde7f9e24",
    "published": "2026-11-01T03:54+05:00",
    "time_tashkent": "03:54",
@@ -987,6 +1269,23 @@
    "title": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks",
    "summary": "Doctors in Ukraine Try Treating Infections Like Biological Warfare Attacks&nbsp;&nbsp;The New York Times",
    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSUJ2dWJFOHRtdHRNaFJvaV9NZ0REaXBOcFljLUxIOF9lOEJOOENQNDBJeHc2bHFNN3c4VXpUb2l6bGQ4TnNId2tFenM0NUh4UTZpQ3FiVFYzbktKSlpjZWZ0azladHUzdUI4Zk1xcE13b2pVNEprWWpoeE00UkFMVUF2MVl3YlEwWnpJXw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "64ae7805f5c56e986882204f8e83e68f",
+   "published": "2026-11-01T03:54+05:00",
+   "time_tashkent": "03:54",
+   "region": "США",
+   "type": "pay",
+   "source": "The Globe and Mail",
+   "feed": "Globe & Mail",
+   "paywall": true,
+   "title": "Copper Road Keeps Ben Nevis Option Agreements in Good Standing",
+   "summary": "Copper Road Keeps Ben Nevis Option Agreements in Good Standing&nbsp;&nbsp;The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTHNkeTBtSS1lem1leXA5N2tGRUtYZERJWVlmWTBpWDhoc1VrQk42WnNUbWNIdk9EWUhlWjRVZ2xxcGFBYnFlR2VKMXVRMzl6QWxrd2RyVjEzRTN6RC1nS0ZOS1hpSnZJV21GbTZObXRaeUNVbmtfZk5MRzByb0tYWjRBVTlnRTVJVGZEangzN2QxN0xmekluNlVyMllGZldvcVZlMktRYjlJY1o1S3QyTGpMWkxNc3poOFVUVXFmLWE0bkRMLVFnZ0xQWGt6LVUzdVFIS1lTMEdvYXc?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1360,23 +1659,6 @@
    "confirmed": false
   },
   {
-   "hash": "37c76b01c285a5564d484de0e0773809",
-   "published": "2026-11-01T03:30+05:00",
-   "time_tashkent": "03:30",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "RAF Protector drone takes flight to track Russian navy for first time",
-   "summary": "RAF Protector drone takes flight to track Russian navy for first time&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelh2VzJIcXh6RExUWTYwaS1sTUF3Z2pmUFBLS3RydkVZLWVRUmUza0xLWHBjbFZxNFhHWG5NUmlxcmdxVFNLT0RiTGtlVW41ZUhHOWM1QXNzUmxHQmxOUkNNZGo2NnVVWE9ibVV2dFEwc2ZaVUJsUi1Dd0g3eFY4ZnNGWkZWSmFNbmFFMGRIT2dkX2ZudHVCdHVR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "ac3fc5a2c0ff7c2ccc866e14bf752366",
    "published": "2026-11-01T03:30+05:00",
    "time_tashkent": "03:30",
@@ -1396,6 +1678,23 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "37c76b01c285a5564d484de0e0773809",
+   "published": "2026-11-01T03:30+05:00",
+   "time_tashkent": "03:30",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "RAF Protector drone takes flight to track Russian navy for first time",
+   "summary": "RAF Protector drone takes flight to track Russian navy for first time&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPelh2VzJIcXh6RExUWTYwaS1sTUF3Z2pmUFBLS3RydkVZLWVRUmUza0xLWHBjbFZxNFhHWG5NUmlxcmdxVFNLT0RiTGtlVW41ZUhHOWM1QXNzUmxHQmxOUkNNZGo2NnVVWE9ibVV2dFEwc2ZaVUJsUi1Dd0g3eFY4ZnNGWkZWSmFNbmFFMGRIT2dkX2ZudHVCdHVR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "3a8214f714a306a5911694aa38bd2cd8",
@@ -1504,23 +1803,6 @@
    "confirmed": false
   },
   {
-   "hash": "377f262ac00e3560638d4fe011f641a6",
-   "published": "2026-11-01T03:15+05:00",
-   "time_tashkent": "03:15",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "KOHA.net",
-   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
-   "paywall": false,
-   "title": "Businessman convicted in US over North Korean missiles owns arms company in Republika Srpska",
-   "summary": "Businessman convicted in US over North Korean missiles owns arms company in Republika Srpska&nbsp;&nbsp;KOHA.net",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWk9OMGx5SWFOY3dQdU5ybG0zbEtCNERoWDFISmtvRlRRNExfTVRCVDd1Zk5rbDFpbG1yOXoyTlFWYVZHNkZMSXVTNkVwUGp1NnNCMUNfOU1KdzY1eUJyNWlxaGk0T2FFWEFTRlA3amR6WnRMVzd2N2pITTFsX3dZQWs3WjR6UWVuNEs1R1djWHUwa2lheEh5QnQ5VEpNQzl4TjFxaVVhVThDc1NFck9wd1RIaFdkTDBIVkF4S01YXzhBQnVuVEUzUXZJUkIwQQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "155566ccda47698bb543ce6e2f61bab4",
    "published": "2026-11-01T03:15+05:00",
    "time_tashkent": "03:15",
@@ -1538,6 +1820,23 @@
    "confirmed": true
   },
   {
+   "hash": "377f262ac00e3560638d4fe011f641a6",
+   "published": "2026-11-01T03:15+05:00",
+   "time_tashkent": "03:15",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "KOHA.net",
+   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
+   "paywall": false,
+   "title": "Businessman convicted in US over North Korean missiles owns arms company in Republika Srpska",
+   "summary": "Businessman convicted in US over North Korean missiles owns arms company in Republika Srpska&nbsp;&nbsp;KOHA.net",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWk9OMGx5SWFOY3dQdU5ybG0zbEtCNERoWDFISmtvRlRRNExfTVRCVDd1Zk5rbDFpbG1yOXoyTlFWYVZHNkZMSXVTNkVwUGp1NnNCMUNfOU1KdzY1eUJyNWlxaGk0T2FFWEFTRlA3amR6WnRMVzd2N2pITTFsX3dZQWs3WjR6UWVuNEs1R1djWHUwa2lheEh5QnQ5VEpNQzl4TjFxaVVhVThDc1NFck9wd1RIaFdkTDBIVkF4S01YXzhBQnVuVEUzUXZJUkIwQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "c6ecde99424dcbe52a3019dce613f946",
    "published": "2026-11-01T03:14+05:00",
    "time_tashkent": "03:14",
@@ -1552,27 +1851,6 @@
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "b530f7a45104863752eda755d0918cda",
-   "published": "2026-11-01T03:13+05:00",
-   "time_tashkent": "03:13",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "RTL Today",
-   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
-   "paywall": false,
-   "title": "Dozens in cuffs: UK police arrest Palestine Action supporters ahead of Supreme Court hearing",
-   "summary": "Dozens in cuffs: UK police arrest Palestine Action supporters ahead of Supreme Court hearing&nbsp;&nbsp;RTL Today",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbG9Fa3VrRkJhNGJCeGhHMzVpUm93NXE2c29oZjBNOWhNMDRKNlJ2ZHVwTXIwSXI4emxKVTZkajhobUZDb01EU3lNYkV3V2lMZmY4ZXNUanljTzA0bkMtNnhhMDduclk1cGp6QklvWlpNZXhPbE56cHdOSzR6cHVNTWNaX05zaWl3TDhfUkNiMEZsejNhejA5eFdVVjdCZUUybTNLOEl3YS0td0puQjJSX0NmYm5NQkZrVlE?oc=5",
-   "also": [
-    "The Times of Israel"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdERNWHFhdmtXdUZka0hJYUlfWmRhSnN2OFZyc3lRd3dCRWNjU0NTSzJqTzRlcHVvU1FxaVFmSXFjd1lzRmZOZW1vajNmRFZzU0w3b0hnZklYbzNHVHFsUjIwazNhM1Y0T1gtYnlFOWZPdkpzTzdMa1hmeVRxY2RfNXNFb281ZjN5TWJ3SS05bXBaUHdIRmlYMTYxcURrSFRsMXN3TWNzT3lBX05Pendv0gG0AUFVX3lxTE4waElQRWpFSGFTWmI0bkVXZzNDTFltT0lyTk9GSUVlZVNjOEJPS1c4d1VtRHZ6cW9zd0FZaWozeFNVSHFoMEF4ejBwM3ZNeUhpMnpTUVRxejNDNWM5VEZ0UnlsRmFiUndKcUhDSldObWtTWG1peE5ieHlDTDFMczhXVUFqME1HS3FiUHV2dWdDbTlZeTBVVGtQa01EODNjdkkyZzNMZHp5ZVJLNVRQWjhCUG8xeg?oc=5"
-   ],
-   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -1610,6 +1888,27 @@
    "confirmed": false
   },
   {
+   "hash": "b530f7a45104863752eda755d0918cda",
+   "published": "2026-11-01T03:13+05:00",
+   "time_tashkent": "03:13",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTL Today",
+   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
+   "paywall": false,
+   "title": "Dozens in cuffs: UK police arrest Palestine Action supporters ahead of Supreme Court hearing",
+   "summary": "Dozens in cuffs: UK police arrest Palestine Action supporters ahead of Supreme Court hearing&nbsp;&nbsp;RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbG9Fa3VrRkJhNGJCeGhHMzVpUm93NXE2c29oZjBNOWhNMDRKNlJ2ZHVwTXIwSXI4emxKVTZkajhobUZDb01EU3lNYkV3V2lMZmY4ZXNUanljTzA0bkMtNnhhMDduclk1cGp6QklvWlpNZXhPbE56cHdOSzR6cHVNTWNaX05zaWl3TDhfUkNiMEZsejNhejA5eFdVVjdCZUUybTNLOEl3YS0td0puQjJSX0NmYm5NQkZrVlE?oc=5",
+   "also": [
+    "The Times of Israel"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdERNWHFhdmtXdUZka0hJYUlfWmRhSnN2OFZyc3lRd3dCRWNjU0NTSzJqTzRlcHVvU1FxaVFmSXFjd1lzRmZOZW1vajNmRFZzU0w3b0hnZklYbzNHVHFsUjIwazNhM1Y0T1gtYnlFOWZPdkpzTzdMa1hmeVRxY2RfNXNFb281ZjN5TWJ3SS05bXBaUHdIRmlYMTYxcURrSFRsMXN3TWNzT3lBX05Pendv0gG0AUFVX3lxTE4waElQRWpFSGFTWmI0bkVXZzNDTFltT0lyTk9GSUVlZVNjOEJPS1c4d1VtRHZ6cW9zd0FZaWozeFNVSHFoMEF4ejBwM3ZNeUhpMnpTUVRxejNDNWM5VEZ0UnlsRmFiUndKcUhDSldObWtTWG1peE5ieHlDTDFMczhXVUFqME1HS3FiUHV2dWdDbTlZeTBVVGtQa01EODNjdkkyZzNMZHp5ZVJLNVRQWjhCUG8xeg?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "9428defcc77a7423d2a63c7d75d15d3d",
    "published": "2026-11-01T03:11+05:00",
    "time_tashkent": "03:11",
@@ -1624,14 +1923,16 @@
    "also": [
     "CNA",
     "Reuters",
-    "BBC"
+    "BBC",
+    "Anadolu Ajansı"
    ],
    "also_links": [
     "https://www.channelnewsasia.com/business/binance-covers-90-cent-losses-6510271",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV05QRmVQbjJDUTZkNzRFaTA5VVp5RE9Bd2ctMkxITEVaZnNLZVVzdkx5aHBUUFZYOTJCb19YRFJRM2I1RW5QS0JJUmowaUtsVjlnaTExaWJDM2NsLVJINlJQZ0JHdlUyb05LS0kyRGdRMHlyVWdYRHFJOTNlbFRZc0plbkc2SE1nOHB1SklPVVNUVnhFY3lYdWtR?oc=5",
-    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5"
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BTU5hbmZNM3NNNEZQZlRINXh5Um1jNnJaTXhrRmxlREpJNDBXNWJLNld1MjhlVzAtRjFyYzV3SmJNRmtlTHBXQmlYWWU1c1B5UDVtWnQzRm1KSXc?oc=5",
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOTUxWm9ySWtrYVRYNGdFbkdCc19GRnNZSTV0VVkyWXVZRTlmSjRsbGZiUVZwZ1VDVVN1UWVTZ2NNRHp4MGh4N2RPQVoya2NBUUNFVElfWW5IMkRRMFhiaXVzSlVabGp0MTJYNXdWWjFOSGRHQ2NoZjRDRGNZOWx5aElUSVBHcVdyQkg0dVZBY0ZBUWdJYXUw?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -2032,10 +2333,14 @@
    "title": "India opposition parties hold mock impeachment of poll chief",
    "summary": "",
    "link": "https://www.channelnewsasia.com/asia/india-opposition-parties-hold-mock-impeachment-poll-chief-6510301",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "BBC World"
+   ],
+   "also_links": [
+    "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "5f71fc52ca4e8101f07a95e3136f39d9",
@@ -2352,6 +2657,27 @@
    "confirmed": false
   },
   {
+   "hash": "da47b70baeeb40d22c4fbdc5ace3ee6f",
+   "published": "2026-11-01T02:40+05:00",
+   "time_tashkent": "02:40",
+   "region": "США",
+   "type": "pay",
+   "source": "NYT World",
+   "feed": "NYT World",
+   "paywall": true,
+   "title": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
+   "summary": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
+   "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
+   "also": [
+    "The New York Times"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "29e3e4e750e0b829c0dc6550ca725e13",
    "published": "2026-11-01T02:40+05:00",
    "time_tashkent": "02:40",
@@ -2394,44 +2720,6 @@
    "confirmed": true
   },
   {
-   "hash": "da47b70baeeb40d22c4fbdc5ace3ee6f",
-   "published": "2026-11-01T02:40+05:00",
-   "time_tashkent": "02:40",
-   "region": "США",
-   "type": "pay",
-   "source": "NYT World",
-   "feed": "NYT World",
-   "paywall": true,
-   "title": "North Korean Hackers May Have Stolen Billions. It Wouldn’t Be Their First Heist.",
-   "summary": "This week’s $6.3 billion hack of Binance is the largest to rock the crypto industry. North Korea, with a history of brazen cybercrime, is a suspect.",
-   "link": "https://www.nytimes.com/2026/10/31/world/asia/north-korea-hacking.html",
-   "also": [
-    "The New York Times"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "e872679d6e09d07bf90434b095de28b3",
-   "published": "2026-11-01T02:39+05:00",
-   "time_tashkent": "02:39",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "RTE.ie",
-   "feed": "GNews/СМИ Европы",
-   "paywall": false,
-   "title": "RTÉ Archives | War and Conflict | Wife Speaks Out",
-   "summary": "RTÉ Archives | War and Conflict | Wife Speaks Out&nbsp;&nbsp;RTE.ie",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjFYb0lYQ0ZhajBsMmxKcVVVVjZKaFdQTDR2NTRhWXpQZ1RfbTJuOHBoUFFWMzJsNWtxcHVvNk5sT1Q1T0Y5VXBHbW9ObjFNVWRIOHo1bVAwMDlqUHkzNFowZjIwcnljMWkzSnR1NEdMTGw5a3ZGUU9JREhpbGlHLUczYVYyLVBrMHpqb2tGclF3QQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "0bd971fa619dd9ad40fe46e928788bb8",
    "published": "2026-11-01T02:39+05:00",
    "time_tashkent": "02:39",
@@ -2460,6 +2748,23 @@
    "title": "Oilers beat the Islanders 4-0 as McDavid extends assist streak",
    "summary": "Oilers beat the Islanders 4-0 as McDavid extends assist streak&nbsp;&nbsp;The Globe and Mail",
    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaklQWGRmM0hscVljM08tczVGWG81U1c4Z1F5Zm5jU3IwdGdndlR6cG5xWlhiNk8yOFF1MXhxUHBxZVMzaklMWXBpQXp4Qm9jVlNfLU9EeHM2MGxGalljazhOWVR0Yk52MkxFckJFSmw4eXI3Y3VqcE5kdXhEUUFxUHRuMC10bENoMnZ3OVYxOUw5M3FWZC11NHJISkQ3YlZBVG9zVlRPakpwN2VKckp3LWRBcEZXMkNL?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "e872679d6e09d07bf90434b095de28b3",
+   "published": "2026-11-01T02:39+05:00",
+   "time_tashkent": "02:39",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTE.ie",
+   "feed": "GNews/СМИ Европы",
+   "paywall": false,
+   "title": "RTÉ Archives | War and Conflict | Wife Speaks Out",
+   "summary": "RTÉ Archives | War and Conflict | Wife Speaks Out&nbsp;&nbsp;RTE.ie",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbjFYb0lYQ0ZhajBsMmxKcVVVVjZKaFdQTDR2NTRhWXpQZ1RfbTJuOHBoUFFWMzJsNWtxcHVvNk5sT1Q1T0Y5VXBHbW9ObjFNVWRIOHo1bVAwMDlqUHkzNFowZjIwcnljMWkzSnR1NEdMTGw5a3ZGUU9JREhpbGlHLUczYVYyLVBrMHpqb2tGclF3QQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2629,6 +2934,23 @@
    "confirmed": true
   },
   {
+   "hash": "613b1dbe4465cc0f333df7b7c50e460b",
+   "published": "2026-11-01T02:31+05:00",
+   "time_tashkent": "02:31",
+   "region": "МИР",
+   "type": "smi",
+   "source": "AP News",
+   "feed": "AP",
+   "paywall": false,
+   "title": "Europe’s youth return to the streets for another weekend of protests, in photos",
+   "summary": "Europe’s youth return to the streets for another weekend of protests, in photos&nbsp;&nbsp;AP News",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU01GS0VtU3VXajdBT2I4aUM3aUFXT0tydFo2LVBWUmZGcUoxRF90bmhBRFBEMWZNcE5XQ2pPNHpTYm5pd1BrWHI1Vk9CZEVIOG9mdXRnYU5PWnAtM0dXRXlUbmFVRlFjMjV0bXh1Y1lkN2NRXzhxU1JDWTBrY0ZzNEhkNDZCUi02VllHc2prZ2hJbm80SWU0TWZHSU9scUs0UXNvTzFVOGlBTVlnM2hvRzFZeGpZXzY0SW9BVmpLVElVdVY5WWc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "6602351e507e141cc8a2c60b7d38b277",
    "published": "2026-11-01T02:30+05:00",
    "time_tashkent": "02:30",
@@ -2714,21 +3036,21 @@
    "confirmed": true
   },
   {
-   "hash": "5174fbddaaea00c57a8fa0c666635b41",
+   "hash": "0a32ccc19778a99139f9953be56e6b0e",
    "published": "2026-11-01T02:24+05:00",
    "time_tashkent": "02:24",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
    "paywall": false,
-   "title": "Russian drone crashes in Kyiv's Darnytskyi district",
-   "summary": "Russian drone crashes in Kyiv's Darnytskyi district&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdl8zLTZGMHlxY1ZCbG9WTTNYTngyWDhXVVZfc1J3bUJtSFlNMUhvTFR1WFA1SHFwWkJrdmtXNmJuQmR3czJTLTd2Ul9UYWlTUUJXaGRLWk5qRTNScEJWaWxsUWtfbHg5M3FONk8yWGJadlVLLTMxSHhDNDk5bXJObkVoYl9UeGd0YzFPd2UtX3hHcFZiNFRYLWhBNExob2dqbUHSAacBQVVfeXFMTzZYYWdmeHhxTU5xTzlqUEs5c1MwMUh1RS0yTjBDbHFkTWxQdDc1R1AtVk1mbUlJZDZiQTdxODlJRkduNmxOR1pUYkZqQVdYc21rM24yY0E1T1QtTl9pM2hZSHE2dVducmRiU2RsbUxGZGdOZ3JKVkNoOUNrOUw4MjFwdWhwWTF6SUd4THFKNGtVbjhZYXpsUEotdkg3eVR4R1N4RUU0Wkk?oc=5",
+   "title": "Tech Armageddon is here!, By Osmund Agbo",
+   "summary": "Tech Armageddon is here!, By Osmund Agbo&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeld2NFNxbGV1Z2FQakRaQTVuQzZDNG5TcUVnMVVoQ2g3WC1FbFhMNnBjZkJIREFWUVRxMFZvenp3bXBaZ05ld1lIMTBad2FWcDdTcjdsZlB4QWxsT19MMHQ4T3NGWHZFa0VmeWl3cEcwU183MWtnR1NDeF9rbUJpT3ZzUmNITzZ6X2Izc3FWMjVuYXc?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "bbeb60df7d8eb875552f04ab5764c118",
@@ -2748,17 +3070,34 @@
    "confirmed": false
   },
   {
-   "hash": "0a32ccc19778a99139f9953be56e6b0e",
+   "hash": "5174fbddaaea00c57a8fa0c666635b41",
    "published": "2026-11-01T02:24+05:00",
    "time_tashkent": "02:24",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
    "paywall": false,
-   "title": "Tech Armageddon is here!, By Osmund Agbo",
-   "summary": "Tech Armageddon is here!, By Osmund Agbo&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeld2NFNxbGV1Z2FQakRaQTVuQzZDNG5TcUVnMVVoQ2g3WC1FbFhMNnBjZkJIREFWUVRxMFZvenp3bXBaZ05ld1lIMTBad2FWcDdTcjdsZlB4QWxsT19MMHQ4T3NGWHZFa0VmeWl3cEcwU183MWtnR1NDeF9rbUJpT3ZzUmNITzZ6X2Izc3FWMjVuYXc?oc=5",
+   "title": "Russian drone crashes in Kyiv's Darnytskyi district",
+   "summary": "Russian drone crashes in Kyiv's Darnytskyi district&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdl8zLTZGMHlxY1ZCbG9WTTNYTngyWDhXVVZfc1J3bUJtSFlNMUhvTFR1WFA1SHFwWkJrdmtXNmJuQmR3czJTLTd2Ul9UYWlTUUJXaGRLWk5qRTNScEJWaWxsUWtfbHg5M3FONk8yWGJadlVLLTMxSHhDNDk5bXJObkVoYl9UeGd0YzFPd2UtX3hHcFZiNFRYLWhBNExob2dqbUHSAacBQVVfeXFMTzZYYWdmeHhxTU5xTzlqUEs5c1MwMUh1RS0yTjBDbHFkTWxQdDc1R1AtVk1mbUlJZDZiQTdxODlJRkduNmxOR1pUYkZqQVdYc21rM24yY0E1T1QtTl9pM2hZSHE2dVducmRiU2RsbUxGZGdOZ3JKVkNoOUNrOUw4MjFwdWhwWTF6SUd4THFKNGtVbjhZYXpsUEotdkg3eVR4R1N4RUU0Wkk?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "11fbdce8961de695453932db9eacd1cc",
+   "published": "2026-11-01T02:23+05:00",
+   "time_tashkent": "02:23",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Госагентства Ближнего Востока",
+   "feed": "GNews/Госагентства Ближнего Востока",
+   "paywall": false,
+   "title": "Foreign Minister Meets Brazilian Counterpart on Sidelines of G20 Ministerial Meeting - وكالة الأنباء السعودية",
+   "summary": "Foreign Minister Meets Brazilian Counterpart on Sidelines of G20 Ministerial Meeting&nbsp;&nbsp;وكالة الأنباء السعودية",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8tUDhCVVhKNGhOWkNYZGI0RkxoRU9PejQ4NGJ4ZU01WFZMZHczSWE0MVl0NVpkN3ZmVzZuelV6ZEkyNUM3WmJOZFRn?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2783,7 +3122,10 @@
     "Yonhap",
     "CBC World",
     "CBS News",
-    "SCMP"
+    "SCMP",
+    "AP News",
+    "The Korea Herald",
+    "RTL Today"
    ],
    "also_links": [
     "https://www.bloomberg.com/news/articles/2026-10-31/fbi-blames-north-korea-for-6-billion-binance-crypto-hack",
@@ -2792,9 +3134,12 @@
     "https://en.yna.co.kr/view/AEN20261101000300315",
     "https://www.cbc.ca/news/world/binance-hack-north-korea-9.7404502?cmp=rss",
     "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1rd2RQS1czSmloWWJMSmJmVDBmQmxBTkRyOU9RQzg3ZVhiQWQzWWg5RUZWTWRibV94cGhaejdTdTM4bDkyXzh5dlZPV1ZSSlhQc2tnYW92YXRQeExHMFptWV9JSEI?oc=5",
-    "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history"
+    "https://www.scmp.com/news/world/united-states-canada/article/3372858/fbi-blames-north-korea-stolen-billions-binance-biggest-hack-history",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQkM3dmhycV92Tk5Oa2xmTVhpMUI3RnluVVRpV1dlUGtIVXo4NjBqX0RDcjlLVW5FaGN4TGhZOXpEMlhBbzhzZ0gteVMwWUx2dVFoVzhnMzkxeU5tZzlDaHpZZE5LUVMxYllLTVBfTzhTcEZMaTl4eXhKT2l4ekwxWFFWOHc3bjJrWXhHRkVQQTFhOUNXMzlJSGQyZw?oc=5",
+    "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8wYXhWb1RDeDMzMS1ISS11SXIydWV3cUxFazdNZHpyYmxWM3lmdzhyYTJ6ZkdwaHctTEFhSFp2OEZEU0g2anBBSnZDclVQSUZLaVR1eE1rQQ?oc=5",
+    "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkVDRW5oOGpTNjE2UVlFSEE2UDFRY005WmtGQnB2WnhwUUJfNXA0MHBQTzZDSExzUUZJTG9DV19SU25mVVVtazNtYWlBRFhMNm5JcmVLOEg3enV2QzRzY1Jfc0U2cEFYZ2dRVW9SQzljd2Yxd1FOTUlvaF96cWRlSDFEWklNeGFPSW5HX3FHWEZRLU1tY3JrM1N6NVFobGNiVS1XT1BWU3ZLUQ?oc=5"
    ],
-   "sources_count": 8,
+   "sources_count": 11,
    "confirmed": true
   },
   {
@@ -2832,23 +3177,6 @@
    "confirmed": false
   },
   {
-   "hash": "8c4c3affdf7bf1b97b89ab1d76a4159a",
-   "published": "2026-11-01T02:21+05:00",
-   "time_tashkent": "02:21",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Türkiye says Feridun Sinirlioglu's UN chief bid aims to 'overcome impasse' in selection process",
-   "summary": "Türkiye says Feridun Sinirlioglu's UN chief bid aims to 'overcome impasse' in selection process&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXFZZnkxQlZTZDI2Z3hxVlpzR01RUFFSaVAxTVd4YlBDYWo4Y3J4d3pISGpZN3R5N1M2SWFOU2RtM2VMak5oZkhXdkxjYzJEanI1bU9fdTdHMmNHcVJDY1hPdzNVdms0M2lIcEhSNEh0QjlXUVBuTy0yMHZRRnhXZ1BVMzJsS0lSMkwwMUZNVFhNc0V1Qk1tNFlZc3RJUldkSlFCNVBQdGlsdWtWTmRZSWdTWXlPdFVpNDdoUzRtWmtyVjJKU1E?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "4dbb14f8d3cbb5347f0aa2d8cda7b3c8",
    "published": "2026-11-01T02:21+05:00",
    "time_tashkent": "02:21",
@@ -2867,6 +3195,23 @@
     "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtWjlsRjNDdHg1clRteTktSlJJT2dJUGloVXhkYjZhcHZyNnNLYlBwVFdaMFdLTzI5UkxYdXd1UnBRRDZJdzlmZWx3?oc=5"
    ],
    "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "8c4c3affdf7bf1b97b89ab1d76a4159a",
+   "published": "2026-11-01T02:21+05:00",
+   "time_tashkent": "02:21",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Türkiye says Feridun Sinirlioglu's UN chief bid aims to 'overcome impasse' in selection process",
+   "summary": "Türkiye says Feridun Sinirlioglu's UN chief bid aims to 'overcome impasse' in selection process&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaXFZZnkxQlZTZDI2Z3hxVlpzR01RUFFSaVAxTVd4YlBDYWo4Y3J4d3pISGpZN3R5N1M2SWFOU2RtM2VMak5oZkhXdkxjYzJEanI1bU9fdTdHMmNHcVJDY1hPdzNVdms0M2lIcEhSNEh0QjlXUVBuTy0yMHZRRnhXZ1BVMzJsS0lSMkwwMUZNVFhNc0V1Qk1tNFlZc3RJUldkSlFCNVBQdGlsdWtWTmRZSWdTWXlPdFVpNDdoUzRtWmtyVjJKU1E?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -2904,27 +3249,6 @@
    "confirmed": false
   },
   {
-   "hash": "914f01dabf71f44e50042253c319b0f6",
-   "published": "2026-11-01T02:14+05:00",
-   "time_tashkent": "02:14",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "RTL Today",
-   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
-   "paywall": false,
-   "title": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu",
-   "summary": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu&nbsp;&nbsp;RTL Today",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTBielJIQTlJbk9ubTJxSUl1d3BvSy1uLVRfckRJNUhwMDZaWUV3UFRSTUpfSmZSN0dkNWtuM244cVEzWDEwYjhKWTd3d0tkOFhaWWJyWFVURHVmb3JhVWpkNGlQWW4wcmotdkdnUER6WnhYYjN4NjZrVzFlNDFVME9PODBEdkVXU2VPR0pRMlR4MjNEanpoTThZc2VMT2V0QzhTWWk3MEdBNUxPVF94UXZSVmhjSTQ3R2dv?oc=5",
-   "also": [
-    "Al-Monitor"
-   ],
-   "also_links": [
-    "https://www.al-monitor.com/originals/2026/10/israeli-protesters-demand-opposition-ally-arab-parties-oust-netanyahu"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "ba55892cfc41e357613b7f1fd4153778",
    "published": "2026-11-01T02:14+05:00",
    "time_tashkent": "02:14",
@@ -2957,6 +3281,27 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "914f01dabf71f44e50042253c319b0f6",
+   "published": "2026-11-01T02:14+05:00",
+   "time_tashkent": "02:14",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTL Today",
+   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
+   "paywall": false,
+   "title": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu",
+   "summary": "Israeli protesters demand opposition ally with Arab parties to oust Netanyahu&nbsp;&nbsp;RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOcTBielJIQTlJbk9ubTJxSUl1d3BvSy1uLVRfckRJNUhwMDZaWUV3UFRSTUpfSmZSN0dkNWtuM244cVEzWDEwYjhKWTd3d0tkOFhaWWJyWFVURHVmb3JhVWpkNGlQWW4wcmotdkdnUER6WnhYYjN4NjZrVzFlNDFVME9PODBEdkVXU2VPR0pRMlR4MjNEanpoTThZc2VMT2V0QzhTWWk3MEdBNUxPVF94UXZSVmhjSTQ3R2dv?oc=5",
+   "also": [
+    "Al-Monitor"
+   ],
+   "also_links": [
+    "https://www.al-monitor.com/originals/2026/10/israeli-protesters-demand-opposition-ally-arab-parties-oust-netanyahu"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "6c738064efdee37de77cd4761edf7c25",
@@ -3294,23 +3639,6 @@
    "confirmed": false
   },
   {
-   "hash": "cbd3702675a05c77e9b353b5ef4eeea0",
-   "published": "2026-11-01T02:00+05:00",
-   "time_tashkent": "02:00",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Türkiye shared priorities, proposals at G20 foreign ministers' meeting in US: Fidan",
-   "summary": "Türkiye shared priorities, proposals at G20 foreign ministers' meeting in US: Fidan&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnNJakhKcHhZenBCd3hhcVZhVXAyZHhORktiMncyNkNka3pLSXhFcUhIeThRdnJxYUwyd1dsQ2V0bzFPREtJNHlEWmk4bHFhUk1yY1Jic1JSZl9ybHQ0THU5U0U5ekRGc3pWajF4dG8zeVlTTUYwWEFiMVlYbU5PZWhCNkVqNU54a1hVVzhKQnphQS1VTVBKdE1TUkQ3aDRoSDVJeTVveFdfNWM4Y3h6SjdGZ25Dd0o4MVVJdFhn?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "d917b9b7c210c9f79cbc394d026b09c6",
    "published": "2026-11-01T02:00+05:00",
    "time_tashkent": "02:00",
@@ -3396,6 +3724,40 @@
    "confirmed": false
   },
   {
+   "hash": "cbd3702675a05c77e9b353b5ef4eeea0",
+   "published": "2026-11-01T02:00+05:00",
+   "time_tashkent": "02:00",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Türkiye shared priorities, proposals at G20 foreign ministers' meeting in US: Fidan",
+   "summary": "Türkiye shared priorities, proposals at G20 foreign ministers' meeting in US: Fidan&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMnNJakhKcHhZenBCd3hhcVZhVXAyZHhORktiMncyNkNka3pLSXhFcUhIeThRdnJxYUwyd1dsQ2V0bzFPREtJNHlEWmk4bHFhUk1yY1Jic1JSZl9ybHQ0THU5U0U5ekRGc3pWajF4dG8zeVlTTUYwWEFiMVlYbU5PZWhCNkVqNU54a1hVVzhKQnphQS1VTVBKdE1TUkQ3aDRoSDVJeTVveFdfNWM4Y3h6SjdGZ25Dd0o4MVVJdFhn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "5dd732f0347c483a46de4612424cb14d",
+   "published": "2026-11-01T01:59+05:00",
+   "time_tashkent": "01:59",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Tinubu hails EFCC after FBI praises role in sextortion arrests",
+   "summary": "Tinubu hails EFCC after FBI praises role in sextortion arrests&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLU1iY0RfMG13UkZpdlVnWFkyV2FNbWZGX0dXZ1p6YjF6S3RGMms4a3plTFBJWkNZNk9uMnpjaXhlMDZtUm1LbDVYOHNFSk1tMEFsSjJFYnpSWmV5RU5Id1ZuYjZ4dGRNOEVuSWt0aTdsREhBcWc3NXByOHd1Y3V4NEc5WWFHUXpWTEdDZmtOWUxuOHoxS0pRbFpJc2RfeU9famdPdG96MllyMEdnSG11RHpjMTZMVHNWRnNIaw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "61c0f15281b410460a597c1ac21ddc07",
    "published": "2026-11-01T01:59+05:00",
    "time_tashkent": "01:59",
@@ -3417,23 +3779,6 @@
    "confirmed": true
   },
   {
-   "hash": "e1a1beea5a6311442c0f35d975b98713",
-   "published": "2026-11-01T01:59+05:00",
-   "time_tashkent": "01:59",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Moldpres",
-   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
-   "paywall": false,
-   "title": "Drone unauthorizedly flies over Moldova's airspace; air traffic temporarily restricted in northern Moldova",
-   "summary": "Drone unauthorizedly flies over Moldova's airspace; air traffic temporarily restricted in northern Moldova&nbsp;&nbsp;Moldpres",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclFGNUQ4UGRlVlVxbU9JMlM3LTRBWVg0MFFIZ2dqU0ZsOG9OSFVrXzl1WDJtYTdXWXpnQ1FPeFVsUTA2U2p5dHRhdUlQajVxeFpyekxFSVpVbTZZRmM4eENxcnFNZUtfbUxfY3FrVGh5TXBDbWNoc2RsZ3ZYOUNHVmZHSFF0dS1IQkVOTF9FQXV2cjViUGpiWDR1STRwRlVGNHBGdjdQREs4aVVKWE9ZVGhsNnpBM0FSMzB2ZVI5bGlaN29peGxIT0xmaXJHRFllQ04yV2ZHeTc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "12cd138113ad9ba2592a5a4541c6e0d4",
    "published": "2026-11-01T01:59+05:00",
    "time_tashkent": "01:59",
@@ -3451,17 +3796,17 @@
    "confirmed": false
   },
   {
-   "hash": "5dd732f0347c483a46de4612424cb14d",
+   "hash": "e1a1beea5a6311442c0f35d975b98713",
    "published": "2026-11-01T01:59+05:00",
    "time_tashkent": "01:59",
-   "region": "АФР",
+   "region": "ЕВ",
    "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
+   "source": "Moldpres",
+   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
    "paywall": false,
-   "title": "Tinubu hails EFCC after FBI praises role in sextortion arrests",
-   "summary": "Tinubu hails EFCC after FBI praises role in sextortion arrests&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLU1iY0RfMG13UkZpdlVnWFkyV2FNbWZGX0dXZ1p6YjF6S3RGMms4a3plTFBJWkNZNk9uMnpjaXhlMDZtUm1LbDVYOHNFSk1tMEFsSjJFYnpSWmV5RU5Id1ZuYjZ4dGRNOEVuSWt0aTdsREhBcWc3NXByOHd1Y3V4NEc5WWFHUXpWTEdDZmtOWUxuOHoxS0pRbFpJc2RfeU9famdPdG96MllyMEdnSG11RHpjMTZMVHNWRnNIaw?oc=5",
+   "title": "Drone unauthorizedly flies over Moldova's airspace; air traffic temporarily restricted in northern Moldova",
+   "summary": "Drone unauthorizedly flies over Moldova's airspace; air traffic temporarily restricted in northern Moldova&nbsp;&nbsp;Moldpres",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOclFGNUQ4UGRlVlVxbU9JMlM3LTRBWVg0MFFIZ2dqU0ZsOG9OSFVrXzl1WDJtYTdXWXpnQ1FPeFVsUTA2U2p5dHRhdUlQajVxeFpyekxFSVpVbTZZRmM4eENxcnFNZUtfbUxfY3FrVGh5TXBDbWNoc2RsZ3ZYOUNHVmZHSFF0dS1IQkVOTF9FQXV2cjViUGpiWDR1STRwRlVGNHBGdjdQREs4aVVKWE9ZVGhsNnpBM0FSMzB2ZVI5bGlaN29peGxIT0xmaXJHRFllQ04yV2ZHeTc?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3608,23 +3953,6 @@
    "confirmed": false
   },
   {
-   "hash": "6b6bffc14682a3f6fb34647484256449",
-   "published": "2026-11-01T01:49+05:00",
-   "time_tashkent": "01:49",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "Firm run by ‘close friend’ of Burnham to benefit from multi million-pound grant",
-   "summary": "Firm run by ‘close friend’ of Burnham to benefit from multi million-pound grant&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXRJbVhCTEZweEdFNTRZWjNBUnVYMmFMME5qTVBVN0lDQWJVOEVnOU11dC1CX0YzdC12OFZnbTF2RlRySlhLWGxpQk9tRVJNNW5objFHb081N2FqTi1Zak5qVzNzNXhNa1N1aDZKYzdQRzVuQ05pbUs5YWJpVnU3bElGRmxDVWtzS2NSOGJDZ0xiajJaT2VBX3BfU3ktVTZvVWc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "68ef4fabfb6b271c244fd01eaa5c01fd",
    "published": "2026-11-01T01:49+05:00",
    "time_tashkent": "01:49",
@@ -3646,6 +3974,23 @@
    "confirmed": true
   },
   {
+   "hash": "6b6bffc14682a3f6fb34647484256449",
+   "published": "2026-11-01T01:49+05:00",
+   "time_tashkent": "01:49",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Firm run by ‘close friend’ of Burnham to benefit from multi million-pound grant",
+   "summary": "Firm run by ‘close friend’ of Burnham to benefit from multi million-pound grant&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOXRJbVhCTEZweEdFNTRZWjNBUnVYMmFMME5qTVBVN0lDQWJVOEVnOU11dC1CX0YzdC12OFZnbTF2RlRySlhLWGxpQk9tRVJNNW5objFHb081N2FqTi1Zak5qVzNzNXhNa1N1aDZKYzdQRzVuQ05pbUs5YWJpVnU3bElGRmxDVWtzS2NSOGJDZ0xiajJaT2VBX3BfU3ktVTZvVWc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "f23c84e2e0c2b92c704fd56d6866e451",
    "published": "2026-11-01T01:48+05:00",
    "time_tashkent": "01:48",
@@ -3657,6 +4002,23 @@
    "title": "Egyptian Premier League results & scorers (Matchday 8) - Egyptian Football - Sports",
    "summary": "Egyptian Premier League results & scorers (Matchday 8) - Egyptian Football - Sports&nbsp;&nbsp;Ahram Online",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU3A3d1NrNTVCUFl5Yk95cEw2ZUt2MHpVRVZnU1FMT0hiWXR6S3R5M29sMDhRV21sLU1hc3ViR2d6OE5wR1A5ZldyamltTnUxZXAyQVBleXhxYTR1OHdPdDd5ZmhwTHkwUGxnb2ZRWFpNdVZaN1NXNkdWdFpvSjVtaVQxQ2JIWGdhNWRpLV9MZXRBRGRGbk1WZE53TF83VEcteUxSTHZxUjktb1VYMENTZHNzSQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "cde3bdedc87eb91d18e9d1d05d5522b0",
+   "published": "2026-11-01T01:48+05:00",
+   "time_tashkent": "01:48",
+   "region": "ЕВ",
+   "type": "gos",
+   "source": "News",
+   "feed": "GNews/Беларусь (госСМИ и власть)",
+   "paywall": false,
+   "title": "Expert: Global peace depends on Russia, China, USA reaching agreements - BelTA",
+   "summary": "Expert: Global peace depends on Russia, China, USA reaching agreements&nbsp;&nbsp;BelTA – News",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV29uWEhmMWk0R3NLN191QkkyNlRVYnRtNDQ4ZDVrc3RncFNqTTdTeGJWSnN5LXhGMjMzc0RERDdiR0IzR0xCRy0ydGt3a184aXkzYXFnYll3OUt2NG9zX09FTF9zRDFYMWQyUGhrR2RTU2I2M2xDN1F4YV8xYzZPQkJxWjVXVjQ0ZWJkSEJsS1BzbXBIS0pQVUlGSXZqNEpiODMtX0pPbE1vbXJ0YnBCOVRKUko?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3752,23 +4114,6 @@
    "confirmed": false
   },
   {
-   "hash": "f9626d2d3219b1c896a38d74661b4a49",
-   "published": "2026-11-01T01:44+05:00",
-   "time_tashkent": "01:44",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Telex",
-   "feed": "GNews/СМИ Польши и Центральной Европы",
-   "paywall": false,
-   "title": "Washington városa perrel akadályozná meg Trump 75 méteres diadalívének megépítését",
-   "summary": "Washington városa perrel akadályozná meg Trump 75 méteres diadalívének megépítését&nbsp;&nbsp;Telex",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFl5bEh6VWtzdWR2aE96NlhIU1FUTUdneWNrLUJjR3lIR0dqTXRYcEh4bENxVkV6cEx1LWpTUlUwelRDWUw0b3hacTJUU0l5NDZnYkh2ZFZSMlRsV2NRUlduVmRMXy1GYVpTczAyTE9UeElBYlVFaGt4VmRWZjRhd3otY1k3dUk0U0pwaWFNUlB5Q0hP?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "14d2d87feeec7484a6d1154bd96bf898",
    "published": "2026-11-01T01:44+05:00",
    "time_tashkent": "01:44",
@@ -3788,6 +4133,40 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "f9626d2d3219b1c896a38d74661b4a49",
+   "published": "2026-11-01T01:44+05:00",
+   "time_tashkent": "01:44",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Telex",
+   "feed": "GNews/СМИ Польши и Центральной Европы",
+   "paywall": false,
+   "title": "Washington városa perrel akadályozná meg Trump 75 méteres diadalívének megépítését",
+   "summary": "Washington városa perrel akadályozná meg Trump 75 méteres diadalívének megépítését&nbsp;&nbsp;Telex",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFl5bEh6VWtzdWR2aE96NlhIU1FUTUdneWNrLUJjR3lIR0dqTXRYcEh4bENxVkV6cEx1LWpTUlUwelRDWUw0b3hacTJUU0l5NDZnYkh2ZFZSMlRsV2NRUlduVmRMXy1GYVpTczAyTE9UeElBYlVFaGt4VmRWZjRhd3otY1k3dUk0U0pwaWFNUlB5Q0hP?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9be041a658524deda494eafe5addd4ee",
+   "published": "2026-11-01T01:43+05:00",
+   "time_tashkent": "01:43",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Governor Lawal presents staff of office and official vehicles to 19 Zamfara emirs",
+   "summary": "Governor Lawal presents staff of office and official vehicles to 19 Zamfara emirs&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWp4aXdKS0lGdl9HMTJfVXhCTk5JTi15Yno3TDkzN0dlT1pvTkVMLUJIMDc3aUllY2RxLTZaR2NRc1ZUdXFlN24wTGloZTIyS0l0M250TGlqbS1RSDRhOTNMaDJFd3FpcDQxUGJibnhNX2hqSDd2UFE0Rm02dXIwU0VJTE5CUGtJVmEwbWpJTjczRjNoV3VGZ3U2Q1NMOFJSOElPQ0syVWUxbHU1RzdtYmkzTUVsTjh0dDhkMnlLb1VwSkZpMTlra1pVeFc1QQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "98255915c36e8473f36c6b2e0ff4e6da",
@@ -3818,23 +4197,6 @@
    "title": "Jogger stabbed in neck on Brooklyn bike path, police say",
    "summary": "Jogger stabbed in neck on Brooklyn bike path, police say&nbsp;&nbsp;CBS NewsWoman critical after being stabbed in neck while out for a jog in Brooklyn&nbsp;&nbsp;ABC7 New York28-year-old woman critically injured after being stabbed while running on B",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qb2FWaEdxSkJBUHRRSllXSk41NVlLRG56akRyT0JTbld6N1B2NEhsUzYxSkJETlY1eVVRYnZwejdpRU9jVWUya1h4T1BfWkZIWElYQnU4UlZqWHVJalRwdHBadWI0UmpEUGM3dTJFTHlSdlBnUWV0dHJRRQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "9be041a658524deda494eafe5addd4ee",
-   "published": "2026-11-01T01:43+05:00",
-   "time_tashkent": "01:43",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "Governor Lawal presents staff of office and official vehicles to 19 Zamfara emirs",
-   "summary": "Governor Lawal presents staff of office and official vehicles to 19 Zamfara emirs&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZWp4aXdKS0lGdl9HMTJfVXhCTk5JTi15Yno3TDkzN0dlT1pvTkVMLUJIMDc3aUllY2RxLTZaR2NRc1ZUdXFlN24wTGloZTIyS0l0M250TGlqbS1RSDRhOTNMaDJFd3FpcDQxUGJibnhNX2hqSDd2UFE0Rm02dXIwU0VJTE5CUGtJVmEwbWpJTjczRjNoV3VGZ3U2Q1NMOFJSOElPQ0syVWUxbHU1RzdtYmkzTUVsTjh0dDhkMnlLb1VwSkZpMTlra1pVeFc1QQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -4112,6 +4474,23 @@
    "confirmed": false
   },
   {
+   "hash": "8d105b80f1fa0fd01a7453b1fb8e2d39",
+   "published": "2026-11-01T01:37+05:00",
+   "time_tashkent": "01:37",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
+   "paywall": false,
+   "title": "Cyclone Arnab weakens after Andhra landfall, no casualty reported",
+   "summary": "Cyclone Arnab weakens after Andhra landfall, no casualty reported&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm5yUzlBYTNudzdXcVRhR2o5ckZUclIxcVRyODJWOHN6ZzhYQ3lpM1ZjZHI1cGEtZWFSYS1tZWRpVDFidlBFVmZvOUQyMXFyRnhlTWJIM3I0N1RkZ0ljeDBZR29ZdzJZOXVzUVNPMXFWZWN4WURVTUJkNFRQVDJLaXFrYmo2UVZtZndWbFdWb2J0M2hUcjg1QmItQ2ZsaDlsemx0SlZwb0pzeXBwYkVJdF8xU0NsZnVXbjEtbG1TeWE2M0p3Vmp2M2xyaw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "0c11e4abb97a582a895d5202e27aa931",
    "published": "2026-11-01T01:37+05:00",
    "time_tashkent": "01:37",
@@ -4140,23 +4519,6 @@
    "title": "'No compromise': Poland's top court row between government and president deepens",
    "summary": "'No compromise': Poland's top court row between government and president deepens&nbsp;&nbsp;TVP World",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT1dQZDFIVmh0aldvUGVmZzl1TXZienZXQnFjTGd1amdFTnhIeTN3eVRpR3lkLUhyRFFBVjBUd1BXMVVOTTRuYVBqZ0JDWkVhLWZQZHlGY1hNazlINy1sTzRSWUNQSGE1RFg0d0ZpdnF6cDRKaDh1MmFoTktBZlUxU180dFdEU3FiUXFoM21Ea2hWMkJ3WVNkT3NDbFlHcTNudkZybnNFQTFYbzg?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "8d105b80f1fa0fd01a7453b1fb8e2d39",
-   "published": "2026-11-01T01:37+05:00",
-   "time_tashkent": "01:37",
-   "region": "ЮА",
-   "type": "smi",
-   "source": "The Daily Star",
-   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
-   "paywall": false,
-   "title": "Cyclone Arnab weakens after Andhra landfall, no casualty reported",
-   "summary": "Cyclone Arnab weakens after Andhra landfall, no casualty reported&nbsp;&nbsp;The Daily Star",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRm5yUzlBYTNudzdXcVRhR2o5ckZUclIxcVRyODJWOHN6ZzhYQ3lpM1ZjZHI1cGEtZWFSYS1tZWRpVDFidlBFVmZvOUQyMXFyRnhlTWJIM3I0N1RkZ0ljeDBZR29ZdzJZOXVzUVNPMXFWZWN4WURVTUJkNFRQVDJLaXFrYmo2UVZtZndWbFdWb2J0M2hUcjg1QmItQ2ZsaDlsemx0SlZwb0pzeXBwYkVJdF8xU0NsZnVXbjEtbG1TeWE2M0p3Vmp2M2xyaw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -4231,23 +4593,6 @@
    "confirmed": false
   },
   {
-   "hash": "e974a5e15a8e8294f3111465ce0afe44",
-   "published": "2026-11-01T01:35+05:00",
-   "time_tashkent": "01:35",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "Trump tells Muslim Senate candidate to ‘go back to where he came from’",
-   "summary": "Trump tells Muslim Senate candidate to ‘go back to where he came from’&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUxDLU9QN2t0aUlsbkhNWlFlcXpyRFROMm9aZjNmbDBmMGhPbGhtMEpiTGVUSGp2MERnc2RsRmJZamt1bk1KeTJwbTg3RWtQVTlUR3NGaHhsaENCY3dvcDBmQ3FxNV9Sc3d4dXJLSTk2dXNiTmthTFgyTnowRnpCc09nbGRIOUx6dTMwRmZ1OFQwRTc4ZGl0dXNIODR5Q21iWFNtZ2JZa3NDQUE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "4fbc7d694926050e39c2a891550d3753",
    "published": "2026-11-01T01:35+05:00",
    "time_tashkent": "01:35",
@@ -4259,6 +4604,23 @@
    "title": "Doctor who oversaw Christa Pike’s botched execution says she still deserves to die, compares himself to Jesus",
    "summary": "Doctor who oversaw Christa Pike’s botched execution says she still deserves to die, compares himself to Jesus&nbsp;&nbsp;New York PostChrista Pike makes first public comments since botched execution: ‘Healing is not the same as being okay’&nbsp;&nbsp",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSXNjRWdMTWM5cjVIYTZjTmt5YXB0cTZacVNhcHpuVW9iYmJWeUdycnd3TjllZlNvNUFIMWg1VllrRm92aWQtdGJWUHpKeUl3dlBNWGtmWFFDRDVzdkx3Sm5qMDJ3WmtIWF9oQWVaOFc1aEFFcFNBZTVLbUFQaEdjZGt4TzVXazBrb25RMnBNcjA3VEtuVDZUY0FSSlpaVUdJdThYT25XMjdLVkFRdDFXQTNISFBmZ1pWUnVrWVBHbGpsZmZLNXlV?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "e974a5e15a8e8294f3111465ce0afe44",
+   "published": "2026-11-01T01:35+05:00",
+   "time_tashkent": "01:35",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Trump tells Muslim Senate candidate to ‘go back to where he came from’",
+   "summary": "Trump tells Muslim Senate candidate to ‘go back to where he came from’&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcUxDLU9QN2t0aUlsbkhNWlFlcXpyRFROMm9aZjNmbDBmMGhPbGhtMEpiTGVUSGp2MERnc2RsRmJZamt1bk1KeTJwbTg3RWtQVTlUR3NGaHhsaENCY3dvcDBmQ3FxNV9Sc3d4dXJLSTk2dXNiTmthTFgyTnowRnpCc09nbGRIOUx6dTMwRmZ1OFQwRTc4ZGl0dXNIODR5Q21iWFNtZ2JZa3NDQUE?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -4394,6 +4756,40 @@
    "confirmed": false
   },
   {
+   "hash": "e22b311c2dc9d87bf02ffe1acb3a0778",
+   "published": "2026-11-01T01:30+05:00",
+   "time_tashkent": "01:30",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "BUA chairperson Archives",
+   "summary": "BUA chairperson Archives&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93UFZtNktVX2JBREtjaC1IMnZaN0FBYmZBbkliWUlNcFRHamFGQnhvNXJNeU9VaW03alUxQVFDMy01NHd6WnR0c1g4SEVmSFl0QzJ1VklkeTNXZ1VOblVN?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "ba3d02cf95bd5445ed49b2ca035bfe5d",
+   "published": "2026-11-01T01:30+05:00",
+   "time_tashkent": "01:30",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Tinubu Umrah Archives",
+   "summary": "Tinubu Umrah Archives&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSlcwQWpDdUVIRHlQRHNWMWZSS0NjODhOVEFWRkZqQ1NueW1XbVB6U3pnM25mV3JlRTlwNDFicEF1WVVEVHQtS3lXVU1mSkhsTi1pMXZWMWRRR28?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "d152c9491cc5bf1c59893c3978d45350",
    "published": "2026-11-01T01:30+05:00",
    "time_tashkent": "01:30",
@@ -4430,40 +4826,6 @@
    "title": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'",
    "summary": "Attorneys for Alaska say 'meritless' Trump demand to set aside Senate ballots 'not even possible'&nbsp;&nbsp;AP News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSHh0LVpYdmRNYXJIcW9jQ1BOTlNfZDRqcG5KM2FtSFR5cXg2YWFXUHpiaml0R3hrY3VGMVdFbW56UEI1NDNjVmtrQUh3ZVVhSnY3SXQ3TzB4RWhYc0haZkYzM0VrTHIwMEhuNGNlT1dkcUNUU2RtMlFhQTlTYnZWYUNla3pFVmNsUTUyY0NaOU00OEhvNkM1aXl2QjhEU3h2OHc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "e22b311c2dc9d87bf02ffe1acb3a0778",
-   "published": "2026-11-01T01:30+05:00",
-   "time_tashkent": "01:30",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "BUA chairperson Archives",
-   "summary": "BUA chairperson Archives&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93UFZtNktVX2JBREtjaC1IMnZaN0FBYmZBbkliWUlNcFRHamFGQnhvNXJNeU9VaW03alUxQVFDMy01NHd6WnR0c1g4SEVmSFl0QzJ1VklkeTNXZ1VOblVN?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "ba3d02cf95bd5445ed49b2ca035bfe5d",
-   "published": "2026-11-01T01:30+05:00",
-   "time_tashkent": "01:30",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "Tinubu Umrah Archives",
-   "summary": "Tinubu Umrah Archives&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tSlcwQWpDdUVIRHlQRHNWMWZSS0NjODhOVEFWRkZqQ1NueW1XbVB6U3pnM25mV3JlRTlwNDFicEF1WVVEVHQtS3lXVU1mSkhsTi1pMXZWMWRRR28?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -4789,23 +5151,6 @@
    "confirmed": false
   },
   {
-   "hash": "f87a2d85a7f28d3dea402072bcb6b4b0",
-   "published": "2026-11-01T01:16+05:00",
-   "time_tashkent": "01:16",
-   "region": "ЮА",
-   "type": "smi",
-   "source": "The Daily Star",
-   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
-   "paywall": false,
-   "title": "Netanyahu bloc leads after half of Israeli votes counted but no majority",
-   "summary": "Netanyahu bloc leads after half of Israeli votes counted but no majority&nbsp;&nbsp;The Daily Star",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVpYeEFvV3ZGVFZxODdmLWJ6aE5ndC1oVVlESExYQlNhWm8tVmNzNE5Eb0ZCaHhiQVUtZms4LUdpLU5NOEJ4VmNEd0RiRnE1T1YteVo3STdrcUM5NUdrRnRHNmptUi1CMGYwSG02WG9ScGlfRnRUZHpmRmtPT1FMRF9yX3dWbFg1aWtTVTdZTWlPX2tlZkF6TG1mdXNWdFFyWWt6LVczNE4xdkRHaDVDMzZCUm5YakdYekE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "16f10f7e0d8f396936af0a80d0c43ed3",
    "published": "2026-11-01T01:16+05:00",
    "time_tashkent": "01:16",
@@ -4827,6 +5172,23 @@
    ],
    "sources_count": 3,
    "confirmed": true
+  },
+  {
+   "hash": "f87a2d85a7f28d3dea402072bcb6b4b0",
+   "published": "2026-11-01T01:16+05:00",
+   "time_tashkent": "01:16",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
+   "paywall": false,
+   "title": "Netanyahu bloc leads after half of Israeli votes counted but no majority",
+   "summary": "Netanyahu bloc leads after half of Israeli votes counted but no majority&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTVpYeEFvV3ZGVFZxODdmLWJ6aE5ndC1oVVlESExYQlNhWm8tVmNzNE5Eb0ZCaHhiQVUtZms4LUdpLU5NOEJ4VmNEd0RiRnE1T1YteVo3STdrcUM5NUdrRnRHNmptUi1CMGYwSG02WG9ScGlfRnRUZHpmRmtPT1FMRF9yX3dWbFg1aWtTVTdZTWlPX2tlZkF6TG1mdXNWdFFyWWt6LVczNE4xdkRHaDVDMzZCUm5YakdYekE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "0f334cc5abf9659ca0f272185a063dd5",
@@ -4857,28 +5219,11 @@
    "title": "Protesters gather in Tel Aviv to demand for an 'Arab-Jewish coalition government'",
    "summary": "Protesters gather in Tel Aviv to demand for an 'Arab-Jewish coalition government'&nbsp;&nbsp;Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1pwNTIwdFlJaDktUkYxWmZJWk5rT3d0NWRNaU1RQ0J0SFhQQXV0MmdpZUxyOWZ1N3ZIYUJDSnAyNEstRHlfZHJUMHZ5U2NJVjJ5R2F0Q0JxcGlGUUV3eWpxZVRkZl9BcnA0N2FyT01McnhOOUlwV2d5akRlekp2UUs5WTJaSVFOa0xiVTAwMGViUnlGNmd2bUpyc3dqcWtNazV0S0w4cGlEZDhpOVQ0ZDZ4aS1IS3lCN0lZMUxlamVFaGhyUVVv?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "403b5b2e4017276f1c5e4e6b5c468940",
-   "published": "2026-11-01T01:14+05:00",
-   "time_tashkent": "01:14",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Euronews",
-   "feed": "Euronews",
-   "paywall": false,
-   "title": "Poland crisis: Donald Tusk strikes defiant tone vowing ‘no compromise’ on rule of law after Tribunal clash",
-   "summary": "Tusk addressed the nation as tensions over Poland’s Constitutional Tribunal escalated, accusing PiS and President Nawrocki of undermining the rule of law and pledging support for the newly elected judges and the court’s work.",
-   "link": "https://www.euronews.com/2026/10/31/poland-crisis-donald-tusk-strikes-defiant-tone-vowing-no-compromise-on-rule-of-law-after-t",
    "also": [
-    "Euronews.com"
+    "The Times of Israel"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDRGMkM4TngyVGdwLUVGaHRsX3V0NndhNWNBNkdqa2pGWTFzZllSTlZlbGFvQ0VmSFhlRkR0a0FRZFdCbzlyNnBVdnlSX0hjVnRueWN2ODA2YXFFLXJkeWZZTExiejk4dnhSb0ZHUVcxbEJwdzJYLTJNRl9nNE9TYUFnTmo0M0E5ZUhFV2U5V2ZGODJ2ZEZLSU52MVZldXpoTy1iSXM2OTJpUWUyMnplQTFSYlU5SmIwZ3hQaUZBaVFzZDNv?oc=5"
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWJReFg0U2RrMnd5VmVJbVliRkZOdU9XdlZ6VFg1WXNiZjJZaFNZb1JfRVg0RUh5ZVo0QlBRc2I2VWQwcUFwUkxJWmpXbnJyMEgtM3lHNF9TZHNqeGlNR1BxTTlIQ1B4bzlyTC1PVi1UZmp3UUpnVGFJa2JFeHdzTDZKTHNGcFhTMy15WVVsYWU0Z05OM3NXaTdwRGhidXI4YkVJT08wbWExLWFNQzhfby1yZGw1SW1TTW9oN2FDRQ?oc=5"
    ],
    "sources_count": 2,
    "confirmed": true
@@ -4900,6 +5245,27 @@
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE5QSlNDcnM5NVQxakpZOEpCcWc5aE94d0czaXVPY0dSUHNkaVFGc3RUemlwOFJBcVZMX0JvN3RqckJWdHhBekhsdE5SdE5rT3g3Y3pIdWRic0FnQ3VJaURiNGIxcFFSVWNSWF9xOE4wUG9JcC1nbkpXQ0xxQm0?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "403b5b2e4017276f1c5e4e6b5c468940",
+   "published": "2026-11-01T01:14+05:00",
+   "time_tashkent": "01:14",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Euronews",
+   "feed": "Euronews",
+   "paywall": false,
+   "title": "Poland crisis: Donald Tusk strikes defiant tone vowing ‘no compromise’ on rule of law after Tribunal clash",
+   "summary": "Tusk addressed the nation as tensions over Poland’s Constitutional Tribunal escalated, accusing PiS and President Nawrocki of undermining the rule of law and pledging support for the newly elected judges and the court’s work.",
+   "link": "https://www.euronews.com/2026/10/31/poland-crisis-donald-tusk-strikes-defiant-tone-vowing-no-compromise-on-rule-of-law-after-t",
+   "also": [
+    "Euronews.com"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxOUDRGMkM4TngyVGdwLUVGaHRsX3V0NndhNWNBNkdqa2pGWTFzZllSTlZlbGFvQ0VmSFhlRkR0a0FRZFdCbzlyNnBVdnlSX0hjVnRueWN2ODA2YXFFLXJkeWZZTExiejk4dnhSb0ZHUVcxbEJwdzJYLTJNRl9nNE9TYUFnTmo0M0E5ZUhFV2U5V2ZGODJ2ZEZLSU52MVZldXpoTy1iSXM2OTJpUWUyMnplQTFSYlU5SmIwZ3hQaUZBaVFzZDNv?oc=5"
    ],
    "sources_count": 2,
    "confirmed": true
@@ -5066,23 +5432,6 @@
    "confirmed": false
   },
   {
-   "hash": "b8414d36990d4d9d9b79a6193f49caba",
-   "published": "2026-11-01T01:08+05:00",
-   "time_tashkent": "01:08",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Euronews",
-   "feed": "Euronews",
-   "paywall": false,
-   "title": "Abu Dhabi Grand Slam 2026: Heavyweights deliver a spectacular finale",
-   "summary": "The Abu Dhabi Grand Slam concluded with thrilling heavyweight action! Ivaylo Ivanov, Yelyzaveta Lytvynenko, Idar Bifov, Helena Vukovic and Irakli Demetrashvili claimed gold, while judo legend Teddy Riner joined the celebrations.",
-   "link": "https://www.euronews.com/2026/10/31/abu-dhabi-grand-slam-2026-heavyweights-deliver-a-spectacular-finale",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "2a76b1baf5d593e2dcdd55767c15a32a",
    "published": "2026-11-01T01:08+05:00",
    "time_tashkent": "01:08",
@@ -5110,6 +5459,23 @@
    ],
    "sources_count": 6,
    "confirmed": true
+  },
+  {
+   "hash": "b8414d36990d4d9d9b79a6193f49caba",
+   "published": "2026-11-01T01:08+05:00",
+   "time_tashkent": "01:08",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Euronews",
+   "feed": "Euronews",
+   "paywall": false,
+   "title": "Abu Dhabi Grand Slam 2026: Heavyweights deliver a spectacular finale",
+   "summary": "The Abu Dhabi Grand Slam concluded with thrilling heavyweight action! Ivaylo Ivanov, Yelyzaveta Lytvynenko, Idar Bifov, Helena Vukovic and Irakli Demetrashvili claimed gold, while judo legend Teddy Riner joined the celebrations.",
+   "link": "https://www.euronews.com/2026/10/31/abu-dhabi-grand-slam-2026-heavyweights-deliver-a-spectacular-finale",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "5ac6b4e4249da8fe206b0472d31c836c",
@@ -5292,13 +5658,15 @@
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNW9ZQ2JMSjJhYWlLa3pnN0tqWURmRlh3djFHVnZNTkFTd2xOYVBHbVBIY1ZoLWNidDQyYnA4TWIyTUdfTW53OVhCYnRsaUg2dTREd0RQQ3RDTFdOeExSM252OHRqSVBVeThfZ1U0M0lFUFhfMy1mVDdDWjZpWWVOQnM1Mm8zZFFfZ2V0TXJXZDU?oc=5",
    "also": [
     "Anadolu Ajansı",
-    "CNN"
+    "CNN",
+    "Bloomberg Politics"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTG5meHlmRFgxbXlkLWFJMUpFSTg0YkdDd29oMGlRMnZ3R3ByeHU1TW5jbW0wV01FRmxNck9STm82My1pRVdFaHpUelY2TGhxS0xjbThTMTlWM0tLOHc3aFNvYzhsQVRNNnk2cnJHTmtEakpSNnZ0b2NVcldIbzdJS3hydmtBX3lRZG5ZWWlNdmhkSUswajB1Z3EwcGVxRGhhYTNtbnBRRFEtNkppYm02bnB5dmF3OEZ5R2NSMnlLaGJxOFpDNkVkYXhnYVQxMlk?oc=5",
-    "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wUlJwUjRVQ09odmRwbXVkcXRvSkU1WlQ0bWNJX2dOQjI1UHdtMjV0RmN6dEdZbklXVEJycDN5aFNNMzVIX0p1c3lpMW92QUg1OWpZenVCTHJwSFBTUHRhYlZYU3BVczNoMnluQlpUYlBUMV8yVXlR?oc=5"
+    "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wUlJwUjRVQ09odmRwbXVkcXRvSkU1WlQ0bWNJX2dOQjI1UHdtMjV0RmN6dEdZbklXVEJycDN5aFNNMzVIX0p1c3lpMW92QUg1OWpZenVCTHJwSFBTUHRhYlZYU3BVczNoMnluQlpUYlBUMV8yVXlR?oc=5",
+    "https://www.bloomberg.com/news/articles/2026-10-31/mamdani-says-trump-agrees-to-visa-for-mother-of-slain-bronx-teen"
    ],
-   "sources_count": 3,
+   "sources_count": 4,
    "confirmed": true
   },
   {
@@ -5317,27 +5685,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "cf3663ec04d23767bdf0da4ea2b4c804",
-   "published": "2026-11-01T01:00+05:00",
-   "time_tashkent": "01:00",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "RTL Today",
-   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
-   "paywall": false,
-   "title": "In Mexico City, Day of the Dead parade inspired by 007",
-   "summary": "In Mexico City, Day of the Dead parade inspired by 007&nbsp;&nbsp;RTL Today",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenY2WWd4NzJFM2Y5dGhOcnotaFN5aURweGk5b3hPTkJ2UmlGcDJpZHNvRmRSUjJVaWExclZ3NnM3TXBGNURfT2RWMExZMVJlTG5tMlVWX0prMUd0LWNNaGdmSjRJUk1lRnc1WncyNHRsdV83V1VSbTNHSURRZGR2Q3gxWmh0T2dhQmxaS3N4MG9BczlrU3BMOTBRUQ?oc=5",
-   "also": [
-    "CGTN"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDJSV3Y3NGI5N2ppMUt0MENadG9ReHk0VEZIdzl2SXI1NHNGb1pFQWktR2c4ekdtOGg4QjFWMmtUcUVkenhtNVFMU1BoZ0dOYjJQMDdZaDl6R1czNTRJU1oxM2NnbUtyNFc2VEVReEUwdVdtWldLU2I0Z201T3drSW1PTk80UjZKV20wemxzdlRPTzJ3RzhkS255N1dOZmI1Wl9zLXBDeHAwcUlrZmVMS1VrdDZEYWNBUk1wMnJfdjZaZw?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
   },
   {
    "hash": "f5fd380c9c30b1fb678b846e6af7dc4f",
@@ -5375,6 +5722,27 @@
    "confirmed": true
   },
   {
+   "hash": "cf3663ec04d23767bdf0da4ea2b4c804",
+   "published": "2026-11-01T01:00+05:00",
+   "time_tashkent": "01:00",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTL Today",
+   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
+   "paywall": false,
+   "title": "In Mexico City, Day of the Dead parade inspired by 007",
+   "summary": "In Mexico City, Day of the Dead parade inspired by 007&nbsp;&nbsp;RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenY2WWd4NzJFM2Y5dGhOcnotaFN5aURweGk5b3hPTkJ2UmlGcDJpZHNvRmRSUjJVaWExclZ3NnM3TXBGNURfT2RWMExZMVJlTG5tMlVWX0prMUd0LWNNaGdmSjRJUk1lRnc1WncyNHRsdV83V1VSbTNHSURRZGR2Q3gxWmh0T2dhQmxaS3N4MG9BczlrU3BMOTBRUQ?oc=5",
+   "also": [
+    "CGTN"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRDJSV3Y3NGI5N2ppMUt0MENadG9ReHk0VEZIdzl2SXI1NHNGb1pFQWktR2c4ekdtOGg4QjFWMmtUcUVkenhtNVFMU1BoZ0dOYjJQMDdZaDl6R1czNTRJU1oxM2NnbUtyNFc2VEVReEUwdVdtWldLU2I0Z201T3drSW1PTk80UjZKV20wemxzdlRPTzJ3RzhkS255N1dOZmI1Wl9zLXBDeHAwcUlrZmVMS1VrdDZEYWNBUk1wMnJfdjZaZw?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "822792419f372cd6831a4b6b6a574228",
    "published": "2026-11-01T00:59+05:00",
    "time_tashkent": "00:59",
@@ -5405,30 +5773,15 @@
    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMjZpb2J4R1lJUVo5dGJZN25PMi10X2xSREIzVjFzakJyTkpaZkNtWjFpZnZNMXZkemtVSGcydVVkRFNHSXJvcXVnWXNCcFJVVEFrdXB4REtOUnRhdmdUQ2VidjZUYWVHNElZdktlTU44OEhnT3JuVkJONXczV3RtZVNKdENKR0pXelZUOU0xVGx6ZzA0WnQtc0ZlZldoa3lwLWdiVWVLa1V5dDlGZHRqVnFwU0ZEakktMTRIX1A2aVZaNDVsV0QxSEZyWmpHTEtJelRGWlVNMA?oc=5",
    "also": [
     "Australian Broadcasting Corporation",
-    "AP News"
+    "AP News",
+    "The Globe and Mail"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMiggFBVV95cUxNLV9OZy1FWlVuZVBRQUd2ZkwwTlF6WnpvbnlUaVpxYklaQzI0c0NLNjlLc21KZUx6dkFuRDZkR1dhOW5wdjBjXy1ZamlwMzlWa3RIRG9XLUVCZXhtQzdvVzZEV1p6OXhfNmg4VGtBNlA2elJwcGlFUGRUdmE5RDlwemRR?oc=5",
-    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5"
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcC1sSkxtLWVVWVpCXzVQc1pIeHhrdnBEYkY1ZjZmQjQtZE9CdWNOdkFPalphUHVmWTJ0dk1NUUNtX2Y4RVJ1U0FQZ21BM1VkQTFUOU1IVHNRd2kwMGs4c0VqUG81X2hRbVlvU0NCOFRiYjR4TDdhajltTmRRazJBbUotYUs3Q3o0aEg4UDBONEhodw?oc=5",
+    "https://news.google.com/rss/articles/CBMiigJBVV95cUxNTWgwQW1tMGowQU5zT3NMOHo3X2gwdjBiMS1ndUxDVTB4OEVJcmdNRDI2Wk5SWUxzN0FxMUtfN1lIOTRZNE1SdEhINGpPa2gzSmJCVGZnQ2hnUWZMQnlsRHRrNlFHWmxLSjQ0OXUwRi1YUVNMcXJVdkFzZXB0dmF0bkVCQVR0Z245RWxfdENPbnE4bkdIbGFhMnNLa3IwZVMzOVFnUEppcVpINHpZZXB5Ym1JOEhDRjBZWXhOWEFEVE9OMUNrSG1mdmNvVmlVYXNTVTZmVUZ3SGFONm9VMGRFcW5QTHBNMDU1Q3FmVk1lRV9VZzBJaUFlbEs5bGRUSkFKRmFfZ0g2YkhnZw?oc=5"
    ],
-   "sources_count": 3,
-   "confirmed": true
-  },
-  {
-   "hash": "5a06b67bed451471002d926470056052",
-   "published": "2026-11-01T00:58+05:00",
-   "time_tashkent": "00:58",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "GNews/ЕС и НАТО",
-   "feed": "GNews/ЕС и НАТО",
-   "paywall": false,
-   "title": "[LIVESTREAMs] Breeders' Cup 2026 live Free TV Channel - citizens.ec.europa.eu",
-   "summary": "[LIVESTREAMs] Breeders' Cup 2026 live Free TV Channel&nbsp;&nbsp;citizens.ec.europa.eu",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGQwODBFdFRvdTFGZ2VrMzBvUnM3VkttV2pfUDBEZ0lxQWoxMjAzRjhMb1Q2U1RwMGJqSTBBV0hkdHN6QWd4OXpLNEJXcXBLZW5ld05RcnMxbUVUSDJtT2lzcTZiemVkbUxxaE1zTFIxVklidnRTVXNvZm01OXUzT3o2aGZvM0xCTXRpb1NnUFJGeGNNNEw2bGpNRXFUdXM?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
+   "sources_count": 4,
    "confirmed": true
   },
   {
@@ -5447,6 +5800,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "5a06b67bed451471002d926470056052",
+   "published": "2026-11-01T00:58+05:00",
+   "time_tashkent": "00:58",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "GNews/ЕС и НАТО",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "[LIVESTREAMs] Breeders' Cup 2026 live Free TV Channel - citizens.ec.europa.eu",
+   "summary": "[LIVESTREAMs] Breeders' Cup 2026 live Free TV Channel&nbsp;&nbsp;citizens.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcGQwODBFdFRvdTFGZ2VrMzBvUnM3VkttV2pfUDBEZ0lxQWoxMjAzRjhMb1Q2U1RwMGJqSTBBV0hkdHN6QWd4OXpLNEJXcXBLZW5ld05RcnMxbUVUSDJtT2lzcTZiemVkbUxxaE1zTFIxVklidnRTVXNvZm01OXUzT3o2aGZvM0xCTXRpb1NnUFJGeGNNNEw2bGpNRXFUdXM?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "7b1fd2917bca75b6f7703b307c2c1d66",
@@ -5609,23 +5979,6 @@
    "confirmed": false
   },
   {
-   "hash": "8671b67af5245248e8f0c71890d1bb43",
-   "published": "2026-11-01T00:54+05:00",
-   "time_tashkent": "00:54",
-   "region": "БВ",
-   "type": "smi",
-   "source": "The Peninsula Qatar",
-   "feed": "GNews/Залив: СМИ и агентства",
-   "paywall": false,
-   "title": "Fourth Qatar Real Estate Forum 2026 concludes with strong participation, sales exceeding QR1 billion",
-   "summary": "Fourth Qatar Real Estate Forum 2026 concludes with strong participation, sales exceeding QR1 billion&nbsp;&nbsp;The Peninsula Qatar",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVlMUkZoZDAwMGI3RHcyZTRQeVlfemo0MWFraHprX3kxZVFtWmRtRUc0VFZaNzZjWndXWk1XMFk0Vi1xUXJGSkNYbFowTWcwSkpiTnJqMnY5X00yMnY1bEo3bndQRWIzLXlBejg0Q1I2dV9mdHVwV04wellPbnVmTElKX09VaG5HYm9lMVdXRFVwV3Q2T1dCcndGQklZYm1McC1YdFZDRUhFT3M1ejBaOWM2UjFsSXkzbHNqdTRBOFltb3dVelM3bTJ3OV8wUmdzV0ZldkpaZlpQZ1N6cHZDTmRB?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "7acaaaf43a95330209031ceea58c0e81",
    "published": "2026-11-01T00:54+05:00",
    "time_tashkent": "00:54",
@@ -5641,6 +5994,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "8671b67af5245248e8f0c71890d1bb43",
+   "published": "2026-11-01T00:54+05:00",
+   "time_tashkent": "00:54",
+   "region": "БВ",
+   "type": "smi",
+   "source": "The Peninsula Qatar",
+   "feed": "GNews/Залив: СМИ и агентства",
+   "paywall": false,
+   "title": "Fourth Qatar Real Estate Forum 2026 concludes with strong participation, sales exceeding QR1 billion",
+   "summary": "Fourth Qatar Real Estate Forum 2026 concludes with strong participation, sales exceeding QR1 billion&nbsp;&nbsp;The Peninsula Qatar",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNVlMUkZoZDAwMGI3RHcyZTRQeVlfemo0MWFraHprX3kxZVFtWmRtRUc0VFZaNzZjWndXWk1XMFk0Vi1xUXJGSkNYbFowTWcwSkpiTnJqMnY5X00yMnY1bEo3bndQRWIzLXlBejg0Q1I2dV9mdHVwV04wellPbnVmTElKX09VaG5HYm9lMVdXRFVwV3Q2T1dCcndGQklZYm1McC1YdFZDRUhFT3M1ejBaOWM2UjFsSXkzbHNqdTRBOFltb3dVelM3bTJ3OV8wUmdzV0ZldkpaZlpQZ1N6cHZDTmRB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "f23093598bfaf02336ec47c6ed911de8",
@@ -5759,6 +6129,27 @@
    "confirmed": true
   },
   {
+   "hash": "c9779f6d27d04e278ee58db3c82551c9",
+   "published": "2026-11-01T00:50+05:00",
+   "time_tashkent": "00:50",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Fox News",
+   "feed": "GNews/World-US",
+   "paywall": false,
+   "title": "No choice made yet by Trump on resuming military action against Iran, Rubio says",
+   "summary": "No choice made yet by Trump on resuming military action against Iran, Rubio says&nbsp;&nbsp;Fox NewsU.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms&nbsp;&nbsp;WSJUS weighs new Iran strikes as Vance reaches out: Is war or",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW82emNVZFFoQXk5bVRPZF9NTGphSmZ2U08ybEI1SlV1b1RPUVJYSHltUnpzOVNaaXdMUXZXUjNNMV9WRkpHQ1BaTHRKMi1mc3hlLVRQTGNZZ1E3Z0tNSWw1d0hCaEhTT1VwdDh4RmZzQVd2Y3Y0dlZKTUtMQnloNTJydnpFWEU1?oc=5",
+   "also": [
+    "The Hindu"
+   ],
+   "also_links": [
+    "https://www.thehindu.com/news/international/rubio-says-us-yet-to-decide-on-new-iran-strikes/article71651951.ece"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "25b77eeac29016c21d773fba9bcf6a53",
    "published": "2026-11-01T00:50+05:00",
    "time_tashkent": "00:50",
@@ -5776,34 +6167,17 @@
    "confirmed": true
   },
   {
-   "hash": "c9779f6d27d04e278ee58db3c82551c9",
-   "published": "2026-11-01T00:50+05:00",
-   "time_tashkent": "00:50",
-   "region": "МИР",
-   "type": "smi",
-   "source": "Fox News",
-   "feed": "GNews/World-US",
-   "paywall": false,
-   "title": "No choice made yet by Trump on resuming military action against Iran, Rubio says",
-   "summary": "No choice made yet by Trump on resuming military action against Iran, Rubio says&nbsp;&nbsp;Fox NewsU.S. Warns Gulf of Possible Short, Intense Renewal of Iran War After Midterms&nbsp;&nbsp;WSJUS weighs new Iran strikes as Vance reaches out: Is war or",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUW82emNVZFFoQXk5bVRPZF9NTGphSmZ2U08ybEI1SlV1b1RPUVJYSHltUnpzOVNaaXdMUXZXUjNNMV9WRkpHQ1BaTHRKMi1mc3hlLVRQTGNZZ1E3Z0tNSWw1d0hCaEhTT1VwdDh4RmZzQVd2Y3Y0dlZKTUtMQnloNTJydnpFWEU1?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "9e1bdbe2629b7c336c6007168678614b",
+   "hash": "fbed3ef6d84068f32cbfdc8b1ea6a80a",
    "published": "2026-11-01T00:49+05:00",
    "time_tashkent": "00:49",
-   "region": "ЕВ",
+   "region": "АФР",
    "type": "smi",
-   "source": "DW",
-   "feed": "DW",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
    "paywall": false,
-   "title": "Serbia after Vucic: The winners are losing patience",
-   "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and administration.",
-   "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-world-4025-rdf",
+   "title": "2027: Tinubu issues fresh directive, orders security agencies to rescue all kidnapped victims",
+   "summary": "2027: Tinubu issues fresh directive, orders security agencies to rescue all kidnapped victims&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbVJWRk01TlVBb00xMjBYaGZLYS1uR0VZRUdYYTczcUQzYlpxRnc2SFNJRlNaTUs4eWt1M0NGVDZoSDNOUWhscjhwdXlRbHZPN2c4VlBmQjl5eVo1azc1TUlWNTVhVlV0U09WSmRFa3ZkOFNDbmV3M2wxQVpydkJ1QWhsbGZ2WVhBUzIwbk5ab05nRWJ0bWs3V25xYnZxODVSUWZ4X2owZzNWR1A0OUpnbTRMdjBfZXdCcDhxd3d3dHVLd29IMmtnSVNacmhXNDJSeHpyWUkyeENZcEFSanVyQ2Z3?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -5831,38 +6205,21 @@
    "confirmed": true
   },
   {
-   "hash": "fbed3ef6d84068f32cbfdc8b1ea6a80a",
+   "hash": "9e1bdbe2629b7c336c6007168678614b",
    "published": "2026-11-01T00:49+05:00",
    "time_tashkent": "00:49",
-   "region": "АФР",
+   "region": "ЕВ",
    "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
+   "source": "DW",
+   "feed": "DW",
    "paywall": false,
-   "title": "2027: Tinubu issues fresh directive, orders security agencies to rescue all kidnapped victims",
-   "summary": "2027: Tinubu issues fresh directive, orders security agencies to rescue all kidnapped victims&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbVJWRk01TlVBb00xMjBYaGZLYS1uR0VZRUdYYTczcUQzYlpxRnc2SFNJRlNaTUs4eWt1M0NGVDZoSDNOUWhscjhwdXlRbHZPN2c4VlBmQjl5eVo1azc1TUlWNTVhVlV0U09WSmRFa3ZkOFNDbmV3M2wxQVpydkJ1QWhsbGZ2WVhBUzIwbk5ab05nRWJ0bWs3V25xYnZxODVSUWZ4X2owZzNWR1A0OUpnbTRMdjBfZXdCcDhxd3d3dHVLd29IMmtnSVNacmhXNDJSeHpyWUkyeENZcEFSanVyQ2Z3?oc=5",
+   "title": "Serbia after Vucic: The winners are losing patience",
+   "summary": "After the Student List's election victory, Aleksandar Vucic's power apparatus is disintegrating. People want justice as soon as possible. But the losers still hold sway in the judiciary and administration.",
+   "link": "https://www.dw.com/en/serbia-after-vucic-the-winners-are-losing-patience/a-79817586?maca=en-rss-en-world-4025-rdf",
    "also": [],
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "0b0b498505e7783a5e1caf0585c6be95",
-   "published": "2026-11-01T00:48+05:00",
-   "time_tashkent": "00:48",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Air defense neutralizes 122 Russian drones, two Banderol missiles on Saturday",
-   "summary": "Air defense neutralizes 122 Russian drones, two Banderol missiles on Saturday&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc19DY25FUzBkRXZvczlaV1U5Y2NVWVU0TDNFNGdZb0I1Z1FWcGdjczNhd1I0OE56TC1YVG1ldkpNclAwbWNiYllyXzBNZnFtWFhuQmFGd0dXMzczX2NMLUlib3JMcWE0UXJjSUs5NUlHVUhIYXF5b0hlVTNOQ3VyenFEVXpMZFRmOGlNc0JqdkNZUlM5bnFPbDQ3QlhvNUx2M0hUWG5PanI0Y1lRdWxDbVhSZG82Z25qanNiZ2YySGxQR2Fo0gHKAUFVX3lxTE9fY2RXRWhRcTFlem5JeGFFME1GczVBY3dzRFZha0ozRm53NXpKV2NaeHpRX2NrT3piQzV5dGJVMXEwZlQwSTVHMDcxd0ZmUzFyOWhGel9GdlFoM0ZsdjZDV1VFbGVtM29fNkczZkttdkdKdWx1RlVzenZuaDhTOFExQk9rZWtUZUpvNHpJOVV5ZDN0LVN5OVZIMjc3UFEyWXlPS21XTWU1a0RJT1lQX0Y1Y1cwQnM4ay1hcDhnc3V5b2llVzk3dTdUU3c?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "03c0a511c15b002c61b5190f105dbdc1",
@@ -5916,17 +6273,34 @@
    "confirmed": false
   },
   {
-   "hash": "1bfd804c5ae9229aae61a41ea27b3da6",
-   "published": "2026-11-01T00:47+05:00",
-   "time_tashkent": "00:47",
-   "region": "МИР",
+   "hash": "0b0b498505e7783a5e1caf0585c6be95",
+   "published": "2026-11-01T00:48+05:00",
+   "time_tashkent": "00:48",
+   "region": "УКР",
    "type": "ofic",
-   "source": "Indico.UN",
-   "feed": "GNews/Международные организации",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
    "paywall": false,
-   "title": "UNMISS, South Sudan",
-   "summary": "UNMISS, South Sudan&nbsp;&nbsp;Indico.UN",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlNxa0R6b2hVcGtzUDllSDJpcDB4VWM0TkFWUERsUzA0aGtqYmZUNEpxY09MSFpmWDI3NFJkaWFHVFdQaWRvQ1BINWdwM3psbkpqN3BHMnhqdnhlYVVsbXZJUl9ESnZVdnllNUZ0aW1kSnllR256eS00QndTT3JieVpHNkhwM3FoTUpfOE50RVVITVNmbU1hQThGaTRVR056S21z?oc=5",
+   "title": "Air defense neutralizes 122 Russian drones, two Banderol missiles on Saturday",
+   "summary": "Air defense neutralizes 122 Russian drones, two Banderol missiles on Saturday&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc19DY25FUzBkRXZvczlaV1U5Y2NVWVU0TDNFNGdZb0I1Z1FWcGdjczNhd1I0OE56TC1YVG1ldkpNclAwbWNiYllyXzBNZnFtWFhuQmFGd0dXMzczX2NMLUlib3JMcWE0UXJjSUs5NUlHVUhIYXF5b0hlVTNOQ3VyenFEVXpMZFRmOGlNc0JqdkNZUlM5bnFPbDQ3QlhvNUx2M0hUWG5PanI0Y1lRdWxDbVhSZG82Z25qanNiZ2YySGxQR2Fo0gHKAUFVX3lxTE9fY2RXRWhRcTFlem5JeGFFME1GczVBY3dzRFZha0ozRm53NXpKV2NaeHpRX2NrT3piQzV5dGJVMXEwZlQwSTVHMDcxd0ZmUzFyOWhGel9GdlFoM0ZsdjZDV1VFbGVtM29fNkczZkttdkdKdWx1RlVzenZuaDhTOFExQk9rZWtUZUpvNHpJOVV5ZDN0LVN5OVZIMjc3UFEyWXlPS21XTWU1a0RJT1lQX0Y1Y1cwQnM4ay1hcDhnc3V5b2llVzk3dTdUU3c?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "196641e10c7c5c366f9b7e188c45dc7f",
+   "published": "2026-11-01T00:48+05:00",
+   "time_tashkent": "00:48",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "European Commission",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "Glossary:Replacement level - Statistics Explained - Eurostat",
+   "summary": "Glossary:Replacement level - Statistics Explained - Eurostat&nbsp;&nbsp;European Commission",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdUVNb0ZjS0VQVXJqd1pnT0NSZ1JEdU5RcWdBaW95STR2VE56ODFxS3M1VFpSblFwT3lQbnNERC03aTFLTklwaUJjU2hSOHcxdVN5RV9QbDM4Y2pQSHQ0dXhkcW1GRTZiLWpDeUlNZTcyR0xaYkRhZTJrR2RTa2RucDQ0YWFfUnFOaHlKSTRVRFNlWmJlUFlXMHh5RQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -5948,6 +6322,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "1bfd804c5ae9229aae61a41ea27b3da6",
+   "published": "2026-11-01T00:47+05:00",
+   "time_tashkent": "00:47",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "Indico.UN",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "UNMISS, South Sudan",
+   "summary": "UNMISS, South Sudan&nbsp;&nbsp;Indico.UN",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlNxa0R6b2hVcGtzUDllSDJpcDB4VWM0TkFWUERsUzA0aGtqYmZUNEpxY09MSFpmWDI3NFJkaWFHVFdQaWRvQ1BINWdwM3psbkpqN3BHMnhqdnhlYVVsbXZJUl9ESnZVdnllNUZ0aW1kSnllR256eS00QndTT3JieVpHNkhwM3FoTUpfOE50RVVITVNmbU1hQThGaTRVR056S21z?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "41ecad65f06efab3cb16eea800618751",
@@ -6548,21 +6939,21 @@
    "confirmed": true
   },
   {
-   "hash": "58e4c07c512a70ad30222411bc5211f8",
+   "hash": "776d7a9a55bfadf1f2eb9f234a7a20fb",
    "published": "2026-11-01T00:30+05:00",
    "time_tashkent": "00:30",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "İletişim Başkanlığı",
-   "feed": "GNews/Турция и Кавказ: власть",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
    "paywall": false,
-   "title": "Challenges of artificial intelligence discussed as part of “Turkic World Dialogue Forum”",
-   "summary": "Challenges of artificial intelligence discussed as part of “Turkic World Dialogue Forum”&nbsp;&nbsp;İletişim Başkanlığı",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdGYtdS1OMnVVaUNGOXljZlF2ZEVsQ3lzcjZQMDFoOU1Jb1hYVDdkTnJXMTdEWktUVnZxVk5MUUlSTV85aC1fWTJzd1d3Zk1vZkVibGk4ZzJLUWJMaXYtbVVaV2NESWN5TzZNbUdnSUpNZE5NN0w3VW9NLVJPODJOd00zWDRNWVp2U1l5R2JzQnVsNm5ZaGh1WkdQQjk5UVZDbEZhdFdtVVdHVS1WTzlXVU1XQ3lNTVN4TjhlR3VxRFRqb2ROM0U5LWNaXzNKNXBKTWh4aw?oc=5",
+   "title": "TRENDING: Toyin posts TikTok partnership after Funke’s Facebook deal, sparks rivalry debate",
+   "summary": "TRENDING: Toyin posts TikTok partnership after Funke’s Facebook deal, sparks rivalry debate&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOEZhYm5rSkxFbEtMM214TVdzR2hJWHQzU0JnSVdyOTdLUEw0OUJBcElIaTJzN01NckpQU3hXQ0tJdVhyUVlfNTBwWElMSFkxTkZjcXlsNDBrR2ZXU3p4ZjFzMHVsd0hlVkJMQ0pqV2xpRnEtb2wzX3RRQl81c2RRSzFMNkcydnpXbldxUnhncU56Sm5XSUYxdlgxX0tkNDNZSVlxbDVCRU5uaC1xTHo4UDRrM1o3RkVPZmtqaURWTmdIU2U2elB4SlJDUkFJaHlnSUZ4MlVRX2M0U3ZHNTBwV2JhZ0hfRFF1dVR3?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "2b89a59e7607c09a60adec506eaa3711",
@@ -6584,23 +6975,6 @@
    ],
    "sources_count": 2,
    "confirmed": true
-  },
-  {
-   "hash": "776d7a9a55bfadf1f2eb9f234a7a20fb",
-   "published": "2026-11-01T00:30+05:00",
-   "time_tashkent": "00:30",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "TRENDING: Toyin posts TikTok partnership after Funke’s Facebook deal, sparks rivalry debate",
-   "summary": "TRENDING: Toyin posts TikTok partnership after Funke’s Facebook deal, sparks rivalry debate&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQOEZhYm5rSkxFbEtMM214TVdzR2hJWHQzU0JnSVdyOTdLUEw0OUJBcElIaTJzN01NckpQU3hXQ0tJdVhyUVlfNTBwWElMSFkxTkZjcXlsNDBrR2ZXU3p4ZjFzMHVsd0hlVkJMQ0pqV2xpRnEtb2wzX3RRQl81c2RRSzFMNkcydnpXbldxUnhncU56Sm5XSUYxdlgxX0tkNDNZSVlxbDVCRU5uaC1xTHo4UDRrM1o3RkVPZmtqaURWTmdIU2U2elB4SlJDUkFJaHlnSUZ4MlVRX2M0U3ZHNTBwV2JhZ0hfRFF1dVR3?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "a569a2fcab9e20ba0e02845b07b363e7",
@@ -6630,6 +7004,23 @@
    "confirmed": true
   },
   {
+   "hash": "58e4c07c512a70ad30222411bc5211f8",
+   "published": "2026-11-01T00:30+05:00",
+   "time_tashkent": "00:30",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "İletişim Başkanlığı",
+   "feed": "GNews/Турция и Кавказ: власть",
+   "paywall": false,
+   "title": "Challenges of artificial intelligence discussed as part of “Turkic World Dialogue Forum”",
+   "summary": "Challenges of artificial intelligence discussed as part of “Turkic World Dialogue Forum”&nbsp;&nbsp;İletişim Başkanlığı",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdGYtdS1OMnVVaUNGOXljZlF2ZEVsQ3lzcjZQMDFoOU1Jb1hYVDdkTnJXMTdEWktUVnZxVk5MUUlSTV85aC1fWTJzd1d3Zk1vZkVibGk4ZzJLUWJMaXYtbVVaV2NESWN5TzZNbUdnSUpNZE5NN0w3VW9NLVJPODJOd00zWDRNWVp2U1l5R2JzQnVsNm5ZaGh1WkdQQjk5UVZDbEZhdFdtVVdHVS1WTzlXVU1XQ3lNTVN4TjhlR3VxRFRqb2ROM0U5LWNaXzNKNXBKTWh4aw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "afc37099c2338438167d79f0cfe65816",
    "published": "2026-11-01T00:29+05:00",
    "time_tashkent": "00:29",
@@ -6641,6 +7032,23 @@
    "title": "21 shots, no goals: How Manchester City lost to Brighton at Etihad Stadium",
    "summary": "21 shots, no goals: How Manchester City lost to Brighton at Etihad Stadium&nbsp;&nbsp;The Indian Express",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdGp5SmdCWXo5YnhvQ3dwTXpEcUVfMFJ1WDEtakZuSzVaazBXeFFoUl9TU1A3SEQwbDFoVER5dmNmWXNWUzlCM0ZGLUNCZkpSYThSZDlCdGRtVnFZSlh1dEFtQU4tNjdtZ05pZ2lkRXI3ektVbXVLZ25rYkRQd3Fsdm5HMlgxX3lPcjNFZzN3OXRzUVo5QUlZUnhXREY3VDNnZnhOTGNmUV9uYU8xV0tPSTlvOTLSAbsBQVVfeXFMTzE2OElmNjB5S2t1eUR3amR4SVRkM1hVc0hlSUhrbkEwNmlZc1gxaGR6bklwZk9uS2dXazR3VEJORWp2dzJBdzZJZ2hSR3NRdmZxaEJmaDVodFQ0bE1JeUVNdzR3bl9JLWFrT1MxZk9pdkFNYkF6OU05M0RMWGlqdmZJN0VtUlh1TU5tc2JhdVFDTnd6SW1qWlNjX19yRThWc012aS1TeEt4UHRZeE9HaWthUW8xRXlMVDNWWQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "5f5357482c1df64702d8e44101f1d853",
+   "published": "2026-11-01T00:29+05:00",
+   "time_tashkent": "00:29",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Plateau police arrest man over wife’s killing",
+   "summary": "Plateau police arrest man over wife’s killing&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTFYanhKc0Y3bnU2OFlDWnB3NkR1UV81MlVlT0VWQVI3ODY0elUwY1p2U05ENnktM0YweGRpNGZFNkhwZG90SG04TGhBanFaNklGbzIwUnd6OHc4UzRYVTQ4VTRxa1ZFc3ZaOEhKMHlUcUpOei1OaHpsMEpFUUpVN1ZJZlAyd21SMnJsdUtmZndsUDRrY3JVTG1ReXAwNUlWdGkw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -6681,23 +7089,6 @@
    "confirmed": true
   },
   {
-   "hash": "5f5357482c1df64702d8e44101f1d853",
-   "published": "2026-11-01T00:29+05:00",
-   "time_tashkent": "00:29",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "Plateau police arrest man over wife’s killing",
-   "summary": "Plateau police arrest man over wife’s killing&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYTFYanhKc0Y3bnU2OFlDWnB3NkR1UV81MlVlT0VWQVI3ODY0elUwY1p2U05ENnktM0YweGRpNGZFNkhwZG90SG04TGhBanFaNklGbzIwUnd6OHc4UzRYVTQ4VTRxa1ZFc3ZaOEhKMHlUcUpOei1OaHpsMEpFUUpVN1ZJZlAyd21SMnJsdUtmZndsUDRrY3JVTG1ReXAwNUlWdGkw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "4613e1a3f573c010ac94479c1af13a2c",
    "published": "2026-11-01T00:28+05:00",
    "time_tashkent": "00:28",
@@ -6709,6 +7100,23 @@
    "title": "Japanese anime market hits record high in 2025",
    "summary": "Japanese anime market hits record high in 2025&nbsp;&nbsp;NHKニュース",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80OGlQeHp5QktmQnkzVFFVWENMSnozTVFpMlZibEt2aXphb1RQX0NQOXgtOXczZUZXWGh1Ykctd3J2QzBlOHpPcGNFbmpfMGRja3A5QU9UaW40ZmxKalowYTVkOA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "5c44c1cfe4fbb24d8d1764e990d5c8df",
+   "published": "2026-11-01T00:28+05:00",
+   "time_tashkent": "00:28",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Offensive odour Archives",
+   "summary": "Offensive odour Archives&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sTzRKQkNSMlhLemVNZUxoSXQ3WDNPNFh1Z1hLb1BCdGRsLXVRRFI4ejRaWnpTX0dGZ0lOTmtTeHc5aGZPRFlZYUZIWDh4aDQ4QXhvY1lqYjMtd2w2ckRZ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -6753,57 +7161,6 @@
    "confirmed": true
   },
   {
-   "hash": "5c44c1cfe4fbb24d8d1764e990d5c8df",
-   "published": "2026-11-01T00:28+05:00",
-   "time_tashkent": "00:28",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "Offensive odour Archives",
-   "summary": "Offensive odour Archives&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5sTzRKQkNSMlhLemVNZUxoSXQ3WDNPNFh1Z1hLb1BCdGRsLXVRRFI4ejRaWnpTX0dGZ0lOTmtTeHc5aGZPRFlZYUZIWDh4aDQ4QXhvY1lqYjMtd2w2ckRZ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "5bd969c4c95a2021a5a03dd323dd5951",
-   "published": "2026-11-01T00:27+05:00",
-   "time_tashkent": "00:27",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "GNews/ЕС и НАТО",
-   "feed": "GNews/ЕС и НАТО",
-   "paywall": false,
-   "title": "See Trump's state-by-state approval numbers days before midterms - citizens.ec.europa.eu",
-   "summary": "See Trump's state-by-state approval numbers days before midterms&nbsp;&nbsp;citizens.ec.europa.eu",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlg2SDlyakJaMjBZMzBVYWg1YkRMTlZ5NnlvV3ZsQzZoTXFFUklXWG5ZYjd2QmRqa0p4M0Y1UGJjcUlUQWhfY1NuWkRZbGNxbTM4eXBiUFdHN1Vfeml6Znd0LTlkSkpTOUFRNTlaTTZ5SmtOS2trNE9xQUhaOUpFdEJNLUdxOFliUFFHbXM1S3hxeVRaU1BCZzQzTEpkdWtCNmc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "b30024a60ecc81bb180e3bfb4be39442",
-   "published": "2026-11-01T00:27+05:00",
-   "time_tashkent": "00:27",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "GNews/ЕС и НАТО",
-   "feed": "GNews/ЕС и НАТО",
-   "paywall": false,
-   "title": "Democratic Resilience - Citizens' Engagement Platform - European Union - citizens.ec.europa.eu",
-   "summary": "Democratic Resilience - Citizens' Engagement Platform - European Union&nbsp;&nbsp;citizens.ec.europa.eu",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2VveFJaSzhHX1IyWmwyODVqNm9qVUtjMDVJT25zUU1xbl9ON1I4bXZ4Q3FUbXRaS0JlVU9SdGd6cmo1OVZGaXh4UU9WaWhWMEJ4VGt4UDJjOXNQSVV6c0x6U3JpVGVZS3hrZ0p3cks5VkxBSWdaUUx3RkZOWXhPUGlhR2tUQWlFV1o2Ml8xVGlBY0pOWVcxUDlJX1FtYjdZYWtpNXFjdWRWMDR6Y3l0ZUdxUExQOU5aclZV?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "e15ec0bf593ea9dceafb8ece685ea92a",
    "published": "2026-11-01T00:27+05:00",
    "time_tashkent": "00:27",
@@ -6836,6 +7193,40 @@
    "title": "ICYMI – Democracy Docket: Trump Is Doing Everything He Can To Subvert The Midterms. But Democracy Will Prevail",
    "summary": "ICYMI – Democracy Docket: Trump Is Doing Everything He Can To Subvert The Midterms. But Democracy Will Prevail&nbsp;&nbsp;Senate Democrats (.gov)",
    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZU1UZHN3VE9YSVVLaUQ0MGVJeEVEZ3A2M1g1MmR6N09nRHR3RGNOdmtqdzlYR1p3Ty1hQnIwWUhDdThYTkhNRG52MVZnYmthTm5zWDN0NVRLT0huaHIxb3JnZnlBVnJ5SjBTclBpMzBzNHBXdzF1UkhKVDZ5TFhURDVEY2xOS2RXZURFRGZlLXd0ZTBFZm11dHhrR0pET2RuSmpMZjNHYVpINGhiNXlRRk53NkpYWU9JUXR2VGdkb1lFMjlfajVtOVh2aWN6UE5LeHBKd2NxbV84Z052V1dtRVhWNnM5R0IwSkNQZDJ1RjYwNmpldkE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "5bd969c4c95a2021a5a03dd323dd5951",
+   "published": "2026-11-01T00:27+05:00",
+   "time_tashkent": "00:27",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "GNews/ЕС и НАТО",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "See Trump's state-by-state approval numbers days before midterms - citizens.ec.europa.eu",
+   "summary": "See Trump's state-by-state approval numbers days before midterms&nbsp;&nbsp;citizens.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWlg2SDlyakJaMjBZMzBVYWg1YkRMTlZ5NnlvV3ZsQzZoTXFFUklXWG5ZYjd2QmRqa0p4M0Y1UGJjcUlUQWhfY1NuWkRZbGNxbTM4eXBiUFdHN1Vfeml6Znd0LTlkSkpTOUFRNTlaTTZ5SmtOS2trNE9xQUhaOUpFdEJNLUdxOFliUFFHbXM1S3hxeVRaU1BCZzQzTEpkdWtCNmc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "b30024a60ecc81bb180e3bfb4be39442",
+   "published": "2026-11-01T00:27+05:00",
+   "time_tashkent": "00:27",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "GNews/ЕС и НАТО",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "Democratic Resilience - Citizens' Engagement Platform - European Union - citizens.ec.europa.eu",
+   "summary": "Democratic Resilience - Citizens' Engagement Platform - European Union&nbsp;&nbsp;citizens.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPY2VveFJaSzhHX1IyWmwyODVqNm9qVUtjMDVJT25zUU1xbl9ON1I4bXZ4Q3FUbXRaS0JlVU9SdGd6cmo1OVZGaXh4UU9WaWhWMEJ4VGt4UDJjOXNQSVV6c0x6U3JpVGVZS3hrZ0p3cks5VkxBSWdaUUx3RkZOWXhPUGlhR2tUQWlFV1o2Ml8xVGlBY0pOWVcxUDlJX1FtYjdZYWtpNXFjdWRWMDR6Y3l0ZUdxUExQOU5aclZV?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -6894,12 +7285,14 @@
    "summary": "",
    "link": "https://www.investing.com/news/commodities-news/iranian-envoys-meet-qatari-mediators-as-threat-looms-of-us-strikes-after-midterms-4989288",
    "also": [
-    "Reuters"
+    "Reuters",
+    "Arab News"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5"
+    "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOODBHZGo0TEhURWc2Rm9nLUJjaF9Hb09YLUpnU3JlTWJ0OHJKd3p0dFZEYWdpYUNPVlNJdFJoYXhGOVdOX29rdHhjQ2F0c2E2VjJRQndHcEtSY1JIdEFzTkJJd3RKX2lKYWxRMnRQYjZvVnpxNnJQTlBmUFY5TWMzZTJ4akRuS1pKNExQY2lCQTAzRVlWOG4wYnZRVV9tRWJQdDJKQ0owZVdZUS1ZQmZYbTlMR0xxbF9uZ3ZvWkRNNDJtX0JNclZhLQ?oc=5",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMjFnYWtnU1ZZVGZaaGJaNzNSQVpBUFA5dzFCbW44Tk83SVo2dHJkbmwtYXh5anBEbjlTU2pOemI5OE1vRUFaM3FmQnduX1M0U3FpZXpkYW5aMlh1aEtiZ1J3U3JPMmFyY3hBOVRjY2JfOXdWaXdqOGVKU0pGY1MtcTZzNERVbVhFaEVpVXhMNllEYnNEbzR0eGlWeko3UE50RlphYlJpYW15WGRtVG5MRVphczA4WU1YdGFOMmNSN0lLTmpz?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -6918,6 +7311,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "96f28da04e364a93f48f649864755cf1",
+   "published": "2026-11-01T00:23+05:00",
+   "time_tashkent": "00:23",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "GNews/Международные организации",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "- Welcome to the United Nations",
+   "summary": "&nbsp;&nbsp;Welcome to the United Nations",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjcyS0FBQWNaQTdOWTRKbTN1RDFITmhxMzRPeTJza25UaHpRWHpGbFpGcmt4YWdHSnpxVkQ2d0RPT2ZiVnVGSVBzdHo1bmFMYjdDcVpvWjhGNEJ4WS1UekhuMFN4S3kwRGpucm91MFJPem1sZHBkaW42eW9NZTcxUC15NVlqSVdzd1E?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "f337166e9ad0cfdfe24cb23596348688",
@@ -6942,23 +7352,6 @@
     "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FZnZWSmN6RlI1bjNjTzRwWXVyZVpKeTFJcV9NbTRScHNINmw0TGU2cy1DMEpFRUkwSENvMDRSNU5acnBkN2M2dWpfMWpWX3ZSWDZubkZWUVByR2UwMkNHUm8wQUQ1WWFPU1o3NnRoMUdCb1E0MU8yU0pIMGRJUQ?oc=5"
    ],
    "sources_count": 4,
-   "confirmed": true
-  },
-  {
-   "hash": "96f28da04e364a93f48f649864755cf1",
-   "published": "2026-11-01T00:23+05:00",
-   "time_tashkent": "00:23",
-   "region": "МИР",
-   "type": "ofic",
-   "source": "GNews/Международные организации",
-   "feed": "GNews/Международные организации",
-   "paywall": false,
-   "title": "- Welcome to the United Nations",
-   "summary": "&nbsp;&nbsp;Welcome to the United Nations",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjcyS0FBQWNaQTdOWTRKbTN1RDFITmhxMzRPeTJza25UaHpRWHpGbFpGcmt4YWdHSnpxVkQ2d0RPT2ZiVnVGSVBzdHo1bmFMYjdDcVpvWjhGNEJ4WS1UekhuMFN4S3kwRGpucm91MFJPem1sZHBkaW42eW9NZTcxUC15NVlqSVdzd1E?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -7047,6 +7440,23 @@
    "confirmed": true
   },
   {
+   "hash": "db237793850d63428c1d42be3e8e59c0",
+   "published": "2026-11-01T00:20+05:00",
+   "time_tashkent": "00:20",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "House of Assembly candidate Archives",
+   "summary": "House of Assembly candidate Archives&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYVplQWQzamhEN25DamxRdW0teWdmdmNsVHVsYjUyNXdXVE1MQ3B6b3g2cUlmM25UWDRpT3hNYi0taTU3bzFERzg0RHNtVUN0SlZuQW4xT1NUWGxHalZId01pR01oSXM0OU44RnRpQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "7c890e8e1869cd1f54f9650cc4e83577",
    "published": "2026-11-01T00:20+05:00",
    "time_tashkent": "00:20",
@@ -7085,17 +7495,17 @@
    "confirmed": false
   },
   {
-   "hash": "db237793850d63428c1d42be3e8e59c0",
-   "published": "2026-11-01T00:20+05:00",
-   "time_tashkent": "00:20",
+   "hash": "1c91f30824fb3a159b01491b1fb3b9c3",
+   "published": "2026-11-01T00:18+05:00",
+   "time_tashkent": "00:18",
    "region": "АФР",
    "type": "smi",
    "source": "Premium Times Nigeria",
    "feed": "GNews/Африка: СМИ",
    "paywall": false,
-   "title": "House of Assembly candidate Archives",
-   "summary": "House of Assembly candidate Archives&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYVplQWQzamhEN25DamxRdW0teWdmdmNsVHVsYjUyNXdXVE1MQ3B6b3g2cUlmM25UWDRpT3hNYi0taTU3bzFERzg0RHNtVUN0SlZuQW4xT1NUWGxHalZId01pR01oSXM0OU44RnRpQQ?oc=5",
+   "title": "Makinde, running mate to unveil Reset Nigeria Agenda manifesto on 4 November",
+   "summary": "Makinde, running mate to unveil Reset Nigeria Agenda manifesto on 4 November&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1NxZmJNZTdEZEs0RTJtUTV0RjRkYTFzcEtGeWVjNHNiSFA2bGVSeGZuR2k4MVktN3J1aXVTX1BfWjlPd2Y4Nm96YjhFME5pS1hOU3F4LWVEc2xjRjNUUXA1OGFTTXZYN2hYVk9tS19vWVhBaG1YcXY4cDh2eUEwZzBKdWdiQzJEQTdLTTNCUTJ0RW4tYjBBQnA5RjBNMWV0UWxEVGhjcGl6NlFNN0hPQklCVDY5ZURvbGNGMkd4WmxjaDZYd1VFamxwNXphdw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7129,23 +7539,6 @@
    "confirmed": true
   },
   {
-   "hash": "6fe933880b6bdb5e43a3f8dc744f24cf",
-   "published": "2026-11-01T00:18+05:00",
-   "time_tashkent": "00:18",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "Dozens of Palestine Action protesters arrested outside US embassy",
-   "summary": "Dozens of Palestine Action protesters arrested outside US embassy&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGtEQmtBc0RoeS1RbnMwYWZzcnlxYVpqZXg3SmlMSTFaM0hJLU5WS0Y0MnQtNzFuaVVYZFI3OExGRGJwVFZjVDN4VkRSWW05OFdFVVhuSWRVVkNQUlRudGtTSFJNU1NMMkprWThoM09zbzFHYkRmcEZUY0hkeE5jMDNFajZidnZWbzF6a05kQm1sWGlkMFFJRjE3cUlwbTgyb0E?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "7b5ea323b7e3803208c0b1bccb306290",
    "published": "2026-11-01T00:18+05:00",
    "time_tashkent": "00:18",
@@ -7167,17 +7560,17 @@
    "confirmed": true
   },
   {
-   "hash": "1c91f30824fb3a159b01491b1fb3b9c3",
+   "hash": "6fe933880b6bdb5e43a3f8dc744f24cf",
    "published": "2026-11-01T00:18+05:00",
    "time_tashkent": "00:18",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "Makinde, running mate to unveil Reset Nigeria Agenda manifesto on 4 November",
-   "summary": "Makinde, running mate to unveil Reset Nigeria Agenda manifesto on 4 November&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR1NxZmJNZTdEZEs0RTJtUTV0RjRkYTFzcEtGeWVjNHNiSFA2bGVSeGZuR2k4MVktN3J1aXVTX1BfWjlPd2Y4Nm96YjhFME5pS1hOU3F4LWVEc2xjRjNUUXA1OGFTTXZYN2hYVk9tS19vWVhBaG1YcXY4cDh2eUEwZzBKdWdiQzJEQTdLTTNCUTJ0RW4tYjBBQnA5RjBNMWV0UWxEVGhjcGl6NlFNN0hPQklCVDY5ZURvbGNGMkd4WmxjaDZYd1VFamxwNXphdw?oc=5",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Dozens of Palestine Action protesters arrested outside US embassy",
+   "summary": "Dozens of Palestine Action protesters arrested outside US embassy&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGtEQmtBc0RoeS1RbnMwYWZzcnlxYVpqZXg3SmlMSTFaM0hJLU5WS0Y0MnQtNzFuaVVYZFI3OExGRGJwVFZjVDN4VkRSWW05OFdFVVhuSWRVVkNQUlRudGtTSFJNU1NMMkprWThoM09zbzFHYkRmcEZUY0hkeE5jMDNFajZidnZWbzF6a05kQm1sWGlkMFFJRjE3cUlwbTgyb0E?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7241,6 +7634,44 @@
    "confirmed": true
   },
   {
+   "hash": "817c4d117b681dbf5dce6e9ff9e5660e",
+   "published": "2026-11-01T00:15+05:00",
+   "time_tashkent": "00:15",
+   "region": "МИР",
+   "type": "pay",
+   "source": "WSJ",
+   "feed": "GNews/World-US",
+   "paywall": true,
+   "title": "Midterm Elections Live Updates: Michigan’s El-Sayed Scraps a Show of Democratic Unity",
+   "summary": "Midterm Elections Live Updates: Michigan’s El-Sayed Scraps a Show of Democratic Unity&nbsp;&nbsp;WSJSee more headlines & perspectives on Google News",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RczlvZzdOcEVBeko0ZS1TRHQ5LThyMjljT255UVJEOW9ZRGdRQzJZclQ5ZjZjazFZVFNtbDhYZUxVMGxCVkhRcDJ6Zkl0QlhnbWdJdjNTYkZKT0VScmNDdk80VjRaNkh5UzZZ?oc=5",
+   "also": [
+    "Politico"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlBPQmJVUFlGN0F2SDlHZk5lMEFzb3U1bkZXX191OVFWMlBYNTI1cEZmbm9GZ2tDSEFUaG5wVXVHLVMwNWVZWDh3S2ZteVJfbXp4NkNMWkVGV1VJcHZpMTR4N09fdUJtUUtmUTY2WlBHUmljanpXU0syblRLNzM1RnJKTHEybUl0TEVnTzlGUGtkVElq?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "9ddd340b2a63f1922b90b06a00322138",
+   "published": "2026-11-01T00:15+05:00",
+   "time_tashkent": "00:15",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Benzinga",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
+   "summary": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom&nbsp;&nbsp;Benzinga",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "4acbfa70bc77ebf69b74eace8bd3d776",
    "published": "2026-11-01T00:15+05:00",
    "time_tashkent": "00:15",
@@ -7281,44 +7712,6 @@
    "confirmed": true
   },
   {
-   "hash": "817c4d117b681dbf5dce6e9ff9e5660e",
-   "published": "2026-11-01T00:15+05:00",
-   "time_tashkent": "00:15",
-   "region": "МИР",
-   "type": "pay",
-   "source": "WSJ",
-   "feed": "GNews/World-US",
-   "paywall": true,
-   "title": "Midterm Elections Live Updates: Michigan’s El-Sayed Scraps a Show of Democratic Unity",
-   "summary": "Midterm Elections Live Updates: Michigan’s El-Sayed Scraps a Show of Democratic Unity&nbsp;&nbsp;WSJSee more headlines & perspectives on Google News",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RczlvZzdOcEVBeko0ZS1TRHQ5LThyMjljT255UVJEOW9ZRGdRQzJZclQ5ZjZjazFZVFNtbDhYZUxVMGxCVkhRcDJ6Zkl0QlhnbWdJdjNTYkZKT0VScmNDdk80VjRaNkh5UzZZ?oc=5",
-   "also": [
-    "Politico"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYlBPQmJVUFlGN0F2SDlHZk5lMEFzb3U1bkZXX191OVFWMlBYNTI1cEZmbm9GZ2tDSEFUaG5wVXVHLVMwNWVZWDh3S2ZteVJfbXp4NkNMWkVGV1VJcHZpMTR4N09fdUJtUUtmUTY2WlBHUmljanpXU0syblRLNzM1RnJKTHEybUl0TEVnTzlGUGtkVElq?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "9ddd340b2a63f1922b90b06a00322138",
-   "published": "2026-11-01T00:15+05:00",
-   "time_tashkent": "00:15",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Benzinga",
-   "feed": "GNews/CentralBanks",
-   "paywall": false,
-   "title": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom",
-   "summary": "Gold Price Drops Below Key Support as GLD ETF Outflows Jump as NFP Loom&nbsp;&nbsp;Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONmlJeHZyaXRzNmFFSW5iX0ZPMHBINFpuU1BtZGIyQlF6djRvUFlBT2F4eThQN3gxcUNSRjJlRjBab2xkV0dleU0zeExjOFFUdFVybC14ajJHYUJvNU94RnY4QkVPUTRldmt6blVOV3hzZGllUG5RUEdQNVIwNE14MGMteGtFaElIM0RQaG4wNjVEU2xuQUUtVVpma1l2OHVyOEE1LWM3cVJqTnhWNVE5czFBaDdwOUJnY0ZGa19IR0hDcmg2eVctdUNuMA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "dd4e85cb4d5c38a443ccf6c65be72ccf",
    "published": "2026-11-01T00:14+05:00",
    "time_tashkent": "00:14",
@@ -7347,6 +7740,23 @@
    "title": "Jawhar Aftabachi and Slavery in Mughal IndiaMughal history through the eyes of a slave",
    "summary": "Jawhar Aftabachi and Slavery in Mughal IndiaMughal history through the eyes of a slave&nbsp;&nbsp;The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTnJnUFRQdnFhQWZfclR0QjUxcVRVbHlJZDBjblVOOGdWV3VBNVpFLWFpbUxvZTRPTUx4a0N1TXZzMWNQOXh3TG9WSVJLaFZtN1ZTQ1dqb09xMkxGeWlIQnBVdGFuVXVyX2lWRFdlYlo0NTNQTDFyMGFVTF84MHYyUEVpeFoyaVl2NHBvZzdobElDRi1zX3FmMFlxaDE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "34db9a28c405e32ce03164f6a46a6106",
+   "published": "2026-11-01T00:12+05:00",
+   "time_tashkent": "00:12",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "CBD COP17: Parties adopt Yerevan Pathway as biodiversity talks end amid criticism",
+   "summary": "CBD COP17: Parties adopt Yerevan Pathway as biodiversity talks end amid criticism&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSHdkbEFuWFFyZVU1Mk81dGEtaWw5MHA1LXNoRG1IUWtTZmNIMTczUFVVMTk4SWxxRjRTeDhqTlRScXpMcmRFeWlxOGZCUklFcnZwYVNBVnFjdkdpZGpyVmVzMDNZWUFJcmpUenI5NWdCOUtPdHlyVGNISDRkTXBVTkNIWkpQRDIta0NMakZzTmk0VWpNbk0yZGo1TVJaNGRLRXd3MklfUTBqV1podkd4T2NzMnY3b29LMnZ2OG16Sm9QR2lnODN1X0o3UjYxUkhUM3VV?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7387,23 +7797,6 @@
    "confirmed": false
   },
   {
-   "hash": "34db9a28c405e32ce03164f6a46a6106",
-   "published": "2026-11-01T00:12+05:00",
-   "time_tashkent": "00:12",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "CBD COP17: Parties adopt Yerevan Pathway as biodiversity talks end amid criticism",
-   "summary": "CBD COP17: Parties adopt Yerevan Pathway as biodiversity talks end amid criticism&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSHdkbEFuWFFyZVU1Mk81dGEtaWw5MHA1LXNoRG1IUWtTZmNIMTczUFVVMTk4SWxxRjRTeDhqTlRScXpMcmRFeWlxOGZCUklFcnZwYVNBVnFjdkdpZGpyVmVzMDNZWUFJcmpUenI5NWdCOUtPdHlyVGNISDRkTXBVTkNIWkpQRDIta0NMakZzTmk0VWpNbk0yZGo1TVJaNGRLRXd3MklfUTBqV1podkd4T2NzMnY3b29LMnZ2OG16Sm9QR2lnODN1X0o3UjYxUkhUM3VV?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "d2ff2372b6700eca305c1c3be027ac6c",
    "published": "2026-11-01T00:11+05:00",
    "time_tashkent": "00:11",
@@ -7425,6 +7818,23 @@
    "confirmed": true
   },
   {
+   "hash": "a8c9b5b4ee71b8fda4ea2ca45390ec5a",
+   "published": "2026-11-01T00:11+05:00",
+   "time_tashkent": "00:11",
+   "region": "ЮА",
+   "type": "ofic",
+   "source": "GNews/Афганистан: власть и ООН",
+   "feed": "GNews/Афганистан: власть и ООН",
+   "paywall": false,
+   "title": "Download Saudi Arabia Banned Doctor Strange For Android Free - App Store - اداره تعلیمات تخنیکی و مسلکی",
+   "summary": "Download Saudi Arabia Banned Doctor Strange For Android Free - App Store&nbsp;&nbsp;اداره تعلیمات تخنیکی و مسلکی",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWHdIR2xqSGRYUXhob1Myd1g1QWFCVHF1X3hIQU52RkxJUHJONGVaQkRJcDI1LUhMdGp6bWR2TmhkX00wLXFuOWtwZlNmZDIyNmVsSnFRQ2dhVXNWMUk4SDFBVGotb09GRGJKei1pVnJ6QUlsQ0hYeUxvYmtaNkdwNkFGa0xiOE5fMlBqQmxQWVl1b1RvR1I1WHpkTy1idw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "54dc5fbb4a141aa297cb9020688e5903",
    "published": "2026-11-01T00:10+05:00",
    "time_tashkent": "00:10",
@@ -7442,23 +7852,6 @@
    "confirmed": false
   },
   {
-   "hash": "29f4b1f189b7163f8c7df7094967da3f",
-   "published": "2026-11-01T00:10+05:00",
-   "time_tashkent": "00:10",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Polska Agencja Prasowa SA",
-   "feed": "GNews/СМИ Европы",
-   "paywall": false,
-   "title": "Foreign media see Poland's top court conflict as part of deeper rift",
-   "summary": "Foreign media see Poland's top court conflict as part of deeper rift&nbsp;&nbsp;Polska Agencja Prasowa SA",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3NIUnFxeWV0YkhuRXMxaDRlc2xxWTlBYkpTX2NsOFBjNmZhQXNmNjlkVnd1Q1RiaWJVdjZ2SWRWVkJqNW40SGFFUWtnY1NkUks0blpmQmdXMHBSS2htOFdBalVlRnZHZ0FrRzQ5UDlndDQxc0gxTUtxaXlOaUJDajNGMUhDOU82NG1LaFAyNmtpdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "4484dab21c97ea6795535db7dd321f36",
    "published": "2026-11-01T00:10+05:00",
    "time_tashkent": "00:10",
@@ -7470,6 +7863,23 @@
    "title": "Zaman's century foils Sri Lanka as Pakistan win tri-series",
    "summary": "Zaman's century foils Sri Lanka as Pakistan win tri-series&nbsp;&nbsp;AFP.com",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3BfM1k0OGRXX1BVQ2lncnI4SnoteW9CQWRKUEYweTNEQW8zZFR5SlNiTDNndDZZcmpjS2RZS0liUklIV0l3UTBab3RicXNqLVpTRm1xSDBobmJvT0stamlpclRNY2wzazhfdktnZFdTMHhVQ1ZkTVMtamhFUEZ3Q3p6WQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "29f4b1f189b7163f8c7df7094967da3f",
+   "published": "2026-11-01T00:10+05:00",
+   "time_tashkent": "00:10",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Polska Agencja Prasowa SA",
+   "feed": "GNews/СМИ Европы",
+   "paywall": false,
+   "title": "Foreign media see Poland's top court conflict as part of deeper rift",
+   "summary": "Foreign media see Poland's top court conflict as part of deeper rift&nbsp;&nbsp;Polska Agencja Prasowa SA",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3NIUnFxeWV0YkhuRXMxaDRlc2xxWTlBYkpTX2NsOFBjNmZhQXNmNjlkVnd1Q1RiaWJVdjZ2SWRWVkJqNW40SGFFUWtnY1NkUks0blpmQmdXMHBSS2htOFdBalVlRnZHZ0FrRzQ5UDlndDQxc0gxTUtxaXlOaUJDajNGMUhDOU82NG1LaFAyNmtpdw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7544,6 +7954,23 @@
    "confirmed": false
   },
   {
+   "hash": "4e0714368466be7a9b060e01cb99da62",
+   "published": "2026-11-01T00:08+05:00",
+   "time_tashkent": "00:08",
+   "region": "США",
+   "type": "pay",
+   "source": "The Globe and Mail",
+   "feed": "Globe & Mail",
+   "paywall": true,
+   "title": "Borusan Birleşik Boru Fabrikaları Announces Resignation of Independent Board Member",
+   "summary": "Borusan Birleşik Boru Fabrikaları Announces Resignation of Independent Board Member&nbsp;&nbsp;The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNZHZMVzdPX1ZJcFNBZk83QVpyVHdlaDNqR0NJWXFKMzFRN1FpMHBSSXo5VnFSYmItRFZDYTQxT3V5ZXhlajlNckJHdDJ4UXUtNFZDNnNGZDMtaEx3NEZiV3pEempYUlkxOWJlZ2VjbzY0Y3paNUZkWUVYOXlpNi1ZQnpzU0ppdWxBNnYxRnZfdXVTamtWSEtqUUJLWGlYai12cEVYZVBQSDhkNmlNSDZndHRQNlAwUEtrbWg4Q0xjSlY1Rk5hS2NWZ3BuSm9KekVOdjloVUNHbk92OW1ZYUFOclpFZ0V5eG5EUmVOQjEzT25adUQxZF9r?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "4325b1f899f78f68dc3b9fb9b767b535",
    "published": "2026-11-01T00:07+05:00",
    "time_tashkent": "00:07",
@@ -7595,6 +8022,23 @@
    "confirmed": false
   },
   {
+   "hash": "af5298a58d5c735ebac0718bd3cc76fc",
+   "published": "2026-11-01T00:06+05:00",
+   "time_tashkent": "00:06",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges",
+   "summary": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHRtMnd2MGlYTDMwTnZsdUhYTmsyOGlHR1lPTGZrQm82dUNkOFhvY1JMN3NsZjdTYWZvRmRKSTFFOGxwNFo0Q1FPaDd5NEFsWmVxMktNTVlya09HMHdFQWdUcUZTNndENXFhazd5TGZtSVpwVFdhYkxNbEZpdVF0WGV3U1NPbGdER09mNzFEck1ubkZodkwtdzJlQnBZM0hHb0V3UWpydHhoelh4M2FDY1A5SnViWU8wMzlYQW5tQkcySWM?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "3b96b5502c9ed1d988081545173b32ac",
    "published": "2026-11-01T00:06+05:00",
    "time_tashkent": "00:06",
@@ -7629,23 +8073,6 @@
    "confirmed": false
   },
   {
-   "hash": "af5298a58d5c735ebac0718bd3cc76fc",
-   "published": "2026-11-01T00:06+05:00",
-   "time_tashkent": "00:06",
-   "region": "МИР",
-   "type": "pay",
-   "source": "The Washington Post",
-   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
-   "paywall": true,
-   "title": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges",
-   "summary": "Kennedy Center leaders threatened payroll to push Trump naming, lawmaker alleges&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRHRtMnd2MGlYTDMwTnZsdUhYTmsyOGlHR1lPTGZrQm82dUNkOFhvY1JMN3NsZjdTYWZvRmRKSTFFOGxwNFo0Q1FPaDd5NEFsWmVxMktNTVlya09HMHdFQWdUcUZTNndENXFhazd5TGZtSVpwVFdhYkxNbEZpdVF0WGV3U1NPbGdER09mNzFEck1ubkZodkwtdzJlQnBZM0hHb0V3UWpydHhoelh4M2FDY1A5SnViWU8wMzlYQW5tQkcySWM?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "cfbc701589bb240390aa9c31440043f9",
    "published": "2026-11-01T00:05+05:00",
    "time_tashkent": "00:05",
@@ -7663,38 +8090,21 @@
    "confirmed": false
   },
   {
-   "hash": "c1b2c0fafaac66fb6a2695eca6bada04",
+   "hash": "1506376a1cd192d927569f065bc7a6ae",
    "published": "2026-11-01T00:05+05:00",
    "time_tashkent": "00:05",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "TRT World",
-   "feed": "GNews/Турция и Кавказ",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
    "paywall": false,
-   "title": "'Nearly half a million' flood French streets as protests turn violent",
-   "summary": "'Nearly half a million' flood French streets as protests turn violent&nbsp;&nbsp;TRT World",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZjdHLTNMdl9COTlTMWNuTDNmaW94WnludUFrUWtISFpPNE5QQVZmRFU0X2k4NlMxQTBuR0hjZWF5MjVuV3NIdGJtbmxya1ZobzlvQ0FSRDc?oc=5",
+   "title": "Why government funding alone won’t fix Nigeria’s education crisis, By Adeola Akinremi",
+   "summary": "Why government funding alone won’t fix Nigeria’s education crisis, By Adeola Akinremi&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0RNUXVtaXMwQUNjR3pJdlZEYnlfejdxU0NHRUE2SVNmTXJOY1RManlzdU5Wbld6U2VyTkVHTFJlVVRtaEROWG5IM0UyWnlaY3VMc1NITTVZQk9Wa2NEVWlVRHpMZWhWU0xscUdfcGMxN0lWT2dvZWVLc0hUWGx6Znk5OUVoNUhBYXlXeEVkWTJqVzMxQUdZRlcya1diQnVGc2xmRS1QUU5UVE1XNFpsNlNtdlVoQ1AyWEtqNFg0LVJmOEpxUWt1NWQtYTFRZw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "9060ee7c3d53ad1fac78cf1a118d9186",
-   "published": "2026-11-01T00:05+05:00",
-   "time_tashkent": "00:05",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Report.az",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Azerbaijani judokas win three gold medals at European U-23 Championships in Italy",
-   "summary": "Azerbaijani judokas win three gold medals at European U-23 Championships in Italy&nbsp;&nbsp;Report.az",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjlfUVFtY2RBdDNUeDhlQzFCNzZwaV9vZVBXQVVPNEJ3YlZCOWN1MFg4bnVqbjllRG1JYUJ5bFlEYzBiRHp0STBWazItNWhCcEJEdXNMWkNwSWx3M2tlV1JFcVc1eERsSFV5TTM3cGt4VW1ZMDdpSVhQUE5fdFJFS0FfTEdHczd5RmYzQmprT1M5ZFlaY0RON3J5bmZTZFUxa2tyWUtuX290YV9RUHhFSFplbw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "a3c390246fec8ef4b50769039509935d",
@@ -7735,21 +8145,38 @@
    "confirmed": true
   },
   {
-   "hash": "1506376a1cd192d927569f065bc7a6ae",
+   "hash": "c1b2c0fafaac66fb6a2695eca6bada04",
    "published": "2026-11-01T00:05+05:00",
    "time_tashkent": "00:05",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Nigeria",
-   "feed": "GNews/Африка: СМИ",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "TRT World",
+   "feed": "GNews/Турция и Кавказ",
    "paywall": false,
-   "title": "Why government funding alone won’t fix Nigeria’s education crisis, By Adeola Akinremi",
-   "summary": "Why government funding alone won’t fix Nigeria’s education crisis, By Adeola Akinremi&nbsp;&nbsp;Premium Times Nigeria",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPN0RNUXVtaXMwQUNjR3pJdlZEYnlfejdxU0NHRUE2SVNmTXJOY1RManlzdU5Wbld6U2VyTkVHTFJlVVRtaEROWG5IM0UyWnlaY3VMc1NITTVZQk9Wa2NEVWlVRHpMZWhWU0xscUdfcGMxN0lWT2dvZWVLc0hUWGx6Znk5OUVoNUhBYXlXeEVkWTJqVzMxQUdZRlcya1diQnVGc2xmRS1QUU5UVE1XNFpsNlNtdlVoQ1AyWEtqNFg0LVJmOEpxUWt1NWQtYTFRZw?oc=5",
+   "title": "'Nearly half a million' flood French streets as protests turn violent",
+   "summary": "'Nearly half a million' flood French streets as protests turn violent&nbsp;&nbsp;TRT World",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rZjdHLTNMdl9COTlTMWNuTDNmaW94WnludUFrUWtISFpPNE5QQVZmRFU0X2k4NlMxQTBuR0hjZWF5MjVuV3NIdGJtbmxya1ZobzlvQ0FSRDc?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": false
+   "confirmed": true
+  },
+  {
+   "hash": "9060ee7c3d53ad1fac78cf1a118d9186",
+   "published": "2026-11-01T00:05+05:00",
+   "time_tashkent": "00:05",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Report.az",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Azerbaijani judokas win three gold medals at European U-23 Championships in Italy",
+   "summary": "Azerbaijani judokas win three gold medals at European U-23 Championships in Italy&nbsp;&nbsp;Report.az",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdjlfUVFtY2RBdDNUeDhlQzFCNzZwaV9vZVBXQVVPNEJ3YlZCOWN1MFg4bnVqbjllRG1JYUJ5bFlEYzBiRHp0STBWazItNWhCcEJEdXNMWkNwSWx3M2tlV1JFcVc1eERsSFV5TTM3cGt4VW1ZMDdpSVhQUE5fdFJFS0FfTEdHczd5RmYzQmprT1M5ZFlaY0RON3J5bmZTZFUxa2tyWUtuX290YV9RUHhFSFplbw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "1672d5082379ee2cccf1c03134c4cf27",
@@ -7944,23 +8371,6 @@
    "confirmed": false
   },
   {
-   "hash": "aad7a0bbea02c5c05623fd149de266b6",
-   "published": "2026-11-01T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Zelensky: Energy equipment deliveries from Turkey expected next week",
-   "summary": "Zelensky: Energy equipment deliveries from Turkey expected next week&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWY5cS1NeHE0QThJWEdhZ2FOUVgxVy1NMXYxN3VuOXJBNFFzOW1FWFpnalBrYUZIdC1RQjJrb0lsQy1UbHRJdnJ2WVp0d1h0Y3g5b0VSVTZLeFdQUDh3cHlBY09jbDRVdE9FNVdLYW1xeXVVeWFzWUNxeEVJM0MzZzFSS3VhejZka3RyQXQydTM2c0ozVmpzbXJYcTdNT2xTMVdQenlyc1FvcFVSRnk0UnRCWXZJY1hybXFSM1dacUhVVkXSAcMBQVVfeXFMTjVmOXEtTXhxNEE4SVhHYWdhTlFYMVctTTF2MTd1bjlyQTRRczltRVhaZ2pQa2FGSHQtUUIya29JbEMtVGx0SXZydlladHdYdGN4OW9FUlU2S3hXUFA4d3B5QWNPY2w0VXRPRTVXS2FtcXl1VXlhc1lDcXhFSTNDM2cxUkt1YXo2ZGt0ckF0MnUzNnNKM1Zqc21yWHE3TU9sUzFXUHp5cnNRb3BVUkZ5NFJ0Qll2SWNYcm1xUjNXWnFIVVZF?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "f624dfb46c2bf4acd2191bcf9cdabd36",
    "published": "2026-11-01T00:00+05:00",
    "time_tashkent": "00:00",
@@ -7993,6 +8403,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "aad7a0bbea02c5c05623fd149de266b6",
+   "published": "2026-11-01T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Zelensky: Energy equipment deliveries from Turkey expected next week",
+   "summary": "Zelensky: Energy equipment deliveries from Turkey expected next week&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONWY5cS1NeHE0QThJWEdhZ2FOUVgxVy1NMXYxN3VuOXJBNFFzOW1FWFpnalBrYUZIdC1RQjJrb0lsQy1UbHRJdnJ2WVp0d1h0Y3g5b0VSVTZLeFdQUDh3cHlBY09jbDRVdE9FNVdLYW1xeXVVeWFzWUNxeEVJM0MzZzFSS3VhejZka3RyQXQydTM2c0ozVmpzbXJYcTdNT2xTMVdQenlyc1FvcFVSRnk0UnRCWXZJY1hybXFSM1dacUhVVkXSAcMBQVVfeXFMTjVmOXEtTXhxNEE4SVhHYWdhTlFYMVctTTF2MTd1bjlyQTRRczltRVhaZ2pQa2FGSHQtUUIya29JbEMtVGx0SXZydlladHdYdGN4OW9FUlU2S3hXUFA4d3B5QWNPY2w0VXRPRTVXS2FtcXl1VXlhc1lDcXhFSTNDM2cxUkt1YXo2ZGt0ckF0MnUzNnNKM1Zqc21yWHE3TU9sUzFXUHp5cnNRb3BVUkZ5NFJ0Qll2SWNYcm1xUjNXWnFIVVZF?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "24f7bfbae99ced3004f23b480e493381",
