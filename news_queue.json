@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T17:53:00.111327+05:00",
+  "updated": "2026-11-01T18:08:40.265233+05:00",
   "items": [
     {
       "hash": "b13d01e6d27ebcc154d762887785f424",
@@ -67,19 +67,6 @@
       "age_min": 121.7
     },
     {
-      "hash": "2c38cedb08819fe0bb0e2dbe66b3ba9f",
-      "title": "Президент США Дональд Трамп сказал, что собирается пригласить президента Украины Владимира Зел [...]",
-      "original_title": "Президент США Дональд Трамп сказал, что собирается пригласить президента Украины Владимира Зел [...]",
-      "rss_summary": "Президент США Дональд Трамп сказал, что собирается пригласить президента Украины Владимира Зеленского на саммит «Группы двадцати» (G20), который состоится в Майами в декабре. Он сообщил, что не видит в этом проблемы.«Я считаю, что война между Украиной и Россией закончится в не столь отдаленном будущем»,— добавил президент на встрече с журналистами в своей резиденции во Флориде.",
-      "link": "https://t.me/bbbreaking/241319",
-      "source": "TG/Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-01T14:07:08.826237+05:00",
-      "age_min": 21.9
-    },
-    {
       "hash": "7c48343396dcc27fa98f9a3625aa5829",
       "title": "США уничтожили иранский ядерный потенциал, но нужно позаботиться еще об одном или двух объекта [...]",
       "original_title": "США уничтожили иранский ядерный потенциал, но нужно позаботиться еще об одном или двух объекта [...]",
@@ -104,6 +91,19 @@
       "status": "new",
       "ts": "2026-11-01T14:49:03.040254+05:00",
       "age_min": 18.7
+    },
+    {
+      "hash": "73522c4be88f04ee7d277007a3c1a245",
+      "title": "Насилие в ходе протестов во Франции ослабло, а в Германии произошли отдельные беспорядки перед новыми действиями",
+      "original_title": "French protest violence eases and scattered riots hit Germany ahead of more action",
+      "rss_summary": "French protest violence eases and scattered riots hit Germany ahead of more action&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX0QtNjJvRnpjT3Y5eTVBcEI5dkZMaFNuZnJDMkR1cWY5aWRWV2FjX3QxVVVHNUZRMlp1VFBYYnpCdE1NcmRqQlUtbVV0akY5RUF5WXdjaXcxYnBtNk4xZDhJNmtKWGlaTGhkcTltaW9TTHlBTmdlU0I1cFlVbjdmckVaMDBaTllsNmJCYWlZM0NCaFZsdk00b3Z4bV9BYlhiSnhZ?oc=5",
+      "source": "AP News",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-11-01T18:04:32.447646+05:00",
+      "age_min": 13.5
     },
     {
       "hash": "2be78c9ab6e0642edf4af9746e407f67",
@@ -327,43 +327,30 @@
       "age_min": 12.9
     },
     {
-      "hash": "43c9a2a24c526581bc4a9fc90c549435",
-      "title": "На конференции по санкциям в Риге обсудят «Деградацию военной машины России» / Статья",
-      "original_title": "Sanctions conference in Rīga will discuss 'Degrading Russia’s War Machine' / Article",
-      "rss_summary": "Sanctions conference in Rīga will discuss 'Degrading Russia’s War Machine' / Article&nbsp;&nbsp;LSM",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNTR5bFpBTUFoS21rT2hrNzhEWjUtQWo5YU9lSWR0VTZGQWFkZ2xla3Z5WGRwVnRzWmVLYkd2N0c2QjI4c1lFemVuTzl2dDhmT1JuczFwckFhRm00SWJSNDZOQ1BtSEZqYms0TGo1bGhnMU9JQXFKM3VwUnFtUjJ0VmtSa0lMVGthdkJBMTRlMngtTS05RS1HdXFKcE1lVm1fWTNERW12eENqZkhQdjJ1bmd2MHc4THJ6d0MyVWpoQVU1dUYyZFZYaWQtSy0?oc=5",
-      "source": "LSM",
-      "score": 10,
-      "weight": 3,
+      "hash": "c841145da067e06061bf07811f1ec83c",
+      "title": "Центральный банк Индии объявляет об уходе на пенсию старшего руководителя службы поддержки клиентов",
+      "original_title": "Central Bank of India Announces Retirement of Senior Customer Care Executive",
+      "rss_summary": "Central Bank of India Announces Retirement of Senior Customer Care Executive&nbsp;&nbsp;The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQXzFkcUZ0eklILTl4dW5FM2RjVWlZOUV3VHdLVHJFenhPUlptdHA5aHFfU0JxenBZcjhYZGZZeXNUN3ZndmpkVEpuWlVsZHlRYTdGZXhiQlpsQlNTbXFVN0Fvc20tR2FPOFpBV3dKNWljOExRSVhxMFgtejFnTElvb1NOOFhYcnlWM0dBWWl6TzlldE5YNW02VGdDN2xzX3FwdjFHRUFsZkFIakoxNXgxeVlLMlNDTkl5di1LSzBrTXpSSEdQZHczb0pVdXFMRC1jUnhPS3ZuYWxXWVZ5LWlsRThZSHJDZmNzM1dka1VR?oc=5",
+      "source": "The Globe and Mail",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-11-01T14:06:17.046692+05:00",
-      "age_min": 122.1
+      "ts": "2026-11-01T18:04:45.206049+05:00",
+      "age_min": 18.0
     },
     {
-      "hash": "5c783946aaaeee267a38d50b2142c980",
-      "title": "Как захват российского судна перенес украинскую войну в Арктику",
-      "original_title": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic",
-      "rss_summary": "How the Seizure of a Russian Vessel Brought the Ukraine War to the Arctic&nbsp;&nbsp;WSJ",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSW05UHQ5YjRDajJGVFZOdDRXWVM4YWZ0ZVZEakU1R2xFWk02Z1MwWHBic3Q0ZW1BUVk0YXFRLUpwd3d1MTAtdkxsNjVxenAtLVpJakpZTDJXOEVxSHFOYVotNjc3QWE4MEhEbWktZ3cycndLc0dERDJzaU01N1EyRGJwSU1pVXliOG13TmZUZllNU1c1ak00TWVoRDlFSFFEWXBuSlBYd1pnckJKdUJQTWNqa2Y2Zw?oc=5",
-      "source": "WSJ",
-      "score": 10,
-      "weight": 3,
+      "hash": "909f0eab2db03ef6aa95c398bd485416",
+      "title": "Почему республиканцы Флориды «недоумевают» по поводу вторника",
+      "original_title": "Why Florida Republicans are \"white-knuckled\" about Tuesday",
+      "rss_summary": "Florida Republicans aren't panicking about sluggish turnout for the midterms, but in the words of one GOP elder: \"We're white-knuckled.\"Why it matters: Florida once looked like a much safer Republican bet for the midterms. Losing any statewide race would stun and embarrass its elite Republican residents, starting with President Trump.\"I don't necessarily want to be the bearer of bad news, but I don't think the turnout is as strong as we would like to see,\" Florida Gov. Ron DeSantis fretted last ",
+      "link": "https://www.axios.com/2026/11/01/florida-republicans-anxiety-election",
+      "source": "Axios",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-11-01T14:05:47.210950+05:00",
-      "age_min": 3.4
-    },
-    {
-      "hash": "bc8369f306475ec5b596c74b9722c041",
-      "title": "Бюджет Великобритании на 2026 год: инфляция, повышение ставок Банком Англии и доходность государственных облигаций",
-      "original_title": "UK Budget 2026: inflation, BoE rate hikes and gilt yields",
-      "rss_summary": "UK Budget 2026: inflation, BoE rate hikes and gilt yields&nbsp;&nbsp;Equiti Global",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcFZDM2JzV2Nvbmc4akF2b0VJSlk3SFA2SXMta0VUY25YSzU3b252Rl9GWjJ0RVZTZWl0aTlETFh6S0xwLTFXMWlBLVFmUWZ2Zl9JNmhBVmFfbTVGY0NEWGhxQXpKcFlON1puSDlvZ1c2TXVXbUZTVTE3NDF1U2FvNDBFbHpxZFJlaFJFN0tjOGplNVc3SHNEOGlUTGpRUQ?oc=5",
-      "source": "Equiti Global",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-01T14:04:05.266570+05:00",
-      "age_min": 64.2
+      "ts": "2026-11-01T18:04:38.063070+05:00",
+      "age_min": 19.6
     },
     {
       "hash": "a38f2edd0924f69dc9507f3e38db0319",
@@ -509,17 +496,17 @@
       "age_min": 13.1
     },
     {
-      "hash": "e18cba1a9afd971961605489e84b2cec",
-      "title": "Планы по созданию АЭС в Кении продолжают вызывать неоднозначную реакцию",
-      "original_title": "Plans to establish nuclear plant in Kenya continues to draw mixed reactions",
-      "rss_summary": "Plans to establish nuclear plant in Kenya continues to draw mixed reactions&nbsp;&nbsp;Daily Nation",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdUN1cERKYWNZY3FNV251QnBENkhYeFhTa2pwOG42bFpNN3YwN2ZwWDR3RlZtcUVvUExzU2RKSXBHMU9qNFBIQzJZeTBTYW16alc1SW5maV8yRDdkZWx5T0FyaUgybEdta3J2aktqWXN1V3JzRV9HdUdFMXZUTmstQVVmYmN5aVhvYWFmc3RxeVgteWptY19OQ0lIMHV3ZUxPUVB3d1hmdWNUUDFaVjNtMnNnMThoMnhRWU5B?oc=5",
-      "source": "Daily Nation",
-      "score": 9,
-      "weight": 3,
+      "hash": "07d42eb935e56d49978a4f9b38e0f5e7",
+      "title": "Трамп проводит виртуальные митинги в Мар-а-Лаго после серии юридических потерь в ходе промежуточных выборов: обновления в реальном времени",
+      "original_title": "Trump holds virtual rallies at Mar-a-Lago after streak of legal losses over midterm ballots: Live updates",
+      "rss_summary": "Trump holds virtual rallies at Mar-a-Lago after streak of legal losses over midterm ballots: Live updates&nbsp;&nbsp;The IndependentTrump makes his last red-state stops as GOP tries to save midterms&nbsp;&nbsp;CNNLive election news: Trump rallies are back on as midterms near&nbsp;&nbsp;USA Today2 days until midterms, Trump campaigns in Iowa and Kansas as both parties make final push&nbsp;&nbsp;Fox NewsWhat to know about the president’s visit to Salina&nbsp;&nbsp;KAKE",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc1hJOF9YbEx0eWY1RGsyTmF4Q3JMOEFQaVFZSmp2d0VKbUViLUxGN3V2dDRXUHRKNGE2bFdqSDRXNG42UFpZb3dKOExEY1BUU0FSckV0d3FBTjRBc0xNRTBCcDk5anE5ZGpCVHdnR185VjBmVVczVDgyRmFIVFhLaHBBV3NEZERkd2E5bHRJWEJJOGp5M1B1ZlV3YjdhbkEwSnBDTnVVbVNmbmZwVzMycG9CWFE0Zjk3My1MXw?oc=5",
+      "source": "The Independent",
+      "score": 6,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-11-01T14:07:00.559917+05:00",
-      "age_min": 22.2
+      "ts": "2026-11-01T18:04:21.003719+05:00",
+      "age_min": 99.4
     },
     {
       "hash": "73430341dc8e4734deb355cd650cc617",
@@ -624,6 +611,19 @@
       "status": "new",
       "ts": "2026-11-01T16:33:53.139269+05:00",
       "age_min": 116.9
+    },
+    {
+      "hash": "bf84ec2c1aac37b276df7ae94009a648",
+      "title": "Дома теряют $9000 в месяц, поскольку РБА обдумывает еще одно повышение ставок",
+      "original_title": "Homes losing $9000 a month as RBA mulls another rate hike",
+      "rss_summary": "House values tumbled for a seventh consecutive month in October with the decline spreading across the country. It could get worse.",
+      "link": "https://www.smh.com.au/politics/federal/homes-losing-9000-a-month-as-rba-mulls-another-rate-hike-20261102-p61a95.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+      "source": "SMH Politics",
+      "score": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-01T18:04:52.400132+05:00",
+      "age_min": 3.9
     },
     {
       "hash": "14abcd10802167a87e4ac6f183fb8495",
