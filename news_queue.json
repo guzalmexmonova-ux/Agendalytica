@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T22:37:28.059446+05:00",
+  "updated": "2026-11-03T22:53:14.988560+05:00",
   "items": [
     {
       "hash": "a1f8c1bf0a6da18c3229d71f6c3b64ff",
@@ -158,19 +158,6 @@
       "age_min": 5.3
     },
     {
-      "hash": "6c442da80311ef87ffcbf957d4d374ca",
-      "title": "Дефицит бюджета Саудовской Аравии увеличился более чем вдвое, поскольку война истощает финансы",
-      "original_title": "Saudi Budget Deficit More Than Doubles as War Strains Finances",
-      "rss_summary": "Saudi Arabia’s quarterly fiscal deficit more than doubled as the kingdom faces the financial toll of the US-Iran war that began more than eight months ago.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-03/saudi-budget-deficit-more-than-doubles-as-war-strains-finances",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-03T18:48:50.102435+05:00",
-      "age_min": 29.2
-    },
-    {
       "hash": "4bc0efc070975e9fd2cb52c55331b871",
       "title": "У США и Европы есть узкая возможность изменить траекторию войны России",
       "original_title": "The US and Europe have a narrow window to change Russia's war trajectory",
@@ -260,6 +247,19 @@
       "status": "new",
       "ts": "2026-11-03T19:34:23.236802+05:00",
       "age_min": 9.4
+    },
+    {
+      "hash": "1cef011f5b57ef264a9c35c119f69e0f",
+      "title": "Мужчине предъявлено обвинение в рассылке чиновникам сотни писем с порошком накануне выборов",
+      "original_title": "Man charged with mailing hundreds of letters containing powder to officials ahead of the election",
+      "rss_summary": "Man charged with mailing hundreds of letters containing powder to officials ahead of the election&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQ3B3LXRPWGNKYUZLNnRtQUNsaGwtSjFKdlVoSTRCNVljN1ZrTnNfckw1ZTVxYmpiU09Wbmlmc3BDdkgwZ0N0ZWxhNF95d0RXY09UZFdNZXl3ZE9VaXFxQTRXajB5X25FM1MxdnpYY1BWX3RIOWlDRmxlck5jeEVnUGtUTVg1ckRHUkFxdlBxaGtGX2lCN3pHWUxJUU03dGMwdGg0LXI3bzEtUQ?oc=5",
+      "source": "AP News",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-11-03T22:49:19.940934+05:00",
+      "age_min": 29.3
     },
     {
       "hash": "25276e40ead0e3c19faac02377e064cb",
@@ -364,6 +364,45 @@
       "status": "new",
       "ts": "2026-11-03T19:34:49.454914+05:00",
       "age_min": 36.8
+    },
+    {
+      "hash": "00ddf376a430adca2d646f3883e7b55d",
+      "title": "Один человек погиб, восемь получили ранения при нападении на два танкера ОАЭ в Ормузском проливе",
+      "original_title": "1 dead, 8 injured in attack on two UAE tankers in Strait of Hormuz",
+      "rss_summary": "1 dead, 8 injured in attack on two UAE tankers in Strait of Hormuz&nbsp;&nbsp;Anadolu Ajansı",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFBxODZrNG1ncFlnbmZGVjRTMkNLYWJzenJZS2p0bDFlb3k1cDJuTWVJRzlIRW04WDVGQ0k0TU5GSWlMRWNnMkFQVGEwUU9fdmR5VllLSVVMcldySWhVMm4zYTl3MUJ0R2VxendVMXdDRmJFYkRvWnVGZXJDbl9scXNOXzJkSnZQRHJYQldQOWdBLTZabmEtQnhMMzdvdzRETzJrWklERmM?oc=5",
+      "source": "Anadolu Ajansı",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-03T22:50:05.751038+05:00",
+      "age_min": 65.8
+    },
+    {
+      "hash": "b5c0e9b3e77207fdc65151ff1ee9eaa8",
+      "title": "Заявления Трампа о тарифах нуждаются в доказательствах, а не в штампе",
+      "original_title": "Trump’s tariff claims need evidence, not a rubber stamp",
+      "rss_summary": "Congress gave the International Trade Commission the responsibility to establish the facts, not validate the president’s conclusions.",
+      "link": "https://thehill.com/opinion/international/6190755-itc-trump-canada-tariffs/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-03T22:49:40.042708+05:00",
+      "age_min": 19.7
+    },
+    {
+      "hash": "4b0331ab787f51803134f97dde9b7609",
+      "title": "США, Россия и Китай обсуждают встречу Трампа, Путина и Си Цзиньпина",
+      "original_title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+      "rss_summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+      "link": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-03T22:48:54.908875+05:00",
+      "age_min": 2.4
     },
     {
       "hash": "1abcef5984fc1623316cdabba014dafc",
@@ -611,45 +650,6 @@
       "status": "new",
       "ts": "2026-11-03T22:33:45.549455+05:00",
       "age_min": 3.8
-    },
-    {
-      "hash": "20b2bfcde3904628ba3ecb7badd21dbf",
-      "title": "Трампа «потерпят поражение» на промежуточных выборах — и он знает это, рассказал Энтони Скарамуччи CNBC",
-      "original_title": "Trump is going to get 'trounced' in the midterms — and knows it, Anthony Scaramucci tells CNBC",
-      "rss_summary": "The former White House communications director also said the Republican party was facing a \"civil war\" after the result.",
-      "link": "https://www.cnbc.com/2026/11/03/scaramucci-trump-midterms-election.html",
-      "source": "CNBC World",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-03T22:18:27.932533+05:00",
-      "age_min": 8.6
-    },
-    {
-      "hash": "5e0c3fbbc7cf0e835e55ebff0d001d38",
-      "title": "Консорциум во главе с американским миллиардером Тоддом Боэли может приобрести зарубежные актив [...]",
-      "original_title": "Консорциум во главе с американским миллиардером Тоддом Боэли может приобрести зарубежные актив [...]",
-      "rss_summary": "Консорциум во главе с американским миллиардером Тоддом Боэли может приобрести зарубежные активы ЛУКОЙЛа через обмен ценных бумаг. По данным источников, соглашение может быть заключено в течение нескольких недель, однако окончательная договоренность пока не достигнута, пишет Reuters.Как сообщили три собеседника агентства, банк, действующий в интересах консорциума, приобрел у западных инвестиционных фондов замороженные ценные бумаги ЛУКОЙЛа. Предполагается, что их могут использовать для обмена на ",
-      "link": "https://t.me/bbbreaking/241500",
-      "source": "TG/Bloomberg",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-03T22:36:04.858020+05:00",
-      "age_min": 26.1
-    },
-    {
-      "hash": "2e48cb4206ca177ccbb57008f34c92e0",
-      "title": "Дональд Трамп нападает на Абдул Эль-Сайеда в социальных постах во время предвыборной гонки в Сенате штата Мичиган: сравнение 5 СМИ",
-      "original_title": "Donald Trump Attacks Abdul El-Sayed in Truth Social Posts During Michigan Senate Race: 5 outlets compared",
-      "rss_summary": "Donald Trump Attacks Abdul El-Sayed in Truth Social Posts During Michigan Senate Race: 5 outlets compared&nbsp;&nbsp;NewsCord",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdkpnMmxVclBzbVk4alFsWXlrdG1jTEEwQVhrSWFTNWxxUHpBMEU4WklJZXYtV0hmOUtaY054MVJIbks4RzZpcGYwTjB2Y21CcUxURFRKcTEza1JWLXQtbUEyVkVRbVdpRWpsdEdhNHQ1R05kQmF5NDR4eDlTY1pVMEpEdXZUUDJlQmpOZ1lKSFRYNlVnaWFLRGlJYk91SThwS2pIeDJDWm1sTFpOWVY1SmhQU0tIeEJyc0hOa1A0b2xKb3ZqdDVJLTNNTVlGMTg?oc=5",
-      "source": "NewsCord",
-      "score": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-03T22:33:45.870283+05:00",
-      "age_min": 14.0
     }
   ]
 }
