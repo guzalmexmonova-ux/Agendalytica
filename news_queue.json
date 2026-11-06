@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T12:38:46.409762+05:00",
+  "updated": "2026-11-06T12:53:04.620871+05:00",
   "items": [
     {
       "hash": "dacf3e5ee3a806a69268d4f070518487",
@@ -13,6 +13,19 @@
       "status": "new",
       "ts": "2026-11-06T11:04:46.489209+05:00",
       "age_min": 10.0
+    },
+    {
+      "hash": "f6c97598e63f871fac7b0f3e47016a86",
+      "title": "Промышленное производство Германии в сентябре неожиданно подскочило",
+      "original_title": "German Industrial Production Jumped Unexpectedly in September",
+      "rss_summary": "Industrial production in Germany rose unexpectedly in September despite high energy prices due to the war in Iran continuing to pile pressure on companies.",
+      "link": "https://www.wsj.com/economy/german-industrial-production-jumped-unexpectedly-in-september-5060bdf9?mod=rss_worldnews",
+      "source": "WSJ",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-06T12:49:16.207616+05:00",
+      "age_min": 9.3
     },
     {
       "hash": "f27584e263b2ae04f3752b36ac3ae39e",
@@ -244,19 +257,6 @@
       "age_min": 61.1
     },
     {
-      "hash": "7f97d6097142cc7aa70d5692581e640a",
-      "title": "Заблокировано и загружено",
-      "original_title": "Locked and Loaded",
-      "rss_summary": "Locked and Loaded&nbsp;&nbsp;U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvcGZ5bDZlT1F4eUdUcGVWTlV1NXN3UFhEd1RqZGxVcm1nNnFoazNwUE5WdHZCYWNJUThzLUYySnE3em80LWZuTl91a2tkM0U0NjBCX0lGOWQwVnNxQ1FOZU1EME9MVHIw?oc=5",
-      "source": "U.S. Department of War (.gov)",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-06T08:49:19.652771+05:00",
-      "age_min": 120.7
-    },
-    {
       "hash": "efc3749719a8c52001e93e0dfcbf35d9",
       "title": "Турецкий суд заключил под стражу бывшего министра по делу о финансировании, сообщает Anadolu",
       "original_title": "Turkey court jails former minister in funds probe, Anadolu says",
@@ -294,6 +294,19 @@
       "status": "new",
       "ts": "2026-11-06T10:04:43.299010+05:00",
       "age_min": 41.7
+    },
+    {
+      "hash": "6777872e476642a1ace711d18eb92c3d",
+      "title": "Рядом с иранскими ракетными базами идет масштабное строительство, свидетельствуют спутниковые снимки",
+      "original_title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "rss_summary": "Evidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-06T12:48:49.280431+05:00",
+      "age_min": 15.1
     },
     {
       "hash": "0140b393fa5316a4fe1d4cabd29a7797",
@@ -514,6 +527,32 @@
       "age_min": 3.6
     },
     {
+      "hash": "5afd1c29f6be9c5f0e1b309e9dfbd46f",
+      "title": "Администрация Трампа провела переговоры с Ираном о депортации иранцев во время войны - ASHARQ AL-AWSAT Russian",
+      "original_title": "Trump Administration Held Talks with Iran on Deporting Iranians During War - ASHARQ AL-AWSAT English",
+      "rss_summary": "Trump Administration Held Talks with Iran on Deporting Iranians During War&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQV9oRHFYTVpUMF9pb18ycXRjMHVtcXJvbHhOZE1sUEJfQ1VPcnZKbk54VmtkZjBmUjE2QjlQcmllYkRVcU5Ja2RocGxoSU4tZnJ3bXpqeVdRYXhOMmhjYXpWWlJ1SjNfdWRMdGV3MUhxZ2p6SkRNUEVudmZrMVRYbWZiWVBFZkc5NWYwa0piSTN0bkZJWjdXa3cxS2NtVUhabTJoRVJrX1NYM00?oc=5",
+      "source": "GNews/СМИ Ближнего Востока 2",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-06T12:50:04.182421+05:00",
+      "age_min": 40.9
+    },
+    {
+      "hash": "6cc8856f3ffa2c91379e90a83edc3a63",
+      "title": "Цены на нефть могут потерять 12% за неделю, несмотря на новые атаки танкеров",
+      "original_title": "Oil Prices Head for 12% Weekly Loss Despite Fresh Tanker Attacks",
+      "rss_summary": "Crude oil prices were on course for a sharp weekly drop, with both Brent crude and WTI shedding 12% since Monday, following the results of the U.S. midterm elections, which gave rise to hopes that the war in the Middle East could be brought to a swift end. At the time of writing, Brent crude was trading at $99.42 per barrel, and West Texas Intermediate was trading at $91.242 per barrel, both up from Thursday’s close on reports of fresh tanker attacks in the Strait of Hormuz. Reuters reported at ",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Head-for-12-Weekly-Loss-Despite-Fresh-Tanker-Attacks.html",
+      "source": "OilPrice",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-06T12:49:34.817441+05:00",
+      "age_min": 104.6
+    },
+    {
       "hash": "442e55ed9db640a2107d013aad07b8bc",
       "title": "Дональд Трамп прогнозирует соглашение с Россией по Украине и «всей Европе»",
       "original_title": "Donald Trump predicts deal with Russia on Ukraine and ‘all of Europe’",
@@ -603,45 +642,6 @@
       "status": "new",
       "ts": "2026-11-06T12:18:55.150126+05:00",
       "age_min": 6.1
-    },
-    {
-      "hash": "4547f74afa183d78fac267df58206e4f",
-      "title": "Глава News Corp заявил, что республиканцы проиграли промежуточные выборы, проигнорировав латиноамериканскую Америку",
-      "original_title": "News Corp boss says Republicans lost midterms by ignoring Hispanic America",
-      "rss_summary": "Australian-born Robert Thomson’s analysis differs from narratives offered by prominent Republicans, such as Vice President JD Vance, who blamed the war in Iran.",
-      "link": "https://www.smh.com.au/world/north-america/news-corp-boss-says-republicans-lost-midterms-by-ignoring-hispanic-america-20261106-p61by4.html?ref=rss&utm_medium=rss&utm_source=rss_world",
-      "source": "Sydney Morning Herald",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-06T12:03:41.308573+05:00",
-      "age_min": 4.6
-    },
-    {
-      "hash": "a9f5891a4af3601c0fc349e7b9c172ad",
-      "title": "Пятничный брифинг: ​После недели потрясений, жизнь с угрозами стала нашей новой нормой?",
-      "original_title": "Friday briefing: ​After a week of disruption, is living with threats our new normal?",
-      "rss_summary": "In today’s newsletter: From diverted airliners to hacked ​fridges, a string of disruptive incidents has exposed the ​vulnerabilities of modern ​life. ​There is now an increasingly blurred space between peace and conflict, the grey zone.Good morning. A multiplicity of hoax bomb threats divert passenger flights across Europe. A malign cyber-attack targets supermarket fridges in Belgium, Sweden, the UK and – in a sickening escalation – the cold storage facilities of France’s national blood service.",
-      "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
-      "source": "Guardian",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-06T12:03:26.682553+05:00",
-      "age_min": 20.4
-    },
-    {
-      "hash": "62c4812e1cda05e616a71988fa4c0496",
-      "title": "Ли обещает приложить усилия по восстановлению чести мирных жителей, погибших в результате государственного насилия во время Корейской войны",
-      "original_title": "Lee vows efforts to restore honor of civilians killed in state violence during Korean War",
-      "rss_summary": "SEOUL, Nov. 6 (Yonhap) -- President Lee Jae Myung on Friday pledged efforts to r...",
-      "link": "https://en.yna.co.kr/view/AEN20261106008200315",
-      "source": "Yonhap",
-      "score": 10,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-06T11:48:24.746074+05:00",
-      "age_min": 15.1
     }
   ]
 }
