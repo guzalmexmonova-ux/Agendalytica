@@ -2,23 +2,108 @@
  "date": "2026-11-08",
  "window": {
   "from": "2026-11-08T00:00+05:00",
-  "to": "2026-11-08T00:52+05:00"
+  "to": "2026-11-08T01:08+05:00"
  },
- "updated": "2026-11-08T00:52+05:00",
- "count": 55,
+ "updated": "2026-11-08T01:08+05:00",
+ "count": 71,
  "by_region": {
-  "МИР": 17,
-  "США": 7,
-  "ЕВ": 11,
-  "УКР": 2,
-  "БВ": 7,
+  "МИР": 20,
+  "США": 9,
+  "ЕВ": 15,
+  "УКР": 3,
+  "БВ": 8,
   "ЦА": 0,
-  "ЮА": 1,
-  "АТР": 7,
+  "ЮА": 2,
+  "АТР": 10,
   "АФР": 1,
-  "РЫН": 2
+  "РЫН": 3
  },
  "items": [
+  {
+   "hash": "8717737c542d1a57acc3074c3f388dfc",
+   "published": "2026-11-08T01:03+05:00",
+   "time_tashkent": "01:03",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
+   "paywall": false,
+   "title": "Nine killed in road accidents across four districts",
+   "summary": "Nine killed in road accidents across four districts&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQmVneTZtZHhob0RRNDUtWjRPVVV6WFktSjlYbEZHaHd2eHFvLVMxcmM2dkt5Rm9WcWFCcU1XX1V5VHpGNnJocGJCa1I5bV9EeVJHUXhnYUdUYXJZT3V3MVhLUFoyVTgtZjBjMXVzZ2RSMUdWbDFlNWRNMGgwVzVhWXBLNjI3VklDajFDaXdHbldFcXVPeXUzcU9kd2lkTUVxVWtSVk1vNHRzOFdpSnVqQ254YThBdw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d16722ebc45ae4a3ebf7f999bbdda8c0",
+   "published": "2026-11-08T01:00+05:00",
+   "time_tashkent": "01:00",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "OilPrice",
+   "feed": "OilPrice",
+   "paywall": false,
+   "title": "Egypt Eyes Billions in New Investment to Revive Oil and Gas Production",
+   "summary": "The Egyptian government is doubling down on its plans to accelerate the development of its oil and gas resources. Egypt now aims to achieve a production capacity of 6.6 billion cubic feet per day by 2027, supported by increased drilling, new explorat",
+   "link": "https://oilprice.com/Energy/Energy-General/Egypt-Eyes-Billions-in-New-Investment-to-Revive-Oil-and-Gas-Production.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c7b2a1e6fb63ea49c50f46e2156814dc",
+   "published": "2026-11-08T00:57+05:00",
+   "time_tashkent": "00:57",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Prosecutor's office building damaged in Russian attack on Kyiv",
+   "summary": "Prosecutor's office building damaged in Russian attack on Kyiv&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU0ZDeVdfa0VTUjhXX0JaNHJ5aTcxQzhiXzROYkNMXzQxSDM4MWFBbEZjaE92Qlg5QXF3MVZ0X1N0T3JUQkV0bU0ydXhpanRhOURUOVNjTTROUkZOQlc3Yk80aElOWVlnaXliLVIxbzdyd0NOS2pnaUN3UHJDN1p6TnplSVhTUXREd1dGWkRiRnA3M3c1Wk9CWWJSZnBMQlU4VHJsbWJHR2E4aUMxUjhHeNIBtgFBVV95cUxOMjZJRGZwRTlROUJ6LV82UGpYVVR3V0Y5Y3hmWHd6UHh2QlZfc0NIUUUzd05zRWFfYXVZOXB4Wm1BbXB6U2tKcGhZVGJpVXB4Nmh4TzNIN0FKdmNIUG82UVRnWU9fOVFJdnBlV3hDUXF1UzQwRzE5WDRTQjNPa1NnWlFHalhUaW1NTnUtT1BMMUc1cG5wam0zTlZxX05MQ1VwTmhMLW1oaGl0SHQ0YzJjc1pjY19mUQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "906de7e9d6276d5d1f97ed4c5d30019a",
+   "published": "2026-11-08T00:54+05:00",
+   "time_tashkent": "00:54",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Trump ally Loomer was paid thousands for political tweets, people familiar say",
+   "summary": "Trump ally Loomer was paid thousands for political tweets, people familiar say&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSEdnSWYyYW9yNjFnV25oWk1XQ3YxdGVaaGVyRi0zdVI3UFY4SHgtVXRpbGRFUFk3UF9WWHJNM1dRSkZOR3NlSzJPci1LM1YtTmhxYlNXa3VjZHZXalhqbHBZTHAyY3NRQkJqbUF3V2tHU1hqUXFtaHEtQVJjX2g4UDNYZUtaSGpvZ0lSdWJnbngyVUVwZnBfTzIwdW9pSUxkUFdOTGlET1FFdjNCY0JSV1pvZEdhT2VVT3NRSFFHZlVLQUp2Ymc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "f2325a1c6a4c85a595b289b53843e1c6",
+   "published": "2026-11-08T00:54+05:00",
+   "time_tashkent": "00:54",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "RTL Today",
+   "feed": "GNews/СМИ Бенилюкса, Ирландии, Австрии, Швейцарии",
+   "paywall": false,
+   "title": "Lakes says Wales won't accept 'mediocrity' after edging Japan",
+   "summary": "Lakes says Wales won't accept 'mediocrity' after edging Japan&nbsp;&nbsp;RTL Today",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXdBUTlPZkI5M2hSNm1CRGUwZ0xJaDk3VFhJazhYYzg1bmZqZlM2QjF6dHA1S0I5bEdDd0xsanBPUGFNb3hQNGU5amFmQjRSOG4xdWdmMUc2SmNsaU94SEVyWWk0V2hJMktwa08zeU5BTHBaS3JNU2hOMWhxV0I2a0ktem1aNmNTWE9fdldZeDFacDhCNm90MkxBREt6MXhhSHFPLWNpZEx1UDk3Unc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "39a8dedaaeaad8a269ae26d7baa2b5c7",
    "published": "2026-11-08T00:47+05:00",
@@ -37,6 +122,23 @@
    "confirmed": false
   },
   {
+   "hash": "d54f2a7b2ec0a18c18e8926c3c66fcd7",
+   "published": "2026-11-08T00:47+05:00",
+   "time_tashkent": "00:47",
+   "region": "ЕВ",
+   "type": "gos",
+   "source": "News",
+   "feed": "GNews/Беларусь (госСМИ и власть)",
+   "paywall": false,
+   "title": "‘Not forecast, but insight’: Expert on Lukashenko’s comments on Ukraine war end - BelTA",
+   "summary": "‘Not forecast, but insight’: Expert on Lukashenko’s comments on Ukraine war end&nbsp;&nbsp;BelTA – News",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMEZ5YlhHTk51NHcxV2V0VVRSSWREVDJKdnBTRXJBZUhCdUV1LWdaREhXMG52Sm9wWjVodkV3VkhrOGR6RWtZZzB5REhualp3QjktUG1rMjNzaF9VbnFzZjF5WnB6enZOZW0wNW9EdVFBNjlOVkVCZm5WYkhrLXNKREdvU05PanM2aldCdFFob2F3QmFwdk9DeXBERWhIV0xuUVE3Yk1GTDREcWFKbUgxcGFrTTZpamwxNHRaSXRB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "495bb6558796058951f34d54b132ce0a",
    "published": "2026-11-08T00:43+05:00",
    "time_tashkent": "00:43",
@@ -48,9 +150,15 @@
    "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
    "summary": "Trump orders DOJ to investigate Democrats for ‘threatening’ people&nbsp;&nbsp;Al Jazeera",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORzVDNnhoVjdUNjJiY21naEFPdzVfNmFhdkttbFFMOHRlRVFXcnBvbGl0MktZaFhLaFRnTDlZUzNISUtfaHY4RW05Z3ZLd1U4ckcwdl9WTUlyanU3aHhkX3VnMXFJSlRqVGh5Tm0weUN2YUVLbXhTTG9weEplYUNCQXExMmdqbHFzQ1NySFpVLU1KY2d3ZHI1R2xQSnRYSkpqYTlkX0t0NWnSAa4BQVVfeXFMTWhQaHFmRzZXYXQwRmFnSkpyZFBGVkNhTEFHXzhHUXhLR3AxYlRqQXRsY2dmckx2TzVhdEx4U2dCZWhjQ0Y0bVNmMHY0V2laS09VcG1UblFPTUVLQU1JM21MeGozSVRodkE0eFozbDdCWjRmaTVqeHBydm9NOUJjV2pobXpkeUUzMkt2eEhPM2hxREJUMDF3Ri1FUmpQeW1DaXRVU3QwUzNVM1FxVkdR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
+   "also": [
+    "AOL.com",
+    "Reuters"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2xpYmR2ZFB6YmVKTnF3SnV6c19FUkZDVU8tUHZYWGNaQUlYM0Q2UUF2bGVfZlViNFprMWRFcmhMYkFPd05ObklJLXJqZmJxQ3ZWdzFnVWFrd3NtZzdzbUltRVlsZE42YXVhUFJKc08yTlR2c0hoUkd2VEFtMnVpdmtR?oc=5",
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjlwZUZkRUtqc0VreVlMdGlfcGF6bHZjMUp4TzkwLXJnRWROVENWc2VhNjE3SXhfd0pTbGZLTDJTYzZYdWdBMTFPYVZEczVic1VuQUtnWG9zT1ZhMVFueGp1M1lYLWVrNExtM3B5SFRBM1czYW9DcUVvbkVRcnVCRDBsQS1wWDVWdHpuVXhLdEx0eUtlUUNUUXkxc2U3dw?oc=5"
+   ],
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -66,12 +174,14 @@
    "summary": "Israel’s President Herzog says he will task Eisenkot with forming next government&nbsp;&nbsp;Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaWU1djVGdlZWNXpMaV9aWFFVZ2d1LWFmM0FNdUhvX0xzTExpUXAtc3NzTVlDMDFadVlpaGtpTTdybmhtYWRyeVdpX2xZU0Izcmc0RERmR0dKbkhVVGltd244TFlWbVZyemVXdHZZcWhpMTBnVHp3UTFDSFpjbUJpR0Jmb3RpVXJmcjVUX2VBMmVMN3NGM0xHZ0dlcmNkZnR1Q3g5VkY5N3kzcndfTkVpNGhNOFA1RG9xdXBHT3VNZWZVOGll?oc=5",
    "also": [
-    "CNN"
+    "CNN",
+    "Xinhua"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMihgFBVV95cUxORVFJa3NNYjdCVlQ5WTJ4TUVBRjVnUmpoeDFEUDJBM0Q3b1pub0d5WlFiUlBqQW45b1hEc3I3MjZfN1d1dDdmdXhXZFl1bkI0WHBFZzliLS1WaDRBc1VNZ2Jmenc2Y2EwR3kzNTFJTlZWTWFmR0ZadmpfaTl5WWg2X2lNZU42Zw?oc=5"
+    "https://news.google.com/rss/articles/CBMihgFBVV95cUxORVFJa3NNYjdCVlQ5WTJ4TUVBRjVnUmpoeDFEUDJBM0Q3b1pub0d5WlFiUlBqQW45b1hEc3I3MjZfN1d1dDdmdXhXZFl1bkI0WHBFZzliLS1WaDRBc1VNZ2Jmenc2Y2EwR3kzNTFJTlZWTWFmR0ZadmpfaTl5WWg2X2lNZU42Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5yZGJlUFNwLWlNUUtkSzVmVEtaUmRadjRLM1UxWUloejJmMEVsZmRtMV9lRV9rbFBxMUNuMVRUaWp6dk9OSDBIaFpNUE4tMmdEcmZTZU04QXhsczZuZHppRHJNVnlLdExDeW5TeWp6WEV0U3JJdXAxMGJxU0o?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -123,14 +233,26 @@
    "also": [
     "ABC AU Politics",
     "NYT World",
-    "Bloomberg Politics"
+    "Bloomberg Politics",
+    "Reuters",
+    "Guardian",
+    "Axios",
+    "CBC World",
+    "The Straits Times",
+    "Australian Broadcasting Corporation"
    ],
    "also_links": [
     "https://www.abc.net.au/news/2026-11-08/israel-president-prime-minister-government-picked-eisenkot/107360472",
     "https://www.nytimes.com/2026/11/07/world/middleeast/israel-eisenkot-government.html",
-    "https://www.bloomberg.com/news/articles/2026-11-07/israel-president-to-give-eisenkot-a-chance-to-form-government"
+    "https://www.bloomberg.com/news/articles/2026-11-07/israel-president-to-give-eisenkot-a-chance-to-form-government",
+    "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVHIwVVZqTlgycHFJTEhPM3g1WU5oWWtKelZsNW5aUEphdmpDRC1STjMxQmYyYjR5dkNZUVFiVFBfZ3J1Nm9HN0RmM25pOUlTMWJkWGZuVktLV3h5QkNmdEtrbUt5X2NBYXFuZC04TzhPZUJWLWVJeWJMM256ZWIxRENRczhNdEtIa2I2aF85VzJUejZMa1ZvVEFSZXZCQWJtZU1nTnBvaVl4cmNJTEhfcWpCNTFjMmotS090TzE1eXc?oc=5",
+    "https://www.theguardian.com/world/2026/nov/07/israel-president-gadi-eisenkot-form-government",
+    "https://www.axios.com/2026/11/07/israel-eisenkot-netanyahu-government-herzog",
+    "https://www.cbc.ca/news/world/gadi-eisenkot-form-government-israel-9.7413714?cmp=rss",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZjdNdUw5OWNsX21pb0hXR0Z6RG5sZ0xja1JXenVUVDNLWmF1c2ZNeWVLWHJZVGRzakhlN2VhOVpvaEY3WTRfNlFaRzdYal9Vdk5XWk5BTEZRa3dQcWo0eHBhUHk2VW4yaGFMc2o1R0dQUnE3R1FIRnhCTFVSQXdvemI1MDlxc1lkT3NwNkZMa2dsOE1NNXBZVTM5cmJRRlhnSGVJUVpvbHo5R0JkWkRKUENmUXFjTDF0bTdxVnkzY0tUNUpl?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDJyaEFYMVpPQ3czSHdJYXRwNUozdW9mdzYxMVZLRmFhbG1meWVQMmNKSVNCRXBkYmJZS3VYU0Q2bUR1VGg4eGZGckxRcURja2dyc0NfY2wwaWpvMUNNV0JuZnd3SXNCdldKeUxBZ2x5UHhYV0JIRGR1NzN6SlU5V3N1M3AtNVh4aXFyeTVfM1ZwajVSb3J5ZUhIV0JGeDZsall1dVp1X0VYbm8?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 10,
    "confirmed": true
   },
   {
@@ -145,10 +267,14 @@
    "title": "U.S. military seeks to disrupt Iran’s land routes, expanding on naval blockade",
    "summary": "U.S. military seeks to disrupt Iran’s land routes, expanding on naval blockade&nbsp;&nbsp;The Washington Post",
    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTHJ4Z08xMkRQRml0cEZYUFhnRmJ2X294S2tERkkwNTN4MjdVVmxqcE5UOWJEZlI1eFlSSXo0RFI3Wnp2bjJlc1JiV2xNX0ljMGUxN1RRU29OV2M3VVp2OWlubzdOSlBOajE2N0h6bEVXbm9QY1lkaXNXbEV1NUdSSXEyQkFZb2VvUzVJNzYtS3pKUFVaUG1Jd0JJN3liMVFWOXJ2a2U0ZlVHY04wdVZFVk1yVzZCNm9MLW81NkNzNGE3czVXWm9HMg?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "The Express Tribune"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNDRTMFFuT0NhbmJLeE11Y2EwXzFOWkt2azhQc0tiY3F2NnlyNXV3RDRXWFQ4R1RXckVJbjVveTBCc0NZZWJpVnNJY3VJMzNhb0hSU1o0eTZKeTh4QTE5WE5zWEJPSjZrWlY5MEpybWpfUnk4U2FVYjdtX2pYNVhGN1JNTzhYT0RyeWt6d3RleHUtSVhUdXp4T2o4bFl5WnU2ekhYYjBjQTZ0aWR0SFI3Wk1sYXlRTGPSAb8BQVVfeXFMUDVXN203STdyMFR5T2tpd1FZVnR2dzhXSVowRlIyXzJSTnI3SG1MaUo1WmhMQXFRajBGdFBaVk52Tmg4R0lTTzFkeEV6bjFPa3EwWmRyZmNaZzBta2dGR05OaFdHemhhRHIzcTFvampGa3IyeVhjekpWZy1JZkpjUDVUMnhtSjRaSFhTQVprN3V5b1hNWHZ1elEtemdUemR5dnVubE9YVU8teDV3Y2ExQmdOamJLbV9sbm1VZ1hFTXc?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "003c2e26c2e3ac06496adfe94e544e1d",
@@ -162,10 +288,31 @@
    "title": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund Historic Donation Creates Permanent Scholarships for LSU Students From Foster Care",
    "summary": "First Lady Melania Trump and LSU Establish $7.2 Million Fostering the Future Endowment Fund Historic Donation Creates Permanent Scholarships for LSU Students From Foster Care&nbsp;&nbsp;The White House (.gov)",
    "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOVkFwYjllVEE3djFiajlTNElVS0tCRzlibmVodFFMR05qb0Y5Y1NqN0V2bGpPc1dGVnpEaDNqVExBMWt2N1g1dFZRdGZ3SG1qMnNobTdoYmNQalF6VTF0a2N6ZHRiYU5USUVNdWM3Q09mWFQ5ZGRhZFRvTU85SDZJS1NscUgxYkRoaFFacmhwOVJCQmp4QjAzMFgzQ09yMU8ydlF0X3YzQkgyQ3g5UkZnVHlGcVh0SjlwY2tkRkNZY1dSUy04ZjZWRzNDZzBRb2N3bW1OWnVtbnZrWUFOTkdfR2J6ZjZPaFJ4Y0RHVTNEdWhBaENUV0lhalQwZE5ZWElLOUZXYzFrMFpEa1p0aUUyV095WWczMXNPR0JaTXZnUTZwV09iYWlCR3h3RlJVYXB4WG11VTA4cjBZdUhsVXRNU2FBdHBZbkJSbnlQbjViczRrX28?oc=5",
+   "also": [
+    "AP News"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaE9fZWFrMkNPS05yeXBqOVE0eWtqcldnVk9WT2gtVGJOZEhFY29rbENXUExfUmFrbVAxUzB4eFlwVGNVX2VhLTRwa3dtd2tvV25WU1NJODNtMWdsZUlJTWhURUc2MnlCSWltUzZtNUF1ZzVxUjRSejZHY0t5eVl5eHRqWGZkS2Z0c0pCTEowZi1GajhiaXBvOHlORTdUbmM5TnN5VTZVLWw0MEU1UFhZdzlR?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "96c6c6785babde9acee05cbe53a4a03a",
+   "published": "2026-11-08T00:30+05:00",
+   "time_tashkent": "00:30",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Straits Times",
+   "feed": "GNews/ЮВА, Австралия, Океания",
+   "paywall": false,
+   "title": "El Hierro in Spain’s Canary Islands pleads for help with migrant influx",
+   "summary": "El Hierro in Spain’s Canary Islands pleads for help with migrant influx&nbsp;&nbsp;The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWZSc1JwSTlHN2tOYUtPcGtIQ2RvTkY4bzBCc3RzZHp2bGRpbFlfbzdtdkt2TEc4SmV6bks2Q04xLXFGM05KSmllSVVKMXE1ZlF5T19ULS1QZnNya2l5azNtTEQzcVVKMGYzTmZVaTdRUDRGRHgxaDliUlRwUV9aUkwweVIzaHF0WEpla1FyV2dzWHBFaktDM2FFeHlRQVdRVDdkSy1Lb2Mwak00ZkZ1M1p3?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "59ab2b9d53595d42e378d81c94fa477b",
@@ -219,6 +366,23 @@
    "confirmed": false
   },
   {
+   "hash": "676ccdf8cf0a516158d222840d61f094",
+   "published": "2026-11-08T00:29+05:00",
+   "time_tashkent": "00:29",
+   "region": "БВ",
+   "type": "smi",
+   "source": "GNews/СМИ Ближнего Востока 2",
+   "feed": "GNews/СМИ Ближнего Востока 2",
+   "paywall": false,
+   "title": "Iranian Discontent Heightens Cross-Border Threat to Syria, Experts Say - ASHARQ AL-AWSAT English",
+   "summary": "Iranian Discontent Heightens Cross-Border Threat to Syria, Experts Say&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM0hUWFQ3djVjcGp5T3RBd3B5RGI4Qm5sanRUZ3ZwLTlJVHJNejNUQXZ1aWw2aG9Dc0xYV3B1TXRCaFVYbXQ5OE1IeW9RWF9kVFRGeTJGR0N3ZWpMVzFNY1RVMEtOMjJUUWZxV0JaaThQNEROelNHUTVLM2dEMWRFNUxjWU91Rlh3MzlqYWF5SGY3M2psWmt1dUVhbXdjUFNpTm5yQ0VXMWgtYkU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "46f12468f585f332986fcacd549e3c08",
    "published": "2026-11-08T00:27+05:00",
    "time_tashkent": "00:27",
@@ -255,6 +419,57 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "f2c0f59e70d4d5ef487116370423d1e3",
+   "published": "2026-11-08T00:23+05:00",
+   "time_tashkent": "00:23",
+   "region": "США",
+   "type": "smi",
+   "source": "Reuters",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "Polish gunman kills four women and two men in Krakow's main square",
+   "summary": "Polish gunman kills four women and two men in Krakow's main square&nbsp;&nbsp;ReutersKrakow shooting updates: Gunman who killed six believed to have been inspired by far-right ideology, minister says&nbsp;&nbsp;BBCGunman opens fire in Polish city of ",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRTFhVC1uNVB5TFlvcHRtb2h6RmJPdjY0SDZjdWRJSUw0RlVLUUtnbkFlNGtZRlczbE5RU1U0NEhIRG9Ya3ZmNVlRb243YWQ5OTNkNThoaG1ZYUxONkZsaDJTeTctek9yX3hidk5lVU9qRUJidG5PNkczQVhKcEJKMG5nZzdGSVhUZUJ0S3RwWFJqbmVzSFU5YmE3dDgtRllhUVpDNkxxdnN6Q21MQ1A1cjFPNjc4cUdx?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "2d37f660233a3dabefccaa9202390e1b",
+   "published": "2026-11-08T00:22+05:00",
+   "time_tashkent": "00:22",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "World Health Organization (WHO)",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "WHO | News releases",
+   "summary": "WHO | News releases&nbsp;&nbsp;World Health Organization (WHO)",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4NzFvb3k4djVtak1QNXhRemRRaTBjUHVlbWJXYlZMVkhpNTNBZGxTekNqbDI3VWp2T3VQNktJSXRrWjFBSjE4RkF3aGdoaGl4ckd0ZWUtTlhKV1RxYzNTX1d5VQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "ed77f9447d1b9efdb09cd42ec626117c",
+   "published": "2026-11-08T00:22+05:00",
+   "time_tashkent": "00:22",
+   "region": "США",
+   "type": "ofic",
+   "source": "The Express Tribune",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump accuses Democrats of threatening Republicans after midterm win",
+   "summary": "Trump accuses Democrats of threatening Republicans after midterm win&nbsp;&nbsp;The Express Tribune",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTXktbkM3LWdDZ2lLX3o1bmdhRnFUeUNheHlldVpRakw0OHpqMjY1RlIyejRoSGMzSTgtWlBaLTB2N0JlNmt0RWtuN0FUR3AxQXViOElLT3BFSTJ5SElmNDdqdEczQ2lmY0l3Y21fOEt6VXZOYU5pZUo1TDdMOHJZOGZ1LXVZaTFkcHA1c2RyYlVlNnQyOWtoMEpiUmxUUXRIV0ptZzR4UEo?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "310a6cb202bf7a92431ea2b9ec76805d",
@@ -302,10 +517,14 @@
    "title": "Iran says forces 'stronger' than at beginning of war",
    "summary": "Trump said Iran, which he stressed has had its economy and military severely damaged over eight months of war, is eager to end the conflict.",
    "link": "https://www.channelnewsasia.com/world/iran-says-forces-stronger-beginning-war-6533381",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Anadolu Ajansı"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vZENYQVpvR1hESDhOWEFUZEVJenZOWVIzTm5ubDBxSFo0b0FPWUQ2X2IyNWl1SkQ4LXdmRnhZZVV2bXdBOU1kenhacWJ1dE4xS2ZaZ1Vn?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "013b3e9c461b9e4adbdac89583be6ae2",
@@ -342,38 +561,21 @@
    "confirmed": false
   },
   {
-   "hash": "968647c5389a83e9a1d45515b21c166c",
-   "published": "2026-11-08T00:17+05:00",
-   "time_tashkent": "00:17",
-   "region": "США",
+   "hash": "bfa0ae7083e07a3cad70468beb824ee4",
+   "published": "2026-11-08T00:19+05:00",
+   "time_tashkent": "00:19",
+   "region": "ЕВ",
    "type": "smi",
-   "source": "BBC",
-   "feed": "GNews/Home-US",
+   "source": "KOHA.net",
+   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
    "paywall": false,
-   "title": "Paraguay's President Santiago Peña impeached and under house arrest",
-   "summary": "Paraguay's President Santiago Peña impeached and under house arrest&nbsp;&nbsp;BBC‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke&nbsp;&nbsp;The GuardianParaguay’s ousted president charged over banking sc",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE?oc=5",
+   "title": "Konjufca condemns the attack in Krakow: Kosovo stands in solidarity with Poland",
+   "summary": "Konjufca condemns the attack in Krakow: Kosovo stands in solidarity with Poland&nbsp;&nbsp;KOHA.net",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSE5URm0wdUNRSC1HaEtYVThZVExVS2N1b0E1TEF2MEF2NElZTTJZZENxMEZsb3RNb0o1VFlEOG8wRGZIQ1lCclZvTmFSYk82X2tLcmtRaEpfRWRUR1dmUUV1LXV2MXRLS0NmM210UGtTT1oxanY0UDYwNEN4bUdQN3BreV90QUp3UGhsaTh5b1RhOTg3RFZ2NWIwTDhXUVlmajAyNw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "91b12637432cd7dbd4cd43bbe25f3d4a",
-   "published": "2026-11-08T00:17+05:00",
-   "time_tashkent": "00:17",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Israel’s Arab Joint List warns of worsening Gaza crisis as floods swamp 70,000 tents",
-   "summary": "Israel’s Arab Joint List warns of worsening Gaza crisis as floods swamp 70,000 tents&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVZCN0w0NHhRYVlaVFBaUV8wR3NYY2JVWlZoWDVCcFRickZZWkxYZDZwWjk2b3F0UlpsUTZWRTh5TDJ3ZGpoNnZIcEJTOWxpYkM2VVhnNlRGZDNia19TZDJPaVF4cXRqNmhEMkZaNUFRS0lQUEk3TlI1ZTRCRURrUXphaHpJTC1Tb3N4ZUZaQjRYWnAtUWlCSGdUQUw0aHpJQW5Ock1ULUk5Z203M2k0TUJQazdzSEMzV0lIMVlqXzBFallMdHZ2WA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "a22b4e5bd0705af79db7ad401e640082",
@@ -394,6 +596,44 @@
     "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGlSX0xrVkR2ZW95c0pKZWphcUlZWERuVHFVVEIzUC1kS3FsT282ekRfaldET051WTQ0NmZPbnZjeUprd2p5bXFoSHNjT3NyQjhhYlRGOElFR0dDVWVWVnBTQUtfdjBmQmg4TzN4ekhsaEp0emRhWTR2QzJuNWNmenJjQzZpX2dDdzE5X0NtVDM?oc=5"
    ],
    "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "968647c5389a83e9a1d45515b21c166c",
+   "published": "2026-11-08T00:17+05:00",
+   "time_tashkent": "00:17",
+   "region": "США",
+   "type": "smi",
+   "source": "BBC",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "Paraguay's President Santiago Peña impeached and under house arrest",
+   "summary": "Paraguay's President Santiago Peña impeached and under house arrest&nbsp;&nbsp;BBC‘Very strange, very sad’: Paraguay bank collapse fells a presidency and leaves millions broke&nbsp;&nbsp;The GuardianParaguay’s ousted president charged over banking sc",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13U2tMV01VSGd5ekZEWjNpRFh6SWhYMlFrNUNwa3Z2dkFrcmcxa29WcFNCUkNIbzZSS1NfVEtuWDJyZ1BwNV85ZW1oT2VBaUNVemNvUEdiVEJuTVE?oc=5",
+   "also": [
+    "CBC World"
+   ],
+   "also_links": [
+    "https://www.cbc.ca/news/world/paraguay-prosecutors-charge-impeached-president-pena-detention-9.7413705?cmp=rss"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "91b12637432cd7dbd4cd43bbe25f3d4a",
+   "published": "2026-11-08T00:17+05:00",
+   "time_tashkent": "00:17",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Israel’s Arab Joint List warns of worsening Gaza crisis as floods swamp 70,000 tents",
+   "summary": "Israel’s Arab Joint List warns of worsening Gaza crisis as floods swamp 70,000 tents&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRVZCN0w0NHhRYVlaVFBaUV8wR3NYY2JVWlZoWDVCcFRickZZWkxYZDZwWjk2b3F0UlpsUTZWRTh5TDJ3ZGpoNnZIcEJTOWxpYkM2VVhnNlRGZDNia19TZDJPaVF4cXRqNmhEMkZaNUFRS0lQUEk3TlI1ZTRCRURrUXphaHpJTC1Tb3N4ZUZaQjRYWnAtUWlCSGdUQUw0aHpJQW5Ock1ULUk5Z203M2k0TUJQazdzSEMzV0lIMVlqXzBFallMdHZ2WA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -431,27 +671,21 @@
    "confirmed": false
   },
   {
-   "hash": "ad67cb7b4feeda3f37fe19a7723633fc",
-   "published": "2026-11-08T00:13+05:00",
-   "time_tashkent": "00:13",
-   "region": "США",
-   "type": "ofic",
-   "source": "Baller Alert",
-   "feed": "GNews/TruthSocial",
+   "hash": "74bdbbe6ff5757414bedb9e3949a3061",
+   "published": "2026-11-08T00:14+05:00",
+   "time_tashkent": "00:14",
+   "region": "АТР",
+   "type": "smi",
+   "source": "AFR",
+   "feed": "GNews/Австралия: СМИ",
    "paywall": false,
-   "title": "DOJ Probe: Trump Targets Democrats He Calls Extortionists",
-   "summary": "DOJ Probe: Trump Targets Democrats He Calls Extortionists&nbsp;&nbsp;Baller Alert",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoYklCTk5TT3FBWUNnb3pCNENyNnpWQWJWZXJyQTAxenZKRHNxTGNJeUtMYllNZDU4ZmgzWWdxdHQzSlc5b0N0ZUFwZ0R3ejFlc3BSSlJzenVHZTd3TGhjX0RpSTJTcTE2Y2hmaERmejBJdw?oc=5",
-   "also": [
-    "Dailyhunt",
-    "AOL.com"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObS1qZkZOYUx1UUh1dHRDWVo4azVNU095aEhIZ0pBeC1lNV9SbXNLSE1lNU1LSFM2LVNtRTdkZWFUUnE5dURtNndPRmF1V2hjM1N6ZzNtSGR4elpDZVU0Qll2TGdpWlFHT1VRbnF6Z0hUaFJsV29zZnpHRGRaeEpOdVVaVnJ5UmRsaFdWUTIxS0pPd0xTcy15MjhJVWJPQktxdHN5alpYc052R1pobzdxeTdTYnN2aFEyd216RnJ1Qm1BVnFDR05zS2xhb3IzdThpS21JMkFmZFU0LUEwZUFYNno5blMwRk0wU09BT1FpY21jX1YwZjJjUmxnSVlhZ1RKV1FvUi1qSG0?oc=5",
-    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2xpYmR2ZFB6YmVKTnF3SnV6c19FUkZDVU8tUHZYWGNaQUlYM0Q2UUF2bGVfZlViNFprMWRFcmhMYkFPd05ObklJLXJqZmJxQ3ZWdzFnVWFrd3NtZzdzbUltRVlsZE42YXVhUFJKc08yTlR2c0hoUkd2VEFtMnVpdmtR?oc=5"
-   ],
-   "sources_count": 3,
-   "confirmed": true
+   "title": "Topic | Fair Work Ombudsman | Australian Financial Review",
+   "summary": "Topic | Fair Work Ombudsman | Australian Financial Review&nbsp;&nbsp;AFR",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90azExSVJWNlZWbmY1aFB5Sm5kaEo1STV3bUlNXzFIVUJ2Zl9hOVh3d1NxOW9tV1h2VUtMX0tWNzVUZFNvLUsydHFvdmgxTll5UkVvRVBwYnRXMjI1Ymc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "7181bb0e1fbec7a17664820592446ea5",
@@ -479,7 +713,11 @@
     "Sydney Morning Herald",
     "Investing.com",
     "Australian Broadcasting Corporation",
-    "Xinhua"
+    "Xinhua",
+    "Türkiye Today",
+    "The Times of India",
+    "FT",
+    "BBC"
    ],
    "also_links": [
     "https://www.channelnewsasia.com/sport/trump-offers-ufc-chief-dana-white-top-communications-job-6533411",
@@ -495,23 +733,50 @@
     "https://www.smh.com.au/world/north-america/trump-publicly-offers-ufc-boss-press-secretary-job-20261108-p61cau.html?ref=rss&utm_medium=rss&utm_source=rss_world",
     "https://www.investing.com/news/economy-news/trump-offers-white-house-press-secretary-job-to-ufcs-dana-white-5010006",
     "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX0RBMkpzNmxhNjNJNlhWTHpfUGxTejRHT05BMUpLWnpjZ2hHeEx4dmxEOG1kWkdYUGhsS1R2WHRJZHYyYkZzTTRSNWNUWURpTkV3eno5dF80ZHZYa0g4R1FhUTlOUTl3SHZGb2hQWUw1S05LVzc4RzNIcXkyM0RnQ1FXVURUZVlyVzZ6c3FPN0FsVW5RUjRveXR3?oc=5",
-    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MS0dDVDFhYWFXaGxRb1ZHU2lTbXFGaEhZUEJXOVRoZkwxdURmdWFPUXBNTkxOWFdPeHRLaTAzVFBQU25ra2p3dExDX205Vy1fejVkRElKWFpIZFNFNlZLdlRLdzRIb0dHU2t1bmU4cE51aGVhbk9BOGVPckY?oc=5"
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MS0dDVDFhYWFXaGxRb1ZHU2lTbXFGaEhZUEJXOVRoZkwxdURmdWFPUXBNTkxOWFdPeHRLaTAzVFBQU25ra2p3dExDX205Vy1fejVkRElKWFpIZFNFNlZLdlRLdzRIb0dHU2t1bmU4cE51aGVhbk9BOGVPckY?oc=5",
+    "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRXNRTW54akVld2p0QlJYSkhMZElBa093MmQzZU5zYlVZWGRDWUpmU2JOQnpLLTBhdFJLbkpXbGRvXzBPb0V5Qjl6OE9jVmhNOXlnS3lNMkZ4TW1nandTU0Vkel9VWFVkazVBMm1reHVZNFVSUnJJMWM1c3RTY2x4UzU3MkRXa3RwWFpKUkp0MkRocXZIc1otdEVpM210cmFBVkw2dE91N3I4cld4aFpWeg?oc=5",
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObnNHX1FaV1k3NWstSW54aHV3X1k0UGlVc3I5SEN0MDlVTUVVSmptRU9oMlk4WWwxUURMTWctSG52MHFYU3RMS0QyN1drdG5RdUZLTkdSdTJOWlNfZGhDZWZmVHZBS1g1UlVDTV9PeE5KYkZtMnVXckloUEtHVEhOMGZmYllrcEhpX3lsSm5WbzhYV1M5YTlwWjQ1b1E2NlFibGdpNDFPVzUwd2wzSndFUXZWeHRlZHlydllPWENNX2ptaEMtTE0wbzVzdzFPcXE4Z0l2TnVaVXNvNUJFMVRqMnpreklQdw?oc=5",
+    "https://www.ft.com/content/52c3c7ac-f0ee-4b90-a2c8-68e76d120a79?syn-25a6b1a6=1",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iOGRPWlBpaEc3VlZGR2JmX3BiUzNDcTU2UkZ2bWtvc0d0Vlk4dUJhaHF2RkdWMjkySFdUWmlKaU9oYXltWWJfV3FCZkRaVXVNTnA0ZC1TWWRYWXM?oc=5"
    ],
-   "sources_count": 15,
+   "sources_count": 19,
    "confirmed": true
   },
   {
-   "hash": "206b0aa0fee67c703c220723765e09da",
-   "published": "2026-11-08T00:12+05:00",
-   "time_tashkent": "00:12",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
+   "hash": "ad67cb7b4feeda3f37fe19a7723633fc",
+   "published": "2026-11-08T00:13+05:00",
+   "time_tashkent": "00:13",
+   "region": "США",
+   "type": "ofic",
+   "source": "Baller Alert",
+   "feed": "GNews/TruthSocial",
    "paywall": false,
-   "title": "Diginex extends Resulticks acquisition deadline to Nov. 19",
-   "summary": "",
-   "link": "https://www.investing.com/news/company-news/diginex-extends-resulticks-acquisition-deadline-to-nov-19-93CH-5010009",
+   "title": "DOJ Probe: Trump Targets Democrats He Calls Extortionists",
+   "summary": "DOJ Probe: Trump Targets Democrats He Calls Extortionists&nbsp;&nbsp;Baller Alert",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBoYklCTk5TT3FBWUNnb3pCNENyNnpWQWJWZXJyQTAxenZKRHNxTGNJeUtMYllNZDU4ZmgzWWdxdHQzSlc5b0N0ZUFwZ0R3ejFlc3BSSlJzenVHZTd3TGhjX0RpSTJTcTE2Y2hmaERmejBJdw?oc=5",
+   "also": [
+    "Dailyhunt",
+    "AOL.com"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObS1qZkZOYUx1UUh1dHRDWVo4azVNU095aEhIZ0pBeC1lNV9SbXNLSE1lNU1LSFM2LVNtRTdkZWFUUnE5dURtNndPRmF1V2hjM1N6ZzNtSGR4elpDZVU0Qll2TGdpWlFHT1VRbnF6Z0hUaFJsV29zZnpHRGRaeEpOdVVaVnJ5UmRsaFdWUTIxS0pPd0xTcy15MjhJVWJPQktxdHN5alpYc052R1pobzdxeTdTYnN2aFEyd216RnJ1Qm1BVnFDR05zS2xhb3IzdThpS21JMkFmZFU0LUEwZUFYNno5blMwRk0wU09BT1FpY21jX1YwZjJjUmxnSVlhZ1RKV1FvUi1qSG0?oc=5",
+    "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN2xpYmR2ZFB6YmVKTnF3SnV6c19FUkZDVU8tUHZYWGNaQUlYM0Q2UUF2bGVfZlViNFprMWRFcmhMYkFPd05ObklJLXJqZmJxQ3ZWdzFnVWFrd3NtZzdzbUltRVlsZE42YXVhUFJKc08yTlR2c0hoUkd2VEFtMnVpdmtR?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
+  },
+  {
+   "hash": "3c09629cc8818244566b4b56ea2b958b",
+   "published": "2026-11-08T00:13+05:00",
+   "time_tashkent": "00:13",
+   "region": "ЕВ",
+   "type": "gos",
+   "source": "News",
+   "feed": "GNews/Беларусь (госСМИ и власть)",
+   "paywall": false,
+   "title": "Belarus’ Safonova, Kniazeva triumph at Albena Denkova Cup in Bulgaria - BelTA",
+   "summary": "Belarus’ Safonova, Kniazeva triumph at Albena Denkova Cup in Bulgaria&nbsp;&nbsp;BelTA – News",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWNuNHUxbWNLc1c3X1QyV3NRSnd4VFRyQVo2ek5ERDdWczRfeVlwX2pWRkV6QTEyVzJ4cFRMaGNqWDN2cVoxbVNHeVNpWFltVnNlQzVBcjF1a3NaM2JydldrZnVoMldhdGdUdlJva05BbFk2QTdiOGxIVld3cGVkUkIzTXowZmlfNHJlUEpZRUNQXzNmeVMyQUZxY3d4TnNDUXU1Yklwb3gyTm5hNVBTWUR3?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -533,6 +798,40 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "206b0aa0fee67c703c220723765e09da",
+   "published": "2026-11-08T00:12+05:00",
+   "time_tashkent": "00:12",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Diginex extends Resulticks acquisition deadline to Nov. 19",
+   "summary": "",
+   "link": "https://www.investing.com/news/company-news/diginex-extends-resulticks-acquisition-deadline-to-nov-19-93CH-5010009",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "0c64d249f3ea1b3797b6445f1d396c65",
+   "published": "2026-11-08T00:11+05:00",
+   "time_tashkent": "00:11",
+   "region": "АТР",
+   "type": "ofic",
+   "source": "GNews/Власть Афганистана, Пакистана, Индии",
+   "feed": "GNews/Власть Афганистана, Пакистана, Индии",
+   "paywall": false,
+   "title": "UPI: Transforming India's Payment Landscape - www.pib.gov.in",
+   "summary": "UPI: Transforming India's Payment Landscape&nbsp;&nbsp;www.pib.gov.in",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZTTVwcGhBVzIyQV9jZzRhUnJ5MFNFNEdjV2JrUHhKbWxlbHdyTklQeTBFVnJTRVY5N1ZUbVRfNFFYeHVxRlBObnlmc0NodHlvcUkydGI3S29sazdFZFUyeEdzdTBCZ1BKU3I2NzZHMm5DWldVSUNB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "812b5748c8ad98b1502fc2659cc08b9a",
@@ -648,7 +947,10 @@
     "Sydney Morning Herald",
     "Investing.com",
     "GNews/TruthSocial",
-    "Baller Alert"
+    "Baller Alert",
+    "The New York Times",
+    "AOL.co.uk",
+    "The Washington Post"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX2ZtNzBjME9fajZ6TTc2N0picGQ0T1Z6YXRwRVZqQmQtUndiLVJMRFZTU3pvdjhXRTNIYXlRRmVuMlJ5WnR4eFloVk1HWjYzSzZwT1BFdHR4N1F4eXRGLUFVYkZvQnQ1ZFhBQTg2ekR1bHVKT1NpN3A0blB3dllJYlFzb2c4bUYwQW80SjJReXJFYnJRLVkyVGFNemdxQ01nRVJNQ3lR?oc=5",
@@ -663,9 +965,12 @@
     "https://www.smh.com.au/world/north-america/trump-publicly-offers-ufc-boss-press-secretary-job-20261108-p61cau.html?ref=rss&utm_medium=rss&utm_source=rss_world",
     "https://www.investing.com/news/economy-news/trump-offers-white-house-press-secretary-job-to-ufcs-dana-white-5010006",
     "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1yYVhrOGVRVWVCQjQ4UGtZdVp1WTFPTmhHaGh1QlJPNTBVTk10cUp1V2dHdXpIVHN0N3Q1M1hfelh2U3Q0Rnh1bk9QcVZrQmRvX2hrLW9iS1U?oc=5",
-    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xSmJuMk5GUzAtQVFabEUxT2JxR2VOb0k1QURtMzJJb2xzREJMVDgxUGZjRHJxR2VsaTNTdXNKa1pRcURkZG5xcTE2Wk1IYWxyUHpGTkNjRVFVVG5GOGJOY3FncjNCbWd4YVRQQkU1aWh1cnRlZ3N4YVhB?oc=5"
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9xSmJuMk5GUzAtQVFabEUxT2JxR2VOb0k1QURtMzJJb2xzREJMVDgxUGZjRHJxR2VsaTNTdXNKa1pRcURkZG5xcTE2Wk1IYWxyUHpGTkNjRVFVVG5GOGJOY3FncjNCbWd4YVRQQkU1aWh1cnRlZ3N4YVhB?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMU9YSHNMTGI1TlZkR2JXci1rQ2hibFo0RjVabG9xa0tjOXNCRDlNQU8zbGxwTGk0U3ZLMDZhenp0YjJaaEFHWGxnblB4WjFhVjdYLVFHX0RxWWg2R3FQc3NqbHNjcDJBSlloc2h0NW1xdEhiRlI5NVR6c3lZbjBYVDhyM19DS3JLdnZFbFVMQ0tzN01CcERVMVl6Z2FMa2Qxa2xZ?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPMERsWkR5Q3JaalRoYnc2QS1hUE8zZHlScHBPdVlqM3h2QjZrYzdhRlFBcVh1QjRQM3J6ZDE2cURzaWN5LUtsLXpTS0YtSHFmZF9VdUstdW55b1Q5Y2g5dUthTEdDRFB5WGdPQk5ST3lzVDd2NTBFMG9R?oc=5",
+    "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWDk3dmNRMjFNZWFHWWtoOWFCeDVLXzB1WnlKVEljUk01NXhRX20zcllRMjJETzMzZElwYVE5ZXN5QVpfTWJELXlkMFk3SktkX1NmNjFqYkgxbFhNM2xzVVQtODAyaUstRGlGamNqbmtJOG42bU5WVFpVTC1Kd3FQV3VrVGRmQWlKVWR6UnJ4Y2ZCTDJTYzVpRDJLbElpVEVuQzlPUm9ndkp6RGxZNWlaTjlweTcyVm5odHc?oc=5"
    ],
-   "sources_count": 14,
+   "sources_count": 17,
    "confirmed": true
   },
   {
@@ -680,6 +985,23 @@
    "title": "Yemeni gov’t forces report advances as Houthis say deadly strikes hit Sanaa",
    "summary": "Civilians bear the brunt of fighting as 27 people reported killed in strikes on a village in Sanaa province.",
    "link": "https://www.aljazeera.com/news/2026/11/7/yemeni-govt-forces-report-advances-as-houthis-say-deadly-strikes-hit-sanaa?traffic_source=rss",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "63d396c94369e14171cabce441afff7d",
+   "published": "2026-11-08T00:05+05:00",
+   "time_tashkent": "00:05",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Dawn",
+   "feed": "GNews/Афганистан, Пакистан, Индия",
+   "paywall": false,
+   "title": "India win rain-hit second ODI against New Zealand by four runs",
+   "summary": "India win rain-hit second ODI against New Zealand by four runs&nbsp;&nbsp;Dawn",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEZLbzA5QlRaYWh0VjVoTTlBVzVWSkpxcC1lZDhzTzFCZHB5RmZVWlNqLWRka3pxN3JfVjExT3pTYUdkVnc3M0NXVVJvWm1QQy1LMHpZWGhqOC1WNVd6Zl9ORW5UYXlJSk5iWHdMNy1xYjQ5LWNLbV9QUjVSaEk5cXFpNUxwV21tbUZSelpibHRHRURPa1ZRYURnbWI?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -754,23 +1076,6 @@
    "confirmed": true
   },
   {
-   "hash": "63d396c94369e14171cabce441afff7d",
-   "published": "2026-11-08T00:05+05:00",
-   "time_tashkent": "00:05",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Dawn",
-   "feed": "GNews/Афганистан, Пакистан, Индия",
-   "paywall": false,
-   "title": "India win rain-hit second ODI against New Zealand by four runs",
-   "summary": "India win rain-hit second ODI against New Zealand by four runs&nbsp;&nbsp;Dawn",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMEZLbzA5QlRaYWh0VjVoTTlBVzVWSkpxcC1lZDhzTzFCZHB5RmZVWlNqLWRka3pxN3JfVjExT3pTYUdkVnc3M0NXVVJvWm1QQy1LMHpZWGhqOC1WNVd6Zl9ORW5UYXlJSk5iWHdMNy1xYjQ5LWNLbV9QUjVSaEk5cXFpNUxwV21tbUZSelpibHRHRURPa1ZRYURnbWI?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "07f7814f2b2e365f324c2b84f979a968",
    "published": "2026-11-08T00:04+05:00",
    "time_tashkent": "00:04",
@@ -786,6 +1091,27 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "14459fa6db7b00414f6392f8a538c56e",
+   "published": "2026-11-08T00:03+05:00",
+   "time_tashkent": "00:03",
+   "region": "МИР",
+   "type": "smi",
+   "source": "AFP.com",
+   "feed": "AFP",
+   "paywall": false,
+   "title": "Gunman kills six in historic centre of Poland's Krakow",
+   "summary": "Gunman kills six in historic centre of Poland's Krakow&nbsp;&nbsp;AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tUkV1OFNjWktWUm4yVnljQWg5MHdmMDlXSnlyRE5pNHRIUEQ2T1dTS3BxR1JzN2RPTGd1R3ZEa2c4dG4tanYtQi1ZR3NlS0xDZmVHX1BycnU0REY0RW5ZMXpEbGdRYm4tOTFmWGxZdnVKUzN0YnVteHBB?oc=5",
+   "also": [
+    "FT"
+   ],
+   "also_links": [
+    "https://www.ft.com/content/0fab9ede-4fa1-4f94-b23e-e32f07a6b7df?syn-25a6b1a6=1"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "530a2c06ff95aca871bedd05bc6283be",
@@ -805,34 +1131,17 @@
    "confirmed": false
   },
   {
-   "hash": "14459fa6db7b00414f6392f8a538c56e",
-   "published": "2026-11-08T00:03+05:00",
-   "time_tashkent": "00:03",
-   "region": "МИР",
-   "type": "smi",
-   "source": "AFP.com",
-   "feed": "AFP",
-   "paywall": false,
-   "title": "Gunman kills six in historic centre of Poland's Krakow",
-   "summary": "Gunman kills six in historic centre of Poland's Krakow&nbsp;&nbsp;AFP.com",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tUkV1OFNjWktWUm4yVnljQWg5MHdmMDlXSnlyRE5pNHRIUEQ2T1dTS3BxR1JzN2RPTGd1R3ZEa2c4dG4tanYtQi1ZR3NlS0xDZmVHX1BycnU0REY0RW5ZMXpEbGdRYm4tOTFmWGxZdnVKUzN0YnVteHBB?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "01092061b849b1603d6a10b33909895f",
+   "hash": "1244494ae603ce56d0bf475c1475d802",
    "published": "2026-11-08T00:02+05:00",
    "time_tashkent": "00:02",
-   "region": "США",
-   "type": "pay",
-   "source": "NYT World",
-   "feed": "NYT World",
-   "paywall": true,
-   "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
-   "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
-   "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Hausa",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Gwamnati ta soke dukkan shigar da ɗalibai cikin shirye-shiryen karatun takardar digiri na shekarar karatu ta 2026",
+   "summary": "Gwamnati ta soke dukkan shigar da ɗalibai cikin shirye-shiryen karatun takardar digiri na shekarar karatu ta 2026&nbsp;&nbsp;Premium Times Hausa",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRnphVmtma0tzbGlyZmZRSEFuWTZ1V0ZhUHlmYktObnVta2FjenpjRV9ObVphLVJDN1lSOE9EY2x0d2I4X1I3VEV4MUpyZ25TWnp4dG5DVFdmWEo2RzRNaFpiMDVSYmN0aVJrS0F4TWRHNTRnby1keHZ5LWNQOGJmZ2Qta1V6cUY4VlJjblBNMTR4YWlxTHlQb0FEWG1zSnpraUZJbngtNkxkLUdSQTBxbzRfTGl4cTg3T1FhRDE0NVdiZUU5TlNGSmZDa0FDNWNRUGlGd1Y2US1WdGV1N3FZNjFWQjNHY3VTVHZOd1dBQmliR3Z4cFQ5VHBDS0FRY0FRblE?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -879,34 +1188,17 @@
    "confirmed": false
   },
   {
-   "hash": "1244494ae603ce56d0bf475c1475d802",
+   "hash": "01092061b849b1603d6a10b33909895f",
    "published": "2026-11-08T00:02+05:00",
    "time_tashkent": "00:02",
-   "region": "АФР",
-   "type": "smi",
-   "source": "Premium Times Hausa",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "Gwamnati ta soke dukkan shigar da ɗalibai cikin shirye-shiryen karatun takardar digiri na shekarar karatu ta 2026",
-   "summary": "Gwamnati ta soke dukkan shigar da ɗalibai cikin shirye-shiryen karatun takardar digiri na shekarar karatu ta 2026&nbsp;&nbsp;Premium Times Hausa",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPRnphVmtma0tzbGlyZmZRSEFuWTZ1V0ZhUHlmYktObnVta2FjenpjRV9ObVphLVJDN1lSOE9EY2x0d2I4X1I3VEV4MUpyZ25TWnp4dG5DVFdmWEo2RzRNaFpiMDVSYmN0aVJrS0F4TWRHNTRnby1keHZ5LWNQOGJmZ2Qta1V6cUY4VlJjblBNMTR4YWlxTHlQb0FEWG1zSnpraUZJbngtNkxkLUdSQTBxbzRfTGl4cTg3T1FhRDE0NVdiZUU5TlNGSmZDa0FDNWNRUGlGd1Y2US1WdGV1N3FZNjFWQjNHY3VTVHZOd1dBQmliR3Z4cFQ5VHBDS0FRY0FRblE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "508cdd1a5428873995e9fd5dd107612a",
-   "published": "2026-11-08T00:01+05:00",
-   "time_tashkent": "00:01",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Richmond Mutual Bancorporation president buys $23,317 in common stock",
-   "summary": "",
-   "link": "https://www.investing.com/news/insider-trading-news/richmond-mutual-bancorporation-president-buys-23317-in-common-stock-93CH-5010003",
+   "region": "США",
+   "type": "pay",
+   "source": "NYT World",
+   "feed": "NYT World",
+   "paywall": true,
+   "title": "At Least 6 Dead in Poland After Gunman Opens Fire in Krakow, Police Say",
+   "summary": "The authorities said that the gunman, who began shooting from a car near a market square, was shot and taken to a hospital.",
+   "link": "https://www.nytimes.com/2026/11/07/world/europe/krakow-poland-shooting.html",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -947,17 +1239,17 @@
    "confirmed": false
   },
   {
-   "hash": "9e53b5ffa63a732b0bb60361c640b984",
-   "published": "2026-11-08T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "ЕВ",
+   "hash": "508cdd1a5428873995e9fd5dd107612a",
+   "published": "2026-11-08T00:01+05:00",
+   "time_tashkent": "00:01",
+   "region": "РЫН",
    "type": "smi",
-   "source": "KOHA.net",
-   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
+   "source": "Investing.com",
+   "feed": "Investing.com",
    "paywall": false,
-   "title": "Kosovo risks losing fish exports to Montenegro",
-   "summary": "Kosovo risks losing fish exports to Montenegro&nbsp;&nbsp;KOHA.net",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFFNUnRpYjBDTGVvaS00Vk5pc3ZCV1NZbjd4TGdiN3RoTVpPSUFtVTgxMkw3cGFBUWo4U2Y2SGQ4UHhkMGpubWZrRF9TWE1MR2M1R1ZDSHZPamY5Wk96TUJqYUhVOFk2NXpSYUpQVENvY0NkZGFFanRyLVJZN0lCWEMxb3drYWhUMmk2VUxwOHk1RjhTWU8yUExrNA?oc=5",
+   "title": "Richmond Mutual Bancorporation president buys $23,317 in common stock",
+   "summary": "",
+   "link": "https://www.investing.com/news/insider-trading-news/richmond-mutual-bancorporation-president-buys-23317-in-common-stock-93CH-5010003",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -976,12 +1268,14 @@
    "summary": "Two weeks of public hearings will begin on Monday morning, right in the middle of the state election campaignGet our daily political email, free app or daily news podcastThe commitment that made Ben Carroll premier may ultimately cost him the electio",
    "link": "https://www.theguardian.com/australia-news/2026/nov/08/big-build-royal-commission-victorian-election-ben-carroll-labor-ntwnfb",
    "also": [
-    "GNews/ЕС, НАТО, ОБСЕ, СЕ"
+    "GNews/ЕС, НАТО, ОБСЕ, СЕ",
+    "GNews/ЕС и НАТО"
    ],
    "also_links": [
+    "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXp1Y3NGMW8xS2d5S1ZwVXdSekxtRFhIQ1BvX25Wb1lRbFNtaFRFR01VR2NPV2hzcWo0SU03bzVDQmNIT2ZSaVlLZ3lMSWNFekRRRVo1MjU2NFZyZGtwc2FkRVEycWFyRFU5QUpKZEFwWkh4OS1Pd1c4YTBUN2REdmpYVWp0QVoyVGhKaW1GMFBGRWs4MVAxUk5sUVdsbmw1UllUZUVwYlZLeUZxbjAyTGI3eG5QTG5Xd3ZDTU5TdVY5cVRQOGtZNjNFczAwZzRtOEhsT3MtQlZQM1VpZnNObUNQeDliR2Jxa0xKc3l0alRyMlBLSzV2YTZVV0pZMmdlem5nVWRwZHBKSTE0?oc=5",
     "https://news.google.com/rss/articles/CBMijAJBVV95cUxOZXp1Y3NGMW8xS2d5S1ZwVXdSekxtRFhIQ1BvX25Wb1lRbFNtaFRFR01VR2NPV2hzcWo0SU03bzVDQmNIT2ZSaVlLZ3lMSWNFekRRRVo1MjU2NFZyZGtwc2FkRVEycWFyRFU5QUpKZEFwWkh4OS1Pd1c4YTBUN2REdmpYVWp0QVoyVGhKaW1GMFBGRWs4MVAxUk5sUVdsbmw1UllUZUVwYlZLeUZxbjAyTGI3eG5QTG5Xd3ZDTU5TdVY5cVRQOGtZNjNFczAwZzRtOEhsT3MtQlZQM1VpZnNObUNQeDliR2Jxa0xKc3l0alRyMlBLSzV2YTZVV0pZMmdlem5nVWRwZHBKSTE0?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -1047,6 +1341,40 @@
    "title": "AI sell - off wipes out Wall Street post - election rally ; major Asian markets also plunge up to 8 %",
    "summary": "",
    "link": "http://www.zimbabwestar.com/news/279415265/ai-sell-off-wipes-out-wall-street-post-election-rally-major-asian-markets-also-plunge-up-to-8",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "82df66d1013235c11f5236b33984f6d7",
+   "published": "2026-11-08T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Martina Arroyo was a luminous star of opera who broke racial barriers",
+   "summary": "Martina Arroyo was a luminous star of opera who broke racial barriers&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd1oyRHdXOUxqekc2QnNCZkVmTzRYOUY5Zmc4a01nR3lyRnpqa1hOYnJmODNkWEF2QXBSMmllVGthZHRlU25YYlhxbjhVMGg1eTlBTHk4Sk1oT0hKYWxIdVM0N29WOGljTW1MdTVoVW0tNHl5RFdsYnFPemd4LTB0LUM4SEs2aTh0eEpQaGN1UW16UldkMHhJblhUb2FpUF9KR0xXVm5LWXNMQmwzd3lPdndBSXVLUEJvMkE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9e53b5ffa63a732b0bb60361c640b984",
+   "published": "2026-11-08T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "KOHA.net",
+   "feed": "GNews/СМИ Македонии, Боснии, Косово, Молдовы",
+   "paywall": false,
+   "title": "Kosovo risks losing fish exports to Montenegro",
+   "summary": "Kosovo risks losing fish exports to Montenegro&nbsp;&nbsp;KOHA.net",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWFFNUnRpYjBDTGVvaS00Vk5pc3ZCV1NZbjd4TGdiN3RoTVpPSUFtVTgxMkw3cGFBUWo4U2Y2SGQ4UHhkMGpubWZrRF9TWE1MR2M1R1ZDSHZPamY5Wk96TUJqYUhVOFk2NXpSYUpQVENvY0NkZGFFanRyLVJZN0lCWEMxb3drYWhUMmk2VUxwOHk1RjhTWU8yUExrNA?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
