@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T18:22:58.959829+05:00",
+  "updated": "2026-11-08T18:37:20.343963+05:00",
   "items": [
     {
       "hash": "7a2c0f7f8d45f7881f2303f75d9c3b11",
@@ -13,6 +13,18 @@
       "status": "new",
       "ts": "2026-11-08T14:48:19.952364+05:00",
       "age_min": 6.5
+    },
+    {
+      "hash": "f914cf01e96c286d075a0bbbf56ff3a2",
+      "title": "Трамп приказал заблокировать иранский наземный транспорт, поскольку хуситы говорят, что саудовцы убили десятки человек в результате авиаударов",
+      "original_title": "Trump orders blockade on Iranian ground transport as Houthis say Saudis killed dozens in air strikes",
+      "link": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T18:31:08.971264+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "37c11928e8805c5c14bd25990f218545",
@@ -91,19 +103,6 @@
       "age_min": 3.1
     },
     {
-      "hash": "193300e86921946128ddecc50103d2aa",
-      "title": "Офис Aramco в Эр-Рияде подвергся нападению, причинившему ограниченный ущерб",
-      "original_title": "Aramco Riyadh Office Targeted in Attack, Causing Limited Damage",
-      "rss_summary": "Saudi Aramco offices in Riyadh came under attack on Sunday in a fresh escalation in the kingdom’s conflict with the Iran-backed Houthis in Yemen.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-08/aramco-tower-in-riyadh-s-financial-hub-damaged-after-attack",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T14:34:00.100462+05:00",
-      "age_min": 39.0
-    },
-    {
       "hash": "f55a03c6b55262d840cfed26b3aed0f3",
       "title": "ИНИС – Международная система ядерной информации",
       "original_title": "INIS – International Nuclear Information System",
@@ -128,18 +127,6 @@
       "status": "new",
       "ts": "2026-11-08T15:16:38.034060+05:00",
       "age_min": 9.6
-    },
-    {
-      "hash": "46f63e39995fe596817ca4e902e9f3c2",
-      "title": "Ядерный форум видит «открытое окно» для обсуждения расширения АЭС",
-      "original_title": "Foro Nuclear ve « una ventana abierta » para dialogar sobre la prórroga de las centrales",
-      "link": "https://www.diaridetarragona.com/economia/275158/foro-nuclear-ve-ventana-abierta-dialogar-sobre-prorroga-centrales.html",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T14:32:20.352373+05:00",
-      "age_min": 32.3
     },
     {
       "hash": "0e64ecdfb27ba11b36e99b4c8ed6de7f",
@@ -218,6 +205,18 @@
       "status": "new",
       "ts": "2026-11-08T16:19:11.549432+05:00",
       "age_min": 13.5
+    },
+    {
+      "hash": "cfe822894419d9c31ad83b631c6c6990",
+      "title": "Через геноцид и войну, пока выборы не разлучят их.",
+      "original_title": "Through genocide and war , till elections do them part",
+      "link": "https://www.dailysabah.com/opinion/op-ed/through-genocide-and-war-till-elections-do-them-part",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T18:31:08.986815+05:00",
+      "age_min": 31.1
     },
     {
       "hash": "ad91e86522fe8422900c72e8e30ad6ac",
@@ -477,31 +476,6 @@
       "age_min": 14.4
     },
     {
-      "hash": "0b5eb3b3c470c4e80bfe7fcc09a60943",
-      "title": "Сообщения искажают досудебное решение о снятии МУС обвинений с Родриго Дутерте",
-      "original_title": "Posts misrepresent pre-trial decision as ICC dropping charges against Rodrigo Duterte",
-      "rss_summary": "Posts misrepresent pre-trial decision as ICC dropping charges against Rodrigo Duterte&nbsp;&nbsp;AFP Fact Check",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMRTRHX19WbTJFbE91RUxGVDZoMHVwa3piZUJ2UGF4UHRUeGc1V0xaLS1HeWVXWjBhV1dJSFk3QjY2UFFQa1JzbVNYbzA5ckVVZ2VkeFkyQmo?oc=5",
-      "source": "AFP Fact Check",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T14:34:26.276600+05:00",
-      "age_min": 38.0
-    },
-    {
-      "hash": "27dc1b1a48c2bce7a7590424a326decd",
-      "title": "США нанесли удар по системе ПВО Ирана и представили новые усилия по наблюдению за границами Тегерана",
-      "original_title": "US strikes Iran air defense system , unveils new effort to monitor Tehran borders",
-      "link": "https://www.fox32chicago.com/news/us-strikes-iran-air-defense-system-unveils-new-effort-monitor-tehrans-borders",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T14:32:20.344762+05:00",
-      "age_min": 32.3
-    },
-    {
       "hash": "eff2b4095e5b3b3926ad721c4e3370a7",
       "title": "Глава Великобритании Ламми сравнил обращение с турецкими бизнесменами со скандалом в Виндраше",
       "original_title": "UK's Lammy likens treatment of Turkish businesspeople to Windrush scandal",
@@ -632,6 +606,19 @@
       "age_min": 5.2
     },
     {
+      "hash": "f0c10ed15f96dca6f6fdd775c89c7ed7",
+      "title": "Дональд Трамп избран 45-м президентом США в 2016 году – из архива SCMP",
+      "original_title": "Donald Trump elected 45th president of the United States in 2016 – from the SCMP archive",
+      "rss_summary": "This article was first published on November 10, 2016.\nTrump reaches out for unity\nby Shi Jiangtao\nDonald Trump called for national unity and promised to work with all nations in a triumphant victory speech yesterday (November 9, 2016) that capped the 70-year-old real estate mogul’s election as the United States’ 45th president.\nTrump’s stunning upset over Democratic candidate Hillary Clinton, who had been widely expected to become the US’ first woman president, defied almost all odds and polls,",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3373129/donald-trump-elected-45th-president-united-states-2016-scmp-archive",
+      "source": "SCMP",
+      "score": 6,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-08T18:32:53.302942+05:00",
+      "age_min": 2.6
+    },
+    {
       "hash": "bb0d5591b075fcff1b95f6f7ac17ab06",
       "title": "Польша оплакивает шестерых погибших в результате нападения, поскольку власти начинают расследование «терроризма»",
       "original_title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
@@ -643,6 +630,19 @@
       "status": "new",
       "ts": "2026-11-08T18:18:46.173364+05:00",
       "age_min": 38.6
+    },
+    {
+      "hash": "ae9f2023356c42415a5dbcc26f16d3a8",
+      "title": "Мнение | Отрицатели выборов проиграли. То же самое сделали и те, кто обрекает выборы.",
+      "original_title": "Opinion | Election deniers lost. So did election doomers.",
+      "rss_summary": "Opinion | Election deniers lost. So did election doomers.&nbsp;&nbsp;The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcWpkZlktU2lKczN4bzYzZ3FHZk9NdGtFRnBFNTczdk1wQ24xZHFxUExfekRJc01ZN0o2OHltdTF2aS1RRXgweWZ4V2t4V2ZXbjFmN096cVFHOEEwZ09ldVdhS19hamNOUXNvS1QtOF9ndFVmNzhIV0p5ZWszR0dzb2p6OW43UEVqeFdFZw?oc=5",
+      "source": "The Washington Post",
+      "score": 5,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-08T18:33:50.114472+05:00",
+      "age_min": 48.6
     }
   ]
 }
