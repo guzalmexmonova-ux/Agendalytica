@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T20:21:42.540522+05:00",
+  "updated": "2026-11-08T20:38:43.968808+05:00",
   "items": [
     {
       "hash": "096514fa864534f6998be2ecb6ca9823",
@@ -13,6 +13,19 @@
       "status": "new",
       "ts": "2026-11-08T19:31:44.716363+05:00",
       "age_min": 30.7
+    },
+    {
+      "hash": "48442d2ecfad1a2a441daaf070f0e7a5",
+      "title": "Sudan detains ex-ruling party head Haroun wanted by ICC",
+      "original_title": "Sudan detains ex-ruling party head Haroun wanted by ICC",
+      "rss_summary": "Nov 8 (Reuters) - Sudan's army has detained a former senior Islamist official from ousted strongman Omar al-Bashir's era who is wanted by the International Criminal Court, officials from his party said.Ahmed Haroun, who chairs Sudan's former ruling National Congress Party, has been hiding for years and is wanted by the International Criminal Court over alleged war crimes and genocide in the Darfur region in the early 2000s.He has dismissed the charges as political.",
+      "link": "https://www.al-monitor.com/originals/2026/11/sudan-detains-ex-ruling-party-head-haroun-wanted-icc",
+      "source": "Al-Monitor",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T20:34:36.816151+05:00",
+      "age_min": 47.9
     },
     {
       "hash": "dcb3a1d65d76a5ce176ed52982d89985",
@@ -207,19 +220,6 @@
       "age_min": 48.1
     },
     {
-      "hash": "f55a03c6b55262d840cfed26b3aed0f3",
-      "title": "ИНИС – Международная система ядерной информации",
-      "original_title": "INIS – International Nuclear Information System",
-      "rss_summary": "INIS – International Nuclear Information System&nbsp;&nbsp;International Atomic Energy Agency",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtZFN1NVNyTTFzc18wUTdqQW1UdWV0eEFrelJpWkl6aGUyZ3FPTkhGajF4ZWVTLW5hRGVPNVdhRGJXbzZTeThsTHNvVURtdE5ZSkdjd2FNbFFCUQ?oc=5",
-      "source": "International Atomic Energy Agency",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T16:35:42.939652+05:00",
-      "age_min": 53.4
-    },
-    {
       "hash": "4d1e807b74996bdb67aac6b00f7d2d39",
       "title": "Election Day unfolded with relatively few problems, despite worries over Trump election interference",
       "original_title": "Election Day unfolded with relatively few problems, despite worries over Trump election interference",
@@ -296,19 +296,6 @@
       "status": "new",
       "ts": "2026-11-08T17:17:56.017445+05:00",
       "age_min": 45.8
-    },
-    {
-      "hash": "45759eac59e62eed49f99c049bb75238",
-      "title": "Японский Тасима оценивает шансы на выборах в ФИФА в 20-30%, бросая вызов Инфантино",
-      "original_title": "Japan's Tashima rates FIFA election chances at 20%-30% in challenge to Infantino",
-      "rss_summary": "Japan's Tashima rates FIFA election chances at 20%-30% in challenge to Infantino&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMHA3VXMwNFNLLTJ5SXZ2MVFOSXh1UWY4b0ZoUk9tYUNfcGh4eU93dXMycXljX3gwZXFnV1Bjb3I5RWgtTF9ZRE92dnRFVzFNdHNwcWdxdjhhY0N1M1FDR2pHeHMxc0pMTklOWnBwR3B2VTRlZ3dqTDN1Um5wZXdKN2xTMGNPOVBsQWpGV1FYQWwyZk1yUEgyWENMa0xBMXRhNW10aXBVN2tWRmtYYkNfbTR6el9MZFB2Snc?oc=5",
-      "source": "Reuters",
-      "score": 7,
-      "weight": 5,
-      "status": "new",
-      "ts": "2026-11-08T16:34:30.160843+05:00",
-      "age_min": 8.0
     },
     {
       "hash": "cbc12ebd4cb3d8f26ba98ce9d954d85e",
@@ -518,17 +505,68 @@
       "age_min": 15.1
     },
     {
-      "hash": "ab40952877cd0c917e3551a29bdbd220",
-      "title": "США создают оперативную группу для нарушения сухопутных транзитных маршрутов в Иран",
-      "original_title": "U.S. launches task force to disrupt land transit routes into Iran",
-      "rss_summary": "The restrictions would expand on a U.S. naval blockade of Iranian ports during the two countries' eight-month war, in which Tehran has also restricted passage through the critical Strait of Hormuz trade route, choking global energy supplies",
-      "link": "https://www.thehindu.com/news/international/us-launches-task-force-to-disrupt-land-transit-routes-into-iran/article71680871.ece",
-      "source": "The Hindu",
-      "score": 10,
-      "weight": 3,
+      "hash": "c174f82f549c7f936d203c44b78ae9e8",
+      "title": "Airstrike on underground school in Komyshuvakha: 29 of 55 victims identified",
+      "original_title": "Airstrike on underground school in Komyshuvakha: 29 of 55 victims identified",
+      "rss_summary": "Airstrike on underground school in Komyshuvakha: 29 of 55 victims identified&nbsp;&nbsp;Ukrinform",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQcDdqb1NEQl9FY0tsb3UzR093SnZYMkxBLVM4MUF0UTY3M3FuMHZoT2NoYzVPV3g2QkRESUFzUmxwSG5IbDBleElrb2pwZnFLT2pRQm0xdU5VT2txaTQ1MTRudnBzWlNfay02M0tnT0J5U3ZpNU1rRnhKdUc2SGpSWVBUQlUyd1d6Wi04M2Y2OHpVMTdWZWlMeEVSamdWd3NTZEprVW55Qm95dVlDVXNKeTdaOVhKanI1VGZfTjRPcVVFUnfSAcgBQVVfeXFMTWtydUR4cklPczdNV2FCeXpBbWpOYVN3TjJvLWhWbjN4X3lCS19CLThoZXZNRG56TTFIMUlLVnNyeFp2TktTVndaNkVUZTdpZEJHbU53VlJjT00zQU1DbEdrOWpPU19FUlhId3c0WmtCWUc3VlM0cjI4VVBPZWtpMGNPdmxFQ3VHdHItTkYxUV82NkU0c0VyN21rQThYTzhTMHdSZHJ0OXZ3TWlBVThPeldWNlVKcVZGU2JiS1ZGUXhZekJvNlZoTjg?oc=5",
+      "source": "Ukrinform",
+      "score": 7,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-11-08T16:34:53.283581+05:00",
-      "age_min": 20.1
+      "ts": "2026-11-08T20:35:17.283858+05:00",
+      "age_min": 74.3
+    },
+    {
+      "hash": "edde8af37eb3722373bdf9c919358fbd",
+      "title": "Blanche dodges questions on investigating Democrats",
+      "original_title": "Blanche dodges questions on investigating Democrats",
+      "rss_summary": "Attorney General Todd Blanche dodged questions on Sunday on whether he would open investigations into Democratic members of Congress following President Trump’s remarks to look into claims of a “criminal act.” Appearing on CNN’s “State of the Union,” Blanche was asked about Trump ordering investigations against Congressional Democrats for calling for the impeachment of certain...",
+      "link": "https://thehill.com/homenews/administration/6206582-attorney-general-blanche-dodges-investigation-questions/",
+      "source": "The Hill",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T20:34:53.754265+05:00",
+      "age_min": 7.8
+    },
+    {
+      "hash": "35b0b6187252aac48bea9a81f8ea8d94",
+      "title": "Eisenkot given tough task of forming Israeli government over Netanyahu",
+      "original_title": "Eisenkot given tough task of forming Israeli government over Netanyahu",
+      "rss_summary": "Israel's former military chief Gadi Eisenkot was set Sunday to be given the tough task of forming a government, giving him weeks to cobble together a coalition to replace Benjamin Netanyahu, the country's longest-serving prime minister.  \n            Eisenkot, 66, a political novice who has vowed to bridge Israel's deep polarisation under Netanyahu, was due to meet President Isaac Herzog who will formally give him the mandate to form a government with an initial deadline of 28 days.",
+      "link": "https://www.al-monitor.com/originals/2026/11/eisenkot-given-tough-task-forming-israeli-government-over-netanyahu",
+      "source": "Al-Monitor",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T20:34:36.813661+05:00",
+      "age_min": 4.2
+    },
+    {
+      "hash": "36ebd3392dfc2a59aa488757e93f1b2b",
+      "title": "Colombia Vows to Protect Journalists Threatened by Narco Gangs",
+      "original_title": "Colombia Vows to Protect Journalists Threatened by Narco Gangs",
+      "rss_summary": "Colombian President Abelardo de la Espriella ordered increased security for news outlets in the Andean nation, citing intelligence warnings about possible attacks on broadcasting facilities by a major guerrilla group.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-08/colombia-vows-to-protect-journalists-threatened-by-narco-gangs",
+      "source": "Bloomberg Politics",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T20:34:35.429282+05:00",
+      "age_min": 25.0
+    },
+    {
+      "hash": "837d28c5ec20686f347df341132b18f4",
+      "title": "Gold surges 4 . 5 % in strongest weekly gain since August as crude oil tumbles",
+      "original_title": "Gold surges 4 . 5 % in strongest weekly gain since August as crude oil tumbles",
+      "link": "https://www.orissapost.com/gold-surges-4-5-in-strongest-weekly-gain-since-august-as-crude-oil-tumbles/",
+      "source": "GDELT/MARKETS",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-08T20:34:07.630308+05:00",
+      "age_min": 64.1
     },
     {
       "hash": "a8d3d4242f510005ad3a027652e367d3",
@@ -607,45 +645,6 @@
       "status": "new",
       "ts": "2026-11-08T19:31:18.667243+05:00",
       "age_min": 42.0
-    },
-    {
-      "hash": "7d016ef29bd6cb6d31fb74070dd66210",
-      "title": "UK pays tribute to armed services members fallen in conflicts on Remembrance Sunday",
-      "original_title": "UK pays tribute to armed services members fallen in conflicts on Remembrance Sunday",
-      "rss_summary": "Remembrance Sunday is held on the second Sunday in November, nearest to Armistice Day on 11 November, the anniversary of the end of World War I, and is led by the monarch.",
-      "link": "https://www.euronews.com/2026/11/08/uk-pays-tribute-to-armed-service-members-fallen-in-conflicts-on-remembrance-sunday",
-      "source": "Euronews",
-      "score": 9,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-08T20:18:13.000333+05:00",
-      "age_min": 9.1
-    },
-    {
-      "hash": "ebe7db9abf8f0aed5ceefeae0ffb6fbf",
-      "title": "165K Jobs Gained in October Beating Expectations, Unemployment Rate Drops to 4.1 Percent - U.S. Congress Joint Economic Committee (.gov)",
-      "original_title": "165K Jobs Gained in October Beating Expectations, Unemployment Rate Drops to 4.1 Percent - U.S. Congress Joint Economic Committee (.gov)",
-      "rss_summary": "165K Jobs Gained in October Beating Expectations, Unemployment Rate Drops to 4.1 Percent&nbsp;&nbsp;U.S. Congress Joint Economic Committee (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTGNJbFpkUVpHRi03a2lEMk1yeXJJRmZrMjhpMEk5WFBHaExIVm9kcjYtVnktY1JId3c0TnliakNuOVloWjRUbGh1UWpFaDB2QmZoOVp2UEZkdVpEU2dHeFhlZFdvX2ZhLVpUZzNKaEZxN01PN0k2MV9xZjFrbUdaNU9LT3VKQTZJeWFUUzQ3OFNsbXh1a0NB?oc=5",
-      "source": "GNews/Власть США 2",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T20:18:28.538608+05:00",
-      "age_min": 11.5
-    },
-    {
-      "hash": "2d2b90b14488845caa841cceefe21cbe",
-      "title": "‘The blue wave isn’t applicable to trans people’: advocates in Washington state prepare to fight ban",
-      "original_title": "‘The blue wave isn’t applicable to trans people’: advocates in Washington state prepare to fight ban",
-      "rss_summary": "‘The blue wave isn’t applicable to trans people’: advocates in Washington state prepare to fight ban&nbsp;&nbsp;The GuardianWhy this initiative was the exception to WA’s blue wave election&nbsp;&nbsp;The Seattle TimesUS anti-trans ballot wins pose challenge for Democrats ahead of 2028&nbsp;&nbsp;ReutersIn Election Democrats Dominated, Voters in 4 States Limit Trans Athletes&nbsp;&nbsp;The New York TimesVoter-approved girls' sports initiative likely to face court battles&nbsp;&nbsp;KOMO",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdGh1TUhWSHlGRUlHNTc5c09NRWpoTTVyQllnVWFsdUdGVnJlUGRia1NZSjZYNzhpMHljUlpSa3hLeVVzOHY0ZHFaNms2VFNxSGVXVkUybW5fcXNFOUxaR2ZRbjJvNFYzbkI3c01tNnNGLUZScWRQY0hSMG5zZVRFNlZ2TXVjMEhQWmNxcFFvN0k?oc=5",
-      "source": "The Guardian",
-      "score": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-08T20:17:41.644501+05:00",
-      "age_min": 77.7
     }
   ]
 }
