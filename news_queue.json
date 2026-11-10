@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T13:21:49.756034+05:00",
+  "updated": "2026-11-10T13:37:40.720936+05:00",
   "items": [
     {
       "hash": "d20bc4614ada74d32b5df96df58863a8",
@@ -221,6 +221,19 @@
       "age_min": 10.1
     },
     {
+      "hash": "9c69d3194a41504793c596800fdc03f1",
+      "title": "Марко Рубио – AP News",
+      "original_title": "Marco Rubio - AP News",
+      "rss_summary": "Marco Rubio&nbsp;&nbsp;AP News",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBtWjlsRjNDdHg1clRteTktSlJJT2dJUGloVXhkYjZhcHZyNnNLYlBwVFdaMFdLTzI5UkxYdXd1UnBRRDZJdzlmZWx3?oc=5",
+      "source": "AP",
+      "score": 7,
+      "weight": 5,
+      "status": "new",
+      "ts": "2026-11-10T13:33:40.070736+05:00",
+      "age_min": 14.7
+    },
+    {
       "hash": "983b2a83a3b0180f76f0166edd8b5f0d",
       "title": "Россия рассматривает новую структуру безопасности для Европы в качестве основного направления переговоров по Украине, сообщил источник в делегации",
       "original_title": "Russia sees new security framework for Europe as main thrust of Ukraine talks, delegation source says",
@@ -245,6 +258,45 @@
       "status": "new",
       "ts": "2026-11-10T12:33:54.099411+05:00",
       "age_min": 6.4
+    },
+    {
+      "hash": "4e03236b17dd902707f940e199c32eea",
+      "title": "COP31: Чего Филиппины хотят для океана",
+      "original_title": "COP31: What the Philippines wants for the ocean",
+      "rss_summary": "Among the Philippine delegation's calls at COP31 is 'stopping further offshore fossil fuel expansion'",
+      "link": "https://www.rappler.com/philippines/delegation-ocean-agenda-cop31/",
+      "source": "Rappler",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-10T13:33:50.694311+05:00",
+      "age_min": 12.4
+    },
+    {
+      "hash": "14c492468beba5c3e85e11ecfa25a51d",
+      "title": "Канадский Ананд видит прогресс в торговых переговорах с США",
+      "original_title": "Canada's Anand Eyes Progress on US Trade Talks",
+      "rss_summary": "Canadian Foreign Minister Anita Anand discusses conversations with Secretary of State Marco Rubio and the outlook for trade negotiations between the nations following the Democrats upending of the US political landscape in last week's midterm elections. \"Canada very much hopes that will have progress on the trade front,\" Anand says, speaking to Bloomberg from Paris. (Source: Bloomberg)",
+      "link": "https://www.bloomberg.com/news/videos/2026-11-10/canada-s-anand-eyes-progress-on-us-trade-talks-video",
+      "source": "Bloomberg Politics",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-10T13:33:41.725429+05:00",
+      "age_min": 8.4
+    },
+    {
+      "hash": "1d4d916193d8e423f1f3fbb83d3b660d",
+      "title": "Трамп заявил, что ФБР расследует дело босса Nvidia с предполагаемым китайским шпионом",
+      "original_title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "rss_summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-10T13:33:16.622319+05:00",
+      "age_min": 9.9
     },
     {
       "hash": "112d35e78c8b2b188fb303db8d27fd3c",
@@ -374,6 +426,19 @@
       "status": "new",
       "ts": "2026-11-10T10:18:07.695929+05:00",
       "age_min": 12.5
+    },
+    {
+      "hash": "eb27aec165fd570d44ccd88b41151373",
+      "title": "Исследования показывают, что выбросы от ископаемого топлива сократятся впервые со времен Covid",
+      "original_title": "Fossil fuel emissions set to fall for first time since Covid, research shows",
+      "rss_summary": "Global fossil fuel emissions are expected to fall by 0.4 percent in 2026 for first time since the Covid pandemic, driven by the expansion of renewable energy and the oil price shock linked to the Iran war, researchers said Tuesday, who warned the decline may be short-lived.",
+      "link": "https://www.france24.com/en/environment/20261110-fossil-fuel-emissions-set-to-fall-for-first-time-since-covid-research-shows",
+      "source": "France24",
+      "score": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-10T13:33:42.596372+05:00",
+      "age_min": 8.7
     },
     {
       "hash": "3dd0462e8f0d807ca3d611c7d688c0cf",
@@ -582,71 +647,6 @@
       "status": "new",
       "ts": "2026-11-10T12:18:22.615503+05:00",
       "age_min": 107.9
-    },
-    {
-      "hash": "075f2833a3ad615febf2b24880d0d2d3",
-      "title": "Тесные связи Трампа с Хуангом из Nvidia подверглись тщательному изучению после опасений внешней разведки",
-      "original_title": "Trump’s close ties to Nvidia’s Huang scrutinized after foreign intelligence concerns",
-      "rss_summary": "Nvidia CEO Jensen Huang is one of Donald Trump's closest allies in Silicon Valley, and the relationship between the two dates to at least 2025",
-      "link": "https://www.rappler.com/technology/donald-trump-ties-nvidia-jensen-huang-scrutinized-foreign-intelligence-concerns/",
-      "source": "Rappler",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-10T12:18:11.587752+05:00",
-      "age_min": 27.1
-    },
-    {
-      "hash": "938a3cc6f9af1f6c8b67105cc62fa64f",
-      "title": "ПРЯМОЕ ОБНОВЛЕНИЕ: Суд по делу об импичменте вице-президента Сары Дутерте",
-      "original_title": "LIVE UPDATES: Impeachment trial of Vice President Sara Duterte",
-      "rss_summary": "Bookmark this page for Rappler's comprehensive coverage of Vice President Sara Duterte's impeachment trial at the Senate",
-      "link": "https://www.rappler.com/philippines/vice-president-sara-duterte-impeachment-trial-updates-videos/",
-      "source": "Rappler",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-10T12:18:11.586042+05:00",
-      "age_min": 23.9
-    },
-    {
-      "hash": "3f246ff59a88c1eaa2bd467e3e35a8b0",
-      "title": "Верховный суд заявил, что апелляции не приостанавливают распоряжение о владении изъятым имуществом - ABS-CBN",
-      "original_title": "Supreme Court says appeals don’t suspend writ of possession of foreclosed properties - ABS-CBN",
-      "rss_summary": "Supreme Court says appeals don’t suspend writ of possession of foreclosed properties&nbsp;&nbsp;ABS-CBN",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPVXVWWjd6T0RCak1nN3FzZFVVYnJtc2x1d3JmSFlzM3JhWWQxNktjQl9MaVhKc082c3hmanZUSEdRVmlXcHJNQUNVaGM5VDZqLTRnVGl5d29Pc2p2MzBEcXdENzR5RDNrM0lRUWNNOWNwRnN2ZFU2RkdOLVB2dHlsMDF3R1NJWnJOSjhpSmRqbHQ3Q0FwMEhtTWJqS0pDS0FRNDM1dzBRRldOV1J3RlRtUDRuZmFGTHVFMEFOTWt2VURnRzg2Wm5kNjExTzc?oc=5",
-      "source": "ABS-CBN",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-10T13:18:13.299230+05:00",
-      "age_min": 46.2
-    },
-    {
-      "hash": "a7ba9ddb738ca1591819e034c4e73ed1",
-      "title": "Суд по делу об импичменте Дутерте: кто второй и третий свидетели защиты? - АБС-КБН",
-      "original_title": "Duterte impeachment trial: Who are the defense’s second and third witnesses? - ABS-CBN",
-      "rss_summary": "Duterte impeachment trial: Who are the defense’s second and third witnesses?&nbsp;&nbsp;ABS-CBN",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNHBXZXdRTnh6cWM3U2hnZjFfa19uUk5jakxvXzFGQWN5ekwwMzFCTEx6RWl2clNCcGlpMk9uMzlNb0JQVXdjSUxYQXdfYWZ1WURFZXJFUVBMTWRSZjdrQy1SUmFXRk5Yc1kxR080bElQZjAzYWNLNHhBMlAwS0VCMzM0VEpPajgxUmF3UDZLYTViSHRrMDJsRWNDWDJyTVJmNWl6a1hpbTZsNzE2ZVctOTdFWHdUMHRxaG9iYmtWbDRGN2x1N0E?oc=5",
-      "source": "ABS-CBN",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-10T13:18:13.272546+05:00",
-      "age_min": 117.2
-    },
-    {
-      "hash": "3abb171296f449b7efe9ce8a3698be67",
-      "title": "Франция угрожает принять меры против Ирана из-за кибератак на супермаркеты",
-      "original_title": "France threatens actions against Iran over supermarket cyberattacks",
-      "rss_summary": "France will seek Europeans actions against Iran in response to cyberattacks on hundreds of supermarket fridges, Foreign Minister Jean-Noël Barrot said Tuesday, after accusing Tehran's Revolutionary Guards of orchestrating the October sabotage.",
-      "link": "https://www.france24.com/en/france/20261110-france-vows-tough-response-to-freezer-cyberattack-blamed-on-iran",
-      "source": "France24",
-      "score": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-10T13:18:02.146540+05:00",
-      "age_min": 34.1
     }
   ]
 }
