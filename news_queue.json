@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T19:09:28.190600+05:00",
+  "updated": "2026-11-11T19:23:20.806534+05:00",
   "items": [
     {
       "hash": "f9b8393f198d3768ea545caffae2c384",
@@ -39,6 +39,19 @@
       "status": "new",
       "ts": "2026-11-11T18:03:29.796369+05:00",
       "age_min": 9.8
+    },
+    {
+      "hash": "aab2708cd0fe561a6b6282d3be101980",
+      "title": "США утверждают, что инцидент с ВВС Великобритании в Фэрфорде частично срежиссирован из тюрьмы Нью-Йорка",
+      "original_title": "RAF Fairford incident partly directed from New York jail, US claims",
+      "rss_summary": "US indictment links alleged plot to attack British air base to wider campaign across Europe targeting Jewish sites",
+      "link": "https://www.ft.com/content/687acbbb-6296-4030-a1a0-c07936a6c9db?syn-25a6b1a6=1",
+      "source": "FT",
+      "score": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-11T19:18:56.313908+05:00",
+      "age_min": 4.9
     },
     {
       "hash": "9d4fb1fed1f87abaf962eead5af217b1",
@@ -158,19 +171,6 @@
       "age_min": 14.5
     },
     {
-      "hash": "23f70511ee9e131d5d4bd5884963af5f",
-      "title": "Падение фьючерсов на облигации США не приносит облегчения, поскольку ставки ФРС растут",
-      "original_title": "Falling US Bond Futures Offer No Relief as Fed Hike Bets Grow",
-      "rss_summary": "Derivatives trading suggests a retreat in US Treasuries is set to continue as faster-than-expected inflation data cemented the prospects for more aggressive interest-rate hikes from the Federal Reserve.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-11/falling-us-bond-futures-offer-no-relief-as-fed-hike-bets-grow",
-      "source": "Bloomberg",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-11T15:18:09.660185+05:00",
-      "age_min": 25.4
-    },
-    {
       "hash": "7e4dab9ffd4c487968a209682e9fab96",
       "title": "Сотни школ по всей Италии, Шотландии и Ирландии получили угрозы о взрыве",
       "original_title": "Hundreds of schools across Italy, Scotland and Ireland receive bomb threats",
@@ -275,19 +275,6 @@
       "age_min": 5.5
     },
     {
-      "hash": "69093a8da5317f233b8e1ab3258e9fa8",
-      "title": "- Министерство войны США (.gov)",
-      "original_title": "- U.S. Department of War (.gov)",
-      "rss_summary": "&nbsp;&nbsp;U.S. Department of War (.gov)",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1eGFMUGU3eUVKaFRjNkVYN1ViX2VrdHBRZWJGSjlhaF9nUzFkNDdxdHViamhYeWV4SVJTbmlfVXFPMmM2VG9md3oyUUZBVnZfcHBKYVpCSkNUMVdNT1EtdDg0dVFWdXBFMmpmTy02cmR3dGw1SlJUZWZ3?oc=5",
-      "source": "GNews/Власть США",
-      "score": 9,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-11T15:19:10.731140+05:00",
-      "age_min": 44.9
-    },
-    {
       "hash": "73a1f15d0248cbf764ebb83d1f871226",
       "title": "Россия и Украина договорились о крупном обмене пленными, поскольку переговоры завершились без существенного прорыва",
       "original_title": "Russia and Ukraine agree to a large prisoner exchange as talks conclude with no major breakthrough",
@@ -364,6 +351,19 @@
       "status": "new",
       "ts": "2026-11-11T16:48:34.293683+05:00",
       "age_min": 19.5
+    },
+    {
+      "hash": "fb569fc81ea8169118090b3f5a19537e",
+      "title": "Бессент призывает к более сбалансированной торговле с Китаем в преддверии переговоров Трампа и Си Цзиньпина",
+      "original_title": "Bessent calls for more balanced trade with China ahead of Trump-Xi talks",
+      "rss_summary": "Treasury Secretary Scott Bessent said Tuesday the U.S. and China should have a “more balanced” trading relationship, days after President Trump said he expects to meet with Chinese President Xi Jinping later this month. “The U.S. trade imbalance with China has long been a source of friction,” Bessent said at the National Committee on U.S.-China...",
+      "link": "https://thehill.com/homenews/administration/6212824-scott-bessent-donald-trump-xi-jinping-us-china-trade-talks/",
+      "source": "The Hill",
+      "score": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-11T19:19:43.698567+05:00",
+      "age_min": 17.7
     },
     {
       "hash": "c87bd28833c187f5b987bba5b27ab7f9",
@@ -522,30 +522,17 @@
       "age_min": 92.4
     },
     {
-      "hash": "ab9ea16819713e2580135bc651a54e71",
-      "title": "Медный гигант: может ли месторождение меди объемом в миллиард тонн стать следующим крупным рудником Колумбии?",
-      "original_title": "Copper Giant: Could a Billion-Tonne Copper Deposit Become Colombia's Next Major Mine?",
-      "rss_summary": "Copper Giant: Could a Billion-Tonne Copper Deposit Become Colombia's Next Major Mine?&nbsp;&nbsp;The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNX25ndnEyQzNxQU9PS1FneGN6cHJ5YnpZVGlKZjRJUG40eG85U2diUnBETGxYczVMNnJOTWJfTDRTTXpfX0wxRVlTS1pXSFFXU0U2S0huWV9zNmFoaU84b1NnczZ0YllNa2w5b1dYSTY5a3AxMTU3b3E5YmNZYUFBLW1LQlJNVDMyaklGUlAyOGtpUTZJQl8yOXhnX2RxdkZjQW14MEJZRTNmMjJfQ2dWUGFYVmRFZzNCMHlSdFdjbUYxYy00THFlaWJ2YVhSU0J0V1NGUnhUbjJzR0tHRTgtWWJtRWd5eGFsVGpkZV9Ya2wzQS1EWUxvYXFhMA?oc=5",
-      "source": "The Globe and Mail",
-      "score": 8,
-      "weight": 4,
+      "hash": "0c8e154c520ceaa31e65fd541d4fc564",
+      "title": "Британец, погибший в результате стрельбы в Кракове, по имени Джеймс Кэмпбелл",
+      "original_title": "British man who died in Kraków shooting named as James Campbell",
+      "rss_summary": "Campbell, 32, from Prestwick, South Ayrshire, was one of six people killed in the 7 November attack in Polish cityThe British man who died in a shooting in Kraków has been named as 32-year-old James Campbell.Campbell, of Prestwick, South Ayrshire, was one of six people killed in the 7 November shooting in the Polish city by the 24-year-old gunman, who is also suspected of murdering three members of his own family. Continue reading...",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/11/british-man-died-krakow-shooting-named-james-campbell",
+      "source": "Guardian",
+      "score": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-11-11T15:18:45.862485+05:00",
-      "age_min": 8.7
-    },
-    {
-      "hash": "d8b8149e16a8853dddf4859033b7cff1",
-      "title": "Палата представителей США пока заблокировала попытку объявить импичмент министру обороны Питу Хегсету",
-      "original_title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "rss_summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-11T15:18:10.539856+05:00",
-      "age_min": 3.0
+      "ts": "2026-11-11T19:19:25.457280+05:00",
+      "age_min": 5.5
     },
     {
       "hash": "291651c397036a97b1ad096c1969b988",
@@ -626,6 +613,32 @@
       "age_min": 9.3
     },
     {
+      "hash": "c044642a1d7041d6ab79e3b8ffd6dddc",
+      "title": "Постоянные обновления: Трамп и Вэнс отметят День ветеранов в Арлингтоне",
+      "original_title": "Live updates: Trump, Vance to mark Veterans Day at Arlington",
+      "rss_summary": "President Trump, Vice President Vance and first lady Melania Trump are set to commemorate Veterans Day at Arlington National Cemetery. The Trumps are set to participate in a wreath-laying ceremony at 11 a.m. EST, and the president will deliver remarks 30 minutes later. The sprawling military burial ground has recently been at the center of...",
+      "link": "https://thehill.com/homenews/administration/6212363-live-trump-vance-veterans-day-congress/",
+      "source": "The Hill",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-11T19:19:43.695533+05:00",
+      "age_min": 13.4
+    },
+    {
+      "hash": "a7681b3f50d4a953da011868b4c74eeb",
+      "title": "Четыре медведя гризли убиты после того, как ДНК связала их со смертельным избиением мамы и ее 20-летней дочери во время прогулки по лесу",
+      "original_title": "4 Grizzly Bears Killed After DNA Linked Them to Fatal Mauling of Mom and Her 20-Year-Old Daughter During Woodland Walk",
+      "rss_summary": "4 Grizzly Bears Killed After DNA Linked Them to Fatal Mauling of Mom and Her 20-Year-Old Daughter During Woodland Walk&nbsp;&nbsp;YahooFour grizzly bears killed in Canada after fatal attack on mum and daughter&nbsp;&nbsp;BBCMama grizzly bear and her 3 cubs killed woman and daughter in Canada, DNA confirms: \"Predatory behavior\"&nbsp;&nbsp;CBS NewsCanadian Authorities Kill 4 Bears Involved in Deadly Attack on Hikers&nbsp;&nbsp;The New York TimesCanada: 4 bears put down after killing mother, daught",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNzZ4YjV3UDBTWUVBelUyS0dRRVotZG9RZXNkRFhYZjdBY1B1QXdTTlotNU1rZEhfX3Fvb3F1aE9jRnBjWVA3TWpsSkY1aGFoRGxUd3V6T0MtSDF3MmJJZ0tXZDladTVMbWFFYmR5aHVpZGp4cVp1bUd0amFLRVNjbWR6QXkyMjItWVJv?oc=5",
+      "source": "Yahoo",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-11T19:19:13.500283+05:00",
+      "age_min": 113.2
+    },
+    {
       "hash": "309d4afec348859c58f1926f6cbdfc25",
       "title": "Законодатели отмахиваются от 27-й поправки в поисках задолженности по зарплате",
       "original_title": "Lawmakers dust off the 27th Amendment in pursuit of back pay",
@@ -637,19 +650,6 @@
       "status": "new",
       "ts": "2026-11-11T19:05:41.052606+05:00",
       "age_min": 65.7
-    },
-    {
-      "hash": "f2c79070c7bfd7d6eb220e87f3124db9",
-      "title": "Видео: Карни поднимает вопрос об иностранном вмешательстве в дела президента Китая в АТЭС",
-      "original_title": "Video: Carney to raise foreign interference with Chinese president at APEC",
-      "rss_summary": "Video: Carney to raise foreign interference with Chinese president at APEC&nbsp;&nbsp;The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaDV4bE8yXzg5MmhvVmM1bF9Ic0RQd0ZpZnVQVGZkT3pjMmtIVG0ySVlqTE45b1VodnlRVV8zTHFZTlJlLUNtb1VEaEhyVjhKdV9ucktrRWFpSUtxVEdzTXN3OUF3YzZGV2tpczdna0dFQ2VTX0U3QXVxYkI2dkZ1QmNRaGxVNEJPdlJfRTg2QmNuaEVtQ1N6VkE5YlE5c1VLbmlvTGtqT01fNGp2Sk01LThGaw?oc=5",
-      "source": "The Globe and Mail",
-      "score": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-11T19:05:20.440796+05:00",
-      "age_min": 44.6
     }
   ]
 }
