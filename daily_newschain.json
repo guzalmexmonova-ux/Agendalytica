@@ -2,23 +2,74 @@
  "date": "2026-11-12",
  "window": {
   "from": "2026-11-12T00:00+05:00",
-  "to": "2026-11-12T08:38+05:00"
+  "to": "2026-11-12T08:52+05:00"
  },
- "updated": "2026-11-12T08:38+05:00",
- "count": 1243,
+ "updated": "2026-11-12T08:52+05:00",
+ "count": 1255,
  "by_region": {
-  "МИР": 233,
-  "США": 179,
-  "ЕВ": 159,
+  "МИР": 237,
+  "США": 181,
+  "ЕВ": 160,
   "УКР": 10,
   "БВ": 151,
-  "ЦА": 11,
-  "ЮА": 29,
+  "ЦА": 12,
+  "ЮА": 30,
   "АТР": 300,
-  "АФР": 32,
-  "РЫН": 139
+  "АФР": 33,
+  "РЫН": 141
  },
  "items": [
+  {
+   "hash": "fad53e910c5d3ed33e9dd87b2c07f965",
+   "published": "2026-11-12T08:38+05:00",
+   "time_tashkent": "08:38",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Yonhap",
+   "feed": "Yonhap",
+   "paywall": false,
+   "title": "S. Korea closely watching possible U.S.-China-Russia summit: vice FM",
+   "summary": "SEOUL, Nov. 12 (Yonhap) -- South Korea is closely watching developments surround...",
+   "link": "https://en.yna.co.kr/view/AEN20261112006600315",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "b8f9ff81d3a757f7a406fe700bae7b11",
+   "published": "2026-11-12T08:38+05:00",
+   "time_tashkent": "08:38",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Japan Times",
+   "feed": "GNews/Япония",
+   "paywall": false,
+   "title": "“Luffy” crime group’s alleged leader denies robbery resulting in death",
+   "summary": "“Luffy” crime group’s alleged leader denies robbery resulting in death&nbsp;&nbsp;The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHNyQlZzU2VxTElVWFBxUzZINU5SNFpZUHdpeVJ2MGJkTVRJSnRrbGk3QnpQYW9HZVZGS3RKVjFTcWI5NnJkQ2JhWFRQWmNJdDd3TzJlMVN1OV9BeU1nc0ZKUmJFMTl5OFNQUHh3WU0zVzZOam5Cc0hQWlZmTURqTUZQY2NyaXZmUk8wQ0FURE9XbmNhSXJzNTF2MGQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d13c680949a0b6c0a447bdaf5b08351e",
+   "published": "2026-11-12T08:38+05:00",
+   "time_tashkent": "08:38",
+   "region": "АТР",
+   "type": "gos",
+   "source": "China Daily",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "China, US experts advance safer heart-valve repair",
+   "summary": "China, US experts advance safer heart-valve repair&nbsp;&nbsp;China Daily",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4ya1A0WXVST1ZfODlXamdTTmsya0pOaVloVkgtOGpGWWpGYUl6NU84WGoyVU1IYXE1R0NmUmQ1cy1qaDIxRlpsN2pGSU5WcWpJT2RSYVgyNlhodWFMRjN4QXh2MU1jYW1GWTF1NldSeXRZNFlWRVJMTWN3ZDJMQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "9fe335d1c286c3aa21b45968e9731265",
    "published": "2026-11-12T08:34+05:00",
@@ -37,6 +88,40 @@
    "confirmed": false
   },
   {
+   "hash": "04f45c7a391df4ab3e4a25ddf37e3b5d",
+   "published": "2026-11-12T08:33+05:00",
+   "time_tashkent": "08:33",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taiwan News",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Taiwan cannot afford a partisan bet on Washington",
+   "summary": "Taiwan cannot afford a partisan bet on Washington&nbsp;&nbsp;Taiwan News",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5OQ01yNmRPc0pmREh5ZXd2aUR1NU1FV1B3LXpDVlYtWDFrOGhPbnFzSHFIX2pLY2NVWHJ1V3QtRjY0TlVqTlVTbjZsZzNPQnFiLU5OaEM0OEY?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "0932d486e8770885881f6d7a3a206656",
+   "published": "2026-11-12T08:32+05:00",
+   "time_tashkent": "08:32",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "Another Data Center Halts in Australia as Public Backlash Rises",
+   "summary": "A vast data center project near Adelaide has been suspended following community opposition, at least the third Australian development to be waylaid in recent weeks as public opposition grows.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/another-data-center-halts-in-australia-as-public-backlash-rises",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "5bc3124c568083b3f568f8f78288af76",
    "published": "2026-11-12T08:31+05:00",
    "time_tashkent": "08:31",
@@ -48,6 +133,227 @@
    "title": "Line launches scheduled messaging feature with free trial",
    "summary": "Line launches scheduled messaging feature with free trial&nbsp;&nbsp;Taipei Times",
    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9idXRTTFdQNEx6bDhuUWt1VXItYXJNcTlyaXFJbS03N016WjhpRkRRSzBaalVqQ3p0NHA0NGF1dWFfcHFpOHhzYjBuYmlzUkVvQ0RsTFZDTk9sdkM0ZFJHaXVLb3J1SGUyNFI5RTdHbDkzTi1mUTdGRjln?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "633dde9c7b8d35f5f1a290ab5aecfaa6",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Taipei mayoral campaigns entering the final stretch",
+   "summary": "Taipei mayoral campaigns entering the final stretch&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rVU5mMDBialU1V0NqelhTaTlRNjJkYkxkUGRONmpnNmhrZk9ETXdMY0pBal9DUUhYLVZsODVoOUJzYkI5MkFWY0hSSVZkdWpTeVptTFFTZkl3dHN6RFJOMzBIVnpNMURDRmE4RTZCUFZDNFdVNDZseTh3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "1746060f9b3210c43d51c571f1f982f8",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Reject nuclear referendum, groups say",
+   "summary": "Reject nuclear referendum, groups say&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1EeS1Pa1p5MEx2cjh3S0pYbHVhSC1pckFnYmpkOS1YZnFGaVVpY3d2NzJSUFpiTk55c09MN2xCOF9tbXFQUnJINkhFRERrci0temF4eWJuWGprQnB4QmJSY09xZlU4ekx6TDh1RS1NZE0yTWtYX2ZBU0NB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "b5f6746d96341b633f998e29cf8a43c7",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "AI used in cyberattacks, some originating in HK",
+   "summary": "AI used in cyberattacks, some originating in HK&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42aTVNUVJCTkdmVmlrLUhIenRKQUdxX1ptUnhDa3NPUzkwZFNfcWFhXzEyUFhleFB3MGVzYW15MTFrbm5mczd1SWIzeGNwOEFJY0twSzlIT1JkWV9CZXEyUktNYVhIYzh1c1hZU25tcVA5bkVaTWJRV1FR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "bb133b74922cb4dc75404262838b1811",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "MOFA begins withdrawal of staff from office in PNG",
+   "summary": "MOFA begins withdrawal of staff from office in PNG&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zb2l0MXJSUXJQbnJYcjRCczczUGpuTG9PX2ZrRkt2Y0dPR1BlTTNvc1drVXowNGhOYUhxTzJ3OFVncmZNbXpZWngtRnVyM0ZsbEs1eUdJaVh0dm1kMHRXR3g5X2d6MTJWdFZ6SlhpeE5nQ1ZXeHppTEhR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d677b1d6c8c8cc147ac6ce52da59becc",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Army does not interfere in elections: official",
+   "summary": "Army does not interfere in elections: official&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjaGpSNG9YSl9wR2pTeFRsa3FnUmJDZU5TMkZNVEtFV00tMGdOVzhiZWN6bktXYWZPc21sRXZLc3lVVVZkQUZORGRiV0xzWlR1dGJYQmZqT2xabUJqTTgzM2JmeGJTb2FoSVI4aGdPYjRkMGxVbDZncjR3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "688201b3474345364c3b0309ca651ec7",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Authorities issue NT$12.53m in fines for ads",
+   "summary": "Authorities issue NT$12.53m in fines for ads&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83ZWQ0bHZHSE85UHdud2RWZWtBaG4yNDFjc0ZBck9iR1RnaHhnbkVuQ0VZWWJwdDZlUjhXU0lyWUhrdHZYbVloMEhfXzJhZ2txd0hJZmZMWmRoYmZleEsybVFXa3NVc1U1X0lKV2dpWXo5ZHE0Q05BYUJ3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "a3fa805598cccdc2b07058bafe6a57dc",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Ministry weighs tougher rules on e-bikes",
+   "summary": "Ministry weighs tougher rules on e-bikes&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAtcDN5dE1lMXp1UF9NSkhNSlYwLWp4YUxRREhFVGZCVUpkZVVlOGd4VENqeFRhUTZlamxGZXplV3lxSTF0THZ6dlVsQWUtZzloRDNKWm9lV2RiZ01NdWdTZm9OSS0xTnh2NFQ0SUF4OF9HMVJkcDhqWGt3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "51fc7cd7bf760a95fe8762e98d2dd266",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Brave Eagle trainer fleet grounded after brake malfunction",
+   "summary": "Brave Eagle trainer fleet grounded after brake malfunction&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9veUp1RTQ4MV9CanVzN2o2RFlEV0llVzdSTGR2LVRZbmoyUUNyQnduVEQxWTNjQ3RpelRtTWNWTWFBRHlqNGRfRDlJRXlGcHY1VUVyLTd2ZDFWYkEwV2hDVEc4U3lOMi1wRl8ySDgyUWN1d0JwM1JibU13?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c056248ed8720456419c15ef9a094fe0",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Premier touts success of dorm-renovation program",
+   "summary": "Premier touts success of dorm-renovation program&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0MHBkc1RGQ0FzUXMzN3ZSN2l1YjhQNmY3MkNyeFdVblFmVXM4clNuZ3dWTngzcmhaMS0tS01Fa2VJcXpjV2xLbTdYU1l1c2x0UXM1WS1SQ0lfcVQwcTVMUW1ldUVrSWZYM3FOM240S1ptN1EtRVRhVGhn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "5e10c8fcb2f938ba1a610ec6d84dc01c",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Legislature uses AI to read legislation for the first time",
+   "summary": "Legislature uses AI to read legislation for the first time&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sZ2FFWVNmaXNVUDh0STJXamZzNF9od3laN09Mb2QwcW9oNnFScjQzb01rcGpxN1VZR3JZak1GVjBzY2xlTE9jZ1luX3I0NWRwYkp1empqUzhwMk5fMllWUGM1QjdKNU44dU9wUTFwN1huRGFrZnZaN1V3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c9321a80a0ade5a4e23645c3dbd3dbaf",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Court rules Taichung HQ of KMT illegally obtained",
+   "summary": "Court rules Taichung HQ of KMT illegally obtained&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE03NlRCUHd2cUJScHRkQW5IZXhzYmUyV3RQc3NhNkZTY2x6azBBRHJyT0xITmZEVUhDV3BJRU5mOGNENEtiN3V0aTdSUzdzVFA1bjk5S3lodGhaNF8xVTlMb1pGNngtNTZFUkplOEtqYjZiSVE2UFYxSHlR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "6195878c2644582ccc8886507238f2c7",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Indigenous goods",
+   "summary": "Indigenous goods&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0yTmpaczdOVjhwWk5hR1dObkF4OUpFMW9yQ3FqRkpHNXVpaVVOQkZfOS1OQ3FoblZyUzg4QkFyZDNOSFZkRWxrd2ZNVVhHRzBIWkFzR182MlZzbWdkaTRfOTBOQ0VLdncyblRKUm5qbGRyekVRWE9sTHNn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "7d5af031fb333b8a013ddcdca468fa85",
+   "published": "2026-11-12T08:31+05:00",
+   "time_tashkent": "08:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Taipei Times",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "A-peel-ing produce",
+   "summary": "A-peel-ing produce&nbsp;&nbsp;Taipei Times",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE55X2RvRWFiODN3VW9GMTJjNFUxTWFIVDEyZ1VPVnNlMFJvUnRveFNWZnFvb1JhR05fSEFGZzZwMExTcDNHb0xpQ2pBWkYzYVBSNnpVM2xfdW9NWWN2eExuMzhhaFFBa1g0TjBNb0Y5WTMwQzlhb2pld3ZB?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -82,10 +388,18 @@
    "title": "Elon Musk says it would be an 'honor' to hire Nvidia's Jensen Huang",
    "summary": "The post on X comes amid reports that Nvidia's board is preparing to oust Huang.",
    "link": "https://www.cnbc.com/2026/11/12/elon-musk-jensen-huang-nvidia-tesla.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "AFP.com",
+    "Bloomberg Politics",
+    "Bloomberg Tech"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5MY25CUjNvSW96QW1oS2M4RDZuMUoyLXAtYU5ZSml2N0ZRMVoxelVKRkEyVmt6YVFrMm03ZnFXb2NWVms2UGtTUkVUcw?oc=5",
+    "https://www.bloomberg.com/news/videos/2026-11-12/the-rise-and-reckoning-of-jensen-huang-video",
+    "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video"
+   ],
+   "sources_count": 4,
+   "confirmed": true
   },
   {
    "hash": "cc84656cce23ad3438471a10a84a8ff7",
@@ -99,10 +413,14 @@
    "title": "Israel’s Elections and the Future of the Middle East - CSIS | Center for Strategic and International Studies",
    "summary": "Israel’s Elections and the Future of the Middle East&nbsp;&nbsp;CSIS | Center for Strategic and International Studies",
    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pQVNWbnZEcUprQTBzSkptSzVyeDNrQTUwbDBOUkpJZkZzTlVtRjZfT2FQd1IwM1phN3Zya3ZZT3NKbm1qbkhuWG9xelhpLU9zM0dEWkkwQkc0TmhPTDlLTDNoSWpFcDNEWDl2cWpTZ1NnZEJfNzVz?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "GNews/СМИ Ближнего Востока"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VRjhzZHlDN2xUU0lvck0ta09jUlhpbGc3MElXcngzOXRWSzBGNUtzaTBXaVF0R2E1d0RJS25fM191amRKeUFKTlFGaWRVTHlmRVNjcDZXamIwYkNRVlhtY0dqemt3TUhBUDN3VmVkenFfUTMyVTVRc1p4TXI?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "3f4edd34534aaec0cf92b8d678b4e0ee",
@@ -201,27 +519,14 @@
    "title": "Why India and Pakistan's stock markets are rallying after the US midterms",
    "summary": "Stock markets in India and Pakistan have rallied following the US midterms, buoyed by hopes of easing tensions with Iran and lower oil prices. But analysts say the gains are driven by different factors, and lasting economic relief remains uncertain.",
    "link": "https://www.channelnewsasia.com/asia/why-india-and-pakistans-stock-markets-are-rallying-after-us-midterms-6544681",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "f49258c6b571e290861dd67ff6517df5",
-   "published": "2026-11-12T08:20+05:00",
-   "time_tashkent": "08:20",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Times of India",
-   "feed": "GNews/USA-China",
-   "paywall": false,
-   "title": "G7 members raise alarm over China's activities near Taiwan",
-   "summary": "G7 members raise alarm over China's activities near Taiwan&nbsp;&nbsp;The Times of India",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXl6U2dwQk1HcmpyVGlwcjFYTXJXZVRFd0JoNFA0dVdLdUZhLTROMFB2cUc0UXlHUV9TN3lqT2lhRU4waVZuZm1TRC05QkwzVmpqRDRUZG11cThPMjdCMWszTXE4eUVXMHN2TndCaGY0ZGswcE1IRmNEeUN4eEFrOXV6UHgyNjFZQ1gyRzZKZlpPMEdJQlktZEZ5TUdNWU9HQWc4eWhWNnlqLWxfUzZad3g1bjRLTnoxOUY3MnNTb0pwOC05MGNYUzBGMmtGT1Fxdk9XUzVR0gHbAUFVX3lxTE5qa0F3U1pLVmZuUVNCUnRqYUtINEtURXlOYmUxUmZBVWZCZUVHSUZWMGM3LUc2aDUzaDQ2LThhTFpPeC1wMDR0RTJxZzdOb1ZqaElSUHMwYngxbjg4eHFWLVI5YTN3SFZjTDJnRVdNUWlSOXFNWU9DUm1hZkhuSVpZNjh0RW5PclM3bnRtRVFXUkJFY1c3MnliYlpOOFo5TlM3MXpwNG5Ca2hvUE4yaFRsT3djeXZKVXNKV0JMaFk3d0JDMS1Ja1JNU2tDT2NJdzZTNXlfdjNvdTZDcw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "GNews/Gold"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzMzQzV0I0VkJEdFM5NVBXZnVUeHhFQ05BWTRWLVdYNHNQQS0wRF95UjZCbUJxWUpfeUpKSXpQazVyTlQ5dWFlekR1WUpHOTNFb1lvWTZlZHl6UmtKX21XTHhB?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "a802c7d0b04dc0cc74eef12970d32233",
@@ -235,6 +540,27 @@
    "title": "BREAKING NEWS: Russia order to put JT assets under control \"unusual\": Japan minister",
    "summary": "BREAKING NEWS: Russia order to put JT assets under control \"unusual\": Japan minister&nbsp;&nbsp;Japan Wire by Kyodo News",
    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtVlBWQlZVTzk0akZqWnBtbVVfd2JZNnRkbGlwTHBjZEVaMm9QWkZsMjZtYkpMSGlLWC1GV21TRDExU1NRcTZZNzV6QXZBNUZyd05ibHNGZzVFUQ?oc=5",
+   "also": [
+    "U.S. Department of War (.gov)"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBEOFhEbXE3MHp6UEsxd2FTcU51eHNUUXozX0RzX2pDazZiZ1hIZm5QNXpBQ0VyMERHdFF3ak44ZkRaNzhiYk0wbHF3eVB2Q3dqR0FBUW9nM1dYb09jQUZkVlFMS1poWGN5?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "f49258c6b571e290861dd67ff6517df5",
+   "published": "2026-11-12T08:20+05:00",
+   "time_tashkent": "08:20",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Times of India",
+   "feed": "GNews/USA-China",
+   "paywall": false,
+   "title": "G7 members raise alarm over China's activities near Taiwan",
+   "summary": "G7 members raise alarm over China's activities near Taiwan&nbsp;&nbsp;The Times of India",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQXl6U2dwQk1HcmpyVGlwcjFYTXJXZVRFd0JoNFA0dVdLdUZhLTROMFB2cUc0UXlHUV9TN3lqT2lhRU4waVZuZm1TRC05QkwzVmpqRDRUZG11cThPMjdCMWszTXE4eUVXMHN2TndCaGY0ZGswcE1IRmNEeUN4eEFrOXV6UHgyNjFZQ1gyRzZKZlpPMEdJQlktZEZ5TUdNWU9HQWc4eWhWNnlqLWxfUzZad3g1bjRLTnoxOUY3MnNTb0pwOC05MGNYUzBGMmtGT1Fxdk9XUzVR0gHbAUFVX3lxTE5qa0F3U1pLVmZuUVNCUnRqYUtINEtURXlOYmUxUmZBVWZCZUVHSUZWMGM3LUc2aDUzaDQ2LThhTFpPeC1wMDR0RTJxZzdOb1ZqaElSUHMwYngxbjg4eHFWLVI5YTN3SFZjTDJnRVdNUWlSOXFNWU9DUm1hZkhuSVpZNjh0RW5PclM3bnRtRVFXUkJFY1c3MnliYlpOOFo5TlM3MXpwNG5Ca2hvUE4yaFRsT3djeXZKVXNKV0JMaFk3d0JDMS1Ja1JNU2tDT2NJdzZTNXlfdjNvdTZDcw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -401,10 +727,14 @@
    "title": "Antengene Presents Latest Preclinical Results of ATG-207 (αCD3-TGF-β Bifunctional Fusion Protein) at ACR 2026",
    "summary": "Antengene Presents Latest Preclinical Results of ATG-207 (αCD3-TGF-β Bifunctional Fusion Protein) at ACR 2026&nbsp;&nbsp;Taiwan News",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoRGRCXy1qU0U0NFAwSHljbmV6aE4wVHJhTTRmNGNON3pCSVdhR1lOdjhFRGlfb0t4SENnV2tvRU9QdnFmUnp5V1BpMll1bWJkenpac3ZlU3Q?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "AP News"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "95ef4cf7a1251094ac36c823423708c2",
@@ -672,6 +1002,23 @@
    "confirmed": false
   },
   {
+   "hash": "f684af9e4360d12b24cfdaff58f1203a",
+   "published": "2026-11-12T08:00+05:00",
+   "time_tashkent": "08:00",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Politico EU",
+   "feed": "Politico EU",
+   "paywall": false,
+   "title": "The Kremlin can hide the death toll. It can’t hide the graves.",
+   "summary": "As the war in Ukraine drags on, Moscow is taking great pains to suppress casualty figures by closing databases and prosecuting those who document the dead.",
+   "link": "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "6ad8f23eda71386367d70709f31d207b",
    "published": "2026-11-12T08:00+05:00",
    "time_tashkent": "08:00",
@@ -723,17 +1070,17 @@
    "confirmed": false
   },
   {
-   "hash": "f684af9e4360d12b24cfdaff58f1203a",
+   "hash": "86b389e35364ad0b903009c4967fa2e6",
    "published": "2026-11-12T08:00+05:00",
    "time_tashkent": "08:00",
-   "region": "ЕВ",
+   "region": "ЮА",
    "type": "smi",
-   "source": "Politico EU",
-   "feed": "Politico EU",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
    "paywall": false,
-   "title": "The Kremlin can hide the death toll. It can’t hide the graves.",
-   "summary": "As the war in Ukraine drags on, Moscow is taking great pains to suppress casualty figures by closing databases and prosecuting those who document the dead.",
-   "link": "https://www.politico.eu/article/kremlin-hide-numbers-cant-hide-graves-russia-ukraine-war/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "title": "Arson attacks target vehicles, train carriage",
+   "summary": "Arson attacks target vehicles, train carriage&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTmMxTnBURjh2TzcyaGJ2Z01McS1fX1FYNW9LYWo0NElmRlJyN0dkMEhEdDVHYTlrR0w1X1BjSTFKVFo3SWxJWXVtRTRCaHJyOWd6a0RDLWRpV1lQeHFnVE81ZkRYNmhDdF9tRXBSbDliaGk2TUhLeVROdktvdkpYdnNFQTkwZTJKS1VTbnVlTEVFMWRUa1lVRDFkVnhTUXhjcm9RSmItNWQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -751,6 +1098,40 @@
    "title": "Oil slicks seen from space: the devastating impact of boat strikes on fragile Gulf ecosystems",
    "summary": "Since the US war on Iran began in February, there have been hundreds of oil spills, posing a ‘generational’ threat to wildlifeThe vast, dark slicks in the strait of Hormuz are visible from space. Throughout October, oil tankers were struck by missile",
    "link": "https://www.theguardian.com/world/2026/nov/12/oil-slicks-seen-from-space-the-devastating-impact-of-boat-strikes-on-fragile-gulf-ecosystems",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "2e1ed4592864766b282185930b9aeaa3",
+   "published": "2026-11-12T08:00+05:00",
+   "time_tashkent": "08:00",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/HOTSPOTS",
+   "feed": "GDELT/HOTSPOTS",
+   "paywall": false,
+   "title": "Could next week meeting of this century  Big Three  end divide - and - conquer  forever war ? – World Tribune : U . S . Politics and Culture , Geostrategy , China , North Korea , Corporate Watch , Media Watch",
+   "summary": "",
+   "link": "https://worldtribune.com/could-next-weeks-meeting-of-this-centurys-big-three-end-divide-and-conquer-forever-wars/",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "bc8a363762f21e0744ba45295d2a321b",
+   "published": "2026-11-12T08:00+05:00",
+   "time_tashkent": "08:00",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/HOTSPOTS",
+   "feed": "GDELT/HOTSPOTS",
+   "paywall": false,
+   "title": "2026 US Congress Midterm : Power , Policy and Global Impact",
+   "summary": "",
+   "link": "https://www.dailyexcelsior.com/2026-us-congress-midterm-power-policy-and-global-impact/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -812,6 +1193,23 @@
    "confirmed": true
   },
   {
+   "hash": "d8911b4fdd8b70030dea553fac92c259",
+   "published": "2026-11-12T07:56+05:00",
+   "time_tashkent": "07:56",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Korea Herald",
+   "feed": "GNews/Корея и КНДР",
+   "paywall": false,
+   "title": "Lee Daehwi to host 1st solo fan meetup in Japan",
+   "summary": "Lee Daehwi to host 1st solo fan meetup in Japan&nbsp;&nbsp;The Korea Herald",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00Wl9PT0hvcGI2bVczaGdFV1hqRXlvckhGOTlyQmFQUzk3VUt2YzJDTWdQd0tQcXJKeHY2ZlUxUjJsbmRCMkFqSkQxRTMxV2RWOXgyVnVXYw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "f8107aad7490e509bfd1990682fc8f8f",
    "published": "2026-11-12T07:56+05:00",
    "time_tashkent": "07:56",
@@ -840,6 +1238,23 @@
    "title": "Baoying County in E China steps up efforts to improve childcare",
    "summary": "Baoying County in E China steps up efforts to improve childcare&nbsp;&nbsp;People's Daily Online",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1VdkRvaFdpVnI5VThldzVQbDBnY3BMakhDZ3Vxb0E5dEI0eGw2Q2xaX25feE9yVk5Fb3Rxc3JjdkdFX2pQTUc4aXlYZzJjWmx6S3JWNHAtRHFVNjhOZzRIX1Q4VQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "f776934b5a1d2c072658eeb918f55612",
+   "published": "2026-11-12T07:55+05:00",
+   "time_tashkent": "07:55",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Australian Broadcasting Corporation",
+   "feed": "GNews/Австралия: СМИ",
+   "paywall": false,
+   "title": "Secret Erin Patterson evidence could cause 'massive publicity', court says - ABC News & Headlines",
+   "summary": "Secret Erin Patterson evidence could cause 'massive publicity', court says&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzZOVlk4MTlWcm1zV1NNeEFuaWVHRWFwTVVuN2owb3VUQU0zNG9iX1htWFhwOEdvQlJRcmVnSGZrcFZQUm82MV9QZWtpbzJ5V0xWdWhzVjJCdTV6UzZ0ZXhGd1NZTGNaeGZ0bjBfTGJoU2RiaEx6TUlGa0VBYkJZYktzcm93NmoyLXRaYkpXMHRCbFNxN0pSdmxHTHJ6U0U?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -905,6 +1320,23 @@
    "confirmed": false
   },
   {
+   "hash": "06af8ba73de2380ee8c60d52c05b798b",
+   "published": "2026-11-12T07:50+05:00",
+   "time_tashkent": "07:50",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Australian Broadcasting Corporation",
+   "feed": "GNews/Австралия: СМИ",
+   "paywall": false,
+   "title": "Man dies and toddler critical after being pulled from water on Mid North Coast - ABC News & Headlines",
+   "summary": "Man dies and toddler critical after being pulled from water on Mid North Coast&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ0pUbkEwTEVka01wb2tpR09Bek1IVTJzNU1rUjZTUERlOHdsYTA4UmR3NHJGd3NnQ1Z4dDd2RmdVR1R6LXFDRUVobzVBc3JuaUhmVmh2UDRsRGtxSlVaWDVaTjgyWF9XNWpLY0hwNC1hRXlWZEZwZ3Iwc0xmQklTdXNFUHZPTGMtdmNfTHVwTnh2emdoUUUzVWE0Wk1jZk4tRk1oT3JkTVg1ZUNENVE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "1b582b639cb288e7584622ca19ff8d74",
    "published": "2026-11-12T07:49+05:00",
    "time_tashkent": "07:49",
@@ -933,6 +1365,23 @@
    "title": "'Delivery Poet' Wang Jibing visits Renmin University",
    "summary": "'Delivery Poet' Wang Jibing visits Renmin University&nbsp;&nbsp;China Daily",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE05RGlualZQcWdWMVFseFVoQmF3WUt3dkIzcEczS2p4MDFiZXBTNkJybGJNVjYxcmR3N2tZWlpaOFZhZ24tSS02WWg0bmQzc0NUWHBLTHpLdDBHR29Ta280R0JVcVoyUXhqdWdHa2lWcmh5WFRGdEhCMU9iNzlRQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "be247c8edb1c8e014ec0198e8e1dfae4",
+   "published": "2026-11-12T07:49+05:00",
+   "time_tashkent": "07:49",
+   "region": "МИР",
+   "type": "smi",
+   "source": "AFP.com",
+   "feed": "AFP",
+   "paywall": false,
+   "title": "Canada buying stake in AI firm Cohere to bolster tech sovereignty",
+   "summary": "Canada buying stake in AI firm Cohere to bolster tech sovereignty&nbsp;&nbsp;AFP.com",
+   "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4MVJ5Uk56cUdPb2w5aU84VG80QnI3VkpXUkQ5czJkT2xUaWxNNE5ZZ0J6Yy1xeEZIU1pVNFNOaWxZU3Y5RVdoNjJZbw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1292,14 +1741,16 @@
    "also": [
     "ABC AU Politics",
     "NHKニュース",
-    "AFP.com"
+    "AFP.com",
+    "The Straits Times"
    ],
    "also_links": [
     "https://www.abc.net.au/news/2026-11-12/new-york-brooklyn-building-collapse-rescue/107376940",
     "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2YVlRZk80MWZTR1E5WHZhZnI4bC1ka0pkRHBnNmJzalFDUmtOaVBNbUU1NUhnaC15YTJiZXNiWVh3bU1aTERTSmR0cDllQldYM1hud0l4V3FQWGh2M2o4R0hJMA?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVd2dkJucVkzUk9pc1BUdFNzZVE0WTJBQ2xTaWFMckpxaVlZRGV1LWdOcnNMWTIxbThyVWlDYnFydzhUdXdJc05kdElfc1pCV0kwRENUSnpfYW14WnpkOElEczI2cThOQlVxb0RHV3pra2hDbE9DNEMxYUhYSUU3ZEJXNmhRemtu?oc=5"
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYVd2dkJucVkzUk9pc1BUdFNzZVE0WTJBQ2xTaWFMckpxaVlZRGV1LWdOcnNMWTIxbThyVWlDYnFydzhUdXdJc05kdElfc1pCV0kwRENUSnpfYW14WnpkOElEczI2cThOQlVxb0RHV3pra2hDbE9DNEMxYUhYSUU3ZEJXNmhRemtu?oc=5",
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazlwY0MzaUlXbjVPSlF0TG9sU2Uwb3I2T3AwQXFlQkVKMUNiSkZrQ1dlVUljdk9rcVdSZ0pQTmFTMThqZy1kQ0Z6a2lmNFdLeV9FMGktUjVraEtONDRERm52b3lManJPOWZwTzVIXzdNeS15LU9KY3BJMTdZMXJONHRoeU9mYzR3YkRVQVA3VlhaakNJNUpEM3QxX2UzcXdVdVFLN2dNRVpwd1k?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -1365,10 +1816,14 @@
    "title": "Roger Cook chides Labor MPs after fracas at parliament door",
    "summary": "WA Premier Roger Cook reminds MPs of their responsibilities after a group of Labor members tried to shield their colleague Jags Krishnan from media questioning as he entered parliament yesterday.",
    "link": "https://www.abc.net.au/news/2026-11-12/roger-cook-scolds-labor-mps-who-blocked-jags-krishnan-from-media/107377778",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmRWX3g2X2Z6X3dLdE90UjFnOVd2cktJYkpHZTJSWllBZVZkWlVZUjczY1NRbGdGQThIUExxUHhJQWpvaDF0SXZwNDFhamlkdXByeWF5bG5jUmpKQTZSSThTZEw2RmNKQ1l1T2NJVnFiZTdBR2hoYjl1SUVYZFNKS1JTaEtsWFc4dGJoRy12dEJQWjNWVUhYdFNNdDRGVjY0c0Q1VHAzVVQzcFVTVDdvV1VmWQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "2961a6502ec383d0a68810659665c265",
@@ -1606,23 +2061,6 @@
    "confirmed": true
   },
   {
-   "hash": "e4ab530acdb5353c6481715343cff0ce",
-   "published": "2026-11-12T07:27+05:00",
-   "time_tashkent": "07:27",
-   "region": "АТР",
-   "type": "smi",
-   "source": "SCMP",
-   "feed": "SCMP",
-   "paywall": false,
-   "title": "Malaysian police shoot dead machete-wielding man who severed officer’s hand",
-   "summary": "A foreign man who allegedly hacked off a Malaysian policeman’s right hand during an attack at an apartment in Desa Amanpuri, Kepong, was shot dead.\nArmed with two machetes, the suspect charged out of a residential unit and attacked police officers, f",
-   "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374135/malaysian-police-shoot-dead-machete-wielding-man-who-severed-officers-hand",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "d356513c4a92f0852005293e61e9a01f",
    "published": "2026-11-12T07:27+05:00",
    "time_tashkent": "07:27",
@@ -1634,6 +2072,27 @@
    "title": "China wraps up offshore trust tax transition, declared tax tops 160 bln yuan",
    "summary": "China wraps up offshore trust tax transition, declared tax tops 160 bln yuan&nbsp;&nbsp;People's Daily Online",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtUjJaTHo0R3p3Ujg3SnJEQXNKdGplR2hPcWxicEhGLW0xeEtaTU5FVHY1NUF2NUJQNHlLbmpMNC1VSVpoaE1XcjdTU3FLUnBoNzdSdGZLaUNPa3ItcElPRHNzaw?oc=5",
+   "also": [
+    "FT"
+   ],
+   "also_links": [
+    "https://www.ft.com/content/278528e2-dd2d-4020-853d-2a7a9d49a359?syn-25a6b1a6=1"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "e4ab530acdb5353c6481715343cff0ce",
+   "published": "2026-11-12T07:27+05:00",
+   "time_tashkent": "07:27",
+   "region": "АТР",
+   "type": "smi",
+   "source": "SCMP",
+   "feed": "SCMP",
+   "paywall": false,
+   "title": "Malaysian police shoot dead machete-wielding man who severed officer’s hand",
+   "summary": "A foreign man who allegedly hacked off a Malaysian policeman’s right hand during an attack at an apartment in Desa Amanpuri, Kepong, was shot dead.\nArmed with two machetes, the suspect charged out of a residential unit and attacked police officers, f",
+   "link": "https://www.scmp.com/news/asia/southeast-asia/article/3374135/malaysian-police-shoot-dead-machete-wielding-man-who-severed-officers-hand",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1657,23 +2116,6 @@
    "confirmed": false
   },
   {
-   "hash": "99fdbb9a47a48997abeb009a4e77066c",
-   "published": "2026-11-12T07:25+05:00",
-   "time_tashkent": "07:25",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "FOREX.com",
-   "feed": "GNews/Gold",
-   "paywall": false,
-   "title": "Gold under the pump as dollar sensitivity surges",
-   "summary": "Gold under the pump as dollar sensitivity surges&nbsp;&nbsp;FOREX.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ01yYjVINWJ5cDJ1SWpZTEVpQmZsS0tBdHBnNWtLZUNjTGVReGxmeTFyQXZ0ZHdtOExBQ0F3S0JKU0dQUF9zMzI0WFd6RFphRGwwQlF2ZFpLcTQ3aXVFRTVOckloSFk2OWZhc3NfRDlXelBSNzNMMGYzbVZZVlRwTHZrdWxueHZPbTRFN3ZhQjRrdnI3YVpyVUJVUQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "3719f6f38be0f2bfbdc2d421af512f13",
    "published": "2026-11-12T07:25+05:00",
    "time_tashkent": "07:25",
@@ -1685,6 +2127,23 @@
    "title": "EU ‘ready’ for new Turkey customs deal if Turkey ‘cooperates’ on Cyprus",
    "summary": "EU ‘ready’ for new Turkey customs deal if Turkey ‘cooperates’ on Cyprus&nbsp;&nbsp;Cyprus Mail",
    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHdfUjB3SzBiaUlGbTZma0VDLUh5akhIRWlTUzdjQ3dZcXBkcGRNZl9zZGQ4YzBXdVVLbk5fN3ExOTFBVmlrZEhtYXFyd1EtTlprUkpnd3R4aVRneHBjOEVOLXo3TEpPZjBmWGlQb1hLYVJKTFpXWUxsd3VmRTl6dngycHFZOFpNMGVYYUhsSXB5N0lrbDVPc19XMDY0eXQ5YVM4UQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "99fdbb9a47a48997abeb009a4e77066c",
+   "published": "2026-11-12T07:25+05:00",
+   "time_tashkent": "07:25",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "FOREX.com",
+   "feed": "GNews/Gold",
+   "paywall": false,
+   "title": "Gold under the pump as dollar sensitivity surges",
+   "summary": "Gold under the pump as dollar sensitivity surges&nbsp;&nbsp;FOREX.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ01yYjVINWJ5cDJ1SWpZTEVpQmZsS0tBdHBnNWtLZUNjTGVReGxmeTFyQXZ0ZHdtOExBQ0F3S0JKU0dQUF9zMzI0WFd6RFphRGwwQlF2ZFpLcTQ3aXVFRTVOckloSFk2OWZhc3NfRDlXelBSNzNMMGYzbVZZVlRwTHZrdWxueHZPbTRFN3ZhQjRrdnI3YVpyVUJVUQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1742,7 +2201,8 @@
     "The Mighty 790 KFGO",
     "The Hindu",
     "The Straits Times",
-    "The Jerusalem Post"
+    "The Jerusalem Post",
+    "Internazionale"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcG4ydElyTG1BQmZrZUlOb0sxU1hnT0VnZGxMdkJPbTBpcWFySVFKN2RWVzYzdkFzdUtQTGR1bVFZbVVILVBmWDRJM0dmMDhkZ01UcEFzUW15LTNlZ281aGlDNEN1Y0NyTEMwNzNVUzkySVVQWnlwUklmOTBGelN5UGVXdnZpNjdNTTJ0S2ZGZVFiNWE2WFpDdHAtVFJNRGt0QzRBaw?oc=5",
@@ -1750,9 +2210,10 @@
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZGNpWG5oTnVhSzV0elE4ekdFUlM4QWJMLThOTjVZR0JDeEZKSW1ZNnpsYmNyZi1uaGtIRERqUjdSa0F2Mm92elVlTHBScy1uem5vaUU2WGRJbjVwWDhOeXVlR1hidUdHV18yZXRKeTlUc2hNczlUSGs1Y0dnZ3plS0tTaHN4bjA2R1d1VmJtenljd2lhMlVLZnRRU0t6R1NuaDk1Ug?oc=5",
     "https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece",
     "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT0k4NVNhVlJHS1liWnRGNjlZZUhMdkNHdWhFWGRrUkJJN3FaNEJpRjV0NXVodHpabmFfT1ZJalZlMHNwNHF2UE12czZ0RHdQTjg0R21oQW10VEFmazBUTDVzUHpYM1pZa1huUHRscjVEeG5OM0t3b2IxUDJOanEwaWxOOUdVVC1fX1Y3M3VqaEliQmJpX0FkQjUxR2VSTGtUSWJIcFJORGNoVEw0M0pjOEpUTFgzSVZQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qZ2F1X0xEcTY4U044MGpDRXU4QnNxZDFBSDdEckM2OHNhak1tMmdON3FJYm1MRDVBZzNpU3J5WEN1SDMtR2tUWU1XOElGWXRSNnk2c2lFX3p6RHk5d2xj?oc=5"
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9qZ2F1X0xEcTY4U044MGpDRXU4QnNxZDFBSDdEckM2OHNhak1tMmdON3FJYm1MRDVBZzNpU3J5WEN1SDMtR2tUWU1XOElGWXRSNnk2c2lFX3p6RHk5d2xj?oc=5",
+    "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQcVo2Q1BDSDNaX2R1WE80VTdFRHR3dndVdEFoQXo2Sk5uenVXU2ZTWFpMeFcwZUk3cUtLN242LTZlNkl6bm83Nl9HRGtweXdvVEJjaF9QcVh1OFZMRnlBWHF6SGRONXNxYnIybWIzWlBIelhXRFRwUHJ1SW9YM09NUGEyYXg2bktLNXdGbVlWSVYtRUxUVUx4eEIyRlRCaGQzaWJXSmwzNW80YjVOMDlIdm5tNjZFZ0wtSWxaZDdmMmFiTEQtU29fdG4wYkVGYXdZV0JTMg?oc=5"
    ],
-   "sources_count": 7,
+   "sources_count": 8,
    "confirmed": true
   },
   {
@@ -2009,10 +2470,14 @@
    "title": "Carney, planning for associate EU membership, joins Dublin talks on Ukraine, security",
    "summary": "Carney, planning for associate EU membership, joins Dublin talks on Ukraine, security&nbsp;&nbsp;The Globe and Mail",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXBsQk12d2Y0S2dmdkg3WDhqdFF3OEhjWmN1cjZDZ1J1Nmh3Y3JRNHRDNGpnaE5BLWNWckZHcWR2M3Fzd1F6bW5WNFZRZTQ5c2otMmhLaG1XUUhBc2RtWmlkdHdJNUcxR1Bkb29lRHVIMUM4OUpGUFctUHdKUHozNFkzZUE5V2RKUVhZNExxNjQ1QVpSeDJzWG9xSkZQRnlBSnNVUG1zbFE4enNYQVhMU014OVNqZw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "GDELT/HOTSPOTS"
+   ],
+   "also_links": [
+    "https://www.theglobeandmail.com/politics/article-carney-planning-for-associate-eu-membership-joins-dublin-talks-on/"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "3083cf73b72cd109e30182aa95e35e4b",
@@ -2317,14 +2782,16 @@
    "also": [
     "Rappler",
     "Reuters",
-    "Bloomberg Tech"
+    "Bloomberg Tech",
+    "CNBC World"
    ],
    "also_links": [
     "https://www.rappler.com/technology/nvidia-board-meets-decide-jensen-huang-future/",
     "https://news.google.com/rss/articles/CBMie0FVX3lxTFA1ODl5LXpyQ0RZanVjSnZGS1NjS1ljMjZvdW9xY3ZSSUxvNkY2Z3dCMThiSjdKNHI1TFRCZnBIRHdYY0UxTGh0QjRZX3Y2S25sY0k4M0dKN3VZdGNMSGk5N0tPUmVJa3ozWXRCcmluOWxVVjVfblRLdmttMA?oc=5",
-    "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video"
+    "https://www.bloomberg.com/news/videos/2026-11-12/nvidia-to-decide-on-jensen-huang-s-fate-video",
+    "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-affair-employee.html"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -2410,14 +2877,16 @@
    "also": [
     "Anadolu Ajansı",
     "AP News",
-    "ABC7 New York"
+    "ABC7 New York",
+    "CBS News"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUJVVkZ6Wl9RbXJpV2lZZzhDalZuUDhXcmF0MEs1VVV6cWVxdzRNZjVZdzlVSzM3eW9oYWx5bDJSQ3d5cjJUa19kY2RoN0hPdjBWRHVHMGJrSG9wdlltTzM0eHI4Y2xyUXllY3pBLUwwN0JFVmxDWFZ4SGxObzFTSTNYUDFCRnpDbXczSmFaNlhvMFJJSUp6OG1rYw?oc=5",
     "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNWF4NFNZWmEyenpmSjNGM3A3aTZPcEtCT2dTZWstLW8xNFB6VEgzcGNBekJFN2NzUWxCZEhzWTRHM1JzVk51SDZ3ZWNDcThSaTZia0d6X3Zfc3Q1enFWc0kxNThTUTcxblZQUEE5cVN5VXk5VDdrNW1jeGNmeUNGZjM4UW1SMFdqWmtsUGtnYlhxdUMyd3EtMlRIdjV1MEt4b2ZZWDRsQzgzLTVQOWJnX0Z4NDVFMS1RWUR0cHQzMWdudEQ1RmZtX0JPOERVLWM?oc=5",
-    "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5"
+    "https://news.google.com/rss/articles/CBMingFBVV95cUxOSldxZVJzWUozM1oybklaa2d6bzlrVG5MeUpYX3Q0d2k2SmoyVGloMTZGb3N5MmszMmJ2TzEycUJYbXVUUnhkQmZYOXNaTUNFUm50Z3ZNZWQwai0xeGVMdF9oNVBHbTR6dUdKMi1ONHlveVhPSFNPOWloaGhkQk5FV3NOQVBVekJQaFRmYUF0Z2pGSkZEUWxHZEVDUjRvZw?oc=5",
+    "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTjJyRXI5MzltN2JFTFZsRjlPa1FiZ0E4OGQ4VV90dnJhbjM3Ty1CM01HOVdaek5FWjlSRkJidnduRXdTandwaGdhdnZ0ZVBsZThfVVE5eVhqOU14Z0pqZW8wczBNYWJBTTJLQ0xZWVI0aGdUVFprN2NVSGFTenNuTlpIZjNTaEw4blJRNkNpYWsxcHFlWEdpSEgyb2UzQ3RQTXB0SEVRVQ?oc=5"
    ],
-   "sources_count": 4,
+   "sources_count": 5,
    "confirmed": true
   },
   {
@@ -3256,12 +3725,14 @@
    "summary": "",
    "link": "https://www.channelnewsasia.com/business/south-koreas-lee-says-samsung-chip-packaging-expansion-spur-30-billion-additional-investment-6544456",
    "also": [
-    "Investing.com"
+    "Investing.com",
+    "Reuters"
    ],
    "also_links": [
-    "https://www.investing.com/news/stock-market-news/south-koreas-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment-5020166"
+    "https://www.investing.com/news/stock-market-news/south-koreas-lee-says-samsung-chip-packaging-expansion-to-spur-30-billion-additional-investment-5020166",
+    "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQlRGQlBiSTVaaWVLek9ESklNZld6X05nWWhZOHJJb1JfRjlkRnFNekpUNkU2NEppMkFLTFplak5YWFRVb2d1cG90TWU3SGkyRlFxZXYySnpPbjluUmR0YUp1YjFodnc4M3hQdWw5MWZKaTMtZzZBRUpMRUQtb0pheUthcDRtNWQ1ZFktOFB5eU1BODc4TE5TY0FfSUxfb1JnNnRlbDBMMmN5YmdLSDNpSHFtWjlndS1qdHJSU3p3a0x1VjA?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -4186,6 +4657,23 @@
    "confirmed": false
   },
   {
+   "hash": "da16166a80c4a9424c0c052e8ab893b1",
+   "published": "2026-11-12T06:19+05:00",
+   "time_tashkent": "06:19",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Armenia ready for ‘full normalization’ with Türkiye, welcomes ‘positive dynamics’",
+   "summary": "Armenia ready for ‘full normalization’ with Türkiye, welcomes ‘positive dynamics’&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUENqUl9EZGNMN2xpN21iUWVxejVpelRqa1Fibjc0VjZMSHJhU0lNN19kdkZOcFNvUXhWVG51ZUFHdVhPTVlxekhHQW11QnhoM3A3Sm5SUGlSRUEwZ0pZd0VrLS0yYXh3NDdLY1dXSUN4b0lTREVQVjhtUmZSTG96OTJpZmZra2M0ancwaVNjbXJTcTZ6bHpQb1B2eHN1OUFfV2ZOM0FWLURMcWt0TkowclpUQk13Ylo3R0xqXzQ1cnJIdw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "527dd3340b7911edc392f52a167e9496",
    "published": "2026-11-12T06:19+05:00",
    "time_tashkent": "06:19",
@@ -4210,23 +4698,6 @@
     "https://news.google.com/rss/articles/CBMitwFBVV95cUxONy1SQ05VMnUyQ3dnSXhuMWVlMmpMNlUzZXMyQXAtWU5KYl9OcUVwNmlCa2NLMDZZSmJGZ0FxM3BvUU9Od3M1RjFXdnoxdDVmeDNlcGRiZ3UyMUtkcTMyQ3FYSDBULW5Bc0E4RGpzaXBna2o1c096NS16dW9lS2xsbkRoYnZ1aE1ycEt6cy1kQ2w0SE1ISkc0NUtyT083dDlKUDd5NGZ5ZnY4MjF0TmMwbXBicTVuSjg?oc=5"
    ],
    "sources_count": 5,
-   "confirmed": true
-  },
-  {
-   "hash": "da16166a80c4a9424c0c052e8ab893b1",
-   "published": "2026-11-12T06:19+05:00",
-   "time_tashkent": "06:19",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Armenia ready for ‘full normalization’ with Türkiye, welcomes ‘positive dynamics’",
-   "summary": "Armenia ready for ‘full normalization’ with Türkiye, welcomes ‘positive dynamics’&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUENqUl9EZGNMN2xpN21iUWVxejVpelRqa1Fibjc0VjZMSHJhU0lNN19kdkZOcFNvUXhWVG51ZUFHdVhPTVlxekhHQW11QnhoM3A3Sm5SUGlSRUEwZ0pZd0VrLS0yYXh3NDdLY1dXSUN4b0lTREVQVjhtUmZSTG96OTJpZmZra2M0ancwaVNjbXJTcTZ6bHpQb1B2eHN1OUFfV2ZOM0FWLURMcWt0TkowclpUQk13Ylo3R0xqXzQ1cnJIdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -4553,27 +5024,6 @@
    "confirmed": false
   },
   {
-   "hash": "53c8666195c03954f6caeef9c81341e9",
-   "published": "2026-11-12T06:12+05:00",
-   "time_tashkent": "06:12",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg Tech",
-   "feed": "Bloomberg Tech",
-   "paywall": true,
-   "title": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny",
-   "summary": "Alphabet Inc. began marketing its inaugural Hong Kong and Singapore dollar bond sale, testing investor interest at a time of increasing volatility for companies focused on artificial intelligence.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny",
-   "also": [
-    "Bloomberg.com"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZ5Z0pKYS0wTHBjSE5aYVVqTDgzdzZTQkRaY2ZpNDJWalNEU1hicGEzX3FJd2pjUGNjalZ3dzVyM1Z5RTJSaVNyTGtxR0VCQ3JlU3lZOXg0eXUyWTFsaVQ3Y1ZhOXhMM19OLTN2bGJ4Q094OFM4V1VmVi16eFpFcVhkTkVNbkNZeDd5UnpEZU1CbVRJZHY1SF9yOG4zSVpPbVRVYnhwSkROWVNLX2Iw?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "0b5d2dfad4b581a16d05493a1764b56b",
    "published": "2026-11-12T06:12+05:00",
    "time_tashkent": "06:12",
@@ -4596,6 +5046,27 @@
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzUxQ3FpeW50cXJiS0hHcVN4VDZ3TFJUVkU3Zk9qbktldVg3bVY0bDBqVTExMWxyMHRnZ1FLcEJPcTFWVlpBb1hjUkZ0R3I2anYyaVBSMnE0OUdMdXZXMEdlZ0JseWJoZkktR0xiYWFHYVU4R092VWd6S2h2eGw4N0FtbEVKZEhFZjgwaFZXRldwUFZpWEl4Vy01b1NRWWs?oc=5"
    ],
    "sources_count": 4,
+   "confirmed": true
+  },
+  {
+   "hash": "53c8666195c03954f6caeef9c81341e9",
+   "published": "2026-11-12T06:12+05:00",
+   "time_tashkent": "06:12",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "Alphabet Kicks Off Asia Bond Sale as AI Firms Face Scrutiny",
+   "summary": "Alphabet Inc. began marketing its inaugural Hong Kong and Singapore dollar bond sale, testing investor interest at a time of increasing volatility for companies focused on artificial intelligence.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/alphabet-kicks-off-asia-bond-sale-as-ai-firms-face-scrutiny",
+   "also": [
+    "Bloomberg.com"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaGZ5Z0pKYS0wTHBjSE5aYVVqTDgzdzZTQkRaY2ZpNDJWalNEU1hicGEzX3FJd2pjUGNjalZ3dzVyM1Z5RTJSaVNyTGtxR0VCQ3JlU3lZOXg0eXUyWTFsaVQ3Y1ZhOXhMM19OLTN2bGJ4Q094OFM4V1VmVi16eFpFcVhkTkVNbkNZeDd5UnpEZU1CbVRJZHY1SF9yOG4zSVpPbVRVYnhwSkROWVNLX2Iw?oc=5"
+   ],
+   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -4743,6 +5214,27 @@
    "confirmed": true
   },
   {
+   "hash": "e4c7c0c312303b555a52398ef2aa62a7",
+   "published": "2026-11-12T06:07+05:00",
+   "time_tashkent": "06:07",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Hong Kong Free Press HKFP",
+   "feed": "GNews/Тайвань и Гонконг",
+   "paywall": false,
+   "title": "Nearly 30 Japanese porn stars denied Hong Kong entry, expo cancelled",
+   "summary": "Nearly 30 Japanese porn stars denied Hong Kong entry, expo cancelled&nbsp;&nbsp;Hong Kong Free Press HKFP",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFFGMnpOZHp1UmRPNlgwOHZDcHdqOGp5dUd0RXZiOVdmcHZObG9rMG9sN3pCNi1fUFJhTVJoNjExZk9YWVV5eG13Vl9MUXpUQk1oWFoyVWVrVWswWVdja0pqajVhcGI4bFh6V1ZMUXVRaGpxSUNTVVFoVjkyOS1weklaeG9kNVpYWmRQUnlmNVk5WmVWVjZzdzRFeHpHNTlELURIMw?oc=5",
+   "also": [
+    "Japan Wire by Kyodo News"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTXRwOVZOS3VENXVZbTIzYjhKMFg5VzFtMmZ2M19SOWU4dllJbEtWQzdEWjBidXNzMWZ1aGhLeVNTajZJN0N0VmxDZmdEWS1iUXdsSE40UVBJdw?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "461ec6f6b96ecc807ef7a137ed72f109",
    "published": "2026-11-12T06:07+05:00",
    "time_tashkent": "06:07",
@@ -4777,17 +5269,17 @@
    "confirmed": false
   },
   {
-   "hash": "e4c7c0c312303b555a52398ef2aa62a7",
+   "hash": "1ec0762620b5435edb0482a8237e141a",
    "published": "2026-11-12T06:07+05:00",
    "time_tashkent": "06:07",
    "region": "АТР",
    "type": "smi",
-   "source": "Hong Kong Free Press HKFP",
-   "feed": "GNews/Тайвань и Гонконг",
+   "source": "The Age",
+   "feed": "The Age",
    "paywall": false,
-   "title": "Nearly 30 Japanese porn stars denied Hong Kong entry, expo cancelled",
-   "summary": "Nearly 30 Japanese porn stars denied Hong Kong entry, expo cancelled&nbsp;&nbsp;Hong Kong Free Press HKFP",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOFFGMnpOZHp1UmRPNlgwOHZDcHdqOGp5dUd0RXZiOVdmcHZObG9rMG9sN3pCNi1fUFJhTVJoNjExZk9YWVV5eG13Vl9MUXpUQk1oWFoyVWVrVWswWVdja0pqajVhcGI4bFh6V1ZMUXVRaGpxSUNTVVFoVjkyOS1weklaeG9kNVpYWmRQUnlmNVk5WmVWVjZzdzRFeHpHNTlELURIMw?oc=5",
+   "title": "Warning for VCE students after hacker’s claim that exams are available for purchase online",
+   "summary": "Warning for VCE students after hacker’s claim that exams are available for purchase online&nbsp;&nbsp;The Age",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxON0tpd1FQU1JMLWNLeGRSdzhlR0FzM1k1cEl6d1U1VkkyRU82V2pobEVkeFEzc0VPaVc4cElJSnFvekZYT2ZQQUp0d3Y5dm5tZ2EydVoyaGFpREc1SjZVd3RLUmtNVnExZW90RTYtRThMX3NIQUp1UGotNnhld05CX3NJemVWN1VDZnZjb05ISVRXNUh1OTB6UEdhMmx1MkVoblRVTGNDWG1JNjd0cGp0NjlPbnQwSFhvQ0FJb0t3QTRrX3FyNDQ5MzdTWk1tWHoxTTl0dg?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -5092,6 +5584,23 @@
    "confirmed": false
   },
   {
+   "hash": "7b067b3eb694f410cfa6698219e9c1b6",
+   "published": "2026-11-12T06:00+05:00",
+   "time_tashkent": "06:00",
+   "region": "США",
+   "type": "pay",
+   "source": "WSJ",
+   "feed": "GNews/Home-US",
+   "paywall": true,
+   "title": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed",
+   "summary": "Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed&nbsp;&nbsp;WSJ",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTVMxMWYtSHpfTEN1dUVzcTRpZDBkRUR4ZVBENFJxODZHaEg5WHp0ekZFdENtZEZrNDl5eENKWW11LVJFSGd4T0Y0TVNEQU0wRUhoMW5HMVdsUmZmQThZVV9WdmVXc3ZGM0F5Wk1kRlM0TEFXbG51WUNyWGt3WXlRU1I2cmNoNmNocEtkdkktdU9NTVA1dUhiWHlYRG44aUxTM3VlVmdzOU41T3Z4aGxKbkw4VG5RZw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "333b4254ee248d9fc4b73dc955de672d",
    "published": "2026-11-12T06:00+05:00",
    "time_tashkent": "06:00",
@@ -5211,40 +5720,6 @@
    "confirmed": false
   },
   {
-   "hash": "5002a9f2be1a0fa31f9dc662aa84f446",
-   "published": "2026-11-12T06:00+05:00",
-   "time_tashkent": "06:00",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "OilPrice",
-   "feed": "OilPrice",
-   "paywall": false,
-   "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
-   "summary": "Situated off California’s Santa Barbara coast, the Santa Ynez project operated by Sable Offshore has become a litmus test of President Trump’s determination to revive oil production in a state pursuing a future beyond it. After a decade of shutdowns,",
-   "link": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "21df0310d04d6a2158ebb9d0b42bad36",
-   "published": "2026-11-12T06:00+05:00",
-   "time_tashkent": "06:00",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg",
-   "feed": "Bloomberg",
-   "paywall": true,
-   "title": "India’s BEML to Build Tunneling Machines to Cut China Reliance",
-   "summary": "BEML Ltd., India’s state-owned defense and engineering company, aims to develop tunnel-boring machines in a bet that the country’s infrastructure boom can support a homegrown effort to replace foreign suppliers.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "200ccd0f2904cef06613f4bf45d501b6",
    "published": "2026-11-12T06:00+05:00",
    "time_tashkent": "06:00",
@@ -5345,6 +5820,40 @@
    "title": "Trump’s fossil fuel drive comes as war prompts energy security worries",
    "summary": "Calls mount in Washington for legislation to overhaul US’s costly permitting system to help build desperately needed infrastructure for oil and gas sector",
    "link": "https://www.ft.com/content/9b79e9f6-4805-4299-bf76-1743ac258054?syn-25a6b1a6=1",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "5002a9f2be1a0fa31f9dc662aa84f446",
+   "published": "2026-11-12T06:00+05:00",
+   "time_tashkent": "06:00",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "OilPrice",
+   "feed": "OilPrice",
+   "paywall": false,
+   "title": "Who Will Buy Sable’s Oil if California Keeps Closing Refineries?",
+   "summary": "Situated off California’s Santa Barbara coast, the Santa Ynez project operated by Sable Offshore has become a litmus test of President Trump’s determination to revive oil production in a state pursuing a future beyond it. After a decade of shutdowns,",
+   "link": "https://oilprice.com/Energy/Crude-Oil/Who-Will-Buy-Sables-Oil-if-California-Keeps-Closing-Refineries.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "21df0310d04d6a2158ebb9d0b42bad36",
+   "published": "2026-11-12T06:00+05:00",
+   "time_tashkent": "06:00",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "India’s BEML to Build Tunneling Machines to Cut China Reliance",
+   "summary": "BEML Ltd., India’s state-owned defense and engineering company, aims to develop tunnel-boring machines in a bet that the country’s infrastructure boom can support a homegrown effort to replace foreign suppliers.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-12/india-s-beml-to-build-tunneling-machines-to-cut-china-reliance",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -5587,13 +6096,15 @@
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JWmpEM2t2T2xDS2pLbUR4UkpwdkpzaGRWcnNiSVNjTlNMam82UHNJbi0xaTN3UVB3Z3V3RFJadTd5VE8zTmw4M1ZSczdVSmVBb2FyTkpkczk?oc=5",
    "also": [
     "The Japan Times",
-    "Focus Taiwan"
+    "Focus Taiwan",
+    "Taipei Times"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zX3dIU0FsNm9oX0dZTnlwVGd1WDR4bWt2aVc0N256MHRyVjdVenc0M0ttb2F5MVdzRUN4Ti0xczlJVzF2cjlSWEpxcWxDbW9INDU4a1l2TUQ2a2NEQTVENXJnc1hMdw?oc=5",
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MVzlaTld4OXpYdEMweUUwSThOVUVXYlZmVFgwTnZWQTBFTkRZM1dmTUpkN0VaZGd5Y000SnZGSE5ScS1oelJCTzNySEV0Tll1OUtKN3lB?oc=5"
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MVzlaTld4OXpYdEMweUUwSThOVUVXYlZmVFgwTnZWQTBFTkRZM1dmTUpkN0VaZGd5Y000SnZGSE5ScS1oelJCTzNySEV0Tll1OUtKN3lB?oc=5",
+    "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kX29yejJsUVlIYkE1b3Q5clZTUWFSM25LZ3FydGM2bTB6R3J1X19PRGp3ZUxPYTI2YnZmeGdnU3JkZE9YZzdGMDM4Nm9yVEhaemFBclRmX1BucF9SX1k0RmpzWmVIMzMzaWJzTWJ1cEtJYUtMSmEyYmZn?oc=5"
    ],
-   "sources_count": 3,
+   "sources_count": 4,
    "confirmed": true
   },
   {
@@ -5745,6 +6256,23 @@
    "confirmed": false
   },
   {
+   "hash": "b00d1d3e313db04fe403348e653217c4",
+   "published": "2026-11-12T05:46+05:00",
+   "time_tashkent": "05:46",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "The Kyiv Independent",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "European defense industry - Page 3",
+   "summary": "European defense industry - Page 3&nbsp;&nbsp;The Kyiv Independent",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wcHYwcUNONk8yTW5SRmhEX2o4OVBnenRQOG5ZOUt3Wm5EYWxUMkdGd2lSU2dnXzBqazZzc09PdzJLY3lqaXVRd2lmaGpWclQ5OWQ2UE5XMlhSYVBkWVJFN09kS1RTN2hsS3cwQ0lJOVFzVmM?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "45a55b54e300af3b405381552789570c",
    "published": "2026-11-12T05:46+05:00",
    "time_tashkent": "05:46",
@@ -5779,23 +6307,6 @@
    "confirmed": false
   },
   {
-   "hash": "b00d1d3e313db04fe403348e653217c4",
-   "published": "2026-11-12T05:46+05:00",
-   "time_tashkent": "05:46",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "The Kyiv Independent",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "European defense industry - Page 3",
-   "summary": "European defense industry - Page 3&nbsp;&nbsp;The Kyiv Independent",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wcHYwcUNONk8yTW5SRmhEX2o4OVBnenRQOG5ZOUt3Wm5EYWxUMkdGd2lSU2dnXzBqazZzc09PdzJLY3lqaXVRd2lmaGpWclQ5OWQ2UE5XMlhSYVBkWVJFN09kS1RTN2hsS3cwQ0lJOVFzVmM?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "b4d40b15ad72e760b34fdb0d42573222",
    "published": "2026-11-12T05:45+05:00",
    "time_tashkent": "05:45",
@@ -5807,6 +6318,23 @@
    "title": "PLA's 'silent drills' around Taiwan region? There is little to speculate about",
    "summary": "PLA's 'silent drills' around Taiwan region? There is little to speculate about&nbsp;&nbsp;People's Daily Online",
    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0ydHVGN2RKU1BDdmtjZm42eDBkTXcyOERSTjF6azBrdnA5UF9rX0M3aUtzUkxkNHRkVXRXdzRwUGFYRWQyRFJ0ZTlrYnlOY2R1ZWoxN2xOZjhSOHRUQmRZTkxkSQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "e1daec6653acfb24b9ff3f4a7118691d",
+   "published": "2026-11-12T05:45+05:00",
+   "time_tashkent": "05:45",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Sky News UK",
+   "feed": "Sky News UK",
+   "paywall": false,
+   "title": "Sharp rise in deadly antibiotic-resistant infections",
+   "summary": "Hundreds of people are being diagnosed with potentially life-threatening antibiotic-resistant infections each week, new figures suggest.",
+   "link": "https://news.sky.com/story/sharp-rise-in-life-threatening-antibiotic-resistant-infections-13611268",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7315,10 +7843,14 @@
    "title": "Trump, Netanyahu in ‘shouting match from hell’",
    "summary": "Trump, Netanyahu in ‘shouting match from hell’&nbsp;&nbsp;The Daily Telegraph",
    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQTGM4bDJiQzItMkkyRkNoOTNpWnNhRWJHYkkyb29wWE9OazN6QzN1MzRqWXpIZHo1bE9YNDNaaFRZUHNXcGRqamtGSFg2NHdoZk9lSy1Qa25lTk5paWg3RFF2V2tNSC13cWd5ekNySEJjWnh6Z2VpeExmN0lfSWF2eDBaQnFfMldoMFVYQjhHWVdhT3FpdDlzMU82VkJCemdmOVdIUTFMVkxGVnR6ekdjdGMzQ0pNbjl2WGozNmtmcHVwYlNwZzRPbUFQM0UtUF9XZWlZWTFaM3k1cHlldUd0dUh4QzFUbkpsQy1KeDhhdFBhaW9wYUk0SFR0NElVNmw2bmdmay1LWFZHRmZtOExTWnBRRmE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "GDELT/HOTSPOTS"
+   ],
+   "also_links": [
+    "https://www.dailymail.com/news/article-16285749/Trump-Netanyahu-reportedly-shouting-match-hell-amid-argument-resume-war-Iran.html"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "65dcadd9dd4766dff4f112cbf2cae9de",
@@ -7410,23 +7942,6 @@
    "confirmed": false
   },
   {
-   "hash": "7ae31e4d17ede9e598bf35de4ac073df",
-   "published": "2026-11-12T05:21+05:00",
-   "time_tashkent": "05:21",
-   "region": "АТР",
-   "type": "smi",
-   "source": "GNews/Япония",
-   "feed": "GNews/Япония",
-   "paywall": false,
-   "title": "Tag - The Japan Times",
-   "summary": "Tag&nbsp;&nbsp;The Japan Times",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52Y21QRTY3YUtWaXNKQVhQSk1aZS1QY2kyVGU0TlJwempCR1BVZXQ1ZE5heDNRZUdaSnBrRTctamRZS3pKaXJWTjFGcHV1d0JBZlJzbHJCdWNyRkl2RjhB?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "f4d49cbad301a3425a839a6dc306d5ce",
    "published": "2026-11-12T05:20+05:00",
    "time_tashkent": "05:20",
@@ -7446,40 +7961,6 @@
    ],
    "sources_count": 2,
    "confirmed": true
-  },
-  {
-   "hash": "695945c5628234dfd404e27c1485a7b2",
-   "published": "2026-11-12T05:20+05:00",
-   "time_tashkent": "05:20",
-   "region": "АТР",
-   "type": "smi",
-   "source": "KBS WORLD Radio",
-   "feed": "GNews/Корея и КНДР",
-   "paywall": false,
-   "title": "NO CAP CONFESSIONS | Who Said Romance Is for Anniversaries Only?",
-   "summary": "NO CAP CONFESSIONS | Who Said Romance Is for Anniversaries Only?&nbsp;&nbsp;KBS WORLD Radio",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83UG1QSVhfU0F0U3BKOFh1M2QxTkFlTmlzSXBRZElkYU5tY0VIT3hFMENsc0V5WmpUek1ZOXV0WlctV1c2emUxaVRZLWlZNkZrZjB6QWVibGxUMjFsUUVjN1ctdWlsMEtDdWR2WTA0VEthTEY3dXhzekdmeW45QQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "d869e864ea0134d1ef029a52771139a2",
-   "published": "2026-11-12T05:20+05:00",
-   "time_tashkent": "05:20",
-   "region": "АТР",
-   "type": "smi",
-   "source": "KBS WORLD Radio",
-   "feed": "GNews/Корея и КНДР",
-   "paywall": false,
-   "title": "Average Gas, Diesel Prices Edge Down on Thursday",
-   "summary": "Average Gas, Diesel Prices Edge Down on Thursday&nbsp;&nbsp;KBS WORLD Radio",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LRmdhaHNyRjQ3MlU1TUJDdTd3YmYtRzR0eHplSkRtdWZDNlIyUHkxNnpCM1BfbDhiajU5bE5xQlpkanh1anBNUEppYlVleUkzdElmaE45VmVjR2pCZF9VeDJMa2lWY1prQlFTLWV3UXJrUkd4Unc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "7dfa54df8a81e9e03190913802aed844",
@@ -7580,7 +8061,9 @@
     "ABC AU Politics",
     "Australian Broadcasting Corporation",
     "The Telegraph",
-    "NHKニュース"
+    "NHKニュース",
+    "Al Jazeera",
+    "CNN"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRUJVVkZ6Wl9RbXJpV2lZZzhDalZuUDhXcmF0MEs1VVV6cWVxdzRNZjVZdzlVSzM3eW9oYWx5bDJSQ3d5cjJUa19kY2RoN0hPdjBWRHVHMGJrSG9wdlltTzM0eHI4Y2xyUXllY3pBLUwwN0JFVmxDWFZ4SGxObzFTSTNYUDFCRnpDbXczSmFaNlhvMFJJSUp6OG1rYw?oc=5",
@@ -7589,44 +8072,12 @@
     "https://www.abc.net.au/news/2026-11-12/new-york-brooklyn-building-collapse-rescue/107376940",
     "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ3cxWWRtbHU5aVp0YVV3SHBUaTVfc1JGbHBFZHpUMWNWQ29yX3R0RTYwX3ZHQmpaek9UeEtza2JTLVlUaEdhNGpGbjdHSXJUNlhHTUlfTmFST1FjWDZNMjBFdHRjbHNSSUJ5Tlg1SXVhUTFyeVNQdVBHLUJiaS1DbkpOWHpNc2xHUjlFRGQ1V3hfTEhtOFE?oc=5",
     "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVHRLT0FpZmhVSWJ6X3gwOVljY2tlbllTYmhUSGF3UW1uSjlZTXlwWXgxSGp4Sm9ranBEdFlZdndya3hoMzJsMW02eUtOc2FkN2NEWGxfTjNjUEFsQmp6YlhEeUM1MnB2RTJ4OFRFOWFjUkxzTFlsbG1STmc2OFdiTHdmMmxMNVA1MENwcHNKT2IwUQ?oc=5",
-    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2YVlRZk80MWZTR1E5WHZhZnI4bC1ka0pkRHBnNmJzalFDUmtOaVBNbUU1NUhnaC15YTJiZXNiWVh3bU1aTERTSmR0cDllQldYM1hud0l4V3FQWGh2M2o4R0hJMA?oc=5"
+    "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB2YVlRZk80MWZTR1E5WHZhZnI4bC1ka0pkRHBnNmJzalFDUmtOaVBNbUU1NUhnaC15YTJiZXNiWVh3bU1aTERTSmR0cDllQldYM1hud0l4V3FQWGh2M2o4R0hJMA?oc=5",
+    "https://www.aljazeera.com/news/2026/11/12/building-collapse-in-brooklyn-kills-two-injures-more-than-a-dozen?traffic_source=rss",
+    "https://news.google.com/rss/articles/CBMickFVX3lxTFBKWXhkRE9uLTNUaHlsWExmMDdWSGhaMTJfRUZIV3dWWXlnM0t4NEZla2h4VDJzSjE2SFpCNHBwMVFkdzBKV1FWcnl4NG5BV3k2YzdrRHpOTWt0ZFI5M1hzekhYZFJaM2lnd3psenM2T0lfQQ?oc=5"
    ],
-   "sources_count": 8,
+   "sources_count": 10,
    "confirmed": true
-  },
-  {
-   "hash": "2222fb7d7b0e75906ae395788fb718c6",
-   "published": "2026-11-12T05:18+05:00",
-   "time_tashkent": "05:18",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Korea Herald",
-   "feed": "GNews/Корея и КНДР",
-   "paywall": false,
-   "title": "S. Korean envoy reaffirms Seoul's conditional approach to proposed Alaska LNG project",
-   "summary": "S. Korean envoy reaffirms Seoul's conditional approach to proposed Alaska LNG project&nbsp;&nbsp;The Korea Herald",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9LN1pfQ1o3eUNZdmVhQ1k4eW4zMzFTNlFDOTBwODNFVUwzVURvVDdoREtIcEZIQ1kxMmJZOGRjUGhPbF8wcWp5WHdqakJVOXZzZHAxZEwwRQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "8add800ec05ba50d8b7a82a8155981f0",
-   "published": "2026-11-12T05:18+05:00",
-   "time_tashkent": "05:18",
-   "region": "АТР",
-   "type": "gos",
-   "source": "People's Daily Online",
-   "feed": "GNews/Китай: власть и госСМИ 2",
-   "paywall": false,
-   "title": "China's Yangtze River Delta forges new quality productive forces through coordinated development",
-   "summary": "China's Yangtze River Delta forges new quality productive forces through coordinated development&nbsp;&nbsp;People's Daily Online",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE80bDFlVUpMbG9EQnA2cERONWN3QW93Y0NQUDc0VjhmRFNOenJCN2tIdmlqbXh0VW5wR09obmZua2hvS3duVkl5cndwZEZKdVl4U0pRbmlXT3hNMTJNUlBXdjJGUkE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "01a2c2c9a08b2c7c81c7c9ac4cc8137f",
@@ -7640,23 +8091,6 @@
    "title": "Central banks turn hawkish as Fed, Bank of England and ECB officials signal more rate hikes",
    "summary": "Central banks turn hawkish as Fed, Bank of England and ECB officials signal more rate hikes&nbsp;&nbsp;MLQ.ai",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlBqeUFuTkE1eDZzQWd6N2p2cF9SRTFSUlZxLUNxU01uOUZjTVlJY1NsRHhNN1B5ZGRld1lMTkVpZGhkcTNqTTBMLXNzNmJ2c25NTzV2VWlTSE9xSkduTVRnVGlNLUZaNGU4Q1FDUXpIOXY1d3BaN0pMYmlFYlFSLUQtVG0tNHplbTBtRS1uOFlLeDVnSkRVbWhJX2FCUnpjNGJCX0JEYVhUV0g5RTlRLQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "b02f9c4d59bed5aa0be4f6a6862f44a5",
-   "published": "2026-11-12T05:16+05:00",
-   "time_tashkent": "05:16",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Indian Express",
-   "feed": "GNews/Афганистан, Пакистан, Индия",
-   "paywall": false,
-   "title": "Her father needed kidney transplant, she was lured into donating her eggs: Inside Hyderabad’s IVF racket",
-   "summary": "Her father needed kidney transplant, she was lured into donating her eggs: Inside Hyderabad’s IVF racket&nbsp;&nbsp;The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZlI5ZGxBTFBaZ2QxczJ0dUR4X2J1WDhDNlEwNktfeEhXcG1HMk81QmVrMmVUSFZHLXhDNktncnhuQUpCWG9yNG9zNXg5RFRQbG1BZmVrMi1vbkZoa3dWeXJpV0FwRXVZeWE5TzF1MXdpbWE2Ry1vT0JzY3JzQ1JVTUhvQnA1aFJzc1dWVHRtRDFBWlF3RElsMdIBnwFBVV95cUxOcVZOMVRZOFZhSTR2WkxFNlFramNORUd0SUozZnpDYzREY2lHd01pYlpxR3A5RDhpTGlsQjJVeHl0R0ZZbFBFUVVQVkQ0WnZRMlpVd3NLZFVqUG9JUUdHc1duTGJpZkhPdng4Uk14WUs4N0JIbXM5RDMzMXdwV3VzWnhReUxwTmtoWmNTYkdXdm9QRFBJbVJoTFhFZENnV3M?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7680,23 +8114,6 @@
    "confirmed": false
   },
   {
-   "hash": "46edb65a7c85d287a58e1f6bc3942b26",
-   "published": "2026-11-12T05:15+05:00",
-   "time_tashkent": "05:15",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Yonhap",
-   "feed": "Yonhap",
-   "paywall": false,
-   "title": "N. Korean Embassy in China undergoes renovation amid closer Pyongyang-Beijing ties",
-   "summary": "SEOUL, Nov. 12 (Yonhap) -- North Korea&apos;s Embassy in Beijing appears to have unde...",
-   "link": "https://en.yna.co.kr/view/AEN20261112002200315",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "b308522fad434b9e43308a2eda6a135b",
    "published": "2026-11-12T05:15+05:00",
    "time_tashkent": "05:15",
@@ -7708,40 +8125,6 @@
    "title": "There cannot be a national unity government without the Arab parties",
    "summary": "There cannot be a national unity government without the Arab parties&nbsp;&nbsp;The Times of Israel",
    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWdocHRtOEVfcFo3cXFQVlItMzFTWDIzUnhta0t6TWx5V1dvSTdsX2F2SDQyNVNBd2JiVVgtS3dFY2M1Q3BVWm9NelN1Nzlpb1otWHBwOGZSWi13TjJqSEstMnV5X0ZwcTRSMUk5RWxyTTZsOVBWZUNEM1hTbDJXNWpoWndoRloxbTJOTmhVN19IeXhIN2plWVJCdHR1UURwekNr?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "9061a9fa639c52ba2832911249615ce2",
-   "published": "2026-11-12T05:14+05:00",
-   "time_tashkent": "05:14",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Indian Express",
-   "feed": "GNews/Афганистан, Пакистан, Индия",
-   "paywall": false,
-   "title": "Consumer panel sends two Parsvnath directors to judicial custody over unpaid dues of homebuyers",
-   "summary": "Consumer panel sends two Parsvnath directors to judicial custody over unpaid dues of homebuyers&nbsp;&nbsp;The Indian Express",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeDJjbjNmanZkbGt4aUpETU55TGZkZVVTcld1MVF6Y2ZWcHFpZ2U4NTlwMTJsRVJkTVo5RkVUZWRiQ1hIZXlIUlZ1WFFBaTZteEdOamJFcFZGYWJVOFBJbXBXeDNyYjR5eVB0NVV5Ri1sQlA3M09rSGVwNmhxRm43R3VtbjFHQVg2N2c5OXpyVWt6aXphZ0praEl5WWs3RnB2TFM1UmJYWXY0RURwZFR5SkEtRzBOZjVIUWZ6bkpmOXc4Ync1TUtMdGdUNUtDY2RYZ08yM1dIaHpva0FYT0xHc1dQcHVyTnfSAe4BQVVfeXFMTVZQZVl6X0xKc3VVY0VyZy0wYjBXa1B0ZHFVR004RFd1cnRBZTBxNEhuZ0RKa3VXWkh2WEZJYnNPTm5lNVJTWWRyLUl4TnhfRDhqSnlfcUpHbm1PSWxaTnJCSmsxMjk0dU9DdXcycUR5RnNIUHhtbWZhemR5cVUwbk1Xb2hBQlFtcTRiSk1HcnUwUlZoZWdHTUl3aTFqSC1NVS1NMlNRVWQ5d0VEM0d2SF9OSE9LUzFUYnFqWXByUFBSa0YxejdPc19FNnI4eGYzWGxrR3VHd3lvVFpoOWQyajBhVUhvaUQ0OUZZVWx6dw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "f47a2ec2871cef222be8eaf6a6a1dd55",
-   "published": "2026-11-12T05:14+05:00",
-   "time_tashkent": "05:14",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Korea Herald",
-   "feed": "GNews/Корея и КНДР",
-   "paywall": false,
-   "title": "US Navy commander highlights training cooperation with S. Korea during naval ship visit",
-   "summary": "US Navy commander highlights training cooperation with S. Korea during naval ship visit&nbsp;&nbsp;The Korea Herald",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1lYmxFQUw0UXlveDJuTlNpeHJJMXJGWWplY0VWRThCQmNCbFBGWEdxSERLNEFnUVBHQl9JcVFlUDdGZS1TR1NGRGZYM09yQTdlRUNVcnVkQQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -7775,23 +8158,6 @@
    ],
    "sources_count": 6,
    "confirmed": true
-  },
-  {
-   "hash": "b423595700b599ff63a21e1c8cbace77",
-   "published": "2026-11-12T05:11+05:00",
-   "time_tashkent": "05:11",
-   "region": "АТР",
-   "type": "smi",
-   "source": "KBS WORLD Radio",
-   "feed": "GNews/Корея и КНДР",
-   "paywall": false,
-   "title": "The Changing Health Care System in N. Korea",
-   "summary": "The Changing Health Care System in N. Korea&nbsp;&nbsp;KBS WORLD Radio",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVVlLaW5STEswNl82YjBTcHM1OHdsM21kYTJud25lUXVONXZVdGs5bzlOR2lVNTZUMEgxLUZQbGJRbVl2THNYWWwzWnU0bWtickVwRnVEdE1WOGt5SS1BTmdpNVk1VldIMU1tUXg2cHhMY3pucVpJRVlyaWJCZXpKR1JpQm10Z1JoNjJBUlhaZzg?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "e99416f0c6be62bac5332e8ee482a7dc",
@@ -7839,23 +8205,6 @@
    "title": "Hawley calls for Senate to pass data center moratorium",
    "summary": "Sen. Josh Hawley (R-Mo.) is calling on the Senate to pass a moratorium on data center construction in the period before Republicans lose the majority, the first GOP senator to call for the move nationwide. The Missouri senator listed his five priorit",
    "link": "https://thehill.com/homenews/senate/6214878-hawley-calls-gop-data-center-moratorium/",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "dcab21064b48b0f95f70921398b5a011",
-   "published": "2026-11-12T05:08+05:00",
-   "time_tashkent": "05:08",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Korea Herald",
-   "feed": "GNews/Корея и КНДР",
-   "paywall": false,
-   "title": "Man arrested on suspicion of killing 15-year-old victim of son's alleged sex crime",
-   "summary": "Man arrested on suspicion of killing 15-year-old victim of son's alleged sex crime&nbsp;&nbsp;The Korea Herald",
-   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBYWERoU0hVMWJES21mcjg5SjU0WnlITEpqNTNZM3F3SnNlLWZvSk9pVUZpdDY0X1otUXJOX1psWENSZ0FRSkJFU0w4WkVtM3Bfa0tleWJMSQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -8029,23 +8378,6 @@
    "confirmed": true
   },
   {
-   "hash": "7bb83743db7b57bc255a3847ff2f8552",
-   "published": "2026-11-12T05:03+05:00",
-   "time_tashkent": "05:03",
-   "region": "АТР",
-   "type": "gos",
-   "source": "China Daily Global Edition",
-   "feed": "GNews/Китай: власть и госСМИ",
-   "paywall": false,
-   "title": "University marks a decade of cross-cultural education",
-   "summary": "University marks a decade of cross-cultural education&nbsp;&nbsp;China Daily Global Edition",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQk9RZlcydnRiLUNoRFFnVFFLWHpBOWJhSlJfUFlEb3RBZzc3MC1NSU5QbW05UmdJTnJiLWNJQ0FScDBmQkdxTWdzTlc2c3hSMWJDVFd4S0dMWGItbVQxNEpYelJZc3lLbTBVdUxHRV9TdFdBLVFvSnhpdHpnWG0zYXZR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "912cbe9ee4b6c75d2e113174e2aa7846",
    "published": "2026-11-12T05:02+05:00",
    "time_tashkent": "05:02",
@@ -8156,106 +8488,39 @@
    "confirmed": true
   },
   {
-   "hash": "bc73f0dc08fe4270703a506e3a97912d",
+   "hash": "7381baab4cef2209f9aa88a59b3475c4",
    "published": "2026-11-12T05:00+05:00",
    "time_tashkent": "05:00",
-   "region": "АТР",
+   "region": "ЕВ",
    "type": "smi",
-   "source": "SCMP",
-   "feed": "SCMP",
+   "source": "RTE.ie",
+   "feed": "GNews/СМИ Европы",
    "paywall": false,
-   "title": "Can Southeast Asia cut and paste Australia’s AI safeguards?",
-   "summary": "Australia’s new mandatory safeguards on AI companies could serve as a model for Southeast Asia, analysts say, but the region needs to build its institutional and technical capabilities first.\nPrime Minister Anthony Albanese announced on Tuesday that ",
-   "link": "https://www.scmp.com/week-asia/economics/article/3374089/can-southeast-asia-cut-and-paste-australias-ai-safeguards",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "2e5a3cb35121c993c4ca34e7c417e4c4",
-   "published": "2026-11-12T05:00+05:00",
-   "time_tashkent": "05:00",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Taiwan News",
-   "feed": "GNews/Тайвань и Гонконг",
-   "paywall": false,
-   "title": "Nexteer Announces First Share Repurchase Programme of Up to US$60 Million",
-   "summary": "Nexteer Announces First Share Repurchase Programme of Up to US$60 Million&nbsp;&nbsp;Taiwan News",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1PcmNmeXFwalN4YnJqbkEwYzNFcWhvcHYyZC12Rkk4T1VxeGpyWmdkUGgwQjhwZ0FZYUpneWJNTkluU3RsQVJZdGo0QTNrTzJ6Tlp0bjZlZF8?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "ad0fc46daaee8c035b7baafbc0bf4271",
-   "published": "2026-11-12T05:00+05:00",
-   "time_tashkent": "05:00",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Taiwan News",
-   "feed": "GNews/Тайвань и Гонконг",
-   "paywall": false,
-   "title": "SPGS International School (Singapore) Opens Harbour Drive Campus, Bringing a New Vision for Co-Educational British Education",
-   "summary": "SPGS International School (Singapore) Opens Harbour Drive Campus, Bringing a New Vision for Co-Educational British Education&nbsp;&nbsp;Taiwan News",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEUUV3RUZwVU9mSW81VENSNHNXT2dwY1VVQ1hmYXlWYjQxWEJ2Zzh6R1ZidmFFaWx4eEpzcmgzd2VNOVhWcjFLRjBTd2FjSjFfSDBJMHpfMmE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "d14520a4fb30e7363d91b3d2d148944f",
-   "published": "2026-11-12T05:00+05:00",
-   "time_tashkent": "05:00",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Taiwan News",
-   "feed": "GNews/Тайвань и Гонконг",
-   "paywall": false,
-   "title": "ThreatBook Named a \"Strong Performer\" in the Gartner® Voice of the Customer for NDR Report for the Fourth Consecutive Year",
-   "summary": "ThreatBook Named a \"Strong Performer\" in the Gartner® Voice of the Customer for NDR Report for the Fourth Consecutive Year&nbsp;&nbsp;Taiwan News",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlUWlJUjVDNU9HM1JDUzdWS3YyQ3c5VUJxV05iVmQ2LS1JTUdSU1JRREtYSFExc2RRVGpmRVUxNEdqT1Z4MFhTcDdUTlhFdWc2dkdSc193RVk?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "acb0cdbccfd1c8a085960ce18969e08d",
-   "published": "2026-11-12T05:00+05:00",
-   "time_tashkent": "05:00",
-   "region": "АТР",
-   "type": "smi",
-   "source": "GNews/Тайвань и Гонконг",
-   "feed": "GNews/Тайвань и Гонконг",
-   "paywall": false,
-   "title": "PRESS WEATHER NO. 060 - SOUTH CHINA COASTAL WATERS - info.gov.hk",
-   "summary": "PRESS WEATHER NO. 060 - SOUTH CHINA COASTAL WATERS&nbsp;&nbsp;info.gov.hk",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YWmYzVnFwck5XcU9QaGJIc2x1NTNodlM2czRxOWlnejluMmdKamhzRlFFT280UnpYYVlQR0wwbEw0REVocHNVZW8xcW1odzltMHg0UER1ZWQwOUVoZXp1b1BHRmI4RFJMWjFV?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "c432309ad2f20a92d8c168617deb9673",
-   "published": "2026-11-12T05:00+05:00",
-   "time_tashkent": "05:00",
-   "region": "АТР",
-   "type": "smi",
-   "source": "The Straits Times",
-   "feed": "GNews/ЮВА, Австралия, Океания",
-   "paywall": false,
-   "title": "Parliamentary debates a reminder that feelings and communal ties must not dictate S’pore foreign policy",
-   "summary": "Parliamentary debates a reminder that feelings and communal ties must not dictate S’pore foreign policy&nbsp;&nbsp;The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUjlrQUVVWk5ocXhtSDEyZFRVZDJHRDJWZjFoZWVIcFVVUlJGV3BrQjZJLU14LTgxQkYyUzVpOVBEZzlOTGxaSE8xYjNnWVE1ekdkckk0M25udEVnV0xqQzBNSjRYZTVwVnhtODdnMGhvcVBsWm50dWI2ZTl2RmVnaXVaaUJaZW9waHJZSmlzbXIzeXUyR3o3U084T1lfUlc1MHh0a1lWOXQ2UQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "title": "One killed after New York building collapses",
+   "summary": "One killed after New York building collapses&nbsp;&nbsp;RTE.ie",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmZ3ZvTVhmRVNHNkZPMHZGYko0VURNYVpYZ3RheW1IMGYwQ1RNUmd0UmlCbGIyS3FLT3pxekhkSGFwbjhyeXc4SHpmei1ZNDdENG4zX3ZXZDJkTXVEOGVTMW9xRlNMNW5rcmNHNk80TlJYRmJOdUg4aA?oc=5",
+   "also": [
+    "The Straits Times",
+    "Xinhua",
+    "BBC World",
+    "AFP.com",
+    "ABS-CBN",
+    "Sydney Morning Herald",
+    "CBC World",
+    "Anadolu Ajansı"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazlwY0MzaUlXbjVPSlF0TG9sU2Uwb3I2T3AwQXFlQkVKMUNiSkZrQ1dlVUljdk9rcVdSZ0pQTmFTMThqZy1kQ0Z6a2lmNFdLeV9FMGktUjVraEtONDRERm52b3lManJPOWZwTzVIXzdNeS15LU9KY3BJMTdZMXJONHRoeU9mYzR3YkRVQVA3VlhaakNJNUpEM3QxX2UzcXdVdVFLN2dNRVpwd1k?oc=5",
+    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGxLY1I2RE1YdEFFWnFXcjVVQVctYXZSUk9ZdklqZjRvZFRzdWtPbkl1ZzYxdFhEQ25YSjB4cWpMU3o2NnYteW1FaUZ0cWp2NTZURFpJNVRZVllmM2NxZEdMeThqMzVsTmxWTW8tcGpPR0JlSVU0bFFucUQxaGZpSWk0T282em9tNnRYQXFR?oc=5",
+    "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzN6Z1UwWHYxSnJpSEUyMHhFTFZNVnRhRFVuV0F2dGNuUjV3RTVuZGhDX2RBczF4YW4xeHpkRW45VmxqZWdER1ltWkJzUnYzNGtYb09Rc2NYUUVrTHhRYzFhV3JxWHN1dUpTdmppYjE2RVVKVDBrR0pTRW1DUTF4MDRjQ3RUbG5L?oc=5",
+    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUG9FSVZITFJJcmtJZHNKVVBOT0pFZDhXdTVObWlTOUh6eDRjNzQ4RzRDVF83RlB2V2wzMFhKVGhTcHlrQkpFam9hZFNGWWItTkhlTmdDWjR3ei1id2RfYlo0TzdMZVYyNG1weFduODkzZUQwT3o3TmFFUW53SUdpQlluWDJxUTZwM0Zwd3lpVHZqNFRTa0hGVlFIallodTlxUmVjaU1oZzd1Zks3Z2lV?oc=5",
+    "https://www.smh.com.au/world/new-york-building-collapse-leaves-one-dead-and-ten-people-injured-20261112-p61dme.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+    "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGRIQVZSSG9GWFV6bWUyS2lNcGVyZG5zbGFkWUhjRHh0TUFXaU1rOFRWNDZKVElveW1vUWRDR3hGMzRDTFE1TUhDWHR2SmVrY3ZybThXZ0dXX3JrLXhFc1VjenVnVnBoX3JELURwck1jT3F5c3p0Ykl3Wi1EVUJ3cmQ4VG1fcEw1XzUyVGRjVVdlTWt6aTlGbXl3RXowVTlIT0ZMM1hOcjg0Y2h2?oc=5"
+   ],
+   "sources_count": 9,
+   "confirmed": true
   },
   {
    "hash": "23fd4efb53188d0d55c3d786e5789570",
@@ -8330,41 +8595,6 @@
    "confirmed": false
   },
   {
-   "hash": "7381baab4cef2209f9aa88a59b3475c4",
-   "published": "2026-11-12T05:00+05:00",
-   "time_tashkent": "05:00",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "RTE.ie",
-   "feed": "GNews/СМИ Европы",
-   "paywall": false,
-   "title": "One killed after New York building collapses",
-   "summary": "One killed after New York building collapses&nbsp;&nbsp;RTE.ie",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmZ3ZvTVhmRVNHNkZPMHZGYko0VURNYVpYZ3RheW1IMGYwQ1RNUmd0UmlCbGIyS3FLT3pxekhkSGFwbjhyeXc4SHpmei1ZNDdENG4zX3ZXZDJkTXVEOGVTMW9xRlNMNW5rcmNHNk80TlJYRmJOdUg4aA?oc=5",
-   "also": [
-    "The Straits Times",
-    "Xinhua",
-    "BBC World",
-    "AFP.com",
-    "ABS-CBN",
-    "Sydney Morning Herald",
-    "CBC World",
-    "Anadolu Ajansı"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNazlwY0MzaUlXbjVPSlF0TG9sU2Uwb3I2T3AwQXFlQkVKMUNiSkZrQ1dlVUljdk9rcVdSZ0pQTmFTMThqZy1kQ0Z6a2lmNFdLeV9FMGktUjVraEtONDRERm52b3lManJPOWZwTzVIXzdNeS15LU9KY3BJMTdZMXJONHRoeU9mYzR3YkRVQVA3VlhaakNJNUpEM3QxX2UzcXdVdVFLN2dNRVpwd1k?oc=5",
-    "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaGxLY1I2RE1YdEFFWnFXcjVVQVctYXZSUk9ZdklqZjRvZFRzdWtPbkl1ZzYxdFhEQ25YSjB4cWpMU3o2NnYteW1FaUZ0cWp2NTZURFpJNVRZVllmM2NxZEdMeThqMzVsTmxWTW8tcGpPR0JlSVU0bFFucUQxaGZpSWk0T282em9tNnRYQXFR?oc=5",
-    "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdzN6Z1UwWHYxSnJpSEUyMHhFTFZNVnRhRFVuV0F2dGNuUjV3RTVuZGhDX2RBczF4YW4xeHpkRW45VmxqZWdER1ltWkJzUnYzNGtYb09Rc2NYUUVrTHhRYzFhV3JxWHN1dUpTdmppYjE2RVVKVDBrR0pTRW1DUTF4MDRjQ3RUbG5L?oc=5",
-    "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUG9FSVZITFJJcmtJZHNKVVBOT0pFZDhXdTVObWlTOUh6eDRjNzQ4RzRDVF83RlB2V2wzMFhKVGhTcHlrQkpFam9hZFNGWWItTkhlTmdDWjR3ei1id2RfYlo0TzdMZVYyNG1weFduODkzZUQwT3o3TmFFUW53SUdpQlluWDJxUTZwM0Zwd3lpVHZqNFRTa0hGVlFIallodTlxUmVjaU1oZzd1Zks3Z2lV?oc=5",
-    "https://www.smh.com.au/world/new-york-building-collapse-leaves-one-dead-and-ten-people-injured-20261112-p61dme.html?ref=rss&utm_medium=rss&utm_source=rss_world",
-    "https://www.cbc.ca/news/world/new-york-fire-brooklyn-building-collapse-9.7418579?cmp=rss",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSGRIQVZSSG9GWFV6bWUyS2lNcGVyZG5zbGFkWUhjRHh0TUFXaU1rOFRWNDZKVElveW1vUWRDR3hGMzRDTFE1TUhDWHR2SmVrY3ZybThXZ0dXX3JrLXhFc1VjenVnVnBoX3JELURwck1jT3F5c3p0Ykl3Wi1EVUJ3cmQ4VG1fcEw1XzUyVGRjVVdlTWt6aTlGbXl3RXowVTlIT0ZMM1hOcjg0Y2h2?oc=5"
-   ],
-   "sources_count": 9,
-   "confirmed": true
-  },
-  {
    "hash": "113104f553558167a4559d38de5fcdc1",
    "published": "2026-11-12T05:00+05:00",
    "time_tashkent": "05:00",
@@ -8420,23 +8650,6 @@
    "confirmed": false
   },
   {
-   "hash": "368af0535c818f7714c2bc190604adf8",
-   "published": "2026-11-12T04:57+05:00",
-   "time_tashkent": "04:57",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Philstar.com",
-   "feed": "Philippine Star",
-   "paywall": false,
-   "title": "British Chamber, ASEAN business council forge partnership",
-   "summary": "British Chamber, ASEAN business council forge partnership&nbsp;&nbsp;Philstar.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOc18tRHM4aU9mXzVGaWJkbkMxeWp1V0NUd1FLQnR5TEt0WkxJNGtlT2VZSXFWc0JBclBHcm9Zd0xVekJHY0FJU1pwengxeFV5TXZCM05JVzlMeFhSQlhhLXFQQktDY2ljSFF3OWRDRFEyWEQ1cHdYblVZWUI4Wkl0WkRIRWZLS0l6NWZzLXB6RGFWamdRd1oxMWVHSmdlUllEd25EdjNOTEl3aUQ2UWJ5NzduUy0yeE4zVzRiOW9kWjdNQQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "5fc49feaa4e7f711ba78acd40fb63814",
    "published": "2026-11-12T04:57+05:00",
    "time_tashkent": "04:57",
@@ -8448,23 +8661,6 @@
    "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end",
    "summary": "While American voters are more affected by import duties on Canadian goods, experts said that a trade deal with India could blunt criticism against tariffs.",
    "link": "https://www.cnbc.com/2026/11/12/us-india-trade-tariffs-trump-modi.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "ed4cd823191059bfbf5a45e060475176",
-   "published": "2026-11-12T04:56+05:00",
-   "time_tashkent": "04:56",
-   "region": "АТР",
-   "type": "smi",
-   "source": "NHKニュース",
-   "feed": "GNews/Япония",
-   "paywall": false,
-   "title": "UN chief calls for speeding efforts against climate change | NHK WORLD-JAPAN News",
-   "summary": "UN chief calls for speeding efforts against climate change | NHK WORLD-JAPAN News&nbsp;&nbsp;NHKニュース",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zU3RqOFpHN01GNEgtMkg5cndmM0FVcHUzbkNVLTlqc2JmWVB0dzRITXR5bE5QQ25wU1Q1UnZTQnNrUk5KUkZzWHprUllxaTFxR1UxX1c1MTRuMm5hYmowdHc0QQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -8685,23 +8881,6 @@
    ],
    "sources_count": 4,
    "confirmed": true
-  },
-  {
-   "hash": "d78c582f319a534ba18a4023714f14c9",
-   "published": "2026-11-12T04:53+05:00",
-   "time_tashkent": "04:53",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Australian Broadcasting Corporation",
-   "feed": "GNews/Австралия: СМИ",
-   "paywall": false,
-   "title": "The giant gas project and the billion-dollar funding question - ABC News & Headlines",
-   "summary": "The giant gas project and the billion-dollar funding question&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ25idkRibmNENm5TMkg0ZERSb3dVU3JZZzFEcDduaHZnUEcwbTZBRHR1T0V3bVdUVGdkWU1wek05Y2tPVlNNYVdXbU0yeDhCc3dhTzdKVXI3NTBYUmF6UEl5ZnY0RmlnU2RXR0Q3NXlzOWQ5dWtXa01GUFpfYmstYUNRaG5JQlQtYTh3VTZ1RWFUQQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "d47c89b139c4d0e8300bb986defe4151",
@@ -10077,23 +10256,6 @@
    "confirmed": false
   },
   {
-   "hash": "dfc0a3083bee0d5e9746f032456e1060",
-   "published": "2026-11-12T04:18+05:00",
-   "time_tashkent": "04:18",
-   "region": "АФР",
-   "type": "smi",
-   "source": "GNews/Африка: СМИ",
-   "feed": "GNews/Африка: СМИ",
-   "paywall": false,
-   "title": "East Africa: Uganda's Oil and Gas Investments Surpass Shs57 Trillion As First Oil Approaches - allAfrica.com",
-   "summary": "East Africa: Uganda's Oil and Gas Investments Surpass Shs57 Trillion As First Oil Approaches&nbsp;&nbsp;allAfrica.com",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GeU0yOGRLNXhaVXZ4SlpMUm1yVVE4alpRaWtJb0F3aHN1TkZaMFk4Q2tkdnVpVS1mV3FPTFMtSVJaYWpMRXNIOVNYLUV5cS1nRlpFM05UMDVTLVk?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "e5c2623966c3b88cb6edd7d3fadb75c8",
    "published": "2026-11-12T04:18+05:00",
    "time_tashkent": "04:18",
@@ -10105,6 +10267,23 @@
    "title": "War to cost Gulf over $200b in damage, $790b losses until 2030: insurer",
    "summary": "War to cost Gulf over $200b in damage, $790b losses until 2030: insurer&nbsp;&nbsp;The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMFRLQWVaVXdtaGN2YzRrdHU1MUo4bWhVWl83WUFMRmNMRHVoS2JCb3FhUkZOVDRHR21wX0VvODNJdEZqNTBlajVDSnVFMHYzU1BtcVFNSklwb2ZZQzFWRDBSRS01cHRpWUtfR2lJMmZoLU9NX21PaHh5YzZ1dE5BalZVcXlRenVRT0ltamhfWnBEOUpOTnFrYWpyWmp2Z1Q0dTJmVk9BRHFvcDBEbXF4eERnVE5VLVczN2Vwcg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "dfc0a3083bee0d5e9746f032456e1060",
+   "published": "2026-11-12T04:18+05:00",
+   "time_tashkent": "04:18",
+   "region": "АФР",
+   "type": "smi",
+   "source": "GNews/Африка: СМИ",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "East Africa: Uganda's Oil and Gas Investments Surpass Shs57 Trillion As First Oil Approaches - allAfrica.com",
+   "summary": "East Africa: Uganda's Oil and Gas Investments Surpass Shs57 Trillion As First Oil Approaches&nbsp;&nbsp;allAfrica.com",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GeU0yOGRLNXhaVXZ4SlpMUm1yVVE4alpRaWtJb0F3aHN1TkZaMFk4Q2tkdnVpVS1mV3FPTFMtSVJaYWpMRXNIOVNYLUV5cS1nRlpFM05UMDVTLVk?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -10327,10 +10506,14 @@
    "title": "Secretary of Sport says Canada will not allow Russians to play at world junior championships",
    "summary": "Canada's Secretary of Sport says the country will not allow Russian players to compete at the upcoming world junior championships, even if they already hold valid visas.",
    "link": "https://www.cbc.ca/sports/hockey/secretary-of-sport-says-canada-will-not-allow-russians-world-juniors-9.7418528?cmp=rss",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "AP News"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFA0cEZFTGFSZkFzVHgtS2FKM0tZREVXOFo2UUpYOHl3el9xR3doZGI0VnZLV0lGVUtVdzJHemtRcmw1T21fSWI5X1V2aDlOYnRSNjBwRDdMeGc1NmRGMGVta2RRY1I3TWxOWURsR1lyLThPSmVTQkxNaEZyT2FXeFVkd0dVclNaN2l0aHAxWnNfc1hIWnNz?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "0f2dc69cc9a1a31bc2537ae15a2712a4",
@@ -10518,6 +10701,40 @@
    "confirmed": false
   },
   {
+   "hash": "2b4eace43ab78c3e73e7842bea658ea3",
+   "published": "2026-11-12T04:01+05:00",
+   "time_tashkent": "04:01",
+   "region": "ЦА",
+   "type": "smi",
+   "source": "GNews/СМИ Центральной Азии",
+   "feed": "GNews/СМИ Центральной Азии",
+   "paywall": false,
+   "title": "20:19 Kyrgyzstan again considering issue of electricity supply from Tajikistan in summer - 24.KG - 24.KG",
+   "summary": "20:19 Kyrgyzstan again considering issue of electricity supply from Tajikistan in summer - 24.KG&nbsp;&nbsp;24.KG",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1rbUxpX044eFNKWDhqUFg3NFA0M0Y3N004dk1MMDZYUTFxV0pJZDA4VHU3MURhUHMtR09uNVF2ckxLVTVyeVR6RWl0bjNtMTQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "8173100a97905d1c637c135fcdcd47a9",
+   "published": "2026-11-12T04:01+05:00",
+   "time_tashkent": "04:01",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Council, European Union",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "Valtion- tai hallitusten johtajien epävirallinen kokous, 13. marraskuuta 2026",
+   "summary": "Valtion- tai hallitusten johtajien epävirallinen kokous, 13. marraskuuta 2026&nbsp;&nbsp;Council, European Union",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSlM5dzhTR0tEWi00MkMwbDVwZUt4MnBPNjhFRTJqNUZhU2dDaEhHMmFJX3plR3Zqb3FWY3J6TjFOaFZjNnhuRUZ4TUdwMVd2ZG9iZlUxa25VVW5WblhjQmJQTVRUcDNMbkRWZjh1N3pMb2o2bTNGeXFOVjQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "2d41c42b490087904bdd916aa5b8202c",
    "published": "2026-11-12T04:01+05:00",
    "time_tashkent": "04:01",
@@ -10536,23 +10753,6 @@
     "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTS1DMEFzaGJFUjBZbGVHRGo3Vkt0akFLYzJJYmlhZ3JrRDJZTVlYNTIwaTg4TG8zYk5jNXNvVFhiY29nNC1odGg2WGJnVmJ3dk0ySEg1MjVJYzlIR08tazF4U1BHMjVTbXU1RUFDNTNtaWpoTERmSDhPXzlkdnVaRA?oc=5"
    ],
    "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "8173100a97905d1c637c135fcdcd47a9",
-   "published": "2026-11-12T04:01+05:00",
-   "time_tashkent": "04:01",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Council, European Union",
-   "feed": "GNews/ЕС и НАТО",
-   "paywall": false,
-   "title": "Valtion- tai hallitusten johtajien epävirallinen kokous, 13. marraskuuta 2026",
-   "summary": "Valtion- tai hallitusten johtajien epävirallinen kokous, 13. marraskuuta 2026&nbsp;&nbsp;Council, European Union",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1QSlM5dzhTR0tEWi00MkMwbDVwZUt4MnBPNjhFRTJqNUZhU2dDaEhHMmFJX3plR3Zqb3FWY3J6TjFOaFZjNnhuRUZ4TUdwMVd2ZG9iZlUxa25VVW5WblhjQmJQTVRUcDNMbkRWZjh1N3pMb2o2bTNGeXFOVjQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -10619,12 +10819,14 @@
    "summary": "Chinese memory product maker Hosin Electronics Co. and robotics technology platform Amicro Technology Co. are set to begin trading on Thursday in Hong Kong in a test of investor appetite for technology stocks in the region ahead of Anthropic PBC’s bl",
    "link": "https://www.bloomberg.com/news/articles/2026-11-11/hosin-amicro-set-to-trade-in-hong-kong-as-ipos-gather-pace",
    "also": [
-    "CNA"
+    "CNA",
+    "Bloomberg.com"
    ],
    "also_links": [
-    "https://www.channelnewsasia.com/business/chinese-chip-firms-hosin-and-amicro-are-set-open-mixed-in-hong-kong-debuts-6544461"
+    "https://www.channelnewsasia.com/business/chinese-chip-firms-hosin-and-amicro-are-set-open-mixed-in-hong-kong-debuts-6544461",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRDg1WElDNldKM1hQNk52eWhHdkJDZG5Td2EtYW9fYzZNMEttRHJtb1ZYS1YyeHhRRVNSNmZFdTBqTHgydU5Ka0JyZ05EX2dDTkVjanZsbGtnTW9Odm9ZdDlrVkNQVHZpSjB5NlhneVRhdWV0SENxTnRQMm9FLVpmbS1GU3BxQ1NjRG1lTWNiXzZhOEVJenh2ak1JLWhGVzJtRkltc3F5enIxM2Zzb1E?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -11144,6 +11346,23 @@
    "confirmed": false
   },
   {
+   "hash": "a96de81cbf63714f4797c6431bdf44f9",
+   "published": "2026-11-12T03:43+05:00",
+   "time_tashkent": "03:43",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Tekedia",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Fed Governor Christopher Waller Signals December Rate Hike, Remains Open to Half-Point Increase",
+   "summary": "Fed Governor Christopher Waller Signals December Rate Hike, Remains Open to Half-Point Increase&nbsp;&nbsp;Tekedia",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQzNwMFJoT0NoenNCby1ROWtWaDhvSkt0a2F0aWpCaGdQWFhGb1AtdEY1djBSYkhqWnpkM2wwZmdUWEdYX3FZN2tGelM2SmZUNlVWdFNhTV9YZ1kzU1o5NlhIZmFYVlhtMS1SNG00UXhKREYwbFpkeHQtUHBCRHlqMnJaNW9CcHJtdmNkXzVmdEdWaXNubExfQktRV2NOY0F2S2xWMUtrNkRZTnZJTjI2aFQ0WG9GMDdLcDJr?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "70d4e748f8aee18c554df8c3dcc97caa",
    "published": "2026-11-12T03:43+05:00",
    "time_tashkent": "03:43",
@@ -11565,6 +11784,23 @@
    "confirmed": false
   },
   {
+   "hash": "eeb3eacb9854643a670601d9c93db32d",
+   "published": "2026-11-12T03:31+05:00",
+   "time_tashkent": "03:31",
+   "region": "ЦА",
+   "type": "ofic",
+   "source": "UZA.uz",
+   "feed": "GNews/Власть Центральной Азии",
+   "paywall": false,
+   "title": "President of Uzbekistan discusses implementation of priority projects with Saudi Arabia",
+   "summary": "President of Uzbekistan discusses implementation of priority projects with Saudi Arabia&nbsp;&nbsp;UZA.uz",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXhRT1BLUnEyNS1wTmNuNk9yMTFnSUgtb2hjdzdEZ1BBbC1FbjFrUE5ISTN1aFRBOFExZEN4d1phYzlJOVA0VDlmZTNlOGNfMTFvOUR5MG5GNm9QREpFZ0VqWm9VcnI4T01LenhaSmViN2UwdnlxamhycXJSaFZXZnVLYWVrNHdzeXdRaHUtMnIzVUhYLTdaYjRHNi0yUEpUNDZoQXFLRXpVdHpSVnRycXRnX3Bad2FHblE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "da0f9fc1bf0d204d862649310c710e4a",
    "published": "2026-11-12T03:31+05:00",
    "time_tashkent": "03:31",
@@ -11583,23 +11819,6 @@
     "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSUpnV3dpb0owMzR3YU4xc1pZT1pzMm9qeE1uRVJlVDdFQV9hdlB1emdMa2g2TU1PZFAxcTJNLTNwamhmUzJiMGFwTUJPR1JXdFh2VnZ3QVNJdTFqVEYxZGpNWk43dTQwdkRuNC02ZmVkY2NZQ3FXYnZ2VU1oUDJ0UVJ4c2lnUWFCbVRDeWNaNElQSzM0TzFyWk81SEV0Z0x3WVFtNnZnMl9rbXhuSEFoOQ?oc=5"
    ],
    "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "eeb3eacb9854643a670601d9c93db32d",
-   "published": "2026-11-12T03:31+05:00",
-   "time_tashkent": "03:31",
-   "region": "ЦА",
-   "type": "ofic",
-   "source": "UZA.uz",
-   "feed": "GNews/Власть Центральной Азии",
-   "paywall": false,
-   "title": "President of Uzbekistan discusses implementation of priority projects with Saudi Arabia",
-   "summary": "President of Uzbekistan discusses implementation of priority projects with Saudi Arabia&nbsp;&nbsp;UZA.uz",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdXhRT1BLUnEyNS1wTmNuNk9yMTFnSUgtb2hjdzdEZ1BBbC1FbjFrUE5ISTN1aFRBOFExZEN4d1phYzlJOVA0VDlmZTNlOGNfMTFvOUR5MG5GNm9QREpFZ0VqWm9VcnI4T01LenhaSmViN2UwdnlxamhycXJSaFZXZnVLYWVrNHdzeXdRaHUtMnIzVUhYLTdaYjRHNi0yUEpUNDZoQXFLRXpVdHpSVnRycXRnX3Bad2FHblE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -11676,6 +11895,23 @@
     "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZDNKZUVkc3hWOFZhTW9ZV0hWT3VQSFNmNWRVTlhGcV9DZTdxRWRpRmV1VV9KVlo3VUlDMEVFYXVsbG93WGhtYXlxUE9kNjlqdkVZRDJyNGRLUm5BTnVxbHBTRm5mRkpZdXJKR05DTVBXSDVweGFwTDNwYkJOYzRVNlozU3ZMUk1hQkExNGFXOWFfd3ZaMEl2cC1BaXZMQ3FkNzdTZDBMWVlnZ3czVXA0T2V4eXBCZnpsWXc?oc=5"
    ],
    "sources_count": 4,
+   "confirmed": true
+  },
+  {
+   "hash": "c5c6cb095cc5ab46d8f911d37739ed71",
+   "published": "2026-11-12T03:28+05:00",
+   "time_tashkent": "03:28",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "United Nations Digital Library System",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "the 2012 revision : methodology of the United Nations population estimates and projections",
+   "summary": "the 2012 revision : methodology of the United Nations population estimates and projections&nbsp;&nbsp;United Nations Digital Library System",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOemZyZzdxRzlCczQxMFNNcXVJdmU4MXpRQVBlTWJLVExDV1V3cHg2cF83NkdFN01nVmdSekNySTlJNVY0SE1GNC1kTHhqY010ZUdnWDFHTjFxQllMbVF2MnJVNUgzN0gzQWt5YWxrU2Zua0VBQzk5WVVubm1Sb2hLQklBZXlEbGJZcFpQMjliVTFodC1uRmlLbDNETHJXMXM5RFk5ZmVKMVU0VUNRZF9leTdtdExIYjF2QU9ySV9laFAyb0h3dExmVEN5amNueWY4VXNlalF3UXFHMXZGdzVpUXhSR3hCdFkzYTJyYjRreF9Td0Y1MC1kY0JmVGU5UjF1Z0JCeGFjU2VFVUhZeGVJZUw3UQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -11769,23 +12005,6 @@
    "confirmed": true
   },
   {
-   "hash": "501fca6a27c99b914bed728562f1b3d7",
-   "published": "2026-11-12T03:25+05:00",
-   "time_tashkent": "03:25",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Switzer Daily",
-   "feed": "GNews/CentralBanks",
-   "paywall": false,
-   "title": "Why Australia hiked interest rates faster and harder than any other advanced economy this year",
-   "summary": "Why Australia hiked interest rates faster and harder than any other advanced economy this year&nbsp;&nbsp;Switzer Daily",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnpBTlZucFpwWkJxMDB3UHFnazNlUTJ4a2FIQUROZnpibGtxMGZrYmZhY0FLenRZUmdOQUVac3NjZFQ3U0hGaXR6WERQRUk4MEtPR2VIWDA3YmhUU1VfRWFvbnV0YnpZTkFlNWE4RjNDajRGc3hjUlZlelF1aEtDNWU0UXVHaFY0bURGMHMwY3ctOXFMczRpdTlGZmpMNGhhdlVCdjdRNUFGenoxaURpNEhYbXc1c1phVHc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "0f7a27acb30bafb79b02683b5ac9e576",
    "published": "2026-11-12T03:25+05:00",
    "time_tashkent": "03:25",
@@ -11797,6 +12016,23 @@
    "title": "Pictured: Trump’s gargantuan ballroom dwarfs White House",
    "summary": "Pictured: Trump’s gargantuan ballroom dwarfs White House&nbsp;&nbsp;The Telegraph",
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVk1vSm1aWkJ4TzdnTzRHSHg0Q2V4OWpicjBwanJhVnVLSkVqVGFLVWhLMUx5akVveDNEczFFQ2xqWExGbGU5Nm1IWE00NG9iLS1NOFZIanFuWmJmQWcwZmhjNERMeWY4RHM5OGVSbUVrVW9rOHRvUHhVTVFJS2tla05ZVDJyOVNMTFNDUFhuVWIwMXVPQ000ZA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "501fca6a27c99b914bed728562f1b3d7",
+   "published": "2026-11-12T03:25+05:00",
+   "time_tashkent": "03:25",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Switzer Daily",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Why Australia hiked interest rates faster and harder than any other advanced economy this year",
+   "summary": "Why Australia hiked interest rates faster and harder than any other advanced economy this year&nbsp;&nbsp;Switzer Daily",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdnpBTlZucFpwWkJxMDB3UHFnazNlUTJ4a2FIQUROZnpibGtxMGZrYmZhY0FLenRZUmdOQUVac3NjZFQ3U0hGaXR6WERQRUk4MEtPR2VIWDA3YmhUU1VfRWFvbnV0YnpZTkFlNWE4RjNDajRGc3hjUlZlelF1aEtDNWU0UXVHaFY0bURGMHMwY3ctOXFMczRpdTlGZmpMNGhhdlVCdjdRNUFGenoxaURpNEhYbXc1c1phVHc?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -11926,13 +12162,15 @@
    "link": "https://www.investing.com/news/forex-news/asian-fx-steadies-after-falling-on-hot-us-cpi-yen-near-6wk-low-5017608",
    "also": [
     "Xinhua",
-    "CNA"
+    "CNA",
+    "Free Malaysia Today"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RdUdxajJHeFpXbnVra1NWY1hOcW1veEJoMmkzOW5aM1I3RlBWWFJua05uTG42bDBiTEhFbHoyYS1sYjFhWjZLLV9uUzg5Z041eTRqbmZ4bDZ3WFBpM2M1OGpXS0pQY201SlJmWlVSamF2Nlkwclg0TnFUZW8?oc=5",
-    "https://www.channelnewsasia.com/business/dollar-rises-19-month-high-fed-hike-bets-grow-yen-softens-6544211"
+    "https://www.channelnewsasia.com/business/dollar-rises-19-month-high-fed-hike-bets-grow-yen-softens-6544211",
+    "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRHpScUN0SzlmcnZieUJzSWNWbmpxRHdQbWkxLS1ycUtHVlBXZTZfSk52VHZmY24yeWRnbHlOalF4R0luRVp4eGQ1SElwVmVTdnVOX2xtWnNoY01aME0wYXFVb0l2dGlNZjF6bmZQa05hU1MyY3YxQ2JHQzM2TkRpT0lqSGpqRGQyMGJmRFZyTVQ4OVZ3T3FaV3NmTXh5ZVlFZkR4dWNTeURTeGlNeEZmalZUQ2tHakxtRDRwZ1otWURZWkky?oc=5"
    ],
-   "sources_count": 3,
+   "sources_count": 4,
    "confirmed": true
   },
   {
@@ -11947,23 +12185,6 @@
    "title": "Law firm Latham earmarks cash for associates' AI contributions",
    "summary": "Law firm Latham earmarks cash for associates' AI contributions&nbsp;&nbsp;Reuters",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWDRwZDBSVE5Wb3VXcDY4VU9nOWRJcWp0T1F0cEM5ZU1BaExpSHdZc1YwcllKNXZQM2ZVYURRSVZ2MnpyVTZwcGJmWV9zMENsYlo1VDlxMmJrVkhOT1lYT0YtcVE2elRtZk0xcVhfaXpoZkFaOHhtMXNuRDRfeE1tdk1JZVQtRElRLUg5NDVyamxmTHJxWXE2WU9VRGV6R085X3lpVzNEbXhvdzE3ejdr?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "d071891a3d349428c7ea5a3ff8cc5988",
-   "published": "2026-11-12T03:21+05:00",
-   "time_tashkent": "03:21",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Pelagos Insurance Capital posts mixed Q3 results as Middle East conflict drives earnings miss",
-   "summary": "",
-   "link": "https://www.investing.com/news/earnings/pelagos-insurance-capital-posts-mixed-q3-results-as-middle-east-conflict-drives-earnings-miss-93CH-5019973",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -11991,6 +12212,23 @@
    "confirmed": true
   },
   {
+   "hash": "d071891a3d349428c7ea5a3ff8cc5988",
+   "published": "2026-11-12T03:21+05:00",
+   "time_tashkent": "03:21",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Pelagos Insurance Capital posts mixed Q3 results as Middle East conflict drives earnings miss",
+   "summary": "",
+   "link": "https://www.investing.com/news/earnings/pelagos-insurance-capital-posts-mixed-q3-results-as-middle-east-conflict-drives-earnings-miss-93CH-5019973",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "5bd9a4a77cd286da87ffc2507dc3ee82",
    "published": "2026-11-12T03:21+05:00",
    "time_tashkent": "03:21",
@@ -12006,6 +12244,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "8ab56ae62b86d912a8caa1e633669826",
+   "published": "2026-11-12T03:20+05:00",
+   "time_tashkent": "03:20",
+   "region": "США",
+   "type": "ofic",
+   "source": "Congressman Eugene Vindman (.gov)",
+   "feed": "GNews/Власть США 2",
+   "paywall": false,
+   "title": "Vindman Honors Veterans Day, Highlights Vote on Major Richard Star Act",
+   "summary": "Vindman Honors Veterans Day, Highlights Vote on Major Richard Star Act&nbsp;&nbsp;Congressman Eugene Vindman (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYUxTbHdLYXRNMEVWR0JDWjNYTFFGSC16c295bFhSQ2xKVUl3SFpyM3QzNGE0QjZXcHBiaDNZdG9vNXlQVjdxQXlsT3JBaFgtU1hCdy1YX2Y4SlZIamNnWXBCaTVuWkREdE15cl9kV2RwRTZ2cWY3QmZjbzFycDI0LWQ2eFp2S2lPVDZnRnVMRTRMLXo3YXdaczJjTjdrOVNQdUxOWE9sem43bFU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "1f4eb9cf0fb48f0a6450d815a9f4ff4c",
@@ -12040,6 +12295,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "aa5f86cbe900c331e05db5e546bdceac",
+   "published": "2026-11-12T03:18+05:00",
+   "time_tashkent": "03:18",
+   "region": "АФР",
+   "type": "smi",
+   "source": "African Union",
+   "feed": "GNews/Африка",
+   "paywall": false,
+   "title": "Celebrating Two Decades of Advancing Youth Rights, Participation and Development in Africa",
+   "summary": "Celebrating Two Decades of Advancing Youth Rights, Participation and Development in Africa&nbsp;&nbsp;African Union",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdnE5czFzS2dubVd3UzhMaU52dGU0RTNzT2h2NEF4Zk0zWkZGTHd6eDBFTHZtN2FaOFZLT1JhdmdhRWRDM2tMZExRTEJUNl90ZlBEeV8ycFBJaE1nUzNaT1Uta2FZN0tTdmZMYjJZdEpCVEpjQ3FQcnBaMkpkb0lqQVpHd2FLc0g5S2M3enRqcy1IWVFsckc0VmlaaUdJTUJYMlBUNUVRNVdiYjAtZFVoZjRzcWw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "a1c1696d58398c93fe6bd449fe6a6282",
@@ -12238,10 +12510,14 @@
    "title": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes",
    "summary": "Iran tells COP31 it wants compensation for environmental damage from US-Israeli strikes&nbsp;&nbsp;Reuters",
    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2FSc2RtZWhvZFUxWkp2MGlPTGxDbkM0aTEydVBoMkdUd2VkVVRWV01fblhPSmlKMGo0Q3M5cFZ5MlhlUHRWVlNDRlVGcFdPdS1VYk9KUE16OVFUVDR0bVFWakRpRzctbzRLMDdxUmE1M3lPdzlmWEZLYUxxUlNjdTZyNEV1WndJdk04N050Q21TeEdCbzRxT2gxaWFWRlQzSERXS1RiLTNCaTdMLWZZb3hmRjQxM0NaTXVlWE1aNTVLdUxrTjdDejdWZVBSdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Rappler"
+   ],
+   "also_links": [
+    "https://www.rappler.com/world/global-affairs/iran-compensation-environmental-damage-us-israeli-strikes-cop31/"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "19715cd383e51a8ce3ff14a1e8b3704b",
@@ -12306,7 +12582,8 @@
     "The Hill",
     "RTHK News",
     "The Globe and Mail",
-    "RTE.ie"
+    "RTE.ie",
+    "NPR"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmRPR1E4SjhlNHNfbkdZOFhyb0lNRUxSY0pOUXhNenlRSUFJd0M4NHU0MlRYMGYxdTQxQ3ZnQ3BtUG00RW1ZY3IwamY1aWhicndlaDlpMEJjUHQ5R3AzN2JqRjFhbFBLcndyZFpqOFRCWmJZOWRDLV83MnMxTDFvZi1rbjQ?oc=5",
@@ -12325,9 +12602,10 @@
     "https://thehill.com/homenews/campaign/6165685-colom-mississippi-senate-ousts-hyde-smith/",
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVG9fZzVtY2dQb3lsZUptdGpSOHZ4QWtpTjdPanc1aGRUQXZET2ZrMEdmcGsya1JPQVhOVE9DS0UzaDVzbHpFZXFfQm9KMzRheDBHeTNCSXhjVDFpUkgxaTBSY2NxUk5UaUJrRHBpNXpqODhPN0ZBcFJTMHVma1ZDS2VnVUZnWW8?oc=5",
     "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZy1VQWh0MTYzNEM5Vk55YkNIc2IweFNiNDgyYXVfRHpjZHJqTVZYcnNnNXpuY3R2VDk2SUxhY2VxcFVtQkJhTWtxb1NuR0ZUOW5fMUJBZDdJS0lpQ0VQTHJ5WEpHQ3FrS1gtOGY0SWNyWUdhbGFDMmktNnZoUjVaWUdkR1NMNlU4clgyNU5SNlpZRkJhQnd0cEdxdjl5M2c?oc=5",
-    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYbGI0akp3NXJJSFItUjlkV2EwSUg4NTljMktsM2lhMVlTSzROYXpTNU1tdUhka3JOMEhmYUR1bmNoNmVOMFMxd2JUVzNLbGVDTTJlb0xLLXdiUzc2eHE5WGpaN2pPd043M1JjeTA2bHpxYjJz?oc=5"
+    "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYbGI0akp3NXJJSFItUjlkV2EwSUg4NTljMktsM2lhMVlTSzROYXpTNU1tdUhka3JOMEhmYUR1bmNoNmVOMFMxd2JUVzNLbGVDTTJlb0xLLXdiUzc2eHE5WGpaN2pPd043M1JjeTA2bHpxYjJz?oc=5",
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUWYxYnYzYkpxUnZrN0MyOGFNOUViZVRkZ1NRWHdEVlE3aTd6NDd2Uno5RUJrOW1NMXYzMWc3NEtGOGtISmN6bk5Odjc2REJLdF94QXlBV1AyaWJIUnh0YTBjYW80Q2dEdjNrYlFHdnBUYi1kYWZrQ0Jwd2FJZ3p3ek1LeEZETUgwUXBaYnJWVmRMb2ZjekxUZFRLc05vSktfbTh1X3BxNFM3R0ZlU2c?oc=5"
    ],
-   "sources_count": 18,
+   "sources_count": 19,
    "confirmed": true
   },
   {
@@ -12365,27 +12643,6 @@
    "confirmed": false
   },
   {
-   "hash": "1b0aabf5b294a5ffad46a449b7c94af6",
-   "published": "2026-11-12T03:08+05:00",
-   "time_tashkent": "03:08",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg",
-   "feed": "Bloomberg",
-   "paywall": true,
-   "title": "US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap",
-   "summary": "US stock futures fell as turmoil at Nvidia Corp. sent a jolt through the artificial intelligence industry, tempering a rally in technology shares after the chipmaker was reported to be considering the removal of Chief Executive Officer Jensen Huang.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
-   "also": [
-    "SWI swissinfo.ch"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzlUV2ZtWnAxY2NCZ3JKaTFzU3dpWTN3ejRFYWVsaXZVd0ZhcDBwS2xqS2V4TjRVZzBwbjlLUXNRZE41N1l1MWFZcERRN0Q1OVVzMUxBaG1EVVJnajJOa2cyM1JidGF6RHpBX1lCWFN1TnNadEY3T2dkQ3FST01aa19YeTVKR3l4TF9jSzR6dDZqei1pMlZSM3RUNW45X3I3Zy0w?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "d3a5305de8bf1d1daf995ee8dd3052c7",
    "published": "2026-11-12T03:08+05:00",
    "time_tashkent": "03:08",
@@ -12402,6 +12659,27 @@
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcXVkZnVMQ2dRQWw1WWVSaU5PQ0NwOS1JT1d6MDl5eEFhNGNKcHpnaWdlSWZ5cXdVb2NweGVUZlpoeWE3cVdXMERJSEFvZEV0YS1PYXgtWHRKRjVRRUg0Q0hzMm1nSk5PdjJzQUdldXpRbzdWOGM3WWxrYi1ZVDVMamhXSUZRME1qWmtPX0hQcW1xa0dFTWhZMXBsbHByTEdOekViSlRpby1SNnFKVzAzanJZc1psYzRFQW5qaG1mdTBBVHBBbDd0YjdPT01kUQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "1b0aabf5b294a5ffad46a449b7c94af6",
+   "published": "2026-11-12T03:08+05:00",
+   "time_tashkent": "03:08",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "US Stock Futures Fall as Nvidia Turmoil Deepens: Markets Wrap",
+   "summary": "US stock futures fell as turmoil at Nvidia Corp. sent a jolt through the artificial intelligence industry, tempering a rally in technology shares after the chipmaker was reported to be considering the removal of Chief Executive Officer Jensen Huang.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/stock-market-today-dow-s-p-live-updates",
+   "also": [
+    "SWI swissinfo.ch"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVzlUV2ZtWnAxY2NCZ3JKaTFzU3dpWTN3ejRFYWVsaXZVd0ZhcDBwS2xqS2V4TjRVZzBwbjlLUXNRZE41N1l1MWFZcERRN0Q1OVVzMUxBaG1EVVJnajJOa2cyM1JidGF6RHpBX1lCWFN1TnNadEY3T2dkQ3FST01aa19YeTVKR3l4TF9jSzR6dDZqei1pMlZSM3RUNW45X3I3Zy0w?oc=5"
    ],
    "sources_count": 2,
    "confirmed": true
@@ -13024,23 +13302,6 @@
    "confirmed": false
   },
   {
-   "hash": "6770a8e94ebd6c4c0d62852ffbcc192a",
-   "published": "2026-11-12T02:53+05:00",
-   "time_tashkent": "02:53",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Civil Georgia",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Metropolitan Iobi",
-   "summary": "Metropolitan Iobi&nbsp;&nbsp;Civil Georgia",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvdHJBbjRJSC04ZG5HbmYwM3YwQVVmRkdxaUdzamV3bkxFblh1b2lOcmh3SUxmSWQ1VnhEUThxMzNoVHlwVUp3WHZPekVTenJjMGJnb25DNV9xaDQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "31d2af9291202815bb8b54f7bc39cfac",
    "published": "2026-11-12T02:53+05:00",
    "time_tashkent": "02:53",
@@ -13069,6 +13330,23 @@
    "title": "Ziroat Mirziyoyeva visits Uzbekistan's national pavilion within the framework of COP31",
    "summary": "Ziroat Mirziyoyeva visits Uzbekistan's national pavilion within the framework of COP31&nbsp;&nbsp;UZA.uz",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMG9FM3Rqc2UyOE1JVGRJTjBqaHBhblNWZDJPeXhPaGcwZGtheUlaMlhMU1ZYQUN2ZU9GdWNtY1N3RGRtSlRNUGhLQjRTc3Bqa3ZsenBHT1hxQVN1UlkwMkdYUVVrNThIU3ppN2Y3UXJla2dIRElGYjN0QTk0cUoxVTU4VmxoZFRZMVh6NWJoRGx4ZkE4SFEwWDBYZF90ZFlFMXB5RjBBbVc0R0RvQ05HTW1LM21CajA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "6770a8e94ebd6c4c0d62852ffbcc192a",
+   "published": "2026-11-12T02:53+05:00",
+   "time_tashkent": "02:53",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Civil Georgia",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Metropolitan Iobi",
+   "summary": "Metropolitan Iobi&nbsp;&nbsp;Civil Georgia",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvdHJBbjRJSC04ZG5HbmYwM3YwQVVmRkdxaUdzamV3bkxFblh1b2lOcmh3SUxmSWQ1VnhEUThxMzNoVHlwVUp3WHZPekVTenJjMGJnb25DNV9xaDQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -13297,23 +13575,6 @@
    "confirmed": false
   },
   {
-   "hash": "86fef2fe25469c0050d8ffc607bc4f86",
-   "published": "2026-11-12T02:47+05:00",
-   "time_tashkent": "02:47",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Forbes",
-   "feed": "GNews/CentralBanks",
-   "paywall": false,
-   "title": "CD Interest Rates Forecast: Will CD Rates Go Up In 2026?",
-   "summary": "CD Interest Rates Forecast: Will CD Rates Go Up In 2026?&nbsp;&nbsp;Forbes",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RUJjNzNLLThVbXpHemxkWWYwaWVWUG1Tamw3OXphWWU0LTBYRVN1MUdjT2lOTkwzeWpULTQyYUxYUTVwak1WQ1BycmhvU1R4SEpQZHRpaHVhLWNWM25IV1BvNDBYc2ZWTE5GVQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "9141b8d7080c26547b8cf9a29c6e6172",
    "published": "2026-11-12T02:47+05:00",
    "time_tashkent": "02:47",
@@ -13325,6 +13586,23 @@
    "title": "PHOTO // People with disabilities to benefit from improved rehabilitation services; project worth about 2.5 million dollars launched by Moldova's Labour and Social Protection Ministry",
    "summary": "PHOTO // People with disabilities to benefit from improved rehabilitation services; project worth about 2.5 million dollars launched by Moldova's Labour and Social Protection Ministry&nbsp;&nbsp;Moldpres",
    "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxONElDQlYwM0xnNTRWTHhzTURMa1NHa0ZZOUg3VnNDMGtZbndCc0RZRGcyVEVoWmFveGRNRHRNbFZWUHRKNjM3V1FtVDFwVDhJOGFKRzJtLThWY1diVXlkbFU0ZXhSTnQ5MVZPQ044cTlEcVJja3BoMTVyWDdudVFlVTNaOGNvX3dUdjdRQjIxYmhYSzBrSjA4VU03SmZVUmZ4a1MxaUNlcnlVUFFLUFpTazIzalRKbHRMMzF2eW9xZU1EbWl5ODBXa0pfQmYxdU1aQlc2V2lLYlJ1ZkRQdUhjZFlSbmt2VUlUM2xibWREUkI3LWcyc2duTDc5Y2xQbk9pZGJWYmtfS20ybFRiZWhEWjFoT2ZrbnluZ2syOXk2bjl2WTBsMmp5a3dYVmg0cnBIUnF2UXZn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "86fef2fe25469c0050d8ffc607bc4f86",
+   "published": "2026-11-12T02:47+05:00",
+   "time_tashkent": "02:47",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Forbes",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "CD Interest Rates Forecast: Will CD Rates Go Up In 2026?",
+   "summary": "CD Interest Rates Forecast: Will CD Rates Go Up In 2026?&nbsp;&nbsp;Forbes",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14RUJjNzNLLThVbXpHemxkWWYwaWVWUG1Tamw3OXphWWU0LTBYRVN1MUdjT2lOTkwzeWpULTQyYUxYUTVwak1WQ1BycmhvU1R4SEpQZHRpaHVhLWNWM25IV1BvNDBYc2ZWTE5GVQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -13814,23 +14092,6 @@
    "confirmed": true
   },
   {
-   "hash": "4571cbec16229726b9c5de0aceeaffaa",
-   "published": "2026-11-12T02:34+05:00",
-   "time_tashkent": "02:34",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg",
-   "feed": "Bloomberg",
-   "paywall": true,
-   "title": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
-   "summary": "Brazil’s government unveiled a package of measures meant to shore up public finances and ease investor concerns about rising public debt, as President Luiz Inácio Lula da Silva aims to alleviate fiscal fears that have roiled markets since his electio",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "fef7144197f7fccd9ce59d80323b17ac",
    "published": "2026-11-12T02:34+05:00",
    "time_tashkent": "02:34",
@@ -13842,6 +14103,23 @@
    "title": "Public sector pay deal | Drivetime - RTÉ Radio 1",
    "summary": "Public sector pay deal | Drivetime - RTÉ Radio 1&nbsp;&nbsp;RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOVd6anQxZ1UyQ3RSMHZFbDdNdUNXWnpPOVJVaV9MR1Q3aEhKal8xVVo4UkRBMTJvN3ZseG1HWmY5WDdKNFRGQWVCZ0JZY0lXS2VweXVLSW1GLUdZRWJjSzA1NTk1SE1OVjU2SHdKSU9wZGFmOURYWlBzQm5VNkxlbg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "4571cbec16229726b9c5de0aceeaffaa",
+   "published": "2026-11-12T02:34+05:00",
+   "time_tashkent": "02:34",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "Lula Unveils Plan to Curb Spending Growth in Bid to Calm Fiscal Worries",
+   "summary": "Brazil’s government unveiled a package of measures meant to shore up public finances and ease investor concerns about rising public debt, as President Luiz Inácio Lula da Silva aims to alleviate fiscal fears that have roiled markets since his electio",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/lula-unveils-plan-to-curb-spending-growth-in-bid-to-calm-fiscal-worries",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -13886,27 +14164,6 @@
    "confirmed": true
   },
   {
-   "hash": "4b0c484f08e3de4cb538e8d7874ed425",
-   "published": "2026-11-12T02:33+05:00",
-   "time_tashkent": "02:33",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC Top",
-   "feed": "CNBC Top",
-   "paywall": false,
-   "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
-   "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
-   "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
-   "also": [
-    "CNBC"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazI4eWlxb3BiLVhYRW1jZjNuVnNpbUZYTHVTMTFYZVloRGtfWTkydmlvSDNfTFdlUmdaQjBtcjYtVFdVUXFkVzg4QzA0R0tZd3ZHU3dIZi1sUjJ5M2hWRXUxZ3JxOUFBQUVOTE1oRmkzVlZoU2lPWFE1eVNEaUNJVHFZMjU?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "0104428add8f2aeed34adf6f2b40d77c",
    "published": "2026-11-12T02:33+05:00",
    "time_tashkent": "02:33",
@@ -13923,6 +14180,27 @@
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPS094UW15ZlkwaS02Z1F4bFhWUWhSSkg4MWVVa1picUFkelVocERsUHRQVFFUOFVsUlh5bmppWG9mQXVYcC1NcDVPdjZDb3NtWDFHdFBmTDFXRmYweklmR3RHQnhLUlh1LU1RQmhPX3NoY2p1bWJjQ0lnbEUzNHJjb2ZETWhpczdGREI5aGJ4MnE4YWpxOUJQaHNRY0k2WnJYRS1JTG9rUm5IdVJsZUVMcFU2ZGpKcXNLRUdMeUVKMHA1QkZfUmU1eHV2aVhFOUtyd1BycmxWSzJfTy1pc2FRSkFONENtM1RHVF9NOHRJMlhIbU5OMTJ5ZnZoYno?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "4b0c484f08e3de4cb538e8d7874ed425",
+   "published": "2026-11-12T02:33+05:00",
+   "time_tashkent": "02:33",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC Top",
+   "feed": "CNBC Top",
+   "paywall": false,
+   "title": "Feds arrest top official of healthcare company, alleging illegal drug importation",
+   "summary": "U.S. officials are accusing two top officials of a Canadian company of operating a scheme to illegally import prescription drugs, court records show.",
+   "link": "https://www.cnbc.com/2026/11/11/canarx-official-arrested-drug-importation.html",
+   "also": [
+    "CNBC"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazI4eWlxb3BiLVhYRW1jZjNuVnNpbUZYTHVTMTFYZVloRGtfWTkydmlvSDNfTFdlUmdaQjBtcjYtVFdVUXFkVzg4QzA0R0tZd3ZHU3dIZi1sUjJ5M2hWRXUxZ3JxOUFBQUVOTE1oRmkzVlZoU2lPWFE1eVNEaUNJVHFZMjU?oc=5"
    ],
    "sources_count": 2,
    "confirmed": true
@@ -15010,27 +15288,6 @@
    "confirmed": true
   },
   {
-   "hash": "632ddcabb3a194d9c4e142ca5c18173a",
-   "published": "2026-11-12T02:06+05:00",
-   "time_tashkent": "02:06",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "TradingNEWS",
-   "feed": "GNews/CentralBanks",
-   "paywall": false,
-   "title": "USD/JPY Price Forecast: Dollar-Yen Breaks 159 to 159.67, Targets 160.72 on Fed Hike Bets",
-   "summary": "USD/JPY Price Forecast: Dollar-Yen Breaks 159 to 159.67, Targets 160.72 on Fed Hike Bets&nbsp;&nbsp;TradingNEWS",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlZiX0FUOXRlaDhtNWdZc0tfLWZ5OC1sRUd4U3ZVc19udVl4NFR6emV4dWczV1FzWkhFRjRRaDRzU1FZX0xncVE3Yk9xWEJXdE9FVG9aMEE0VU5iUkZia3Rtbk1CZ2JiS2M0Z2dUS1RCLVVKamFtQWYtRFl1VV9GYUZqOWtXei1wdGJPTldkcnQ2cnhDQlc5Y1Jsd0N2MGlkeVpObnlIVUJCUQ?oc=5",
-   "also": [
-    "BusinessToday Malaysia"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGJHOTB3anRYaGlkaElDZGRyTjVqMEZQTUxOSGFoUkpBSUdRcWJsbk5raWI4TERURmVzcHpBRWFQWVotTU9rSkpCUmVWUG9NRWY1aVZfd3VtMGRXSlFQcXItWWxCcW03WnJBbHR0Y3lNclBHZTBZOUlNNUNVdVNHV2I3ckNIZnNHUmN6Z2ZlaG85OU0?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "7dec61429c5fb796c38ef4b3b00d2031",
    "published": "2026-11-12T02:06+05:00",
    "time_tashkent": "02:06",
@@ -15046,6 +15303,29 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "632ddcabb3a194d9c4e142ca5c18173a",
+   "published": "2026-11-12T02:06+05:00",
+   "time_tashkent": "02:06",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "TradingNEWS",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "USD/JPY Price Forecast: Dollar-Yen Breaks 159 to 159.67, Targets 160.72 on Fed Hike Bets",
+   "summary": "USD/JPY Price Forecast: Dollar-Yen Breaks 159 to 159.67, Targets 160.72 on Fed Hike Bets&nbsp;&nbsp;TradingNEWS",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTlZiX0FUOXRlaDhtNWdZc0tfLWZ5OC1sRUd4U3ZVc19udVl4NFR6emV4dWczV1FzWkhFRjRRaDRzU1FZX0xncVE3Yk9xWEJXdE9FVG9aMEE0VU5iUkZia3Rtbk1CZ2JiS2M0Z2dUS1RCLVVKamFtQWYtRFl1VV9GYUZqOWtXei1wdGJPTldkcnQ2cnhDQlc5Y1Jsd0N2MGlkeVpObnlIVUJCUQ?oc=5",
+   "also": [
+    "BusinessToday Malaysia",
+    "FXStreet"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGJHOTB3anRYaGlkaElDZGRyTjVqMEZQTUxOSGFoUkpBSUdRcWJsbk5raWI4TERURmVzcHpBRWFQWVotTU9rSkpCUmVWUG9NRWY1aVZfd3VtMGRXSlFQcXItWWxCcW03WnJBbHR0Y3lNclBHZTBZOUlNNUNVdVNHV2I3ckNIZnNHUmN6Z2ZlaG85OU0?oc=5",
+    "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbkdsdUVvTzFKcjMwMERvUGFzN3lvcmVEbVBtTElueEpiX243UjdPZEdmbkZDeHVSdmJLNFd2SnFLQ1ppWU5weVd2ZmZhSnd2N1pBclZuTkIxLVNzTUpxUFlkZmpWalRKQVFUNnNVa0NXZjJsVmptbnNqblJqYWRCdU1pNkFXeks4cnppd1ljTXl0VE5KWVNNZU9tUWZOV2VkOVhzdGdqUzltRlB5WGRRRHV6blBOcF9EWkpKLWt3RV9mSTBfenR4N1hn?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "b6617a09a36c353224e3742876143248",
@@ -15263,12 +15543,14 @@
    "summary": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
    "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
    "also": [
-    "GNews/Иран, Ирак, Сирия, Йемен: госСМИ"
+    "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+    "GDELT/HOTSPOTS"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xSTZ4UHJYYTRwanZKODFMQ05jRGQ1bE5qUTNZYkdxQmZTX3dGYkszRE5iR25xdFNCS0hwcllaXzBZbEdBdlRDSG14RnJULWc?oc=5"
+    "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xSTZ4UHJYYTRwanZKODFMQ05jRGQ1bE5qUTNZYkdxQmZTX3dGYkszRE5iR25xdFNCS0hwcllaXzBZbEdBdlRDSG14RnJULWc?oc=5",
+    "https://www.business-standard.com/world-news/hormuz-will-never-return-to-pre-war-status-says-iran-s-chief-negotiator-126111200051_1.html"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -15541,6 +15823,23 @@
    "confirmed": false
   },
   {
+   "hash": "849ebbd1859633b7b951fd5deadf015f",
+   "published": "2026-11-12T01:58+05:00",
+   "time_tashkent": "01:58",
+   "region": "ЦА",
+   "type": "ofic",
+   "source": "UZA.uz",
+   "feed": "GNews/Власть Центральной Азии",
+   "paywall": false,
+   "title": "Central Asia and the South Caucasus: prospects for connectivity",
+   "summary": "Central Asia and the South Caucasus: prospects for connectivity&nbsp;&nbsp;UZA.uz",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeE51MU1DOENvZGlqUV9ab2djaDEtcUlqUzVrSDU1M29mTWVfVGtjamkxS1RtOXg2Y0Fvbi1GdTRXRmg4cGdLbHlkN3JkMHFWbGlVTFpENmIyVkJBVExNSkFldG55MHNnLW4tTzROMkpROHpYSVZ4bEZNWXN1LXhuNXdoN1NiOGFqbXpyMy12a2pDOHRCU19NYQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "5acaf85dd0c13eef4e4d77ca8cb1738c",
    "published": "2026-11-12T01:58+05:00",
    "time_tashkent": "01:58",
@@ -15559,23 +15858,6 @@
     "https://www.channelnewsasia.com/sport/sailing-frances-barrier-first-woman-finish-route-du-rhum-in-ultim-class-6543871"
    ],
    "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "849ebbd1859633b7b951fd5deadf015f",
-   "published": "2026-11-12T01:58+05:00",
-   "time_tashkent": "01:58",
-   "region": "ЦА",
-   "type": "ofic",
-   "source": "UZA.uz",
-   "feed": "GNews/Власть Центральной Азии",
-   "paywall": false,
-   "title": "Central Asia and the South Caucasus: prospects for connectivity",
-   "summary": "Central Asia and the South Caucasus: prospects for connectivity&nbsp;&nbsp;UZA.uz",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeE51MU1DOENvZGlqUV9ab2djaDEtcUlqUzVrSDU1M29mTWVfVGtjamkxS1RtOXg2Y0Fvbi1GdTRXRmg4cGdLbHlkN3JkMHFWbGlVTFpENmIyVkJBVExNSkFldG55MHNnLW4tTzROMkpROHpYSVZ4bEZNWXN1LXhuNXdoN1NiOGFqbXpyMy12a2pDOHRCU19NYQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -15852,7 +16134,8 @@
     "The Globe and Mail",
     "GuruFocus",
     "Bloomberg",
-    "Bloomberg.com"
+    "Bloomberg.com",
+    "GDELT/HOTSPOTS"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdnhyVlZiYkxnRTlZMm9YMWh5TGhpSkpKaDQ5WW0xYkVBZ0dxTTlPYk0xUG1jSzF4RkJYTXctRFNpeHVRb2NUNFo2UkduaHo5R0NkcWRGR1hoZmU3ZzZvQlBmZ2FRcE84XzhhbE5PYzB1Y213bC0wdExHaWRhZnlLVDliWkhqMlk?oc=5",
@@ -15860,9 +16143,10 @@
     "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUHBscHNBREdMX2x5VWNiaFhwVkdrSmJ4Mk56a1NqaC1laGtLbC1pUTR5Y09xZG9ualZjcFRqcXJxWUFDby15RTMwUUk0eWk0MWViVGFxZG0wWnF3aHpDS014WGpCc2NURFJ5cm4tODdOZ1pVSzRtU3dDSlkzdGNkSkoxbVFDRUVqQl9FMlhFOVN5aFl5UllseEVkRDZGc3V3Z19xZnUwb2RDUUNaNzh4T3kxbjhaTlh1YkR5Z213LW1NWGNDcGpCNmpLeVNrUEpNN0E?oc=5",
     "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOHcxQ2NKcjB2RlhmbktxTGZuenlIOXF6b2VsRkdQUlZVeDVYNnR6dTh2LTlieUtVRWhMVjZrNHZva282b1ZBQnNpeGplSFJyYnNKTExleUN6NGxoM1l3RUZtNXh1azdQNVVXMkdwUFRiSXYtSzh0alVjME9PYmc0clNLeTVDRzMxZEVEdk9LblhpSU00NDQ1UFhGVElwY2VSOXFYUA?oc=5",
     "https://www.bloomberg.com/news/articles/2026-11-12/gold-holds-below-4-000-as-market-looks-ahead-to-fed-rate-hike",
-    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5"
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMTJybnByRUZtMk5uajdEUVROVDJnSmZlQVRsazNHSmZaY0FKMVM0d0tvVnhDdlozdUhuMkx4ZkJZV0IyUDRCMmxtSzF0U3RmWWkxckVJVVVUV1pZczI2dmZfN29TYmN0YkVWMml2X2NJY1liZk1WeWFVdXNHbFpqdHBVWmhMTE4zTHozN2l5ZGFOWVBxWVBzTVB6V3dLeTR5UmlYYTVtN0xJQW5MMTVRdUJn?oc=5",
+    "https://en.shafaqna.com/491244/peace-talk-hopes-pressure-oil-market/"
    ],
-   "sources_count": 7,
+   "sources_count": 8,
    "confirmed": true
   },
   {
@@ -16580,23 +16864,6 @@
    "confirmed": false
   },
   {
-   "hash": "a3b94e814db29d10b566eb0ef128002e",
-   "published": "2026-11-12T01:32+05:00",
-   "time_tashkent": "01:32",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg",
-   "feed": "Bloomberg",
-   "paywall": true,
-   "title": "Brazil, Venezuela Vow to Upgrade Ties With Oil Investment Talks",
-   "summary": "Brazil’s energy minister will visit Venezuela before the end of the year to discuss opportunities in the oil sector, potentially marking a new chapter in bilateral ties after years of strained relations.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/brazil-venezuela-vow-to-upgrade-ties-with-oil-investment-talks",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "a1cf413b881fc3e926aeb2e4df5365bc",
    "published": "2026-11-12T01:32+05:00",
    "time_tashkent": "01:32",
@@ -16642,6 +16909,23 @@
    "title": "Reaching pay deal before strike 'coincidental' - Chambers",
    "summary": "Reaching pay deal before strike 'coincidental' - Chambers&nbsp;&nbsp;RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ON1FMeDg3anFYTWxnU3cwaXFBd1R0MUtuRjJMV2JRakYzN09qN0FkV2JUczJOZnVuMVkxOUxoa3d0RkdnT1hVZ1Y5WFMtbElLdUlFVXpoQWF3ZkwwWjMxMFRGdU91VnFJNjhHbmJjWU5aaFoxdzFWZUdnblZHdw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "a3b94e814db29d10b566eb0ef128002e",
+   "published": "2026-11-12T01:32+05:00",
+   "time_tashkent": "01:32",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "Brazil, Venezuela Vow to Upgrade Ties With Oil Investment Talks",
+   "summary": "Brazil’s energy minister will visit Venezuela before the end of the year to discuss opportunities in the oil sector, potentially marking a new chapter in bilateral ties after years of strained relations.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/brazil-venezuela-vow-to-upgrade-ties-with-oil-investment-talks",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -17118,15 +17402,17 @@
     "CNN",
     "NBC News",
     "Sydney Morning Herald",
-    "The Age"
+    "The Age",
+    "Politico"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWWlUTWVZYVJ4VHpUd3h2TWRQcWhVSzMwX1JQWTBRUDM1Slo3THZVd01ZTUlETU9vSDJ5R2hnWnFIMHNLcmlnSnA0UHA4UFUycWw4NmRBcVpsbVpvN3E5YU9uRmhOdUQxNFMyejJkSU5PbEcyYjRLbVZqQS14RWJEZHFCa3RlMFNrOVkwYTktMA?oc=5",
     "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMjg3SUZPY3B5VWpoLVFFYWF6Y3Rfa0ZIUDV5Vmg0TGVRYXFrZDFyaXhUMHpoelJ2UlZrUjdkTGlsTnpxNGdhaWRZVFc4RUNkbzlkd1U0cFJXbV9kcGsteXBUcGdNSHpsYWJDLWpsZTdzb2dpT3dSb2NYTzd2RmMtdkh4c3hwbGR6cTE1MnBxQkFDbU4yUW0tOTZhallWTXlTN2pvc21seU5SVmM2eW9VZndiUnBaWXlJbzItMEdab0RGUmxKajFBN2xDMmFsQQ?oc=5",
     "https://www.smh.com.au/world/north-america/silence-guard-yells-at-hegseth-s-group-for-laughing-near-tomb-of-the-unknown-soldier-20261112-p61dj3.html?ref=rss&utm_medium=rss&utm_source=rss_world",
-    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWnBESTI4Rlh4U2FNcnlEanJTU1BoaTFGZmN5MEIwcnBvaG1QSXAzcGlrTzd1VjdJbllhY1U4NVVGdlNWcWpRNUlTVHBGOUhjVk9uQXlUOThERHRDZkVIRmpqU1UyQWJBUV9sR29jYmQtYmp4bHB1bHQ1WkJtUzJXaGZGVmpzalhCVUlSM3ZoZEtGcDZlSXlfRjBVX3hDaHMtTkZ0N3V1eURRWXVtb2NxQnVDVU9tRWxxUGdDdEJERDNzOEJRQkdwSzlHVmJMamJvX1VtVURyVldvWG9SRXh6MW9hbV84Zw?oc=5"
+    "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWnBESTI4Rlh4U2FNcnlEanJTU1BoaTFGZmN5MEIwcnBvaG1QSXAzcGlrTzd1VjdJbllhY1U4NVVGdlNWcWpRNUlTVHBGOUhjVk9uQXlUOThERHRDZkVIRmpqU1UyQWJBUV9sR29jYmQtYmp4bHB1bHQ1WkJtUzJXaGZGVmpzalhCVUlSM3ZoZEtGcDZlSXlfRjBVX3hDaHMtTkZ0N3V1eURRWXVtb2NxQnVDVU9tRWxxUGdDdEJERDNzOEJRQkdwSzlHVmJMamJvX1VtVURyVldvWG9SRXh6MW9hbV84Zw?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTk4tT1dDRUFsZXdsUUdxT3dJQnpfdXFFMDVpcWpxVy1INXRRdFlrYkRtZk4wcGNzbnd6Wl9XT1Voa2tCTDZPMkJwMVV5V1NQSHkzemZSX3k3UkQzdWpmcjR6bFd1TGs2RWlVQ1FLU3VkQUlNekVCTEViazU1Skw1Zkh5RVFiSzN5LWdXT29qMUp2N2NYQXFQTlJn?oc=5"
    ],
-   "sources_count": 5,
+   "sources_count": 6,
    "confirmed": true
   },
   {
@@ -17375,23 +17661,6 @@
    "confirmed": false
   },
   {
-   "hash": "24a7a34b54bead62c766fc4efd604456",
-   "published": "2026-11-12T01:21+05:00",
-   "time_tashkent": "01:21",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "EnergyNow.com",
-   "feed": "GNews/Oil",
-   "paywall": false,
-   "title": "UBS Cuts Brent Crude Price Forecasts on Improved Hormuz Oil Flows",
-   "summary": "UBS Cuts Brent Crude Price Forecasts on Improved Hormuz Oil Flows&nbsp;&nbsp;EnergyNow.com",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkx6SWdrUmxaREZHSEwwVXh0RDJXZlNOS3pDajlNY1Bod0xuR3A2LURVNXV4Qk5ualZKVXBCamlQTGVWTkJhY25GVkNzeUdQQ05hZ25ldk44dFhuVVlzZnhhdVhoSkJjeWk2a1FVeUxBOEkxWmxyQzdkU1drZXZQZXJLMGdJdEl6TEZwR2gxRFJYcDFSX1phTTdRdnY?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "ee89763b1dfd2d5298f7e0507d6e545d",
    "published": "2026-11-12T01:21+05:00",
    "time_tashkent": "01:21",
@@ -17403,6 +17672,23 @@
    "title": "Negotiations in Abu Dhabi: What's the upshot for Ukraine and for Europe?",
    "summary": "Negotiations in Abu Dhabi: What's the upshot for Ukraine and for Europe?&nbsp;&nbsp;TVP World",
    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcGZVYldaZzE4S1NQQXhYa1lyVXhRY01ydFhkSEw1TTFmaXJWbG5ENk5seDNlNWpjdUphbEUzTWQ2RGIxRWtSSVRKaGhCOE5oaUpOVGEtSWZ1aFZuWHBmQVUtdGFnZ2VsbUI4TFFmZ2IyUjlSMnoxaWU2ZmFNYlNQM1dkeUNEMzlqd3A4TU16dzlzdUhCUHl1anlBMUs5cXAzTnoxZ0xydktfX2pjVHdvbFdn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "24a7a34b54bead62c766fc4efd604456",
+   "published": "2026-11-12T01:21+05:00",
+   "time_tashkent": "01:21",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "EnergyNow.com",
+   "feed": "GNews/Oil",
+   "paywall": false,
+   "title": "UBS Cuts Brent Crude Price Forecasts on Improved Hormuz Oil Flows",
+   "summary": "UBS Cuts Brent Crude Price Forecasts on Improved Hormuz Oil Flows&nbsp;&nbsp;EnergyNow.com",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVkx6SWdrUmxaREZHSEwwVXh0RDJXZlNOS3pDajlNY1Bod0xuR3A2LURVNXV4Qk5ualZKVXBCamlQTGVWTkJhY25GVkNzeUdQQ05hZ25ldk44dFhuVVlzZnhhdVhoSkJjeWk2a1FVeUxBOEkxWmxyQzdkU1drZXZQZXJLMGdJdEl6TEZwR2gxRFJYcDFSX1phTTdRdnY?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -17860,23 +18146,6 @@
    "confirmed": false
   },
   {
-   "hash": "047278cd105806520f63c2d917093ccd",
-   "published": "2026-11-12T01:10+05:00",
-   "time_tashkent": "01:10",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Gizmodo",
-   "feed": "GNews/Business-US",
-   "paywall": false,
-   "title": "Universities Are Giving Up on Trying to Detect AI Cheating",
-   "summary": "Universities Are Giving Up on Trying to Detect AI Cheating&nbsp;&nbsp;GizmodoAI has made it ‘close to impossible’ to assess university coursework, regulator says&nbsp;&nbsp;The GuardianStudents passing university assessments in minutes using AI, regu",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWJiVUxCUnI0cXNQS2RsR1VsXzJ2d3RvOVVvYXNNNDExZ2NmdmFjQmVEekVac1ZaYmt0dXp0OTZ6SFhoamM1NGQ2TlA5VEpPcU9GZXVHbWp2OTZhUFVIeVNNVHpHVmhJbzFiMF9zMzkzeEtnQ1ZoT3hlaGFpV0JSekNDWWs3bXgyWGhHMkp4UV8wRzA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "51bcdd318fbf2453c81aaae8e1f0d2ee",
    "published": "2026-11-12T01:10+05:00",
    "time_tashkent": "01:10",
@@ -17892,6 +18161,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "047278cd105806520f63c2d917093ccd",
+   "published": "2026-11-12T01:10+05:00",
+   "time_tashkent": "01:10",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Gizmodo",
+   "feed": "GNews/Business-US",
+   "paywall": false,
+   "title": "Universities Are Giving Up on Trying to Detect AI Cheating",
+   "summary": "Universities Are Giving Up on Trying to Detect AI Cheating&nbsp;&nbsp;GizmodoAI has made it ‘close to impossible’ to assess university coursework, regulator says&nbsp;&nbsp;The GuardianStudents passing university assessments in minutes using AI, regu",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSWJiVUxCUnI0cXNQS2RsR1VsXzJ2d3RvOVVvYXNNNDExZ2NmdmFjQmVEekVac1ZaYmt0dXp0OTZ6SFhoamM1NGQ2TlA5VEpPcU9GZXVHbWp2OTZhUFVIeVNNVHpHVmhJbzFiMF9zMzkzeEtnQ1ZoT3hlaGFpV0JSekNDWWs3bXgyWGhHMkp4UV8wRzA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "794e54529dadc9d498617346f5fa7276",
@@ -18224,23 +18510,6 @@
    "confirmed": false
   },
   {
-   "hash": "73d819bd9c952d5fcfc9d0ba8810aafc",
-   "published": "2026-11-12T01:02+05:00",
-   "time_tashkent": "01:02",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC World",
-   "feed": "CNBC World",
-   "paywall": false,
-   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
-   "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
-   "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "01c656eb88e28f01ad4ef421f1292026",
    "published": "2026-11-12T01:02+05:00",
    "time_tashkent": "01:02",
@@ -18285,6 +18554,23 @@
    "confirmed": false
   },
   {
+   "hash": "73d819bd9c952d5fcfc9d0ba8810aafc",
+   "published": "2026-11-12T01:02+05:00",
+   "time_tashkent": "01:02",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC World",
+   "feed": "CNBC World",
+   "paywall": false,
+   "title": "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+   "summary": "U.S.-Canada trade tensions persist as Trump's tariffs drive up costs, threaten investment and complicate negotiations between the two countries.",
+   "link": "https://www.cnbc.com/2026/11/11/canada-ambassador-trump-tariffs-investments.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "a69d51c05e10ef71e41341c33475507f",
    "published": "2026-11-12T01:02+05:00",
    "time_tashkent": "01:02",
@@ -18304,40 +18590,6 @@
    ],
    "sources_count": 2,
    "confirmed": true
-  },
-  {
-   "hash": "1504cd1d9eb26468fd51af15eadfc3af",
-   "published": "2026-11-12T01:01+05:00",
-   "time_tashkent": "01:01",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Majority of JetBlue lenders sign cooperation deal, Bloomberg News reports",
-   "summary": "",
-   "link": "https://www.investing.com/news/stock-market-news/majority-of-jetblue-lenders-sign-cooperation-deal-bloomberg-news-reports-5019779",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "365913c90d08ca6b3e151b5ff92fc569",
-   "published": "2026-11-12T01:01+05:00",
-   "time_tashkent": "01:01",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CurrencyNews.co.uk",
-   "feed": "GNews/CentralBanks",
-   "paywall": false,
-   "title": "Pound-to-Euro Near 1.1950 as Crucial UK Growth Figures Loom",
-   "summary": "Pound-to-Euro Near 1.1950 as Crucial UK Growth Figures Loom&nbsp;&nbsp;CurrencyNews.co.uk",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGlvVW53d0VpdmJqVW5EQ1BLWHhhTnktRmVGVEJHeGVQa3dFdG9kaWFyVXNKMXE5YVdQdjh0TzJSYm8wNzc5REFHcEFpYTlOckJUMVB5ejBxajBXQ2l0Zml1dmJrdGlCT1dmWHFHZmFPNkd6UzNpeDZlSE52bnVqZXJJY0piY3ZyOXZ2TUxoa2xsbUUzQUZLamdDSkdnc1F6WGxtTjRvR1JZNDN4QWZqN2VpdU1qNC13b0RR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "6fd0929992fb01b23ed5edb6153666b1",
@@ -18368,6 +18620,40 @@
    "title": "Poland marks 108 years of independence with massive march through Warsaw",
    "summary": "Poland marks 108 years of independence with massive march through Warsaw&nbsp;&nbsp;TVP World",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOd2pScENvWnR2N0lka1V3Y2h4SzlHM1hPd1V2NHlUc01PVDhENGxKSDhIZG1mRWNqU2xOdUkweDh5LVJMd1FYRlhXR1BJa3ZnV05hVHk5QnJ1bVRUUi1samhMQnlRRUJpUUxNOXNNcGJOcUdpS2VDS1I0WnJ2Mm5jSF9JNFpIcHdIa19aQk1JOEhIVDVFbm5HV3JPWXRKOG1MR1RsaHNJQXkyb3dBaGYwLWlWZEhFQ1o3bGZDcw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "1504cd1d9eb26468fd51af15eadfc3af",
+   "published": "2026-11-12T01:01+05:00",
+   "time_tashkent": "01:01",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Majority of JetBlue lenders sign cooperation deal, Bloomberg News reports",
+   "summary": "",
+   "link": "https://www.investing.com/news/stock-market-news/majority-of-jetblue-lenders-sign-cooperation-deal-bloomberg-news-reports-5019779",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "365913c90d08ca6b3e151b5ff92fc569",
+   "published": "2026-11-12T01:01+05:00",
+   "time_tashkent": "01:01",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CurrencyNews.co.uk",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Pound-to-Euro Near 1.1950 as Crucial UK Growth Figures Loom",
+   "summary": "Pound-to-Euro Near 1.1950 as Crucial UK Growth Figures Loom&nbsp;&nbsp;CurrencyNews.co.uk",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOGlvVW53d0VpdmJqVW5EQ1BLWHhhTnktRmVGVEJHeGVQa3dFdG9kaWFyVXNKMXE5YVdQdjh0TzJSYm8wNzc5REFHcEFpYTlOckJUMVB5ejBxajBXQ2l0Zml1dmJrdGlCT1dmWHFHZmFPNkd6UzNpeDZlSE52bnVqZXJJY0piY3ZyOXZ2TUxoa2xsbUUzQUZLamdDSkdnc1F6WGxtTjRvR1JZNDN4QWZqN2VpdU1qNC13b0RR?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -18706,23 +18992,6 @@
    "confirmed": false
   },
   {
-   "hash": "05a2ae4ae16444461d93fcb0ca495700",
-   "published": "2026-11-12T00:56+05:00",
-   "time_tashkent": "00:56",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg",
-   "feed": "Bloomberg",
-   "paywall": true,
-   "title": "Crunch Fitness Seeks to Borrow $800 Million From ABS Bond Sale",
-   "summary": "Crunch Fitness is looking to raise about $800 million from a bond sale backed by the company’s franchise revenue, adding to a string of companies tapping the whole-business securitization market in recent weeks.",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "ea0c0cbc5734e6854cfcad633b2bd8b5",
    "published": "2026-11-12T00:56+05:00",
    "time_tashkent": "00:56",
@@ -18744,6 +19013,23 @@
    ],
    "sources_count": 3,
    "confirmed": true
+  },
+  {
+   "hash": "05a2ae4ae16444461d93fcb0ca495700",
+   "published": "2026-11-12T00:56+05:00",
+   "time_tashkent": "00:56",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "Crunch Fitness Seeks to Borrow $800 Million From ABS Bond Sale",
+   "summary": "Crunch Fitness is looking to raise about $800 million from a bond sale backed by the company’s franchise revenue, adding to a string of companies tapping the whole-business securitization market in recent weeks.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-11/crunch-fitness-seeks-to-borrow-800-million-from-abs-bond-sale",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "edf8352a7fd705ddd4730be4bbd67b1e",
@@ -18795,33 +19081,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "0c6bc4e64733f7edbf1a76db2658b8d0",
-   "published": "2026-11-12T00:55+05:00",
-   "time_tashkent": "00:55",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC World",
-   "feed": "CNBC World",
-   "paywall": false,
-   "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
-   "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
-   "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
-   "also": [
-    "CBS News",
-    "WAPT",
-    "Axios",
-    "The Hill"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWlaQkhSejdocVBYOEhhWUNqamg2cW1MZVVzaEVpRjNHNWNlS1R2T2xzLWlrdUw1amQzMjRCcmhKYjd6cDB2a20yanBZS042Nmx4OU03alFwZWt3bWtrMFdhcl8zSUcwS3VicmJLMENQckI2WC1vZjloQkhPRlNDWg?oc=5",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjhudHVCRHNCMGg0Sll3ZFBzZllENFJhUVZhZWU4eVhlc3BxdS1TREViNHdGbGU0U3Jyd1NWci1zNUNXZWpUYTlWd3Fhdjh5Tk5kLVRiYm1CNV9ESm45bGx3QXk2ZFZmbExHdVc2UW96V2luVXcxeEtWNlVyeW5HN3BJQkRzRm0xT2JGUUJUQmJZbFdIRURDeQ?oc=5",
-    "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
-    "https://thehill.com/homenews/campaign/6214689-colom-leads-hyde-smith/"
-   ],
-   "sources_count": 5,
-   "confirmed": true
   },
   {
    "hash": "b8e64eda81e5d1eff9ac84030bf32bae",
@@ -18900,6 +19159,33 @@
    "confirmed": true
   },
   {
+   "hash": "0c6bc4e64733f7edbf1a76db2658b8d0",
+   "published": "2026-11-12T00:55+05:00",
+   "time_tashkent": "00:55",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC World",
+   "feed": "CNBC World",
+   "paywall": false,
+   "title": "Mississippi Senate: Scott Colom lead over Hyde-Smith pops to more than 4,400 votes",
+   "summary": "Tuesday was the deadline for provisional ballots to be resolved in Mississippi, and the deadline for the receipt of mail-in absentee ballots.",
+   "link": "https://www.cnbc.com/2026/11/10/mississippi-senate-scott-colom-hyde-smith.html",
+   "also": [
+    "CBS News",
+    "WAPT",
+    "Axios",
+    "The Hill"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQWlaQkhSejdocVBYOEhhWUNqamg2cW1MZVVzaEVpRjNHNWNlS1R2T2xzLWlrdUw1amQzMjRCcmhKYjd6cDB2a20yanBZS042Nmx4OU03alFwZWt3bWtrMFdhcl8zSUcwS3VicmJLMENQckI2WC1vZjloQkhPRlNDWg?oc=5",
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZjhudHVCRHNCMGg0Sll3ZFBzZllENFJhUVZhZWU4eVhlc3BxdS1TREViNHdGbGU0U3Jyd1NWci1zNUNXZWpUYTlWd3Fhdjh5Tk5kLVRiYm1CNV9ESm45bGx3QXk2ZFZmbExHdVc2UW96V2luVXcxeEtWNlVyeW5HN3BJQkRzRm0xT2JGUUJUQmJZbFdIRURDeQ?oc=5",
+    "https://www.axios.com/2026/11/11/mississippi-ms-senate-scott-colom-cindy-hyde-smith",
+    "https://thehill.com/homenews/campaign/6214689-colom-leads-hyde-smith/"
+   ],
+   "sources_count": 5,
+   "confirmed": true
+  },
+  {
    "hash": "c7aa6876de8af9676ffd85d804f7faa1",
    "published": "2026-11-12T00:54+05:00",
    "time_tashkent": "00:54",
@@ -18931,23 +19217,6 @@
    "confirmed": true
   },
   {
-   "hash": "a20e34a7de396bd89fc79ec782c18baf",
-   "published": "2026-11-12T00:54+05:00",
-   "time_tashkent": "00:54",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC Top",
-   "feed": "CNBC Top",
-   "paywall": false,
-   "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
-   "summary": "An aging work force is not the only reason Social Security's trust funds now have a looming shortfall, according to AARP Public Policy Institute research.",
-   "link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "0432a28cfbf8713ccce45207564fe322",
    "published": "2026-11-12T00:54+05:00",
    "time_tashkent": "00:54",
@@ -18967,6 +19236,23 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "a20e34a7de396bd89fc79ec782c18baf",
+   "published": "2026-11-12T00:54+05:00",
+   "time_tashkent": "00:54",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC Top",
+   "feed": "CNBC Top",
+   "paywall": false,
+   "title": "Social Security could pay full benefits until 2059 if taxable payroll kept pace with GDP: AARP report",
+   "summary": "An aging work force is not the only reason Social Security's trust funds now have a looming shortfall, according to AARP Public Policy Institute research.",
+   "link": "https://www.cnbc.com/2026/11/11/social-security-benefits-taxable-payroll-gdp.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "d8892d0cfcf7cb2261680fc1daa804cb",
@@ -19008,6 +19294,23 @@
     "https://news.google.com/rss/articles/CBMiS0FVX3lxTFByclVKbTJsTl9qeXNaUHNQaDBMQnBaR1F6YXdPa1VUOFN2NUI3ZFAxX21tdWlKQm4tc0NOaFJHTkFmMUM2UkFRWlFuVQ?oc=5"
    ],
    "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "58038c45b532af4c416bb85282fda6ac",
+   "published": "2026-11-12T00:53+05:00",
+   "time_tashkent": "00:53",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Türkiye condemns Israeli remarks directed against President Erdogan as 'vile and insolent slander'",
+   "summary": "Türkiye condemns Israeli remarks directed against President Erdogan as 'vile and insolent slander'&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWGxrZFNMYTFHeU44ODkwT0pVUEtpbjRSbldyN1VETXdOYXR4Q3N3NmNiNm9jOWZOUGVoUnVOMXo4UDViOFBRUmFvSkk3Skt3SHQzT1NVbVNKQndudVlXV21IVXhLdEE3VGhnS1dZZzhadmRsLUVFcEVNaGl3b3VnTGk4Y09BTDF2N3hZcGxIMHBrdlpLNDVFemROUjBJam00RlZEMkhqRGJOZnVLNFF6M0xhRkdUWFM1ckdjZko0eWdNN1ZUR0h6bkxUcVg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -19076,23 +19379,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "58038c45b532af4c416bb85282fda6ac",
-   "published": "2026-11-12T00:53+05:00",
-   "time_tashkent": "00:53",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Türkiye condemns Israeli remarks directed against President Erdogan as 'vile and insolent slander'",
-   "summary": "Türkiye condemns Israeli remarks directed against President Erdogan as 'vile and insolent slander'&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWGxrZFNMYTFHeU44ODkwT0pVUEtpbjRSbldyN1VETXdOYXR4Q3N3NmNiNm9jOWZOUGVoUnVOMXo4UDViOFBRUmFvSkk3Skt3SHQzT1NVbVNKQndudVlXV21IVXhLdEE3VGhnS1dZZzhadmRsLUVFcEVNaGl3b3VnTGk4Y09BTDF2N3hZcGxIMHBrdlpLNDVFemROUjBJam00RlZEMkhqRGJOZnVLNFF6M0xhRkdUWFM1ckdjZko0eWdNN1ZUR0h6bkxUcVg?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "3dd673c07327320981415779c9f19c0c",
@@ -19883,23 +20169,6 @@
    "confirmed": false
   },
   {
-   "hash": "0206d85a85b6ee00c152ac2f595f9b72",
-   "published": "2026-11-12T00:36+05:00",
-   "time_tashkent": "00:36",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg Tech",
-   "feed": "Bloomberg Tech",
-   "paywall": true,
-   "title": "Expect ‘Dislocations’ in AI Investment Cycle: Waxman",
-   "summary": "Alan Waxman, CEO and co-founder of Sixth Street, joins Dani Burger on “Bloomberg Deals.” They discuss dislocations he is seeing in the AI market. (Source: Bloomberg)",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/expect-dislocations-in-ai-investment-cycle-waxman-video",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "719021363c0e4919df229f898a9a33d2",
    "published": "2026-11-12T00:36+05:00",
    "time_tashkent": "00:36",
@@ -19928,6 +20197,23 @@
    "title": "ARMENPRESS: Armenia and Finland discuss trade and economic cooperation",
    "summary": "ARMENPRESS: Armenia and Finland discuss trade and economic cooperation&nbsp;&nbsp;Moldpres",
    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR0gtNm1XblFuUGEtX1h3U2trcGo0QW8tTXF0ajVDaXladjA2RG1DQWpHUnJ2X01aOTRMX0lNMGJhekVBRjVyS2VQckdxbkpiUzh5ZUx4cGQ1RGVZOGRSUXp6eHBaT28wYjRkY3ZKQjlHdzU0QlhTck1mU1B2UklJUHNkN2stQXEtVHB6UjF5MUZDVHpCZDgxRDh4VzAwdjR6aE81c2NpTkt5Zw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "0206d85a85b6ee00c152ac2f595f9b72",
+   "published": "2026-11-12T00:36+05:00",
+   "time_tashkent": "00:36",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "Expect ‘Dislocations’ in AI Investment Cycle: Waxman",
+   "summary": "Alan Waxman, CEO and co-founder of Sixth Street, joins Dani Burger on “Bloomberg Deals.” They discuss dislocations he is seeing in the AI market. (Source: Bloomberg)",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/expect-dislocations-in-ai-investment-cycle-waxman-video",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -20262,23 +20548,6 @@
    "confirmed": true
   },
   {
-   "hash": "9a376f79ae8ddb8803628cfcf0c48402",
-   "published": "2026-11-12T00:31+05:00",
-   "time_tashkent": "00:31",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "GNews/ЕС и НАТО",
-   "feed": "GNews/ЕС и НАТО",
-   "paywall": false,
-   "title": "PVGIS, Comisión Europea - EU JRC - European Union - re.jrc.ec.europa.eu",
-   "summary": "PVGIS, Comisión Europea - EU JRC - European Union&nbsp;&nbsp;re.jrc.ec.europa.eu",
-   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHTkV2QmlCdWRLTjlGM3RGUDMyYVdVWGxKTVJGMHNRQXJ0b2dITFhQSzBPTGVaRllaTHRXVFBvM1RpeHl3VmFHVllUUmpjcjZGam9v?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "9948a402e69faff3cd14016dd14f338d",
    "published": "2026-11-12T00:31+05:00",
    "time_tashkent": "00:31",
@@ -20290,6 +20559,23 @@
    "title": "Uzbekistan and Belarus strengthen practical partnership in security and emergency prevention",
    "summary": "Uzbekistan and Belarus strengthen practical partnership in security and emergency prevention&nbsp;&nbsp;UZA.uz",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlJRbGJYRUVZcnQ5ZDU1Tzk4WDZ1NVdSd2QwOWdjYWRITGp0NW5QLUVra1VjQmFqd0sxdFR3bGh2V3haTnZpVWJwM2FIZFBLUmhyYnl2cTQzRFlHUVlUMmRoTFhNSERwXzAzN2Y5T0w3TDd2NHZVUk5QcF9Sb09Qc093T0VLY25FbVB3bzdmZnZYUUxQZUZLLTNwcnl2ZXd0RWh3RmZjc2YxWFViMmZmMjQ2Y3k3TkRjdkpZUjRIZHc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "9a376f79ae8ddb8803628cfcf0c48402",
+   "published": "2026-11-12T00:31+05:00",
+   "time_tashkent": "00:31",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "GNews/ЕС и НАТО",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "PVGIS, Comisión Europea - EU JRC - European Union - re.jrc.ec.europa.eu",
+   "summary": "PVGIS, Comisión Europea - EU JRC - European Union&nbsp;&nbsp;re.jrc.ec.europa.eu",
+   "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHTkV2QmlCdWRLTjlGM3RGUDMyYVdVWGxKTVJGMHNRQXJ0b2dITFhQSzBPTGVaRllaTHRXVFBvM1RpeHl3VmFHVllUUmpjcjZGam9v?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -20887,23 +21173,6 @@
    "confirmed": true
   },
   {
-   "hash": "d34dfeb61f3184d5b2d27664f607febb",
-   "published": "2026-11-12T00:23+05:00",
-   "time_tashkent": "00:23",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg Tech",
-   "feed": "Bloomberg Tech",
-   "paywall": true,
-   "title": "Oura to Buy AI Doctor Startup",
-   "summary": "Oura agreed to acquire AI and on-demand doctor service Counsel Health for $625 million, expanding its business following a scrapped attempt to go public. Scarlet Fu and Dani Burger discuss the acquisition on this week’s edition of “Bloomberg Deals.”\n",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "0ecf6701b47814762644f9c33a2fc6ef",
    "published": "2026-11-12T00:23+05:00",
    "time_tashkent": "00:23",
@@ -20932,6 +21201,23 @@
    "title": "European answer to Patriots may be tested this winter: Zelenskyy",
    "summary": "European answer to Patriots may be tested this winter: Zelenskyy&nbsp;&nbsp;TVP World",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcEpvODlyWU8ySjZnNG02UVpLei1zMnBuYi1OTlBQaTZjWmxxZVd1MjRVYy1VaWxiNVlVZU9OckJjMTNicFYtbWdjX3owY2RfaVpoekV2ZGVQZmotY204dHNvNlBHcUxPVVJDTWZkRzd3OXd4bFpHd2V3S2Q1UVZsRDNrV0d6a0t6a0VEUlA3dXlRSG54bk54TzJR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d34dfeb61f3184d5b2d27664f607febb",
+   "published": "2026-11-12T00:23+05:00",
+   "time_tashkent": "00:23",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "Oura to Buy AI Doctor Startup",
+   "summary": "Oura agreed to acquire AI and on-demand doctor service Counsel Health for $625 million, expanding its business following a scrapped attempt to go public. Scarlet Fu and Dani Burger discuss the acquisition on this week’s edition of “Bloomberg Deals.”\n",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/oura-to-buy-ai-doctor-startup-video",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -21255,23 +21541,6 @@
    "confirmed": true
   },
   {
-   "hash": "ba5300576de2458a9f09db7ac0807fb3",
-   "published": "2026-11-12T00:17+05:00",
-   "time_tashkent": "00:17",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "CNBC World",
-   "feed": "CNBC World",
-   "paywall": false,
-   "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
-   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
-   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "826101985853b97e885ed68ad847d0e7",
    "published": "2026-11-12T00:17+05:00",
    "time_tashkent": "00:17",
@@ -21283,6 +21552,23 @@
    "title": "Burnham is playing both sides on North Sea oil",
    "summary": "Burnham is playing both sides on North Sea oil&nbsp;&nbsp;The Telegraph",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVW5UaThHZHFoQnlWNGEzUkNuQ2JVUkxsajliaEZRODlwUXc4aVd3S2Y0ejJTY0RfSTFWYi1DRlNqZnRJTU5TbXdGLVJkWDkyUHhtWHY3STZQbm9jS242MzdWbElFQTB5RGVDNHFMMFY2UXhtVmdfbmVoT2I0ZHNLRlBXZXY3eENHTWNSWlpUYmtGM1NDWjRaTkhn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "ba5300576de2458a9f09db7ac0807fb3",
+   "published": "2026-11-12T00:17+05:00",
+   "time_tashkent": "00:17",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC World",
+   "feed": "CNBC World",
+   "paywall": false,
+   "title": "Analysis: Is Nvidia too big to fail? Its AI financing web raises the stakes",
+   "summary": "The tech giant's web of ties to other companies is raising the possibility that it could do far-reaching economic and financial damage.",
+   "link": "https://www.cnbc.com/2026/11/11/nvidia-jensen-huang-ai-financial-system-risk.html",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -21423,6 +21709,27 @@
    "confirmed": false
   },
   {
+   "hash": "fefa733b0ecda2e5730529e12910e078",
+   "published": "2026-11-12T00:16+05:00",
+   "time_tashkent": "00:16",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Cyprus Mail",
+   "feed": "GNews/СМИ Болгарии, Греции, Кипра, Мальты",
+   "paywall": false,
+   "title": "Iran designates Argentina’s navy and air force as ‘terrorist organisations’",
+   "summary": "Iran designates Argentina’s navy and air force as ‘terrorist organisations’&nbsp;&nbsp;Cyprus Mail",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnRFUjRWcFNpRUJYSV9ab2FfWU9xT01PMlI0VkhFWk1GR0ZiTXBzRW5kLWtTeXVhTEVIa1d1NURScTVxYXM5WVExaFFpa1F6YzZ1d3lWTWRhOWNucjVlU2pXanpmY1FYREZKdENfSUlUQm9EWHhWa2NGQ3IzTS15YU9BZm9RZ0wxaXAzb3RVeFVyRXFqa1h3Rm50eU9xSWZZMURocngyWlBYUlU?oc=5",
+   "also": [
+    "Al Jazeera"
+   ],
+   "also_links": [
+    "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "3663a4953b9dce8485c36de7440c32a1",
    "published": "2026-11-12T00:16+05:00",
    "time_tashkent": "00:16",
@@ -21455,27 +21762,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "fefa733b0ecda2e5730529e12910e078",
-   "published": "2026-11-12T00:16+05:00",
-   "time_tashkent": "00:16",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Cyprus Mail",
-   "feed": "GNews/СМИ Болгарии, Греции, Кипра, Мальты",
-   "paywall": false,
-   "title": "Iran designates Argentina’s navy and air force as ‘terrorist organisations’",
-   "summary": "Iran designates Argentina’s navy and air force as ‘terrorist organisations’&nbsp;&nbsp;Cyprus Mail",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZnRFUjRWcFNpRUJYSV9ab2FfWU9xT01PMlI0VkhFWk1GR0ZiTXBzRW5kLWtTeXVhTEVIa1d1NURScTVxYXM5WVExaFFpa1F6YzZ1d3lWTWRhOWNucjVlU2pXanpmY1FYREZKdENfSUlUQm9EWHhWa2NGQ3IzTS15YU9BZm9RZ0wxaXAzb3RVeFVyRXFqa1h3Rm50eU9xSWZZMURocngyWlBYUlU?oc=5",
-   "also": [
-    "Al Jazeera"
-   ],
-   "also_links": [
-    "https://www.aljazeera.com/news/2026/11/11/iran-designates-argentinian-navy-air-force-as-terrorist?traffic_source=rss"
-   ],
-   "sources_count": 2,
-   "confirmed": true
   },
   {
    "hash": "1b304ca9a6a33ba64b8430da8c8ec429",
@@ -21784,40 +22070,6 @@
    "confirmed": false
   },
   {
-   "hash": "a5efd25a624d268de0da497458c2d30a",
-   "published": "2026-11-12T00:12+05:00",
-   "time_tashkent": "00:12",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Brazil to unveil fiscal package worth up to $10.8 billion for next year, minister says",
-   "summary": "",
-   "link": "https://www.investing.com/news/economy-news/brazil-to-unveil-fiscal-package-worth-up-to-108-billion-for-next-year-minister-says-5019731",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "3d066a7d27a72bcf015ee80621a47a78",
-   "published": "2026-11-12T00:12+05:00",
-   "time_tashkent": "00:12",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Brazil’s central bank chief sees negative value in providing policy guidance",
-   "summary": "",
-   "link": "https://www.investing.com/news/economy-news/brazils-central-bank-chief-sees-negative-value-in-providing-policy-guidance-5019730",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "020ab3db6ecf84c32310cde0ced56a80",
    "published": "2026-11-12T00:12+05:00",
    "time_tashkent": "00:12",
@@ -21869,6 +22121,40 @@
    "confirmed": false
   },
   {
+   "hash": "a5efd25a624d268de0da497458c2d30a",
+   "published": "2026-11-12T00:12+05:00",
+   "time_tashkent": "00:12",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Brazil to unveil fiscal package worth up to $10.8 billion for next year, minister says",
+   "summary": "",
+   "link": "https://www.investing.com/news/economy-news/brazil-to-unveil-fiscal-package-worth-up-to-108-billion-for-next-year-minister-says-5019731",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "3d066a7d27a72bcf015ee80621a47a78",
+   "published": "2026-11-12T00:12+05:00",
+   "time_tashkent": "00:12",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Brazil’s central bank chief sees negative value in providing policy guidance",
+   "summary": "",
+   "link": "https://www.investing.com/news/economy-news/brazils-central-bank-chief-sees-negative-value-in-providing-policy-guidance-5019730",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "feaaa2bd6cc71f958a265481e17be0e1",
    "published": "2026-11-12T00:11+05:00",
    "time_tashkent": "00:11",
@@ -21890,23 +22176,6 @@
    "confirmed": true
   },
   {
-   "hash": "ac9186348e37ccf6d7bb1c5f2550c65e",
-   "published": "2026-11-12T00:11+05:00",
-   "time_tashkent": "00:11",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "First major cold snap of winter to hit Britain",
-   "summary": "First major cold snap of winter to hit Britain&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUtZQkM5Z0tpZnlwWmJGSl9QYUNyeXctTVlJeFBXbHVjSXhhTmd2YnlpLVRRQUlXWjF4MFdLaWFsckJ0NDRSS3VmRE1TOHdHWmdUM3hJWU84cTJYRFR1RXhwRDBGSlpVbnhpOU9BdElKVXBxc2pMLXNlMjRoazc1a3RCZ0NtdDFzY2RyV2R3cVhJRFBkSHc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "ce1bc6381adb4f5a9ad146a3693184a0",
    "published": "2026-11-12T00:11+05:00",
    "time_tashkent": "00:11",
@@ -21922,6 +22191,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "ac9186348e37ccf6d7bb1c5f2550c65e",
+   "published": "2026-11-12T00:11+05:00",
+   "time_tashkent": "00:11",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "First major cold snap of winter to hit Britain",
+   "summary": "First major cold snap of winter to hit Britain&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQeUtZQkM5Z0tpZnlwWmJGSl9QYUNyeXctTVlJeFBXbHVjSXhhTmd2YnlpLVRRQUlXWjF4MFdLaWFsckJ0NDRSS3VmRE1TOHdHWmdUM3hJWU84cTJYRFR1RXhwRDBGSlpVbnhpOU9BdElKVXBxc2pMLXNlMjRoazc1a3RCZ0NtdDFzY2RyV2R3cVhJRFBkSHc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "e51ff7c5888f65a70bea3fa424591eaf",
@@ -22216,23 +22502,6 @@
    "confirmed": false
   },
   {
-   "hash": "6488828f9e5118bb9b825dc0b154a3c7",
-   "published": "2026-11-12T00:08+05:00",
-   "time_tashkent": "00:08",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg Tech",
-   "feed": "Bloomberg Tech",
-   "paywall": true,
-   "title": "Take-Two’s Zelnick on Success of the GTA Franchise",
-   "summary": "Take-Two Interactive CEO Strauss Zelnick talks about the highly anticipated release of Grand Theft Auto VI, out next week. He says the Grand Theft Auto franchise “is probably the most valuable intellectual property in the entertainment business” beca",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-on-success-of-the-gta-franchise-video",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "b55dcecf3c283f0f2d808b7da4080da8",
    "published": "2026-11-12T00:08+05:00",
    "time_tashkent": "00:08",
@@ -22244,6 +22513,23 @@
    "title": "Video | Ukraine deserves 'just and lasting peace' - Taoiseach | RTÉ",
    "summary": "Video | Ukraine deserves 'just and lasting peace' - Taoiseach | RTÉ&nbsp;&nbsp;RTE.ie",
    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9FTnhsSVA4dGpUUTFPU3RIZTZuT1ZTNFY2dDN5dE5XanZkZ2dsT3dNcXhBbnU1aVVPWFJ0STREZGxHZXVpYU92WA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "6488828f9e5118bb9b825dc0b154a3c7",
+   "published": "2026-11-12T00:08+05:00",
+   "time_tashkent": "00:08",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "Take-Two’s Zelnick on Success of the GTA Franchise",
+   "summary": "Take-Two Interactive CEO Strauss Zelnick talks about the highly anticipated release of Grand Theft Auto VI, out next week. He says the Grand Theft Auto franchise “is probably the most valuable intellectual property in the entertainment business” beca",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-11/take-two-s-zelnick-on-success-of-the-gta-franchise-video",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -22373,12 +22659,14 @@
    "summary": "Militants ambush police in Pakistan, sparking gunbattle that kills 10 officers and 18 militants&nbsp;&nbsp;AP News",
    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUlPajFoQ0JJek9uOW5KdHMyV2tZT3I4V1FNTWtlcXpqR2JFMVBHNkRPc21yNmdWVHNPbXlZVDVZTnF2RTJSYkE3RUE5ZkNYWDdlaGR0WkcwbGJMSjhLYThJcnZvX25QcnlVb2llSTBKbWdyZkdnQUhfX09taGptZEstTnlsTjNSV0JRVS1YbWNVOHJHWlhoXy14eGRnNDRzdnFYaWg5YUhEOEllSGM3cXdOZEs?oc=5",
    "also": [
-    "The Daily Star"
+    "The Daily Star",
+    "RTL Today"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVJmaXFGcDdadlBLM1phZTNYbE0tdjFzQXp1allaTUU4eFQ5SHZ6X21iZmxEaHZYOGZ1TnUxaHFBS3UzUW43Z3M1QlBWWkNyT1V0dlEtUUhXeGhDcmEwLS15Y0VyZG5mNm1oYV8xeVl4QloyRkRyLVRRZVhfS0I4ejJzYktYWm0zVVFOMlFMRk1LemxKaDM2QzVvS2ppcUE?oc=5"
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVJmaXFGcDdadlBLM1phZTNYbE0tdjFzQXp1allaTUU4eFQ5SHZ6X21iZmxEaHZYOGZ1TnUxaHFBS3UzUW43Z3M1QlBWWkNyT1V0dlEtUUhXeGhDcmEwLS15Y0VyZG5mNm1oYV8xeVl4QloyRkRyLVRRZVhfS0I4ejJzYktYWm0zVVFOMlFMRk1LemxKaDM2QzVvS2ppcUE?oc=5",
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxONllVQXFmUmhuc2pyVDN4ejNiVDNsVm1QaEtZMVdtMTBRcEZMalA4dzJCeFNra2NqREpYeFNZNllsaG1UY2hKX19CY0tIM2d0WGVyZ3pKQ2x6REU1M01DdHpibFZtN2tKMVY3dExXNU5iWEItTEtsb0NOYnZxbktzUUJZX19oMWZYemVkTzZWa1BEMEo4Mk1SNnFyWQ?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -22450,23 +22738,6 @@
    "confirmed": false
   },
   {
-   "hash": "451500c23ca22ba7265c313a269bc407",
-   "published": "2026-11-12T00:06+05:00",
-   "time_tashkent": "00:06",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "FXStreet",
-   "feed": "GNews/CentralBanks",
-   "paywall": false,
-   "title": "The Australian Dollar is losing the one thing that was holding it up",
-   "summary": "The Australian Dollar is losing the one thing that was holding it up&nbsp;&nbsp;FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXy00QlQwNTJrSkNETWFEbWFDb2JLekptYUcwTjJOTFdVYjQ3TEZQTnczb014cUx6UW16WUFSSDVrcnFSUHk5em9CcURDQUZwOWU1bXdRdkZzZ1ZVX1diUnhHaXJYYVphRmdObl9uYk50VUZ2dUM2bWhFWjI3TVZfZ0pqQlVzUWRKNHRRd2c4d1pQRU1oSXJnalhvenR2c1RvcmxnSlRmQ1lkZHpveXphSEZfekNfdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "d16efdee8a614c2e3f6f0787e6073a9f",
    "published": "2026-11-12T00:06+05:00",
    "time_tashkent": "00:06",
@@ -22512,6 +22783,23 @@
    "title": "Minister Lep Šimenko commits to stronger backing of Slovenian community in Croatia",
    "summary": "Minister Lep Šimenko commits to stronger backing of Slovenian community in Croatia&nbsp;&nbsp;Slovenian Press Agency",
    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZ05lRnQzNHFDSWRRVjloQzdJanMxYmNPU0dndVRkZzl1SjVpU2pIWUpoaWVnNEw3dUZNbENBWWVMZWhvRXFCcXpNbHdMcmYyOVd5RVVJaXE1VktCdUI5S09CM05RcmdUbS1NR1dEa1E3OTBYUVFvZDRPc1dWQk1hOHZnaGFta3p3dVdVVzI4eHBjcWNVUVVjYlAxNURkUm43bHFkaFJGWDAtM0lxV0JaTWRZNA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "451500c23ca22ba7265c313a269bc407",
+   "published": "2026-11-12T00:06+05:00",
+   "time_tashkent": "00:06",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "FXStreet",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "The Australian Dollar is losing the one thing that was holding it up",
+   "summary": "The Australian Dollar is losing the one thing that was holding it up&nbsp;&nbsp;FXStreet",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNXy00QlQwNTJrSkNETWFEbWFDb2JLekptYUcwTjJOTFdVYjQ3TEZQTnczb014cUx6UW16WUFSSDVrcnFSUHk5em9CcURDQUZwOWU1bXdRdkZzZ1ZVX1diUnhHaXJYYVphRmdObl9uYk50VUZ2dUM2bWhFWjI3TVZfZ0pqQlVzUWRKNHRRd2c4d1pQRU1oSXJnalhvenR2c1RvcmxnSlRmQ1lkZHpveXphSEZfekNfdw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -22634,6 +22922,23 @@
    "confirmed": true
   },
   {
+   "hash": "459103a7dae369f4fab43a92713cad13",
+   "published": "2026-11-12T00:04+05:00",
+   "time_tashkent": "00:04",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Report.az",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Armenian president signs law ratifying TRIPP agreement with US",
+   "summary": "Armenian president signs law ratifying TRIPP agreement with US&nbsp;&nbsp;Report.az",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWVVbTAwT1YwaW9rWHMxMkswSU85NWpxNjd5T2xubllsQ1diN19tYk9neG9INncxX3FrN0lKUkJjenJaempVMG5RX2d4N0xSSkU2bzFQWXRMcDVPcUxxQTI2Z055YTI0UFd3REg2V0J6Znlhd2dRV1cwYnNSUFZrZmMxWFQwRUNNRHB0MkhZQmdjbVlL?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "eb7f54049e8301468b507a7b05142210",
    "published": "2026-11-12T00:04+05:00",
    "time_tashkent": "00:04",
@@ -22687,23 +22992,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "459103a7dae369f4fab43a92713cad13",
-   "published": "2026-11-12T00:04+05:00",
-   "time_tashkent": "00:04",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Report.az",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Armenian president signs law ratifying TRIPP agreement with US",
-   "summary": "Armenian president signs law ratifying TRIPP agreement with US&nbsp;&nbsp;Report.az",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWVVbTAwT1YwaW9rWHMxMkswSU85NWpxNjd5T2xubllsQ1diN19tYk9neG9INncxX3FrN0lKUkJjenJaempVMG5RX2d4N0xSSkU2bzFQWXRMcDVPcUxxQTI2Z055YTI0UFd3REg2V0J6Znlhd2dRV1cwYnNSUFZrZmMxWFQwRUNNRHB0MkhZQmdjbVlL?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "5b048f4c346bdb9a0ee73db840a8d81c",
@@ -22767,23 +23055,6 @@
    "confirmed": true
   },
   {
-   "hash": "31b5048297afb9dba795aaecfa9a2d81",
-   "published": "2026-11-12T00:03+05:00",
-   "time_tashkent": "00:03",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "LiteFinance",
-   "feed": "GNews/Oil",
-   "paywall": false,
-   "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
-   "summary": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days&nbsp;&nbsp;LiteFinance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "33b64dd9e7e20d66a0cc5b948efc9368",
    "published": "2026-11-12T00:03+05:00",
    "time_tashkent": "00:03",
@@ -22803,6 +23074,23 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "31b5048297afb9dba795aaecfa9a2d81",
+   "published": "2026-11-12T00:03+05:00",
+   "time_tashkent": "00:03",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "LiteFinance",
+   "feed": "GNews/Oil",
+   "paywall": false,
+   "title": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days",
+   "summary": "Oil (USCrude) Price Forecast for Today, Tomorrow, Next Week, and Next 30 Days&nbsp;&nbsp;LiteFinance",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcm51RHFTMGNQcnB2aFl5bjNQQzFXUVVHckh1eW1IVktpM0lfaXlCQ2p6RF9nYWxkajlxb2R2V0lkRi1FNnljalUwMlhaU2FFT2dCUDBwem9tVG14Y1FXZGVKbWJvSm0xNlVVZ1BwdTItWnJkOTF3TnFTU2FQLWZibmhXRXlnX2RJY25leTB2ekVVUHZMZS1zbjBhWkNJLWs?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "535304de4cbf9772fdfa4cc11e05c15b",
@@ -22877,6 +23165,23 @@
    "confirmed": true
   },
   {
+   "hash": "9f139f7859bcaf9ef77faa6b36346fd2",
+   "published": "2026-11-12T00:01+05:00",
+   "time_tashkent": "00:01",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Euronews",
+   "feed": "Euronews",
+   "paywall": false,
+   "title": "German tech company signs €60 million contract with Elon Musk for satellite solar cell supply",
+   "summary": "SpaceX signed a €60 million deal with German mechanical engineering company Singulus Technologies for the strategic supply of solar cells, giving the German company a massive price jump.",
+   "link": "https://www.euronews.com/2026/11/11/german-tech-company-signs-60-million-contract-with-elon-musk-for-satellite-solar-cell-supp",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "0fc7e46af1013a90e485c9015fc901c8",
    "published": "2026-11-12T00:01+05:00",
    "time_tashkent": "00:01",
@@ -22911,23 +23216,6 @@
    "confirmed": false
   },
   {
-   "hash": "9f139f7859bcaf9ef77faa6b36346fd2",
-   "published": "2026-11-12T00:01+05:00",
-   "time_tashkent": "00:01",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Euronews",
-   "feed": "Euronews",
-   "paywall": false,
-   "title": "German tech company signs €60 million contract with Elon Musk for satellite solar cell supply",
-   "summary": "SpaceX signed a €60 million deal with German mechanical engineering company Singulus Technologies for the strategic supply of solar cells, giving the German company a massive price jump.",
-   "link": "https://www.euronews.com/2026/11/11/german-tech-company-signs-60-million-contract-with-elon-musk-for-satellite-solar-cell-supp",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "adc0f9dbb358c8b65adf4f40709dfb06",
    "published": "2026-11-12T00:01+05:00",
    "time_tashkent": "00:01",
@@ -22939,40 +23227,6 @@
    "title": "Trump says the towering arch he wants to be build might be dedicated to military veterans",
    "summary": "Trump says the towering arch he wants to be build might be dedicated to military veterans&nbsp;&nbsp;AP News",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmRTT0JScmJKSmJ4eklOdzhRal9feFJDRDFSaWszLW9VT0cyVUlHajNQbHMxVTAxLTZMTEZURENSbDBUVnlKUTI4R2JMZjVkdWlfcWRGN1F5bGNBcXQtSmhWSDFUUHpnOEdiZG52SnNObzNJS1U4aW5vLVUtV0xjbWlfaE81eUlJNkVIRkZnOVl5d0xncURiLTZR?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "c2b74afd25be262b9d2ffaf9b4e12fbc",
-   "published": "2026-11-12T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "OilPrice",
-   "feed": "OilPrice",
-   "paywall": false,
-   "title": "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade",
-   "summary": "China and Central Asia are acting fast to expand air links. Chinese and Central Asian aviation officials gathered in Tashkent on November 3-5 for a Working Group session under the C5+1 format to improve implementation of existing agreements and revie",
-   "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Its-Central-Asian-Footprint-Through-Aviation-Energy-and-Trade.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "9a5de627ec087a5dff5ad76a9a3a2703",
-   "published": "2026-11-12T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg Tech",
-   "feed": "Bloomberg Tech",
-   "paywall": true,
-   "title": "US Military, Congress Focus on Toll of Cyber Jobs Following Suicides",
-   "summary": "At least 11 workers at NSA and Cyber Command have taken their own lives in last year or so.",
-   "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-military-congress-focus-on-toll-of-cyber-jobs-following-suicides",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -23007,6 +23261,40 @@
    "title": "The olive branch is a universal symbol of peace – but the West Bank’s autumn olive harvest is open season for Israeli settlers to pillage and kill",
    "summary": "The olive branch is a universal symbol of peace – but the West Bank’s autumn olive harvest is open season for Israeli settlers to pillage and kill&nbsp;&nbsp;EUobserver",
    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNdTZlV3hEam0xeURaamZFVDN4VGpxUEhDMnhLdV9GT044VE1SMjVYTlVoc243ODJFd0ZZWi1RdlZDSkt5SFpqdFNTZFNfcTdVVEdKQmZoNlE4VVhlNHVVbmlmLW1TajZ4bVk4c2tPaVBMZFNQS2hFOXM4Z3kwTkxjVmZWQkRCZ3lXaFJCZmJBbGF0X24wbHpaNHZUN2JJNm9HZDQ4cUcyWGxyNFJ2bXp0cEpSNjRrT3Rha0Y0Y2xsNUtUMHBDWGUtcmZfRGJfMU5BN3U4TU9KRTQ2QXFqQnhoR0FHZFZkWklUbTFfZXVFOUQ2NXJscWp4UGlTcElXQjd0Z1ZScA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "c2b74afd25be262b9d2ffaf9b4e12fbc",
+   "published": "2026-11-12T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "OilPrice",
+   "feed": "OilPrice",
+   "paywall": false,
+   "title": "China Expands Its Central Asian Footprint Through Aviation, Energy, and Trade",
+   "summary": "China and Central Asia are acting fast to expand air links. Chinese and Central Asian aviation officials gathered in Tashkent on November 3-5 for a Working Group session under the C5+1 format to improve implementation of existing agreements and revie",
+   "link": "https://oilprice.com/Energy/Energy-General/China-Expands-Its-Central-Asian-Footprint-Through-Aviation-Energy-and-Trade.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9a5de627ec087a5dff5ad76a9a3a2703",
+   "published": "2026-11-12T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "US Military, Congress Focus on Toll of Cyber Jobs Following Suicides",
+   "summary": "At least 11 workers at NSA and Cyber Command have taken their own lives in last year or so.",
+   "link": "https://www.bloomberg.com/news/newsletters/2026-11-11/us-military-congress-focus-on-toll-of-cyber-jobs-following-suicides",
    "also": [],
    "also_links": [],
    "sources_count": 1,
