@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T17:21:55.368743+05:00",
+  "updated": "2026-11-12T17:38:40.838357+05:00",
   "items": [
     {
       "hash": "71e87e64660ad0e5c73517d3d6bfa073",
@@ -208,30 +208,6 @@
       "status": "new",
       "ts": "2026-11-12T14:04:42.875419+05:00",
       "age_min": 14.0
-    },
-    {
-      "hash": "e3af62fc189d98136fba8ab90f89f9c9",
-      "title": "US war in Iran : How midterms put pressure on Donald Trump",
-      "original_title": "US war in Iran : How midterms put pressure on Donald Trump",
-      "link": "https://www.dw.com/en/where-the-uss-war-with-iran-stands-after-the-midterms/a-79918176",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-12T13:31:40.387559+05:00",
-      "age_min": 106.7
-    },
-    {
-      "hash": "f1feec58c59d47af829835d80790492d",
-      "title": "Trump and Netanyahu Clash Over Iran : Heated Debate on War Strategy Reported",
-      "original_title": "Trump and Netanyahu Clash Over Iran : Heated Debate on War Strategy Reported",
-      "link": "https://openthemagazine.com/world/trump-netanyahu-iran-war-clash-shouting-match-from-hell-reported-as-leaders-disagree",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-12T13:31:40.368581+05:00",
-      "age_min": 91.7
     },
     {
       "hash": "6cbfc34087d5c4ce1bee4674742d968f",
@@ -546,19 +522,6 @@
       "age_min": 6.5
     },
     {
-      "hash": "5fb58c8fe808145ad4b925d6a6b11981",
-      "title": "Indonesian vice president resigns before completing 5-year term",
-      "original_title": "Indonesian vice president resigns before completing 5-year term",
-      "rss_summary": "Indonesian vice president resigns before completing 5-year term&nbsp;&nbsp;Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOWY1ZmpHcGo5ZHVsRDNkUjQyRjBLUkc1bkNVcHFXejNERTYzS01saEZ3bkRFbTRScjRBTVpJay1WTklJaEJYMlgycGFKS3N4NjUtbG5wak1sWm51eFJGLTF6UlNUX2dScWRKUFRCeXNXalZuVzBoMmVUMDF1cHBibXUzcWViN1U0MW9QMDUwclg5cmZ1dTN4M2dkOUpIdFVwWHF5bnR3ODJzR0JtY3c?oc=5",
-      "source": "Anadolu Ajansı",
-      "score": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-12T13:33:04.996004+05:00",
-      "age_min": 14.0
-    },
-    {
       "hash": "daa71a68a008aeb92dd73ac66c5c0f43",
       "title": "Израильская оккупация на юге Ливана: перемещенным семьям трудно выжить",
       "original_title": "Israeli occupation in southern Lebanon: Displaced families struggle to cope",
@@ -648,6 +611,45 @@
       "status": "new",
       "ts": "2026-11-12T16:48:40.332252+05:00",
       "age_min": 24.5
+    },
+    {
+      "hash": "1002d3404b385950d0e482bfea91873f",
+      "title": "Испания одобряет жилищные меры после массовых протестов. Их продолжительность может зависеть от выборов",
+      "original_title": "Spain approves housing measures after huge protests. Their duration may depend on the election",
+      "rss_summary": "Spain approves housing measures after huge protests. Their duration may depend on the election&nbsp;&nbsp;The Globe and Mail",
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxORjBYY2hVbllLTDc2QjBxcUtBMzZEWGZPb1pVNHhqRGlOYWhYVXRjOWc1SEF4Y0VPbXZDRE0xUzRaOEZQYl8telIzMFJ4bUlCT1N6VThNa3NzX0EwYnNwbEJsWGprRzYwci1ZVkUwS2tQeXB5UWZnUkhxUG1mcjlRc09xdDNkMGZ3WkdYV1hWVmlRMTVsam4zVThLX21PZy1WQmVFZlhoYkVNeW1xZTdidF91aEZtNDJzXzZuNU91R2cxdjFaN2hYd0lma0VRUkpVQVMtclhBWXpoczEyRWFWN1NKaUlBT083NFdNbUxkbk9YNllmSURnanpLdVVfcWpxUlVvYjVpQ3loaUk?oc=5",
+      "source": "The Globe and Mail",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-12T17:34:46.476854+05:00",
+      "age_min": 28.6
+    },
+    {
+      "hash": "f5cf23de2701a1a8b424682bbe92639b",
+      "title": "Трамп пригрозил двойными тарифами на мексиканские товары из-за мигрантов",
+      "original_title": "Trump Threatens to Double Tariffs on Mexican Goods Over Migrants",
+      "rss_summary": "President Donald Trump threatened to double tariffs on goods from Mexico “immediately” if the country did not stop what he claimed were migrant caravans preparing to head to the US, ratcheting up trade tensions with a major economic partner.",
+      "link": "https://www.bloomberg.com/news/articles/2026-11-12/trump-threatens-to-double-tariffs-on-mexican-goods-over-migrants",
+      "source": "Bloomberg Politics",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-12T17:34:38.139664+05:00",
+      "age_min": 11.1
+    },
+    {
+      "hash": "47a24616252cbad56bfdaf4e29e94e04",
+      "title": "Группа MultiBank и соглашение Universal Sign о развитии расчетных возможностей USDU для институциональных клиентов",
+      "original_title": "MultiBank Group and Universal Sign Agreement to Develop USDU Settlement Capabilities for Institutional Clients",
+      "rss_summary": "MultiBank Group and Universal Sign Agreement to Develop USDU Settlement Capabilities for Institutional Clients&nbsp;&nbsp;AFP.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVThncTVGNGpSdnVnbXFYb1RmWGQwNWZaMVJfQjR4ODMxZW9oVGRiSEdITDNlV2NUclJndnI5YTFONkgtUDZGcWF5bzNvX2RHTGxVMzFpYmFVZm9vSWlvMzlJdVdOZmZndzFRUjd4ZGZmbzVQTVFvOGxXS2FqLU1Sa2tQZmVjdDFlOV9pLU14bklmSTc2c3VueUk0Y1RSY2FyQVNIZEx1MmU0QWczRWdF?oc=5",
+      "source": "AFP.com",
+      "score": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-12T17:34:37.747534+05:00",
+      "age_min": 32.6
     }
   ]
 }
