@@ -1509,7 +1509,7 @@ def main():
     last_summary_date = sent.get("last_summary_date", "")
     is_summary = (now_tsh.hour == 20) and last_summary_date != today
 
-    # Telegram: сводка раз в 3 часа + срочное (DIGEST_MODE=legacy возвращает старую рассылку на каждый запуск)
+    # Telegram: сводка раз в час + срочное (DIGEST_MODE=legacy возвращает старую рассылку на каждый запуск)
     legacy = os.environ.get("DIGEST_MODE", "").lower() == "legacy"
     if not legacy:
         try:

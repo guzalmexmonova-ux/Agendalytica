@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-AGENDALYTICA — сводка в Telegram каждые 3 часа (по Ташкенту, UTC+5) + срочные отдельно.
+AGENDALYTICA — сводка в Telegram каждый час (по Ташкенту, UTC+5) + срочные отдельно.
 
 Состояние живёт в sent.json (Gist) под ключом "digest": каждый запуск Actions — новый runner,
 поэтому ничего не хранится локально. Чистая логика: отправка передаётся функцией send(text)->bool.
@@ -12,7 +12,7 @@ from datetime import datetime, timedelta, timezone
 import scoring
 
 TZ = timezone(timedelta(hours=5))
-SLOT_HOURS = (0, 3, 6, 9, 12, 15, 18, 21)   # границы сводок по Ташкенту; ночные можно убрать
+SLOT_HOURS = tuple(range(24))   # сводка каждый час по Ташкенту (решение владельца 19.11); пустые не отправляются
 IMPORTANT_MIN = scoring.IMPORTANT_MIN        # 7
 URGENT_MIN = scoring.URGENT_MIN              # 9
 URGENT_GAP = timedelta(hours=1)              # срочные — не чаще 1 раза в час
@@ -134,7 +134,7 @@ def build_digest(state, now, new_keys):
     hh = now.strftime("%H:%M")
     head = f"🗓 <b>СВОДКА {hh} TSH</b> · {now.strftime('%d.%m')}\n━━━━━━━━━━━━━━━━━━━━━━\n"
     new = sorted((items[k] for k in new_keys), key=lambda x: (x["s"], x["n"]), reverse=True)[:NEW_LIMIT]
-    parts = [head, "🆕 <b>Новое за последние 3 часа</b>\n"]
+    parts = [head, "🆕 <b>Новое за последний час</b>\n"]
     parts += [_line(i, it) for i, it in enumerate(new, 1)] if new else ["— ничего нового важного\n"]
     parts.append(f"\n📊 <b>За сегодня собрано: {important} важных / {state.get('total', 0)} всего</b>\n")
     top = sorted(items.items(), key=lambda kv: (kv[1]["s"], kv[1]["n"], kv[1]["first"]), reverse=True)[:TOP_LIMIT]
@@ -164,7 +164,7 @@ def process(state, fresh, now, send, total_added=None):
             it["urgent"] = True
             state["last_urgent_at"] = now.isoformat(timespec="minutes")
 
-    # 2) сводка раз в 3 часа
+    # 2) сводка раз в час
     if digest_due(state, now):
         new_keys = [k for k, it in items.items() if not it["digest"] and not it["urgent"]]
         if not new_keys and not items:

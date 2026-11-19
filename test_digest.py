@@ -18,12 +18,12 @@ def test_slot_schedule():
     st = digest.new_state("2026-11-19")
     assert digest.digest_due(st, at(10))                       # первый запуск
     st["last_digest_at"] = at(9, 5).isoformat()
-    assert not digest.digest_due(st, at(10, 50))               # тот же слот 9–12
-    assert digest.digest_due(st, at(12, 0))                    # новый слот
-    assert digest.slot_start(at(14, 30)).hour == 12
+    assert not digest.digest_due(st, at(9, 50))                # тот же часовой слот
+    assert digest.digest_due(st, at(10, 0))                    # новый слот
+    assert digest.slot_start(at(14, 30)).hour == 14
 
 
-def test_digest_once_per_3h_with_15min_cron():
+def test_digest_once_per_hour_with_15min_cron():
     sent, st = [], digest.new_state("2026-11-19")
     k = 0
     t = at(0, 0)
@@ -34,7 +34,7 @@ def test_digest_once_per_3h_with_15min_cron():
                        lambda x: sent.append(x) or True)
         t += timedelta(minutes=15)
     digests = [s for s in sent if s.startswith("🗓")]
-    assert len(digests) == 8                                    # 24ч / 3ч, а не 96 сообщений
+    assert len(digests) == 24                                   # раз в час, а не 96 сообщений
     assert all("важных" in d and "всего" in d for d in digests)
 
 
