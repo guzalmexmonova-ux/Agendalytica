@@ -1,7 +1,6 @@
-name: Sender (every 6 min)
+name: Sender (manual only)
+# Расписание отключено 19.11.2026: в Telegram идёт только сводка раз в 3 часа из parser.py (digest.py).
 on:
-  schedule:
-    - cron: '*/6 * * * *'
   workflow_dispatch:
 jobs:
   run:

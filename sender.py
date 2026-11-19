@@ -229,10 +229,12 @@ def main():
     if success:
         # Помечаем как отправленное
         sent_hashes.add(item["hash"])
-        gist_write("sent.json", {
-            "updated": datetime.now(TZ).isoformat(),
-            "hashes": list(sent_hashes)[-500:]
-        })
+        # Не затирать данные parser.py (digest, records, stories): перечитать и обновить только свои поля
+        merged = gist_read("sent.json") or {}
+        merged_hashes = list(dict.fromkeys(list(merged.get("hashes", [])) + [item["hash"]]))
+        merged["hashes"] = merged_hashes[-500:]
+        merged["updated"] = datetime.now(TZ).isoformat()
+        gist_write("sent.json", merged)
         print(f"✅ Готово!")
     else:
         print("❌ Ошибка отправки")
