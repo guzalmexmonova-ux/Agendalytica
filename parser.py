@@ -17,6 +17,9 @@ from datetime import datetime, timezone, timedelta
 import feedparser
 import requests
 
+import scoring
+import digest
+
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 #  КОНФИГ И КРИТИЧЕСКАЯ ВАЛИДАЦИЯ
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -709,7 +712,7 @@ def fetch_all(cutoff=None):
                 articles.append({
                     "hash": h, "title": title, "original_title": title,
                                         "link": link, "source": source_name,
-                    "score": sc, "weight": weight, "status": "new",
+                    "score": sc, "score_raw": sc, "weight": weight, "status": "new",
                     "ts": datetime.now(TZ).isoformat(), "age_min": age_min,
                 })
         except Exception as e:
@@ -766,7 +769,7 @@ def fetch_all(cutoff=None):
                     "hash": h, "title": title, "original_title": title,
                     "rss_summary": summary,
                     "link": link, "source": src,
-                    "score": sc, "weight": cfg["weight"], "status": "new",
+                    "score": sc, "score_raw": sc, "weight": cfg["weight"], "status": "new",
                     "ts": datetime.now(TZ).isoformat(), "age_min": age_min,
                 })
         except Exception:
@@ -792,14 +795,26 @@ def fetch_all(cutoff=None):
     unique, seen_sigs = [], []
     for a in articles:
         s = sig(a["title"])
-        dup = False
-        for prev in seen_sigs:
+        dup_of = None
+        for k, prev in enumerate(seen_sigs):
             if s and prev and len(s & prev) / max(len(s), 1) >= 0.6:
-                dup = True
+                dup_of = k
                 break
-        if not dup:
+        if dup_of is None:
             seen_sigs.append(s)
             unique.append(a)
+        else:
+            # Перепечатка из другого издания = подтверждение сюжета (учитывается в итоговом балле)
+            keep = unique[dup_of]
+            also = keep.setdefault("also", [])
+            if a["source"] != keep["source"] and a["source"] not in also:
+                also.append(a["source"])
+
+    # Итоговый балл (scoring.py): сырой score_raw остаётся в записи, score — пересчитан
+    for a in unique:
+        a["sources_count"] = 1 + len(a.get("also", []))
+        scoring.rescore_article(a)
+    unique.sort(key=lambda x: (x["score"] * x["weight"], x["score_raw"]), reverse=True)
 
     return unique[:TOP_N]
 
@@ -889,6 +904,22 @@ def format_line(i, a, with_age=True):
     parts.append(a["source"])
     head = " | ".join(parts)
     return f"{head}\n📰 {a['title'][:150]}\n👉 <a href='{a['link']}'>Читать</a>\n"
+
+def tg_send(text):
+    """Одно сообщение в Telegram (HTML). True при успехе; без токенов — False."""
+    if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
+        print("⚠ TELEGRAM_TOKEN/CHAT_ID не настроены — пропуск отправки")
+        return False
+    try:
+        r = requests.post(f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage", json={
+            "chat_id": TELEGRAM_CHAT_ID, "text": text, "parse_mode": "HTML", "disable_web_page_preview": True,
+        }, timeout=20)
+        if r.status_code != 200:
+            print(f"  ⚠ TG HTTP {r.status_code}: {r.text[:200]}")
+        return r.status_code == 200
+    except Exception as e:
+        print(f"  ⚠ TG Error: {e}")
+        return False
 
 def send_to_telegram(fresh_items, daily_items, today, is_summary=False):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
@@ -1357,6 +1388,7 @@ def main():
 
     added = 0
     skipped_stories = 0
+    dg_state = digest.load_state(sent.get("digest"), datetime.now(TZ))
     fresh_to_send = []
     for a in articles:
         if a["hash"] in sent_hashes or a["hash"] in queue_hashes:
@@ -1364,6 +1396,7 @@ def main():
         # ФИКС: перепечатка той же истории с другого URL — не отправляем
         if is_known_story(a, known_sigs):
             skipped_stories += 1
+            digest.bump(dg_state, a)     # перепечатка = подтверждение сюжета в сводке
             continue
         s_new = story_sig(a)
         known_sigs.append(set(s_new))
@@ -1476,7 +1509,16 @@ def main():
     last_summary_date = sent.get("last_summary_date", "")
     is_summary = (now_tsh.hour == 20) and last_summary_date != today
 
+    # Telegram: сводка раз в 3 часа + срочное (DIGEST_MODE=legacy возвращает старую рассылку на каждый запуск)
+    legacy = os.environ.get("DIGEST_MODE", "").lower() == "legacy"
+    if not legacy:
+        try:
+            digest.process(dg_state, fresh_to_send, datetime.now(TZ), tg_send, total_added=added)
+        except Exception as ex:
+            print(f"⚠ Digest: ошибка, состояние не изменено: {ex}")
+
     gist_write(gist_id, "sent.json", {
+        "digest": dg_state,
         "hashes": [r["h"] for r in sent_records],
         "records": sent_records,
         "stories": story_log[-400:],
@@ -1489,7 +1531,8 @@ def main():
     # параллельных запусков быть не должно. Если начнут случаться —
     # добавим блокировку через Gist, а не по хэшам.
 
-    send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
+    if legacy:
+        send_to_telegram(fresh_to_send, daily["items"], today, is_summary)
 
     # Daily News Chain: файл дня — после Telegram, ошибка здесь не ломает Agendalytica
     try:
