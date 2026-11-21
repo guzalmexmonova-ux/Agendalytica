@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T15:37:23.250904+05:00",
+  "updated": "2026-11-21T15:52:07.875547+05:00",
   "items": [
     {
       "hash": "b142062dcce6dc47c1ae8bc8ebb09d43",
@@ -47,19 +47,22 @@
       "sources_count": 1
     },
     {
-      "hash": "21db80190f0cbb51a2e954489065f858",
-      "title": "Конгресс США | Последние новости и обновления",
-      "original_title": "U.S. Congress | Latest News & Updates",
-      "rss_summary": "U.S. Congress | Latest News & Updates&nbsp;&nbsp;AP News",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE50a25Nc3cyeDNMMGlPNEVMU19HcXFkeHI1MkpNb0F4ZmRKVVVuaV9vMm9JU1d0TTBOa3JmWDJSMnMzQ1F4RHc?oc=5",
-      "source": "AP News",
-      "score": 5,
-      "score_raw": 8,
-      "weight": 5,
+      "hash": "091aea33824bdbaf9a5cd98d91172215",
+      "title": "Хуситы нанесли удар по Саудовской Аравии",
+      "original_title": "Houthis launch strikes on Saudi Arabia",
+      "rss_summary": "Iran-backed Houthi rebels in Yemen continue to exchange strikes with the Saudi-led coalition. The coalition said it intercepted and destroyed three ballistic missiles fired towards Riyadh early on Saturday. It marks the second Houthi attack on the Saudi capital in recent days, following Saudi-led strikes on Houthi targets in Yemen. Yuka Royer has the latest.",
+      "link": "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+      "source": "France24",
+      "score": 8,
+      "score_raw": 10,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-11-21T11:48:31.602888+05:00",
-      "age_min": 112.1,
-      "sources_count": 1
+      "ts": "2026-11-21T15:48:17.742319+05:00",
+      "age_min": 58.6,
+      "also": [
+        "France 24"
+      ],
+      "sources_count": 2
     },
     {
       "hash": "71b26836722076deb689dc1e52bc205b",
@@ -88,24 +91,6 @@
       "ts": "2026-11-21T12:15:56.982229+05:00",
       "age_min": 30.9,
       "sources_count": 1
-    },
-    {
-      "hash": "c98b1787bd1997d513c1af5dfe64c72b",
-      "title": "Сделка с ЕС не зависит от соглашения об оплате обучения, говорит Милибэнд",
-      "original_title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
-      "rss_summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
-      "link": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "score": 6,
-      "score_raw": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-21T11:48:06.987543+05:00",
-      "age_min": 48.0,
-      "also": [
-        "BBC"
-      ],
-      "sources_count": 2
     },
     {
       "hash": "14428417cb6a89b002fd8f7f0cc3d448",
@@ -328,6 +313,69 @@
       "sources_count": 1
     },
     {
+      "hash": "aed95a53384168f2072011767e6fdb2c",
+      "title": "Россия отбрасывает пыль со своих довоенных требований, когда США поднимают вопрос о европейской безопасности на переговорах по Украине",
+      "original_title": "Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine talks",
+      "rss_summary": "The proposal to discuss broader security arrangements for Europe was floated by Donald Trump’s envoys, and that has worried Ukraine and its Western allies, who fear it will play into Moscow’s hands and weaken NATO",
+      "link": "https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece",
+      "source": "The Hindu",
+      "score": 6,
+      "score_raw": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-21T15:48:35.733485+05:00",
+      "age_min": 97.1,
+      "sources_count": 1
+    },
+    {
+      "hash": "62ac08d054d6b1ce570b9896ffd50049",
+      "title": "Иран-США переговоры зашли в тупик из-за спора по обогащению урана, посредники предупреждают о возобновлении конфликта, говорится в сообщениях",
+      "original_title": "Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict, says reports",
+      "rss_summary": "The diplomatic deadlock comes amid continuing tensions between Washington and Tehran, with both countries yet to reach an understanding on the future of Iran's nuclear programme",
+      "link": "https://www.thehindu.com/news/international/iran-us-negotiations-stalled-over-uranium-enrichment-dispute-mediators-warn-of-renewed-conflict-says-reports/article71727934.ece",
+      "source": "The Hindu",
+      "score": 6,
+      "score_raw": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-21T15:48:35.730188+05:00",
+      "age_min": 10.2,
+      "sources_count": 1
+    },
+    {
+      "hash": "26b7f00b7a52ce5a759f3a6bafa0abd5",
+      "title": "Коста сокращает предлагаемый бюджет ЕС на 44 млрд евро",
+      "original_title": "Costa cuts proposed EU budget by €44B",
+      "rss_summary": "Brussels proposes tax on Big Tech to raise billions for the next budget cycle.",
+      "link": "https://www.politico.eu/article/costa-cuts-proposed-eu-budget-by-44billion-euros/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+      "source": "Politico EU",
+      "score": 6,
+      "score_raw": 7,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-21T15:48:19.054581+05:00",
+      "age_min": 4.2,
+      "also": [
+        "POLITICO.eu"
+      ],
+      "sources_count": 2
+    },
+    {
+      "hash": "e68991209fd25edd709dd4e990a8d3bd",
+      "title": "Пять факторов энергетического рынка, которые могут склонить чашу весов в войне на Ближнем Востоке",
+      "original_title": "Five Energy Market Factors That Could Tip the Scales in the Middle East War",
+      "rss_summary": "Oil, gas and fuel prices are central to the U.S.-Israeli war with Iran, with Washington striving to lower them and Tehran to keep them high. With both sides determined to prevail, five market-shaping developments in particular could affect whether fighting ramps up or de-escalates.",
+      "link": "https://www.crisisgroup.org/cmt/united-states/united-states-iran-israelpalestine/five-energy-market-factors-could-tip-scales-middle-east-war",
+      "source": "Crisis Group",
+      "score": 6,
+      "score_raw": 9,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-21T15:47:52.381874+05:00",
+      "age_min": null,
+      "sources_count": 1
+    },
+    {
       "hash": "31efb85863ad61c81e602e9b820d0314",
       "title": "Министр иностранных дел Ирана заявил, что доводы в пользу изменения ядерной доктрины страны имеют «сильную логику»",
       "original_title": "Iranian Foreign Minister Says Case For Changing Country's Nuclear Doctrine Has 'Strong Logic'",
@@ -415,6 +463,51 @@
       "status": "new",
       "ts": "2026-11-21T12:48:52.836444+05:00",
       "age_min": 9.3,
+      "sources_count": 1
+    },
+    {
+      "hash": "782557f580016c52b284bd2ae2ae1e1e",
+      "title": "Его Высочество Эмир присутствовал на банкете, устроенном президентом Германии - Амири Диван",
+      "original_title": "HH The Amir Attends Dinner Banquet Hosted by President of Germany - الديوان الأميري",
+      "rss_summary": "HH The Amir Attends Dinner Banquet Hosted by President of Germany&nbsp;&nbsp;الديوان الأميري",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNZUNRNl9sYk5uRU9SbUZPWUNDZGZybUdYWVBsVFdvc1BCc3UycElEclZEYklOMWNlYTJpNGVnSUJvUy13cnpYMnVrYkhfSzMyZnNGM0RGZ0JaN3JDNmJTb3FxbWxXcGpsaGVNRU9ackZJZndBOVYyUlhHYnBiMUkwaFZVYTJVOEZWQVRyblRtVXJYVWdOZ0RPSFFaSEhPcTFYVW5VVl9wbUNpanlEWkx0cVM4bmhQUUVkbEVsSndzMVdwQXRGSmcxbWU4emlTbWo0bEwyTDB5R25DcXRFZlNVSG1uRlNFRjBTVjZzWXZhVkhMMEF5eVZjekItQ18?oc=5",
+      "source": "GNews/Залив: власть",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-21T15:50:29.865494+05:00",
+      "age_min": 28.0,
+      "sources_count": 1
+    },
+    {
+      "hash": "0d0f5668bd109cb8c5cf61811f560c13",
+      "title": "Многолетняя финансовая программа – предложение президента Косты",
+      "original_title": "Multiannual Financial Framework - President Costa’s proposal",
+      "rss_summary": "Multiannual Financial Framework - President Costa’s proposal&nbsp;&nbsp;Council, European Union",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeXlYd2liNDRGNlhJUTZ2ZG9MR0V2SmxKY0YtZGJoVjk1a1RPM3VOQ1hxLS03dGdkUnJsb0taYTduWEQ4NVFObjBlLUZDSjMtVGR2bm1tVkxmcXNnM2UycEV4eGV0RVBMMzdXS2JsazdlVUUwaHJhWTRRWGJ3azczNWg2N3NGU1RBT0RFME1QT21RTHRyY3VKV1N6LWdpV05uTWx0OWdmLS12bzFjT1V4Vmk3cWdzWnJEb1dMcDZWb2lyeVlI?oc=5",
+      "source": "Council, European Union",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-21T15:48:50.993023+05:00",
+      "age_min": 5.8,
+      "sources_count": 1
+    },
+    {
+      "hash": "77dac2313de3f0b77f6f578cdb9efa86",
+      "title": "Трамп, Си Цзиньпин и Путин опубликовали «мирную декларацию» на беспрецедентном саммите",
+      "original_title": "Trump, Xi, Putin release ‘peace declaration’ from unprecedented summit",
+      "rss_summary": "Trump, Xi, Putin release ‘peace declaration’ from unprecedented summit&nbsp;&nbsp;Fulton Sun",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNVNSQnJ0b0RiMlpOaDlrNHBLZFBiS3ZXcWxFT2JRdlpFX09Nd3dLbTRncGtlbVVXR29IUldUb2JLNkc3ZmJ3T004VzZ2ZG42a05mYmM3bTZOdHFJdS11V2ZuTzNJeGxTWWhmT25OUTdFZFZ6NmZoOHdBZEhMYmZScklkLUg4LU1IS2NUVFUtakY3N2s?oc=5",
+      "source": "Fulton Sun",
+      "score": 4,
+      "score_raw": 6,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-21T15:48:36.708116+05:00",
+      "age_min": 48.6,
       "sources_count": 1
     },
     {
@@ -649,96 +742,6 @@
       "status": "new",
       "ts": "2026-11-21T12:15:56.984263+05:00",
       "age_min": 30.9,
-      "sources_count": 1
-    },
-    {
-      "hash": "535892051c74c4a68d086abf48c9db9d",
-      "title": "Был ли Владимир Путин «пренебрежен» Си Цзиньпином? Вирусное видео рукопожатия — фейк искусственного интеллекта",
-      "original_title": "Was Vladimir Putin 'snubbed' by Xi Jinping? Viral handshake video is AI fake",
-      "rss_summary": "A viral video appearing to show China's Xi Jinping \"snubbing\" Vladimir Putin at the APEC summit has racked up millions of views, fuelling speculation about tensions between Beijing and Moscow. But the footage is fake. FRANCE 24 traced the original video to an earlier summit, where the two leaders did shake hands. The creator, who runs a satire account, admitted to manipulating the footage using Grok Imagine, an AI tool developed by Elon Musk's xAI, as Vedika Bahl explains.",
-      "link": "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
-      "source": "France24",
-      "score": 5,
-      "score_raw": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-21T15:33:25.294634+05:00",
-      "age_min": 16.7,
-      "sources_count": 1
-    },
-    {
-      "hash": "12340cbb4fe503973f98e56b549bfd48",
-      "title": "«Неприемлемо»: глава ЕС осуждает предполагаемый заговор России с целью убийства гражданина США и Украины",
-      "original_title": "'Unacceptable': EU chief condemns alleged Russian plot to kill US-Ukrainian citizen",
-      "rss_summary": "European Commission President Ursula von der Leyen condemned an alleged Russian intelligence plot to assassinate a US-Ukrainian citizen in Denmark, vowing full solidarity with Copenhagen.",
-      "link": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
-      "source": "France24",
-      "score": 5,
-      "score_raw": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-21T15:33:25.292122+05:00",
-      "age_min": 0.8,
-      "sources_count": 1
-    },
-    {
-      "hash": "6d47cc2c763b231d2e5e8088762ae1d6",
-      "title": "Возмездие по мосту: Россия наносит удар по Украине, ракета попадает в Польшу после угрозы Путина",
-      "original_title": "Bridge retaliation: Russia pummels Ukraine, missile hits Poland, after Putin threat",
-      "rss_summary": "Bridge retaliation: Russia pummels Ukraine, missile hits Poland, after Putin threat&nbsp;&nbsp;RTL Today",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSG5WVVVrMFJIWDVjZUVGSTFONW9fbkNTcHkwRWpVYnB1OF90MFNmSkRiaEhiOGRUd01EeGlKRkdKM2Ruejd3RzJPYk5tLVdld1BLYkVVdDY1R0dJaEdUckRTR2ZSR2tuekVCeThKZTVSUkxhNlJCMWprTzlnMXhjMmtpVGlHUXRkN1RzUGZ6Z1pxYVN2MVM4UFZJSERTbW8?oc=5",
-      "source": "RTL Today",
-      "score": 5,
-      "score_raw": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-21T15:20:14.948202+05:00",
-      "age_min": 91.5,
-      "sources_count": 1
-    },
-    {
-      "hash": "f0c2b744343333955f2ce8cf38717142",
-      "title": "Возвращение в ЕС «на столе», поскольку Великобритания заключает соглашения по торговле и молодежи",
-      "original_title": "Rejoining EU ‘on the table’ as UK strikes deals on trade and young people",
-      "rss_summary": "All options open in future talks, says Ed Miliband, while prime minister hails ‘a good day for Britain and Europe’The UK rejoining the EU could be on the table in informal discussions between Andy Burnham and European leaders in Brussels, Ed Miliband has said.The foreign secretary said “all options” would be examined in the process, after the prime minister agreed deals on trade and young people with the bloc on Friday. Continue reading...",
-      "link": "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
-      "source": "Guardian",
-      "score": 5,
-      "score_raw": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-21T15:03:29.355021+05:00",
-      "age_min": 17.6,
-      "sources_count": 1
-    },
-    {
-      "hash": "677f9a50ff94beb688b3c19579192451",
-      "title": "Китай обязуется обеспечить низкоуглеродную электрификацию и помочь другим улучшить ситуацию",
-      "original_title": "China commits to low-carbon electrification and help for others to improve",
-      "rss_summary": "Exclusive: Countries at Cop31 are being urged to commit to deriving 35% of their energy from electricity by 2035Cop31 live – latest updatesChina is pushing for rapid electrification of its economy using low-carbon energy and will help other countries do the same, a senior member of the Chinese delegation at the Cop31 UN climate summit has said.Wang Yi, a professor of energy and environment policy at the Chinese Academy of Sciences and a senior adviser to China’s government, said: “End-use electr",
-      "link": "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
-      "source": "Guardian",
-      "score": 5,
-      "score_raw": 8,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-21T15:03:29.345057+05:00",
-      "age_min": 15.5,
-      "sources_count": 1
-    },
-    {
-      "hash": "b55b257ea9498b729cd33488e9af3f6d",
-      "title": "❗️Нападение на грузовое судно, следовавшее в Калининград, произошло в нейтральных водах Финск [...]",
-      "original_title": "❗️Нападение на грузовое судно, следовавшее в Калининград, произошло в нейтральных водах Финск [...]",
-      "rss_summary": "❗️Нападение на грузовое судно, следовавшее в Калининград, произошло в нейтральных водах Финского залива, сообщил губернатор Ленобласти Александр Дрозденко.Два беспилотника атаковали судно в трех морских милях от границы РФ. Сейчас производится эвакуация экипажа.«Последствия уточняются», - отметил губернатор.",
-      "link": "https://t.me/bbbreaking/242850",
-      "source": "TG/Bloomberg",
-      "score": 3,
-      "score_raw": 7,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-21T15:36:09.335303+05:00",
-      "age_min": 13.4,
       "sources_count": 1
     }
   ]
