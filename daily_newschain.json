@@ -2,23 +2,150 @@
  "date": "2026-11-23",
  "window": {
   "from": "2026-11-23T00:00+05:00",
-  "to": "2026-11-23T01:22+05:00"
+  "to": "2026-11-23T01:38+05:00"
  },
- "updated": "2026-11-23T01:22+05:00",
- "count": 129,
+ "updated": "2026-11-23T01:38+05:00",
+ "count": 145,
  "by_region": {
-  "МИР": 49,
-  "США": 11,
-  "ЕВ": 21,
+  "МИР": 51,
+  "США": 12,
+  "ЕВ": 22,
   "УКР": 1,
-  "БВ": 14,
+  "БВ": 18,
   "ЦА": 0,
   "ЮА": 1,
-  "АТР": 22,
-  "АФР": 4,
-  "РЫН": 6
+  "АТР": 25,
+  "АФР": 6,
+  "РЫН": 9
  },
  "items": [
+  {
+   "hash": "5c709a31d82b45b14e1bf6740fb6e9a5",
+   "published": "2026-11-23T01:31+05:00",
+   "time_tashkent": "01:31",
+   "region": "БВ",
+   "type": "smi",
+   "source": "Palestine Chronicle",
+   "feed": "GNews/Израиль и Палестина: СМИ",
+   "paywall": false,
+   "title": "You are Invited: Join Us on the Bridge of Solidarity between Gaza and Sardinia",
+   "summary": "You are Invited: Join Us on the Bridge of Solidarity between Gaza and Sardinia&nbsp;&nbsp;Palestine Chronicle",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdTE3NzIxejJ6WEY0eGY3X1hESXdYLXRnVHJRYXZWNHAzMkZRS1RFRy1YNGNsVElSMWYySTBsQ2hTTHBGVXZJeWcyVVlPNUp0N3JSSWQ4VWJCWC1DSWcxZzJjT2s3N2N3bTU3OVVIRi1CVEVuSTBaYzVyWnJrSk8wbXNyS01FeTdSNFJPSEV0SkRJRmZwQ0NTNjVsNXJwQmxuYm9nTEtveVJYVk5oaTV4d3VhZw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "6f40918929ed004e723014d5afd4e71c",
+   "published": "2026-11-23T01:31+05:00",
+   "time_tashkent": "01:31",
+   "region": "АТР",
+   "type": "smi",
+   "source": "SCMP",
+   "feed": "SCMP",
+   "paywall": false,
+   "title": "US Democrats clinch a historic House majority of at least 258 seats, the largest since 1992",
+   "summary": "House Democrats have secured their best general election result in decades, winning at least 258 seats in an election sweep unseen since 1992 that creates not only vast opportunities to govern but also intense pressure to deliver on campaign promises",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3375405/us-democrats-clinch-historic-house-majority-least-258-seats-largest-1992",
+   "also": [
+    "BBC World"
+   ],
+   "also_links": [
+    "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno?at_medium=RSS&at_campaign=rss"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "d694e3594ffeec82a3744b4dccb3ab61",
+   "published": "2026-11-23T01:27+05:00",
+   "time_tashkent": "01:27",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "REPORTER’S DIARY: My experience at Fountain of Life’s unusual, heavily policed Sunday service",
+   "summary": "REPORTER’S DIARY: My experience at Fountain of Life’s unusual, heavily policed Sunday service&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZHRJYVJMa1QwWUwtVU5WMkYxUWJySlYwcndZSW5HcV9uTFlQUnhBODZDNm5kamZiRGxPMkdlSDI3VW8zQ291akl0T2xrVVdaQTdBOFZmVXN5SkRxQkRoQ2lSd2Vqd2N0dEcycUloS1FycWl5ODhJeHA2aUJwRnNZZi0zbXd4QXdpMVhkVFdDNlZ1WHF1a29ULXhSa0pSTE9kemFDYjQtRjhwSm15TzBsMUJaSFE0MkhhTkYwbFFGNzNucnEwN01jZ09jYjFKaHRDZ21GbTJTZmZIZHFNMldrTXNZN0tBQ0NQM2xQckxuUFlZZw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "976dc8614b2e7ce71bb987a6f0ed1355",
+   "published": "2026-11-23T01:26+05:00",
+   "time_tashkent": "01:26",
+   "region": "АТР",
+   "type": "gos",
+   "source": "Xinhua",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "2nd LD Writethru: Extended COP31 concludes in Türkiye without overarching deal",
+   "summary": "2nd LD Writethru: Extended COP31 concludes in Türkiye without overarching deal&nbsp;&nbsp;Xinhua",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xUlFaQ3huV3RjbGp6OUtLX3gzelltclI3M0RZQVplWFhPUnlWOU9UYlA4UE9TZkgwX2RfUTllNkx3V2NtU3F6VmxlMGctamFPWXpCTlFCcnkxU2MxVHgyZERnaVJibWZZYlMzdkJUUVIyanBXalBla0dNTVg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "ab327651ebad861b2338b488b4dd7cff",
+   "published": "2026-11-23T01:22+05:00",
+   "time_tashkent": "01:22",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "Welcome to the United Nations",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "Draft Concept Note",
+   "summary": "Draft Concept Note&nbsp;&nbsp;Welcome to the United Nations",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PTGxQcVhkd2cxNzVxME1HMnMteGVDWnpEaVlEbGllSmRNenppVGJscW14elJKSGUwVGhVdVVhRGFUc0tOZ2FLT1BwVEI1Tks0azFYSlZrT2kzYWdPTnZFNWo5ME8?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "22fe509208445f9152b14530188267cf",
+   "published": "2026-11-23T01:18+05:00",
+   "time_tashkent": "01:18",
+   "region": "АТР",
+   "type": "smi",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
+   "paywall": false,
+   "title": "Breaking: Red imported fire ants found in Western Sydney",
+   "summary": "One of the world's worst invasive species is found in Sydney for the second time in as many months.",
+   "link": "https://www.abc.net.au/news/2026-11-23/red-imported-fire-ants-found-western-sydney/107415336",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "90b94d8f9b497ed0cacce69b70bdf535",
+   "published": "2026-11-23T01:17+05:00",
+   "time_tashkent": "01:17",
+   "region": "МИР",
+   "type": "smi",
+   "source": "Reuters",
+   "feed": "Reuters",
+   "paywall": false,
+   "title": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts",
+   "summary": "WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts&nbsp;&nbsp;Reuters",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVnZjcE50YXJiLWxXZE5OQldXSndtUVlUbnNJckNPY1lQM1ZpdlExMlNJX08zNFJQbnFYd3FKT3ZZbzBqY2s4a3c0RVg0M2dELVZrLUx5R0tobENIQWk2QUdNZG9YRl95STZFUlVOVTlVcThuRG90VndEZEZhaE5jbTRVYkN1SUxoYmlteUhlempZSVNGRjJNWjhZdXlSNzMtM1Q3VExpZmFqZHJKbVdjT3lpekdsb0dXQXg0NHdsUkZwdlNzQW9CaGVhblM2b0VHSWRZTGlFVUJBSnd3LXA2SXJoUlVmV1E?oc=5",
+   "also": [
+    "The Straits Times"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUHJ1RUdKX3o1bklOLW5qTmk4S2l2NjFXeF82UF85WEttTUNKTWVURlFqZjlLZ2VZdllCX0JpX2NGNDNKQ0RTUWFOX04xVWxFT1pWemVwaXVFMDNaV24tWVZJdXZpMnV1TEt6NUQ1RXp0NTFMWW9fMC1JWnF1dVRoQ0tWSkFNRGZkZ21PckQtdEl6eHR4Y05rNUVsRmhMeE5oTXd1NjRHZFRIY1JIdGtGdk5VZGRBQQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
   {
    "hash": "83144f1fd7eb6d9f3bdbddcb752bf871",
    "published": "2026-11-23T01:16+05:00",
@@ -31,6 +158,23 @@
    "title": "Democrat Hubbard wins North Carolina recount, clinching historic House majority",
    "summary": "Democrat Chuck Hubbard was elected to the US House of Representatives from North Carolina on Sunday after defeating veteran Republican Virginia Foxx, who chairs the powerful House Rules Committee. His victory gave Democrats their best general electio",
    "link": "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "f633567a63403c8ca613a20c5dbef01d",
+   "published": "2026-11-23T01:16+05:00",
+   "time_tashkent": "01:16",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "GNews/CentralBanks",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Gold and Silver Price Today: Will Prices Fall Further on Monday? Check the Outlook for November 23 - theopenpress.in",
+   "summary": "Gold and Silver Price Today: Will Prices Fall Further on Monday? Check the Outlook for November 23&nbsp;&nbsp;theopenpress.in",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRUVNWDI3SUthWm1BQWRSNG1HSW01NXVicUhNdXpUQUJfdDl0UzlTbEdpOEJ3THN5SkZJeVYxVDZFamZtNHcta0U2NlVpSG9sdDhVSXVuaFBjRjhhYzRjTFVlU0VZRktpYVhpN1BjX2ZYTVFJWnp4YjdYVUlabXdiYzFPX3hrQQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -71,6 +215,40 @@
    "confirmed": false
   },
   {
+   "hash": "0eb6e45a7a6c5788bec60e37f053c75f",
+   "published": "2026-11-23T01:12+05:00",
+   "time_tashkent": "01:12",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Госагентства Ближнего Востока",
+   "feed": "GNews/Госагентства Ближнего Востока",
+   "paywall": false,
+   "title": "Riyadh Region Deputy Governor Attends Omani Embassy Celebration of Oman’s National Day - وكالة الأنباء السعودية",
+   "summary": "Riyadh Region Deputy Governor Attends Omani Embassy Celebration of Oman’s National Day&nbsp;&nbsp;وكالة الأنباء السعودية",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TQUZVOFdzTkFSeUNXSnZWaExPQVVFZndodXBEaTg2TVFDTVB4ZGIycV95V0FRQl8tWk5saW5CMzU1SXZBMkNwaVhB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "b2a23d0a979cee8d343dc1b9c35e97f1",
+   "published": "2026-11-23T01:12+05:00",
+   "time_tashkent": "01:12",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Straits Times",
+   "feed": "GNews/ЮВА, Австралия, Океания",
+   "paywall": false,
+   "title": "Dashcam footage shows boulder smashing into car on mountain road in China",
+   "summary": "Dashcam footage shows boulder smashing into car on mountain road in China&nbsp;&nbsp;The Straits Times",
+   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Mbjg0aWRQbm40dHF0bTkzN1p5VXlaQXowQW1DWmhLNnc1WE9XSUZaMGtMVWhuVXVOS3htWTFMdnNHWDZXR2loNXprZkJTS3NWRUNuLVh3R1hyRmQ2c2c?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "4b26144f696627d862b13617ea635557",
    "published": "2026-11-23T01:12+05:00",
    "time_tashkent": "01:12",
@@ -88,17 +266,17 @@
    "confirmed": true
   },
   {
-   "hash": "b2a23d0a979cee8d343dc1b9c35e97f1",
-   "published": "2026-11-23T01:12+05:00",
-   "time_tashkent": "01:12",
-   "region": "АТР",
+   "hash": "32c68dcb866ba160c5c744f65bc16d67",
+   "published": "2026-11-23T01:10+05:00",
+   "time_tashkent": "01:10",
+   "region": "БВ",
    "type": "smi",
-   "source": "The Straits Times",
-   "feed": "GNews/ЮВА, Австралия, Океания",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
    "paywall": false,
-   "title": "Dashcam footage shows boulder smashing into car on mountain road in China",
-   "summary": "Dashcam footage shows boulder smashing into car on mountain road in China&nbsp;&nbsp;The Straits Times",
-   "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Mbjg0aWRQbm40dHF0bTkzN1p5VXlaQXowQW1DWmhLNnc1WE9XSUZaMGtMVWhuVXVOS3htWTFMdnNHWDZXR2loNXprZkJTS3NWRUNuLVh3R1hyRmQ2c2c?oc=5",
+   "title": "The Daily Edition",
+   "summary": "The Daily Edition&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwamlIVnpjWlhpd1FuQ2VSTUctdUF2VEFYa0F0X2hyMVdHT3RQYUZqZlRYUUpHUERCSnZTendBalMtWEZpRl94VUJDcEw4RnY3ZDZzYkMxQmlUelNC?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -133,10 +311,14 @@
    "title": "Council allows private land burials for those who 'belong to the land'",
    "summary": "Few rules govern spreading ashes after a person dies, but burial outside a cemetery is approved only in exceptional circumstances. In South Australia, a local council is about to make private burials easier.",
    "link": "https://www.abc.net.au/news/2026-11-23/coorong-council-approves-private-land-burials-farmers-indigenous/107389014",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMkJabEVja1NBMTJHdUJweEF6ZXpRZEZrYk1KNWlZRERIclN4NzhnNU9sME0xd240d1dYY3JIOE1ocVR6TmdoTjhPWkluTFhhMlJzZWxybjgya3pOSnBuSU5FY2RDUUpaOU5xZzM5aExjeHp2U0hra2VvR3ZxSU5WNkNNWGJpcm55N3YzeXRnWHgzVzZnbXlvQWFpWk8zUGhvMTA5NmJDZXJZazFEQ0h2SUFEQQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "b6848a6b95422c32c3250adf87a78358",
@@ -218,6 +400,23 @@
    "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
    "summary": "The cost of natural disasters is hitting utilities hard as they need to invest more heavily in strengthening transmission infrastructure and financially supporting recovery efforts. In California, several utilities have seen costs increase in relatio",
    "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "314cf9d00a2e06b81b6ee7b7aa530b08",
+   "published": "2026-11-23T01:00+05:00",
+   "time_tashkent": "01:00",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+   "summary": "Wall Street is coalescing around one of the bond market’s favorite ways to bet that the Federal Reserve will press ahead with its vow to tame inflation, even as slumping stocks darken the economic outlook.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -394,22 +593,22 @@
    "confirmed": false
   },
   {
-   "hash": "5656699cf4873859a87bede68fa0476a",
+   "hash": "96b65470688af2e948c5b22cb4f352e7",
    "published": "2026-11-23T00:46+05:00",
    "time_tashkent": "00:46",
-   "region": "США",
+   "region": "АТР",
    "type": "smi",
-   "source": "The Hill",
-   "feed": "The Hill",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
    "paywall": false,
-   "title": "Trump blames $6T stock market slide on Democrats' midterm wins",
-   "summary": "President Trump blames the stock market’s $6 trillion slide on the Democratic party’s wins nationwide that saw it take control of both the House and Senate.  “The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange ‘win’ o",
-   "link": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
+   "title": "Live: Greens 'optimistic' about deal on digital duty of care",
+   "summary": "The Greens are optimistic a deal can be struck with the government over its digital duty of care legislation by the end of the week. Follow live.",
+   "link": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
    "also": [
-    "RadarOnline"
+    "Guardian"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORlNrWUdYZU5mZGVtLTlPakt5X1RVZzZvNEc1dUUteV8zN2lxZElVVDV1WC1HQ2p5M1lIUFBuS09SVHp1dkpWUGRyVXV2ZWZsNC1LUXZIbkpKOW9vYk51bnZmdGl1T3RwU1BTWDFFUC12WmRBZVlRNW9WTHpNMzdaekZJRmVKY1MwMEZ4aXV4TGEtSTMzb0JOY1RyU2NjdTNrS09XbzdQMkxRYkZGZ2NOM0E3YlQ5VkRtbkMzTWdHbVdqSXNUVUxIc1c1LVpUTkpwTUNHUUlTdkJTaWRl?oc=5"
+    "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
    ],
    "sources_count": 2,
    "confirmed": true
@@ -432,24 +631,26 @@
    "confirmed": true
   },
   {
-   "hash": "96b65470688af2e948c5b22cb4f352e7",
+   "hash": "5656699cf4873859a87bede68fa0476a",
    "published": "2026-11-23T00:46+05:00",
    "time_tashkent": "00:46",
-   "region": "АТР",
+   "region": "США",
    "type": "smi",
-   "source": "ABC AU Politics",
-   "feed": "ABC AU Politics",
+   "source": "The Hill",
+   "feed": "The Hill",
    "paywall": false,
-   "title": "Live: Greens 'optimistic' about deal on digital duty of care",
-   "summary": "The Greens are optimistic a deal can be struck with the government over its digital duty of care legislation by the end of the week. Follow live.",
-   "link": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+   "title": "Trump blames $6T stock market slide on Democrats' midterm wins",
+   "summary": "President Trump blames the stock market’s $6 trillion slide on the Democratic party’s wins nationwide that saw it take control of both the House and Senate.  “The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange ‘win’ o",
+   "link": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
    "also": [
-    "Guardian"
+    "RadarOnline",
+    "UA.NEWS"
    ],
    "also_links": [
-    "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
+    "https://news.google.com/rss/articles/CBMi3AFBVV95cUxORlNrWUdYZU5mZGVtLTlPakt5X1RVZzZvNEc1dUUteV8zN2lxZElVVDV1WC1HQ2p5M1lIUFBuS09SVHp1dkpWUGRyVXV2ZWZsNC1LUXZIbkpKOW9vYk51bnZmdGl1T3RwU1BTWDFFUC12WmRBZVlRNW9WTHpNMzdaekZJRmVKY1MwMEZ4aXV4TGEtSTMzb0JOY1RyU2NjdTNrS09XbzdQMkxRYkZGZ2NOM0E3YlQ5VkRtbkMzTWdHbVdqSXNUVUxIc1c1LVpUTkpwTUNHUUlTdkJTaWRl?oc=5",
+    "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNEpsdlNrRmpiSGJQSnFEY1ZOeG95UjlrMUlyS0xMb3k1WmVMakRfZ1hqWWpYNHIzc0d6ZGhhUUFqb1BzOXdYazZUcTNIUVNhMFFtbHZGbEZ4TWYyRVRNcVpOUHlpc0xudUl0S2F4dno4UDFCM2U5SzZXZlAyQURRbHJYMzVWWkp0eTdHZnhFbWhEWWlaUVpOYnZhalZQT3FIdWUw?oc=5"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -464,6 +665,23 @@
    "title": "Bangladesh Economic Growth Forecast | Bangladesh risks low-growth cycle, World Bank warns",
    "summary": "Bangladesh Economic Growth Forecast | Bangladesh risks low-growth cycle, World Bank warns&nbsp;&nbsp;The Daily Star",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOR0Z0LXMzWlEwZFhhcDBCYms5UU5yVHRpcTFtWTNOeDZxN3c2ZXVoN0k1M2tBWGNVMW5mMTZ6ZDk3MG9FMmxQRmNPQkJ6cXhqUmNQWkEyNHdabFFLUE9iMFJEUXJFemUwcS1xdEJIelp1a0JlNmlJRjdCQ2dyNUhnSmcyN2YxRjd3amNuY1BLM0kzcExaTDlJUk1KaHV4ZzkwOTVuN3dndmtHSEZMTXc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "69e6e55a91de98bec98fba9e38ab217b",
+   "published": "2026-11-23T00:44+05:00",
+   "time_tashkent": "00:44",
+   "region": "США",
+   "type": "pay",
+   "source": "The Globe and Mail",
+   "feed": "Globe & Mail",
+   "paywall": true,
+   "title": "What These 6 Snack and Beverage Stocks Have in Common",
+   "summary": "What These 6 Snack and Beverage Stocks Have in Common&nbsp;&nbsp;The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWTFsYTRmdVZnbElKR0lXVEpmUUx3UVZ2dVF5clA3LVh5SDZyS0xyQ2YyVGZJYjZvNmlGQXQzdjRoSTM0R2tpN09JdWthNzNUc0NEVkVuTU1RaGtzZ1NqMnNWWVpBVmo2NEFLY1QzeDZjWU5Pc0VtWXlNUUROcTU5YmM5a3RjOTY5VE41OEd4UjRiVWt3WjhPTHVDeVBndnRITjBhOWxUeDR3LWFkeHBKTVJJcDI0LWo2ZjNMV3RZS3Vybmp3eUlFdENvSUJNam9jNTNj?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -487,23 +705,6 @@
    "confirmed": false
   },
   {
-   "hash": "b44b2d240e77c3b0b44a0362cf48c4c4",
-   "published": "2026-11-23T00:42+05:00",
-   "time_tashkent": "00:42",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "COP31 president closes climate summit without deal, blames some countries for failed talks",
-   "summary": "COP31 president closes climate summit without deal, blames some countries for failed talks&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUtyUnR5by03N09IYU1pNlFDREtxaklTMGZMdFFtb2Z1VGdkdGZVOTZ3aWVrMjFOX29heVdIMDhPY0d1b040YjFKQWJRSVVfQ1M0am5jb09zLUlDN09hSmNJb25hTUV0am16RlBXSmU1Undaei13cFdlTWthdEQ0b2xaRlB5US1IdEtKVHdJSUowYmRzcGJxUm1Cb3lNcHhrODhvWHFaRWdvazhQQUlFRloyQ2hicnpMSklRS3VaRE12anVtTXJ4TmhzalhEZw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "0c17bc498034535ed6788a992efa9037",
    "published": "2026-11-23T00:42+05:00",
    "time_tashkent": "00:42",
@@ -525,17 +726,17 @@
    "confirmed": true
   },
   {
-   "hash": "d90a06f48f30144ac0cf10126ca10ad2",
-   "published": "2026-11-23T00:41+05:00",
-   "time_tashkent": "00:41",
-   "region": "США",
+   "hash": "b44b2d240e77c3b0b44a0362cf48c4c4",
+   "published": "2026-11-23T00:42+05:00",
+   "time_tashkent": "00:42",
+   "region": "ЕВ",
    "type": "ofic",
-   "source": "Newsmax",
-   "feed": "GNews/TruthSocial",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
    "paywall": false,
-   "title": "Senate GOP Rushes Trump Picks Before Democrats Take Over",
-   "summary": "Senate GOP Rushes Trump Picks Before Democrats Take Over&nbsp;&nbsp;Newsmax",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHM5ZFQxODV0enhXV3hGUWs2WHpVbmNfNDFuNVQ2c2J5cUROVTdaOHJtVjI0eUdCN3VWZFpLMmlXR1k5bzgwWDUzR3NJTUdFM2ZDY1RFWXFuTEd6N2pUc1lTYlZ3YnQwWm1rU0J0U293YnB0LVhUYjluRFhyYnFfSGZpblI0bUY1R2o5NVBJWFJBdkpYdHBWMw?oc=5",
+   "title": "COP31 president closes climate summit without deal, blames some countries for failed talks",
+   "summary": "COP31 president closes climate summit without deal, blames some countries for failed talks&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOUtyUnR5by03N09IYU1pNlFDREtxaklTMGZMdFFtb2Z1VGdkdGZVOTZ3aWVrMjFOX29heVdIMDhPY0d1b040YjFKQWJRSVVfQ1M0am5jb09zLUlDN09hSmNJb25hTUV0am16RlBXSmU1Undaei13cFdlTWthdEQ0b2xaRlB5US1IdEtKVHdJSUowYmRzcGJxUm1Cb3lNcHhrODhvWHFaRWdvazhQQUlFRloyQ2hicnpMSklRS3VaRE12anVtTXJ4TmhzalhEZw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -569,21 +770,42 @@
    "confirmed": true
   },
   {
-   "hash": "5f6c882946d528ad02e58b8f025b6df3",
-   "published": "2026-11-23T00:39+05:00",
-   "time_tashkent": "00:39",
-   "region": "ЕВ",
+   "hash": "d90a06f48f30144ac0cf10126ca10ad2",
+   "published": "2026-11-23T00:41+05:00",
+   "time_tashkent": "00:41",
+   "region": "США",
    "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
+   "source": "Newsmax",
+   "feed": "GNews/TruthSocial",
    "paywall": false,
-   "title": "Lavrov says German, UK defense ministers appear to be in 'inadequate state'",
-   "summary": "Lavrov says German, UK defense ministers appear to be in 'inadequate state'&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzVLYjYzMDNuT0tjd1NVcDJCUDdyU2VsSUtGMzQyQlZYNW1wX1lYMFlfR2VreDRpZkZxdmRZOU93NlBna2FfOWM2ZG5FMDg0NU1uanpQQmxpaU9OeThuMnFtdFp2b0VRVF8ySG1lanhBUVNQbW1Cby1wX05wMmlxcGJSd0JlbmJjNlJfdmlVWUdyLTlNaVBXUjNFdmJqUUdzaHRfTW12WnVSMEdHbHRNUkZ3?oc=5",
+   "title": "Senate GOP Rushes Trump Picks Before Democrats Take Over",
+   "summary": "Senate GOP Rushes Trump Picks Before Democrats Take Over&nbsp;&nbsp;Newsmax",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWHM5ZFQxODV0enhXV3hGUWs2WHpVbmNfNDFuNVQ2c2J5cUROVTdaOHJtVjI0eUdCN3VWZFpLMmlXR1k5bzgwWDUzR3NJTUdFM2ZDY1RFWXFuTEd6N2pUc1lTYlZ3YnQwWm1rU0J0U293YnB0LVhUYjluRFhyYnFfSGZpblI0bUY1R2o5NVBJWFJBdkpYdHBWMw?oc=5",
+   "also": [
+    "The Washington Post"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1lTNGNMYzcyNUF6NXA1bjF3Rkd5VjA2WkRJMk9CbzZwWHBHVWJHSmlYMjlPRnpIWFVBMU82ejRROGM1aVo3S2JfS1doT3F1TndFclN5UjFoQThMN3lJTnAxczFaUjF1OVhyS09Gc0VVc01yNHNmNk9ramkwdVgwTGFQWHM2SmZFaVJhM0IyTWc3MEo1ZmxTd1ppRkltaEk?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "c10e6136e754987a92afab1a8cd97763",
+   "published": "2026-11-23T00:40+05:00",
+   "time_tashkent": "00:40",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg Tech",
+   "feed": "Bloomberg Tech",
+   "paywall": true,
+   "title": "OpenAI Chief Scientist Urges Industry Limits on AI Development",
+   "summary": "OpenAI’s chief scientist proposed that artificial intelligence companies agree to limits on developing increasingly powerful models until researchers have better ways to understand and monitor their behavior.",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "03fa2a503904ababba1da9f4d1dddba3",
@@ -604,6 +826,23 @@
     "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMzE4RUVzV1JVYjUyZ2NTbm5VZTdDMHhSSklNZXJJTEZaNHRINW1uOWY5cFpiY0dwSEtNM2dWMGUtNVZPekdoZERDM3I2UHRMaFRSVTJ4X3d0dlJGREZHV2l6VGtDSEp5S2ZILS0wajhibFBxNVhKZjY2NUkzM1JXMW8yUDdnN2cwdHRIdFZVYzkwbGI2ajNwWnJxbw?oc=5"
    ],
    "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "5f6c882946d528ad02e58b8f025b6df3",
+   "published": "2026-11-23T00:39+05:00",
+   "time_tashkent": "00:39",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Lavrov says German, UK defense ministers appear to be in 'inadequate state'",
+   "summary": "Lavrov says German, UK defense ministers appear to be in 'inadequate state'&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTzVLYjYzMDNuT0tjd1NVcDJCUDdyU2VsSUtGMzQyQlZYNW1wX1lYMFlfR2VreDRpZkZxdmRZOU93NlBna2FfOWM2ZG5FMDg0NU1uanpQQmxpaU9OeThuMnFtdFp2b0VRVF8ySG1lanhBUVNQbW1Cby1wX05wMmlxcGJSd0JlbmJjNlJfdmlVWUdyLTlNaVBXUjNFdmJqUUdzaHRfTW12WnVSMEdHbHRNUkZ3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -658,21 +897,21 @@
    "confirmed": false
   },
   {
-   "hash": "070833a8768a9417ad946e28fe4683f0",
-   "published": "2026-11-23T00:37+05:00",
-   "time_tashkent": "00:37",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "Death toll from Russian strike on supermarket in Vyshneve rises to three",
-   "summary": "Death toll from Russian strike on supermarket in Vyshneve rises to three&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ1c4SEhWNnpMUWNiMWtZYXZYZUxPZzFKMV9MOTJOdVNieE1rT3ZiTUJzSEpCdktVanRWN1RORndYWHBpRXZxa2ZZMXdFeWx2R2lMd0JDQVk3MFV3OG9KN2JPY0YzclBOZXhVVEt0azkwYkJScHg0bkM1dTZGRXhtWUhLUlRLa2ZLaWdsMDY5cy1PMW1IcmFUSWpZczNHbjg5Rk9kS2c4MWsxZG03SDRINkZjaHZBOHlTVXJZQ2ZpWdIBxAFBVV95cUxPSWdPdEktVFhBSzJlRDU1cmtIQmdZazlCUzZpbmMzXzdRTGxKam9sS1dZUi03cmVoaFhKMHVzN0Z5alZNMHFNejR1YmsxTFlOclVVcEFsLVNxTXNXV0sxQmVWVVFkWDVYMmRybnJMUm1jOVl6V1drQkdsb05MOG01OE1GVWR5ZU94dVRxbG85VkpjYW05eEppaXJicTJEQVZaN2N5bmxUY1RuTkdESkdqQ1NodG5NVE1IQ21QbXBvMllDbkl4?oc=5",
+   "hash": "3c60c3ed44235d1acf34e40fd055463e",
+   "published": "2026-11-23T00:38+05:00",
+   "time_tashkent": "00:38",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Clubbers angry after Berlin venue hosts launch of military AI system",
+   "summary": "Clubbers angry after Berlin venue hosts launch of military AI system&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTC1pUWg4Q2lOYlRVSzJIb0ZIRXloZWZsQnFiTF8xbnJ1d1FrTUN5NFNmalQwQzZoV3VReUFpY2Y1eEk4SkxBS1UzN2JRTGRCUmhLOC1KdHgyZUxBUzZUYUNBMzY4Y0l0YlJyT1U1cGY5bllvd1lNOWdaUnBocHdNOTNiNEtvSWl3NUUwcWhwUjlHS05FdFNFck84bTZ0ZXdIT1RMMm9TMkhyQWJhVVIw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "bd46e3824bb264c4cd2a27f7d5baa80d",
@@ -707,6 +946,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "070833a8768a9417ad946e28fe4683f0",
+   "published": "2026-11-23T00:37+05:00",
+   "time_tashkent": "00:37",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Death toll from Russian strike on supermarket in Vyshneve rises to three",
+   "summary": "Death toll from Russian strike on supermarket in Vyshneve rises to three&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ1c4SEhWNnpMUWNiMWtZYXZYZUxPZzFKMV9MOTJOdVNieE1rT3ZiTUJzSEpCdktVanRWN1RORndYWHBpRXZxa2ZZMXdFeWx2R2lMd0JDQVk3MFV3OG9KN2JPY0YzclBOZXhVVEt0azkwYkJScHg0bkM1dTZGRXhtWUhLUlRLa2ZLaWdsMDY5cy1PMW1IcmFUSWpZczNHbjg5Rk9kS2c4MWsxZG03SDRINkZjaHZBOHlTVXJZQ2ZpWdIBxAFBVV95cUxPSWdPdEktVFhBSzJlRDU1cmtIQmdZazlCUzZpbmMzXzdRTGxKam9sS1dZUi03cmVoaFhKMHVzN0Z5alZNMHFNejR1YmsxTFlOclVVcEFsLVNxTXNXV0sxQmVWVVFkWDVYMmRybnJMUm1jOVl6V1drQkdsb05MOG01OE1GVWR5ZU94dVRxbG85VkpjYW05eEppaXJicTJEQVZaN2N5bmxUY1RuTkdESkdqQ1NodG5NVE1IQ21QbXBvMllDbkl4?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "7b6e46671f574ee939585f7d7244f068",
@@ -840,20 +1096,24 @@
    "confirmed": false
   },
   {
-   "hash": "f9610afb87613c64e821eac0f332d501",
+   "hash": "7e00932fce35fbbe08c9200b63cb2dcb",
    "published": "2026-11-23T00:30+05:00",
    "time_tashkent": "00:30",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "GNews/ЕС и НАТО",
-   "feed": "GNews/ЕС и НАТО",
+   "region": "АТР",
+   "type": "smi",
+   "source": "ABC AU Politics",
+   "feed": "ABC AU Politics",
    "paywall": false,
-   "title": "- European Parliament",
-   "summary": "&nbsp;&nbsp;European Parliament",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JZTF2UkZ0T3NJeDdxQUVUZ0xpQkJIQmlOeld3MkhrcTdlMFlsZzNCbThkOFpoOXM0ZE93aDVGbFlYcGZla2hyd0Z0ZW50Ulh2ZzkzSG5ERmFvb3pzay1WNXcwOG9yaG1ZQ3VBTHU0Ykw4bVhXZXc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
+   "title": "Experts say nostalgia for traditional industries resonates with voters",
+   "summary": "The Victorian election has prompted discussion about the role of traditional industries like coal and timber — and experts say it resonates with voters.",
+   "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-promises-industry-nostalgia/107317574",
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2FQU0ZoRWxqcENnOUNuNjBhamg0SGliRy1JWjUwZk9EYUhqWjROaDVPNnhQZ1FXbnVYclBQdHNoX0RucWl3a045UFUweHFpRzNHSXM3a21zYk1jSUg3Zl9oQzltX0xvS3pac0x0dGN2V0hNTWdRalR0QnJhWjJqS1ZSTS01bDNVYTN6azRPS0pIMWRxSDI3UTcyUQ?oc=5"
+   ],
+   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -976,42 +1236,21 @@
    "confirmed": false
   },
   {
-   "hash": "7e00932fce35fbbe08c9200b63cb2dcb",
+   "hash": "f9610afb87613c64e821eac0f332d501",
    "published": "2026-11-23T00:30+05:00",
    "time_tashkent": "00:30",
-   "region": "АТР",
-   "type": "smi",
-   "source": "ABC AU Politics",
-   "feed": "ABC AU Politics",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "GNews/ЕС и НАТО",
+   "feed": "GNews/ЕС и НАТО",
    "paywall": false,
-   "title": "Experts say nostalgia for traditional industries resonates with voters",
-   "summary": "The Victorian election has prompted discussion about the role of traditional industries like coal and timber — and experts say it resonates with voters.",
-   "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-promises-industry-nostalgia/107317574",
-   "also": [
-    "Australian Broadcasting Corporation"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2FQU0ZoRWxqcENnOUNuNjBhamg0SGliRy1JWjUwZk9EYUhqWjROaDVPNnhQZ1FXbnVYclBQdHNoX0RucWl3a045UFUweHFpRzNHSXM3a21zYk1jSUg3Zl9oQzltX0xvS3pac0x0dGN2V0hNTWdRalR0QnJhWjJqS1ZSTS01bDNVYTN6azRPS0pIMWRxSDI3UTcyUQ?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
-   "hash": "a4cfee80c77b2230df8d7901a6610ae6",
-   "published": "2026-11-23T00:28+05:00",
-   "time_tashkent": "00:28",
-   "region": "США",
-   "type": "smi",
-   "source": "The Hill",
-   "feed": "The Hill",
-   "paywall": false,
-   "title": "GOP Rep 'optimistic' about passing AI bill before next Congress",
-   "summary": "Rep. Jay Obernolte (R-Calif.) said Sunday he is “optimistic” that Congress can pass a bipartisan artificial intelligence (AI) bill before the end of the year, despite a narrowing window for Republicans to advance legislation before Democrats take con",
-   "link": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
+   "title": "- European Parliament",
+   "summary": "&nbsp;&nbsp;European Parliament",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JZTF2UkZ0T3NJeDdxQUVUZ0xpQkJIQmlOeld3MkhrcTdlMFlsZzNCbThkOFpoOXM0ZE93aDVGbFlYcGZla2hyd0Z0ZW50Ulh2ZzkzSG5ERmFvb3pzay1WNXcwOG9yaG1ZQ3VBTHU0Ykw4bVhXZXc?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": false
+   "confirmed": true
   },
   {
    "hash": "0a570114666e52f92ecd9bf8947b5b79",
@@ -1025,6 +1264,23 @@
    "title": "Polls put Spain's PP ahead of PSOE a week before 29 November election",
    "summary": "Polls by Ipsos, Data10, GAD3 and Hamalgama Métrica all place the PP as the leading force, though they differ on the gap to the socialists and far-right Vox’s result. All four surveys suggest a right-wing coalition would secure a majority.",
    "link": "https://www.euronews.com/2026/11/22/polls-put-spains-pp-ahead-of-psoe-a-week-before-29-november-election",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "a4cfee80c77b2230df8d7901a6610ae6",
+   "published": "2026-11-23T00:28+05:00",
+   "time_tashkent": "00:28",
+   "region": "США",
+   "type": "smi",
+   "source": "The Hill",
+   "feed": "The Hill",
+   "paywall": false,
+   "title": "GOP Rep 'optimistic' about passing AI bill before next Congress",
+   "summary": "Rep. Jay Obernolte (R-Calif.) said Sunday he is “optimistic” that Congress can pass a bipartisan artificial intelligence (AI) bill before the end of the year, despite a narrowing window for Republicans to advance legislation before Democrats take con",
+   "link": "https://thehill.com/homenews/house/6236083-obernolte-gaia-ai-bill-progress/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1086,23 +1342,6 @@
    "confirmed": true
   },
   {
-   "hash": "37aadd35962bad8d014bb0f11638c7fc",
-   "published": "2026-11-23T00:23+05:00",
-   "time_tashkent": "00:23",
-   "region": "США",
-   "type": "smi",
-   "source": "CBS Sports",
-   "feed": "GNews/Home-US",
-   "paywall": false,
-   "title": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings",
-   "summary": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings&nbsp;&nbsp;CBS SportsChaos takes over the Big Ten: UCLA, Indiana and Ohio State all lose in Week 12&nbsp;&nbsp;ESPNMandel’s Final Thoughts: OT madness broke t",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTdfamw5b2tBRWd0RFVlNHVfQzBmeFEwU1U2M2JPamRVNW83aUliTUEzOU0zOUtNSExIdXl2cG92QS1uaDdDcmRuSE9UWFhBRDhUU3VZLTBkZ0F6UC1sUGlFRTc4ck1rTzhoZkd2TVpPTVllSVV3N1IyaktNVElETG1MN3VZYl9YZERyanRBYTlkUDhxbzRNWGJyVWRBT2xXOEF4RWlzSG9pemRvYnlMRGpLSEtfMlU?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "6e05c47a3dfba64edb73071762605fe9",
    "published": "2026-11-23T00:23+05:00",
    "time_tashkent": "00:23",
@@ -1135,6 +1374,40 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "37aadd35962bad8d014bb0f11638c7fc",
+   "published": "2026-11-23T00:23+05:00",
+   "time_tashkent": "00:23",
+   "region": "США",
+   "type": "smi",
+   "source": "CBS Sports",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings",
+   "summary": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings&nbsp;&nbsp;CBS SportsChaos takes over the Big Ten: UCLA, Indiana and Ohio State all lose in Week 12&nbsp;&nbsp;ESPNMandel’s Final Thoughts: OT madness broke t",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTdfamw5b2tBRWd0RFVlNHVfQzBmeFEwU1U2M2JPamRVNW83aUliTUEzOU0zOUtNSExIdXl2cG92QS1uaDdDcmRuSE9UWFhBRDhUU3VZLTBkZ0F6UC1sUGlFRTc4ck1rTzhoZkd2TVpPTVllSVV3N1IyaktNVElETG1MN3VZYl9YZERyanRBYTlkUDhxbzRNWGJyVWRBT2xXOEF4RWlzSG9pemRvYnlMRGpLSEtfMlU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "f46efcde945160e1a4ec45bbdd4f574f",
+   "published": "2026-11-23T00:22+05:00",
+   "time_tashkent": "00:22",
+   "region": "БВ",
+   "type": "smi",
+   "source": "Ynetnews",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay",
+   "summary": "Netanyahu presses Trump for Iran strike, but White House expects at least weeklong delay&nbsp;&nbsp;Ynetnews",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xMFpCTG9hTU9sLUxXV1plQ2lZeTFHTktJQUxtbTZiRHNyMm9fczBnUXRkSWhLNVhuVUo2RXpkRWFtclFpUmVKZGVnYzFGbld1a1loNTNMMA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "c0d3cab4d00efd97b49baa9980e7bad1",
@@ -1171,23 +1444,6 @@
    "confirmed": false
   },
   {
-   "hash": "3ee82fad49ff1b1272d84c19f600c06e",
-   "published": "2026-11-23T00:20+05:00",
-   "time_tashkent": "00:20",
-   "region": "МИР",
-   "type": "smi",
-   "source": "WAPT",
-   "feed": "GNews/World-US",
-   "paywall": false,
-   "title": "One victim of the Hawkins Field plane crash confirmed",
-   "summary": "One victim of the Hawkins Field plane crash confirmed&nbsp;&nbsp;WAPTTwo onboard aircraft involved in Hawkins Field incident&nbsp;&nbsp;WJTVVictim identified in Hawkins Field plane crash as Mississippi Baptist burn surgeon&nbsp;&nbsp;WLBT2 on board a",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeHJzSHZ6dXR3d2xDSk9ualhaMG5BempHQkplTWFLVTRWRTZac1N0cS1vUG00T244SElKY1hQaDBJdlhPeGdXU09JWnFZZzh4Z2tCMmZoSGZUS2VFcnAxUnc1S0dyUDA0VGhOekJYNnc0elBxZWhFSGlMNA?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "294dcb3f2261bca5f917ca3114949f3b",
    "published": "2026-11-23T00:20+05:00",
    "time_tashkent": "00:20",
@@ -1205,17 +1461,17 @@
    "confirmed": false
   },
   {
-   "hash": "5126b7f16411965cb5d5c497284be639",
-   "published": "2026-11-23T00:19+05:00",
-   "time_tashkent": "00:19",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "Burnham to exempt EU students from new £1k tax",
-   "summary": "Burnham to exempt EU students from new £1k tax&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkd0U1ZzM3ZhMHpvRzh4aG5wMmtMMlZYaWdxNjkxOTdHUURQdUhWaFB4WmVZWnJ4Y284dmQ0MmtQNXZTdUdZcEFPbVBJeWZzYW1RUmZCTTZxTmVfNVhFRjlRN2NyaTNpVmZqZEFpRGNFTVJWTU00cFhjd3pRVlJoM3NVTnhKeUhRSGRjdUJ4OVRTbVlpR252bnJR?oc=5",
+   "hash": "3ee82fad49ff1b1272d84c19f600c06e",
+   "published": "2026-11-23T00:20+05:00",
+   "time_tashkent": "00:20",
+   "region": "МИР",
+   "type": "smi",
+   "source": "WAPT",
+   "feed": "GNews/World-US",
+   "paywall": false,
+   "title": "One victim of the Hawkins Field plane crash confirmed",
+   "summary": "One victim of the Hawkins Field plane crash confirmed&nbsp;&nbsp;WAPTTwo onboard aircraft involved in Hawkins Field incident&nbsp;&nbsp;WJTVVictim identified in Hawkins Field plane crash as Mississippi Baptist burn surgeon&nbsp;&nbsp;WLBT2 on board a",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGeHJzSHZ6dXR3d2xDSk9ualhaMG5BempHQkplTWFLVTRWRTZac1N0cS1vUG00T244SElKY1hQaDBJdlhPeGdXU09JWnFZZzh4Z2tCMmZoSGZUS2VFcnAxUnc1S0dyUDA0VGhOekJYNnc0elBxZWhFSGlMNA?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1241,6 +1497,57 @@
    ],
    "sources_count": 2,
    "confirmed": true
+  },
+  {
+   "hash": "5126b7f16411965cb5d5c497284be639",
+   "published": "2026-11-23T00:19+05:00",
+   "time_tashkent": "00:19",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "Burnham to exempt EU students from new £1k tax",
+   "summary": "Burnham to exempt EU students from new £1k tax&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbkd0U1ZzM3ZhMHpvRzh4aG5wMmtMMlZYaWdxNjkxOTdHUURQdUhWaFB4WmVZWnJ4Y284dmQ0MmtQNXZTdUdZcEFPbVBJeWZzYW1RUmZCTTZxTmVfNVhFRjlRN2NyaTNpVmZqZEFpRGNFTVJWTU00cFhjd3pRVlJoM3NVTnhKeUhRSGRjdUJ4OVRTbVlpR252bnJR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "f81e8dced91a22ad1f19ca0f89c8005b",
+   "published": "2026-11-23T00:18+05:00",
+   "time_tashkent": "00:18",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Fani-Kayode presents Letter of Credence to Ramaphosa, formally assumes duty as ambassador",
+   "summary": "Fani-Kayode presents Letter of Credence to Ramaphosa, formally assumes duty as ambassador&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeGlQUzVBcGJISFQ3N1VJaEV1dGg5UnZ4b1BHcHh5TzdwOTNBNmVFOXE1MkFrOFotSmNVSWRPZFU0dklNeERCTGRNbjRxaFVSMjF0S0Y5ZUdUUzhkWnRlZDF0Sk1wUW5abkJBMk92OThacDJvSVN5MXc4WG1CcGhtbWl1Mk8xMExIOE5yS0VWRHB0NDNQaXRLRXJqQ1NKZDRRcnFrb1pFVU5EbmJXaFJwWEdsUjZSNnRKdFFvTk82c2ExYjBQMUdxbzVMdnEyM1FoZFc0NHhmWVBrZHNXblVN?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "a32150ba8456398066856887b065f5e9",
+   "published": "2026-11-23T00:18+05:00",
+   "time_tashkent": "00:18",
+   "region": "БВ",
+   "type": "smi",
+   "source": "Al Jazeera",
+   "feed": "Al Jazeera",
+   "paywall": false,
+   "title": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
+   "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+   "link": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "3adbbc9fa117396e28f4a083b86f8690",
@@ -1271,27 +1578,16 @@
    "title": "Trump gives suprising boost to El-Sayed’s health-care pitch",
    "summary": "Trump gives suprising boost to El-Sayed’s health-care pitch&nbsp;&nbsp;New York Post",
    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0ZVU0pfOFlZWTNlVjQ0T2JCNkdYd1NMQzdYNXdVTWJtczRlMXdzZFgtTEZBNzhHZmw3ZnU5MHlLRWlOSHNyeGMyZ1lhT0hGVE1KQjNuSXhnOTZsTE9pS2dfSDdyTXpQaTR2YmJIV1BNM25DMGMxM2VVWkJXLXpaeVZiNEdLTUJiRXRLV2FPRzk2eUtWaUxWYjZzUzRHdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
+   "also": [
+    "USA Today",
+    "The Washington Post"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUs4eXZ6ZXRHNG9JZmllemFnbDVpYXdZaDIwQnJOZEVmQWhiZVV4cTk3Mk5WQkZ0MUpTdTBTUlo5QVdzd3FpRFVuOUpyOFI0dlJrdE84Y0daOWg5S3BzWGp3VGdCU3MxYXVaY3o1N19TeWhmd25HNk9XR3I4SGROZTFFVTNDVVpaWk9rYTFFSU9Rek45MmNCZGdhVEY?oc=5",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeXQ2N0kxSWllQ1FHMUl3Sl9kS0hjRnN0cVk5aTVSRTZfWG83MFhyMUJHLTZ6YTNIVGVpWjREVGhMSW5mWVVRMjJsR0djRWZTUXMxbXRJNXUwVGJyTlZRVGZkUU9HV0ppWDhDQXBWZl9yRDJLSTNvQ1h4TGRPbTRhcGRYWlZsaVRMQ19feFprSGprdmZrZm1UdlJB?oc=5"
+   ],
+   "sources_count": 3,
    "confirmed": true
-  },
-  {
-   "hash": "a32150ba8456398066856887b065f5e9",
-   "published": "2026-11-23T00:18+05:00",
-   "time_tashkent": "00:18",
-   "region": "БВ",
-   "type": "smi",
-   "source": "Al Jazeera",
-   "feed": "Al Jazeera",
-   "paywall": false,
-   "title": "CHK_Aber Kawas becomes first Palestinian in New York state Senate history",
-   "summary": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
-   "link": "https://www.aljazeera.com/news/2026/11/22/chk_aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
   },
   {
    "hash": "7bee91d633ae0b4450cc32ed25fb8d1a",
@@ -1328,23 +1624,6 @@
    "confirmed": false
   },
   {
-   "hash": "eafbb6cfef11efe46e254cceb006fc83",
-   "published": "2026-11-23T00:14+05:00",
-   "time_tashkent": "00:14",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Over half of migrants surveyed in Poland report abuse, study finds",
-   "summary": "Over half of migrants surveyed in Poland report abuse, study finds&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVS1lVHJnUEE4YndCd01JS2s2M2ZhOEJsRE5tWmxRcVBqblBCMGxNWlZUdFBJZ2VDTUNUMjVqcld5X09IRGVidEZNUHNyYlFmc3dXOEhQNDE4aFBrWVhEckJTVU5jSjZjR3g1MWdqNnkza2lna3AxaUF5ZGlpVXNNZnVBSmNDMXZ2cFhlUWdVTTZDTDRkc1dfeDIwamhUcEdoSlNkWFF3ZW4?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "bbac013eb56d9d2bf2bcddcc7358b814",
    "published": "2026-11-23T00:14+05:00",
    "time_tashkent": "00:14",
@@ -1360,6 +1639,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "eafbb6cfef11efe46e254cceb006fc83",
+   "published": "2026-11-23T00:14+05:00",
+   "time_tashkent": "00:14",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Over half of migrants surveyed in Poland report abuse, study finds",
+   "summary": "Over half of migrants surveyed in Poland report abuse, study finds&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVS1lVHJnUEE4YndCd01JS2s2M2ZhOEJsRE5tWmxRcVBqblBCMGxNWlZUdFBJZ2VDTUNUMjVqcld5X09IRGVidEZNUHNyYlFmc3dXOEhQNDE4aFBrWVhEckJTVU5jSjZjR3g1MWdqNnkza2lna3AxaUF5ZGlpVXNNZnVBSmNDMXZ2cFhlUWdVTTZDTDRkc1dfeDIwamhUcEdoSlNkWFF3ZW4?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "baf7293ce94fcb7d4f650e47f674dc1b",
@@ -1417,6 +1713,23 @@
    "confirmed": false
   },
   {
+   "hash": "3ba674d369a4506fd2a2c56379ed1ef2",
+   "published": "2026-11-23T00:10+05:00",
+   "time_tashkent": "00:10",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The New York Times",
+   "feed": "GNews/Платные мировые",
+   "paywall": true,
+   "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
+   "summary": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died&nbsp;&nbsp;The New York Times",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16U3FsYW90dmlvcHE5d1lRU3plMGREMk5seldxZy1JdVpodlIzTDJXQ1FrZkcxUTJRYmluRkRnZ21kaWg2VWhnaWV2T3pUalc0S21WeWZYY1JZSzNHc3BNQUVLMjJhai1sdlF3RURLQmdSUQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "9c6db9dbb0b23982e31da46b44d05a36",
    "published": "2026-11-23T00:10+05:00",
    "time_tashkent": "00:10",
@@ -1440,17 +1753,17 @@
    "confirmed": true
   },
   {
-   "hash": "3ba674d369a4506fd2a2c56379ed1ef2",
-   "published": "2026-11-23T00:10+05:00",
-   "time_tashkent": "00:10",
+   "hash": "7db40b66a62ab33c11f8bf7d69bc28a9",
+   "published": "2026-11-23T00:08+05:00",
+   "time_tashkent": "00:08",
    "region": "МИР",
-   "type": "pay",
-   "source": "The New York Times",
-   "feed": "GNews/Платные мировые",
-   "paywall": true,
-   "title": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died",
-   "summary": "Donald Hooton Sr., Who Crusaded Against Steroids in Sports, Has Died&nbsp;&nbsp;The New York Times",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16U3FsYW90dmlvcHE5d1lRU3plMGREMk5seldxZy1JdVpodlIzTDJXQ1FrZkcxUTJRYmluRkRnZ21kaWg2VWhnaWV2T3pUalc0S21WeWZYY1JZSzNHc3BNQUVLMjJhai1sdlF3RURLQmdSUQ?oc=5",
+   "type": "smi",
+   "source": "AP News",
+   "feed": "AP",
+   "paywall": false,
+   "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+   "summary": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal&nbsp;&nbsp;AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1474,17 +1787,17 @@
    "confirmed": false
   },
   {
-   "hash": "7db40b66a62ab33c11f8bf7d69bc28a9",
-   "published": "2026-11-23T00:08+05:00",
-   "time_tashkent": "00:08",
-   "region": "МИР",
+   "hash": "1a58ee0d1983ba839f7ff9658cd3b2ab",
+   "published": "2026-11-23T00:07+05:00",
+   "time_tashkent": "00:07",
+   "region": "АТР",
    "type": "smi",
-   "source": "AP News",
-   "feed": "AP",
+   "source": "Sydney Morning Herald",
+   "feed": "Sydney Morning Herald",
    "paywall": false,
-   "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
-   "summary": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal&nbsp;&nbsp;AP News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5",
+   "title": "Russian warship attacked off Libya",
+   "summary": "A Russian warship has been destroyed off the coast of Libya in a suspected Ukrainian drone attack.",
+   "link": "https://www.smh.com.au/world/russian-warship-attacked-off-libya-20261123-p61gca.html?ref=rss&utm_medium=rss&utm_source=rss_world",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1508,23 +1821,6 @@
    "confirmed": false
   },
   {
-   "hash": "1a58ee0d1983ba839f7ff9658cd3b2ab",
-   "published": "2026-11-23T00:07+05:00",
-   "time_tashkent": "00:07",
-   "region": "АТР",
-   "type": "smi",
-   "source": "Sydney Morning Herald",
-   "feed": "Sydney Morning Herald",
-   "paywall": false,
-   "title": "Russian warship attacked off Libya",
-   "summary": "A Russian warship has been destroyed off the coast of Libya in a suspected Ukrainian drone attack.",
-   "link": "https://www.smh.com.au/world/russian-warship-attacked-off-libya-20261123-p61gca.html?ref=rss&utm_medium=rss&utm_source=rss_world",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "96cc79df3924903e743af55beacbaba7",
    "published": "2026-11-23T00:06+05:00",
    "time_tashkent": "00:06",
@@ -1540,23 +1836,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "8bfe599cb0cf564ec4a8e38590d5bcb5",
-   "published": "2026-11-23T00:05+05:00",
-   "time_tashkent": "00:05",
-   "region": "США",
-   "type": "ofic",
-   "source": "Indy100",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "62 of the most stupid things Donald Trump has ever said",
-   "summary": "62 of the most stupid things Donald Trump has ever said&nbsp;&nbsp;Indy100",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYk9UNW8xcnVreG1CM0RXWWNNQWdhSUZYc1I4S0drNWxWNm9HT0FxUkwtOTVKNlVDaUp5bWlHdkZKbFNOOUtJLWxZUzd4Tkl6dEQ4aEwxSVJ0dWJvT1RWczQwZFVqc1JROG5uNGRPdmFkVXUyOFk3aVBob2JYZHN2STBxaUw1TFc5M1R2Y09kdXo?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
   },
   {
    "hash": "1e022eb262efb6610cc84c020d5a3328",
@@ -1597,6 +1876,23 @@
    "confirmed": true
   },
   {
+   "hash": "8bfe599cb0cf564ec4a8e38590d5bcb5",
+   "published": "2026-11-23T00:05+05:00",
+   "time_tashkent": "00:05",
+   "region": "США",
+   "type": "ofic",
+   "source": "Indy100",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "62 of the most stupid things Donald Trump has ever said",
+   "summary": "62 of the most stupid things Donald Trump has ever said&nbsp;&nbsp;Indy100",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYk9UNW8xcnVreG1CM0RXWWNNQWdhSUZYc1I4S0drNWxWNm9HT0FxUkwtOTVKNlVDaUp5bWlHdkZKbFNOOUtJLWxZUzd4Tkl6dEQ4aEwxSVJ0dWJvT1RWczQwZFVqc1JROG5uNGRPdmFkVXUyOFk3aVBob2JYZHN2STBxaUw1TFc5M1R2Y09kdXo?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "7020f9e63107fd7aa95e42738f41dc8d",
    "published": "2026-11-23T00:04+05:00",
    "time_tashkent": "00:04",
@@ -1612,27 +1908,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "6e33b6a748a891cec03e14d317d57571",
-   "published": "2026-11-23T00:03+05:00",
-   "time_tashkent": "00:03",
-   "region": "США",
-   "type": "smi",
-   "source": "Politico Congress",
-   "feed": "Politico Congress",
-   "paywall": false,
-   "title": "Rep. Virginia Foxx loses reelection bid after 11 terms",
-   "summary": "The victory for Democrat Chuck Hubbard will have local and national reverberations as it pushes Democrats to a 258 seat majority.",
-   "link": "https://www.politico.com/news/2026/11/22/rep-virginia-foxx-loses-reelection-01180093",
-   "also": [
-    "Politico"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWVmNlQ3Q3RSV3dXbk9wRHpFemNaTTg5RExGSnh0UXdETVJJLVJOLWRGcE8tT19mcVdWbUFaWkExZnZlMHF5dW1ZcVBXOEdGWG9EeWZKbE40eXE2RXdoOVQzWE4yX2x5SWdZT19OekdCNm1jV3ppV3NrYTZiUzlwUVdtalRDcXJNdlF3SA?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
   },
   {
    "hash": "3876d0b95e97a47443d2c4c823e0fbe9",
@@ -1656,6 +1931,27 @@
    "confirmed": true
   },
   {
+   "hash": "6e33b6a748a891cec03e14d317d57571",
+   "published": "2026-11-23T00:03+05:00",
+   "time_tashkent": "00:03",
+   "region": "США",
+   "type": "smi",
+   "source": "Politico Congress",
+   "feed": "Politico Congress",
+   "paywall": false,
+   "title": "Rep. Virginia Foxx loses reelection bid after 11 terms",
+   "summary": "The victory for Democrat Chuck Hubbard will have local and national reverberations as it pushes Democrats to a 258 seat majority.",
+   "link": "https://www.politico.com/news/2026/11/22/rep-virginia-foxx-loses-reelection-01180093",
+   "also": [
+    "Politico"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWVmNlQ3Q3RSV3dXbk9wRHpFemNaTTg5RExGSnh0UXdETVJJLVJOLWRGcE8tT19mcVdWbUFaWkExZnZlMHF5dW1ZcVBXOEdGWG9EeWZKbE40eXE2RXdoOVQzWE4yX2x5SWdZT19OekdCNm1jV3ppV3NrYTZiUzlwUVdtalRDcXJNdlF3SA?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "a6250e1af9d58cb61d8f2fb75f886c78",
    "published": "2026-11-23T00:02+05:00",
    "time_tashkent": "00:02",
@@ -1670,6 +1966,27 @@
    "also": [],
    "also_links": [],
    "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "762eb9eb4b339e7df2c5f51104e0619f",
+   "published": "2026-11-23T00:01+05:00",
+   "time_tashkent": "00:01",
+   "region": "АТР",
+   "type": "smi",
+   "source": "GNews/Япония",
+   "feed": "GNews/Япония",
+   "paywall": false,
+   "title": "Latest News - The Japan Times",
+   "summary": "Latest News&nbsp;&nbsp;The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbllNZmliWWhySXZtY1ZpMGo1Q2dlMkVuQnJfYWJYeWdfa0FLNVFOdUo3dzRSSjdLVUUxUzNUcklsVEtFbUdselNMUE5jUDhhSjZTMDF4NkZjUm9p?oc=5",
+   "also": [
+    "Il Sole 24 ORE"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjZYRHVpbUdTVVlVTDNNX010cWJDY2FvT0FCTHQySVZibUstMWt0T1dOblQ0S25PNVBCRHFZUGVqcFBrWFdqN21pVmJkVUUyUUxRRTZVSWFQNHNpOHpIOHc2akszMkdFZDIySGZNaURRUUFHM0liM1o1OG9jN0lxeWtJczBFd3BuMS1QczRqQVltZzg4VzBGczlvTXJBZUZZMkl1ek81b2Z1WW5pZjJrUG8tZW1EUQ?oc=5"
+   ],
+   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -1707,27 +2024,6 @@
    "confirmed": false
   },
   {
-   "hash": "762eb9eb4b339e7df2c5f51104e0619f",
-   "published": "2026-11-23T00:01+05:00",
-   "time_tashkent": "00:01",
-   "region": "АТР",
-   "type": "smi",
-   "source": "GNews/Япония",
-   "feed": "GNews/Япония",
-   "paywall": false,
-   "title": "Latest News - The Japan Times",
-   "summary": "Latest News&nbsp;&nbsp;The Japan Times",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbllNZmliWWhySXZtY1ZpMGo1Q2dlMkVuQnJfYWJYeWdfa0FLNVFOdUo3dzRSSjdLVUUxUzNUcklsVEtFbUdselNMUE5jUDhhSjZTMDF4NkZjUm9p?oc=5",
-   "also": [
-    "Il Sole 24 ORE"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjZYRHVpbUdTVVlVTDNNX010cWJDY2FvT0FCTHQySVZibUstMWt0T1dOblQ0S25PNVBCRHFZUGVqcFBrWFdqN21pVmJkVUUyUUxRRTZVSWFQNHNpOHpIOHc2akszMkdFZDIySGZNaURRUUFHM0liM1o1OG9jN0lxeWtJczBFd3BuMS1QczRqQVltZzg4VzBGczlvTXJBZUZZMkl1ek81b2Z1WW5pZjJrUG8tZW1EUQ?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "193d554a105c83b8f2a7eec9c965b1ce",
    "published": "2026-11-23T00:00+05:00",
    "time_tashkent": "00:00",
@@ -1739,6 +2035,23 @@
    "title": "Disputing vet's claim, Agriculture Ministry official says he's '80% certain' dog blamed for woman’s rabies death had virus",
    "summary": "Disputing vet's claim, Agriculture Ministry official says he's '80% certain' dog blamed for woman’s rabies death had virus&nbsp;&nbsp;The Times of Israel",
    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUW9FV1N1MndPTGZNTFF6Z1llSEZRZDd0N0UzZnVqUnJIUC1PVExDWEpvTTJQTHB3dmNqRXhncDVUd0t4Q0gwelI1MENpUkh5VHJlaFhuOGdKZ3RUV2Y3SU5reWI2Q2xrdjlxNzdlR1hmbUhWVmVkY0hqQlhNd0hKUl9XQVBVSVdqa2tpZFVQdU1lZC1nS2xudGZtRldSekRUcEVMd2NwMi0zY3NRaWdYa2NYYUhFbG80MTJpNXM2Qzl4NHhIeGFVSWpuTVRBdUlLcUllazFucjB0UmdjUWtMNG1TVzJNSVlmUVRlNG9GakMxdVU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "e42b3f85a5972f3987f44bb92ca96717",
+   "published": "2026-11-23T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "АТР",
+   "type": "smi",
+   "source": "SMH Politics",
+   "feed": "SMH Politics",
+   "paywall": false,
+   "title": "‘Shouldn’t have to wear a flak jacket’: Haines’ response to survey reveals toll on politicians",
+   "summary": "Seven in 10 Australian MPs say public office has damaged their wellbeing, with one in five reporting suicidal thoughts, according to new research.",
+   "link": "https://www.smh.com.au/politics/federal/shouldn-t-have-to-wear-a-flak-jacket-haines-response-to-survey-reveals-toll-on-politicians-20261123-p61g7f.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2270,23 +2583,6 @@
    "title": "Trump keeps losing in court. Here’s how he gets what he wants anyway.",
    "summary": "Trump keeps losing in court. Here’s how he gets what he wants anyway.&nbsp;&nbsp;The Washington Post‘Trump speed’: How the White House keeps winning after losing in court&nbsp;&nbsp;Alternet",
    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa3ozYWpuVnplUHVVOUNiQVhUWWV4OGxCY016dlJ0SDd3VGdVbjZMUHI5VG5ZOWUtQWl0QV82NUsxNnk3d2xURm1rNTViSU1WMWVxY29JZW5PcDNkMnpsYm03bkZpZWFRdzFiOHVMUTh2TDFqWTJHaHF1eVNkRG83OS02bndqSU8xNDdYUGRqUGJNVzJPRVZhb2d6aExLMnFDN2VnMVdobFlRSU5LakRxWWhROFRfZw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "e42b3f85a5972f3987f44bb92ca96717",
-   "published": "2026-11-23T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "АТР",
-   "type": "smi",
-   "source": "SMH Politics",
-   "feed": "SMH Politics",
-   "paywall": false,
-   "title": "‘Shouldn’t have to wear a flak jacket’: Haines’ response to survey reveals toll on politicians",
-   "summary": "Seven in 10 Australian MPs say public office has damaged their wellbeing, with one in five reporting suicidal thoughts, according to new research.",
-   "link": "https://www.smh.com.au/politics/federal/shouldn-t-have-to-wear-a-flak-jacket-haines-response-to-survey-reveals-toll-on-politicians-20261123-p61g7f.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
    "also": [],
    "also_links": [],
    "sources_count": 1,
