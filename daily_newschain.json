@@ -2,35 +2,137 @@
  "date": "2026-11-23",
  "window": {
   "from": "2026-11-23T00:00+05:00",
-  "to": "2026-11-23T00:53+05:00"
+  "to": "2026-11-23T01:09+05:00"
  },
- "updated": "2026-11-23T00:53+05:00",
- "count": 77,
+ "updated": "2026-11-23T01:09+05:00",
+ "count": 99,
  "by_region": {
-  "МИР": 31,
-  "США": 5,
-  "ЕВ": 13,
-  "УКР": 0,
-  "БВ": 8,
+  "МИР": 34,
+  "США": 10,
+  "ЕВ": 17,
+  "УКР": 1,
+  "БВ": 10,
   "ЦА": 0,
   "ЮА": 1,
-  "АТР": 16,
-  "АФР": 1,
-  "РЫН": 2
+  "АТР": 19,
+  "АФР": 3,
+  "РЫН": 4
  },
  "items": [
   {
-   "hash": "289cdcd50686fd1e7300f6df81a3d0a1",
-   "published": "2026-11-23T00:47+05:00",
-   "time_tashkent": "00:47",
-   "region": "МИР",
-   "type": "pay",
-   "source": "The Washington Post",
-   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
-   "paywall": true,
-   "title": "Mark Carney brings Trump impersonator onstage to joke about U.S.-Canada ties",
-   "summary": "Mark Carney brings Trump impersonator onstage to joke about U.S.-Canada ties&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlhjbzQtT0pSVFBZbUxHZ0FlTVRocFpoNmdoX2NaeW92bmw4TGdqb0pITnlST2hjeFBSTG9Wa044V19mWjJVYjM4bkJTQzJVdzlXWldvUGlGTG5oSkdXN0duSGxSR1AzdTdNbVJSczgyYUpCdlBydzlkOWxjWmd3Q3M4MVNZcDVqZlRkV2lqUjB6bE5fQy1ib2tvdm0tUC1Zd1gzMDJDZVJrTzJseVItc19GSnJTM25qUkxnTg?oc=5",
+   "hash": "0f775aa466ddcdcbfae7f6e4609a3442",
+   "published": "2026-11-23T01:03+05:00",
+   "time_tashkent": "01:03",
+   "region": "АТР",
+   "type": "smi",
+   "source": "SCMP",
+   "feed": "SCMP",
+   "paywall": false,
+   "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+   "summary": "The US ⁠is seeking answers from Nvidia on ⁠its chip sales to China and will find out who was in charge of compliance at the company formerly led by Jensen Huang, who resigned following an affair with a suspected Chinese spy, US Treasury Secretary ‌Sc",
+   "link": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "30ea8b5eefc0872406aa8a81fc5ff135",
+   "published": "2026-11-23T01:02+05:00",
+   "time_tashkent": "01:02",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "Defence Ministry deletes pro-APC post amid criticism",
+   "summary": "Defence Ministry deletes pro-APC post amid criticism&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQT2t5Z3g4WEhiT0tpZUdWUnBma2lWaEZDMnZHUVJmbi1tR1FCbWZ6TEJaVXVaamhnNDRFTEJrdHM0dkV5WVgteHROc2hXRXpoa1RRN3VCVGlpeVpZVWd2TzFuSW1tanBNT292NEhFdGdLNVNKSkR0eGxtc3B6U0pFcmhHLTBiRVhfS21DbHNyVHJHODBJMEpKdzM5NVNtcGNBWDhuY3NDNUEwLTl0SkE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "013200fe6d9487ab9432aa3aadcbb7aa",
+   "published": "2026-11-23T01:00+05:00",
+   "time_tashkent": "01:00",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "OilPrice",
+   "feed": "OilPrice",
+   "paywall": false,
+   "title": "California’s Wildfire Crisis Is Threatening Its Energy Future",
+   "summary": "The cost of natural disasters is hitting utilities hard as they need to invest more heavily in strengthening transmission infrastructure and financially supporting recovery efforts. In California, several utilities have seen costs increase in relatio",
+   "link": "https://oilprice.com/Energy/Energy-General/Californias-Wildfire-Crisis-Is-Threatening-Its-Energy-Future.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "8cda9e599c2196463f94ced8dc7e9169",
+   "published": "2026-11-23T00:56+05:00",
+   "time_tashkent": "00:56",
+   "region": "АФР",
+   "type": "smi",
+   "source": "Premium Times Nigeria",
+   "feed": "GNews/Африка: СМИ",
+   "paywall": false,
+   "title": "2027: Atiku denies quitting race after support group backs Obi for president",
+   "summary": "2027: Atiku denies quitting race after support group backs Obi for president&nbsp;&nbsp;Premium Times Nigeria",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNY2lWbkVhRmk1NTg3RTFfVGxhN1NyX0hYT0YwWXJRUVNwWXJHZXAzY09OYXVmMUw0cmd6X013TXpMb2t2bENaRmhuNGh1MmRJOXE1WVFMa0czTzktNjRjZ09vdHB1dUdVVTdqY0tVMnlrMXdHVW42YXNVQ0hzZ2hFbDN2anY1SGVGdU13bHlCa1dfOTFKODE2MFJsZUZ0RFFNSXFvZjZuSUJEakxNdHpWdFVsNlJGRUwtbG5DSnlQUGQwTDlOLXdjRHpIX1I?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "690ca9ff83bc5550a95f347c182cdef2",
+   "published": "2026-11-23T00:52+05:00",
+   "time_tashkent": "00:52",
+   "region": "БВ",
+   "type": "smi",
+   "source": "GNews/СМИ Ближнего Востока 2",
+   "feed": "GNews/СМИ Ближнего Востока 2",
+   "paywall": false,
+   "title": "In Ukraine, the Fight to Keep Winter Outside Begins with a Broken Window - ASHARQ AL-AWSAT English",
+   "summary": "In Ukraine, the Fight to Keep Winter Outside Begins with a Broken Window&nbsp;&nbsp;ASHARQ AL-AWSAT English",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSHBJazQ1bGtURm90VFVFc0thRVJucTU2cGo1VnBMNF8tdGpzQ3pkREZIUGZQNzlPYlc0LW0wTjZaQmF1anNoZXM4SDVVQnNxWTBuc3AzRzdxb1NTUkNCMUNYOUlzQXJGM2F1dHBsX29qd1dHV3dmbjJfeW5xcnI1VTBnU0h0X3NGZU92dHlLQVZzU0hGYmlvVmpFRQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "e73d5b20c5b1432d0b5ff2027c72f473",
+   "published": "2026-11-23T00:51+05:00",
+   "time_tashkent": "00:51",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Japan Times",
+   "feed": "GNews/Япония",
+   "paywall": false,
+   "title": "Masahiro Matsumura",
+   "summary": "Masahiro Matsumura&nbsp;&nbsp;The Japan Times",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBWcFFOeTdEQ0VlSjRvcDdGLVFUQ2U3ZzVvN2dGNGNjSXNJTDBsQW5lVk1JdzNkWEM0QkVNYUJYdkh2V2xXTkVzNFdvc3RsVmRzWEpKajUyVG1JdWZGeEN2SThtbHlERklQczBV?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "8990e722d87b96f8bb7c2117f4d1ca6a",
+   "published": "2026-11-23T00:50+05:00",
+   "time_tashkent": "00:50",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "TVP World",
+   "feed": "GNews/СМИ Польши и Центральной Европы",
+   "paywall": false,
+   "title": "Trump unwilling to talk security guarantees for Ukraine before peace deal agreed",
+   "summary": "Trump unwilling to talk security guarantees for Ukraine before peace deal agreed&nbsp;&nbsp;TVP World",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNemFLMENwcW9GdGZfY2ZFMjA5Rmh5RzlIZkNfSVZBX0F2Y2VKbU1heUtmcmNfbk9UU2ZHOFM5QVNtd25sTElJVmVxOURERUhfazBhcS1EbUJLUFBDZnZRMVFQcnNMZmRJY2NCQ0kybEpSdlRZdmh3TEZ3MFlBNlhfenhRclpfbUM0SzFpeXV2NkVjUQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -54,6 +156,40 @@
    "confirmed": false
   },
   {
+   "hash": "289cdcd50686fd1e7300f6df81a3d0a1",
+   "published": "2026-11-23T00:47+05:00",
+   "time_tashkent": "00:47",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Mark Carney brings Trump impersonator onstage to joke about U.S.-Canada ties",
+   "summary": "Mark Carney brings Trump impersonator onstage to joke about U.S.-Canada ties&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRlhjbzQtT0pSVFBZbUxHZ0FlTVRocFpoNmdoX2NaeW92bmw4TGdqb0pITnlST2hjeFBSTG9Wa044V19mWjJVYjM4bkJTQzJVdzlXWldvUGlGTG5oSkdXN0duSGxSR1AzdTdNbVJSczgyYUpCdlBydzlkOWxjWmd3Q3M4MVNZcDVqZlRkV2lqUjB6bE5fQy1ib2tvdm0tUC1Zd1gzMDJDZVJrTzJseVItc19GSnJTM25qUkxnTg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d63e8179290abedefb6edb921be93bc0",
+   "published": "2026-11-23T00:46+05:00",
+   "time_tashkent": "00:46",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "US claims to have destroyed IRGC headquarters, cutting off 'head of the snake'",
+   "summary": "US claims to have destroyed IRGC headquarters, cutting off 'head of the snake'&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdWltTXIybEFjZ1ZCZm1mMy1XVjlSb1lvQ2tJOGpmRTFUbEZuTUpQM2h0UnNqZm1HUnA2VFdBNkZBemt6Mkc2TnRDSTZxdDhhMlRZT2VtVHR3MmR6MmV0Vl9XV2dZMkoyTG54UmdUNmFhRVUtaWVTb1FCdGxhbUVhQzA0UjN5TzdMQUZ5QkdYTVB3ZGlBYWMwOS1xNGN2Q1V2eGV1NmdSSGFOaVNFU1JTRlJXU0VPYWNxUXNnQjZZX0o?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "96b65470688af2e948c5b22cb4f352e7",
    "published": "2026-11-23T00:46+05:00",
    "time_tashkent": "00:46",
@@ -65,6 +201,27 @@
    "title": "Live: Greens 'optimistic' about deal on digital duty of care",
    "summary": "The Greens are optimistic a deal can be struck with the government over its digital duty of care legislation by the end of the week. Follow live.",
    "link": "https://www.abc.net.au/news/2026-11-23/federal-politics-live-blog-parliament-nov-23/107415266",
+   "also": [
+    "Guardian"
+   ],
+   "also_links": [
+    "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "5656699cf4873859a87bede68fa0476a",
+   "published": "2026-11-23T00:46+05:00",
+   "time_tashkent": "00:46",
+   "region": "США",
+   "type": "smi",
+   "source": "The Hill",
+   "feed": "The Hill",
+   "paywall": false,
+   "title": "Trump blames $6T stock market slide on Democrats' midterm wins",
+   "summary": "President Trump blames the stock market’s $6 trillion slide on the Democratic party’s wins nationwide that saw it take control of both the House and Senate.  “The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange ‘win’ o",
+   "link": "https://thehill.com/homenews/administration/6236127-trump-blames-market-drop/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -139,31 +296,6 @@
    "confirmed": false
   },
   {
-   "hash": "4646a33fab35e69cbf209e6974400623",
-   "published": "2026-11-23T00:41+05:00",
-   "time_tashkent": "00:41",
-   "region": "МИР",
-   "type": "smi",
-   "source": "France24",
-   "feed": "France24",
-   "paywall": false,
-   "title": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
-   "summary": "A Russian navy corvette docked at the Benghazi naval base ​in eastern Libya was hit on Sunday by a suspected Ukrainian sea drone, according to local officials. The strike severely damaged the warship and ignited a fire at the facility in what appeare",
-   "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
-   "also": [
-    "Sydney Morning Herald",
-    "The Age",
-    "The Telegraph"
-   ],
-   "also_links": [
-    "https://www.smh.com.au/world/europe/russian-warship-goes-up-in-flames-at-libyan-port-in-suspected-ukraine-sea-drone-attack-20261123-p61gbo.html?ref=rss&utm_medium=rss&utm_source=rss_world",
-    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFltWTd1Y0pQMEhtMjdueWNPREJteFFTeGdqemlZZER3VjV5bjRHOHN0RU9nTUYzdjN0bkM4d0JYX2hidnczcGU1c0lLQlN5LXhtSDdQbDZfcEZTYVh0MDZJb1lrY3RUNzdjeGN0TlNibjdWYTE2VzFvVlBIMjE2N2VNZDhMakE0eUhKQUY1eGprN3JDd2R3cGpZaHlnTWRSUS1fa2xVbmJXTzA4V2JTREJJdDZOcGV1ZGYtUjZ6b211Y0dQS3RpYl9GZllvNUl6ZWxQSXNSQ1NfdkVKaW1j?oc=5",
-    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFVVdXoyRUNFc2hHMUNLZlBwMUVQd0pfV0syTkpjY2N2ZUtWUGwwVVdETjBWWWVpdG1TNUN5YTdKbWJWX08yNTlxNllnUkRNTWZ0cU1WS2ZlZm82Zi1ySlpWcE9yWXhrWWVmaHpzUGFQN1dvWDNCdXhhV0lVdnp3QnVHOHRfUU52MkpueDVEdUNmdHVvRXF3SkpXSnZqcWRCMFYxYg?oc=5"
-   ],
-   "sources_count": 4,
-   "confirmed": true
-  },
-  {
    "hash": "d90a06f48f30144ac0cf10126ca10ad2",
    "published": "2026-11-23T00:41+05:00",
    "time_tashkent": "00:41",
@@ -179,6 +311,50 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "4646a33fab35e69cbf209e6974400623",
+   "published": "2026-11-23T00:41+05:00",
+   "time_tashkent": "00:41",
+   "region": "МИР",
+   "type": "smi",
+   "source": "France24",
+   "feed": "France24",
+   "paywall": false,
+   "title": "Russian warship hit by suspected Ukrainian drone at Benghazi naval base, Libyan officials say",
+   "summary": "A Russian navy corvette docked at the Benghazi naval base ​in eastern Libya was hit on Sunday by a suspected Ukrainian sea drone, according to local officials. The strike severely damaged the warship and ignited a fire at the facility in what appeare",
+   "link": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+   "also": [
+    "Sydney Morning Herald",
+    "The Age",
+    "The Telegraph",
+    "BBC World"
+   ],
+   "also_links": [
+    "https://www.smh.com.au/world/europe/russian-warship-goes-up-in-flames-at-libyan-port-in-suspected-ukraine-sea-drone-attack-20261123-p61gbo.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+    "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeFltWTd1Y0pQMEhtMjdueWNPREJteFFTeGdqemlZZER3VjV5bjRHOHN0RU9nTUYzdjN0bkM4d0JYX2hidnczcGU1c0lLQlN5LXhtSDdQbDZfcEZTYVh0MDZJb1lrY3RUNzdjeGN0TlNibjdWYTE2VzFvVlBIMjE2N2VNZDhMakE0eUhKQUY1eGprN3JDd2R3cGpZaHlnTWRSUS1fa2xVbmJXTzA4V2JTREJJdDZOcGV1ZGYtUjZ6b211Y0dQS3RpYl9GZllvNUl6ZWxQSXNSQ1NfdkVKaW1j?oc=5",
+    "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFVVdXoyRUNFc2hHMUNLZlBwMUVQd0pfV0syTkpjY2N2ZUtWUGwwVVdETjBWWWVpdG1TNUN5YTdKbWJWX08yNTlxNllnUkRNTWZ0cU1WS2ZlZm82Zi1ySlpWcE9yWXhrWWVmaHpzUGFQN1dvWDNCdXhhV0lVdnp3QnVHOHRfUU52MkpueDVEdUNmdHVvRXF3SkpXSnZqcWRCMFYxYg?oc=5",
+    "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+   ],
+   "sources_count": 5,
+   "confirmed": true
+  },
+  {
+   "hash": "b501c0bdd804bb994d0916bab9f6c4de",
+   "published": "2026-11-23T00:39+05:00",
+   "time_tashkent": "00:39",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Business-US",
+   "paywall": true,
+   "title": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities",
+   "summary": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities&nbsp;&nbsp;The Washington PostWinter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly&nbsp;&nbsp;The New York TimesRussian attacks cause 'serious damage' to O",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzh1WWdkVzVFQ0RlVS1nWEp5X18yMGQ3akRSMjZnc1RDTUhtQUZ1QkQ3UGpuS3RBcFFZRi1rNVlpeTktUFdNUFNuZllHUS1XdUE0YTNoRGtsMTBuYUFQUWlOUlVwU0RuSndKUTBOalFOeUxUQW9hbVk1aGtPYTBLNEVTdGdqb0xwZlVSc0wyYWlKS0YwLXc5WWwxckdyOTRHMnFZTzZmaWhQTkE3ZjdTVGVja05hQlhiOUpF?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "5f6c882946d528ad02e58b8f025b6df3",
@@ -219,17 +395,17 @@
    "confirmed": true
   },
   {
-   "hash": "b501c0bdd804bb994d0916bab9f6c4de",
-   "published": "2026-11-23T00:39+05:00",
-   "time_tashkent": "00:39",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "The Washington Post",
-   "feed": "GNews/Business-US",
-   "paywall": true,
-   "title": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities",
-   "summary": "Ukrainian city moves to remote learning as Russian strikes disrupt utilities&nbsp;&nbsp;The Washington PostWinter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly&nbsp;&nbsp;The New York TimesRussian attacks cause 'serious damage' to O",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZzh1WWdkVzVFQ0RlVS1nWEp5X18yMGQ3akRSMjZnc1RDTUhtQUZ1QkQ3UGpuS3RBcFFZRi1rNVlpeTktUFdNUFNuZllHUS1XdUE0YTNoRGtsMTBuYUFQUWlOUlVwU0RuSndKUTBOalFOeUxUQW9hbVk1aGtPYTBLNEVTdGdqb0xwZlVSc0wyYWlKS0YwLXc5WWwxckdyOTRHMnFZTzZmaWhQTkE3ZjdTVGVja05hQlhiOUpF?oc=5",
+   "hash": "ae97d4b0ec6f205b57a0cdd623ccde43",
+   "published": "2026-11-23T00:38+05:00",
+   "time_tashkent": "00:38",
+   "region": "БВ",
+   "type": "smi",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "Palestinian homes, cars set ablaze in attacks decried by Eisenkot as ‘Jewish terror’",
+   "summary": "Palestinian homes, cars set ablaze in attacks decried by Eisenkot as ‘Jewish terror’&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajBKRVJHaFZXdHhQWmpKMzd6MkhwQThsNERidmJVdHBmMDVOMVJKYkRUSmFfSG8zdWV5RGt5NWFPUDlfSWQ1X3UzMUo3cW9uMWRfYXJNQU02UXFJblBWbm9leV9Zc3Q2TzU4d2ZSbHRJemxaaF9tWkZWazRKR2pwQmg3amhiU1FTMkh3aXNNd1E5d2lqRDZpc2trdFVRd3JLclZHYTlHdEhGOG1JTmRMY2dn0gG3AUFVX3lxTE9mVnp3ZjJQX3NBWEVLQ3lnRjRzOVdrM3R6QVhnLThSd0hSSzI4NVMxY2k0UWhCVUJDVnowNHdCc0d6MjBPTlNnbTE3dm9NU1hNZTFWaXE2NUpxbGlSQXRXQ3dtbjMwcGVtNkFpVG93UXotMHBObTVFVEZURlRaQ1BvZzdpTjdSS0tzZllOM0I2emFvVWljWUx5b1JrNFVvcGFSMmJWb2hjUDdSVmNob1BKWTZDMTlOaw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -251,6 +427,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "070833a8768a9417ad946e28fe4683f0",
+   "published": "2026-11-23T00:37+05:00",
+   "time_tashkent": "00:37",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "Death toll from Russian strike on supermarket in Vyshneve rises to three",
+   "summary": "Death toll from Russian strike on supermarket in Vyshneve rises to three&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ1c4SEhWNnpMUWNiMWtZYXZYZUxPZzFKMV9MOTJOdVNieE1rT3ZiTUJzSEpCdktVanRWN1RORndYWHBpRXZxa2ZZMXdFeWx2R2lMd0JDQVk3MFV3OG9KN2JPY0YzclBOZXhVVEt0azkwYkJScHg0bkM1dTZGRXhtWUhLUlRLa2ZLaWdsMDY5cy1PMW1IcmFUSWpZczNHbjg5Rk9kS2c4MWsxZG03SDRINkZjaHZBOHlTVXJZQ2ZpWdIBxAFBVV95cUxPSWdPdEktVFhBSzJlRDU1cmtIQmdZazlCUzZpbmMzXzdRTGxKam9sS1dZUi03cmVoaFhKMHVzN0Z5alZNMHFNejR1YmsxTFlOclVVcEFsLVNxTXNXV0sxQmVWVVFkWDVYMmRybnJMUm1jOVl6V1drQkdsb05MOG01OE1GVWR5ZU94dVRxbG85VkpjYW05eEppaXJicTJEQVZaN2N5bmxUY1RuTkdESkdqQ1NodG5NVE1IQ21QbXBvMllDbkl4?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "bd46e3824bb264c4cd2a27f7d5baa80d",
@@ -315,10 +508,14 @@
    "title": "Families of children with epilepsy worried after loss of neurologist",
    "summary": "Families of children who live with epilepsy are worried that essential care will stretch beyond their reach after Canberra Health Services decided not to continue employing a paediatric neurologist.",
    "link": "https://www.abc.net.au/news/2026-11-23/families-children-epilepsy-worry-loss-of-paediatric-neurologist/107413752",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQkw5Si1SQngtSW5zZEd5dk9EXzY0R2pQbzZUV1VWM0Y1X3BVTDAwMS15aGpTbk84eTBGQnFuTXFYYUd3SVRTX3k3TzF2VFFlaklCUmd6Z3dnZzFzMGttYUhaV1Y1dnNtSGg0U2h0cENXSlRBZ0dnT0dEYllsUzdJejJ6cUZMZUIwcjJKQjA3eDlnVnpJdnozbmZmaWxxNEpvakdnZDFoMHZneURrRV82Zkl3?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "ceb640dd847e4ccd2e1e8109291476ac",
@@ -332,10 +529,35 @@
    "title": "NSW renters' bonds could generate $200m a year to help tenants, union says",
    "summary": "The NSW Tenants' Union is arguing funding for the state's rental taskforce could be bolstered by $200 million if interest was being accumulated on rental bonds.",
    "link": "https://www.abc.net.au/news/2026-11-23/more-funding-needed-to-equip-nsw-rental-taskforce-says-union/106973144",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRVM3SzBqNElwVkFHSHZfUF9tMWFLNGlEMG1mMHN2cHJoTkJYekVwOE9iQWpERUI5Y1U3NUFYWUJnTzlkaTVIYVVqX196T001aDVfbmFpY2hVX3p2ZHpUTG4yUHNDTWYzNlIxN2VjSGp6c1JNWENXRU5rSzUyQU9zTmxLVGZVUHhFNk9ES1MySll2MmJLSVpPZXpDZ1pDRlpNV1Fvb3BjRWRWR3NnSEE?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "77140d211413f32f641f19a4d2716c8f",
+   "published": "2026-11-23T00:32+05:00",
+   "time_tashkent": "00:32",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "Arson attacks by Israeli settlers in West Bank add to tense political debate",
+   "summary": "Arson attacks by Israeli settlers in West Bank add to tense political debate&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZm9CNGQyVU1MUXlCUFdFdkthV0RVUDZBSzFvTGJDSlJ0bFBHV2tpXzU2NmZob0c3MmdIRWdQQVc4OU9DbjRuaTY2Z055X0xoQW5XWEs4ZnBLU1NYcFVCTlREX0lVaEpDdTRlcDNkVVJubURlZFVLWnh0czNCNUxOYWQwZ1JYQzNPMENsU21YbkJWRUIxUmtXSlRid2dvMm9IMzNUcHFGMDNPdXpNdm1ZZWc1LXRHNGRVVWFV?oc=5",
+   "also": [
+    "Reuters"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMivwFBVV95cUxPV0NtOW83bnNaeXNoY0g0REh2Ym8yMU52U0FCaGVTRy1oeTRrM1dPclNpZTF4QWVtVE95eG9TUXJkT3JBZldRWDNjejBRcFpiWTVPV1ZqeEVZdS1qMVZ6QzVvNUtSRXY0RUxLX05pdlB3V0tvLXA1Nk0wQXhxT1dQYVNyMm1YYTZtX0pRZFI4VWNDTHctYVk2NnJMdDlWSmhxbWlzbVg5OWFacVhQUzdHSU5lNDdJTlBRZVhlVXZaUQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "e4b6a2684c93772f3656bb7659098b47",
@@ -355,17 +577,17 @@
    "confirmed": false
   },
   {
-   "hash": "77140d211413f32f641f19a4d2716c8f",
-   "published": "2026-11-23T00:32+05:00",
-   "time_tashkent": "00:32",
-   "region": "МИР",
-   "type": "pay",
-   "source": "The Washington Post",
-   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
-   "paywall": true,
-   "title": "Arson attacks by Israeli settlers in West Bank add to tense political debate",
-   "summary": "Arson attacks by Israeli settlers in West Bank add to tense political debate&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZm9CNGQyVU1MUXlCUFdFdkthV0RVUDZBSzFvTGJDSlJ0bFBHV2tpXzU2NmZob0c3MmdIRWdQQVc4OU9DbjRuaTY2Z055X0xoQW5XWEs4ZnBLU1NYcFVCTlREX0lVaEpDdTRlcDNkVVJubURlZFVLWnh0czNCNUxOYWQwZ1JYQzNPMENsU21YbkJWRUIxUmtXSlRid2dvMm9IMzNUcHFGMDNPdXpNdm1ZZWc1LXRHNGRVVWFV?oc=5",
+   "hash": "a0f03b744510624bd0b80bc7b6acb434",
+   "published": "2026-11-23T00:31+05:00",
+   "time_tashkent": "00:31",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Daily News Egypt",
+   "feed": "GNews/CentralBanks",
+   "paywall": false,
+   "title": "Egypt’s gold prices fall EGP 500 in one week amid global market losses",
+   "summary": "Egypt’s gold prices fall EGP 500 in one week amid global market losses&nbsp;&nbsp;Daily News Egypt",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWVZxT3RFNDQ0X0tDckxiVG5RdTNSMlhpMUhPaGRnUDNRaXY1Yi1YLVJsS3RKTm9ERGZpM2VBQ1pXU3dFMWxUeWF3QjZnLUg4OFlzWlNkcXM2VDZkQkxpZmVtYWhBQ1FfTDNwRUtkUEQ5MlNkdWhRNkp1VjF6TlNYNkdobjVEbFk0dmtNb2VZb2ZLNFpMd3pKTU9URlBDdVlkTTdHdF9KYjFGVHl3?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -400,10 +622,14 @@
    "title": "Experts say nostalgia for traditional industries resonates with voters",
    "summary": "The Victorian election has prompted discussion about the role of traditional industries like coal and timber — and experts say it resonates with voters.",
    "link": "https://www.abc.net.au/news/2026-11-23/victorian-election-promises-industry-nostalgia/107317574",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Australian Broadcasting Corporation"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMimwFBVV95cUxON2FQU0ZoRWxqcENnOUNuNjBhamg0SGliRy1JWjUwZk9EYUhqWjROaDVPNnhQZ1FXbnVYclBQdHNoX0RucWl3a045UFUweHFpRzNHSXM3a21zYk1jSUg3Zl9oQzltX0xvS3pac0x0dGN2V0hNTWdRalR0QnJhWjJqS1ZSTS01bDNVYTN6azRPS0pIMWRxSDI3UTcyUQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "813ba9903105d1edddc4170301005247",
@@ -417,6 +643,23 @@
    "title": "How Grand Theft Auto Measures Up Against James Bond",
    "summary": "How Grand Theft Auto Measures Up Against James Bond&nbsp;&nbsp;Bloomberg.com",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWxnYUdpWkJ1SDdCaEUwQko0Z1BXZHg1TnJZeDhycVBYM1VfenpWazR4Wk9KbG9OQnB2XzdJdmc3RWJXck5iWUJuTlk3UTN4azRvTER5M214aWtYYmlFZHlFTTc3OHlIOVlfNU00YWVGNU5FQmJtOUphY1VLTEd5WDlFRjdLTEFlS0NMdDJuLXN6MGFTRWs4T1Q2a05yYTZKZ3M2VlFTMWJaTUxvTGxialVqSGRYZTlwR09aUS1VQ0RqalYxcHc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "87ebcf02a51de5e32feacb90bd5a57e9",
+   "published": "2026-11-23T00:30+05:00",
+   "time_tashkent": "00:30",
+   "region": "МИР",
+   "type": "smi",
+   "source": "GDELT/MARKETS",
+   "feed": "GDELT/MARKETS",
+   "paywall": false,
+   "title": "Inflation , economic growth and the mood of US consumers in focus this week",
+   "summary": "",
+   "link": "https://www.djournal.com/news/business/inflation-economic-growth-and-the-mood-of-us-consumers-in-focus-this-week/article_51d52ffe-1ebd-44ac-8196-c038008a914b.html",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -525,6 +768,40 @@
    "confirmed": true
   },
   {
+   "hash": "941236f0f78607e7709972f64a372986",
+   "published": "2026-11-23T00:23+05:00",
+   "time_tashkent": "00:23",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "European External Action Service (EEAS)",
+   "feed": "GNews/ЕС и НАТО",
+   "paywall": false,
+   "title": "Opening remarks by Commissioner Hadja Lahbib on behalf of High Representative / Vice-President Kaja Kallas for the 2026 EU-Mediterranean Peace and Security Forum",
+   "summary": "Opening remarks by Commissioner Hadja Lahbib on behalf of High Representative / Vice-President Kaja Kallas for the 2026 EU-Mediterranean Peace and Security Forum&nbsp;&nbsp;European External Action Service (EEAS)",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSGdyVGJUYXY3anJxcE1nSVpBM0RWb2k5LUlkbnFhM09oYTRzOXNqek84VUFKLV85cjFKZm9xcDNLekI0NWVqbVFFTkJNdXVSa1phcGktSzNHbW1yd0tjMFVhbjN2X1RMNkMzYkdobGxPaWJEUE1ocjdGSmZlX3pZWTVCTS1kRWZhUU5TcjRFbHNBVWkyVkhSZGxNOFhBNFBsRVJpWUllVVYzUjFKNkNtaldmLXFBeWZMQ2FJTUxMNzVPV3ljWFJvV3RCNEJWX3ZF?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "37aadd35962bad8d014bb0f11638c7fc",
+   "published": "2026-11-23T00:23+05:00",
+   "time_tashkent": "00:23",
+   "region": "США",
+   "type": "smi",
+   "source": "CBS Sports",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings",
+   "summary": "AP Top 25 poll: UCLA, Indiana slide; Texas moves into top five of college football rankings&nbsp;&nbsp;CBS SportsChaos takes over the Big Ten: UCLA, Indiana and Ohio State all lose in Week 12&nbsp;&nbsp;ESPNMandel’s Final Thoughts: OT madness broke t",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdTdfamw5b2tBRWd0RFVlNHVfQzBmeFEwU1U2M2JPamRVNW83aUliTUEzOU0zOUtNSExIdXl2cG92QS1uaDdDcmRuSE9UWFhBRDhUU3VZLTBkZ0F6UC1sUGlFRTc4ck1rTzhoZkd2TVpPTVllSVV3N1IyaktNVElETG1MN3VZYl9YZERyanRBYTlkUDhxbzRNWGJyVWRBT2xXOEF4RWlzSG9pemRvYnlMRGpLSEtfMlU?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "c0d3cab4d00efd97b49baa9980e7bad1",
    "published": "2026-11-23T00:22+05:00",
    "time_tashkent": "00:22",
@@ -553,6 +830,23 @@
    "title": "Turkey prosecutors seek asset freezes on 108 high-profit traders",
    "summary": "Turkish prosecutors have sought asset freezes on 108 high-profit traders amid a $17 billion investment fund scandal involving alleged market manipulation and political connections.",
    "link": "https://www.euronews.com/2026/11/22/turkey-prosecutors-seek-asset-freezes-on-108-high-profit-traders",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "294dcb3f2261bca5f917ca3114949f3b",
+   "published": "2026-11-23T00:20+05:00",
+   "time_tashkent": "00:20",
+   "region": "АТР",
+   "type": "smi",
+   "source": "GNews/Афганистан, Пакистан, Индия",
+   "feed": "GNews/Афганистан, Пакистан, Индия",
+   "paywall": false,
+   "title": "- The Indian Express",
+   "summary": "&nbsp;&nbsp;The Indian Express",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQXc5NUlkSEx5SGlJUjJ5ZHpDR2ZXa1NmRm01eHdKV1QzdzdWVDBTOWZfektKaEpaSkJRVjZvNmVFaV8tcEROc3hvTjhvdTkzS1lqbWZ1b3oxM2hreUZmX1RNV25yQmxMZGtDejFsMzViYnY1MnJJS1p5WTNMSFRvOGlCeWxzelpV?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -612,6 +906,40 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "3adbbc9fa117396e28f4a083b86f8690",
+   "published": "2026-11-23T00:18+05:00",
+   "time_tashkent": "00:18",
+   "region": "США",
+   "type": "ofic",
+   "source": "USA Today",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump says it will be 'very hard' to work with Schumer after he predicted deals",
+   "summary": "Trump says it will be 'very hard' to work with Schumer after he predicted deals&nbsp;&nbsp;USA Today",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTlM0bXVPUDhUWk5pa2xrN25MVDJMZkhaNVgxQ2hLM2VHRTVVNzVfSTV5YS1EVlBYbnhBVDUwbWxBMk43N0wzbmxGQndpNGs5OHVtdDk4SktkWjhFYW0xTEw1a1djai1adzR1dmgzb0pNS1RPLThMQ3lMRXhYUC0zWGktY1pMcXI3S2ZzVHFWRjhWTzYxdkFYTkRva0YyX2lNWFJUQ2NvdVI4WVZBeV9uM2p3dXI?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "b0c7555bbe80cf8b9f427a5fdb81908d",
+   "published": "2026-11-23T00:18+05:00",
+   "time_tashkent": "00:18",
+   "region": "США",
+   "type": "ofic",
+   "source": "New York Post",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump gives suprising boost to El-Sayed’s health-care pitch",
+   "summary": "Trump gives suprising boost to El-Sayed’s health-care pitch&nbsp;&nbsp;New York Post",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0ZVU0pfOFlZWTNlVjQ0T2JCNkdYd1NMQzdYNXdVTWJtczRlMXdzZFgtTEZBNzhHZmw3ZnU5MHlLRWlOSHNyeGMyZ1lhT0hGVE1KQjNuSXhnOTZsTE9pS2dfSDdyTXpQaTR2YmJIV1BNM25DMGMxM2VVWkJXLXpaeVZiNEdLTUJiRXRLV2FPRzk2eUtWaUxWYjZzUzRHdw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "9c72bf8a8b6678b8a009cea4f9aca701",
@@ -682,6 +1010,23 @@
    "confirmed": false
   },
   {
+   "hash": "b3d5a48740fcd1fb452c33ef53b0979b",
+   "published": "2026-11-23T00:12+05:00",
+   "time_tashkent": "00:12",
+   "region": "США",
+   "type": "smi",
+   "source": "CNN",
+   "feed": "GNews/СМИ США",
+   "paywall": false,
+   "title": "Republican chair of the House Rules Committee loses reelection in Democrats’ largest majority this century",
+   "summary": "Republican chair of the House Rules Committee loses reelection in Democrats’ largest majority this century&nbsp;&nbsp;CNN",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTzQzNTVfVXduV2dBWFFqbzI2MzVqXzF3cTNMMnprclplbVNJSV9lQUJRaWJDc1BLREFON2NFdnNBWGlMSmdoa2E1NGI3REZYT3pkRndYR1FWaXFVd2pnMDQxVnJOZ19paWVyOFVibUxaV2ZKYWtyNmZXUTQxU2FHVDhQaE9IQ2Z2MXVMZQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "9c6db9dbb0b23982e31da46b44d05a36",
    "published": "2026-11-23T00:10+05:00",
    "time_tashkent": "00:10",
@@ -739,6 +1084,23 @@
    "confirmed": false
   },
   {
+   "hash": "7db40b66a62ab33c11f8bf7d69bc28a9",
+   "published": "2026-11-23T00:08+05:00",
+   "time_tashkent": "00:08",
+   "region": "МИР",
+   "type": "smi",
+   "source": "AP News",
+   "feed": "AP",
+   "paywall": false,
+   "title": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal",
+   "summary": "In their own words: Leaders at UN climate talks discuss why negotiations ended without deal&nbsp;&nbsp;AP News",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0xZUG54R1V0M1N4VHlZd05nbTExbGdkUVNwWVBwRnlabWFHZWhRMldkM2taVFVhM3NIb1JQZnhIVDFEMmw4UzRzWTdyMVotWVNRVllEQjRtSFVRallpY0V5czd3eFplcTVWTldEOXpuclV0NmJVeF94aXQ5OUZQcGxaUVlQOEtaU1Blb1o4b055WmFPWDFsQXp2Tzlpd0VLa0RwWTNxT013S2VfU1E?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "c48ed604c23247ae95cf5a5e37494ff6",
    "published": "2026-11-23T00:07+05:00",
    "time_tashkent": "00:07",
@@ -790,6 +1152,27 @@
    "confirmed": false
   },
   {
+   "hash": "cc7a33b06732872d92882fa07c550e30",
+   "published": "2026-11-23T00:05+05:00",
+   "time_tashkent": "00:05",
+   "region": "РЫН",
+   "type": "pay",
+   "source": "Bloomberg",
+   "feed": "Bloomberg",
+   "paywall": true,
+   "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
+   "summary": "Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a ",
+   "link": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
+   "also": [
+    "Bloomberg.com"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZldNMFlSOWFqTTdmTDNmdFowSHd4aF9EN0g3eWtBYTk3MEp1RXZTN09TQThzaFlNTTVQc0pENUlhNng2VXpFd1M5cnpZdF80WmJvblRrVUQ1bW9QbkkwWm1TMzZZbk9YWXdMT0VKNUZ6YWRHNks4QWRjS3RHYm9sZk81OVpvMmsxWGFJQU4tWnUta0JMclRKOElZMS14cEpEQ2FMYkJkTlF6OTIta09RR3BFQQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
    "hash": "1e022eb262efb6610cc84c020d5a3328",
    "published": "2026-11-23T00:05+05:00",
    "time_tashkent": "00:05",
@@ -821,27 +1204,6 @@
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "cc7a33b06732872d92882fa07c550e30",
-   "published": "2026-11-23T00:05+05:00",
-   "time_tashkent": "00:05",
-   "region": "РЫН",
-   "type": "pay",
-   "source": "Bloomberg",
-   "feed": "Bloomberg",
-   "paywall": true,
-   "title": "Goldman Traders See Entry Point in US Stocks But Warn of Risks",
-   "summary": "Goldman Sachs Group Inc.’s trading desk says last week’s selloff has created an attractive opportunity to snap up US stocks. Still, the bank cautions that overall investor positioning remains elevated, signaling the broader capitulation needed for a ",
-   "link": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks",
-   "also": [
-    "Bloomberg.com"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZldNMFlSOWFqTTdmTDNmdFowSHd4aF9EN0g3eWtBYTk3MEp1RXZTN09TQThzaFlNTTVQc0pENUlhNng2VXpFd1M5cnpZdF80WmJvblRrVUQ1bW9QbkkwWm1TMzZZbk9YWXdMT0VKNUZ6YWRHNks4QWRjS3RHYm9sZk81OVpvMmsxWGFJQU4tWnUta0JMclRKOElZMS14cEpEQ2FMYkJkTlF6OTIta09RR3BFQQ?oc=5"
-   ],
-   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -883,6 +1245,23 @@
    "confirmed": false
   },
   {
+   "hash": "7b67be6ed161730a9e1501eca32d1a11",
+   "published": "2026-11-23T00:01+05:00",
+   "time_tashkent": "00:01",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Israel dropped 100,000 tons of explosives over Gaza, wiped out 2,200 families: Media office",
+   "summary": "Israel dropped 100,000 tons of explosives over Gaza, wiped out 2,200 families: Media office&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUTBKSVN4d3JjWG5FYi1KUlVXNkxJaGZSNHhQYkFRRzcwUktUbXV5TGJBbHpsdFhPZTUta3Z5SC12UXZicVA5aTJhaU9OMTRYVGNDak1MTC1GdmdGdnd5UWZKZHdWWHJ6NEsyQzJfUjNZZFQ3RlRBcjBlelFtbkFVVnNISjNnQjkwMUd3S2xpR3RKclA0bzFUaTZzTVhlSnd0RHBQZDRuS1cyUlJsNGJYaldqRkdvUmo5bFMtbkJsOFRzb04xVC1MWFZ4V3cxVGNPZWJF?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "e3f18e81389e15a6ab375f604a83538f",
    "published": "2026-11-23T00:01+05:00",
    "time_tashkent": "00:01",
@@ -911,10 +1290,14 @@
    "title": "Latest News - The Japan Times",
    "summary": "Latest News&nbsp;&nbsp;The Japan Times",
    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XbllNZmliWWhySXZtY1ZpMGo1Q2dlMkVuQnJfYWJYeWdfa0FLNVFOdUo3dzRSSjdLVUUxUzNUcklsVEtFbUdselNMUE5jUDhhSjZTMDF4NkZjUm9p?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Il Sole 24 ORE"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjZYRHVpbUdTVVlVTDNNX010cWJDY2FvT0FCTHQySVZibUstMWt0T1dOblQ0S25PNVBCRHFZUGVqcFBrWFdqN21pVmJkVUUyUUxRRTZVSWFQNHNpOHpIOHc2akszMkdFZDIySGZNaURRUUFHM0liM1o1OG9jN0lxeWtJczBFd3BuMS1QczRqQVltZzg4VzBGczlvTXJBZUZZMkl1ek81b2Z1WW5pZjJrUG8tZW1EUQ?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "e42b3f85a5972f3987f44bb92ca96717",
@@ -928,6 +1311,23 @@
    "title": "‘Shouldn’t have to wear a flak jacket’: Haines’ response to survey reveals toll on politicians",
    "summary": "Seven in 10 Australian MPs say public office has damaged their wellbeing, with one in five reporting suicidal thoughts, according to new research.",
    "link": "https://www.smh.com.au/politics/federal/shouldn-t-have-to-wear-a-flak-jacket-haines-response-to-survey-reveals-toll-on-politicians-20261123-p61g7f.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "193d554a105c83b8f2a7eec9c965b1ce",
+   "published": "2026-11-23T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "БВ",
+   "type": "smi",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
+   "paywall": false,
+   "title": "Disputing vet's claim, Agriculture Ministry official says he's '80% certain' dog blamed for woman’s rabies death had virus",
+   "summary": "Disputing vet's claim, Agriculture Ministry official says he's '80% certain' dog blamed for woman’s rabies death had virus&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUW9FV1N1MndPTGZNTFF6Z1llSEZRZDd0N0UzZnVqUnJIUC1PVExDWEpvTTJQTHB3dmNqRXhncDVUd0t4Q0gwelI1MENpUkh5VHJlaFhuOGdKZ3RUV2Y3SU5reWI2Q2xrdjlxNzdlR1hmbUhWVmVkY0hqQlhNd0hKUl9XQVBVSVdqa2tpZFVQdU1lZC1nS2xudGZtRldSekRUcEVMd2NwMi0zY3NRaWdYa2NYYUhFbG80MTJpNXM2Qzl4NHhIeGFVSWpuTVRBdUlLcUllazFucjB0UmdjUWtMNG1TVzJNSVlmUVRlNG9GakMxdVU?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1342,17 +1742,17 @@
    "confirmed": false
   },
   {
-   "hash": "193d554a105c83b8f2a7eec9c965b1ce",
+   "hash": "0039f551c054126e4d2b218f4237d74d",
    "published": "2026-11-23T00:00+05:00",
    "time_tashkent": "00:00",
-   "region": "БВ",
-   "type": "smi",
-   "source": "The Times of Israel",
-   "feed": "GNews/СМИ Ближнего Востока",
-   "paywall": false,
-   "title": "Disputing vet's claim, Agriculture Ministry official says he's '80% certain' dog blamed for woman’s rabies death had virus",
-   "summary": "Disputing vet's claim, Agriculture Ministry official says he's '80% certain' dog blamed for woman’s rabies death had virus&nbsp;&nbsp;The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUW9FV1N1MndPTGZNTFF6Z1llSEZRZDd0N0UzZnVqUnJIUC1PVExDWEpvTTJQTHB3dmNqRXhncDVUd0t4Q0gwelI1MENpUkh5VHJlaFhuOGdKZ3RUV2Y3SU5reWI2Q2xrdjlxNzdlR1hmbUhWVmVkY0hqQlhNd0hKUl9XQVBVSVdqa2tpZFVQdU1lZC1nS2xudGZtRldSekRUcEVMd2NwMi0zY3NRaWdYa2NYYUhFbG80MTJpNXM2Qzl4NHhIeGFVSWpuTVRBdUlLcUllazFucjB0UmdjUWtMNG1TVzJNSVlmUVRlNG9GakMxdVU?oc=5",
+   "region": "МИР",
+   "type": "pay",
+   "source": "The Washington Post",
+   "feed": "GNews/Платные: Bloomberg/WaPo/Economist",
+   "paywall": true,
+   "title": "The remarkable recovery of a National Guardsman shot near the White House",
+   "summary": "The remarkable recovery of a National Guardsman shot near the White House&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnVROWFFWDVlU2dyZnZXWlNCcnFJeXdoaEt1Zm1hbDE0aDFOVFNaOUd3Nl8ycUI5MjBhZVVyLTF2Mi1nVlZnQ25wUUZLM0dSV0NaNlV2bEtmVlJoMGZKcG5OcmVGTFdFbmRWX2NVajJ5cnZ3emZCbG1iYndiUFJhQVRNMkQ4TW9mRWpIelA5dFhvWDM3VXhBU3hOdkpGWjBuNURka0I3b3c?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
