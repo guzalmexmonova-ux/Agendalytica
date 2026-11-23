@@ -2,23 +2,320 @@
  "date": "2026-11-24",
  "window": {
   "from": "2026-11-24T00:00+05:00",
-  "to": "2026-11-24T01:53+05:00"
+  "to": "2026-11-24T02:09+05:00"
  },
- "updated": "2026-11-24T01:53+05:00",
- "count": 209,
+ "updated": "2026-11-24T02:09+05:00",
+ "count": 239,
  "by_region": {
-  "МИР": 29,
-  "США": 39,
-  "ЕВ": 27,
+  "МИР": 34,
+  "США": 45,
+  "ЕВ": 31,
   "УКР": 9,
-  "БВ": 26,
+  "БВ": 30,
   "ЦА": 2,
   "ЮА": 3,
-  "АТР": 38,
+  "АТР": 43,
   "АФР": 0,
-  "РЫН": 36
+  "РЫН": 42
  },
  "items": [
+  {
+   "hash": "4cd427308f132d2e57cb4037d044502e",
+   "published": "2026-11-24T02:04+05:00",
+   "time_tashkent": "02:04",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC World",
+   "feed": "CNBC World",
+   "paywall": false,
+   "title": "CrowdStrike to buy Zscaler in $44 billion deal as AI supercharges cyberattacks",
+   "summary": "CrowdStrike and competitors have shelled out billions to ramp up defenses in the wake of AI cyberattacks.",
+   "link": "https://www.cnbc.com/2026/11/23/crowdstrike-zscaler-aquisition-ai-cyberattacks.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "470fd3b50f9f80986b49abb80003e2eb",
+   "published": "2026-11-24T02:02+05:00",
+   "time_tashkent": "02:02",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Politico EU",
+   "feed": "Politico EU",
+   "paywall": false,
+   "title": "Finland summons Russian ambassador over suspected helicopter incursion",
+   "summary": "Russia's \"dangerous and reckless\" actions in Europe are unacceptable, the Finnish foreign ministry said.",
+   "link": "https://www.politico.eu/article/finland-summons-russian-ambassador-over-suspected-helicopter-incursion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
+   "also": [
+    "POLITICO.eu"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdkttMGd4TXNLeVFKRlZJbExWZmRNSTduWGpiUUF1MVY2Qno1QmFLUXhKek54Z2xlcU1ZWnVvcHhLcGthd3dzRDFjcS1pMFBBWUpPVFhxT0FKSl9qc2dDanpfM21qZkNNYjRZa19rdXlnU2NDUUJYM0d1YXpFQklRalcwbDlWODRCLXZjdXhRaHJOaC1wQ202Q1VmemtoZ0JQQ1lVQ0RB?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "10b061ba7aaac8b988935bb220c0a957",
+   "published": "2026-11-24T02:02+05:00",
+   "time_tashkent": "02:02",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "CNBC Top",
+   "feed": "CNBC Top",
+   "paywall": false,
+   "title": "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation",
+   "summary": "The influential central banker expressed confidence that inflation will get closer to the Fed's 2% target in 2027.",
+   "link": "https://www.cnbc.com/2026/11/23/john-williams-fed-inflation-rate-hikes.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "80eb026bf676662c7da1b7e6acf5f22e",
+   "published": "2026-11-24T02:02+05:00",
+   "time_tashkent": "02:02",
+   "region": "США",
+   "type": "ofic",
+   "source": "U.S. Department of War (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "DOW Launches Automated SI Solution for Classification Management",
+   "summary": "DOW Launches Automated SI Solution for Classification Management&nbsp;&nbsp;U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOWpJaE5MaTR4RHc4NUdUN0ZZLWJubU5fTFM2SDFxaWdOb2EzUzRkQ2t6VVg5ZjdKRVhBQlFCVmpqTWhWbkhSbEFfR2phRmNvamFnbEU4YmVvaW5kMmVBem9NOXV3VzhRRzFSTlZLZE5Yb1N1UGxPcU1lYnlHRXBuM0RUVjhPeUJ0Z2cwSUwyc0JuQ3ktOGZrLUFIX193QTJFa3J0TFM4UzRfQVVnbDZwVHBvcExpZm9aTGdEN2Q3RjZuZ2JHMmc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "64ba2965f9fc6b0211452a016e928d01",
+   "published": "2026-11-24T02:01+05:00",
+   "time_tashkent": "02:01",
+   "region": "США",
+   "type": "ofic",
+   "source": "U.S. Department of State (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "Joint Statement on the Eighth United States-Qatar Strategic Dialogue: An Enduring Strategic Partnership",
+   "summary": "Joint Statement on the Eighth United States-Qatar Strategic Dialogue: An Enduring Strategic Partnership&nbsp;&nbsp;U.S. Department of State (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb0VIVXJ0Y3FOUG91TEhuN2pnQnc2QVBQSnJIYjNqdlk2N01sNnUtMW53WUVFQndxM0UtUVoxSTVTNUdSUnU1VmIycXFiVU9nSllEeUl2aGpyLU9KOUFSREJBODlIdVdlVWpacVJnZmg2QnJSam01VjJjT1k3OTlGMS00M2pkSUoyVUdYcHlMNVRXRUF6UmxXQVdxNHNWVzdWZFNVdmRTZUROUTY4QzZ2ZnpHaER3Q2NQR2hybm5IN2FsLWF1NHowNEhhUk9Hd28xNHlES1N1MUdORG1iS2FxblljOG1ucnJJckpNd0NRMExqUExwY1RhZFBB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "62c2552813abc273dccecdaeed6a4e9a",
+   "published": "2026-11-24T02:00+05:00",
+   "time_tashkent": "02:00",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "OilPrice",
+   "feed": "OilPrice",
+   "paywall": false,
+   "title": "Will Batteries Kill Off Gas Turbines at Data Centers",
+   "summary": "Perhaps you have heard about the daily “duck curve” in electricity markets. Abundant daytime solar energy displaces higher-cost forms of power generation during daylight hours.  It creates a price chart for power that resembles the belly and neck of ",
+   "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/Will-Batteries-Kill-Off-Gas-Turbines-at-Data-Centers.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "62e254620a8c2f54817ad6c1acbbb42d",
+   "published": "2026-11-24T02:00+05:00",
+   "time_tashkent": "02:00",
+   "region": "США",
+   "type": "ofic",
+   "source": "GNews/Власть США",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "Week in Photos - U.S. Department of War (.gov)",
+   "summary": "Week in Photos&nbsp;&nbsp;U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zcDh6alRXSWdSUkVnMHFObUY2UnlobVN4cmZJdWswX0ZUU3YtTllSWDNFS3JUN3lNVDQ2dVYzMzNfTmdkV1VBZktVMjFjYnBpV3JjeVhvMUZaaHhORHBkODFoRWRKUQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "e55c5c153123db362319331ab79612a3",
+   "published": "2026-11-24T02:00+05:00",
+   "time_tashkent": "02:00",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Yonhap",
+   "feed": "Yonhap",
+   "paywall": false,
+   "title": "Consumer sentiment falls for 2nd month in Nov. on stock market correction, high loan rates",
+   "summary": "SEOUL, Nov. 24 (Yonhap) -- Consumer sentiment fell for the second consecutive mo...",
+   "link": "https://en.yna.co.kr/view/AEN20261123008800320",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "5078f6e7ef0a80aa10103ba6cb0f280e",
+   "published": "2026-11-24T01:57+05:00",
+   "time_tashkent": "01:57",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Госагентства Ближнего Востока",
+   "feed": "GNews/Госагентства Ближнего Востока",
+   "paywall": false,
+   "title": "Magnitude-5 Earthquake Strikes Angola’s Lunda Sul Province - وكالة الأنباء السعودية",
+   "summary": "Magnitude-5 Earthquake Strikes Angola’s Lunda Sul Province&nbsp;&nbsp;وكالة الأنباء السعودية",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yQzA4MEVVaTZ5Wk1rM3pZdExWbUlaWXYwR194dHNib2JuYVNQYVFUaFZza01qcFphbENKWVZwNEZvemFpamgzOXhR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d920c1cc2d9fdce4e62b9e840b70f9f4",
+   "published": "2026-11-24T01:57+05:00",
+   "time_tashkent": "01:57",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Cyprus Mail",
+   "feed": "GNews/СМИ Болгарии, Греции, Кипра, Мальты",
+   "paywall": false,
+   "title": "Germany’s Pistorius urges calm over reports of Russian space weapon",
+   "summary": "Germany’s Pistorius urges calm over reports of Russian space weapon&nbsp;&nbsp;Cyprus Mail",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTVjbkdhSUc3Vk5lckItejk2c1BZSHZWRVQ0TVM4WTIxN1FKdU41ZmhzczFuakpqNGRJSHU0ak5LdkZEWHBYRmVuOXFYMW9idk8ya1ZuRURNb01lYXVWNkQ3M1FEdGNfalhyMW9Ga1JFSlo2Ym1CZ1pEQmtrdUFqUFBQRkVRVU9OendiRU1JVUZocC0zaFQxa3QzcDV1bTFJcjBV?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "bc6978220ec38b6c2fe4a7aacd1df121",
+   "published": "2026-11-24T01:56+05:00",
+   "time_tashkent": "01:56",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "UN News",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "Gaza conflict has undone 77 years of human development, UN warns",
+   "summary": "Gaza conflict has undone 77 years of human development, UN warns&nbsp;&nbsp;UN News",
+   "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE42di1XS05IQklCbFVUR01VeFI1a0tTQTktVmp1ZGZZUzJmVm1CdlhwMmVPcFFHMXN3UGxteDVWTjhxTTRQdHUzTEliVGpuTlBsUWtpWDhlQQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "258b2d078eebf59030417edd5d32ce26",
+   "published": "2026-11-24T01:54+05:00",
+   "time_tashkent": "01:54",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "US to blacklist Megaspeed chip firm linked to Nvidia scandal, source says",
+   "summary": "",
+   "link": "https://www.investing.com/news/stock-market-news/us-to-blacklist-megaspeed-chip-firm-linked-to-nvidia-scandal-source-says-5046337",
+   "also": [
+    "Bloomberg Tech"
+   ],
+   "also_links": [
+    "https://www.bloomberg.com/news/articles/2026-11-23/us-to-blacklist-megaspeed-the-firm-at-center-of-nvidia-scandal"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "b37e096e83a6ec8a5a917e985a9a4c1a",
+   "published": "2026-11-24T01:54+05:00",
+   "time_tashkent": "01:54",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Citadel Securities’ 2018 analogy for U.S. markets: what fits and what differs now",
+   "summary": "",
+   "link": "https://www.investing.com/news/stock-market-news/citadels-2018-analogy-for-us-markets-what-fits-and-what-differs-in-2026-93CH-5046259",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "4d3d3bbf4af2539819e7a978d42532e6",
+   "published": "2026-11-24T01:53+05:00",
+   "time_tashkent": "01:53",
+   "region": "США",
+   "type": "pay",
+   "source": "The Globe and Mail",
+   "feed": "Globe & Mail",
+   "paywall": true,
+   "title": "3 AI Stocks Billionaire Stanley Druckenmiller Has Been Quietly Buying",
+   "summary": "3 AI Stocks Billionaire Stanley Druckenmiller Has Been Quietly Buying&nbsp;&nbsp;The Globe and Mail",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTDlEOWZDZlU4VEkxZXBpaXpiQllnbGNnWDR0eUh3elRkQWxJUS1pdWNTT1Q3Y0JlMHRhZmNGOGd2ZEI3Zjhua1Vib2Q4UU9aYlpHa0V2R1R0RVkzRVFTdWNucUJSSjVGMkowdHl0ajJveUc0ZlFxT2JIb285aGRQQmw0YVVWelFxMUJ6dTVrM0lYSFJWMEVTR1hfYnZwVUZ1QWp5YmFFVUVRdTdTUTJqb2c4c09kOXA1bEg2SGx4NENhNkVFTkpCTS1zWnprcXVrcDJSelpoUW80X2x1eWZnWF9INnpsNDAwLV9MNA?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "828cc0691aac0e8aea721d8ec991db16",
+   "published": "2026-11-24T01:50+05:00",
+   "time_tashkent": "01:50",
+   "region": "АТР",
+   "type": "smi",
+   "source": "Department of Conservation",
+   "feed": "GNews/Новая Зеландия и Океания",
+   "paywall": false,
+   "title": "Retired bird couple become parents again: Media release 24 November 2026",
+   "summary": "Retired bird couple become parents again: Media release 24 November 2026&nbsp;&nbsp;Department of Conservation",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUUF5NXZ1WFJGRUstRVV1cnpVUDFzbEFqZTRYOE1uWVAyOFJJOTlHVmpCaWZNVzl4dGVrYUh0RkFHVzd1SjBpdmJINWFMa2N1Yk1PdFVwNG91aUg0THJJYlNBYUVTRTRnRVZGUWFuLVQ1Y0VNV1VnMzVkU1pyb1llUkFzY19pR2lOTU1lZEZOclY5SWl2MDQ3TTl1VWpDQmlOZjRmM3VLWEI?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "b1202ab44e7971130f47ea0b0f7fb363",
+   "published": "2026-11-24T01:48+05:00",
+   "time_tashkent": "01:48",
+   "region": "АТР",
+   "type": "gos",
+   "source": "Xinhua",
+   "feed": "GNews/Китай: власть и госСМИ",
+   "paywall": false,
+   "title": "Libyan parliament proposes initiative to unify state institutions, pave way for elections",
+   "summary": "Libyan parliament proposes initiative to unify state institutions, pave way for elections&nbsp;&nbsp;Xinhua",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TWWY2R0VaczlIODBFNWp3YW02QXBYWW96OThkNndBX0lrZXZ5a0JWTjFmUFcwWlJtdk5kLVozQmhpUGRIQ2FLR0xjUzBBbTVjOTdla1ZIT1R2amFBeTlpbUtMb0Z4RzNPSURxdDkzcFBoZE54RHN6ZE1aYUc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "df28dde3a244ca2f81b57d43a05635a6",
+   "published": "2026-11-24T01:45+05:00",
+   "time_tashkent": "01:45",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Blue Biofuels director Chris Kneppers sells $15,263 in common stock",
+   "summary": "",
+   "link": "https://www.investing.com/news/insider-trading-news/blue-biofuels-director-chris-kneppers-sells-15263-in-common-stock-93CH-5046330",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
   {
    "hash": "4e679da66e333990770769b8ac1a16b2",
    "published": "2026-11-24T01:43+05:00",
@@ -48,6 +345,57 @@
    "title": "Yemen's Houthis say Saudi attack kills 17",
    "summary": "The Houthis said the strikes disrupted telecoms and internet services for tens of thousands, while Saudi Arabia did not immediately comment.",
    "link": "https://www.channelnewsasia.com/world/yemen-houthis-saudi-strikes-kill-seventeen-6575956",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9e2d38284d08907f6afc51fb5ced6332",
+   "published": "2026-11-24T01:41+05:00",
+   "time_tashkent": "01:41",
+   "region": "БВ",
+   "type": "smi",
+   "source": "Al Jazeera",
+   "feed": "Al Jazeera",
+   "paywall": false,
+   "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+   "summary": "Ahmadi and four production team members also face two-year bans on travel and artistic activity.",
+   "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "8faff589b646a1a18ad29018c3929948",
+   "published": "2026-11-24T01:40+05:00",
+   "time_tashkent": "01:40",
+   "region": "США",
+   "type": "ofic",
+   "source": "U.S. Department of State (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "Secretary Rubio’s Meeting with Qatari Prime Minister and Minister of Foreign Affairs Al Thani",
+   "summary": "Secretary Rubio’s Meeting with Qatari Prime Minister and Minister of Foreign Affairs Al Thani&nbsp;&nbsp;U.S. Department of State (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOSW5BblR2dlpkdW9GUzRtMnRzY0tBWWpVWDhWaW5pUFJFQnVMV1pkNlFEUWxXM3dFTEQyYWV1Z0hwa3Yyb29Kdl9RblBVeFh5TDhlTUhMWHo0WHVGUnp2OU1DM1lDQXpQY2JqMldrUjBTWTNpYnVNVXBZWnpBcnl4OUVRLTVFRmVnQ0Eya0ZnN2xLc1hLa0E3Zkk1ai1XZVA1dTZ4dWdBV1EwaDh1Q0xiWGNORDhoWmliYU9YVHNtTlllaW44MnZaVWoyNmlURkJwcEtlQ0otR25CMUs3azRidjRJMGhLbVp6bmlFUjMwcw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "69f7c94c6c095f6d0c40643031fa262f",
+   "published": "2026-11-24T01:39+05:00",
+   "time_tashkent": "01:39",
+   "region": "США",
+   "type": "smi",
+   "source": "The Hill",
+   "feed": "The Hill",
+   "paywall": false,
+   "title": "Water supply hack warning: FBI says threats are rising",
+   "summary": "Experts warn the next major target could be something essential to all: the water coming from your tap.",
+   "link": "https://thehill.com/policy/technology/6235636-tech-outages-water-supply-hack-warning-fbi-threats/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -105,23 +453,6 @@
    "confirmed": false
   },
   {
-   "hash": "b5774eaef676ddea99431300e7b94be8",
-   "published": "2026-11-24T01:33+05:00",
-   "time_tashkent": "01:33",
-   "region": "ЕВ",
-   "type": "ofic",
-   "source": "Anadolu Ajansı",
-   "feed": "GNews/Турция и Кавказ",
-   "paywall": false,
-   "title": "Amazon to buy Decart's AI optimization technology",
-   "summary": "Amazon to buy Decart's AI optimization technology&nbsp;&nbsp;Anadolu Ajansı",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVlQWFFMa0dvMVRiUk1yNjQxZjRGT29zUkpwT3dSWUdGT21PRjlQTWFxeEpwSDlsRGt3bVlQWU1fNUFWd21pbDdfUlVNM1lVMDZnZGdkZkdzYS1Wamd5Mnhpb2pVTjIxTnpydF9mV0RyQTJwWGtDc01ScGJFclZHNXJaSjcyUy0zaXRqXzF3?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "dba0c754052df867b4457128afc60210",
    "published": "2026-11-24T01:33+05:00",
    "time_tashkent": "01:33",
@@ -137,6 +468,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "b5774eaef676ddea99431300e7b94be8",
+   "published": "2026-11-24T01:33+05:00",
+   "time_tashkent": "01:33",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "Amazon to buy Decart's AI optimization technology",
+   "summary": "Amazon to buy Decart's AI optimization technology&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYVlQWFFMa0dvMVRiUk1yNjQxZjRGT29zUkpwT3dSWUdGT21PRjlQTWFxeEpwSDlsRGt3bVlQWU1fNUFWd21pbDdfUlVNM1lVMDZnZGdkZkdzYS1Wamd5Mnhpb2pVTjIxTnpydF9mV0RyQTJwWGtDc01ScGJFclZHNXJaSjcyUy0zaXRqXzF3?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "953a23d771f3b704328883508ccdad5e",
@@ -334,6 +682,40 @@
    "confirmed": false
   },
   {
+   "hash": "d5bdfd36af128b7aa123b5e2a817c880",
+   "published": "2026-11-24T01:26+05:00",
+   "time_tashkent": "01:26",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Canadian bond yields mostly lower with focus on stock market",
+   "summary": "",
+   "link": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-mostly-lower-with-focus-on-stock-market-5046318",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "7036ed10c5793fe6d7823d5142c8c608",
+   "published": "2026-11-24T01:26+05:00",
+   "time_tashkent": "01:26",
+   "region": "МИР",
+   "type": "ofic",
+   "source": "Welcome to the United Nations",
+   "feed": "GNews/Международные организации",
+   "paywall": false,
+   "title": "REQUEST FOR EXPRESSION OF INTEREST (EOI)",
+   "summary": "REQUEST FOR EXPRESSION OF INTEREST (EOI)&nbsp;&nbsp;Welcome to the United Nations",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaVJ0bkRYeGxfOUhNWVJyZVZKQVJCeC1QNmhTdU1nQ2RVdXNkemc5RGVBWnQtS0VJekJxa2M0TmNmNWlWRGYwTjh4bm5YbjV2NkdaTzlSVFJFbENWNVFfYVIwdnR6U3pUWTNmYmROZTdNM3VwMHR0ZXBYYTUtNWVja3lyQmI?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "309b5a76ec4eaa1489519023f878147b",
    "published": "2026-11-24T01:26+05:00",
    "time_tashkent": "01:26",
@@ -368,23 +750,6 @@
    "confirmed": false
   },
   {
-   "hash": "d5bdfd36af128b7aa123b5e2a817c880",
-   "published": "2026-11-24T01:26+05:00",
-   "time_tashkent": "01:26",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Canadian bond yields mostly lower with focus on stock market",
-   "summary": "",
-   "link": "https://www.investing.com/news/stock-market-news/canadian-bond-yields-mostly-lower-with-focus-on-stock-market-5046318",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "a013e2e909882addc313d2a23d0fca45",
    "published": "2026-11-24T01:25+05:00",
    "time_tashkent": "01:25",
@@ -402,17 +767,17 @@
    "confirmed": true
   },
   {
-   "hash": "d6206aab7425bbbc2e9e2c393949e522",
-   "published": "2026-11-24T01:23+05:00",
-   "time_tashkent": "01:23",
-   "region": "США",
-   "type": "smi",
-   "source": "MarketWatch",
-   "feed": "GNews/Home-US",
+   "hash": "51c7c43b66ee5a05238425d3ee4bc02a",
+   "published": "2026-11-24T01:24+05:00",
+   "time_tashkent": "01:24",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
    "paywall": false,
-   "title": "Stock Market Today: Dow jumps 1,500 points, Nasdaq surges 6.5%, S&P 500 shoots higher after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates",
-   "summary": "Stock Market Today: Dow jumps 1,500 points, Nasdaq surges 6.5%, S&amp;P 500 shoots higher after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates&nbsp;&nbsp;MarketWatchTreasury Futures Fall as Rising Stock Futures Damp Haven Demand&",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5",
+   "title": "President Amedi, Sheikh Al-Khazali Stress Need to Strengthen Dialogue among Political Forces » Iraqi News Agency - وكالة الانباء العراقية (واع)",
+   "summary": "President Amedi, Sheikh Al-Khazali Stress Need to Strengthen Dialogue among Political Forces » Iraqi News Agency&nbsp;&nbsp;وكالة الانباء العراقية (واع)",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX3kyY1RrZmowYm9sdDUwenJ4RVdFc09fMmxqYldsVnVUZ1Fzb01oc1pjSThlVnFYVHlHdzYtVTE1M0hzNThPaTlJNzB2MENMM0xUcHcxblp5TWFmS1dHaWg4elM0aFdmVlg2Vl9BZGR4SmdyLXJDVjRpeVBOdW5CaDh5NkVuYWoxME84VHdNVHBBTmNqXzFkYkVRWkRWQW13Q2dTZzNYR1BsR3lxQ1Rna0tkdFBXdzFjRWxIX3MzS1JmZHd0VExFWA?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -434,6 +799,39 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "d6206aab7425bbbc2e9e2c393949e522",
+   "published": "2026-11-24T01:23+05:00",
+   "time_tashkent": "01:23",
+   "region": "США",
+   "type": "smi",
+   "source": "MarketWatch",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "Stock Market Today: Dow jumps 1,500 points, Nasdaq surges 6.5%, S&P 500 shoots higher after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates",
+   "summary": "Stock Market Today: Dow jumps 1,500 points, Nasdaq surges 6.5%, S&amp;P 500 shoots higher after Nvidia reinstates Jensen Huang; Nvidia shares up 30% — live updates&nbsp;&nbsp;MarketWatchTreasury Futures Fall as Rising Stock Futures Damp Haven Demand&",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMnlFY2RjMXEwMk83LVpKcEY1QmhtTk03YmRoSUhkS0FUTkhpYnlIR3drVUNnVDJPLXJRR0RHR2VkNGk0R1AyUmpPZEQwUlFqeWUwSUtQME00YkxQcDRIbERLSXZoU2xMcmF4VVRwMkVLaG52d2RpSjR0eFZqMWZwOWVQQ3JkYTFYRkZ1ZldlS3ZVSGRPYXlxQnBGQ1JuT0QxVGJhLXY1MHhSdmMtdFE?oc=5",
+   "also": [
+    "BBC",
+    "AFP.com",
+    "France24",
+    "The Hill",
+    "NYT World",
+    "Bloomberg Tech",
+    "The Washington Post"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5",
+    "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTl9QRzAtdm5aZE12dElZV2M5UFE1Z2ZqaGt3dE12U3pTckVETS1rSWotc0E4TXpkV29vODh6R1FwcnpQLXlxeFlBQXZHNXdSTUw3Sy1yVEt4eTlhczkyek9rUjhSaGw5NEZ6SHFvNVg0SUJ2VUlyS2NSZ0c4cDFqbg?oc=5",
+    "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention",
+    "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
+    "https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html",
+    "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video",
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5"
+   ],
+   "sources_count": 8,
+   "confirmed": true
   },
   {
    "hash": "3f55aad27627c8795de5a18de3afa307",
@@ -557,9 +955,13 @@
    "title": "Italy warns Ukraine war risks spreading to Mediterranean after attack on Russian ship in Libya",
    "summary": "Italy warns Ukraine war risks spreading to Mediterranean after attack on Russian ship in Libya&nbsp;&nbsp;Anadolu Ajansı",
    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONXNNNjFTcDBDMnU5d2NtcF9Bc1hfWmEtbkU3YnFhZFV6RG4wT1pfendQZGhNcjlSZkkwbDFTM1YwRGlJREV4MGpDTUU1dG51RFZDUkpHODR1cnlYeWtXZExjT0FBLVFFdk9uUmtmOHVUUGJ5VWtFQmNGWDIyX2JLdGIyakxSSTJXQ3UwWXY3UnhENGZPbmFPdDJCbWlISEFsU05RbXRrZFpocjUwMUxqUS10RDBvS1g3RWFDWDlyZnBfaVJnZjN1RXUyZEtTX2s?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
+   "also": [
+    "BBC World"
+   ],
+   "also_links": [
+    "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+   ],
+   "sources_count": 2,
    "confirmed": true
   },
   {
@@ -603,7 +1005,8 @@
     "AFR",
     "Bloomberg Politics",
     "Bloomberg Tech",
-    "The Washington Post"
+    "The Washington Post",
+    "GNews/Госагентства Ближнего Востока"
    ],
    "also_links": [
     "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
@@ -613,26 +1016,10 @@
     "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaTM2SlVFOUdldDhBMG5WUHZaaWlucEdEUk16Y3ZUOTFGUmMzMXJWcEJwcVc2SXYyeTJ5YW13UEh0a0ttY2lyeXMzVEVlR0hFTzVmalBxQlhpbURtRUJ1NEVKTUJwSFZ6QVg2R1Q0eS1scTFzZXpTVndmQi1wMkE2cS0xZlJMUE9TRDVjRVIzNllSYWI0S2RUdHc1aVFPenBnZUJQOXEyb09SakRG?oc=5",
     "https://www.bloomberg.com/news/videos/2026-11-23/balance-of-power-early-edition-11-23-2026-video",
     "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video",
-    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5"
+    "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQmNHaTN2YnhWcEZ0QVVkbkdNamZzRU5VWFRYd0JhaDVpaEpveDRzc2F6X21RS1lqZjIxbVZUaXhsYllvelpqQjdfYWtuYm0yVUV4eEdoT00xNV9aalVLSm9SNFVReTZQVXpqU2Z5WXBwNHo0RDBfY2FuaENWUy16UHNPU1E0eV9pUGN5VlByS0RzM09BS1NVQ3FlbENIMjB6WkcyQ2lOb3BRUldJZHJBdW1Ebm8yZVk?oc=5",
+    "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YbTc3Rk42RVYwX0JSMzJNd2hrbDBqU3cyZkxZUVhiT1plbGJVYmFzb1N1b2djY1plVm5iOXN4TTA3ZzVDRElmNGJ4SXFvMnZf?oc=5"
    ],
-   "sources_count": 9,
-   "confirmed": true
-  },
-  {
-   "hash": "58fda2322dcbaebe3d9132724c20febb",
-   "published": "2026-11-24T01:15+05:00",
-   "time_tashkent": "01:15",
-   "region": "США",
-   "type": "ofic",
-   "source": "The Daily Beast",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "Trump Sparks 25th Amendment Calls With Bonkers NSFW Image",
-   "summary": "Trump Sparks 25th Amendment Calls With Bonkers NSFW Image&nbsp;&nbsp;The Daily Beast",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzFJWVRwalRPWV9pT1R1OWhjM3pfbUhUMzBncXNVS1haVGlVaWJrS3Fvak5XQlJuRWlFN1VVLTktZzJxc19xa1RLZFhUb0NNOVJCcHdyd19nTkI5TTBqU2JDWjFzX2kwSTVIekFadVRiNjRPcGt5SWVyWm8xVklXSkFZZkJPLWRIdlZ1aE9Hdno?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
+   "sources_count": 10,
    "confirmed": true
   },
   {
@@ -668,6 +1055,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "58fda2322dcbaebe3d9132724c20febb",
+   "published": "2026-11-24T01:15+05:00",
+   "time_tashkent": "01:15",
+   "region": "США",
+   "type": "ofic",
+   "source": "The Daily Beast",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump Sparks 25th Amendment Calls With Bonkers NSFW Image",
+   "summary": "Trump Sparks 25th Amendment Calls With Bonkers NSFW Image&nbsp;&nbsp;The Daily Beast",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQXzFJWVRwalRPWV9pT1R1OWhjM3pfbUhUMzBncXNVS1haVGlVaWJrS3Fvak5XQlJuRWlFN1VVLTktZzJxc19xa1RLZFhUb0NNOVJCcHdyd19nTkI5TTBqU2JDWjFzX2kwSTVIekFadVRiNjRPcGt5SWVyWm8xVklXSkFZZkJPLWRIdlZ1aE9Hdno?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "ce60fc145b59120e12757e7734f620e9",
@@ -715,6 +1119,23 @@
    "title": "JFK Anniversary Draws History Buffs to Movie Theater Where Oswald Was Arrested - ASHARQ AL-AWSAT English",
    "summary": "JFK Anniversary Draws History Buffs to Movie Theater Where Oswald Was Arrested&nbsp;&nbsp;ASHARQ AL-AWSAT English",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTmY0SjJSVVlqSmEzbmp4TWJNQklqWGNiZkdnemZGR0RseEtyU3ZTTEJnNklnaFFzUGFBOEZ0Q0g5U0EzQ2swNm1yd1pXeVd0QVdEbkx1b0xDQ3VJbkdwdjlLS1l5SmVzaWJjYlF5UVdFMGlhTi10ME1Hc2JpV1VUY3RVSUFqVW44dnZ0NG9TMXItMjVvdXRVM21KSDR1d191RGRGWkNqX0NwWmViVWNpUE55LW40MDhBc2VFQg?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9b50f22e94e7689902a251d6ac83a77d",
+   "published": "2026-11-24T01:12+05:00",
+   "time_tashkent": "01:12",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "paywall": false,
+   "title": "Human rights watch accuses Israeli occupation of harassing, arresting activists - وكالة سبأ",
+   "summary": "Human rights watch accuses Israeli occupation of harassing, arresting activists&nbsp;&nbsp;وكالة سبأ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1EbUNfOVdWamNWekhzRkFhbU5RYjdqVHZrcGwxYWlSMjVBZkNBd3lQOE1pTE5vaDhualJiNW96Y1M1bE9oSVdZVEI4VS1Gc2M?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -806,21 +1227,21 @@
    "confirmed": false
   },
   {
-   "hash": "60b4b4eac8de3770a33a4da43e939b86",
-   "published": "2026-11-24T01:07+05:00",
-   "time_tashkent": "01:07",
-   "region": "США",
-   "type": "ofic",
-   "source": "U.S. Department of War (.gov)",
-   "feed": "GNews/Власть США",
+   "hash": "6cabb763c81de4e501dc28bec64f7733",
+   "published": "2026-11-24T01:08+05:00",
+   "time_tashkent": "01:08",
+   "region": "МИР",
+   "type": "smi",
+   "source": "France24",
+   "feed": "France24",
    "paywall": false,
-   "title": "Fact Sheet: Canadian Defense Shortfalls",
-   "summary": "Fact Sheet: Canadian Defense Shortfalls&nbsp;&nbsp;U.S. Department of War (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUk1TemRrMExDeElKS195M21NSVVjelkzdlhMdXRnUEpfcElEdW5XVEdTb0I1MW9uLUZ3djUzZFNEdzNwMDE0OE9fdUFveXdSenFoNFh6VHF0V1ROdG1TcjJNS05FRzFjS01pcklJUThIazgxR2JoLXVJamZFWmZGTEdUOWItZ3dRVlZwRmg3cnJ2RG5ieGlpQjdqYkdnY25k?oc=5",
+   "title": "Libya's east seeks UN probe into claims Ukrainian military present in west",
+   "summary": "Authorities in divided Libya's east called on Monday for the United Nations to investigate claims that Ukrainian forces were present in the country's west, as they lodged a complaint over Ukrainian attacks on two Russian ships off Benghazi. The strik",
+   "link": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "871b83dcc26147282ac665f6a458a45f",
@@ -838,6 +1259,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "60b4b4eac8de3770a33a4da43e939b86",
+   "published": "2026-11-24T01:07+05:00",
+   "time_tashkent": "01:07",
+   "region": "США",
+   "type": "ofic",
+   "source": "U.S. Department of War (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "Fact Sheet: Canadian Defense Shortfalls",
+   "summary": "Fact Sheet: Canadian Defense Shortfalls&nbsp;&nbsp;U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUk1TemRrMExDeElKS195M21NSVVjelkzdlhMdXRnUEpfcElEdW5XVEdTb0I1MW9uLUZ3djUzZFNEdzNwMDE0OE9fdUFveXdSenFoNFh6VHF0V1ROdG1TcjJNS05FRzFjS01pcklJUThIazgxR2JoLXVJamZFWmZGTEdUOWItZ3dRVlZwRmg3cnJ2RG5ieGlpQjdqYkdnY25k?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "100bb4d52da9df75160bd01be87c6bd3",
@@ -891,21 +1329,21 @@
    "confirmed": false
   },
   {
-   "hash": "9f0a293f6db2e165da2db47b7973c1e4",
-   "published": "2026-11-24T01:05+05:00",
-   "time_tashkent": "01:05",
-   "region": "США",
-   "type": "ofic",
-   "source": "U.S. Department of War (.gov)",
-   "feed": "GNews/Власть США",
+   "hash": "972b253b30609cf3faca0e3daf18bd37",
+   "published": "2026-11-24T01:06+05:00",
+   "time_tashkent": "01:06",
+   "region": "АТР",
+   "type": "gos",
+   "source": "Xinhua",
+   "feed": "GNews/Китай: власть и госСМИ",
    "paywall": false,
-   "title": "Navy Family Takes Oath of Enlistment Together",
-   "summary": "Navy Family Takes Oath of Enlistment Together&nbsp;&nbsp;U.S. Department of War (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLURjakUxbHZaUTVfelJpdmp3eXRUZFpIMFNBMXEtSUZnc0RzZDUxbnVIWnU0VFBvai12NVpHT09nMXhTUmlMR1cxOFRmSDkyZXR1RHZjUUdEVTVjcVNmSVlJbHVEbmFOdUYwbjI4WjhOOXVKTTlCNUtvOTRvelVhUFJfNE1FR2MzdUJYR216bHc0WlpvdjlId1B1djY4ei11WURTcmVWMHh2OEMw?oc=5",
+   "title": "Libyan authorities condemn Ukrainian attacks on vessels off Libya",
+   "summary": "Libyan authorities condemn Ukrainian attacks on vessels off Libya&nbsp;&nbsp;Xinhua",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wVXZjQXd4MDF1a1FIM1FqV3BFVDNfeElwSkw1WmhIdktJR2otWlRCb1R4bEV6aXZpM2lxY21uUGNLeFlLV3VQX05rVkFDV3p5RXlGUXZvaUkyV3FER1VITGFUc18xRXlfeG42Q0JqRjQ4TVd1dXF1MnBjcFU?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "152630a85e4eb955c3c87a962648376c",
@@ -923,6 +1361,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "9f0a293f6db2e165da2db47b7973c1e4",
+   "published": "2026-11-24T01:05+05:00",
+   "time_tashkent": "01:05",
+   "region": "США",
+   "type": "ofic",
+   "source": "U.S. Department of War (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "Navy Family Takes Oath of Enlistment Together",
+   "summary": "Navy Family Takes Oath of Enlistment Together&nbsp;&nbsp;U.S. Department of War (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLURjakUxbHZaUTVfelJpdmp3eXRUZFpIMFNBMXEtSUZnc0RzZDUxbnVIWnU0VFBvai12NVpHT09nMXhTUmlMR1cxOFRmSDkyZXR1RHZjUUdEVTVjcVNmSVlJbHVEbmFOdUYwbjI4WjhOOXVKTTlCNUtvOTRvelVhUFJfNE1FR2MzdUJYR216bHc0WlpvdjlId1B1djY4ei11WURTcmVWMHh2OEMw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "3435e7e31974d8dfd50dec1546407fa5",
@@ -976,23 +1431,6 @@
    "confirmed": false
   },
   {
-   "hash": "178ffac9fd7fe12d664dcd355eec9376",
-   "published": "2026-11-24T01:03+05:00",
-   "time_tashkent": "01:03",
-   "region": "США",
-   "type": "ofic",
-   "source": "Department of Justice (.gov)",
-   "feed": "GNews/Власть США 2",
-   "paywall": false,
-   "title": "Illegal alien stash house operator sentenced for harboring 32 illegal aliens in deadly smuggling scheme",
-   "summary": "Illegal alien stash house operator sentenced for harboring 32 illegal aliens in deadly smuggling scheme&nbsp;&nbsp;Department of Justice (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0cwdVNKaGNIUXRaWjhfUkMtdXRsNUppUDdBRjVMaTM2M053b194eEZ4ajcySW96UWNSYmJGUFN4WEFvMWtGNWhYQkhlZkhUMDhBQ2R2YmxodHlBZGpLMXVSYnJqRGpmU3gwc1BBVzB0NlJ3a2lOVWRxUXo0WW1XMTBwOFQ1SVE3ZHFNZy11S0RqMi1RbVM5Qml6RzVmSkVDTzV0UzlGeEp5bG5GbHRpa1BrRHA0Mmc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "1ec92c81d901a3c2c5ab447b6a3569ed",
    "published": "2026-11-24T01:03+05:00",
    "time_tashkent": "01:03",
@@ -1027,6 +1465,23 @@
    "confirmed": false
   },
   {
+   "hash": "178ffac9fd7fe12d664dcd355eec9376",
+   "published": "2026-11-24T01:03+05:00",
+   "time_tashkent": "01:03",
+   "region": "США",
+   "type": "ofic",
+   "source": "Department of Justice (.gov)",
+   "feed": "GNews/Власть США 2",
+   "paywall": false,
+   "title": "Illegal alien stash house operator sentenced for harboring 32 illegal aliens in deadly smuggling scheme",
+   "summary": "Illegal alien stash house operator sentenced for harboring 32 illegal aliens in deadly smuggling scheme&nbsp;&nbsp;Department of Justice (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0cwdVNKaGNIUXRaWjhfUkMtdXRsNUppUDdBRjVMaTM2M053b194eEZ4ajcySW96UWNSYmJGUFN4WEFvMWtGNWhYQkhlZkhUMDhBQ2R2YmxodHlBZGpLMXVSYnJqRGpmU3gwc1BBVzB0NlJ3a2lOVWRxUXo0WW1XMTBwOFQ1SVE3ZHFNZy11S0RqMi1RbVM5Qml6RzVmSkVDTzV0UzlGeEp5bG5GbHRpa1BrRHA0Mmc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "3e14bd01c1154cff7f80610823559abc",
    "published": "2026-11-24T01:03+05:00",
    "time_tashkent": "01:03",
@@ -1038,6 +1493,23 @@
    "title": "Newcastle and Hunter local news briefing: Tuesday, November 24, 2026 - ABC News & Headlines",
    "summary": "Newcastle and Hunter local news briefing: Tuesday, November 24, 2026&nbsp;&nbsp;ABC News & Headlines – Australian Broadcasting Corporation",
    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmNYUm5nMF84YzZlWDNqVFU3N2JnMHNpTllUYnZtc3RrNW5RYWZPXzBIRnJsWEU4LW93NkNZTVlhOWpNMHdHaThYVWFfM3M2ejZPeVlkc2p1MUdhMk4xOE1mZWNmeURJOVZfSklSSVBfdV8yNmllY2J0Z1hBLUdsNWFCS1JtTi1BbUZNeXJn?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "4b2c008db6b05d4e90cf65474b1ff1e1",
+   "published": "2026-11-24T01:03+05:00",
+   "time_tashkent": "01:03",
+   "region": "АТР",
+   "type": "smi",
+   "source": "The Express Tribune",
+   "feed": "GNews/Афганистан, Пакистан, Индия",
+   "paywall": false,
+   "title": "Meta AI chief says superintelligence is coming, warns next year will be critical",
+   "summary": "Meta AI chief says superintelligence is coming, warns next year will be critical&nbsp;&nbsp;The Express Tribune",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUDZwZnROZ3RoOE9ZLU93ZFVHdDVFdHc4d21JaDBZRnZUZ1FySWpjUmE4ODIzR285dWsyR2d3TGxZWThaUmZGU3UwSFJqcGxrS2l6dkJtM1p3N1BKLUNlOTY4ZUlmb1FqMGlmbTdXSldpT2VjeUVnVG54Y1NyNkEtZ29nWTlUSGpxOVlkRGE4X0ZqY2ctTGxhbEdTZEVNZE4xdDV5djctQlFyWnUtMlhibEVYWnY3Q3PSAb8BQVVfeXFMTkZPWmJVbzlqdjJqSWFZSFIxNG5HWEp4a3k2Sms5SXBUOVhGNllzSm00dFVYRndJRFVfQm9HSHdyc2I3U1hDWUE0SWxnY3NEbVVReVBDUUVTWmZKbHRjX3MtNWlVZFlrcEU1VWdvT2lVU2t0VUN2YnN4bG4xdVZMdm9rUVQ1bXkyRjdZRW9MeERRbXNlTXVWU3BQbk9PZ3hrTTNCaE1DYUowVFNOUkNZZS00b21KWHVjN1JDVlpxWlk?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1116,23 +1588,6 @@
    "confirmed": false
   },
   {
-   "hash": "9ef55d9ce837f58d1165281fb77f05a7",
-   "published": "2026-11-24T01:00+05:00",
-   "time_tashkent": "01:00",
-   "region": "США",
-   "type": "smi",
-   "source": "Axios",
-   "feed": "Axios",
-   "paywall": false,
-   "title": "\"Troubling and problematic\": Gov. Moore rips Trump's Nvidia actions on \"The Axios Show\"",
-   "summary": "Maryland Gov. Wes Moore criticized President Trump's involvement in Nvidia's decision to reinstate CEO Jensen Huang, calling it \"troubling and problematic\" in an interview for \"The Axios Show.\"Why it matters: Moore, chair of the National Governors As",
-   "link": "https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "1ed29c42a038d5803d4360a97296ef5b",
    "published": "2026-11-24T01:00+05:00",
    "time_tashkent": "01:00",
@@ -1144,6 +1599,23 @@
    "title": "Washington's Iran Strategy Risks Strengthening Its Biggest Rivals",
    "summary": "A renewed US-Israeli attack on Iran will bring economic disruption, security risks, and geopolitical realignment across Central Asia. The five republics would prefer to avoid involvement, but geography limits their ability to insulate themselves from",
    "link": "https://oilprice.com/Energy/Energy-General/Washingtons-Iran-Strategy-Risks-Strengthening-Its-Biggest-Rivals.html",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "9ef55d9ce837f58d1165281fb77f05a7",
+   "published": "2026-11-24T01:00+05:00",
+   "time_tashkent": "01:00",
+   "region": "США",
+   "type": "smi",
+   "source": "Axios",
+   "feed": "Axios",
+   "paywall": false,
+   "title": "\"Troubling and problematic\": Gov. Moore rips Trump's Nvidia actions on \"The Axios Show\"",
+   "summary": "Maryland Gov. Wes Moore criticized President Trump's involvement in Nvidia's decision to reinstate CEO Jensen Huang, calling it \"troubling and problematic\" in an interview for \"The Axios Show.\"Why it matters: Moore, chair of the National Governors As",
+   "link": "https://www.axios.com/2026/11/23/axios-show-moore-trump-nvidia",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1263,10 +1735,14 @@
    "title": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
    "summary": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya&nbsp;&nbsp;NPRUkraine Sinks Russian Warship, Hits Cargo Vessels Far From Warzone&nbsp;&nbsp;WSJUkraine’s Attack Off Coast of Libya Shows Reach of Its Naval Drones&n",
    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQS2RQU25hVGVUaGQ1cEM3WmFqLVphcjhqTHBMcUllODNJcFBzNy1oRWZUZXdsSXQ5aWZpQjY2UEw1ODJXRnRXSjlPT1RtVlZKRVJBUG5JOV9LOXZ4UG8xdWNSTVFDb2pSdVh0QnZLQWhIdUV0ZF9qN1dOYWFhTlpxcENJY1VFdw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "France24"
+   ],
+   "also_links": [
+    "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
    "hash": "dcbfa3d4d982858aa2e340122137339e",
@@ -1303,6 +1779,40 @@
    "confirmed": true
   },
   {
+   "hash": "6a1d4c48a8fb70848c8829cc44f23633",
+   "published": "2026-11-24T00:53+05:00",
+   "time_tashkent": "00:53",
+   "region": "УКР",
+   "type": "ofic",
+   "source": "Ukrinform",
+   "feed": "GNews/Украина: власть и СМИ",
+   "paywall": false,
+   "title": "General Staff confirms strike on Lukoil oil refinery in Perm",
+   "summary": "General Staff confirms strike on Lukoil oil refinery in Perm&nbsp;&nbsp;Ukrinform",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDVWMnZNWWJOMFJlLU1EdDRrbDBBNnQyR1dueHQwRGtYUXIzR2RaV1hYTURaSWRZNGcxTXVDNkVPMURKbENDMmswcGxpQVV2ZUxrbW9QVkV6dkM4bG1MZzRiTXkxQ2FlTE5paHQ2amdMUDNwM0RFQzJOcnVlWEdSaFlfeG1lelFjQnQtc0NzMzNOYW5BNmVCekhRSEtESjAtZVduNllGV2dxaWhNcmFn0gG0AUFVX3lxTE9SbHlfLUpxb0V6Q3NtNC1RSno2aTVfbWxYVzY3N2MwM2xjLUU0WFhXVWdyQ280dmpIVzlsR29tTlNsRmFCTzExbzdTTGViRzY5bDdHSUFtbmtKeUFRbW5qV0RreklDUFFVeWpMS2FGWnR4Z0c0UnZSenNIVWFpRGp6RW4yRTFtNnBxbHRaZTJaclpzWjhjRldkQ0Vzc2VlMloxSzZnUWpNcUVONW1MQWRxQVU5ZQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "b4a09a9a37d12f47c6b48dfa44ced651",
+   "published": "2026-11-24T00:53+05:00",
+   "time_tashkent": "00:53",
+   "region": "МИР",
+   "type": "smi",
+   "source": "France24",
+   "feed": "France24",
+   "paywall": false,
+   "title": "Trump backs Nvidia boss's return but top Democrat vows probe",
+   "summary": "US President Donald Trump praised Nvidia's decision Monday to reinstate Jensen Huang as chief executive, as top Senate Democrat Chuck Schumer vowed to investigate potential wrongdoing amid mounting national security concerns. Trump also posted a doct",
+   "link": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "0fb02a6693f5b9141d7a9541f213984f",
    "published": "2026-11-24T00:53+05:00",
    "time_tashkent": "00:53",
@@ -1325,23 +1835,6 @@
     "https://news.google.com/rss/articles/CBMikwFBVV95cUxQakE1eld6Ynlnd3ExWkk3QndCd0RUM0E0M3I2eTFHREVyUG5ESEJoUmdJZFhYNG4xRi1VTGlHX0gwOXFMVm9zZl82MlRnZ1QzbU42Z3Fka2VIX0JTakE2b0FSOHBzU2xLaHpwVWMtS0Z5YjhtRnR5MHJLczJrdkh0aGpQT2hXanVWSWZuRkx4RGRwOUE?oc=5"
    ],
    "sources_count": 4,
-   "confirmed": true
-  },
-  {
-   "hash": "6a1d4c48a8fb70848c8829cc44f23633",
-   "published": "2026-11-24T00:53+05:00",
-   "time_tashkent": "00:53",
-   "region": "УКР",
-   "type": "ofic",
-   "source": "Ukrinform",
-   "feed": "GNews/Украина: власть и СМИ",
-   "paywall": false,
-   "title": "General Staff confirms strike on Lukoil oil refinery in Perm",
-   "summary": "General Staff confirms strike on Lukoil oil refinery in Perm&nbsp;&nbsp;Ukrinform",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNDVWMnZNWWJOMFJlLU1EdDRrbDBBNnQyR1dueHQwRGtYUXIzR2RaV1hYTURaSWRZNGcxTXVDNkVPMURKbENDMmswcGxpQVV2ZUxrbW9QVkV6dkM4bG1MZzRiTXkxQ2FlTE5paHQ2amdMUDNwM0RFQzJOcnVlWEdSaFlfeG1lelFjQnQtc0NzMzNOYW5BNmVCekhRSEtESjAtZVduNllGV2dxaWhNcmFn0gG0AUFVX3lxTE9SbHlfLUpxb0V6Q3NtNC1RSno2aTVfbWxYVzY3N2MwM2xjLUU0WFhXVWdyQ280dmpIVzlsR29tTlNsRmFCTzExbzdTTGViRzY5bDdHSUFtbmtKeUFRbW5qV0RreklDUFFVeWpMS2FGWnR4Z0c0UnZSenNIVWFpRGp6RW4yRTFtNnBxbHRaZTJaclpzWjhjRldkQ0Vzc2VlMloxSzZnUWpNcUVONW1MQWRxQVU5ZQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -1396,23 +1889,6 @@
    "confirmed": false
   },
   {
-   "hash": "ac96c65c8df1750396ba54befae470cb",
-   "published": "2026-11-24T00:51+05:00",
-   "time_tashkent": "00:51",
-   "region": "США",
-   "type": "pay",
-   "source": "Bloomberg Politics",
-   "feed": "Bloomberg Politics",
-   "paywall": true,
-   "title": "Nvidia at 'Heart' of National Security, AI Future, Says Christopher Smart",
-   "summary": "Christopher Smart,  founder of Arbroath Group and former special assistant to the president at the National Economic Council during the Obama Administration, said that Trump's push to reinstate Jensen Huang as the CEO of Nvidia shows that the company",
-   "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-at-heart-of-natsec-ai-future-says-smart-video",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "77fd38ea56f38e9bbf2f91d0c0d4b576",
    "published": "2026-11-24T00:51+05:00",
    "time_tashkent": "00:51",
@@ -1424,6 +1900,23 @@
    "title": "Australian politics live: Penny Wong to defend US alliance; Coalition condemns Vanuatu deal",
    "summary": "Get our breaking news email, free app or daily news podcastThe Coalition has come out against a security agreement with Vanuatu because of objections to “binding conditions relating to the achievement of renewable energy and climate targets”.In June,",
    "link": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "ac96c65c8df1750396ba54befae470cb",
+   "published": "2026-11-24T00:51+05:00",
+   "time_tashkent": "00:51",
+   "region": "США",
+   "type": "pay",
+   "source": "Bloomberg Politics",
+   "feed": "Bloomberg Politics",
+   "paywall": true,
+   "title": "Nvidia at 'Heart' of National Security, AI Future, Says Christopher Smart",
+   "summary": "Christopher Smart,  founder of Arbroath Group and former special assistant to the president at the National Economic Council during the Obama Administration, said that Trump's push to reinstate Jensen Huang as the CEO of Nvidia shows that the company",
+   "link": "https://www.bloomberg.com/news/videos/2026-11-23/nvidia-at-heart-of-natsec-ai-future-says-smart-video",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1504,23 +1997,6 @@
    "confirmed": false
   },
   {
-   "hash": "2aac610f3267b38c215063580aa03fae",
-   "published": "2026-11-24T00:46+05:00",
-   "time_tashkent": "00:46",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "TVP World",
-   "feed": "GNews/СМИ Польши и Центральной Европы",
-   "paywall": false,
-   "title": "‘Russia is testing our systems’: Why Poland cannot stop every missile",
-   "summary": "‘Russia is testing our systems’: Why Poland cannot stop every missile&nbsp;&nbsp;TVP World",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjRQbGFOUVVjV2hWVXFlSk50Tmt1LWk2a2pFQUFfX3VNZE1jOHpzaDVEbzh2WkREM254RHlpcDl5M1daVHVKWXRTMWQxUkJGLWtFY2FYdGoydUNHVU50YW9SU1RQcmFJYmp3YnhpOUNlYUhJTElIMDBHT002X3lKRUhObnVjZ3c?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "c83eaec87dd27fee9f320cbf56c0ceee",
    "published": "2026-11-24T00:46+05:00",
    "time_tashkent": "00:46",
@@ -1553,6 +2029,23 @@
    "title": "Iran carries out flogging of singer and her team, Iranian website says",
    "summary": "DUBAI, Nov 23 (Reuters) - An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency by producing and publishing obscene and immoral content online\", an Iranian news webs",
    "link": "https://www.al-monitor.com/originals/2026/11/iran-carries-out-flogging-singer-and-her-team-iranian-website-says",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "2aac610f3267b38c215063580aa03fae",
+   "published": "2026-11-24T00:46+05:00",
+   "time_tashkent": "00:46",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "TVP World",
+   "feed": "GNews/СМИ Польши и Центральной Европы",
+   "paywall": false,
+   "title": "‘Russia is testing our systems’: Why Poland cannot stop every missile",
+   "summary": "‘Russia is testing our systems’: Why Poland cannot stop every missile&nbsp;&nbsp;TVP World",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWjRQbGFOUVVjV2hWVXFlSk50Tmt1LWk2a2pFQUFfX3VNZE1jOHpzaDVEbzh2WkREM254RHlpcDl5M1daVHVKWXRTMWQxUkJGLWtFY2FYdGoydUNHVU50YW9SU1RQcmFJYmp3YnhpOUNlYUhJTElIMDBHT002X3lKRUhObnVjZ3c?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1593,23 +2086,6 @@
    "confirmed": false
   },
   {
-   "hash": "24c81dcc160947d6fbdcaaf75080df43",
-   "published": "2026-11-24T00:45+05:00",
-   "time_tashkent": "00:45",
-   "region": "США",
-   "type": "ofic",
-   "source": "USA Today",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion",
-   "summary": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion&nbsp;&nbsp;USA Today",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemYwcjZvOWZSbjNGSjU2b2FPaGZCQlpwU3AzdXd4elA0VkVycWxuQ2IxX3VONGp6ekNGMUNncEEyajJ2ZlBaWU9WQkRwSU4xbHJPejNzOWd0Z1hZUGQ4X0UzMEtsdGM3LTJMS3FaY0o2N3JnVWdobTI3MzNoQmdfdkcwR1R3TE9JbDFxOEN6LWJuYUhPQ2p5T0lQTWRESDhBclpWa2xtUmxBcnhzSUdBNWx4Yw?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "70b12e5425dad57bc5ae542f3b569879",
    "published": "2026-11-24T00:45+05:00",
    "time_tashkent": "00:45",
@@ -1625,6 +2101,40 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "171e78978211f7d39688676cd8ffc118",
+   "published": "2026-11-24T00:45+05:00",
+   "time_tashkent": "00:45",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "UOKiK",
+   "feed": "GNews/Правительства Европы 2",
+   "paywall": false,
+   "title": "A forest of promises, but no trees in sight. UOKiK President fines Allegro nearly PLN 55 million for greenwashing",
+   "summary": "A forest of promises, but no trees in sight. UOKiK President fines Allegro nearly PLN 55 million for greenwashing&nbsp;&nbsp;UOKiK",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVHJyS3R6UFZ6cWNhb2dtM1F3T1g0cng2NjBFUFhxY2pFSWJFUk5DTVg5TG85SE5YY1A0TlRDcnlHUXpwVzJ6YXlESWtWM2QzU2lYOUZ5WHZhUGtCZ1dzNjZZazBvNGxiZTMteS1feFp4Q1MxUjRvN3NFWEtPNjdzS1BFN0JJT3c5dUFhQkxUbEpRYlNlTnM2MS1wcjgtclRPXzViU0FnQWVRSWduVkhmSmpCYUtmWXNsYng0dGpuTjFlUnV5TGRFbWswcHRyR0pp?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
+   "hash": "24c81dcc160947d6fbdcaaf75080df43",
+   "published": "2026-11-24T00:45+05:00",
+   "time_tashkent": "00:45",
+   "region": "США",
+   "type": "ofic",
+   "source": "USA Today",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion",
+   "summary": "Trump's Nvidia CEO post encapsulates his depraved America | Opinion&nbsp;&nbsp;USA Today",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQemYwcjZvOWZSbjNGSjU2b2FPaGZCQlpwU3AzdXd4elA0VkVycWxuQ2IxX3VONGp6ekNGMUNncEEyajJ2ZlBaWU9WQkRwSU4xbHJPejNzOWd0Z1hZUGQ4X0UzMEtsdGM3LTJMS3FaY0o2N3JnVWdobTI3MzNoQmdfdkcwR1R3TE9JbDFxOEN6LWJuYUhPQ2p5T0lQTWRESDhBclpWa2xtUmxBcnhzSUdBNWx4Yw?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "28295c7f53abca06f961cb12a1a14ce8",
@@ -1655,23 +2165,6 @@
    "title": "OCCI Announces Winners of 2026–2030 Board Elections Across All Governorates - وكالة الأنباء العمانية (العمانية)",
    "summary": "OCCI Announces Winners of 2026–2030 Board Elections Across All Governorates&nbsp;&nbsp;وكالة الأنباء العمانية (العمانية)",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9sMThXSklOWUpNMWNEN0UwZThTYjQ2WmZ2elRBQmxYUFNXTm9QMFpnQjAwSEpqbFhEX0lPa3hxdXJDTFc1YXkwUGhMeWtwUk1VOURCdWwyeE4yckFKem4xRWJn?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "436692a5fd0c69935a96ab970b2dfc3b",
-   "published": "2026-11-24T00:42+05:00",
-   "time_tashkent": "00:42",
-   "region": "США",
-   "type": "smi",
-   "source": "National Post",
-   "feed": "National Post",
-   "paywall": false,
-   "title": "Tardy Carney teases Trump, via surrogates, at press gallery dinner",
-   "summary": "Tardy Carney teases Trump, via surrogates, at press gallery dinner&nbsp;&nbsp;National Post",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15LXpTY2swOTNUVEwyTzVud09GaUcySmlzS3BmelJGTnVLWXJzTmJ4NENaOWhvb1VvQk5JUC1ZOWtPd2E2VWxGX05fM2dSdV9mUHNvWVVvRm1ZNE5EVERIWWh3akRubXlGdUtRVFd0djhMYW5KeGUwMjkwVQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -1735,6 +2228,23 @@
    "confirmed": true
   },
   {
+   "hash": "436692a5fd0c69935a96ab970b2dfc3b",
+   "published": "2026-11-24T00:42+05:00",
+   "time_tashkent": "00:42",
+   "region": "США",
+   "type": "smi",
+   "source": "National Post",
+   "feed": "National Post",
+   "paywall": false,
+   "title": "Tardy Carney teases Trump, via surrogates, at press gallery dinner",
+   "summary": "Tardy Carney teases Trump, via surrogates, at press gallery dinner&nbsp;&nbsp;National Post",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15LXpTY2swOTNUVEwyTzVud09GaUcySmlzS3BmelJGTnVLWXJzTmJ4NENaOWhvb1VvQk5JUC1ZOWtPd2E2VWxGX05fM2dSdV9mUHNvWVVvRm1ZNE5EVERIWWh3akRubXlGdUtRVFd0djhMYW5KeGUwMjkwVQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "d2907b4782462067bf2ce53d089463c7",
    "published": "2026-11-24T00:41+05:00",
    "time_tashkent": "00:41",
@@ -1752,21 +2262,21 @@
    "confirmed": false
   },
   {
-   "hash": "f7764e8e332d2b91221b9641beb0496e",
+   "hash": "1f0600972c4c16c13649e6aa7eacf728",
    "published": "2026-11-24T00:41+05:00",
    "time_tashkent": "00:41",
-   "region": "ЦА",
-   "type": "ofic",
-   "source": "UZA.uz",
-   "feed": "GNews/Власть Центральной Азии",
+   "region": "МИР",
+   "type": "smi",
+   "source": "France24",
+   "feed": "France24",
    "paywall": false,
-   "title": "Uzbekistan’s initiatives receive support at the World Customs Organization Session",
-   "summary": "Uzbekistan’s initiatives receive support at the World Customs Organization Session&nbsp;&nbsp;UZA.uz",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3FzRTc4Qk5JMUNZaVhNc3NxcUM5TklqRVB1Q1BoaGxNY01VeEN6ZHpPYnltaHVyZUFHajVuYlFtREg3bnN2R0wxdG90eTlNbE14UDN2NC1GZmRyX2ItYzhRT1NVTGZYSDhGMTVyMTg5b1c2TXk0Q3VkOGU5NjNKR3V2UXhXMjREUnhOaDdmTHZuQnVHajZFdm9wSUtnTDROS0FWNGdtenROWHhuejRobWxR?oc=5",
+   "title": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+   "summary": "Talk about spillover. In the Libyan port of Benghazi, Ukraine claiming responsibility for the sinkings first of a Russian warship and then a cargo vessel. That’s on top of the sanctioned ship struck in the Baltic Sea that’s since strayed into Finland",
+   "link": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "0b3f32cd87bb3f3479868e3a6f31a701",
@@ -1787,6 +2297,23 @@
     "https://www.bloomberg.com/news/videos/2026-11-23/bloomberg-tech-11-23-2026-video"
    ],
    "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "f7764e8e332d2b91221b9641beb0496e",
+   "published": "2026-11-24T00:41+05:00",
+   "time_tashkent": "00:41",
+   "region": "ЦА",
+   "type": "ofic",
+   "source": "UZA.uz",
+   "feed": "GNews/Власть Центральной Азии",
+   "paywall": false,
+   "title": "Uzbekistan’s initiatives receive support at the World Customs Organization Session",
+   "summary": "Uzbekistan’s initiatives receive support at the World Customs Organization Session&nbsp;&nbsp;UZA.uz",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS3FzRTc4Qk5JMUNZaVhNc3NxcUM5TklqRVB1Q1BoaGxNY01VeEN6ZHpPYnltaHVyZUFHajVuYlFtREg3bnN2R0wxdG90eTlNbE14UDN2NC1GZmRyX2ItYzhRT1NVTGZYSDhGMTVyMTg5b1c2TXk0Q3VkOGU5NjNKR3V2UXhXMjREUnhOaDdmTHZuQnVHajZFdm9wSUtnTDROS0FWNGdtenROWHhuejRobWxR?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
    "confirmed": true
   },
   {
@@ -1881,6 +2408,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "3cdcad77901700b54952688701999089",
+   "published": "2026-11-24T00:36+05:00",
+   "time_tashkent": "00:36",
+   "region": "ЕВ",
+   "type": "ofic",
+   "source": "Anadolu Ajansı",
+   "feed": "GNews/Турция и Кавказ",
+   "paywall": false,
+   "title": "UN chief warns AI risks growing as he urges global action to close capacity gap",
+   "summary": "UN chief warns AI risks growing as he urges global action to close capacity gap&nbsp;&nbsp;Anadolu Ajansı",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTE53Y1Z4OURvMDBhUUhhLV9jS0ZlNkZlZkZTRUN0WS1zU2ZuN0UwT185WXlJc0Y0VDd0OVJCZ01RUzZkZ19ZcnJEUkxhODBZLTZDamJwQ01IU1VyVVEtQzBTSEQ3VGZNNnpVS2tNWllrbmNjelp0V1FzQUg5U1h5UDNGZGpRYWtUbWkzUmNPQUtGV3RqbTRHVHFwcU9IUFB2aUJibGdpN2tYMk4xS0ItSmtfRE1wa2JPSmc?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   },
   {
    "hash": "103c67e420c9a987cfeb2d2680dd9004",
@@ -2036,27 +2580,6 @@
    "confirmed": true
   },
   {
-   "hash": "a6fd0017538cd017eb500b17e429a176",
-   "published": "2026-11-24T00:32+05:00",
-   "time_tashkent": "00:32",
-   "region": "США",
-   "type": "ofic",
-   "source": "The Washington Post",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "Trump orders military to halt plan to detonate stockpile of hazardous chemicals in Iowa",
-   "summary": "Trump orders military to halt plan to detonate stockpile of hazardous chemicals in Iowa&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdC16eUdxUVlzZzEyNEltY0xabkNhUERfX1ZnTUpiR3BrNUFGTl9RRF85UVE1dE1HRmRnOHh4c05VM0xYdVFBWnVKNDh3ZUFNZXpLVHI4TDFXbndGTVI3MGNvRGM3eERjcFVRaTdneGpUNFlqckxEZDcxUmxFdWJvaE9BUzhTMWwtck9yWDl5TkZnRU81dEtzLVptNlBIOHdWNFBEMnJESkg0WEowSjlZ?oc=5",
-   "also": [
-    "AP News"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
-  },
-  {
    "hash": "1eea50b1c238c3cd9b6a5cbab1f05228",
    "published": "2026-11-24T00:32+05:00",
    "time_tashkent": "00:32",
@@ -2127,10 +2650,37 @@
    "title": "Iranian singer subjected to 74 lashes for performing without her hijab",
    "summary": "An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency ‌by producing and publishing obscene and immoral content online,\" an Iranian news website said on Monday.",
    "link": "https://www.cbc.ca/news/world/iran-singer-flogging-9.7432912?cmp=rss",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Guardian"
+   ],
+   "also_links": [
+    "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab"
+   ],
+   "sources_count": 2,
+   "confirmed": true
+  },
+  {
+   "hash": "a6fd0017538cd017eb500b17e429a176",
+   "published": "2026-11-24T00:32+05:00",
+   "time_tashkent": "00:32",
+   "region": "США",
+   "type": "ofic",
+   "source": "The Washington Post",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump orders military to halt plan to detonate stockpile of hazardous chemicals in Iowa",
+   "summary": "Trump orders military to halt plan to detonate stockpile of hazardous chemicals in Iowa&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdC16eUdxUVlzZzEyNEltY0xabkNhUERfX1ZnTUpiR3BrNUFGTl9RRF85UVE1dE1HRmRnOHh4c05VM0xYdVFBWnVKNDh3ZUFNZXpLVHI4TDFXbndGTVI3MGNvRGM3eERjcFVRaTdneGpUNFlqckxEZDcxUmxFdWJvaE9BUzhTMWwtck9yWDl5TkZnRU81dEtzLVptNlBIOHdWNFBEMnJESkg0WEowSjlZ?oc=5",
+   "also": [
+    "AP News",
+    "BBC"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYnFzVFZqMjBjY2Y1cll0UUxLU2VQMktTZDQ5QmFpaENUUzBXeHJJRS1nQUtpLUdhYVFVbnUxaGI1d1lWc0lwSUM1MWVNcGY0MlVEY3dDbFRXbGxMX3BvRzMzYnFhcTZFUG1xcTh6bDRlQVNhR1JlVmxxVEJ6S2xCZjZxRDgtcGFZWndwUUJ3RkdGLWFDakE?oc=5",
+    "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40VnF2eEk4MmUwaXUzaGh4QW5PYk5UM1loSWozMGlhVkFvaGs2aDdQSmlSZlBEQk5BVGZmMEhhU3BhSnY3cVVVTFZOc3FhbDgtR0dmdWtQRDIzQ2c?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "8afd2a8e8437d0889afe7c20a829ea5f",
@@ -2165,41 +2715,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "4337dc798dc84bba792c114fef594ab7",
-   "published": "2026-11-24T00:30+05:00",
-   "time_tashkent": "00:30",
-   "region": "США",
-   "type": "ofic",
-   "source": "KFGO",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "Trump orders US Army to pause lead azide detonation in Iowa",
-   "summary": "Trump orders US Army to pause lead azide detonation in Iowa&nbsp;&nbsp;KFGO",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFZUM0hfMXdkR3dzTXI1ZURpb09MNlJNRXBaQ1VTUHFMMXVwYW15WjhtaHV5bEs4WFh1bDgzdE42TjFBalltMDVFVnFwMDJlM1JVZ2FlemE1M1hBckFOOWJTQVE3ZC02VnNBVUpUNkFLcmVlYm9PaDZoYTJPNXN3UkcycEJHcHJuNmpEOXpiQWRJUQ?oc=5",
-   "also": [
-    "Axios",
-    "The Hill",
-    "The Straits Times",
-    "NBC News",
-    "Yahoo",
-    "Investing.com",
-    "Forth.News",
-    "The Jerusalem Post"
-   ],
-   "also_links": [
-    "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
-    "https://thehill.com/policy/energy-environment/6237960-trump-iowa-lead-detonation-rob-sand/",
-    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWh4elhiWlpCRVhTblhDRGUyWUhrOXk5NEJzeTllZW5QaWxfZWNwaHpueWRvblZ3dEwtaVFXWHBkYVk5akxGcUIzSEJRaGF2Skd6UnNLcFY3aGplbktER3U5T0ppcml0dmFxSlA2MHZ4dDA3T1VuRDVzTm04a2pOdVpmMVlBM3pYZWNrUVNqV0t3ZHhMQ3pRT1JB?oc=5",
-    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3pobmI0NHFWeXBlX2otMEN4Ti1HcTNER3hDbkJCMDFwUkVjakdmOEs5SFhTOXRkbW9UT240NVhJcE1obTQ5X2lzcGpaRlljVlpLNmhGNS1TY2xvbUFtWW1JaV9leXVrUEdTNW9fcEtOaXgyZWtLcVBRYW11cmlnSkxBNzZ5eDAyTVltV2dsSlN1ZXZpcl9IS0hLaWZiOHdnNEdCNjhuUkxmOUNyTThHcndzR3dqUzRMa3lvbA?oc=5",
-    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ25RWEdoTU1ZY1U1VTNOazRtQ05ZRDYyUjh2eHRSUElfTldlNWdHcXRYTF85NEJLeUVWandiRkJydWwzdU9ENmNRWXFLMEVKUzlfVmJNbGFnOXBfZzBfYndQQ2l2ZERSVzdiVmNEVDY4aC1zY3JPRGJSMC0yYUczZlpoaw?oc=5",
-    "https://www.investing.com/news/commodities-news/trump-orders-us-army-to-pause-leadazide-detonation-in-iowa-5046270",
-    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNFNpQ3R2dDh4TTFFTm1fMG43bDJXR2ZUWTRUclNxaFhhZUdGLVA0Z3dzTHlsTVVOWjdoS2FaU3NOZlpaaV9aSmRRMno3SnNhQ2FiV3JKQ3dNZ2QxZERRQjdR?oc=5",
-    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kT2VpbVhiVXZ3bWNqUWxsaVoyVzlxM1ZORnVXcE9IaHBIdVFWM1B5MDBVRmFEaVU1bFVyNGVZUG4xSm1raVlXQ0tnVXpfLU4yV2t1TFladTFJbk9ONk9F?oc=5"
-   ],
-   "sources_count": 9,
-   "confirmed": true
   },
   {
    "hash": "be185f6706171806a8e1e9e05afbcf28",
@@ -2253,6 +2768,43 @@
    "confirmed": false
   },
   {
+   "hash": "4337dc798dc84bba792c114fef594ab7",
+   "published": "2026-11-24T00:30+05:00",
+   "time_tashkent": "00:30",
+   "region": "США",
+   "type": "ofic",
+   "source": "KFGO",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump orders US Army to pause lead azide detonation in Iowa",
+   "summary": "Trump orders US Army to pause lead azide detonation in Iowa&nbsp;&nbsp;KFGO",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMFZUM0hfMXdkR3dzTXI1ZURpb09MNlJNRXBaQ1VTUHFMMXVwYW15WjhtaHV5bEs4WFh1bDgzdE42TjFBalltMDVFVnFwMDJlM1JVZ2FlemE1M1hBckFOOWJTQVE3ZC02VnNBVUpUNkFLcmVlYm9PaDZoYTJPNXN3UkcycEJHcHJuNmpEOXpiQWRJUQ?oc=5",
+   "also": [
+    "Axios",
+    "The Hill",
+    "The Straits Times",
+    "NBC News",
+    "Yahoo",
+    "Investing.com",
+    "Forth.News",
+    "The Jerusalem Post",
+    "CBS News"
+   ],
+   "also_links": [
+    "https://www.axios.com/2026/11/23/iowa-lead-detonation-delayed-trump",
+    "https://thehill.com/policy/energy-environment/6237960-trump-iowa-lead-detonation-rob-sand/",
+    "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOWh4elhiWlpCRVhTblhDRGUyWUhrOXk5NEJzeTllZW5QaWxfZWNwaHpueWRvblZ3dEwtaVFXWHBkYVk5akxGcUIzSEJRaGF2Skd6UnNLcFY3aGplbktER3U5T0ppcml0dmFxSlA2MHZ4dDA3T1VuRDVzTm04a2pOdVpmMVlBM3pYZWNrUVNqV0t3ZHhMQ3pRT1JB?oc=5",
+    "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3pobmI0NHFWeXBlX2otMEN4Ti1HcTNER3hDbkJCMDFwUkVjakdmOEs5SFhTOXRkbW9UT240NVhJcE1obTQ5X2lzcGpaRlljVlpLNmhGNS1TY2xvbUFtWW1JaV9leXVrUEdTNW9fcEtOaXgyZWtLcVBRYW11cmlnSkxBNzZ5eDAyTVltV2dsSlN1ZXZpcl9IS0hLaWZiOHdnNEdCNjhuUkxmOUNyTThHcndzR3dqUzRMa3lvbA?oc=5",
+    "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ25RWEdoTU1ZY1U1VTNOazRtQ05ZRDYyUjh2eHRSUElfTldlNWdHcXRYTF85NEJLeUVWandiRkJydWwzdU9ENmNRWXFLMEVKUzlfVmJNbGFnOXBfZzBfYndQQ2l2ZERSVzdiVmNEVDY4aC1zY3JPRGJSMC0yYUczZlpoaw?oc=5",
+    "https://www.investing.com/news/commodities-news/trump-orders-us-army-to-pause-leadazide-detonation-in-iowa-5046270",
+    "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8yNFNpQ3R2dDh4TTFFTm1fMG43bDJXR2ZUWTRUclNxaFhhZUdGLVA0Z3dzTHlsTVVOWjdoS2FaU3NOZlpaaV9aSmRRMno3SnNhQ2FiV3JKQ3dNZ2QxZERRQjdR?oc=5",
+    "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1kT2VpbVhiVXZ3bWNqUWxsaVoyVzlxM1ZORnVXcE9IaHBIdVFWM1B5MDBVRmFEaVU1bFVyNGVZUG4xSm1raVlXQ0tnVXpfLU4yV2t1TFladTFJbk9ONk9F?oc=5",
+    "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeDhwU1J5OEVQQnFaOE8zWFdScmNRSlRNOWp3eTVkQkRId29qdV9COVZldWZucnBZNFN5RjVsWVRybUw3b1NQZXcyNzFIZHU2WXdqRUEwZVlSZ1Q3clpKUU83ZW1XUDdkVVBod1Mwdk1GSTlpWnMxZHBTZ2xmMUFQSU9RZVQzMUpKRGRr?oc=5"
+   ],
+   "sources_count": 10,
+   "confirmed": true
+  },
+  {
    "hash": "8a739763036eeaa147dd945f394bfd0f",
    "published": "2026-11-24T00:30+05:00",
    "time_tashkent": "00:30",
@@ -2264,6 +2816,23 @@
    "title": "PRESS WEATHER NO. 024 - SOUTH CHINA COASTAL WATERS - info.gov.hk",
    "summary": "PRESS WEATHER NO. 024 - SOUTH CHINA COASTAL WATERS&nbsp;&nbsp;info.gov.hk",
    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UN2U0TVNwbTRrQ2ttdXBwSGQ4a0pxYzVHcndBNEJ6UW5YVjUyU0Q3NF9qRWVzQ0piU3Ryb1BFb0xqNGdsTFRpTkIzbExuS2dBUk8zMWlDRDFEcXFWT0VPaVZhN2NId25wWWpB?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "d438c2ae8f1397ece30534607219a16e",
+   "published": "2026-11-24T00:27+05:00",
+   "time_tashkent": "00:27",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Госагентства Ближнего Востока",
+   "feed": "GNews/Госагентства Ближнего Востока",
+   "paywall": false,
+   "title": "AFC Champions League Elite: Al-Ahli Falls 2–3 to Qatar’s Al-Shamal - وكالة الأنباء السعودية",
+   "summary": "AFC Champions League Elite: Al-Ahli Falls 2–3 to Qatar’s Al-Shamal&nbsp;&nbsp;وكالة الأنباء السعودية",
+   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95VWNfckZNUzBxb2RDWEoxbUEtYXBmM1hmWEl6M2VVUGdUSVBNV1JuVlNzM01LZWNySzNFYTR6MGQtbjI3ZkpqSm9B?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2291,23 +2860,6 @@
    "confirmed": true
   },
   {
-   "hash": "d438c2ae8f1397ece30534607219a16e",
-   "published": "2026-11-24T00:27+05:00",
-   "time_tashkent": "00:27",
-   "region": "БВ",
-   "type": "gos",
-   "source": "GNews/Госагентства Ближнего Востока",
-   "feed": "GNews/Госагентства Ближнего Востока",
-   "paywall": false,
-   "title": "AFC Champions League Elite: Al-Ahli Falls 2–3 to Qatar’s Al-Shamal - وكالة الأنباء السعودية",
-   "summary": "AFC Champions League Elite: Al-Ahli Falls 2–3 to Qatar’s Al-Shamal&nbsp;&nbsp;وكالة الأنباء السعودية",
-   "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE95VWNfckZNUzBxb2RDWEoxbUEtYXBmM1hmWEl6M2VVUGdUSVBNV1JuVlNzM01LZWNySzNFYTR6MGQtbjI3ZkpqSm9B?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "46f06f41c8e7f51ce65d732b3fc1ba24",
    "published": "2026-11-24T00:27+05:00",
    "time_tashkent": "00:27",
@@ -2323,27 +2875,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "53b5e5b45a7bb9129a5ce71a25698a2e",
-   "published": "2026-11-24T00:26+05:00",
-   "time_tashkent": "00:26",
-   "region": "США",
-   "type": "ofic",
-   "source": "Facebook",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "Breaking news: President Trump plans to use a scheduled Justice Department speech to attack California Gov. Gavin Newsom, a potential 2028 contender. The White House also released an edited video criticizing Newsom’s effort to commute all state death s",
-   "summary": "Breaking news: President Trump plans to use a scheduled Justice Department speech to attack California Gov. Gavin Newsom, a potential 2028 contender. The White House also released an edited video criticizing Newsom’s effort to commute all state death",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjdSNXJwVkFXMGRvWlNxQlZTeXl6aVI3MDdhcUdkNmpKbVJEWGVmZElJY3JmbmNsLW1qc0o5VUxXM1pacF94OXkyY29lVFVYQ2R6RWo2dWo3R0l6aDg4VFZoYnBDNlJKOE5JY0I1STg1YktiQXhBVjB5QV8zbmtwcF9QZVJKY0VTdHVNWHJDQjFkR0pQNUZULVhhN3FEcGQ1MmJpcUpNWUdtY3VEbVpTNkVLNVM2ZWxHUkFuTXk0alNWM1hzelNFOUVSREVxdFhzYkUtZkxpd0RDWjVw?oc=5",
-   "also": [
-    "AP News"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWFjLURJa1hNVkMxMm9oTFozQkFlRlFLcnQ1M3VidldBSGV0am5ILURoX2tBRW81OHF2ZHVaOWV0UmprWFJLOVRrVmVqZnYwclA2bXBFRFFhZWFnUGV4aHZOSjFNR2VCbG9wNURZQ3AzY1J4SnR4RE9ISGFMSE1VcGdOZVhPWDB3Unhudi04eFB1Q3EtQ19YTWh4SzdRa2Rp?oc=5"
-   ],
-   "sources_count": 2,
-   "confirmed": true
   },
   {
    "hash": "c974e4b6c0000ba8c9e0b10bcf22b16d",
@@ -2380,6 +2911,29 @@
    "confirmed": false
   },
   {
+   "hash": "53b5e5b45a7bb9129a5ce71a25698a2e",
+   "published": "2026-11-24T00:26+05:00",
+   "time_tashkent": "00:26",
+   "region": "США",
+   "type": "ofic",
+   "source": "Facebook",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Breaking news: President Trump plans to use a scheduled Justice Department speech to attack California Gov. Gavin Newsom, a potential 2028 contender. The White House also released an edited video criticizing Newsom’s effort to commute all state death s",
+   "summary": "Breaking news: President Trump plans to use a scheduled Justice Department speech to attack California Gov. Gavin Newsom, a potential 2028 contender. The White House also released an edited video criticizing Newsom’s effort to commute all state death",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWjdSNXJwVkFXMGRvWlNxQlZTeXl6aVI3MDdhcUdkNmpKbVJEWGVmZElJY3JmbmNsLW1qc0o5VUxXM1pacF94OXkyY29lVFVYQ2R6RWo2dWo3R0l6aDg4VFZoYnBDNlJKOE5JY0I1STg1YktiQXhBVjB5QV8zbmtwcF9QZVJKY0VTdHVNWHJDQjFkR0pQNUZULVhhN3FEcGQ1MmJpcUpNWUdtY3VEbVpTNkVLNVM2ZWxHUkFuTXk0alNWM1hzelNFOUVSREVxdFhzYkUtZkxpd0RDWjVw?oc=5",
+   "also": [
+    "AP News",
+    "SFGATE"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbWFjLURJa1hNVkMxMm9oTFozQkFlRlFLcnQ1M3VidldBSGV0am5ILURoX2tBRW81OHF2ZHVaOWV0UmprWFJLOVRrVmVqZnYwclA2bXBFRFFhZWFnUGV4aHZOSjFNR2VCbG9wNURZQ3AzY1J4SnR4RE9ISGFMSE1VcGdOZVhPWDB3Unhudi04eFB1Q3EtQ19YTWh4SzdRa2Rp?oc=5",
+    "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTVFjVXVERzdfa3NXeWpKTWRMQ2d6d2lRdkhqaEtJM0pwaFFfMEJGTWFtVTJ1SGgzZ3ZCUWFNbDYzMERLcHZDSmUzbmFxSFNOdFdLNlVvUVJHTmU4T1lFdDVfbDJNQjdWQUF4WDdWVVg2dEFHTUMzbWxxOTBkVDliOUxEa1pWZV9la1BEY0NhUVFBUQ?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
+  },
+  {
    "hash": "2b8e0aa4018c5c2eea384bf65e70b514",
    "published": "2026-11-24T00:26+05:00",
    "time_tashkent": "00:26",
@@ -2397,23 +2951,6 @@
    "confirmed": false
   },
   {
-   "hash": "fae109c823fe30c860c18c46a1dc1b00",
-   "published": "2026-11-24T00:25+05:00",
-   "time_tashkent": "00:25",
-   "region": "США",
-   "type": "smi",
-   "source": "CNN",
-   "feed": "GNews/Home-US",
-   "paywall": false,
-   "title": "New low prices just landed on Apple Watches, AirPods and MacBooks before Black Friday",
-   "summary": "New low prices just landed on Apple Watches, AirPods and MacBooks before Black Friday&nbsp;&nbsp;CNNThis AirPods Pro 3 deal is the one to grab before Black Friday&nbsp;&nbsp;NBC NewsApple AirPods Pro 3 just dropped to $169.99 for Black Friday&nbsp;&n",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLV92aWJIVUtwWnNmeHBpeThpaG5VdldCVGNtU0d0RXZ5NmtmblE0YmRsZzdraWt3Rmt5MnJBRWRQM25HenpNMWljeFpHdXZPYUxvNFRKUkhUZzNjVVYyZjEyUGZ5dnhJY1pjX19LRDNIZDdoSjhtR3AtMTd4ZkNVb0hXQQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "b6e865bde126056119b36913ebe3ae7a",
    "published": "2026-11-24T00:25+05:00",
    "time_tashkent": "00:25",
@@ -2425,6 +2962,23 @@
    "title": "‘Left to Bleed’: Israeli Attacks on West Bank Healthcare Surge over 350%",
    "summary": "‘Left to Bleed’: Israeli Attacks on West Bank Healthcare Surge over 350%&nbsp;&nbsp;Palestine Chronicle",
    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQUdNVERfcVpiU0J2cWtsRHRFMUZkRGtQUUs2eFhwLTJrUTh2VHZsVnlMR21FaDZydjNRZzRNYUtfc0poQTc3MVpsZ1ZPUG8yQzFuWXJPRVVOektQajdPNUlkQlF4MHBIUkszODZmN0ZiVUh3Tkg4V3JhR2hfc1JTSFZqcGdpOENrUk9Cb3puUzNtM1NGbEtFWXVTNWhyVnlzRkhUVTNsRQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "fae109c823fe30c860c18c46a1dc1b00",
+   "published": "2026-11-24T00:25+05:00",
+   "time_tashkent": "00:25",
+   "region": "США",
+   "type": "smi",
+   "source": "CNN",
+   "feed": "GNews/Home-US",
+   "paywall": false,
+   "title": "New low prices just landed on Apple Watches, AirPods and MacBooks before Black Friday",
+   "summary": "New low prices just landed on Apple Watches, AirPods and MacBooks before Black Friday&nbsp;&nbsp;CNNThis AirPods Pro 3 deal is the one to grab before Black Friday&nbsp;&nbsp;NBC NewsApple AirPods Pro 3 just dropped to $169.99 for Black Friday&nbsp;&n",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLV92aWJIVUtwWnNmeHBpeThpaG5VdldCVGNtU0d0RXZ5NmtmblE0YmRsZzdraWt3Rmt5MnJBRWRQM25HenpNMWljeFpHdXZPYUxvNFRKUkhUZzNjVVYyZjEyUGZ5dnhJY1pjX19LRDNIZDdoSjhtR3AtMTd4ZkNVb0hXQQ?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2520,23 +3074,6 @@
    "confirmed": false
   },
   {
-   "hash": "74e7ebe632bd86a285cb97cf5b118e75",
-   "published": "2026-11-24T00:22+05:00",
-   "time_tashkent": "00:22",
-   "region": "США",
-   "type": "smi",
-   "source": "Politico Congress",
-   "feed": "Politico Congress",
-   "paywall": false,
-   "title": "Jeffries slams Jensen Huang’s ‘indefensible’ return, calls for ‘ironclad’ chip controls",
-   "summary": "The top House Democrat called for an export crackdown in the pending defense policy bill.",
-   "link": "https://www.politico.com/live-updates/2026/11/23/congress/hakeem-jeffries-jensen-huang-export-controls-01180738",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "33b3a09e7a4d1c128b81e92c70bdedb3",
    "published": "2026-11-24T00:22+05:00",
    "time_tashkent": "00:22",
@@ -2554,17 +3091,17 @@
    "confirmed": true
   },
   {
-   "hash": "b68e4a9bbbc633147bda41f37f91a1b7",
-   "published": "2026-11-24T00:21+05:00",
-   "time_tashkent": "00:21",
+   "hash": "74e7ebe632bd86a285cb97cf5b118e75",
+   "published": "2026-11-24T00:22+05:00",
+   "time_tashkent": "00:22",
    "region": "США",
    "type": "smi",
-   "source": "MLB.com",
-   "feed": "GNews/Home-US",
+   "source": "Politico Congress",
+   "feed": "Politico Congress",
    "paywall": false,
-   "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
-   "summary": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)&nbsp;&nbsp;MLB.comTarik Skubal reportedly joins Mets on record-breaking, 9-year, $450 million deal that topped Blue Jays' offer&nbsp;&nbsp;Yahoo SportsHot Stove Rumors: Skubal f",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5",
+   "title": "Jeffries slams Jensen Huang’s ‘indefensible’ return, calls for ‘ironclad’ chip controls",
+   "summary": "The top House Democrat called for an export crackdown in the pending defense policy bill.",
+   "link": "https://www.politico.com/live-updates/2026/11/23/congress/hakeem-jeffries-jensen-huang-export-controls-01180738",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -2588,21 +3125,21 @@
    "confirmed": false
   },
   {
-   "hash": "3cc4640762b4d50c0adfbc46a0d48b62",
-   "published": "2026-11-24T00:20+05:00",
-   "time_tashkent": "00:20",
+   "hash": "b68e4a9bbbc633147bda41f37f91a1b7",
+   "published": "2026-11-24T00:21+05:00",
+   "time_tashkent": "00:21",
    "region": "США",
-   "type": "ofic",
-   "source": "The White House (.gov)",
-   "feed": "GNews/Власть США",
+   "type": "smi",
+   "source": "MLB.com",
+   "feed": "GNews/Home-US",
    "paywall": false,
-   "title": "First Lady Melania Trump Hails America’s Armed Forces",
-   "summary": "First Lady Melania Trump Hails America’s Armed Forces&nbsp;&nbsp;The White House (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTG9rWC0xNnJTUkdrWlBYT2Z5OFlYMllFRHItTy00REpZNklFbGhrUlZ0aWFmWXZ3bWFoMERpZkVmQ09BeTlDZ05fZjhiQURCZUZGT3pPaXpCTnc2aWdHOXJ4T1h2SGt2cDZBUTRfVm16RVlqT2VrYjFacjRidDFrZzg1OUlHaGVHY3hmUkowWkY0cE02OEZLckJuclhiZXlrZG9YT1pscHFZMG0xc2c?oc=5",
+   "title": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)",
+   "summary": "Mets make the big splash, agree with Skubal for 9 years, $450M (sources)&nbsp;&nbsp;MLB.comTarik Skubal reportedly joins Mets on record-breaking, 9-year, $450 million deal that topped Blue Jays' offer&nbsp;&nbsp;Yahoo SportsHot Stove Rumors: Skubal f",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TVFgzbG9pbXI2TFpEY0ZXMng3SExBOFlXX0Y0OExEZWp4dmNLMU84UzE0MjgtU20zLWZobm5ZZVVHTGhqN1VtRG52MUFCaU9QNGkzbWFxTUkybUtlX1AzVw?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
+   "confirmed": false
   },
   {
    "hash": "4ffd1a1f7a73ee4006244b83ae41da7d",
@@ -2656,6 +3193,23 @@
    "confirmed": true
   },
   {
+   "hash": "3cc4640762b4d50c0adfbc46a0d48b62",
+   "published": "2026-11-24T00:20+05:00",
+   "time_tashkent": "00:20",
+   "region": "США",
+   "type": "ofic",
+   "source": "The White House (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "First Lady Melania Trump Hails America’s Armed Forces",
+   "summary": "First Lady Melania Trump Hails America’s Armed Forces&nbsp;&nbsp;The White House (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTG9rWC0xNnJTUkdrWlBYT2Z5OFlYMllFRHItTy00REpZNklFbGhrUlZ0aWFmWXZ3bWFoMERpZkVmQ09BeTlDZ05fZjhiQURCZUZGT3pPaXpCTnc2aWdHOXJ4T1h2SGt2cDZBUTRfVm16RVlqT2VrYjFacjRidDFrZzg1OUlHaGVHY3hmUkowWkY0cE02OEZLckJuclhiZXlrZG9YT1pscHFZMG0xc2c?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
+  },
+  {
    "hash": "64c66f71b67731e6226024428de5b9ef",
    "published": "2026-11-24T00:20+05:00",
    "time_tashkent": "00:20",
@@ -2667,10 +3221,16 @@
    "title": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe",
    "summary": "Ukraine sinks Russian warship in Libya as conflict spreads beyond Europe&nbsp;&nbsp;The Japan Times",
    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVGF2ZkJUQWJpNnU3UVFrR015RWl0UTcyNGxrWWxUOXAtOXJSdlA0UzVhYWFjQVE0Ni1qd2tZa2dST1hqWVN4UmV6bFZGVnlFTmJRRHZub0lhUG5FOFN3RUl6WXVQQTJidG5sdmtLbU1MaHBvdGtMTUhnZnBTS1JMSHdXS0d3eDJjeDRkVjhGRXVxMG5iTVE?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "Sydney Morning Herald",
+    "The Age"
+   ],
+   "also_links": [
+    "https://www.smh.com.au/world/europe/video-reveals-sea-drone-power-after-ukraine-sinks-russian-warship-in-libya-20261124-p61go1.html?ref=rss&utm_medium=rss&utm_source=rss_world",
+    "https://news.google.com/rss/articles/CBMizwFBVV95cUxOREExTzNWSk1vMTVHeGJjeFE0OVptVllhaUV0bHJOUFVOeFpDRVhXUjl2TlVsNzJZbGNUZng5RUxRWXZwejlBamtXNFZ6UkFrcm4wZmxGV1NhOWlISUIyc3ZtY2ZiU213OTZMWHM4S3gwZmJhTHdLd2pNd21QS2hTRW9aVi1oY1BzRzloczhTUDZ6MWVWb2tCZGdWREV6ZkNOcC1LTU4xVTlfMi01dXc5eFRDOHRETk0xOGNEMTBhNWlYX0dXN1l2U2xLTVFkcXM?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
   },
   {
    "hash": "e4f9abd5c0dab0d3e625dfd2600dc9ec",
@@ -2758,23 +3318,6 @@
    "confirmed": false
   },
   {
-   "hash": "6c1a58b90f1d091d5b6cc4ad02a7642d",
-   "published": "2026-11-24T00:16+05:00",
-   "time_tashkent": "00:16",
-   "region": "ЮА",
-   "type": "smi",
-   "source": "The Daily Star",
-   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
-   "paywall": false,
-   "title": "Cummins to remain captain as Cricket Australia quashes speculation",
-   "summary": "Cummins to remain captain as Cricket Australia quashes speculation&nbsp;&nbsp;The Daily Star",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlVCUkpEaDZtdG9kaW5SN210UjNCV1dBOU1qRks1WkdqQ3lBUDNRWDRrTFdRZk9IMDZvaDRZWGN4TEtld3duUjJZUXJXYVpNb3h2b3l3NnFSQ01SQldkOHotd3Q3U0twaXBzRi1IRzdFUUxnbHA3ZEhvMzFSa3lCanlfV2dXSTNZaGVBVWZtSGM0TVhwdlpsa3ZJNHZac1UtUFMtSmZJZDVsZmZSZUpYcS1kMjd1TFhX?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "78395e717a053bfa0b04b6196c759552",
    "published": "2026-11-24T00:16+05:00",
    "time_tashkent": "00:16",
@@ -2790,6 +3333,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": true
+  },
+  {
+   "hash": "6c1a58b90f1d091d5b6cc4ad02a7642d",
+   "published": "2026-11-24T00:16+05:00",
+   "time_tashkent": "00:16",
+   "region": "ЮА",
+   "type": "smi",
+   "source": "The Daily Star",
+   "feed": "GNews/Пакистан, Индия, Бангладеш: СМИ",
+   "paywall": false,
+   "title": "Cummins to remain captain as Cricket Australia quashes speculation",
+   "summary": "Cummins to remain captain as Cricket Australia quashes speculation&nbsp;&nbsp;The Daily Star",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlVCUkpEaDZtdG9kaW5SN210UjNCV1dBOU1qRks1WkdqQ3lBUDNRWDRrTFdRZk9IMDZvaDRZWGN4TEtld3duUjJZUXJXYVpNb3h2b3l3NnFSQ01SQldkOHotd3Q3U0twaXBzRi1IRzdFUUxnbHA3ZEhvMzFSa3lCanlfV2dXSTNZaGVBVWZtSGM0TVhwdlpsa3ZJNHZac1UtUFMtSmZJZDVsZmZSZUpYcS1kMjd1TFhX?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
   },
   {
    "hash": "f87df7bf1af9b6dc73ba49470e1cb2e6",
@@ -2881,6 +3441,23 @@
    "confirmed": false
   },
   {
+   "hash": "eb2d4aed8cfe5a22ba8a425f41fc8971",
+   "published": "2026-11-24T00:15+05:00",
+   "time_tashkent": "00:15",
+   "region": "РЫН",
+   "type": "smi",
+   "source": "Investing.com",
+   "feed": "Investing.com",
+   "paywall": false,
+   "title": "Medifast director Parsa Kiai buys $77,610 in stock",
+   "summary": "",
+   "link": "https://www.investing.com/news/insider-trading-news/medifast-director-parsa-kiai-buys-77610-in-stock-93CH-5046261",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "d4e7d53a5b74cfae32e862896d8f7e8b",
    "published": "2026-11-24T00:15+05:00",
    "time_tashkent": "00:15",
@@ -2923,23 +3500,6 @@
    "confirmed": true
   },
   {
-   "hash": "eb2d4aed8cfe5a22ba8a425f41fc8971",
-   "published": "2026-11-24T00:15+05:00",
-   "time_tashkent": "00:15",
-   "region": "РЫН",
-   "type": "smi",
-   "source": "Investing.com",
-   "feed": "Investing.com",
-   "paywall": false,
-   "title": "Medifast director Parsa Kiai buys $77,610 in stock",
-   "summary": "",
-   "link": "https://www.investing.com/news/insider-trading-news/medifast-director-parsa-kiai-buys-77610-in-stock-93CH-5046261",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "7e55f1ea3eb44f8fc86ea4ec09298b08",
    "published": "2026-11-24T00:14+05:00",
    "time_tashkent": "00:14",
@@ -2954,29 +3514,6 @@
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "86fb10a9b163c0fc593e222213909024",
-   "published": "2026-11-24T00:14+05:00",
-   "time_tashkent": "00:14",
-   "region": "ЦА",
-   "type": "smi",
-   "source": "Radio Free Europe/Radio Liberty",
-   "feed": "GNews/СМИ Центральной Азии",
-   "paywall": false,
-   "title": "More than 700,000 Russian Soldiers Killed in Ukraine War, New Analysis Finds",
-   "summary": "More than 700,000 Russian Soldiers Killed in Ukraine War, New Analysis Finds&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanVmQXA3NXR4MWsyOEFZM0hWWDRGZVU0TVVDQkZmSWhFUFNqTHlObGJyUGI1QmdWNmNFVklIQ1JzOEdfbUdaWnpmM1lMcUlTckVxeDVxQ24xb0o3TXUzRUNzMEF5ZzRzcUJQMl9hbjMwdDVaZnpRSmxKM19KZG81OE41WVZ1WGl1?oc=5",
-   "also": [
-    "NYT World",
-    "The New York Times"
-   ],
-   "also_links": [
-    "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGtaSVAtSnh5RTRGUmp6ZW5BbUhiZFlPTnloTlB0MHpsaFRsWmJkQTB4czRDWUl6OEdfcXZmUVNITFY1ZjFSOHoyLW94VHFxZm9SLTRJZHUtM0hZNmMyX3JMSVBCUk5VV3hzU211VVpUb1lBcENuWGtTZm05TG00bDFCSGM?oc=5"
-   ],
-   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -3009,6 +3546,29 @@
    "confirmed": true
   },
   {
+   "hash": "86fb10a9b163c0fc593e222213909024",
+   "published": "2026-11-24T00:14+05:00",
+   "time_tashkent": "00:14",
+   "region": "ЦА",
+   "type": "smi",
+   "source": "Radio Free Europe/Radio Liberty",
+   "feed": "GNews/СМИ Центральной Азии",
+   "paywall": false,
+   "title": "More than 700,000 Russian Soldiers Killed in Ukraine War, New Analysis Finds",
+   "summary": "More than 700,000 Russian Soldiers Killed in Ukraine War, New Analysis Finds&nbsp;&nbsp;Radio Free Europe/Radio Liberty",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOanVmQXA3NXR4MWsyOEFZM0hWWDRGZVU0TVVDQkZmSWhFUFNqTHlObGJyUGI1QmdWNmNFVklIQ1JzOEdfbUdaWnpmM1lMcUlTckVxeDVxQ24xb0o3TXUzRUNzMEF5ZzRzcUJQMl9hbjMwdDVaZnpRSmxKM19KZG81OE41WVZ1WGl1?oc=5",
+   "also": [
+    "NYT World",
+    "The New York Times"
+   ],
+   "also_links": [
+    "https://www.nytimes.com/2026/11/23/world/europe/russia-ukraine-war-deaths.html",
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGtaSVAtSnh5RTRGUmp6ZW5BbUhiZFlPTnloTlB0MHpsaFRsWmJkQTB4czRDWUl6OEdfcXZmUVNITFY1ZjFSOHoyLW94VHFxZm9SLTRJZHUtM0hZNmMyX3JMSVBCUk5VV3hzU211VVpUb1lBcENuWGtTZm05TG00bDFCSGM?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
+  },
+  {
    "hash": "675a8fad57c933493323f01a061ebb03",
    "published": "2026-11-24T00:13+05:00",
    "time_tashkent": "00:13",
@@ -3022,13 +3582,15 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOb29OOFJZaDVsTlRPdE54N2ttRUR3UXVwUGh1VVJmNUhCVjNVSFhSU3JveU1pVFZTVlZkU095c052d25jNFZZSVAxZGxHaWtCZ011OGFiMEU4NnRDVklsT2FvZ3hrZXV0X0RBSUZwaUhLSHlxN2xQNGV2aTFOX1FIWkhreHJTX1J5Qng3OHRWczVkb25LUWNBVQ?oc=5",
    "also": [
     "Bloomberg Politics",
-    "GNews/TruthSocial"
+    "GNews/TruthSocial",
+    "KFI AM 640"
    ],
    "also_links": [
     "https://www.bloomberg.com/news/articles/2026-11-23/trump-halts-detonation-in-iowa-puts-onus-on-incoming-governor",
-    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUZGNTBBcVRUYlBfblRndkwzOU5LUGFHNkRFVFRubGhBb0szT1dhUEdaUzRBdWpCQkNWTUI0U0VzUTJITS1DLWU4R1hSX2JUMGtta2t0MmljR2JBc1AzVktpeHNpaVNWWkFhdVdRSC0tQ1B6SzlpZEFlUEltc3JZQ2ZXcjl3LVBVWGVOazFoTGFJczdWRC1UMtIBoAFBVV95cUxNV3hrSHVQVHV0R293T2lzTnZDVmRWUUsxdUp1Rzh6N09ZbTBndkIyWWZaR1ZmdkZoemVOTnVKaFlVM1I1OWhncVp6RHZLSno0Q1BsaUN1RXBlcTNUZVNLOUhZRkdmSjVwcGl0Ul9ybm5QYXlEWWhDNEtCdEprMG1nOXczNHV2WlZtSmlkMVVfOWxSS3hZU3ZYelp4VmNvdjRh?oc=5"
+    "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUZGNTBBcVRUYlBfblRndkwzOU5LUGFHNkRFVFRubGhBb0szT1dhUEdaUzRBdWpCQkNWTUI0U0VzUTJITS1DLWU4R1hSX2JUMGtta2t0MmljR2JBc1AzVktpeHNpaVNWWkFhdVdRSC0tQ1B6SzlpZEFlUEltc3JZQ2ZXcjl3LVBVWGVOazFoTGFJczdWRC1UMtIBoAFBVV95cUxNV3hrSHVQVHV0R293T2lzTnZDVmRWUUsxdUp1Rzh6N09ZbTBndkIyWWZaR1ZmdkZoemVOTnVKaFlVM1I1OWhncVp6RHZLSno0Q1BsaUN1RXBlcTNUZVNLOUhZRkdmSjVwcGl0Ul9ybm5QYXlEWWhDNEtCdEprMG1nOXczNHV2WlZtSmlkMVVfOWxSS3hZU3ZYelp4VmNvdjRh?oc=5",
+    "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ0NzejVPbHlJUHA4RV9OZTRmSGRGYjlQUk1uUGk0NzliSnZObmRKcUpOWDl0ci02N05NQUx4UHJpWHRrY1BDY2g2cnVaamJyekljRXBUUWFSR3lNaTdpMVRDY2swS0JTbjNLWVRFVGtOUmpWNDRmNXVINVhzUXY1YlQ3Z2c0d09GRmZiQmkxVVNEdHlGZlVwY1ZycDhkbkU?oc=5"
    ],
-   "sources_count": 3,
+   "sources_count": 4,
    "confirmed": true
   },
   {
@@ -3046,35 +3608,6 @@
    "also": [],
    "also_links": [],
    "sources_count": 1,
-   "confirmed": true
-  },
-  {
-   "hash": "eac30c278026fcdf3e978974d9867fb9",
-   "published": "2026-11-24T00:12+05:00",
-   "time_tashkent": "00:12",
-   "region": "США",
-   "type": "smi",
-   "source": "NBC News",
-   "feed": "GNews/СМИ США",
-   "paywall": false,
-   "title": "Jensen Huang reinstated as Nvidia CEO after Trump calls in to board meeting",
-   "summary": "Jensen Huang reinstated as Nvidia CEO after Trump calls in to board meeting&nbsp;&nbsp;NBC News",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5",
-   "also": [
-    "The Hill",
-    "RTL Today",
-    "Bloomberg.com",
-    "Deccan Chronicle",
-    "Yahoo Finance"
-   ],
-   "also_links": [
-    "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
-    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWN6Y3VqQmdUblpHVzdLdm5YTTN1WTZhN1dnay1xQ3pHUFBjdm9TQXZnVEY4NWJDZmx5ZjNHNDYxNjFfU2VZb1hUdmNmZHNHaFZhbHVtV2UxRjhfb3FGbkJvdGYxQmhEd1pvR1czVFZYYUd4UVFjSzR3R1FnSTBWTXhyQVA5N3NDd3NWNkE4My1kZkhUcFBRUC1vSFA4NGdUTHI1YjVsTHk?oc=5",
-    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
-    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdDkxXzVGMkpicksyaC1SVndWZ2llVnVheDk0bjlTbkUtbXdqQ2lYR3FaY3dqd0Q3MUQtejlkcXZZQ3oyYW9QYUZWODUxSFVLUElnUEJsbHcyRWszRGxubFhja09TM1E4b0N1c2VfNXpJTlFPczM5aHhyYTkwYWRQeXNmV2R2amVLVjE2RnAyVTJ4Y1duQlBmMm1ZeENQRjFIbHQ0REZEa3FfSnJoS0tUUUhsM2swWUF4eEhPdzhlcWRaNDlUQWlrUHZDa9IB0AFBVV95cUxPQ0tBVDBBX0FvdV9qZ21UWE5DdWtYUmRTclpTTTBBRkluNlRvUkktNjBMRmNmSEF6WUhDSmw0VDNjal9OYUpiOHZlUGFabUxMcG1XUjFZME9ncW1UMGtZeW1aZ3VuR3BFbldTUUNvN0pHaXFFU3dkX0tZdnJhaElYX1UtU2NoWnJURVZvM0pOeXRWOENHcFpqSTZLTktMM2JnMzNSU1lXZWxNc0RCRENPdE4xVWIyTmt6dEt4MkE3VTRpYV96cHNWNHAyaDIzZ0Fy?oc=5",
-    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5"
-   ],
-   "sources_count": 6,
    "confirmed": true
   },
   {
@@ -3123,27 +3656,43 @@
    "title": "DNI Jay Clayton tapped as acting national cyber director",
    "summary": "President Donald Trump last week said he decided to replace Sean Cairncross as national cyber director \"because I didn't think that person was good enough.\"",
    "link": "https://www.cnbc.com/2026/11/23/jay-clayton-cyber-director-kirsten-davies-trump.html",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "also": [
+    "The Washington Post"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM3ZjZG1MREFzbUVUQXFsclZPaFYwMzhIaTB6cVF4N2cwbmdQMTJEdmU3U1dvdDlka0NaRHpGX0RzR3oyWklCWWJRc1U0MFpfU3B4cWlCeEJ1STBXS1RUSkpBaVhOTEVTal9tZDlKUWNVQjRLZW16bUxlOEN4emNsNUpPdDl0VFYwdWxQWlN3UEJBdm1sNkFtSEphTUl6ZlFBN1hnUXdrem5MLUhjcTVUVkpsbVJwSEdX?oc=5"
+   ],
+   "sources_count": 2,
+   "confirmed": true
   },
   {
-   "hash": "0f7c426317449bd123b9ff1821baad49",
-   "published": "2026-11-24T00:11+05:00",
-   "time_tashkent": "00:11",
-   "region": "ЕВ",
-   "type": "pay",
-   "source": "The Telegraph",
-   "feed": "Telegraph",
-   "paywall": true,
-   "title": "How a tech crash spooked Trump into saving Jensen Huang",
-   "summary": "How a tech crash spooked Trump into saving Jensen Huang&nbsp;&nbsp;The Telegraph",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTBGNVFxZkRwZFlBZ2p3Ty1RTDJSWTJJOHFOMlZxVnJMUDF4V1UwN0JXVzNxOUUtTWRXSzNoQU5WRi14aU11SURScDdlTVJQSjdRZjBSNFJwUVlDbEY5R1IwQnZYWHhTcmJ5cVZxcGNIWG1lNDk3ZmZBMUpza2o3NVZ3NklWV0ota2xOSlBMamFMZXlPSUlDQUtGcnBXLV9YcmhKUzA0SQ?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
+   "hash": "eac30c278026fcdf3e978974d9867fb9",
+   "published": "2026-11-24T00:12+05:00",
+   "time_tashkent": "00:12",
+   "region": "США",
+   "type": "smi",
+   "source": "NBC News",
+   "feed": "GNews/СМИ США",
+   "paywall": false,
+   "title": "Jensen Huang reinstated as Nvidia CEO after Trump calls in to board meeting",
+   "summary": "Jensen Huang reinstated as Nvidia CEO after Trump calls in to board meeting&nbsp;&nbsp;NBC News",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNaEh6QTZFYnYwckh0TDFqV2ExekUtZ1VodWtvZGk4ci1MZFhObzhLM1V4Mms3RXBhcnZYMXRMcjFGUU5JNFhmMTZFUnZadGMyY3F3azJOc1UwUWtTWEFCMEMwZUEtODl4MmItQjdIOGNmMlI5aE1UX3puUVlwWjZoZ0dtNjNid28?oc=5",
+   "also": [
+    "The Hill",
+    "RTL Today",
+    "Bloomberg.com",
+    "Deccan Chronicle",
+    "Yahoo Finance"
+   ],
+   "also_links": [
+    "https://thehill.com/homenews/administration/6236287-live-updates-donald-trump-goverment-spending-senate-leadership-fight-iran-war/",
+    "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRWN6Y3VqQmdUblpHVzdLdm5YTTN1WTZhN1dnay1xQ3pHUFBjdm9TQXZnVEY4NWJDZmx5ZjNHNDYxNjFfU2VZb1hUdmNmZHNHaFZhbHVtV2UxRjhfb3FGbkJvdGYxQmhEd1pvR1czVFZYYUd4UVFjSzR3R1FnSTBWTXhyQVA5N3NDd3NWNkE4My1kZkhUcFBRUC1vSFA4NGdUTHI1YjVsTHk?oc=5",
+    "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcGlUYS02c1ZzVkc5dE5peFJWWTRJSkp6NmtxMzB4bUQ3ZXZTazlOQVdJRGN2Y1pxS0NTNWQ0WjE1RTF3NnNyM2xuVTZaVTZES2dFaGJMVFJUTU1meDJOajJZRFdEYW52Vmo4VHhUYTR3YjZTLTZYcksxcHoxa3NsTW52WW1FRHJXRS1XVFdHUGVrQUxUN3JXZjA5ZVdjTVBrRWdvbWFTTmF2ZUdV?oc=5",
+    "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdDkxXzVGMkpicksyaC1SVndWZ2llVnVheDk0bjlTbkUtbXdqQ2lYR3FaY3dqd0Q3MUQtejlkcXZZQ3oyYW9QYUZWODUxSFVLUElnUEJsbHcyRWszRGxubFhja09TM1E4b0N1c2VfNXpJTlFPczM5aHhyYTkwYWRQeXNmV2R2amVLVjE2RnAyVTJ4Y1duQlBmMm1ZeENQRjFIbHQ0REZEa3FfSnJoS0tUUUhsM2swWUF4eEhPdzhlcWRaNDlUQWlrUHZDa9IB0AFBVV95cUxPQ0tBVDBBX0FvdV9qZ21UWE5DdWtYUmRTclpTTTBBRkluNlRvUkktNjBMRmNmSEF6WUhDSmw0VDNjal9OYUpiOHZlUGFabUxMcG1XUjFZME9ncW1UMGtZeW1aZ3VuR3BFbldTUUNvN0pHaXFFU3dkX0tZdnJhaElYX1UtU2NoWnJURVZvM0pOeXRWOENHcFpqSTZLTktMM2JnMzNSU1lXZWxNc0RCRENPdE4xVWIyTmt6dEt4MkE3VTRpYV96cHNWNHAyaDIzZ0Fy?oc=5",
+    "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSWh4SkxkZkVEYVE0bHF3bzR2azhpV1pRbVJVSzJ2dHYyTEFwcFNFNFlLb25Qa0NnekRUTUlOcXd3SDBfZlJsdDVtOFNTd0VQS0RCWC1WaWZJdURybFFnZFRCM2h1SHA2RXNpWjQzLXNNMURST3dULWp4QVBKMVkycGVmeXN1eXJCWEZkaXg5YmVaTlp2SlpfM0pidU1ZaVExbGxKZXc4VG1vLVZDQTVYSTF3R2RGalo0LWVvcmtzdzVscHl0OEpsUF9RQU1wM0MyRHhQcEQ2ZEg?oc=5"
+   ],
+   "sources_count": 6,
+   "confirmed": true
   },
   {
    "hash": "0629b85712ff24e50beb7a7cd4f36ea9",
@@ -3169,6 +3718,40 @@
    "confirmed": true
   },
   {
+   "hash": "0f7c426317449bd123b9ff1821baad49",
+   "published": "2026-11-24T00:11+05:00",
+   "time_tashkent": "00:11",
+   "region": "ЕВ",
+   "type": "pay",
+   "source": "The Telegraph",
+   "feed": "Telegraph",
+   "paywall": true,
+   "title": "How a tech crash spooked Trump into saving Jensen Huang",
+   "summary": "How a tech crash spooked Trump into saving Jensen Huang&nbsp;&nbsp;The Telegraph",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTBGNVFxZkRwZFlBZ2p3Ty1RTDJSWTJJOHFOMlZxVnJMUDF4V1UwN0JXVzNxOUUtTWRXSzNoQU5WRi14aU11SURScDdlTVJQSjdRZjBSNFJwUVlDbEY5R1IwQnZYWHhTcmJ5cVZxcGNIWG1lNDk3ZmZBMUpza2o3NVZ3NklWV0ota2xOSlBMamFMZXlPSUlDQUtGcnBXLV9YcmhKUzA0SQ?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "eebc0676ff67139654443083878d00be",
+   "published": "2026-11-24T00:10+05:00",
+   "time_tashkent": "00:10",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "paywall": false,
+   "title": "Bloodshed partnership in West Bank: Israeli occupation Forces & settler gangs in \"Field Coordination\" - وكالة سبأ",
+   "summary": "Bloodshed partnership in West Bank: Israeli occupation Forces & settler gangs in \"Field Coordination\"&nbsp;&nbsp;وكالة سبأ",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ibndGOEZoaUpoR3hnRTE4Mlh5VHo3cmZZZDVRNjBtMjJMSERRSXhETWQ5TnhQZm4zYWtLNTdOWjdCQjEwSUp5ZWw1aE5GcUE?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "6c84b1254cf9b73ca446a2122730b6ef",
    "published": "2026-11-24T00:10+05:00",
    "time_tashkent": "00:10",
@@ -3190,17 +3773,17 @@
    "confirmed": true
   },
   {
-   "hash": "eebc0676ff67139654443083878d00be",
-   "published": "2026-11-24T00:10+05:00",
-   "time_tashkent": "00:10",
+   "hash": "32c68dcb866ba160c5c744f65bc16d67",
+   "published": "2026-11-24T00:09+05:00",
+   "time_tashkent": "00:09",
    "region": "БВ",
-   "type": "gos",
-   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
-   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "type": "smi",
+   "source": "The Times of Israel",
+   "feed": "GNews/СМИ Ближнего Востока",
    "paywall": false,
-   "title": "Bloodshed partnership in West Bank: Israeli occupation Forces & settler gangs in \"Field Coordination\" - وكالة سبأ",
-   "summary": "Bloodshed partnership in West Bank: Israeli occupation Forces & settler gangs in \"Field Coordination\"&nbsp;&nbsp;وكالة سبأ",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ibndGOEZoaUpoR3hnRTE4Mlh5VHo3cmZZZDVRNjBtMjJMSERRSXhETWQ5TnhQZm4zYWtLNTdOWjdCQjEwSUp5ZWw1aE5GcUE?oc=5",
+   "title": "The Daily Edition",
+   "summary": "The Daily Edition&nbsp;&nbsp;The Times of Israel",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwamlIVnpjWlhpd1FuQ2VSTUctdUF2VEFYa0F0X2hyMVdHT3RQYUZqZlRYUUpHUERCSnZTendBalMtWEZpRl94VUJDcEw4RnY3ZDZzYkMxQmlUelNC?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3224,23 +3807,6 @@
    "confirmed": false
   },
   {
-   "hash": "32c68dcb866ba160c5c744f65bc16d67",
-   "published": "2026-11-24T00:09+05:00",
-   "time_tashkent": "00:09",
-   "region": "БВ",
-   "type": "smi",
-   "source": "The Times of Israel",
-   "feed": "GNews/СМИ Ближнего Востока",
-   "paywall": false,
-   "title": "The Daily Edition",
-   "summary": "The Daily Edition&nbsp;&nbsp;The Times of Israel",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwamlIVnpjWlhpd1FuQ2VSTUctdUF2VEFYa0F0X2hyMVdHT3RQYUZqZlRYUUpHUERCSnZTendBalMtWEZpRl94VUJDcEw4RnY3ZDZzYkMxQmlUelNC?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "3315a4b7742ad08eb82f3f6aa6664f02",
    "published": "2026-11-24T00:08+05:00",
    "time_tashkent": "00:08",
@@ -3253,12 +3819,14 @@
    "summary": "UN chief calls for AI risk management framework within a year&nbsp;&nbsp;RTL Today",
    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT2tpT0Eyc1dUdlpDaWFWUi1fdlc4aDcxZThaYlhLczZYbnBmUG1aSU1SUjJRNENZaG1CRFZ3OVoyZkxaNHpQRENqb1ktQW1tZUdnOXhRQmwyOS1SUl9XUFFrVlU3ckJRZTRMN0dLLW1peXFla0RPaUR4Tm96SlBXUjFNdVprdDE5cm5WQ1Y3YzMzbzBnZU9aaGhLZ2RkSGU5ejFfbkdXeHpubHlEdXdBVm5DcjBhRFk?oc=5",
    "also": [
-    "AFP.com"
+    "AFP.com",
+    "France24"
    ],
    "also_links": [
-    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaW55MS1IRXZKQThfQWprZ3REdFRER2tSRkRuWXJGNjhZcjVTUC1uWGJGbVNEdktUMHdWekI3dlM3LUFMb1lwbWljRHZUZi1McWtJMnYtSWdKeWN5Wi13dF9mSkhocEVwdHdmT01XS0wzRmdmVlFqLUJvZHdqWFB6dWQteFk?oc=5"
+    "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaW55MS1IRXZKQThfQWprZ3REdFRER2tSRkRuWXJGNjhZcjVTUC1uWGJGbVNEdktUMHdWekI3dlM3LUFMb1lwbWljRHZUZi1McWtJMnYtSWdKeWN5Wi13dF9mSkhocEVwdHdmT01XS0wzRmdmVlFqLUJvZHdqWFB6dWQteFk?oc=5",
+    "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year"
    ],
-   "sources_count": 2,
+   "sources_count": 3,
    "confirmed": true
   },
   {
@@ -3273,6 +3841,23 @@
    "title": "Citadel warns of market challenges as Fed signals potential rate hikes",
    "summary": "Citadel warns of market challenges as Fed signals potential rate hikes&nbsp;&nbsp;Crypto Briefing",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZjhWbkxoTXhTYTFsYTZVR3VnNGtXOTFaWF83eWlwRXR1SW1oZ2lyOGxwZXQ4R0xzc19WR3d3ME9sbEYyTnR2WjItejAyWW9QVkhkUS1oYXVQblpicmxtYlNvNHVfMkcwcVVLOVg0cFhTQmVzR29xTUZqT0ViM2xTZ0FIalN5Q2Vpcjk3WnBCODdNc2x0MGpoMHdrVklmNlk?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "92f0eecb971f656708f20dcc00c6091f",
+   "published": "2026-11-24T00:07+05:00",
+   "time_tashkent": "00:07",
+   "region": "БВ",
+   "type": "gos",
+   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
+   "paywall": false,
+   "title": "Al-Aboudi: Iraq’s recovery and the government’s balanced policy made it a trusted partner in the region and the world - وكالة الانباء العراقية (واع)",
+   "summary": "Al-Aboudi: Iraq’s recovery and the government’s balanced policy made it a trusted partner in the region and the world&nbsp;&nbsp;وكالة الانباء العراقية (واع)",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOV9hdHVFWWNiOGc4Y2d0TEgxclI2RGdkTnJXWDhISHFVWnFEWnJYZ3Z5VjNtTDk1c0hNS01Dbllub21YM0d1LW9aRVpSRS02ZnVwTUxoMnFaSWV5QXV0MzlrYWpUcmZ0dFFfUUJGRGxrWGUxY0MtY1VNYWtIVGlWQWV0dnktSWRGNFdZWVJIV242dEROdTRVNl8wNHBaYlA3ZzQtSWJmZmdidldFcWoycnhKWEV5TjlaX0c2akoxWU1aVXg5MnFrVm9mNjBWamlIdzZLMG1Qa3Qtckp4MUxya1NWdWdnOWs?oc=5",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3296,23 +3881,6 @@
    "confirmed": true
   },
   {
-   "hash": "92f0eecb971f656708f20dcc00c6091f",
-   "published": "2026-11-24T00:07+05:00",
-   "time_tashkent": "00:07",
-   "region": "БВ",
-   "type": "gos",
-   "source": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
-   "feed": "GNews/Иран, Ирак, Сирия, Йемен: госСМИ",
-   "paywall": false,
-   "title": "Al-Aboudi: Iraq’s recovery and the government’s balanced policy made it a trusted partner in the region and the world - وكالة الانباء العراقية (واع)",
-   "summary": "Al-Aboudi: Iraq’s recovery and the government’s balanced policy made it a trusted partner in the region and the world&nbsp;&nbsp;وكالة الانباء العراقية (واع)",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOV9hdHVFWWNiOGc4Y2d0TEgxclI2RGdkTnJXWDhISHFVWnFEWnJYZ3Z5VjNtTDk1c0hNS01Dbllub21YM0d1LW9aRVpSRS02ZnVwTUxoMnFaSWV5QXV0MzlrYWpUcmZ0dFFfUUJGRGxrWGUxY0MtY1VNYWtIVGlWQWV0dnktSWRGNFdZWVJIV242dEROdTRVNl8wNHBaYlA3ZzQtSWJmZmdidldFcWoycnhKWEV5TjlaX0c2akoxWU1aVXg5MnFrVm9mNjBWamlIdzZLMG1Qa3Qtckp4MUxya1NWdWdnOWs?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "6a6835637ff244dac8e6784d235d93f2",
    "published": "2026-11-24T00:07+05:00",
    "time_tashkent": "00:07",
@@ -3324,40 +3892,6 @@
    "title": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’",
    "summary": "How a Crash Into a Cruise Ship in New Orleans Became a ‘Miracle on the Mississippi’&nbsp;&nbsp;The New York TimesAttorneys file to limit liability in tanker collision with cruise ship&nbsp;&nbsp;WDSUA capsizing cruise ship and a gutsy risk: How a qui",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPN2tEZzRLVEdIa3lFTDl3a2hOY2dHRjZVcHc0RkJTUTFDbW85WFctNldEb0FmV2pwRGtId1ZMN1pHOEotWk5wWklrY0NjYy0xMDFpSjlvWjJtZG52TFlpSWNEX2tIT29TSFU1RVFkd0JvOUpGcm43TmVBUEd0cGFTSmZ5TVUwQ2t2cUhwME51bHc?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "8f9db11c65d022904fe80a3d62eadbc1",
-   "published": "2026-11-24T00:06+05:00",
-   "time_tashkent": "00:06",
-   "region": "США",
-   "type": "anal",
-   "source": "Foreign Policy",
-   "feed": "Foreign Policy",
-   "paywall": false,
-   "title": "Huang’s Return Is the Biggest National Security Scandal in U.S. History",
-   "summary": "Trump has put his pocketbook first and U.S. interests last.",
-   "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
-   "hash": "f3b5a0a885337ab395b64fe7437b8c8c",
-   "published": "2026-11-24T00:06+05:00",
-   "time_tashkent": "00:06",
-   "region": "США",
-   "type": "smi",
-   "source": "The Hill",
-   "feed": "The Hill",
-   "paywall": false,
-   "title": "Trump shares video comparing scrutiny of Schumer's age to Biden's",
-   "summary": "President Trump on Sunday shared a video comparing scrutiny of Senate Minority Leader Chuck Schumer's (D-N.Y.) age to former President Biden, as the incumbent fights calls for a leadership change in the next Congress. Trump took to Truth Social to po",
-   "link": "https://thehill.com/homenews/senate/6237751-donald-trump-chuck-schumer-joe-biden-age-scrutiny/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3436,17 +3970,34 @@
    "confirmed": false
   },
   {
-   "hash": "b57397bcaaa178dd87e928c82272f050",
-   "published": "2026-11-24T00:05+05:00",
-   "time_tashkent": "00:05",
+   "hash": "8f9db11c65d022904fe80a3d62eadbc1",
+   "published": "2026-11-24T00:06+05:00",
+   "time_tashkent": "00:06",
+   "region": "США",
+   "type": "anal",
+   "source": "Foreign Policy",
+   "feed": "Foreign Policy",
+   "paywall": false,
+   "title": "Huang’s Return Is the Biggest National Security Scandal in U.S. History",
+   "summary": "Trump has put his pocketbook first and U.S. interests last.",
+   "link": "https://foreignpolicy.com/2026/11/23/jensen-huang-nvidia-return-ceo-national-security-scandal/",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "f3b5a0a885337ab395b64fe7437b8c8c",
+   "published": "2026-11-24T00:06+05:00",
+   "time_tashkent": "00:06",
    "region": "США",
    "type": "smi",
-   "source": "Politico Congress",
-   "feed": "Politico Congress",
+   "source": "The Hill",
+   "feed": "The Hill",
    "paywall": false,
-   "title": "Mikie Sherrill has some asks for the new Democratic Congress",
-   "summary": "The New Jersey governor promoted \"the New Jersey model\" in a letter to Democratic leadership and her own state’s delegation.",
-   "link": "https://www.politico.com/live-updates/2026/11/23/congress/mikie-sherrill-has-some-asks-for-the-new-democratic-congress-01180681",
+   "title": "Trump shares video comparing scrutiny of Schumer's age to Biden's",
+   "summary": "President Trump on Sunday shared a video comparing scrutiny of Senate Minority Leader Chuck Schumer's (D-N.Y.) age to former President Biden, as the incumbent fights calls for a leadership change in the next Congress. Trump took to Truth Social to po",
+   "link": "https://thehill.com/homenews/senate/6237751-donald-trump-chuck-schumer-joe-biden-age-scrutiny/",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3487,6 +4038,23 @@
    "confirmed": false
   },
   {
+   "hash": "b57397bcaaa178dd87e928c82272f050",
+   "published": "2026-11-24T00:05+05:00",
+   "time_tashkent": "00:05",
+   "region": "США",
+   "type": "smi",
+   "source": "Politico Congress",
+   "feed": "Politico Congress",
+   "paywall": false,
+   "title": "Mikie Sherrill has some asks for the new Democratic Congress",
+   "summary": "The New Jersey governor promoted \"the New Jersey model\" in a letter to Democratic leadership and her own state’s delegation.",
+   "link": "https://www.politico.com/live-updates/2026/11/23/congress/mikie-sherrill-has-some-asks-for-the-new-democratic-congress-01180681",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
    "hash": "8d5ae5c4b83c19b70232c413b41abf8d",
    "published": "2026-11-24T00:04+05:00",
    "time_tashkent": "00:04",
@@ -3502,29 +4070,6 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
-  },
-  {
-   "hash": "db0fa1dfcd7e9212ad08847f85c27487",
-   "published": "2026-11-24T00:03+05:00",
-   "time_tashkent": "00:03",
-   "region": "США",
-   "type": "ofic",
-   "source": "The Washington Post",
-   "feed": "GNews/TruthSocial",
-   "paywall": false,
-   "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S.",
-   "summary": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S.&nbsp;&nbsp;The Washington Post",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlhuUEVYcUhfSzZoYm1EM3RHZ1NmdkJkZ0JqX01MZzZJbzRZdFdMVl8tV1BGWG5Ba1FwWnlwVUNUVVNiN25OQ2JPLUN3TGotNjd3UEMyVGcyc0lIVWJsWDFvN2FodTdwSnVzWnhsRXNpc3NrNHVNOGlEdGFUVVBOdHV3VGFwOVJ0eVBWSEQwaUk3QkFodnhSNWc2QmJhN3h5eGR6enBWcUxFbnVsZ0RhUDJFa25BWUQ0Vnh6NThn?oc=5",
-   "also": [
-    "BBC",
-    "Reuters"
-   ],
-   "also_links": [
-    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5",
-    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5"
-   ],
-   "sources_count": 3,
-   "confirmed": true
   },
   {
    "hash": "a961ec4de6928a26931ff7ab42a757e8",
@@ -3561,6 +4106,29 @@
    "confirmed": false
   },
   {
+   "hash": "db0fa1dfcd7e9212ad08847f85c27487",
+   "published": "2026-11-24T00:03+05:00",
+   "time_tashkent": "00:03",
+   "region": "США",
+   "type": "ofic",
+   "source": "The Washington Post",
+   "feed": "GNews/TruthSocial",
+   "paywall": false,
+   "title": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S.",
+   "summary": "Trump urges Nvidia to reinstate Jensen Huang, calling him ‘best thing’ for U.S.&nbsp;&nbsp;The Washington Post",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWlhuUEVYcUhfSzZoYm1EM3RHZ1NmdkJkZ0JqX01MZzZJbzRZdFdMVl8tV1BGWG5Ba1FwWnlwVUNUVVNiN25OQ2JPLUN3TGotNjd3UEMyVGcyc0lIVWJsWDFvN2FodTdwSnVzWnhsRXNpc3NrNHVNOGlEdGFUVVBOdHV3VGFwOVJ0eVBWSEQwaUk3QkFodnhSNWc2QmJhN3h5eGR6enBWcUxFbnVsZ0RhUDJFa25BWUQ0Vnh6NThn?oc=5",
+   "also": [
+    "BBC",
+    "Reuters"
+   ],
+   "also_links": [
+    "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5SeXJDYXotaGotTjIxUGJLUUtpcWFwbkhISVpNQ0MxYzFmRmF3ZDVfSFdtWW1XVjI3QUtjeC1qVnhhRmFmU2NmVDlhcmNURjR0VVVPcEp3?oc=5",
+    "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5"
+   ],
+   "sources_count": 3,
+   "confirmed": true
+  },
+  {
    "hash": "f34673ad47d5e98417f888a6ad806509",
    "published": "2026-11-24T00:03+05:00",
    "time_tashkent": "00:03",
@@ -3578,23 +4146,6 @@
    "confirmed": false
   },
   {
-   "hash": "aaf9b83f445d41a4db409cef7c0e6f9e",
-   "published": "2026-11-24T00:02+05:00",
-   "time_tashkent": "00:02",
-   "region": "ЕВ",
-   "type": "smi",
-   "source": "Euronews",
-   "feed": "Euronews",
-   "paywall": false,
-   "title": "Merz says it was a \"mistake\" not to admit Ukraine into NATO in 2008",
-   "summary": "German Chancellor Friedrich Merz told reporters the Russian invasion of Ukraine would likely not have happened if allies had agreed to admit Kyiv in 2008 during a summit in Bucharest.",
-   "link": "https://www.euronews.com/2026/11/23/merz-says-it-was-a-mistake-not-to-admit-ukraine-into-nato-in-2008",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": false
-  },
-  {
    "hash": "b06f5687d06c06b43946d1dee0395613",
    "published": "2026-11-24T00:02+05:00",
    "time_tashkent": "00:02",
@@ -3606,6 +4157,23 @@
    "title": "A framework for nuclear risk reduction cannot wait",
    "summary": "Shenzhen offers an opening, but sustained engagement between Washington, Moscow and Beijing must now follow",
    "link": "https://www.thehindu.com/opinion/op-ed/a-framework-for-nuclear-risk-reduction-cannot-wait/article71735816.ece",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": false
+  },
+  {
+   "hash": "aaf9b83f445d41a4db409cef7c0e6f9e",
+   "published": "2026-11-24T00:02+05:00",
+   "time_tashkent": "00:02",
+   "region": "ЕВ",
+   "type": "smi",
+   "source": "Euronews",
+   "feed": "Euronews",
+   "paywall": false,
+   "title": "Merz says it was a \"mistake\" not to admit Ukraine into NATO in 2008",
+   "summary": "German Chancellor Friedrich Merz told reporters the Russian invasion of Ukraine would likely not have happened if allies had agreed to admit Kyiv in 2008 during a summit in Bucharest.",
+   "link": "https://www.euronews.com/2026/11/23/merz-says-it-was-a-mistake-not-to-admit-ukraine-into-nato-in-2008",
    "also": [],
    "also_links": [],
    "sources_count": 1,
@@ -3711,23 +4279,6 @@
    "confirmed": true
   },
   {
-   "hash": "227df3465808eb7969b07f21c8d26fbe",
-   "published": "2026-11-24T00:00+05:00",
-   "time_tashkent": "00:00",
-   "region": "США",
-   "type": "ofic",
-   "source": "U.S. Department of State (.gov)",
-   "feed": "GNews/Власть США",
-   "paywall": false,
-   "title": "Severing the Financial Lifelines of Iran’s Shadow Banking Network",
-   "summary": "Severing the Financial Lifelines of Iran’s Shadow Banking Network&nbsp;&nbsp;U.S. Department of State (.gov)",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzNvRkJYQUtURGZOZllueWZrQ2ZGSWFZcHhjZ3prUVYteUoyZVpFd1dua3M5UmtjUFVtQjE5bzVSUnMwbkgxblFtYURrbGd0aXZzU0U5SnI0TzB6YW4tdEZfS0FEMnkxRDVTU3huUTRiQU5CbHlzYlhCTkpJNkJPYTgxbEdSQUNNZHNVMHFjZV8zakw0Sk1UNGM1a2RWYnU5cXozOHQ2RWFfWnRRTnNFNkRBQ1J4bzh3ZUROOGRQVDU0UVNrcjZF?oc=5",
-   "also": [],
-   "also_links": [],
-   "sources_count": 1,
-   "confirmed": true
-  },
-  {
    "hash": "b8e764c3297cec6d72bd4cb4924ac279",
    "published": "2026-11-24T00:00+05:00",
    "time_tashkent": "00:00",
@@ -3777,6 +4328,23 @@
    "also_links": [],
    "sources_count": 1,
    "confirmed": false
+  },
+  {
+   "hash": "227df3465808eb7969b07f21c8d26fbe",
+   "published": "2026-11-24T00:00+05:00",
+   "time_tashkent": "00:00",
+   "region": "США",
+   "type": "ofic",
+   "source": "U.S. Department of State (.gov)",
+   "feed": "GNews/Власть США",
+   "paywall": false,
+   "title": "Severing the Financial Lifelines of Iran’s Shadow Banking Network",
+   "summary": "Severing the Financial Lifelines of Iran’s Shadow Banking Network&nbsp;&nbsp;U.S. Department of State (.gov)",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPXzNvRkJYQUtURGZOZllueWZrQ2ZGSWFZcHhjZ3prUVYteUoyZVpFd1dua3M5UmtjUFVtQjE5bzVSUnMwbkgxblFtYURrbGd0aXZzU0U5SnI0TzB6YW4tdEZfS0FEMnkxRDVTU3huUTRiQU5CbHlzYlhCTkpJNkJPYTgxbEdSQUNNZHNVMHFjZV8zakw0Sk1UNGM1a2RWYnU5cXozOHQ2RWFfWnRRTnNFNkRBQ1J4bzh3ZUROOGRQVDU0UVNrcjZF?oc=5",
+   "also": [],
+   "also_links": [],
+   "sources_count": 1,
+   "confirmed": true
   }
  ]
 }
