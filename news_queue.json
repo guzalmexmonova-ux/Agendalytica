@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T11:26:32.187433+05:00",
+  "updated": "2026-11-24T11:37:47.202554+05:00",
   "items": [
     {
       "hash": "defab51a3c4bab2ed3387213cf185b29",
@@ -32,6 +32,20 @@
       "status": "new",
       "ts": "2026-11-24T10:03:30.756808+05:00",
       "age_min": 21.5,
+      "sources_count": 1
+    },
+    {
+      "hash": "6f91aefa5fdd0e6c8ee3974a735ef147",
+      "title": "Война США и Ирана после выборов 2026 : подземные ракетные города , блокада и уран",
+      "original_title": "Война США и Ирана после выборов 2026 : подземные ракетные города , блокада и уран",
+      "link": "https://vestikavkaza.ru/analytics/vojna-ssa-i-irana-posle-vyborov-2026-podzemnye-raketnye-goroda-blokada-i-uran.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 6,
+      "score_raw": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T11:31:18.532818+05:00",
+      "age_min": 76.3,
       "sources_count": 1
     },
     {
@@ -169,6 +183,21 @@
         "ABC AU Politics"
       ],
       "sources_count": 2
+    },
+    {
+      "hash": "8e7fa243cb153bb35c383535cab19bfc",
+      "title": "❗️Пентагон откладывает передачу Украине около 60 ракет для систем ПВО Patriot",
+      "original_title": "❗️Пентагон откладывает передачу Украине около 60 ракет для систем ПВО Patriot",
+      "rss_summary": "❗️Пентагон откладывает передачу Украине около 60 ракет для систем ПВО PatriotКак сообщает Financial Times со ссылкой на источники, речь идёт о ракетах-перехватчиках PAC-3 и PAC-2 американского производства, закупленных западными союзниками Киева, в том числе из европейских запасов. По данным издания, поставка задерживается из-за министра обороны США Пита Хегсета. Поскольку эти ракеты производятся в Соединённых Штатах, американские власти должны выдать разрешение на все соглашения об их экспорте ",
+      "link": "https://t.me/bbbreaking/243005",
+      "source": "TG/Bloomberg",
+      "score": 5,
+      "score_raw": 7,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T11:36:29.290758+05:00",
+      "age_min": 16.3,
+      "sources_count": 1
     },
     {
       "hash": "d2d52dec3394f1ea42d340cf035b453a",
@@ -365,38 +394,6 @@
       "sources_count": 1
     },
     {
-      "hash": "8d7f76b48bf2c683ca6ed87b094b8e69",
-      "title": "Премьер-министр Катара предупреждает, что Ближний Восток не может позволить себе еще одну эскалацию отношений между США и Ираном",
-      "original_title": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation",
-      "rss_summary": "Qatari prime minister warns Middle East can’t afford another US-Iran escalation&nbsp;&nbsp;Anadolu Ajansı",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTWdycno0MFlPOC1LSUpDYV9mTFpkRnhVdDNlcVFzUWFSclctR1VSZzhWcFZOT3lWeXpERmNaczVUOHNzMl9wWEJWTEVUdDN1RHNCWWFJa2RFanVIU1ZvekJvak1FWjhqTlRhSHlRVGZCZDdNWWYwS3FObFVrMTFRSmVsVmRPREp6bExOMERnSW8zWDRWcE4yeEtxT3ZHUXBsY3EzQmZwNzhZb05TMmhjUEtMYVhDUDNLQi01aA?oc=5",
-      "source": "Anadolu Ajansı",
-      "score": 5,
-      "score_raw": 8,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T07:34:14.579437+05:00",
-      "age_min": 10.0,
-      "sources_count": 1
-    },
-    {
-      "hash": "2c395ef80ffbb2d275012836a200bdb3",
-      "title": "Вэнс и Рубио встречаются с премьер-министром Катара, поскольку неопределенность в отношении намерений Трампа в отношении Ирана растет – Las Vegas Sun News",
-      "original_title": "Vance and Rubio meet with Qatari PM as uncertainty mounts over Trump intentions with Iran - Las Vegas Sun News",
-      "link": "https://lasvegassun.com/news/2026/nov/23/vance-and-rubio-meet-with-qatari-pm-as-uncertainty/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 5,
-      "score_raw": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T07:31:04.897266+05:00",
-      "age_min": 46.1,
-      "also": [
-        "The Hindu"
-      ],
-      "sources_count": 2
-    },
-    {
       "hash": "843ea36e6309795e584359fa1cc88c12",
       "title": "Прямой эфир: Триполи требует от Киева объяснений за нападение на российские корабли в ливийских водах",
       "original_title": "Live: Tripoli demands explanation from Kyiv for striking Russian ships in Libyan waters",
@@ -523,18 +520,62 @@
       "sources_count": 1
     },
     {
-      "hash": "8ece5f5cbfede94ec40313c35798913b",
-      "title": "Немецкие СМИ: Россия может запустить спутник с ядерным боеголовкой",
-      "original_title": "German media: Russia may launch nuclear-armed satellite",
-      "rss_summary": "German media: Russia may launch nuclear-armed satellite&nbsp;&nbsp;NHKニュース",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5LTRZcjNxSEJQblppdjhVcE5Db2ZfU2wyODhGREhKMGpRdVZBdnNIdzZWZmpzUE1xdmEybHhvV1hoVVFzY3BZXzFDeDJpcUJXdlhsanBuMkxLUlRWaEFoa2RtQQ?oc=5",
-      "source": "NHKニュース",
-      "score": 6,
-      "score_raw": 9,
-      "weight": 3,
+      "hash": "384bbe911444ae583319ea86d5ee5b06",
+      "title": "❗️Российским конькобежцам отказали в визах для участия в этапе Кубка мира в Норвегии. Об этом [...]",
+      "original_title": "❗️Российским конькобежцам отказали в визах для участия в этапе Кубка мира в Норвегии. Об этом [...]",
+      "rss_summary": "❗️Российским конькобежцам отказали в визах для участия в этапе Кубка мира в Норвегии. Об этом ТАСС сообщил президент Союза конькобежцев России Николай Гуляев.Власти Норвегии с 16 ноября ограничили въезд в страну российским и белорусским атлетам.",
+      "link": "https://t.me/bbbreaking/243006",
+      "source": "TG/Bloomberg",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-11-24T07:34:32.676660+05:00",
-      "age_min": 22.2,
+      "ts": "2026-11-24T11:36:29.288882+05:00",
+      "age_min": 5.9,
+      "sources_count": 1
+    },
+    {
+      "hash": "ef6c1a20d68b33ede2432974ced3f7d3",
+      "title": "«NGL, это довольно забавно»: сын Дональда Трампа Дон-младший просит критиков «расслабиться» из-за неуместного фото папы с искусственным интеллектом Дженсена Хуанга на митинге Батлера — primetimer.com",
+      "original_title": "“NGL this is pretty funny”: Donald Trump’s son Don Jr asks critics to “relax” over dad’s inappropriate AI Jensen Huang photo at Butler rally - primetimer.com",
+      "rss_summary": "“NGL this is pretty funny”: Donald Trump’s son Don Jr asks critics to “relax” over dad’s inappropriate AI Jensen Huang photo at Butler rally&nbsp;&nbsp;primetimer.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYTl0aW1sbHIyS0k5ZHFvYVJqa29oa3ZqRTM5V2RLMUo5ZlhJYnQwREVFV3FPZHdpZzlzbDZIQVpydzkyZ3M4WjVHQjRRWGpLdjl1cDNFakhZTWVPWEF4Q1BaaUtITjF1amxha2p1Nk5ZdTJJMG5Vbk12Ymd4SF94WGRDeHlZOFpSNXBiUWwtRmVvaUpMQVRyZmZLNHUtZE16cEV2bmlianJDSlVGNUVmZHcyN1JtaTMyLXRPcGcwSGZlc3JPR1pzbWh0VkJoRDR1akw1UkF2YlJ5ekw4d1FDaTNQa1FQSlh0eDlKbWJJWDVhLWdyMWVJakVFWQ?oc=5",
+      "source": "GNews/TruthSocial",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T11:33:50.971780+05:00",
+      "age_min": 22.8,
+      "sources_count": 1
+    },
+    {
+      "hash": "bf0691f059bfc96199da2de5e5932220",
+      "title": "Дональд Трамп перечисляет свои победы в правдивом социальном посте, включая «рекордные депортации», «самый быстрый рост заработной платы» и «перебалансировку глобальной торговли».",
+      "original_title": "Donald Trump Lists Down His Wins in a Truth Social Post, Includes “Record Deportations”, “Fastest Wage Growth”, and “Rebalanced Global Trade”",
+      "rss_summary": "Donald Trump Lists Down His Wins in a Truth Social Post, Includes “Record Deportations”, “Fastest Wage Growth”, and “Rebalanced Global Trade”&nbsp;&nbsp;NewsBreak: Local News & Alerts",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNa0NJOGtWVWw2dFBoQ3c3SVltT0JmOHhZeXdTMEd0OGhvQTVlNFFKNUZFTTNVUXdvS0oxdjVuUk9memVlSThFZmR5djRsMV9xaXpBektzRGFETzluVklHV19jT2kxNW1NUi1OQktOc2F0TnBJQUtiRlRJZkFkdG41UmtLaGdFTE9QTGFGUVUteS1SbHNzRExzSnU5RUdIMy1odm9oQi11cElHU3lnSjlaU1BSUEtOeWhrMFI1OENJckxWUVg0aW1HaUxZVlBUS3MtWld1TlNRTG83MjZtckRIbFJnc05ZRllSSGNKYkhlSjMtY0U4c0Y1ZjVzaUdRTmRVQUk1RXVfYjRsdE9uVWZvZ08waXBaZkRBdkFfdjZCZWNzeVk?oc=5",
+      "source": "NewsBreak: Local News & Alerts",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T11:33:50.964755+05:00",
+      "age_min": 63.0,
+      "sources_count": 1
+    },
+    {
+      "hash": "a9f481b587d8dd48226229cb45baa750",
+      "title": "Катар пытается добиться возобновления переговоров между США и Ираном",
+      "original_title": "Катар пытается добиться возобновления переговоров между США и Ираном",
+      "link": "https://vestikavkaza.ru/news/katar-pytaetsa-dobitsa-vozobnovlenia-peregovorov-mezdu-ssa-i-iranom.html",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T11:31:18.564725+05:00",
+      "age_min": 76.3,
       "sources_count": 1
     },
     {
@@ -580,6 +621,36 @@
       "status": "new",
       "ts": "2026-11-24T10:35:21.536823+05:00",
       "age_min": 27.4,
+      "sources_count": 1
+    },
+    {
+      "hash": "a79cbf308a80c7eb5b9f194c45ef0e4c",
+      "title": "Мир недооценивает риск новой войны в Иране",
+      "original_title": "The World Is Underpricing the Risk of More War in Iran",
+      "rss_summary": "The World Is Underpricing the Risk of More War in Iran&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTDlDRW0teFE3cHprZUY1clo0bjRCck5QZUJNY3hERFpsS1ZBWEJhRnV5ZWUxb1NYQzhVcWtDalBuV0ZzVDRvM193MG80bkRWUG1SWmVnRGVaQ1pCeGtUT2JkMWtram03WGhoWlQwRlBjbXNIa2JMTTE5YVdNUTRTWnRRbG0tZ0RqTDRWOFpyWnYtTmVZUTQ5Z1pkOGg?oc=5",
+      "source": "Bloomberg.com",
+      "score": 5,
+      "score_raw": 8,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-24T11:33:59.230367+05:00",
+      "age_min": 94.0,
+      "sources_count": 1
+    },
+    {
+      "hash": "43b021566f6eb749dd3b73cfd242f089",
+      "title": "Информаторы о спорте защищены предлагаемыми законами на фоне саги о фальсификации австралийского мяча для крикета",
+      "original_title": "Sports whistleblowers protected under proposed laws amid Australian cricket ball tampering saga",
+      "rss_summary": "Amendments to government bill by Coalition and Greens would establish protections for those reporting wrongdoing in sportWhistleblowers coming forward to report corruption or misconduct in sports would be protected under draft laws put forward by the Coalition and the Greens, in response to the fallout of the Australian cricket ball tampering scandal.The South Africa tour of 2018 is back in the national spotlight after the release of Usman Khawaja’s autobiography earlier this month, in which he ",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
+      "source": "Guardian",
+      "score": 5,
+      "score_raw": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-24T11:33:33.408653+05:00",
+      "age_min": 13.4,
       "sources_count": 1
     },
     {
@@ -685,84 +756,6 @@
       "status": "new",
       "ts": "2026-11-24T11:06:00.256462+05:00",
       "age_min": 6.5,
-      "sources_count": 1
-    },
-    {
-      "hash": "ffb617c51c4d11b9fc9627d2d4f3e2be",
-      "title": "Высокопоставленный чиновник Северной Кореи посетил посольство Китая и рассказал о прогрессе в двусторонних отношениях",
-      "original_title": "Senior N. Korean official visits Chinese Embassy, touts progress in bilateral ties",
-      "rss_summary": "SEOUL/BEIJING, Nov. 24 (Yonhap) -- A senior North Korean official has held talks...",
-      "link": "https://en.yna.co.kr/view/AEN20261124005900315",
-      "source": "Yonhap",
-      "score": 4,
-      "score_raw": 4,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-24T11:05:48.904549+05:00",
-      "age_min": 16.3,
-      "sources_count": 1
-    },
-    {
-      "hash": "5c1fdd0a3d205d2f8352535e39490af2",
-      "title": "Университетам грозит расплата после соглашения Бёрнема с ЕС",
-      "original_title": "Universities face a reckoning after Burnham’s EU deal",
-      "rss_summary": "Universities face a reckoning after Burnham’s EU deal&nbsp;&nbsp;The Telegraph",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOUhnUEFqbDRBbno5QXY3QllhUDhnOXpwMmx1VEo5Q2pYVU54RXZRVzhkVXhBNTduX2tzWTMyY1NDb0wydzJfWUxJNGhTdmg5eDQ4QlNqcTJOWVZrM2VXYWtQeGpsRE9kNVRKWVRoZzRjd0J5R0p2YnVWSDNMMjNmclI5ZkNZVlNNRVlBUXIwM05PdnE5SU9hQ2UtaUhuZDY0ZXI0Yg?oc=5",
-      "source": "The Telegraph",
-      "score": 4,
-      "score_raw": 4,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-24T11:05:45.887238+05:00",
-      "age_min": 5.8,
-      "sources_count": 1
-    },
-    {
-      "hash": "ef097d70190a89aea00afe448f99357e",
-      "title": "РБА может начать снижение ставок к июню из-за ухудшения экономики",
-      "original_title": "RBA could start rate cuts by June as economy deteriorates",
-      "rss_summary": "One of the country’s biggest lenders says the RBA could reduce rates early to protect an economy that is rapidly weakening.",
-      "link": "https://www.smh.com.au/politics/federal/rba-could-start-rate-cuts-by-june-as-economy-deteriorates-20261124-p61grs.html?ref=rss&utm_medium=rss&utm_source=rss_politics_federal",
-      "source": "SMH Politics",
-      "score": 4,
-      "score_raw": 7,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-24T11:05:23.642414+05:00",
-      "age_min": 4.0,
-      "also": [
-        "The Age"
-      ],
-      "sources_count": 2
-    },
-    {
-      "hash": "0dfc250a9d774f6162f30dc68cde154b",
-      "title": "Начинаются военные учения с участием США и Филиппин",
-      "original_title": "Military drills involving US, Philippines begin",
-      "rss_summary": "Military drills involving US, Philippines begin&nbsp;&nbsp;Yeni Safak English",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFl6ZHBrVTJRNnIzbHlPSjFycXBKQzNYWDNVdGloYUY2X2FUd0ZQQ2JjN2xUSjFIQnI0YV9Ec0FOd05JY3NveHNYWVQwQkozYlFsS2wtNC1iRUhvbi15S0Q0RldHaFpBbkk2YVZ2X2NuYUYwOXJmU3BjcGtRSzFtYVk3dEVFbkVHVUFVNEhn?oc=5",
-      "source": "Yeni Safak English",
-      "score": 3,
-      "score_raw": 5,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T11:05:22.334872+05:00",
-      "age_min": 86.9,
-      "sources_count": 1
-    },
-    {
-      "hash": "5ab7a9e1cab62723586b62c2a4fe7b3f",
-      "title": "Анвар из Малайзии отвергает утверждения, что он «слишком прокитайский»",
-      "original_title": "Malaysia’s Anwar rejects claims he is ‘too pro-Chinese’",
-      "rss_summary": "Malaysian Prime Minister Anwar Ibrahim has pushed back against claims that he is “too pro-Chinese” and said he was confident of winning back Malay voters after his party failed to win a single seat in the Melaka state election, the third state defeat for his coalition this year.\n“To me, Malays and Chinese are my people,” Anwar said in an interview with the South China Morning Post, conceding that while his government’s policies had benefited the country, the effects might not have been evenly...",
-      "link": "https://www.scmp.com/week-asia/people/article/3375435/malaysias-anwar-rejects-claims-he-too-pro-chinese",
-      "source": "SCMP",
-      "score": 4,
-      "score_raw": 6,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-24T11:04:39.851871+05:00",
-      "age_min": 4.6,
       "sources_count": 1
     }
   ]
