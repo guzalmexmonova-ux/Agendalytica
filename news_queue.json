@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T13:53:42.020977+05:00",
+  "updated": "2026-11-24T14:09:10.584194+05:00",
   "items": [
     {
       "hash": "dadf5139a03537e8b3b6fa3d839816e0",
@@ -16,6 +16,23 @@
       "age_min": 25.0,
       "also": [
         "GNews/СМИ Ближнего Востока 2"
+      ],
+      "sources_count": 2
+    },
+    {
+      "hash": "9cd0deba49c04f57d6126a99b54b0339",
+      "title": "Спикер иранского парламента заявил, что США не стремятся ни к войне, ни к мирному тупику с Ираном, и призывает к сдерживанию",
+      "original_title": "Iranian parliament speaker says US seeks  no war , no peace  stalemate with Iran , calls for deterrence",
+      "link": "https://tribune.com.pk/story/2642021/iranian-parliament-speaker-says-us-seeks-no-war-no-peace-stalemate-with-iran-calls-for-deterrence",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 7,
+      "score_raw": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T14:02:46.988614+05:00",
+      "age_min": 107.8,
+      "also": [
+        "Dawn"
       ],
       "sources_count": 2
     },
@@ -39,18 +56,47 @@
       "sources_count": 3
     },
     {
-      "hash": "342a35a90614694303e5c876b2e07bad",
-      "title": "Обстрел Эфиопией города Тыграй должен быть расследован как возможное военное преступление, заявляет Amnesty",
-      "original_title": "Ethiopian shelling of Tigray town should be investigated as possible war crimes, Amnesty says",
-      "rss_summary": "Ethiopian shelling of Tigray town should be investigated as possible war crimes, Amnesty says&nbsp;&nbsp;Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVBhcThUYl9UZXJzYTB5RFdDREtzVGs2VUJ5OG9DRjNOTGJMbUFXdzdYT0tBT1JncFVwQ25sNzlvZTR3ck93UW5rMWswRHNBbUNsczN0aS14SUtXQi1uT1ctZE1BTVYwY2xWLWZSTGN4NFBHRXJTS3hWUEhvUWR3cDg2V1FnQXFmX1I1Nkc3TW5uWHN1WGtQTDBTbzhEbjRDZFAwNjMxWDdTaG93ZjIxUmFEUDdoMFZlVHc?oc=5",
-      "source": "Reuters",
-      "score": 5,
-      "score_raw": 10,
-      "weight": 5,
+      "hash": "a5736ce82c7b648e747a36642ccf9f41",
+      "title": "Sea Hawk Focus - Военное министерство США (.gov)",
+      "original_title": "Sea Hawk Focus - U.S. Department of War (.gov)",
+      "rss_summary": "Sea Hawk Focus&nbsp;&nbsp;U.S. Department of War (.gov)",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5nUlpqNmdPeTZhdXVqVDlUTHJoVE5TUEduWnR0NWY0bnNzT2dGRWhTdGZQX1R3c3J3ZWxXVE42WHQ3SkhEX0Z1MXhYT2Z6Um5BaWJFbHBQYlhaX0FVSm81cXRYbGtuNFFI?oc=5",
+      "source": "GNews/Власть США",
+      "score": 6,
+      "score_raw": 9,
+      "weight": 4,
       "status": "new",
-      "ts": "2026-11-24T10:03:30.756808+05:00",
-      "age_min": 21.5,
+      "ts": "2026-11-24T14:05:22.362610+05:00",
+      "age_min": 100.7,
+      "sources_count": 1
+    },
+    {
+      "hash": "c4fee5fe152fe91aeb2c616433b94764",
+      "title": "Трамп говорит, что Дженсен Хуанг «не сделал ничего плохого». Расследование не закончено",
+      "original_title": "Trump says Jensen Huang 'did nothing wrong.' The investigations aren't over",
+      "rss_summary": "U.S. President Donald Trump's extraordinary intervention to get Jensen Huang reinstated as Nvidia CEO does little to shut down many pressing questions about a scandal that has rocked both Washington and the stock markets.",
+      "link": "https://www.cbc.ca/news/world/trump-jensen-huang-nvidia-china-9.7433543?cmp=rss",
+      "source": "CBC World",
+      "score": 6,
+      "score_raw": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T14:04:59.027184+05:00",
+      "age_min": 5.0,
+      "sources_count": 1
+    },
+    {
+      "hash": "b053d208c8176e72523a1e3e304ef916",
+      "title": "Ядерна зброя Росії в космосі - Рютте заявив про готовність захищати НАТО",
+      "original_title": "Ядерна зброя Росії в космосі - Рютте заявив про готовність захищати НАТО",
+      "link": "https://24tv.ua/yaderna-zbroya-rosiyi-kosmosi-ryutte-zayaviv-pro-gotovnist-zahishhati_n3213268",
+      "source": "GDELT/GEOPOLITICS",
+      "score": 6,
+      "score_raw": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T14:02:46.990025+05:00",
+      "age_min": 107.8,
       "sources_count": 1
     },
     {
@@ -171,20 +217,6 @@
       "sources_count": 1
     },
     {
-      "hash": "a61f34731cf5568679107c91922ace36",
-      "title": "Предательство наших войск, поддержка врагов: двухпартийные законодатели требуют, чтобы Трамп отозвал приглашение Путина в G20 из-за войны на Украине и Ирана, сообщает разведка",
-      "original_title": "Betrayal of our troops , support of enemies : Bipartisan lawmakers demand Trump revoke Putin G20 invite over Ukraine war and Iran intel reports",
-      "link": "http://www.bignewsnetwork.com/news/279451415/betrayal-of-our-troops-support-of-enemies-bipartisan-lawmakers-demand-trump-revoke-putin-g20-invite-over-ukraine-war-and-iran-intel-reports",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 6,
-      "score_raw": 10,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T10:01:15.431967+05:00",
-      "age_min": 31.3,
-      "sources_count": 1
-    },
-    {
       "hash": "3526fd8b2bf2b0e2d7923ee75f14e41a",
       "title": "США внесли Megaspeed в черный список после шпионского скандала с Nvidia",
       "original_title": "US Blacklists Megaspeed After Nvidia Spying Scandal",
@@ -197,6 +229,21 @@
       "status": "new",
       "ts": "2026-11-24T13:18:29.018345+05:00",
       "age_min": 117.4,
+      "sources_count": 1
+    },
+    {
+      "hash": "95347add88c6a26da786a22cb343c4e8",
+      "title": "«Брексит означает Брексит» больше не существует? Почему Великобритания теперь хочет более тесных связей с ЕС",
+      "original_title": "'Brexit means Brexit' no more? Why the U.K. now wants closer ties with the EU",
+      "rss_summary": "Brexit might not have meant Brexit after all. At least, the door to a \"Breturn,\" as they’re already calling it here, has been nudged open a crack or two by Britain’s Labour Prime Minister Andy Burnham.",
+      "link": "https://www.cbc.ca/news/world/brexit-breturn-andy-burnham-uk-eu-ties-9.7433260?cmp=rss",
+      "source": "CBC World",
+      "score": 5,
+      "score_raw": 8,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-24T14:04:59.028924+05:00",
+      "age_min": 5.0,
       "sources_count": 1
     },
     {
@@ -498,18 +545,33 @@
       "sources_count": 1
     },
     {
-      "hash": "2d425091b98447d36747e97c0d4523ca",
-      "title": "Сингапур и Китай углубляют связи с юанем, уделяя особое внимание корпоративному сектору",
-      "original_title": "Singapore, China to Deepen Yuan Ties With Focus on Corporates",
-      "rss_summary": "The central banks of Singapore and China agreed to expand a yuan liquidity facility in the city-state to help finance a broader range of corporate activities, marking another step in efforts to promote the currency’s international use.",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-24/singapore-china-to-deepen-yuan-ties-with-focus-on-corporates",
-      "source": "Bloomberg",
-      "score": 5,
-      "score_raw": 8,
-      "weight": 4,
+      "hash": "1297e6380130e24f7875eb017ea199a8",
+      "title": "Россия «планирует запустить» спутник с ядерным оружием",
+      "original_title": "Russia ‘planning to launch’ nuclear-armed satellite",
+      "rss_summary": "Russia ‘planning to launch’ nuclear-armed satellite&nbsp;&nbsp;The Telegraph",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUWFvcHJGa2wzYkhsekU5anIzSlZETXp5aC10eEJhZnhSWTBhNjY2YlJpeE43SDlHUHI3amkySzhaZnlGaFpGdkJxdmtza2doVE1tSDVIRlBOdVhLa09mck9OQ1ozbEpTTEl4SUY4UTU2SXhpNXNCRXcwdUVhcWRsRlA2TFlQQXZISlB1dEtGY1RQaDRZSVFWTUdsbGVmOFJzTmFlbGRTcjRwQQ?oc=5",
+      "source": "The Telegraph",
+      "score": 6,
+      "score_raw": 9,
+      "weight": 3,
       "status": "new",
-      "ts": "2026-11-24T10:03:06.838948+05:00",
-      "age_min": 12.2,
+      "ts": "2026-11-24T14:05:08.326140+05:00",
+      "age_min": 7.1,
+      "sources_count": 1
+    },
+    {
+      "hash": "ea6907ebfba1df50f4988f20264d5402",
+      "title": "Обозначение американской ядерной бомбы B94 сигнализирует о возобновлении усилий по созданию оружия для разрушения бункеров",
+      "original_title": "US B94 nuclear bomb designation signals renewed push for bunker-busting weapons",
+      "rss_summary": "A new nuclear bomb designation buried in a US Senate budget document suggests Washington may be pursuing a weapon to destroy targets deep underground.\nThe B94 designation surfaced on November 12 in an explanatory statement accompanying the US Senate Appropriations Committee’s draft energy and water funding bill for the 2027 financial year.\nListed under the National Nuclear Security Administration’s (NNSA) stockpile modernisation programme, the entry recommends US$77.1 million for the B94,...",
+      "link": "https://www.scmp.com/news/china/military/article/3375597/us-b94-nuclear-bomb-designation-signals-renewed-push-bunker-busting-weapons",
+      "source": "SCMP",
+      "score": 6,
+      "score_raw": 10,
+      "weight": 3,
+      "status": "new",
+      "ts": "2026-11-24T14:04:28.755212+05:00",
+      "age_min": 4.3,
       "sources_count": 1
     },
     {
@@ -690,66 +752,6 @@
       "status": "new",
       "ts": "2026-11-24T11:05:47.461298+05:00",
       "age_min": 3.6,
-      "sources_count": 1
-    },
-    {
-      "hash": "a17e330a298f2ba27485f721144aa6bf",
-      "title": "Российская атака нанесла ущерб бизнесу и энергетическому объекту в Виннице, четыре человека получили ранения",
-      "original_title": "Russian attack damages business, energy facility in Vinnytsia, injuring four",
-      "rss_summary": "Russian attack damages business, energy facility in Vinnytsia, injuring four&nbsp;&nbsp;Ukrinform",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ0FES2hkMGYtV3hzSGVCWlVQMVQ2RmVrUFdoYVVFQWNQRllnZ0RLN0FSRTRHS2paT01qRTB0OUh2UUh4VE42dWRmclZEM3BqNnhKUFV4bnhwRThla3dFaHp3WjhDakZjZG1obUJwQmVQaWZzVDZKVDg3b1UzVGF1OVZVbWV2LThKb3ZCWkVRZ2V6S3htTU9scnRZRUhmeHQ1R1FTR0oxNl9iWEpiZkhQdnpzZVl2dVliZlVXS0E4SFpHaVRZcTQ00gHHAUFVX3lxTE5nQURLaGQwZi1XeHNIZUJaVVAxVDZGZWtQV2hhVUVBY1BGWWdnREs3QVJFNEdLalpPTWpFMHQ5SHZRSHhUTjZ1ZGZyVkQzcGo2eEpQVXhueHBFOGVrd0VoendaOENqRmNkbWhtQnBCZVBpZnNUNkpUODdvVTNUYXU5VlVtZXYtOEpvdkJaRVFnZXpLeG1NT2xydFlFSGZ4dDVHUVNHSjE2X2JYSmJmSFB2enNlWXZ1WWJmVVdLQThIWkdpVFlxNDQ?oc=5",
-      "source": "Ukrinform",
-      "score": 4,
-      "score_raw": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T13:50:08.540236+05:00",
-      "age_min": 76.1,
-      "sources_count": 1
-    },
-    {
-      "hash": "0154dc78a186395de852a6d9eee5ab54",
-      "title": "Специальный Европейский совет от 26-27 ноября 2026 г. - Письмо-приглашение президента Антониу Косты членам Европейского совета",
-      "original_title": "Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council",
-      "rss_summary": "Special European Council of 26-27 November 2026 - Invitation letter by President António Costa to the members of the European Council&nbsp;&nbsp;Council, European Union",
-      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNRGlNclI2alRScjF4X2ZOdFVyT21wQk1sYklTMmFhQzdfWFEzSEo5VGRPZTFjb1NYal9OVEJWazJxd3NGTTdHWjhQZG1lNF9MU1JFNVVSLUI2UWdqY1ZoYjZQVVdkUDhRcHJ4WFVkajEzTEczNnhrbFVDX2hReEFfWnM1Vk9weFdrcHl6WFJPcVRhb2s3cjN1QW1QSDBrYmJ4QnFBLUhlYUtUOHlETUNYVEt0Rm40QVZvUzA5RUFVaGt6ZmU5R3Q1akxIOEZXVFFYNW5Ic01hbFViVHI5TWpRS0dUZk5HRzhGWVZoVXdZWW1abkk4aFA3LXZDdkVyXzBCc0FHLURnMEdfZGxwd2F6LUZOZEJVUVZKcHJOSURGZmVIN3RCeUE?oc=5",
-      "source": "Council, European Union",
-      "score": 4,
-      "score_raw": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T13:50:02.639666+05:00",
-      "age_min": 50.5,
-      "sources_count": 1
-    },
-    {
-      "hash": "6be4c22c4366198d735f0092c8b75cf6",
-      "title": "❗️Еврокомиссия (ЕК) в 22-м пакете санкций предложила ужесточить условия выдачи виз туристам из РФ:",
-      "original_title": "❗️Еврокомиссия (ЕК) в 22-м пакете санкций предложила ужесточить условия выдачи виз туристам из РФ:",
-      "rss_summary": "❗️Еврокомиссия (ЕК) в 22-м пакете санкций предложила ужесточить условия выдачи виз туристам из РФ:📍Странам — членам сообщества рекомендуется не принимать российские паспорта без биометрических данных;📍На границах ЕС должна проводиться «тщательная индивидуальная проверка всех российских граждан»;📍Предписывается проводить собеседования и систематическую проверку отпечатков пальцев по пограничной базе.",
-      "link": "https://t.me/bbbreaking/243018",
-      "source": "TG/Bloomberg",
-      "score": 4,
-      "score_raw": 6,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T13:37:22.101923+05:00",
-      "age_min": 17.1,
-      "sources_count": 1
-    },
-    {
-      "hash": "4defd2e4d35d96ecd5fa738645085a27",
-      "title": "Министр внутренних дел Армении встретился с послами стран-членов ЕС",
-      "original_title": "Armenian interior minister meets ambassadors of EU member states",
-      "rss_summary": "Armenian interior minister meets ambassadors of EU member states&nbsp;&nbsp;Armenpress",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5QQmI2X0xnMTlFNTZBbXRaYkZrWjRLeDBMTUw3RFA5cUUyS0dZclQ2bWpZWDRBRThpNl9uSlBibk95aGJlZW9wOG1ZUjNKbVBhU3fSAVdBVV95cUxNMUNrckRkM0ZPb3lJZ3JHSkl1eGFLWXktcTBaYkUyN0tBWDVXazFHaWxYRjY2RW9RMjBRN1JBWGQzcERxWWFjcV93a3JuSUNqOXYzb1Y0Skk?oc=5",
-      "source": "Armenpress",
-      "score": 4,
-      "score_raw": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-24T13:35:25.652991+05:00",
-      "age_min": 100.4,
       "sources_count": 1
     }
   ]
