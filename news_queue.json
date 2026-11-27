@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T08:38:01.891648+05:00",
+  "updated": "2026-11-27T08:52:28.953836+05:00",
   "items": [
     {
       "hash": "22e6baffd4dc50f9e39ca1d7ce9e197b",
@@ -218,6 +218,21 @@
       "status": "new",
       "ts": "2026-11-27T05:17:34.985952+05:00",
       "age_min": 17.8,
+      "sources_count": 1
+    },
+    {
+      "hash": "fc1c61d7dcf11d47aeafc263712ceb9e",
+      "title": "Для матери, потерявшей двух сыновей, суд над Дутерте — подарок на день рождения",
+      "original_title": "For a mother who lost 2 sons, Duterte’s ICC trial is a birthday gift",
+      "rss_summary": "'My only wish is not just justice for my children, but for all those killed during the time of Rodrigo Duterte. I hope the killings stop for the next generation,' says Llore Pasco who lost her two sons to the bloody drug war",
+      "link": "https://www.rappler.com/philippines/mother-llore-pasco-lost-sons-duterte-drug-war-icc-trial-birthday-gift/",
+      "source": "Rappler",
+      "score": 5,
+      "score_raw": 10,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-27T08:48:49.544429+05:00",
+      "age_min": 12.2,
       "sources_count": 1
     },
     {
@@ -484,6 +499,34 @@
       "sources_count": 1
     },
     {
+      "hash": "8dd1051722c766b84683e4afb89c5508",
+      "title": "Трамп : сохранение России в G8 могло бы предотвратить конфликт на Украине",
+      "original_title": "Трамп : сохранение России в G8 могло бы предотвратить конфликт на Украине",
+      "link": "https://www.vesti.ru/ns/tramp-sokhranenie-rossii-v-g8-moglo-by-predotvratit-konflikt-na-ukraine",
+      "source": "GDELT/HOTSPOTS",
+      "score": 4,
+      "score_raw": 4,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-27T08:46:33.054024+05:00",
+      "age_min": 76.6,
+      "sources_count": 1
+    },
+    {
+      "hash": "e0e2e81465056c84c0f1bc17ec9f1d8a",
+      "title": "Ядерний арсенал Путіна що сталося із шістьма суперзброями , якими він хвалився Зброя",
+      "original_title": "Ядерний арсенал Путіна що сталося із шістьма суперзброями , якими він хвалився Зброя",
+      "link": "https://tsn.ua/zbroya/putin-khvalyvsia-neperemoznoiu-iadernoiu-zbroyeiu-ale-suputnyky-pokazaly-zovsim-inshu-kartynu-3228143.html",
+      "source": "GDELT/HOTSPOTS",
+      "score": 4,
+      "score_raw": 9,
+      "weight": 4,
+      "status": "new",
+      "ts": "2026-11-27T08:46:33.040908+05:00",
+      "age_min": 91.6,
+      "sources_count": 1
+    },
+    {
       "hash": "7640a494c53153f27c12ef36baa77799",
       "title": "Трамп преуменьшает важность обмена российской и китайской разведданными с Ираном",
       "original_title": "Trump downplays Russian, Chinese intelligence sharing with Iran",
@@ -716,49 +759,6 @@
       "ts": "2026-11-27T06:02:19.524350+05:00",
       "age_min": -1362.7,
       "also": [],
-      "sources_count": 1
-    },
-    {
-      "hash": "311c7ab3c04302d295c4ff5b7ebe2736",
-      "title": "« Не позвольте конфликту расползтись »: Германия одернула Киев , а Москва предупредила о боли для НАТО",
-      "original_title": "« Не позвольте конфликту расползтись »: Германия одернула Киев , а Москва предупредила о боли для НАТО",
-      "link": "https://runews24.ru/politics/27/11/2026/ne-pozvolte-konfliktu-raspolztis-germaniya-odernula-kiev-a-moskva-predupredila-o-boli-dlya-nato",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 4,
-      "score_raw": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-27T06:01:24.276266+05:00",
-      "age_min": -1303.6,
-      "sources_count": 1
-    },
-    {
-      "hash": "1bb09f8bc4bcbcfb748eb3afc698c029",
-      "title": "Ким Чен Ын прекращает военную помощь Путину из-за поддержки Южной Кореи",
-      "original_title": "Kim Jong - un cuts off military aid to Putin over  support  for South Korea",
-      "link": "https://www.nzherald.co.nz/world/kim-jong-un-cuts-off-military-aid-to-putin-over-support-for-south-korea/HODCUBJLTREVZNIZID2HIBZNWI/",
-      "source": "GDELT/GEOPOLITICS",
-      "score": 4,
-      "score_raw": 4,
-      "weight": 4,
-      "status": "new",
-      "ts": "2026-11-27T06:01:24.270063+05:00",
-      "age_min": 46.4,
-      "sources_count": 1
-    },
-    {
-      "hash": "9501e030ca97491d2b21003cc7d0b97f",
-      "title": "Австралия ввела санкции против двух человек за антисемитские нападения, которые, по ее словам, были связаны с Ираном",
-      "original_title": "Australia sanctions two people over antisemitic attacks it says were linked to Iran",
-      "rss_summary": "Australia sanctions two people over antisemitic attacks it says were linked to Iran&nbsp;&nbsp;The Times of Israel",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGh2cUNpdW1OYTZuQVRvelZiSXljRllHZWswbFdubmlmbkd2ZmNzeXRqTV8zWXd0X1c1Wm5HVDFfQXpGV2VuUDlFZ2tCMFZ6OWdIY2ppaXpQcDVrRnNmdnQtdXpOMzZFdTFtajRqOURvZ0dLTDVLRWtHZ1RKMzFFTi1ybzhnaWFITi1tMUVXVFhGcEVlNjlFWUZTRXNEQm1lQk1majR6eHlkRnBtb3BnNUtrek9KZFpJZUJoVVV3RW5zRUN2ZV9EUw?oc=5",
-      "source": "The Times of Israel",
-      "score": 5,
-      "score_raw": 5,
-      "weight": 3,
-      "status": "new",
-      "ts": "2026-11-27T08:34:51.828461+05:00",
-      "age_min": 9.0,
       "sources_count": 1
     }
   ]
